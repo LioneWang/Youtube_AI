@@ -1,110 +1,105 @@
 import json
 import torch
-from torch import nn
-from transformers import BertTokenizer, Trainer, TrainingArguments
-from datasets import Dataset
+import numpy as np
+from transformers import BertTokenizer, BertForSequenceClassification, Trainer, TrainingArguments
+from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
+import pickle
+import os
 
-class MultiTaskModel(nn.Module):
-    def __init__(self, bert_model_name, num_labels):
-        super(MultiTaskModel, self).__init__()
-        self.bert = BertModel.from_pretrained(bert_model_name)
-        self.classifier = nn.Linear(self.bert.config.hidden_size, num_labels)
-        self.regressor = nn.Linear(self.bert.config.hidden_size, 2)
+def preprocess_data(data_path):
+    with open(data_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-    def forward(self, input_ids, attention_mask=None, token_type_ids=None, labels=None, start_end_labels=None):
-        outputs = self.bert(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
-        pooled_output = outputs[1]
-        logits = self.classifier(pooled_output)
-        regressions = self.regressor(pooled_output)
+    texts = []
+    combined_labels = []
 
-        loss = None
-        if labels is not None and start_end_labels is not None:
-            loss_fct = nn.CrossEntropyLoss()
-            regression_loss_fct = nn.MSELoss()
-            loss = loss_fct(logits, labels) + regression_loss_fct(regressions, start_end_labels)
-        return logits, regressions, loss
-
-def encode_labels(data, video_ids):
-    le = LabelEncoder()
-    le.fit(video_ids)
     for item in data:
-        item['video_label'] = le.transform([item['video_id']])[0]
-    return data, le
+        video_id = item['video_id']
+        start_time = item['start_time']
+        end_time = item['end_time']
+        combined_label = f"{video_id}_{start_time}_{end_time}"
+        texts.append(item['text'])
+        combined_labels.append(combined_label)
 
-def create_datasets(data):
-    texts = [item['text'] for item in data]
-    video_labels = [item['video_label'] for item in data]
-    start_times = [item['start_time'] for item in data]
-    end_times = [item['end_time'] for item in data]
+    label_encoder = LabelEncoder()
+    labels = label_encoder.fit_transform(combined_labels)
 
-    dataset = Dataset.from_dict({
-        'text': texts,
-        'video_label': video_labels,
-        'start_time': start_times,
-        'end_time': end_times
-    })
-    return dataset
+    return texts, labels, label_encoder
 
-def tokenize_function(examples, tokenizer):
-    return tokenizer(examples['text'], padding='max_length', truncation=True)
+def save_label_encoder(label_encoder, filepath):
+    with open(filepath, 'wb') as f:
+        pickle.dump(label_encoder, f)
 
-def train_model(train_dataset, num_labels, model_dir, tokenizer_name):
+def train_model(train_texts, train_labels, val_texts, val_labels, model_dir, tokenizer_name, num_labels):
     tokenizer = BertTokenizer.from_pretrained(tokenizer_name)
-    model = MultiTaskModel(tokenizer_name, num_labels)
+    model = BertForSequenceClassification.from_pretrained(tokenizer_name, num_labels=num_labels)
 
-    def compute_metrics(pred):
-        labels = pred.label_ids['video_label']
-        preds = pred.predictions[0].argmax(-1)
-        video_accuracy = accuracy_score(labels, preds)
+    train_encodings = tokenizer(train_texts, truncation=True, padding=True, max_length=512)
+    val_encodings = tokenizer(val_texts, truncation=True, padding=True, max_length=512)
 
-        start_end_labels = pred.label_ids['start_end_labels']
-        start_end_preds = pred.predictions[1]
-        mse = mean_squared_error(start_end_labels, start_end_preds)
+    class TextDataset(torch.utils.data.Dataset):
+        def __init__(self, encodings, labels):
+            self.encodings = encodings
+            self.labels = labels
 
-        return {
-            'video_accuracy': video_accuracy,
-            'start_end_mse': mse
-        }
+        def __getitem__(self, idx):
+            item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
+            item['labels'] = torch.tensor(self.labels[idx])
+            return item
 
-    tokenized_dataset = train_dataset.map(lambda x: tokenize_function(x, tokenizer), batched=True)
-    tokenized_dataset.set_format(type='torch', columns=['input_ids', 'attention_mask', 'video_label', 'start_time', 'end_time'])
+        def __len__(self):
+            return len(self.labels)
+
+    train_dataset = TextDataset(train_encodings, train_labels)
+    val_dataset = TextDataset(val_encodings, val_labels)
+
+
+
 
     training_args = TrainingArguments(
         output_dir=model_dir,
         num_train_epochs=3,
         per_device_train_batch_size=8,
-        save_steps=10_000,
-        save_total_limit=2,
-        evaluation_strategy="epoch",
-        logging_dir='./logs',
+        per_device_eval_batch_size=8,
+        warmup_steps=500,
+        weight_decay=0.01,
+        logging_dir=os.path.join(model_dir, 'logs'),  # Save logs in ./trained_model/logs
+        logging_steps=5000,  # Log every 5000 steps
+        evaluation_strategy="epoch",  # Evaluate at the end of each epoch
+        save_steps=5000,  # Save checkpoint every 5000 steps
     )
+
+
 
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=tokenized_dataset,
-        compute_metrics=compute_metrics,
-        tokenizer=tokenizer
+        train_dataset=train_dataset,
+        eval_dataset=val_dataset,
     )
 
     trainer.train()
     trainer.save_model(model_dir)
 
-if __name__ == "__main__":
-    with open('preprocessed_data.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    with open('video_ids.json', 'r', encoding='utf-8') as f:
-        video_ids = json.load(f)
-
-    data, label_encoder = encode_labels(data, video_ids)
-    train_dataset = create_datasets(data)
-
+def main():
+    data_path = 'preprocessed_data.json'
     model_dir = './trained_model'
     tokenizer_name = 'bert-base-uncased'
-    train_model(train_dataset, num_labels=len(label_encoder.classes_), model_dir=model_dir, tokenizer_name=tokenizer_name)
 
-    with open('label_encoder.pkl', 'wb') as f:
-        pickle.dump(label_encoder, f)
+    if not os.path.exists(model_dir):
+        os.makedirs(model_dir)
 
-    print("Training complete. Model and tokenizer saved to 'trained_model'.")
+    texts, labels, label_encoder = preprocess_data(data_path)
+
+    train_texts, val_texts, train_labels, val_labels = train_test_split(texts, labels, test_size=0.1)
+
+    num_labels = len(np.unique(labels))
+
+    train_model(train_texts, train_labels, val_texts, val_labels, model_dir, tokenizer_name, num_labels)
+    save_label_encoder(label_encoder, os.path.join(model_dir, 'combined_to_label.pkl'))
+
+    print("Training complete. Model saved to", model_dir)
+
+if __name__ == "__main__":
+    main()
