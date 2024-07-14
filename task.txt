@@ -1,3 +1,3 @@
 1.data-clean:查看有无重复数据，格式统一等等
-2.model-training:video-id的输出用分类任务，timestamp的输出用回归任务
-3.model-prediction：评价指标，logs可视化（用tensorboard）
+2.model-training:video-id和timestamp的预测都用分类任务
+3.model-prediction：评价指标——moui
