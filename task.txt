@@ -1,3 +1,4 @@
 1.data-clean:查看有无重复数据，格式统一等等
 2.model-training:video-id和timestamp的预测都用分类任务
 3.model-prediction：评价指标——moui
+网址：https://typeset.io/papers/overview-of-the-medvidqa-2022-shared-task-on-medical-video-2p7w0ym2
