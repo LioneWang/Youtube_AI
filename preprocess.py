@@ -1,69 +1,94 @@
-import os
-import re
 import json
-import numpy as np
+import re
+from collections import defaultdict
 
-def parse_srt_file(srt_file_path):
-    with open(srt_file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
 
-    segments = re.findall(r'\d+\n(\d{2}:\d{2}:\d{2},\d{3}) --> (\d{2}:\d{2}:\d{2},\d{3})\n(.*?)\n\n', content, re.DOTALL)
-    texts = []
-    for start_time, end_time, text in segments:
-        texts.append((start_time, end_time, text.replace('\n', ' ')))
-    return texts
+def update_timestamps(sentences, start_time, end_time):
+    sentence_lengths = [len(sentence) for sentence in sentences]
+    total_length = sum(sentence_lengths)
+    timestamps = []
+    last_start = start_time
 
-def time_to_seconds(time_str):
-    h, m, s_ms = time_str.split(':')
-    s, ms = s_ms.split(',')
-    return int(h) * 3600 + int(m) * 60 + int(s) + int(ms) / 1000.0
+    for length in sentence_lengths:
+        segment_duration = (end_time - last_start) * (length / total_length)
+        new_end_time = last_start + segment_duration
+        timestamps.append((last_start, new_end_time))
+        last_start = new_end_time
 
-def merge_segments(segments, max_length=512):
-    merged_segments = []
-    current_text = ""
-    current_start = segments[0][0]
-    current_end = segments[0][1]
+    return timestamps
 
-    for start_time, end_time, text in segments:
-        if len(current_text) + len(text) <= max_length:
-            current_text += " " + text
-            current_end = end_time
-        else:
-            merged_segments.append((current_start, current_end, current_text.strip()))
-            current_text = text
-            current_start = start_time
-            current_end = end_time
 
-    merged_segments.append((current_start, current_end, current_text.strip()))
-    return merged_segments
+def process_transcripts(data):
+    processed_data = []
+    errors = []
+    video_processed = set()  # Track processed video IDs
 
-def preprocess_srt_data(srt_dir):
-    data = []
-    video_ids = []
-    for srt_file in os.listdir(srt_dir):
-        if srt_file.endswith('.srt'):
-            video_id = srt_file.split('.')[0]
-            srt_file_path = os.path.join(srt_dir, srt_file)
-            segments = parse_srt_file(srt_file_path)
-            merged_segments = merge_segments(segments)
-            for start_time, end_time, text in merged_segments:
-                data.append({
-                    'video_id': video_id,
-                    'start_time': time_to_seconds(start_time),
-                    'end_time': time_to_seconds(end_time),
-                    'text': text
+    for entry in data:
+        sample_id = entry["sample_id"]
+        video_id = entry["video_id"]
+
+        if video_id in video_processed:
+            continue  # Skip this entry if the video has been processed
+
+        video_processed.add(video_id)  # Mark this video as processed
+
+        transcript = entry["transcript"]
+        current_text = ''
+        current_start = None
+
+        for segment in transcript:
+            start_time = segment['timestamp'][0]
+            end_time = segment['timestamp'][1]
+            text = segment['text']
+
+            if start_time is None or end_time is None:
+                errors.append({
+                    "sample_id": sample_id,
+                    "video_id": video_id,
+                    "text": text,
+                    "reason": "Timestamp is empty"
                 })
-            video_ids.append(video_id)
-    return data, video_ids
+                continue  # Skip processing this segment
+            if current_start is None:
+                current_start = start_time  # Initialize current_start if it's None
+            current_text += ' ' + text
+            sentences = re.split(r'(?<=[.!?]) +', current_text.strip())
+
+            # Update timestamps for each sentence if we reach a full stop
+            if len(sentences) > 1:
+                timestamps = update_timestamps(sentences[:-1], current_start, end_time)
+                for sentence, (start, end) in zip(sentences[:-1], timestamps):
+                    if not sentence.strip():
+                        continue  # Ignore empty sentences
+                    processed_data.append({
+                        "sample_id": sample_id,
+                        "video_id": video_id,
+                        "start_time": start,
+                        "end_time": end,
+                        "text": sentence.strip()
+                    })
+                current_text = sentences[-1]  # Start accumulating text again from the last partial sentence
+                current_start = timestamps[-1][1] if timestamps else current_start
+            else:
+                current_start = start_time  # Update start time if no sentence end is found
+
+    return processed_data, errors
+
+
+def main():
+    with open('train_srt.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    processed_data, errors = process_transcripts(data)
+
+    with open('processed_train_data.json', 'w', encoding='utf-8') as file:
+        json.dump(processed_data, file, indent=4)
+
+    with open('train_errors.json', 'w', encoding='utf-8') as file:
+        json.dump(errors, file, indent=4)
+
+    print("Processing complete. Data and errors saved.")
+
 
 if __name__ == "__main__":
-    srt_dir = './processed'  # Update this path to your SRT files directory
-    data, video_ids = preprocess_srt_data(srt_dir)
-
-    with open('preprocessed_data.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-
-    with open('video_ids.json', 'w', encoding='utf-8') as f:
-        json.dump(video_ids, f, ensure_ascii=False, indent=4)
-
-    print("Preprocessing complete. Data saved to 'preprocessed_data.json' and 'video_ids.json'.")
+    main()

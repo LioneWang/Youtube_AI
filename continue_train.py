@@ -5,8 +5,6 @@ from transformers import BertModel, BertTokenizer
 import json
 import os
 
-
-# 定义模型
 class QuestionToVideoModel(nn.Module):
     def __init__(self, num_videos):
         super(QuestionToVideoModel, self).__init__()
@@ -19,21 +17,16 @@ class QuestionToVideoModel(nn.Module):
         video_id_logits = self.video_id_classifier(pooled_output)
         return video_id_logits
 
-
-# 数据加载和视频ID映射
 def load_data(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)
     return data
-
 
 def create_video_id_mapping(data):
     video_ids = sorted(set(item['video_id'] for item in data))
     video_id_to_idx = {vid: idx for idx, vid in enumerate(video_ids)}
     return video_id_to_idx, len(video_ids)
 
-
-# 数据集类
 class VideoQADataset(torch.utils.data.Dataset):
     def __init__(self, data, tokenizer, max_len=512, video_id_mapping=None):
         self.data = data
@@ -66,41 +59,31 @@ class VideoQADataset(torch.utils.data.Dataset):
             'video_id': torch.tensor(video_id, dtype=torch.long)
         }
 
-
-def train(model, data_loader, loss_fn_video_id, optimizer, device):
+def train(model, data_loader, loss_fn_video_id, optimizer, device, epochs=5):
     model.train()
-    total_loss = 0
-    for batch in data_loader:
-        input_ids = batch['input_ids'].to(device)
-        attention_mask = batch['attention_mask'].to(device)
-        video_ids = batch['video_id'].to(device)
+    for epoch in range(epochs):
+        total_loss = 0
+        for batch in data_loader:
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            video_ids = batch['video_id'].to(device)
 
-        optimizer.zero_grad()
-        video_id_logits = model(input_ids, attention_mask)
-
-        loss_video_id = loss_fn_video_id(video_id_logits, video_ids)
-        loss_video_id.backward()
-        optimizer.step()
-
-        total_loss += loss_video_id.item()
-
-    return total_loss / len(data_loader)
-
-
-# 初始化损失函数
-loss_fn_video_id = nn.CrossEntropyLoss()
-
+            optimizer.zero_grad()
+            video_id_logits = model(input_ids, attention_mask)
+            
+            loss_video_id = loss_fn_video_id(video_id_logits, video_ids)
+            loss_video_id.backward()
+            optimizer.step()
+            
+            total_loss += loss_video_id.item()
+        
+        print(f'Epoch {epoch + 1}, Loss: {total_loss / len(data_loader)}')
 
 def main():
-    # 训练文件路径
     train_data_path = 'processed_train_data.json'
     train_data = load_data(train_data_path)
     video_id_to_idx, num_videos = create_video_id_mapping(train_data)
-
-    # 保存视频ID映射文件
-    with open('video_id_mapping.json', 'w') as f:
-        json.dump(video_id_to_idx, f)
-
+    
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     train_dataset = VideoQADataset(train_data, tokenizer, max_len=512, video_id_mapping=video_id_to_idx)
     train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
@@ -108,15 +91,17 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = QuestionToVideoModel(num_videos).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=2e-5)
+    loss_fn_video_id = nn.CrossEntropyLoss()
 
+    # Load the last saved model to continue training
+    model.load_state_dict(torch.load('models_4/model_epoch_10.pth'))
+
+    train(model, train_loader, loss_fn_video_id, optimizer, device, epochs=10)  # Continue training for additional epochs
+
+    # Save the new model state
     if not os.path.exists('models_4'):
         os.makedirs('models_4')
-
-    for epoch in range(10):
-        loss = train(model, train_loader, loss_fn_video_id, optimizer, device)
-        print(f'Epoch {epoch + 1}, Loss: {loss}')
-        torch.save(model.state_dict(), f'models_4/model_epoch_{epoch + 1}.pth')
-
+    torch.save(model.state_dict(), 'models_4/model_epoch_20.pth')
 
 if __name__ == "__main__":
     main()
