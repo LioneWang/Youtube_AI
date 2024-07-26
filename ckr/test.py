@@ -54,6 +54,11 @@ def extract_subtitle_text(subtitles, start_time, end_time):
 def find_top_n_similar_subtitles(prediction, subtitles, top_n=3):
     """根据预测文本在字幕中找出相似度评分最高的N个部分"""
     subtitle_texts = [sub[2] for sub in subtitles]
+
+    if not subtitle_texts:
+        print("警告: 字幕文本列表为空，无法计算相似度!")
+        return []
+
     subtitle_texts.append(prediction)  # 包含预测文本
 
     # 确保所有文本都是字符串
@@ -62,6 +67,10 @@ def find_top_n_similar_subtitles(prediction, subtitles, top_n=3):
     # 使用 TF-IDF 向量化器，并增加 ngram_range
     vectorizer = TfidfVectorizer(ngram_range=(1, 3))
     tfidf_matrix = vectorizer.fit_transform(subtitle_texts)
+
+    if tfidf_matrix.shape[0] <= 1:
+        print("警告: TF-IDF 矩阵样本数量不足!")
+        return []
 
     # 计算余弦相似度
     cosine_sim = cosine_similarity(tfidf_matrix[-1], tfidf_matrix[:-1])
@@ -80,7 +89,7 @@ def find_top_n_similar_subtitles(prediction, subtitles, top_n=3):
 
 # 定义用于T5输入格式的Dataset类
 class QADataset(Dataset):
-    def __init__(self, tokenizer, data, subtitle_dir, max_length=1024):  # 增加 max_length
+    def __init__(self, tokenizer, data, subtitle_dir, max_length=1024):
         self.data = data
         self.tokenizer = tokenizer
         self.subtitle_dir = subtitle_dir
@@ -142,17 +151,20 @@ current_question = None
 current_prediction = []
 current_subtitles = []
 
+
 def format_time(seconds):
     """将秒数转换为分钟:秒格式"""
     minutes = int(seconds // 60)
     seconds = int(seconds % 60)
     return f"{minutes:02}:{seconds:02}"
 
+
 def count_sentences(text):
     """计算文本中的句子数量"""
     # 定义句子的分隔符
     sentence_endings = re.compile(r'[,.!?]')
     return len(sentence_endings.findall(text))
+
 
 def calculate_iou(true_start, true_end, pred_start, pred_end):
     """计算真实值和预测值的 IOU"""
@@ -162,15 +174,21 @@ def calculate_iou(true_start, true_end, pred_start, pred_end):
     union = max(true_end, pred_end) - min(true_start, pred_start)
     return intersection / union if union > 0 else 0
 
+
 # 用于跟踪 IOU 的总和和计数
 iou_total = 0
 iou_count = 0
+
 
 def process_prediction(current_question, current_prediction, current_subtitles):
     if not current_question:
         return
 
     merged_prediction = " ".join(current_prediction).replace(' .', '.').strip()
+
+    if not merged_prediction:
+        print(f"警告: 预测结果为空, 跳过处理问题: {current_question}")
+        return
 
     # 计算预测结果中的句子数量
     num_sentences = count_sentences(merged_prediction)
@@ -227,6 +245,7 @@ def process_prediction(current_question, current_prediction, current_subtitles):
         print(f"IOU: {float(iou):.2f}")
         print(f"当前平均 IOU: {average_iou:.2f}")
         print("-" * 50)
+
 
 # 处理每个批次的数据
 for batch in test_loader:
