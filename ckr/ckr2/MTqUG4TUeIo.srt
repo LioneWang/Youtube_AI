@@ -1,0 +1,64 @@
+{
+    0.0,5.76
+     Modified Allen's Test
+},
+{
+    5.76,10.92
+     Allen's test has performed to check for preserved patency between the radial and ulnar arteries
+},
+{
+    10.92,18.72
+     before puncturing one of these arteries, for example during cannulation or sampling.
+},
+{
+    18.72,25.44
+     To conduct the test, the examiner compresses both arteries until the skin of the patient's palm appears blanched.
+},
+{
+    32.16,38.8
+     This can be accelerated by elevating the hand and having the patient repeatedly open and clench the fist.
+},
+{
+    39.84,45.0
+     The ulnar artery is then released while compression of the radial artery is maintained,
+},
+{
+    45.0,50.5
+     which should result in flushing of the hand due to hyperremia within 5 to 15 seconds.
+},
+{
+    50.5,52.0
+     The test is positive.
+},
+{
+    57.0,61.0
+     To prevent false negatives, the hand should not be hyper extended.
+},
+{
+    62.7,67.56
+     If the hand remains blanched longer than 15 seconds, it indicates that collateral
+},
+{
+    67.56,74.68
+     circulation is inadequate or non-existent between the arteries, and the test is negative.
+},
+{
+    74.68,79.72
+     A faster version of the test can be conducted by compressing only one of the arteries and
+},
+{
+    79.72,84.56
+     then having the patient clench a fist for several seconds. A lack of flushing after
+},
+{
+    84.56,85.8
+     opening the hand
+},
+{
+    85.8,88.56
+     suggests an insufficient or absent collateral
+},
+{
+    88.56,None
+     flow from the artery that has not been compressed. you
+},

@@ -1,0 +1,464 @@
+{
+    0.0,12.64
+     Hello, I'm Bob Schrupp physical therapist.
+},
+{
+    12.64,16.44
+     I'm Brad Heineck physical therapist.
+},
+{
+    16.44,19.6
+     Don't bother me Bob, I'm looking up the Epley maneuver we're talking about.
+},
+{
+    19.6,22.44
+     Today we're going to talk about the Epley maneuver.
+},
+{
+    22.44,25.16
+     I basically want to show you how to do it.
+},
+{
+    25.16,30.0
+     It's also called the Canolith Repositioning maneuver.
+},
+{
+    30.0,32.52
+     What it's for is a type of dizziness.
+},
+{
+    32.52,37.68
+     Specifically, we usually use it for benign, proximal, positional, and vertical.
+},
+{
+    37.68,38.68
+     It's a mouthful.
+},
+{
+    38.68,39.68
+     It's a mouthful.
+},
+{
+    39.68,43.28
+     It's a type of vertical, a type of dizziness.
+},
+{
+    43.28,45.1
+     Basically what we'd like to see is that you were
+},
+{
+    45.1,49.72
+     diagnosed with this by your doctor and now you were asked to do this type of
+},
+{
+    49.72,53.8
+     maneuver or you're a physical therapist or somebody may be doing this maneuver
+},
+{
+    53.8,57.12
+     with you and we're just going to go over it with you or maybe a professional who
+},
+{
+    57.12,64.24
+     has to do this. It's a good way a review of that so let's go to it. Alright. Okay
+},
+{
+    64.24,70.28
+     after I interview a patient and I find out what's going on and have it confirm that it is
+},
+{
+    71.88,73.64
+     Vertical
+},
+{
+    73.64,77.92
+     Let's think about vertical symptoms and I just skip the big words and go right to it
+},
+{
+    77.92,82.64
+     So it makes sense to the patient and it's easy to communicate with I find out which way
+},
+{
+    83.16,89.12
+     Produces the symptoms and when I say which way, which direction and oftentimes I say when I lean or turn my head to the
+},
+{
+    89.12,93.0
+     right or I'm in bed and I roll to the right and sometimes it's to the left but
+},
+{
+    93.0,97.34
+     in this case when Bob turns his head to the right or already rolls to the right
+},
+{
+    97.34,107.76
+     in bed things start spinning. Is that right Bob? Very uncomfortable, very nauseous and that can be a different intensities as well.
+},
+{
+    107.76,112.76
+     So once I determine which direction that tells me which way to start the treatment,
+},
+{
+    112.76,116.04
+     and what I mean by that is which way to turn the head.
+},
+{
+    116.04,120.64
+     So what I have someone do is get up on the table, sit like Bob is sitting, and we get
+},
+{
+    120.64,123.24
+     their back at approximately a 45 degree angle.
+},
+{
+    123.24,131.18
+     You don't have to get the godeometer out measured but just sort of like what Bob is now and then he's gonna turn his head to the right and tilt back
+},
+{
+    135.2,137.2
+     I tilt back a little bit Bob
+},
+{
+    141.76,146.16
+     Bob doesn't like to tilt back yet. I'll do a little bit depending on the patient's response
+},
+{
+    146.68,152.26
+     Okay, so once we get to that point we'll hold it for 30 seconds to a minute and in this case
+},
+{
+    152.26,154.26
+     We're going for 30 seconds is to shorten it up
+},
+{
+    155.24,158.44
+     Okay, Bob. We just finished out at 30 seconds now
+},
+{
+    158.44,162.96
+     We're going to go to phase two of this treatment and what we're gonna have you do I'm gonna take a couple pillows
+},
+{
+    164.0,168.78
+     I'm gonna to have you do, I'm going to take a couple of pillows, I'm going to place them right here and you're going to feel them right in your back right here.
+},
+{
+    168.78,172.14
+     So you're going to go down slowly, take your time.
+},
+{
+    172.14,175.98
+     Now you're going to keep your head at that 45 degree, adjust it as you need and you're
+},
+{
+    175.98,181.54
+     going to bring your head back while maintaining that 45 degree, 30 degrees and that's about
+},
+{
+    181.54,182.74
+     30 degrees right there.
+},
+{
+    182.74,183.74
+     How are you doing Bob?
+},
+{
+    183.74,184.74
+     Good.
+},
+{
+    184.74,185.48
+     Now this has to be done slow
+},
+{
+    185.48,191.16
+     And if you do it slow you shouldn't have too many symptoms that are making you feel nauseous or real dizzy if you do
+},
+{
+    191.64,196.5
+     It's too fast and too much too early. So we're gonna hold this for 30 seconds
+},
+{
+    197.02,199.16
+     Okay, you're gonna time it a lot of times
+},
+{
+    199.16,203.76
+     I like to use I've got a clock on the wall in my in the clinic and I just got a second hand
+},
+{
+    203.76,208.88
+     And I look the 30 seconds or you that or have someone come in and help me in time if that's not available right in
+},
+{
+    208.88,218.44
+     front of me and then we're going to go slowly to the left, okay, so that we're 45 degrees
+},
+{
+    218.44,222.44
+     to the left and maintaining that 30 degrees extension, how you doing Bob?
+},
+{
+    222.44,223.44
+     Good.
+},
+{
+    223.44,225.84
+     And I always communicate with the patient, see if they're feeling
+},
+{
+    226.84,231.64
+     dizzy and things are spinning, but they'll let you know, you'll know it if you're doing this to yourself.
+},
+{
+    232.0,237.12
+     Hold that for the 30 seconds. We're done with this position and now we're going to go to the next position.
+},
+{
+    237.12,241.6
+     So what I'd like you to do is turn to your left side, okay bring your knees up,
+},
+{
+    241.6,246.68
+     go ahead, perfect, over like that. Now while you do that keep your head angled down towards the floor, good,
+},
+{
+    246.68,251.64
+     during the shoulder up, okay, head down, there we go. Are you comfortable in that
+},
+{
+    251.64,257.92
+     position? We're gonna hold that for 30 seconds, okay. We'll jump ahead, we don't
+},
+{
+    257.92,264.04
+     have to hold it. I mean just pretend it's been 30 seconds. Okay now we're at 30
+},
+{
+    264.04,266.2
+     seconds, Bob we're gonna go to the next position.
+},
+{
+    266.2,270.48
+     Now what I want you to do is bring your knees forward so your feet and knees are up there,
+},
+{
+    270.48,271.48
+     just like that.
+},
+{
+    271.48,275.28
+     Now tuck your chin in towards your chest slightly and slowly go up.
+},
+{
+    275.28,276.28
+     Look down the floor.
+},
+{
+    276.28,281.08
+     Exactly, as you go up, look more towards the floor, hold it steady, nothing too fast.
+},
+{
+    281.08,282.76
+     Good, how are you feeling there?
+},
+{
+    282.76,283.76
+     Good.
+},
+{
+    283.76,284.76
+     Good, okay.
+},
+{
+    284.76,287.12
+     We're going to hold it. Keep the chin tilted down. Exactly, keep that down.
+},
+{
+    288.84,295.26
+     Now this is the easy part of the treatment, Bob. After this 30 seconds, keep your head still. After this 30 seconds,
+},
+{
+    295.48,298.88
+     the hard part of the treatment is the next 48 hours.
+},
+{
+    299.02,304.56
+     What Bob's gonna have to do is keep his head in a vertical position for 48 hours.
+},
+{
+    304.56,305.2
+     Now what I'm going
+},
+{
+    305.2,309.84
+     to give them to help mount, this means that you cannot look down, you can't bend over
+},
+{
+    309.84,314.84
+     to pick anything up, and you can't lay down to sleep in bed. That's what makes this difficult.
+},
+{
+    314.84,317.8
+     You want me to come up now? That's been 30 seconds.
+},
+{
+    317.8,321.24
+     Okay, yep, nice and slow, everything's feeling good, you're not spinning or anything?
+},
+{
+    321.24,322.24
+     No, I'm good.
+},
+{
+    322.24,327.36
+     Okay, you get yourself a simple neck collar, Velcro, they cost about
+},
+{
+    327.36,336.16
+     $10 at any pharmacy store. And we're going to bring this around, you don't have to use
+},
+{
+    336.16,342.26
+     this but if you want to maintain that head vertical position for 48 hours this is a
+},
+{
+    342.26,346.16
+     constant reminder that you need to keep your head up.
+},
+{
+    346.16,350.7
+     Now I have some patience and what they'll do is actually take a couple days off of work
+},
+{
+    350.7,354.6
+     or do it on a weekend because you're not going to be able to do this at work for most jobs.
+},
+{
+    354.6,356.1
+     Okay, you okay with that Bob?
+},
+{
+    356.1,357.1
+     Very good.
+},
+{
+    357.1,361.24
+     Again this doesn't have to be tight when you're sitting in a chair or standing and you want
+},
+{
+    361.24,369.36
+     to take it off, you're welcome to do that anytime you can leave it off, but again it works great to hold that 48 hours because if you do bend over or you look down,
+},
+{
+    369.36,373.68
+     you throw it off and you get dizzy again, it's not a big deal but you have to start the whole
+},
+{
+    373.68,378.8
+     process all over again. And I think we should mention Brad that you may need to do the process
+},
+{
+    378.8,384.88
+     over again. Yeah, some people have to do this the cantaloupe repositioning maneuver a number of
+},
+{
+    384.88,385.2
+     times before it actually works. Sure. And the other thing is there was some debate online whether people have to do this the cantalysis repositioning maneuver a number of times
+},
+{
+    385.2,388.88
+     before it actually works. Sure. And the other thing is there was some debate
+},
+{
+    388.88,393.32
+     online whether or not you need to do this part of it, the 48 hours. Right. Mayo Clinic
+},
+{
+    393.32,398.36
+     advocates this method. We've used it when I was working at the Mayo Clinic we
+},
+{
+    398.36,402.52
+     did it that way so I think I feel pretty safe and sane that it needs to be done.
+},
+{
+    402.52,409.04
+     Right. So. It's been my experience in the clinic that if you have to do it a second time after
+},
+{
+    409.04,414.68
+     the first time and say you throw something off, you will notice some gains, maybe 25%
+},
+{
+    414.68,418.64
+     improvement, that would be a good indicator to repeat it.
+},
+{
+    418.64,421.92
+     But if you do it right the first time, hold that head up for 40 to 40 hours, it's your
+},
+{
+    421.92,424.12
+     best chance for success.
+},
+{
+    424.12,425.84
+     And using that collar, and that's it. hold that head up for 48 hours, it's your best chance for success and use a neck collar and
+},
+{
+    426.92,429.88
+     That's it. It's not a real difficult treatment, but it is
+},
+{
+    430.4,434.6
+     One last thing Brad, I just want to tack this on at the end of the video here
+},
+{
+    434.92,438.48
+     If you are 40, 50 years old or older
+},
+{
+    438.48,442.92
+     You're gonna want to subscribe to us because we are gonna be covering videos that are gonna help you
+},
+{
+    443.64,445.32
+     As you get older,
+},
+{
+    445.32,448.88
+     as you age, you know, stay fit and healthy.
+},
+{
+    448.88,452.84
+     We're going to cover subjects like this and other things, you know, on fitness.
+},
+{
+    452.84,453.84
+     So subscribe.
+},
+{
+    453.84,458.76
+     Because we both are kind of in that age group and we have a training.
+},
+{
+    458.76,461.48
+     We've been treating people of that age group forever.
+},
+{
+    461.48,462.48
+     Right.
+},
+{
+    462.48,463.48
+     So.
+},
+{
+    463.48,465.96
+     Well, you forever, but I'm a little younger than that.
+},
+{
+    465.96,466.32
+     Very good.
+},

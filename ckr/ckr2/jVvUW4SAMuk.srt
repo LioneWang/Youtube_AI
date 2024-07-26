@@ -1,0 +1,784 @@
+{
+    0.0,1.8
+     What's up guys?
+},
+{
+    1.8,2.8
+     Hey, Jared Bechstrand here,
+},
+{
+    2.8,5.0
+     Doctor of Physical Therapy, tonentighting.com.
+},
+{
+    5.0,8.08
+     Today we're talking all about foam rolling the IT band.
+},
+{
+    8.08,10.6
+     What that means, why you're probably doing it wrong,
+},
+{
+    10.6,12.38
+     and then give you some simple tips and advice
+},
+{
+    12.38,13.88
+     on how to do it the right way
+},
+{
+    13.88,15.8
+     in order to maximize your outcomes.
+},
+{
+    15.8,17.76
+     So let's get into it right now.
+},
+{
+    17.76,20.76
+     ["Ten Years Later"]
+},
+{
+    31.04,34.44
+     All right you guys, hey, thank you so much for joining me today here on Tone and Titan. As always, I'm excited to be able to share with you what I know about this topic, hopefully
+},
+{
+    34.44,38.12
+     help you out of some of the pain or discomfort that you guys might be experiencing.
+},
+{
+    38.12,42.92
+     Okay, so this IT band pain, it's typically manifest this pain on the outside of the
+},
+{
+    42.92,43.92
+     knee.
+},
+{
+    43.92,45.1
+     That's what people come in and complain about.
+},
+{
+    45.3,46.8
+     What the IT band is.
+},
+{
+    47.0,51.9
+     It's actually a big old thick tendon that runs down the entire outside the lateral
+},
+{
+    51.9,53.1
+     part of my leg.
+},
+{
+    53.3,57.6
+     It starts right up here at the hip, comes down the leg, crosses the knee joint,
+},
+{
+    57.8,61.2
+     wraps in and connects right up here kind of right by that tibia.
+},
+{
+    61.5,65.84
+     Now why this matters is when your knee is straight,
+},
+{
+    65.84,68.2
+     that tendon is actually in front of the knee joint.
+},
+{
+    68.2,69.54
+     When the knee is bent,
+},
+{
+    69.54,71.72
+     the tendon is actually behind the knee joint.
+},
+{
+    71.72,74.6
+     Now, if I do that over and over and over again,
+},
+{
+    74.6,76.52
+     you know, hundreds and even thousands of times
+},
+{
+    76.52,77.6
+     throughout the day,
+},
+{
+    77.6,79.32
+     what can happen is again,
+},
+{
+    79.32,81.32
+     if there's too much tension in that tendon,
+},
+{
+    81.32,84.82
+     it can cause this friction on the outside of the leg
+},
+{
+    84.82,85.0
+     as it
+},
+{
+    85.0,89.56
+     rubs over the bottom part of that femur, that femoral condyle down there.
+},
+{
+    89.56,94.26
+     That's what we refer to as IT band syndrome, and that's why you get it.
+},
+{
+    94.26,97.64
+     Everybody says, okay, if there's too much tension on the outside part of the leg, what
+},
+{
+    97.64,101.56
+     I need to do is decrease that tension, which is correct.
+},
+{
+    101.56,105.6
+     The problem that I run into is that most people do it like I'm showing you right
+},
+{
+    105.6,111.92
+     here. It's just kind of this all over approach. I'm rolling up, I'm rolling down, I'm doing it quickly.
+},
+{
+    111.92,117.28
+     There's a lot of things about this that are wrong that we can correct if we have a little bit better
+},
+{
+    117.28,121.52
+     understanding of some of the anatomy. Let's be honest, you guys, if we're going to foam roll,
+},
+{
+    121.52,127.04
+     if we're going to do anything, let's do it the right way. Let's maximize our outcomes, let's maximize our time.
+},
+{
+    127.04,129.84
+     Doing it correctly is actually gonna cut down on healing time,
+},
+{
+    129.84,132.62
+     get you back to doing that sport or that activity,
+},
+{
+    132.62,135.26
+     or even just walking around pain-free quicker.
+},
+{
+    135.26,136.72
+     And that's what we're all about.
+},
+{
+    136.72,138.42
+     And so let's spend some time,
+},
+{
+    138.42,141.6
+     let's figure out how we can actually maximize our outcomes.
+},
+{
+    141.6,144.0
+     The thing about the IT band is, you guys,
+},
+{
+    144.0,145.52
+     it's a tendon, it's not contractile. People say I just need to thing about the IT band is, you guys, it's a tendon. It's
+},
+{
+    145.52,150.64
+     not contractile. People say, I just need to stretch out my IT band. Absolutely wrong.
+},
+{
+    150.64,155.48
+     There's no way you can stretch a tendon. When tendons stretch, that's called a tear. And
+},
+{
+    155.48,160.08
+     all of a sudden that's tendonitis and tendinosis and all these other medical terms. We can't
+},
+{
+    160.08,168.72
+     stretch a tendon. It's not designed to stretch. Where we need to focus and the whole key to this video is we're never going to be able to stretch the tendon
+},
+{
+    168.72,173.8
+     but we can loosen up and lengthen all of the muscles that act on that tendon
+},
+{
+    173.8,177.6
+     and that's where we need to focus. We need to be a little more intentional with
+},
+{
+    177.6,182.56
+     our exercises on some of those muscles that act on the IT band in order to
+},
+{
+    182.56,185.16
+     loosen those up. So what are those muscles?
+},
+{
+    185.16,186.44
+     What are those areas that we need
+},
+{
+    186.44,188.18
+     to start to focus on a little bit more?
+},
+{
+    188.18,189.8
+     Let's put them up right over here.
+},
+{
+    189.8,191.52
+     You've got four areas that you're gonna need
+},
+{
+    191.52,194.12
+     to focus on you guys that contribute to that tightness.
+},
+{
+    194.12,196.98
+     Your tensor fascia latte is just a little teeny,
+},
+{
+    196.98,199.2
+     tiny muscle, sits from the anterior hip,
+},
+{
+    199.2,200.92
+     kind of that front part of the hip bone.
+},
+{
+    200.92,202.6
+     It's only about this big,
+},
+{
+    202.6,205.72
+     but has a significant impact on that entire IT
+},
+{
+    205.72,210.12
+     band. That one especially tends to get tight. If you've got tight hip flexors or if you
+},
+{
+    210.12,213.8
+     experience tightness in that area right there, that's going to contribute to some of that
+},
+{
+    213.8,218.44
+     IT band tension and some of that IT band pain down at your knee. Another muscle is that
+},
+{
+    218.44,222.72
+     glute max comes from the back, wraps around, connects into the outside of the IT band.
+},
+{
+    222.72,225.36
+     Now most of the time time it's actually weakness in
+},
+{
+    225.36,230.0
+     the glute max that contributes to this instead of tension in the glute max so keep that in mind.
+},
+{
+    230.0,234.72
+     But then we've got two more muscles. We've got our lateral quad so it's that vastus lateralis muscle
+},
+{
+    234.72,239.68
+     comes down the outside of our leg actually some of those fibers will feed into that IT band
+},
+{
+    239.68,243.84
+     and then we've got our biceps femoris or that lateral hamstring muscle that comes down
+},
+{
+    243.84,245.88
+     also feeds into that IT band.
+},
+{
+    245.88,250.88
+     Some of those fibers from the back can actually contribute to tension down in that knee joint
+},
+{
+    250.88,251.88
+     itself.
+},
+{
+    251.88,256.72
+     So those four muscles, if we're going to foam roll, we need to focus on those muscles and
+},
+{
+    256.72,259.66
+     their attachment site into the IT band.
+},
+{
+    259.66,260.92
+     Muscles are contractile.
+},
+{
+    260.92,267.22
+     If we can promote more length and more relaxation in those muscles we are therefore going to decrease tension in the IT band and
+},
+{
+    267.22,271.4
+     hopefully help that area to feel better. And so let me show you guys how to do it.
+},
+{
+    271.4,275.8
+     I'm gonna grab my foam roller and let's run you through it right now. Alright so
+},
+{
+    275.8,278.92
+     obviously if we're gonna foam roll our IT band the first thing we're gonna need
+},
+{
+    278.92,284.44
+     is a foam roller. Now most gyms will have these available. If you guys don't have
+},
+{
+    284.44,285.16
+     one of these at
+},
+{
+    285.16,289.64
+     home, I do recommend them as a physical therapist. This is a piece of equipment
+},
+{
+    289.64,294.0
+     that I use all the time. This is the one that we have at our house. It's one that
+},
+{
+    294.0,297.56
+     we use all the time between my wife and I. Someone's foam rolling something
+},
+{
+    297.56,301.48
+     like almost every day with this you guys. What I'll do is I'll put a link down in
+},
+{
+    301.48,304.96
+     the description below. If you don't have one, they're super cheap. This one is a
+},
+{
+    304.96,308.62
+     six inch diameter and a 36 inch length.
+},
+{
+    308.62,311.36
+     If you need a foam roller, check it out in the link down below.
+},
+{
+    311.36,316.8
+     Okay, so again, those four muscles that I told you guys about, that's where we need to focus
+},
+{
+    316.8,317.8
+     on.
+},
+{
+    317.8,321.5
+     We need to focus on foam rolling those muscles and their connection points with the IT band
+},
+{
+    321.5,324.16
+     in order to decrease tension in the IT band.
+},
+{
+    324.16,325.48
+     So let's go from the top to the bottom.
+},
+{
+    325.48,327.64
+     So we're gonna start with that little one up top,
+},
+{
+    327.64,330.12
+     the TFL, the Tensor Fascialate.
+},
+{
+    330.12,332.48
+     When I foam roll on these areas, what I'll do,
+},
+{
+    332.48,335.66
+     I'm gonna foam roll my right leg for you.
+},
+{
+    335.66,337.42
+     My left leg comes over the front
+},
+{
+    337.42,338.8
+     and is down on the ground.
+},
+{
+    338.8,341.2
+     That adds a key point of stability
+},
+{
+    341.2,342.88
+     that just provides a little more control
+},
+{
+    342.88,344.52
+     while you're in these areas.
+},
+{
+    344.52,348.68
+     And so that muscle, that Tensor Fascialcia latte sits right here on the front of my hip.
+},
+{
+    348.68,351.36
+     In order to get to it, I'm actually going to roll.
+},
+{
+    351.36,354.12
+     I'm going to bring my left hip forward towards you guys.
+},
+{
+    354.12,359.84
+     And now that foam roller is right on the front and top of my right hip.
+},
+{
+    359.84,362.12
+     And that's where I'm going to spend my time.
+},
+{
+    362.12,365.08
+     Now you might find a spot where it's particularly painful,
+},
+{
+    365.08,366.68
+     where it feels like there might be a little bit more
+},
+{
+    366.68,368.0
+     of a knot in there.
+},
+{
+    368.0,370.44
+     What I want you to do is spend some time on that.
+},
+{
+    370.44,373.24
+     Spend about 10 seconds on that spot
+},
+{
+    373.24,374.92
+     until it kind of releases.
+},
+{
+    374.92,377.52
+     That will be true for all these areas that I show you.
+},
+{
+    377.52,381.44
+     So that's the TFL or that Tenser Fashion Latte right there.
+},
+{
+    381.44,383.64
+     Again, about 10 or 15 seconds.
+},
+{
+    383.64,385.52
+     If you find a spot that's tight, I want you to spend 60 seconds right there. Again, about 10 or 15 seconds. If you find a spot that's tight, I want you
+},
+{
+    385.52,391.84
+     to spend 60 seconds total there. Now, the glutes, the way that I like to foam roll glutes is,
+},
+{
+    391.84,396.48
+     again, I'm going to be working on that right side. I'm going to sit down on my foam roller.
+},
+{
+    396.48,402.64
+     Right leg crosses over the left, kind of puts those rotators on a little bit more of a stretch.
+},
+{
+    402.64,409.92
+     And now what you can do is come up and down right on top of those glutes to roll those out. Again find a spot
+},
+{
+    409.92,414.28
+     sit there for 10 or 15 seconds and then roll the rest of the way out of it. We're
+},
+{
+    414.28,418.24
+     acting on the muscles that connect to that IT band rather than just the whole
+},
+{
+    418.24,423.6
+     IT band itself. Quads will be the next one so that vastus lateralis in order to
+},
+{
+    423.6,425.84
+     do that I want to roll forward
+},
+{
+    425.84,429.28
+     so that I'm actually focusing and biasing that pressure
+},
+{
+    429.28,430.96
+     onto that quad muscle.
+},
+{
+    430.96,433.72
+     And so my hip comes towards you guys again,
+},
+{
+    433.72,436.56
+     and now in this position, I can come,
+},
+{
+    436.56,438.36
+     and hopefully you guys can see that on the camera.
+},
+{
+    438.36,439.96
+     I'll come down here a little bit more.
+},
+{
+    439.96,442.86
+     And so now what I can do is actually focus
+},
+{
+    442.86,446.92
+     on that entire length of that vastus lateralis, that quad muscle.
+},
+{
+    447.24,452.32
+     The goal is to release the tension in the muscle that is acting on the IT band,
+},
+{
+    452.52,454.68
+     not necessarily the IT band itself.
+},
+{
+    455.04,458.84
+     Spend about 60 seconds on the, on the quad, on the vastus lateralis.
+},
+{
+    459.14,462.44
+     And then finally we're going to do the same thing with the biceps femoris.
+},
+{
+    462.96,466.0
+     For this one, my left leg is going to come behind my right leg.
+},
+{
+    466.0,468.2
+     It's no longer in front like it's been.
+},
+{
+    468.2,474.0
+     And then the emphasis is on the backside of the IT band, right in that connection point.
+},
+{
+    474.0,477.2
+     And that one's a little bit more stiff on me, you guys.
+},
+{
+    477.2,481.2
+     That spot right there, about 10 to 15 seconds on that spot.
+},
+{
+    481.2,484.48
+     And then we can roll off it about 60 seconds total.
+},
+{
+    484.48,486.8
+     So between those four areas
+},
+{
+    486.8,491.64
+     we're trying to influence all of the muscles that are going to attach to that IT BIM. Between
+},
+{
+    491.64,495.76
+     those four areas you're going to spend about 60 seconds in each one of those four minutes
+},
+{
+    495.76,500.0
+     total. I would do that on the right leg if you're experiencing these symptoms on the left.
+},
+{
+    500.0,508.72
+     Also, you obviously want to do that one as well. Now here's the thing, just foam rolling this is going to eliminate a lot of tension in
+},
+{
+    508.72,513.92
+     these areas, but chances are that tension is going to come back unless you do some of
+},
+{
+    513.92,515.6
+     the important steps afterwards.
+},
+{
+    515.6,517.92
+     The stretching and the strengthening.
+},
+{
+    517.92,523.4
+     So there are key stretches and there are all key hip strengthening exercises that I want
+},
+{
+    523.4,524.4
+     to run you through.
+},
+{
+    524.4,525.6
+     However, for the purposes of
+},
+{
+    525.6,530.24
+     this video, I just wanted to show the foam roller. If you're interested and I highly suggest you do
+},
+{
+    530.24,534.88
+     it, you need to check out part two in this series, the best exercises, the best stretches and
+},
+{
+    534.88,540.0
+     strengthening exercises for IT band syndrome. Here is where you're going to start. Afterwards,
+},
+{
+    540.0,543.76
+     you're going to stretch, you're going to strengthen it so that the symptoms don't come back. This is
+},
+{
+    543.76,548.64
+     going to take care of the symptoms, but then we need to do the next step so that symptoms don't come
+},
+{
+    548.64,555.04
+     back. Now to give you a little teaser of my absolute favorite IT band stretch, if I'm still working
+},
+{
+    555.04,561.68
+     that right side over, I'm going to lay down on my left. I'm going to grab my leg here. I'm going to
+},
+{
+    561.68,565.32
+     pull back this way. So all of a sudden that quad is on a
+},
+{
+    565.32,569.52
+     good stretch that way and then I'm going to with my left leg hook my right knee
+},
+{
+    569.52,573.96
+     and then I'm going to push that use my left heel to push right down towards the
+},
+{
+    573.96,578.28
+     ground. All of a sudden we get a big quad stretch, we get a good TFL stretch and
+},
+{
+    578.28,582.64
+     then as we come down we're actually working that adduction to stretch hip
+},
+{
+    582.64,585.54
+     abductors out. Probably my favorite IT
+},
+{
+    585.54,589.6
+     band stretch. You would hold that for 20 seconds. You would repeat that three
+},
+{
+    589.6,593.54
+     times. Check the description down below. I'm also going to float a link right up
+},
+{
+    593.54,597.52
+     here for you guys. That's going to take you to step two of this. Stretches and
+},
+{
+    597.52,601.04
+     strengthening exercises you can do right at home. No equipment required in
+},
+{
+    601.04,605.06
+     order to heal this IT band syndrome that you guys are
+},
+{
+    605.06,608.72
+     experiencing. So I hope that helps you guys out. I hope now you understand a
+},
+{
+    608.72,612.92
+     little bit better how to foam roll your IT band and the goal here is to just make
+},
+{
+    612.92,617.12
+     you guys more effective, get you healed faster to get you back what you love to
+},
+{
+    617.12,619.6
+     be doing. I hope you guys found this effective. I hope you find this
+},
+{
+    619.6,623.0
+     beneficial. If you do smash that thumbs up button down below. Thank you so much
+},
+{
+    623.0,627.24
+     for that. If you haven't done so already, please subscribe to tone and Titan right here on YouTube
+},
+{
+    627.24,630.48
+     I tried to share a lot of videos like this that help you guys out
+},
+{
+    631.48,634.56
+     If you have any questions or comments leave those down below also
+},
+{
+    634.56,637.84
+     Also, if you have any suggestions for future videos things you'd like to see from me
+},
+{
+    637.84,644.06
+     I'd love to you know, that's that's where I get a lot of my ideas from is you guys in your comments and your problems
+},
+{
+    644.06,645.52
+     I'm happy to help out where I can.
+},
+{
+    645.8,647.36
+     And so you guys, that's it for me.
+},
+{
+    647.6,649.56
+     Subscribe, like, comment.
+},
+{
+    649.56,652.76
+     If you know anyone who has it band syndrome, share this with them.
+},
+{
+    652.8,654.44
+     I'd love you guys to spread the word.
+},
+{
+    654.44,655.28
+     However we can.
+},
+{
+    655.52,656.32
+     Thank you so much.
+},
+{
+    656.32,None
+     And we'll see you right back here next time on tone and tighten. you
+},

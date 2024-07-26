@@ -1,0 +1,36 @@
+{
+    0.0,12.12
+     In this section you will see the step by step application of three slings used for arm and
+},
+{
+    12.12,17.96
+     shoulder injuries. All three of these slings are applied to the patient to support and
+},
+{
+    17.96,27.4
+     secure the limb. The first sling to be demonstrated is the arm sling. It is for wrist and forearm injuries.
+},
+{
+    27.4,32.84
+     Hold the triangle bandage with the longest length vertical and hold the arrow pointing
+},
+{
+    32.84,35.72
+     to the injured side of the body.
+},
+{
+    35.72,41.76
+     Lay the sling over the patient's body, aligning the arrow tip with the height of the elbow.
+},
+{
+    41.76,45.2
+     Have the patient move the injured arm across their body, then take the bottom of the elbow. Have the patient move the injured arm across their body, then
+},
+{
+    45.2,54.2
+     take the bottom of the sling and fold it over the other shoulder. Fasten the sling at the
+},
+{
+    54.2,63.76
+     shoulder with a knot, ensuring that the elbow is covered and supported by the sling. This
+},

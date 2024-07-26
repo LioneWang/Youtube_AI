@@ -1,0 +1,236 @@
+{
+    0.0,4.0
+     Welcome to this guide to performing a skin self-exam.
+},
+{
+    5.0,10.0
+     In part 1, I'll start by explaining the A, B, C, D and E rules.
+},
+{
+    11.0,16.0
+     These are the warning signs you should be aware of when looking for melanoma skin cancer.
+},
+{
+    17.0,27.2
+     Then, together, we'll follow a simple 7-step process in part 2 for how and where to check your whole body.
+},
+{
+    28.72,34.56
+     As well as having a professional checkup once a year, it's a good idea to conduct your own
+},
+{
+    34.56,47.62
+     skin check once a month. So please make following this video a regular part of your monthly health routine. Your skin is precious
+},
+{
+    47.62,52.78
+     and it's really important that you get to know it so you can identify any
+},
+{
+    52.78,58.8
+     changes in your moles. Let's get started.
+},
+{
+    60.6,67.4
+     The ABCDE rules are a good way to remember the possible signs of melanoma.
+},
+{
+    67.4,70.52
+     A. Is the spot asymmetric?
+},
+{
+    70.52,73.32
+     Is one half unlike the other?
+},
+{
+    73.32,77.04
+     B. Does it have uneven borders?
+},
+{
+    77.04,84.0
+     Are some of the edges irregular and poorly defined, while others are sharper and well-defined?
+},
+{
+    84.0,87.04
+     C. Does it contain different colors?
+},
+{
+    87.04,89.26
+     Does the spot have more than one color,
+},
+{
+    89.26,93.14
+     or is there an uneven distribution of color?
+},
+{
+    93.14,97.8
+     D, is it larger than six millimeters in diameter?
+},
+{
+    97.8,101.02
+     Is it larger than the width of a pencil eraser?
+},
+{
+    101.02,107.0
+     E, has there been an evolution in size, shape or colour?
+},
+{
+    107.0,110.52
+     This is a particularly important rule.
+},
+{
+    110.52,116.48
+     If your mole has changed in any way, you should see that as a warning sign.
+},
+{
+    116.48,120.0
+     Similarly, is it an ugly duckling?
+},
+{
+    120.0,123.56
+     Does it look different to your other moles?
+},
+{
+    123.56,129.16
+     Understand what is normal for you, so that it's easy to spot any changes.
+},
+{
+    129.16,136.28
+     In fact, if you find anything that looks atypical, or if any of your moles don't pass the A,
+},
+{
+    136.28,142.76
+     B, C, D, E test, then book an appointment for a professional checkup soon.
+},
+{
+    142.76,146.16
+     You should also see a doctor if you have a skin lesion
+},
+{
+    146.16,150.12
+     that is painful, scabbing, itching, or bleeding.
+},
+{
+    151.64,153.68
+     An open sore that doesn't heal
+},
+{
+    153.68,157.82
+     after three to four weeks is also of possible concern.
+},
+{
+    159.68,163.36
+     But please remember, the key to successful treatment
+},
+{
+    163.36,167.0
+     of melanoma is early detection and treatment.
+},
+{
+    168.0,173.0
+     So, don't delay in getting advice if you think it's needed.
+},
+{
+    179.0,188.3
+     Now for part two, the actual examination. We'll keep the ABCD rules on the screen in case you need a reminder
+},
+{
+    188.3,193.28
+     of what to look for when you're doing your skin exam. We've allowed some time between
+},
+{
+    193.28,198.68
+     each set of instructions, so you should just be able to leave this video playing in real
+},
+{
+    198.68,205.52
+     time. But if you're not ready to move on and need more time to check any particular area, just
+},
+{
+    205.52,207.72
+     hit the pause button.
+},
+{
+    207.72,212.84
+     You should be in a well-lit room so you can see your skin and all your moles clearly.
+},
+{
+    212.84,218.32
+     You'll also be looking at some hard to see and hard to reach places.
+},
+{
+    218.32,226.0
+     So you'll need a comb, a full length mirror and a hand mirror to conduct a full examination properly.
+},
+{
+    227.0,230.0
+     If you can get someone to help you, that's even better.
+},
+{
+    231.0,234.0
+     If you find anything that concerns you during your exam,
+},
+{
+    235.0,238.0
+     you may want to take a picture of it with your camera,
+},
+{
+    239.0,242.0
+     with a ruler alongside it for reference.
+},
+{
+    243.0,246.28
+     This will allow you to compare pictures of the mole over time
+},
+{
+    246.28,252.36
+     so you can detect any changes. We'll be checking your whole body now from top to
+},
+{
+    252.36,262.36
+     bottom. Step one. First examine your scalp using a comb to part your hair. If you
+},
+{
+    262.36,267.2
+     don't have much hair make sure you check your entire scalp very thoroughly.
+},
+{
+    286.56,317.12
+     Step 3.
+},
+{
+    317.12,327.0
+     Now focus on your neck, chest and upper body. Women, be sure to check between and underneath your breasts.
+},
+{
+    396.72,408.56
+     Step 4. Use both mirrors to check the back upper and lower arms, not forgetting your armpits. Step 6. Next check the front and back of your hands and in between your fingers. Pay attention to your nails. Finding any black
+},
+{
+    408.56,414.48
+     streaks or unfamiliar ridges would be a warning sign.
+},
+{
+    432.0,436.0
+     Step 7. Lastly, examine your lower body.
+},
+{
+    436.0,472.76
+     Check your genitals, buttocks and your legs, both front and back. Finish by examining the soles of your feet, toes and in between your toes. That's it. All done. Now. If you've seen anything that concerns you, please get it checked
+},
+{
+    472.76,480.0
+     by a doctor or dermatologist soon. But please also remember that if detected and treated
+},
+{
+    480.0,486.48
+     early, the majority of melanomas can be treated successfully.
+},
+{
+    486.48,490.4
+     Thanks for watching and I hope you'll join me next month.
+},
+{
+    490.4,492.08
+     Bye.
+},

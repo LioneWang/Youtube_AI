@@ -1,0 +1,212 @@
+{
+    0.0,16.96
+     Progressive muscle relaxation. Stress, whether you realize it or not, creates tension in
+},
+{
+    16.96,23.32
+     the body. Patients with rheumatic diseases tend to have a lot of muscle tension, especially
+},
+{
+    23.32,27.74
+     when trying to cope with the daily joint stiffness and pain.
+},
+{
+    27.74,33.82
+     This next exercise, known as progressive muscle relaxation, involves purposely tensing and
+},
+{
+    33.82,39.42
+     relaxing different muscles so you can more easily identify the difference between feeling
+},
+{
+    39.42,42.82
+     tense and feeling relaxed.
+},
+{
+    42.82,47.0
+     Just like the first exercise, the end goal here is to feel less stressed.
+},
+{
+    47.0,54.0
+     Also, it's important to note that you should not engage in any of these exercises if you have pain
+},
+{
+    54.0,61.0
+     in different parts of the body or distress or limitations. You should not be in any discomfort
+},
+{
+    61.0,66.12
+     while doing these exercises, so please feel free to modify or eliminate
+},
+{
+    66.12,69.32
+     any of the strategies as you see fit.
+},
+{
+    69.32,71.5
+     Let's practice.
+},
+{
+    71.5,76.5
+     Again, find a comfortable place to either sit or lie down.
+},
+{
+    76.56,81.56
+     You can begin by taking a few deep relaxing breaths.
+},
+{
+    82.72,85.68
+     Let's begin by bringing attention to your feet.
+},
+{
+    87.12,93.64
+     Curl your toes in tightly to feel the tensing muscles of the foot of both feet.
+},
+{
+    95.04,101.08
+     Hold this for a few moments before releasing the tension and relaxing the feet.
+},
+{
+    101.76,103.76
+     Do you notice the difference?
+},
+{
+    103.96,111.96
+     relaxing the feet. Do you notice the difference? Noticing the difference between a tense and relaxed muscle is the purpose of this exercise.
+},
+{
+    111.96,118.0
+     Now we're going to repeat this relaxation exercise with different parts of the body.
+},
+{
+    118.0,126.56
+     Now point your feet down, pointing the toes down toward the floor, feeling the tension in your calf muscles.
+},
+{
+    126.56,135.92
+     Hold that for a few moments and release. Once again noticing that change from
+},
+{
+    135.92,149.52
+     moments of tension and moments of relaxation. Now bringing attention to the thigh muscles, point the toes upward toward the ceiling,
+},
+{
+    149.52,155.52
+     feeling the tension in the large muscles of the thighs.
+},
+{
+    155.52,164.96
+     Hold that for a few moments and when you're ready, begin to release.
+},
+{
+    164.96,169.78
+     Now bring attention to the buttocks. Tightening the muscles of
+},
+{
+    169.78,176.46
+     the buttocks as you sit or lie on the floor. Once again holding this for a few
+},
+{
+    176.46,190.6
+     moments and gently relaxing. Bringing attention to the belly, to the muscles of the abdomen,
+},
+{
+    190.6,196.68
+     and tensing these muscles as if you're bringing your belly button in, pushing
+},
+{
+    196.68,207.36
+     your belly button in toward the spine, and holding here for a moment and gently relaxing.
+},
+{
+    210.8,218.96
+     Noticing the back and here just gently arching the lower back and seeing if you can feel
+},
+{
+    218.96,224.48
+     the tension along the muscles in the back as you arch the back.
+},
+{
+    225.0,226.24
+     along the muscles in the back as you arch the back.
+},
+{
+    228.5,230.1
+     Hold for a moment or two,
+},
+{
+    233.78,235.8
+     and then slowly release.
+},
+{
+    238.08,241.18
+     Working our way up to the shoulders, a place where we tend to hold a lot of tension,
+},
+{
+    242.0,244.76
+     bringing your shoulders up towards your ears,
+},
+{
+    244.76,245.92
+     squeezing them up,
+},
+{
+    245.92,257.28
+     holding them for a moment, and slowly and gently releasing the shoulders. Now
+},
+{
+    257.28,265.0
+     focusing on the hands, making the hands into a fist and squeezing tightly.
+},
+{
+    265.0,272.0
+     Hold it another moment and slowly release.
+},
+{
+    274.0,276.0
+     Now working up to the arms.
+},
+{
+    276.0,280.0
+     You can just gently keep the fists if you like
+},
+{
+    280.0,284.0
+     and bring the lower arms towards the upper arms.
+},
+{
+    284.0,288.28
+     Pulling the forearms up towards the upper arms,
+},
+{
+    288.28,291.02
+     tightening the biceps,
+},
+{
+    291.02,295.82
+     and slowly releasing.
+},
+{
+    295.82,300.56
+     And finally, bringing attention to the face and the mouth.
+},
+{
+    300.56,304.48
+     Here, we're going to squeeze our eyes tight,
+},
+{
+    304.48,305.8
+     holding them shut tight,
+},
+{
+    305.8,317.28
+     pursing the lips, holding for a moment and slowly relaxing.
+},
+{
+    317.28,327.92
+     Once you have tense and relaxed all of these muscles. Notice how your body feels. Allow yourself to feel
+},
+{
+    327.92,None
+     totally relaxed as you sit or lie here. You can do this exercise daily. If you have time, for a more extensive relaxation exercise.
+},

@@ -1,0 +1,396 @@
+{
+    0.0,6.0
+     Music
+},
+{
+    6.0,29.44
+     Music Having a stuffy nose, cough and nasal congestion from allergies, a sinus infection, or from
+},
+{
+    29.44,34.38
+     other medical issues can greatly affect your quality of life.
+},
+{
+    34.38,39.2
+     This video provides important information about sinus rinsing.
+},
+{
+    39.2,44.08
+     Sinus rinsing is an effective self-care technique that you can do at home to help with your
+},
+{
+    44.08,45.92
+     symptoms.
+},
+{
+    45.92,53.08
+     This video addresses what is sinus congestion, the benefits of sinus rinsing, and how to
+},
+{
+    53.08,55.8
+     do sinus rinsing at home.
+},
+{
+    55.8,62.76
+     The sinuses are air-filled spaces in the cheekbones, between the eyes, and in the forehead.
+},
+{
+    62.76,66.36
+     Normally, the sinuses are moist or wet inside
+},
+{
+    66.36,68.88
+     with a thin layer of mucus.
+},
+{
+    68.88,73.72
+     Normal, healthy sinuses have fine hairs or cilia inside
+},
+{
+    73.72,75.52
+     to clear the mucus.
+},
+{
+    75.52,78.08
+     It drains away on its own.
+},
+{
+    78.08,81.0
+     When your sinuses aren't working as they should,
+},
+{
+    81.0,82.84
+     the mucus builds up.
+},
+{
+    82.84,84.92
+     This is called congestion.
+},
+{
+    84.92,88.6
+     Congestion usually means that the lining of the sinuses
+},
+{
+    88.6,89.88
+     is swollen.
+},
+{
+    89.88,94.36
+     You may have thick, colored, mucus drainage, bad breath,
+},
+{
+    94.36,99.96
+     fever, facial pressure, or pain, a cough, stuffy nose,
+},
+{
+    99.96,102.72
+     or all of these symptoms.
+},
+{
+    102.72,107.18
+     Rinsing the inside of your nose with a mild saltwater solution
+},
+{
+    107.18,109.64
+     helps to reduce the swelling.
+},
+{
+    109.64,112.94
+     This in turn often reduces congestion
+},
+{
+    112.94,115.5
+     to help you breathe more easily.
+},
+{
+    115.5,119.1
+     Rinsing also moves mucus, dirt, and dust
+},
+{
+    119.1,121.72
+     out of your nose and sinuses.
+},
+{
+    121.72,123.64
+     Rinsing the inside of the nose
+},
+{
+    123.64,127.6
+     is known as sinus rinsing, sinus irrigation,
+},
+{
+    127.6,135.86
+     or sinus lavage. Sinus rinsing is a technique you can learn to do at home. Sinus rinsing
+},
+{
+    135.86,145.0
+     is a proactive step you can take to help relieve sinus symptoms and congestion. Here are the steps to do sinus rinsing.
+},
+{
+    151.0,160.0
+     Step one, gather your supplies. You will need a sinus rinsing device and materials to make a mild saltwater solution.
+},
+{
+    160.0,167.0
+     This is also known as saline solution. There are different devices to use for sinus rinsing.
+},
+{
+    167.0,170.0
+     The most common are a sinus rinse bottle.
+},
+{
+    170.0,174.0
+     As you squeeze the bottle, the saline squirts out the top.
+},
+{
+    174.0,178.0
+     Or a neti pot, which looks like a small teapot.
+},
+{
+    178.0,183.0
+     You can get a sinus rinse bottle or neti pot at your local drugstore
+},
+{
+    183.0,187.0
+     or a store that carries home healthcare supplies.
+},
+{
+    187.0,194.0
+     A bulb syringe should not be used for sinus rinsing unless your healthcare provider tells you to use one.
+},
+{
+    194.0,199.0
+     Saline solution is the most common fluid to use for sinus rinsing.
+},
+{
+    199.0,204.0
+     Saline is a mixture of salt, baking soda and very clean water.
+},
+{
+    204.0,205.12
+     Distilled water is the best option. Galene is a mixture of salt, baking soda, and very clean water.
+},
+{
+    205.12,208.16
+     Distilled water is the best option.
+},
+{
+    208.16,214.08
+     No matter where you live, tap water or well water are not completely clean or pure for
+},
+{
+    214.08,216.8
+     purposes of sinus rinsing.
+},
+{
+    216.8,220.96
+     You don't want germs in the water to go into your nose.
+},
+{
+    220.96,225.0
+     If you must use tap water, boil it for three minutes and then cool.
+},
+{
+    225.0,230.0
+     Use water that is warm or body temperature. It is more comfortable.
+},
+{
+    230.0,236.0
+     You can warm the water in a microwave. Don't use hot water.
+},
+{
+    236.0,243.0
+     For the saline ingredients, you can buy pre-measured packets of saline powder over the counter.
+},
+{
+    243.0,246.4
+     You can also make it yourself. If you make
+},
+{
+    246.4,253.44
+     saline at home, start with 1-1.5 teaspoon of salt and 1-1.25 teaspoon of baking soda
+},
+{
+    253.44,262.08
+     in 8 ounces of distilled water. Use non-iodized sea salt or kosher salt and not table salt.
+},
+{
+    262.08,265.9
+     The non-iodized salt will be more comfortable.
+},
+{
+    265.9,269.34
+     Adjust the amount of salt to your comfort.
+},
+{
+    269.34,274.04
+     Step two, wash your hands very well with soap and water.
+},
+{
+    274.04,277.66
+     Rinse and dry your hands on a clean towel.
+},
+{
+    277.66,281.9
+     Step three, prepare the saline solution.
+},
+{
+    281.9,286.72
+     Fill the sinus rinse bottle with the warm distilled water. Add the
+},
+{
+    286.72,293.88
+     saline powder to the bottle. Screw on the nozzle. Gently shake the bottle to mix
+},
+{
+    293.88,300.76
+     the solution. For a neti pot stir the saline powder into the water and mix
+},
+{
+    300.76,306.88
+     gently. If you are measuring your own salt and baking soda to make saline,
+},
+{
+    306.88,315.08
+     add both to the bottle or neti pot and mix gently. Step 4. Start rinsing.
+},
+{
+    315.08,325.0
+     Lean your upper body over a sink. You may prefer to keep your face upright as if you are looking into a mirror.
+},
+{
+    325.0,330.0
+     Or you may want to tip your head toward the faucet.
+},
+{
+    330.0,334.0
+     Put the tip of the bottle firmly into one of your nostrils.
+},
+{
+    334.0,338.0
+     You want to block the entire nostril.
+},
+{
+    338.0,344.0
+     Gently squeeze the bottle until the solution runs out of your other nostril or your mouth.
+},
+{
+    344.0,349.0
+     Before you release each squeeze, remove the bottle from your nose.
+},
+{
+    349.0,355.0
+     You don't want to pull solution that was in your nose back into the bottle.
+},
+{
+    355.0,359.0
+     Use about half the bottle for each nostril.
+},
+{
+    359.0,367.0
+     If you are having trouble, try putting your head in different positions to see what works for you.
+},
+{
+    367.0,371.0
+     For a neti pot, follow the same steps.
+},
+{
+    371.0,373.0
+     Tip your head to the side.
+},
+{
+    373.0,378.0
+     Put the tip of the neti pot firmly into one nostril.
+},
+{
+    378.0,384.0
+     Pour the saline into the nostril so it runs out of your other nostril or your mouth.
+},
+{
+    384.0,387.92
+     Do one side and then the other.
+},
+{
+    387.92,389.76
+     Step 5.
+},
+{
+    389.76,394.64
+     After rinsing, tilt your head to the side and blow your nose.
+},
+{
+    394.64,397.6
+     Some saline may drain down your throat.
+},
+{
+    397.6,403.16
+     The small amount you swallow is not a problem for most people.
+},
+{
+    403.16,404.72
+     Step 6.
+},
+{
+    404.72,406.16
+     Clean the bottle.
+},
+{
+    406.16,411.96
+     When you have finished rinsing, wash the bottle or neti pot with hot but not boiling water
+},
+{
+    411.96,415.08
+     and a small amount of dishwashing soap.
+},
+{
+    415.08,416.68
+     Rinse and drain well.
+},
+{
+    416.68,419.04
+     Allow to air dry.
+},
+{
+    419.04,422.92
+     Wash your hands and dry on a clean towel.
+},
+{
+    422.92,425.8
+     Replace the bottle every three months.
+},
+{
+    425.8,427.88
+     As you start with sinus rinsing,
+},
+{
+    427.88,430.52
+     you may have to try different saline powders
+},
+{
+    430.52,433.36
+     to see which one works best for you.
+},
+{
+    433.36,434.78
+     And don't give up.
+},
+{
+    434.78,437.92
+     Sinus rinsing may seem hard at first,
+},
+{
+    437.92,441.04
+     but it is an important part of your self-care,
+},
+{
+    441.04,444.04
+     and it makes a difference for many people.
+},
+{
+    444.04,449.0
+     Your Mayo Clinic health care team is here to help answer all of your questions
+},
+{
+    449.0,456.0
+     as you manage your symptoms from allergies, chronic sinus infection, or from other medical issues.
+},

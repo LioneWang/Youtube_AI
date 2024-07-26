@@ -1,0 +1,940 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    12.12,14.52
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    14.52,15.96
+     Brad Heineck, physical therapist.
+},
+{
+    15.96,17.8
+     And we are the most famous physical therapists
+},
+{
+    17.8,18.72
+     on the internet.
+},
+{
+    18.72,20.16
+     In our opinion, of course, Bob.
+},
+{
+    20.16,21.92
+     We're gonna talk about top three signs
+},
+{
+    21.92,23.28
+     you have a frozen shoulder.
+},
+{
+    23.28,26.48
+     These are three self teststests you can do yourself
+},
+{
+    26.48,29.12
+     and they're easy to do and you'll be able to understand
+},
+{
+    29.12,31.0
+     whether or not you have one or not.
+},
+{
+    31.0,31.84
+     There you go.
+},
+{
+    31.84,32.92
+     By the way, if you're new to our channel,
+},
+{
+    32.92,34.48
+     please take a second to subscribe to us.
+},
+{
+    34.48,36.04
+     We provide videos on how to stay healthy,
+},
+{
+    36.04,38.24
+     pay pain-free and we upload every day.
+},
+{
+    38.24,40.6
+     Join us on our website, bobandbrad.com,
+},
+{
+    40.6,42.18
+     because we're always giving something away.
+},
+{
+    42.18,44.56
+     We got a beauty this week.
+},
+{
+    44.56,46.04
+     We'll show it in just a minute.
+},
+{
+    46.04,47.56
+     You can also find it on Facebook.
+},
+{
+    47.56,49.88
+     It's pinned to the top of the page.
+},
+{
+    49.88,52.44
+     Go to Twitter, Instagram, or TikTok
+},
+{
+    52.44,55.08
+     if you want a 60 second version of our program.
+},
+{
+    55.08,56.4
+     The product that we're giving away
+},
+{
+    56.4,58.4
+     is the Renfold massage gun.
+},
+{
+    58.4,60.04
+     It's kind of an adjustable one.
+},
+{
+    60.04,62.68
+     It's kind of a little bit different.
+},
+{
+    62.68,63.76
+     Yeah, see how that works?
+},
+{
+    63.76,66.52
+     So you can hit different spots a little bit easier.
+},
+{
+    66.52,69.44
+     This thing really penetrates quite well.
+},
+{
+    69.44,72.28
+     It's got a good, what do you call that, range of bread?
+},
+{
+    72.28,73.28
+     Displacement.
+},
+{
+    73.28,74.68
+     Displacement, yeah.
+},
+{
+    74.68,78.68
+     So really takes care of what it holds you on.
+},
+{
+    78.68,80.04
+     All right, might even be good for your
+},
+{
+    80.04,81.84
+     adhesive capsulitis, right?
+},
+{
+    81.84,83.64
+     There you go, Bob.
+},
+{
+    83.64,86.84
+     And speaking of which, that's another name for frozen shoulder, adhesive capsulitis, right? There you go, Bob. And speaking of which, that's another name for frozen shoulder,
+},
+{
+    86.84,89.16
+     adhesive capsulitis.
+},
+{
+    89.16,91.2
+     In that case, what's going on,
+},
+{
+    91.2,93.96
+     you're seeing an inflammation or thickening
+},
+{
+    93.96,97.34
+     or scarring of the capsule that goes around the shoulder.
+},
+{
+    97.34,98.68
+     Let's show you that real quick.
+},
+{
+    98.68,99.76
+     I think that might be helpful.
+},
+{
+    99.76,101.56
+     Yep, good old Sam, well,
+},
+{
+    101.56,104.64
+     this is a really nice model of this, Bob.
+},
+{
+    104.64,106.64
+     Yeah, why don't we show this side first, Brad?
+},
+{
+    106.64,107.48
+     So we have...
+},
+{
+    107.48,109.12
+     Oh, I think we wanted to introduce them.
+},
+{
+    109.12,110.48
+     Yeah, there we go.
+},
+{
+    110.48,113.72
+     We got the ball, basically, of the humerus,
+},
+{
+    113.72,115.28
+     and then we have kind of the socket
+},
+{
+    115.28,117.48
+     formed by a couple bones here.
+},
+{
+    117.48,122.12
+     Now, around all of this is a tough, fibrous material
+},
+{
+    122.12,123.8
+     that helps hold it in place.
+},
+{
+    123.8,124.64
+     Right.
+},
+{
+    124.64,126.68
+     And it's called the capsule.
+},
+{
+    126.68,129.64
+     You can see a little bit of the capsule right here.
+},
+{
+    129.64,134.0
+     So this is the thing that gets thick, it scars down,
+},
+{
+    134.0,136.72
+     it becomes like glue, it holds the shoulder in place
+},
+{
+    136.72,138.36
+     and it isn't able to move.
+},
+{
+    138.36,143.24
+     Right, that capsule should be like a really elastic elastic.
+},
+{
+    143.24,144.08
+     Like a band.
+},
+{
+    144.08,145.36
+     Right, like a band, it should flex,
+},
+{
+    145.36,148.64
+     but it gets tightened and it just does not allow mobility.
+},
+{
+    148.64,150.98
+     Yeah, we'll talk about the phases of that in just a minute,
+},
+{
+    150.98,153.5
+     but once that gets tightened down,
+},
+{
+    153.5,156.6
+     you're gonna find out it gets tightened in every direction.
+},
+{
+    156.6,157.96
+     And that's gonna be part of the test
+},
+{
+    157.96,158.88
+     that we'll show today.
+},
+{
+    158.88,159.72
+     Right.
+},
+{
+    159.72,163.56
+     So, two to 5% of the population gets this.
+},
+{
+    163.56,165.86
+     It's more women than men.
+},
+{
+    165.86,168.68
+     It's increased among people who have diabetes.
+},
+{
+    170.06,172.42
+     It's also, you have increased likelihood,
+},
+{
+    172.42,174.16
+     if it happened to one shoulder,
+},
+{
+    174.16,176.34
+     it's more likely to happen to the other shoulder.
+},
+{
+    176.34,178.46
+     You know, that's what other diagnosis is too,
+},
+{
+    178.46,180.66
+     but that's another story.
+},
+{
+    180.66,183.94
+     It's triggered often by mild trauma
+},
+{
+    183.94,185.0
+     or surgery on the shoulder.
+},
+{
+    185.68,189.96
+     So the reason I just recently wanted to do this now
+},
+{
+    189.96,192.88
+     is because one of the people that works with us,
+},
+{
+    192.88,196.32
+     one of our physical therapist assistants, he has it.
+},
+{
+    196.32,199.6
+     And what's interesting to me is that he went to a doctor
+},
+{
+    199.6,201.8
+     and got a cortisone shot for it.
+},
+{
+    201.8,202.64
+     Injection.
+},
+{
+    202.64,203.88
+     Yeah, injection.
+},
+{
+    203.88,206.28
+     But the doctor didn't, you know,
+},
+{
+    206.28,208.64
+     I said he diagnosed you with frozen shoulder.
+},
+{
+    208.64,210.4
+     He goes, no.
+},
+{
+    210.4,212.16
+     So it was interesting.
+},
+{
+    212.16,214.76
+     It's very clear when you have a frozen shoulder.
+},
+{
+    214.76,216.12
+     Right, yeah.
+},
+{
+    216.12,217.48
+     You'll see from the test.
+},
+{
+    217.48,219.72
+     So with a frozen shoulder, there's three phases.
+},
+{
+    219.72,221.28
+     There's a freezing phase.
+},
+{
+    222.2,228.14
+     And during that phase, the pain is probably, that's the worst painful phase
+},
+{
+    228.14,230.58
+     because it's painful at night quite often
+},
+{
+    230.58,232.58
+     so you can't get to sleep.
+},
+{
+    232.58,235.54
+     The second phase is that it's frozen.
+},
+{
+    235.54,236.86
+     It's different frozen.
+},
+{
+    236.86,241.86
+     And the third phase is unfreeze.
+},
+{
+    242.54,248.94
+     But the whole thing, this can take months or years to go through all phases.
+},
+{
+    249.14,251.24
+     I don't know if years is very common, but months is.
+},
+{
+    251.24,252.2
+     It's common.
+},
+{
+    252.2,253.04
+     It is.
+},
+{
+    253.04,254.66
+     It's common, yeah, from what I read, it's...
+},
+{
+    254.66,257.44
+     Well, I've never went into it, but yeah.
+},
+{
+    257.44,259.0
+     So top three signs.
+},
+{
+    259.0,261.4
+     Okay, first off, you wanna make sure, you know,
+},
+{
+    261.4,263.84
+     that you haven't dislocated the shoulder,
+},
+{
+    263.84,265.0
+     especially post-year.
+},
+{
+    265.0,266.0
+     Unlikely.
+},
+{
+    266.0,268.84
+     You're gonna probably know it if your
+},
+{
+    268.84,270.44
+     bone went out of the socket.
+},
+{
+    270.44,273.84
+     Pretty painful in its specific directions.
+},
+{
+    273.84,276.48
+     The other thing that could be similar to this
+},
+{
+    276.48,278.92
+     would be severe arthritis.
+},
+{
+    278.92,281.72
+     But severe arthritis doesn't come on suddenly.
+},
+{
+    281.72,284.6
+     Right, and it's typically with older people.
+},
+{
+    284.6,286.28
+     Right. So...
+},
+{
+    286.28,287.76
+     You can rule that out too, but...
+},
+{
+    287.76,289.92
+     Did you see a common age that just happened?
+},
+{
+    289.92,294.92
+     Yes, from about age 50 on 40, 50 is for frozen shoulders.
+},
+{
+    295.64,297.2
+     So it could be arthritis.
+},
+{
+    297.2,299.12
+     But arthritis again, doesn't come on quickly.
+},
+{
+    299.12,300.84
+     This can come on very quickly.
+},
+{
+    302.0,303.88
+     Arthritis comes on very slowly,
+},
+{
+    303.88,306.4
+     and you pretty much know when you have arthritis.
+},
+{
+    306.4,309.48
+     So, all right, so the first thing you're gonna do
+},
+{
+    309.48,311.12
+     is you wanna check what we call
+},
+{
+    311.12,313.68
+     active range of motion of the shoulder.
+},
+{
+    313.68,317.68
+     So the three signs are gonna go three different directions.
+},
+{
+    317.68,320.0
+     The first one Brad's gonna show from the side
+},
+{
+    320.0,321.88
+     is we're gonna do flexion.
+},
+{
+    321.88,324.76
+     And, you know, if you can only go up like this high
+},
+{
+    324.76,327.38
+     and if you're having trouble raising it,
+},
+{
+    327.38,329.14
+     that might be something else then.
+},
+{
+    329.14,329.98
+     But.
+},
+{
+    329.98,332.38
+     Yeah, usually frozen shoulder from my experience,
+},
+{
+    332.38,334.86
+     it goes up and it just wants to stop.
+},
+{
+    334.86,337.78
+     It's not real painful going through there,
+},
+{
+    337.78,339.3
+     but it doesn't go.
+},
+{
+    339.3,340.14
+     It doesn't want to go.
+},
+{
+    340.14,341.82
+     And then if you try and push it
+},
+{
+    341.82,343.42
+     or help it with the other hand,
+},
+{
+    343.42,344.78
+     it still doesn't want to go.
+},
+{
+    344.78,345.84
+     Well, you're keeping your weight here.
+},
+{
+    345.84,346.68
+     I'm sorry, Bob.
+},
+{
+    346.68,347.52
+     You're jumping ahead here.
+},
+{
+    347.52,349.28
+     I jumped the gun, I jumped the gun.
+},
+{
+    349.28,351.24
+     So the next one is abduction.
+},
+{
+    351.24,355.42
+     See, it's gonna be limited in this way when you lift it up.
+},
+{
+    355.42,356.64
+     When you lift it up on your own,
+},
+{
+    356.64,358.96
+     it's gonna be limited this way.
+},
+{
+    358.96,363.0
+     And then when you put your arm at a right angle, the elbow,
+},
+{
+    363.0,364.16
+     and then you try to go out.
+},
+{
+    364.16,366.94
+     This is the one that tends to really be limited, Brad.
+},
+{
+    366.94,369.9
+     So like this is average going way out here.
+},
+{
+    369.9,371.66
+     You might only be able to go to here.
+},
+{
+    371.66,376.28
+     You can't get any movement out at all.
+},
+{
+    376.28,377.92
+     This is the key though,
+},
+{
+    377.92,380.02
+     because there are other things that can cause you
+},
+{
+    380.02,384.02
+     to be limited this way, a torn rotator cuff.
+},
+{
+    384.02,388.78
+     But if you now take a stick or a yard stick
+},
+{
+    388.78,391.98
+     or a broom stick or a booya stick,
+},
+{
+    391.98,396.04
+     and you're gonna use the one arm to help the other.
+},
+{
+    396.04,399.34
+     So now you're gonna check flexion again.
+},
+{
+    399.34,402.96
+     And in this case, if it's a frozen shoulder,
+},
+{
+    402.96,406.52
+     you still won't be able to go any further than you did before.
+},
+{
+    406.52,409.92
+     If it's not frozen, you're gonna be able to lift it.
+},
+{
+    409.92,412.84
+     Right, like impingement, which is a very common,
+},
+{
+    412.84,414.54
+     that kinda hurts when you get through here,
+},
+{
+    414.54,415.52
+     but once you get so far,
+},
+{
+    415.52,418.64
+     then it's not so bad anymore, it's typical.
+},
+{
+    418.64,420.92
+     Same with a tore rotator cuff.
+},
+{
+    420.92,424.48
+     If it's torn and it's not frozen along with it,
+},
+{
+    424.48,428.12
+     you're gonna be able to go beyond the original.
+},
+{
+    428.12,431.02
+     So the next one, we did abduction before
+},
+{
+    431.02,432.96
+     and we only got this high, remember?
+},
+{
+    432.96,434.18
+     So we tried again.
+},
+{
+    434.18,438.14
+     Now if you go this high on this one, it's not frozen.
+},
+{
+    438.14,440.34
+     You're only gonna go that high again.
+},
+{
+    441.34,444.68
+     Just to make it clear, so the good arm is doing all the work.
+},
+{
+    444.68,446.76
+     This arm is helping it, making it go up. Because obviously you wouldn't be able to lift it clear, so the good arm is doing all the work. This arm is helping it, making it go up.
+},
+{
+    446.76,447.6
+     Right.
+},
+{
+    447.6,449.88
+     Because obviously you wouldn't be able to lift it like this.
+},
+{
+    449.88,452.04
+     In the clinic, I don't use a buoy.
+},
+{
+    452.04,453.38
+     You just do it with your arm.
+},
+{
+    453.38,455.84
+     I do it manually and I get a good feel for it,
+},
+{
+    455.84,457.88
+     but obviously you can't do that by yourself at home.
+},
+{
+    457.88,459.78
+     Right, you could do it with a pulley.
+},
+{
+    459.78,461.12
+     Sure. A pulley system.
+},
+{
+    461.12,464.8
+     The last one, okay, again, we went out like this.
+},
+{
+    464.8,468.04
+     Remember, this one only went this far.
+},
+{
+    468.04,469.56
+     Now I'm gonna grab on.
+},
+{
+    469.56,472.18
+     And again, I only go this far.
+},
+{
+    472.18,475.3
+     That's a good sign that it's possibly a frozen shoulder.
+},
+{
+    475.3,476.76
+     If you can go like this,
+},
+{
+    477.72,479.56
+     unlikely to be a frozen shoulder,
+},
+{
+    479.56,482.2
+     because you got a good passive range of motion.
+},
+{
+    482.2,483.2
+     So that's really it.
+},
+{
+    483.2,488.2
+     You just wanna do, check out those three directions
+},
+{
+    488.52,490.88
+     and make sure that they do it actively and passively
+},
+{
+    490.88,493.24
+     and see if they're limited.
+},
+{
+    493.24,496.32
+     If you're limited, we're gonna do another video this week.
+},
+{
+    496.32,498.8
+     I wanna give, I don't wanna leave people hanging, Brad.
+},
+{
+    498.8,499.96
+     We gotta help them out, right?
+},
+{
+    499.96,500.8
+     Well, yeah, they're saying,
+},
+{
+    500.8,502.48
+     oh, what do I do if I have it?
+},
+{
+    502.48,504.96
+     So we're gonna show frozen shoulder pain.
+},
+{
+    504.96,506.12
+     This is the title of it.
+},
+{
+    506.12,507.8
+     It's gonna be later this week.
+},
+{
+    507.8,510.0
+     Frozen shoulder pain, 12 of the best
+},
+{
+    510.0,512.48
+     healing home stretch exercises.
+},
+{
+    512.48,513.48
+     A dozen.
+},
+{
+    513.48,514.68
+     A dozen.
+},
+{
+    514.68,515.52
+     That's a good option.
+},
+{
+    515.52,517.4
+     Not the dirty dozen, these are the good dozen.
+},
+{
+    517.4,519.84
+     Yeah, that's a good option, Bob.
+},
+{
+    519.84,521.52
+     You'll find at least three of them
+},
+{
+    521.52,523.06
+     that'll work well for you.
+},
+{
+    523.06,524.6
+     Exactly, and they're good actually,
+},
+{
+    524.6,526.24
+     depending on what phase you're in.
+},
+{
+    526.24,527.76
+     Like if you're in the freezing phase
+},
+{
+    527.76,528.96
+     or the frozen phase.
+},
+{
+    528.96,530.28
+     Right, and it's some.
+},
+{
+    530.28,534.28
+     And with this, you can get frozen shoulder in the summer.
+},
+{
+    534.28,537.6
+     Yes, you can get it any time, unfortunately.
+},
+{
+    537.6,539.4
+     It's a lot easier to do it in the winter.
+},
+{
+    539.4,540.4
+     That's good.
+},
+{
+    540.4,None
+     All right, thanks everybody for watching.
+},

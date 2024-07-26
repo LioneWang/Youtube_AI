@@ -1,0 +1,380 @@
+{
+    0.0,31.52
+     I'm going to do a quick head to toe assessment and see what's going on with Chad.
+},
+{
+    31.52,34.52
+     Again, I want to address the bleeding first.
+},
+{
+    34.52,37.96
+     What I do take note of immediately is coming out of his nose.
+},
+{
+    37.96,40.38
+     This is called Srebel spinal fluid.
+},
+{
+    40.38,43.32
+     That is fluid coming out of the nose or the ears.
+},
+{
+    43.32,48.32
+     It could be bloody and it could be mixed with fluid, kind of a white milky fluid.
+},
+{
+    48.32,53.88
+     What happens here is when there's a head injury or a gunshot to the head, the brain expands.
+},
+{
+    53.88,57.08
+     There's fluid around the brain called cerebral spinal fluid.
+},
+{
+    57.08,59.84
+     There's no place for this fluid to go when the brain expands.
+},
+{
+    59.84,64.2
+     What happens is it'll come out of the nose, can travel up through tubes called a station
+},
+{
+    64.2,66.6
+     tube and come out of the ears.
+},
+{
+    66.6,69.48
+     This is the type of bleeding that you don't want to control.
+},
+{
+    69.48,73.52
+     Chad's brain is swelling and blood is getting pushed out of his nose.
+},
+{
+    73.52,75.72
+     Claire's fluid is getting pushed out of his ears.
+},
+{
+    75.72,77.4
+     We want to let this bleed.
+},
+{
+    77.4,80.24
+     Your body will reproduce that cerebral spinal fluid.
+},
+{
+    80.24,87.68
+     So this is a key and tells us that Stephanie's providing spinal immobilization is very, very important. And what I'm looking at here
+},
+{
+    87.68,90.88
+     is looks like a chest injury. I need to expose a little bit further
+},
+{
+    90.88,94.48
+     and I'm gonna cut that area. Again, if you have a knife and you have to cut it to
+},
+{
+    94.48,95.24
+     expose it,
+},
+{
+    95.24,99.04
+     you'll do that. So I'm gonna cut and expose this area here.
+},
+{
+    99.04,102.44
+     It looks like he's got a
+},
+{
+    102.44,105.46
+     bullet wound to the chest here and there's some blood coming
+},
+{
+    105.46,106.46
+     out of it.
+},
+{
+    106.46,110.64
+     Now what I notice here is there's a little bit of a red mark down on the bottom.
+},
+{
+    110.64,115.02
+     What happens when a projectile hits a person at an angle is if it hits them straight on
+},
+{
+    115.02,117.2
+     it's going to make pretty much a perfect hole.
+},
+{
+    117.2,121.78
+     But depending on what that projectile does, whether it wobbles or oscillates or it hits
+},
+{
+    121.78,125.3
+     chat at an angle, it's going to cause a little bit of an indention.
+},
+{
+    125.3,128.0
+     So we know that this is an entrance wound.
+},
+{
+    128.0,130.5
+     There's another thing I know about this wound as well.
+},
+{
+    130.5,133.4
+     If you notice this black area, this speckled,
+},
+{
+    133.4,134.9
+     this is called tattooing.
+},
+{
+    134.9,137.5
+     What happens is, is when somebody is shot
+},
+{
+    137.5,140.9
+     from a close proximity, the muzzle blast comes out
+},
+{
+    140.9,144.2
+     and tattoos around and causes these black marks.
+},
+{
+    144.2,146.2
+     Sometimes brown, sometimes black.
+},
+{
+    146.2,149.1
+     So we know that this is an entrance wound.
+},
+{
+    149.1,151.16
+     We've got a bigger problem here though.
+},
+{
+    151.16,153.5
+     Chad is having difficulty breathing,
+},
+{
+    153.5,156.24
+     and I can see that there's blood coming out of this.
+},
+{
+    156.24,159.66
+     What's happening here is right behind Chad's chest here,
+},
+{
+    159.66,162.0
+     his lungs are sitting there,
+},
+{
+    162.0,163.84
+     and when the bullet wound goes in,
+},
+{
+    163.84,167.3
+     what can happen is that when Chad is breathing,
+},
+{
+    167.3,171.34
+     air is leaking out of his lungs and into this space right here.
+},
+{
+    171.34,173.94
+     So what happens is the air leaks into this space.
+},
+{
+    173.94,177.26
+     It's called a pleural cavity, and it puts pressure on the lungs.
+},
+{
+    177.26,179.62
+     And as more air leaks into this space,
+},
+{
+    179.62,183.3
+     the lungs start to squeeze closer and closer together.
+},
+{
+    183.3,185.0
+     So we need to close this up right away.
+},
+{
+    185.0,189.0
+     In essence, what we need to do is make a one-way valve.
+},
+{
+    189.0,193.0
+     We need Chad when he inhales to put all that air into his lungs
+},
+{
+    193.0,195.0
+     and exit out of this bullet wound.
+},
+{
+    195.0,198.0
+     Because what's happening is, as he'll breathe in,
+},
+{
+    198.0,201.0
+     the lungs will expand, air will come out.
+},
+{
+    201.0,209.48
+     When he exhales, the air goes back in and keeps putting pressure on the lungs. So we're going to do something called an occlusive bandage. There's two ways of
+},
+{
+    209.48,214.32
+     doing this. The homemade occlusive bandage is to take a piece of foil. In the military
+},
+{
+    214.32,219.2
+     they said to use your ID card, a piece of wax paper or anything that you can use. An
+},
+{
+    219.2,224.08
+     occlusive bandage is in essence a one-way valve. So what I'm going to do here is I'm
+},
+{
+    224.08,225.0
+     going to lay this down over his chest and I'm going to tapeway valve. So what I'm gonna do here is I'm gonna lay this down
+},
+{
+    225.0,228.3
+     over his chest, and I'm gonna tape this down.
+},
+{
+    228.3,231.5
+     So what's happening here is as Chad inhales,
+},
+{
+    231.5,233.9
+     the air is getting pressed in from his lungs,
+},
+{
+    233.9,235.6
+     it's getting pushed out of that hole,
+},
+{
+    235.6,238.6
+     and it's coming out through this flapper valve of sorts.
+},
+{
+    238.6,242.2
+     And then it hopes that when he exhales,
+},
+{
+    242.2,244.7
+     that the air doesn't go back in there.
+},
+{
+    244.7,247.5
+     Now there is a certain condition what will happen is
+},
+{
+    247.5,250.1
+     if he starts to get better we know it works.
+},
+{
+    250.1,253.1
+     Sometimes there's something called attention pneumothorax
+},
+{
+    253.1,257.8
+     and what that means is that the lung tissue also has a hole in it
+},
+{
+    257.8,262.5
+     and what's happening there is the air is not only leaking out of this hole and back in
+},
+{
+    262.5,267.86
+     but it's leaking through the lungs into this pleural cavity and it's collapsing his lung.
+},
+{
+    267.86,271.12
+     So what will happen there is his condition will get worse.
+},
+{
+    271.12,274.9
+     The only way to treat this is, because you don't know if it's a tension pneumothorax
+},
+{
+    274.9,280.04
+     or a simple thorax as we call this, is to put an occlusive bandage over this and watch
+},
+{
+    280.04,281.68
+     Chad and see how he's breathing.
+},
+{
+    281.68,284.12
+     I can perform my head-to-toe assessment.
+},
+{
+    284.12,290.78
+     In three to four minutes, I want to again take note on how he's breathing. I can perform my head-to-toe assessment. In three to four minutes I want to again take note on how he's breathing. If his condition gets worse then
+},
+{
+    290.78,295.1
+     what I'm going to do is I'm going to go ahead and take this occlusive bandage off and just
+},
+{
+    295.1,299.86
+     let as much air come out as possible. If he starts to breathe better then your occlusive
+},
+{
+    299.86,305.0
+     bandage is working. Anytime we suspect neck injury we roll this person as little as possible.
+},
+{
+    305.0,309.0
+     Again, if it's an emergency situation, we're going to roll them.
+},
+{
+    309.0,313.0
+     But if we do have the ability, the time, we can actually put a spine board here and chat
+},
+{
+    313.0,318.0
+     and put them on that spine board and we're going to tape them to that board and transport him.
+},
+{
+    318.0,323.0
+     But if you're out in a rural area and all you have is a vehicle and no way to call 911,
+},
+{
+    323.0,330.32
+     you're going to have to drag good old Chad here into your vehicle and move to the hospital.
+},
+{
+    330.32,334.4
+     So there's no simple way to do this. If you have to throw them over your back
+},
+{
+    334.4,337.48
+     and stick them in the back seat of the car that's what you're going to do. The
+},
+{
+    337.48,341.56
+     best bet is if you can get EMS, if you can get an ambulance or a helicopter here
+},
+{
+    341.56,346.28
+     and they'll have all that equipment to take care of them. If you don't, you do what you gotta do.
+},
+{
+    346.28,347.92
+     In an emergency situation,
+},
+{
+    347.92,349.56
+     you gotta make do with what you got.
+},
+{
+    349.56,351.56
+     It's called a critical thinking skill.
+},

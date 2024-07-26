@@ -1,0 +1,96 @@
+{
+    0.0,14.84
+     Megan Brinker was diagnosed with melanoma, a form of skin cancer, at only 27.
+},
+{
+    14.84,19.92
+     In the U.S., melanoma is on the rise at an alarming rate, especially in young women.
+},
+{
+    19.92,28.1
+     I thought back to those really bad burns that you have and the tanning that you did. Probably if I would have covered up more and not gone to the
+},
+{
+    28.1,31.6
+     tanning beds before prom, maybe this would have never happened to me. There
+},
+{
+    31.6,37.9
+     has been recent data that is very strong data that has linked tanning bed use to
+},
+{
+    37.9,40.86
+     the development of melanoma that it increases your risk per melanoma
+},
+{
+    40.86,45.76
+     development by 75%. People, particularly young people, don't get it. This
+},
+{
+    45.76,50.4
+     is a cancer that can kill you, and by many ways it is preventable.
+},
+{
+    50.4,54.6
+     At the Seidman Cancer Center at Barnes-Jewish Hospital and Washington University School
+},
+{
+    54.6,60.6
+     of Medicine, Dr. Lynn Cornelius recommends a broad-spectrum sunscreen with an SPF of
+},
+{
+    60.6,66.32
+     at least 30 hat, sunglasses, and protective clothing, as well as getting an initial screening
+},
+{
+    66.32,67.32
+     by a dermatologist.
+},
+{
+    67.32,71.48
+     You know the science of skin cancer, a mold that's changing, a dark spot that hasn't been
+},
+{
+    71.48,73.88
+     there before, something that's irregular.
+},
+{
+    73.88,78.52
+     Early detection is the best treatment and the best cure for melanoma.
+},
+{
+    78.52,80.48
+     Education about skin cancer is vital.
+},
+{
+    80.48,85.0
+     The Unique Spots program has reached over 18,000 area teenagers.
+},
+{
+    85.0,94.0
+     Medical students like these from Washington University teach them about the dangers of sun exposure, tanning beds, and ways to protect against skin cancer.
+},
+{
+    94.0,97.0
+     You never think that it's going to happen to you, but it can happen to anyone.
+},
+{
+    97.0,107.18
+     Once melanoma has spread, traditional chemotherapies have had little if any success. Physicians at Sightman have been researching new detection and treatments, as well as using
+},
+{
+    107.18,111.3
+     targeted therapies that now offer hope where there was none.
+},
+{
+    111.3,114.5
+     But the best bet is to be proactive at every age.
+},
+{
+    114.5,118.34
+     Sunscreens have been proven time and time again to decrease the incidence of all types of
+},
+{
+    118.34,119.1
+     skin cancers.
+},

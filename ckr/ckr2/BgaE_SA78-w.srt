@@ -1,0 +1,188 @@
+{
+    0.0,7.74
+     Hi, my name is Julie Tongay Gordon, registered dietitian at the Ottawa Hospital Cancer Centre.
+},
+{
+    7.74,12.7
+     In this video, we'll explore what you can do if you have lost your appetite, and you're
+},
+{
+    12.7,18.52
+     losing weight, or you're underweight and you need to achieve a healthy body weight.
+},
+{
+    18.52,21.64
+     Weight loss can occur for many reasons.
+},
+{
+    21.64,25.76
+     Sometimes your body requires more nutrients to heal. It's sometimes due to
+},
+{
+    25.76,31.28
+     side effects associated to the cancer or the treatment such as lack of appetite,
+},
+{
+    31.28,39.44
+     sore mouth, trouble swallowing, nausea or vomiting, maybe bowel issues such as
+},
+{
+    39.44,47.04
+     diarrhea or constipation. It is sometimes due to anxiety and distress. So let's get started.
+},
+{
+    47.04,51.52
+     The first recommendation is that you eat several small meals throughout your day.
+},
+{
+    51.52,57.32
+     Try eating your largest meal when you're most hungry. Sometimes going out for a
+},
+{
+    57.32,68.08
+     short walk before your meal can help improve your appetite. Try making your plate look more appetizing by adding tomato, herbs, or chives.
+},
+{
+    69.2,76.72
+     Eat foods that you tolerate and that you enjoy. Try drinking fluids half an hour to an hour before
+},
+{
+    76.72,85.68
+     your meals or after your meals in order to allow more room for nutritious meals. And of course, choose high energy, high protein foods, and
+},
+{
+    85.68,92.72
+     avoid fat-free, sugar-free, low-calorie, light foods. There are many ways to
+},
+{
+    92.72,96.08
+     increase the protein and caloric content of your plate, and I have a few
+},
+{
+    96.08,101.4
+     examples to show you. So you may want to drink more whole milk. Add skim milk
+},
+{
+    101.4,109.6
+     powder to your milk in order to make fortified milk by adding one cup of skim milk powder to four cups of milk. Skim milk powder can also be
+},
+{
+    109.6,115.52
+     added to most of your moist meals. Try adding more cheese in your meals or as a
+},
+{
+    115.52,127.32
+     snack or yogurt especially Greek yogurt which has a higher protein content. Fish, as well as seafood, poultry and meat.
+},
+{
+    128.26,130.36
+     Try having more legumes.
+},
+{
+    130.36,134.0
+     Legumes include dried peas, beans and lentils.
+},
+{
+    134.9,139.78
+     Have more eggs as a snack or as a meal.
+},
+{
+    139.78,142.6
+     You can have more nuts and seeds,
+},
+{
+    142.6,146.4
+     as well as peanut butter or nut butter and maybe some marinated
+},
+{
+    146.4,152.84
+     tofu. You can increase the caloric content of your plate by adding more cream or whipping
+},
+{
+    152.84,161.68
+     cream, maybe ice cream and including more butter or oil or maybe margarine in your cooking.
+},
+{
+    161.68,167.14
+     Some dried fruits and maybe some jam and sauces. In order to meet your
+},
+{
+    167.14,170.8
+     nutritional needs you may find it convenient to purchase some nutritional
+},
+{
+    170.8,175.96
+     supplements. They are a great source of nutrients including protein and energy.
+},
+{
+    175.96,182.88
+     They come in various forms some are ready to drink, pudding and others come in a
+},
+{
+    182.88,188.38
+     powdered form where you have to add your own milk. There are great options especially if
+},
+{
+    188.38,189.64
+     you're feeling unwell
+},
+{
+    189.64,194.72
+     or you need to maintain your weight or gain weight. You can also make your own
+},
+{
+    194.72,197.32
+     milkshake with ingredients that you have in your home.
+},
+{
+    197.32,201.92
+     Today we'll make peanut butter shake by adding one tablespoon of peanut butter,
+},
+{
+    201.92,223.88
+     one banana, and 1 half cup of purified milk.
+},
+{
+    223.88,227.0
+     Sometimes you may feel unwell or too tired to prepare a meal. In those times you may
+},
+{
+    228.72,234.72
+     want to try preparing foods in large batches when you do feel more energetic. Then freeze
+},
+{
+    234.72,240.88
+     the small portions for later when you are too tired to cook. Ask friends or family for
+},
+{
+    240.88,246.48
+     help in making some of your favorite meals. Or you may want to try a catering business
+},
+{
+    246.48,252.6
+     or home delivered food programs such as Meals on Wheels. Try eating out at your favorite
+},
+{
+    252.6,259.4
+     restaurant on occasion. Keep your kitchen well stocked with easy to prepare nutritious foods
+},
+{
+    259.4,265.52
+     that we have discussed earlier. This will ensure that you'll have the foods you need to make a healthy meal or
+},
+{
+    265.52,272.16
+     snack, especially when you're feeling under the weather. Remember, if your weight loss persists,
+},
+{
+    272.72,278.0
+     please discuss it with your physician, nurse, and radiation therapist. A referral to the
+},
+{
+    278.0,284.48
+     dietician may be recommended. I do encourage you to visit our website for more nutrition tips
+},
+{
+    286.56,287.96
+     and tips on how to deal with various side effects.
+},

@@ -1,0 +1,96 @@
+{
+    0.0,8.72
+     If the person you're caring for has an allergy, it's important to know how to deal with a
+},
+{
+    8.72,11.48
+     severe allergic reaction.
+},
+{
+    11.48,15.8
+     In this video, we'll go over what to do if someone around you is having a severe allergic
+},
+{
+    15.8,19.8
+     reaction, also known as anaphylaxis.
+},
+{
+    19.8,25.44
+     If the person you're caring for has a severe allergy, they should always carry an EpiPen.
+},
+{
+    25.44,30.0
+     An EpiPen is a pre-filled needle that will automatically give the right dose of medication
+},
+{
+    30.0,35.24
+     that can help stop or slow a severe reaction long enough to get medical help.
+},
+{
+    35.24,39.48
+     Common symptoms to look for when someone is having a reaction would be that they may have
+},
+{
+    39.48,41.4
+     a difficult time breathing.
+},
+{
+    41.4,45.52
+     Their breathing may be weasy or noisy, their face or tongue could swell
+},
+{
+    45.52,50.2
+     or they could be dizzy. If they are having a reaction, it's best to give them their
+},
+{
+    50.2,57.2
+     EpiPen right away and then call 911. To give their EpiPen, remember the phrase,
+},
+{
+    57.2,66.32
+     Blue to the sky and orange to the thigh. 1. Hold the EpiPen firmly with the orange tip pointing down towards their thigh.
+},
+{
+    66.32,71.32
+     2. Pull straight up on the blue safety cap to remove it.
+},
+{
+    71.32,78.04
+     3. Push the orange side of the EpiPen firmly into their outer thigh until you hear it click.
+},
+{
+    78.04,80.08
+     You can give it through their clothes.
+},
+{
+    80.08,84.4
+     4. Hold it in place for 3 full seconds.
+},
+{
+    84.4,90.8
+     5. Pull the EpiPen away from their thigh. The needle will be covered automatically.
+},
+{
+    90.8,98.04
+     6. Call 911 immediately after giving them their EpiPen. Never skip seeing a doctor after a
+},
+{
+    98.04,99.6
+     severe reaction.
+},
+{
+    99.6,105.56
+     7. Stay with the person you're caring for while you wait for medical help to arrive.
+},
+{
+    105.56,110.36
+     It can be scary to be there when someone has a severe allergic reaction, but being prepared
+},
+{
+    110.36,114.16
+     will ensure you're ready to help.
+},
+{
+    114.16,118.68
+     Visit our website and see our attached care guide for more information for caregivers.
+},

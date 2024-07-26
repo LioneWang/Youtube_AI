@@ -1,0 +1,172 @@
+{
+    0.0,9.68
+     Hi, I'm Rebecca Hasman. I'm one of the FMPs here at IndyCare. This is Paul Dunn, also
+},
+{
+    9.68,14.96
+     one of the FMPs here at IndyCare. Today we're going to show you how to do a flu test when
+},
+{
+    14.96,29.42
+     two people are available to do the flu testing. What in this package, a swab. This is
+},
+{
+    29.42,35.88
+     your testing solution. I recommend scissors to open the package because it
+},
+{
+    35.88,45.0
+     is difficult to get into and a timer. If you don't have aar, that's fine. A lot of people just use their phone.
+},
+{
+    45.0,56.0
+     So what we're going to do initially is open the cassette, which looks like this,
+},
+{
+    56.0,67.0
+     and then we will take the solution and put it into the cassette until all the liquid has come out.
+},
+{
+    67.0,70.8
+     Okay, and I will just sit there for a second. Why?
+},
+{
+    70.8,73.8
+     We obtain our swab
+},
+{
+    73.8,76.8
+     and our specimen from the patient here.
+},
+{
+    76.8,83.6
+     So getting a sample from the patient, Paul,
+},
+{
+    83.6,87.36
+     it doesn't hurt, but it does feel unusual. Most
+},
+{
+    87.36,91.7
+     people would say it kind of tickles and they make their eyes kind of water. They
+},
+{
+    91.7,95.52
+     may get a little red in the face. It doesn't hurt, it just feels unusual. Are
+},
+{
+    95.52,110.0
+     you ready Paul? Go for it. Okay, so what you want to do is aim it towards the back. You're not going up, we're going back this way. So right in the back, okay?
+},
+{
+    110.0,114.84
+     If we can and you have a very accommodating patient like Paul is
+},
+{
+    114.84,121.88
+     doing here, you can try going to both nostrils, which we recommend. Now you have
+},
+{
+    121.88,130.0
+     your swab. What you will take to do is put the swab. There are little indentations right in the center.
+},
+{
+    130.0,136.0
+     You will put the swab inside and you will rotate it three times.
+},
+{
+    136.0,147.6
+     The swab will stay and then you want to leave that sitting there for a minute. So I'm going to put my little timer on, on a minute.
+},
+{
+    154.24,159.24
+     At the end of a minute, you will rotate it again three times.
+},
+{
+    162.56,177.32
+     One, two, three. You just discard the swab and what you want
+},
+{
+    177.32,185.0
+     to do, the solution that you put in here will need to go down into this hole that is right here.
+},
+{
+    186.0,190.32
+     So once you put it into the solution and you look down,
+},
+{
+    190.32,193.18
+     the inside of this should be dry.
+},
+{
+    193.18,196.56
+     If you're not sure, it's okay, you can do it again.
+},
+{
+    196.56,200.56
+     Now as you see, the solution is starting to go up.
+},
+{
+    200.56,207.0
+     You now want to time this for 15 minutes.
+},
+{
+    207.0,216.0
+     A lot of times people, if they're positive for the flu, it'll appear in this window before 15 minutes,
+},
+{
+    216.0,220.0
+     but you do want to let it run the full 15 minutes.
+},
+{
+    220.0,223.0
+     So we're almost at the end of our 15 minutes.
+},
+{
+    223.0,226.48
+     The timer's only got 30 seconds to go.
+},
+{
+    226.48,230.32
+     And I'm going to explain to you how we are going to read this test.
+},
+{
+    233.0,235.8
+     The time will probably go off as I start talking.
+},
+{
+    235.8,238.4
+     A C is called a control.
+},
+{
+    238.4,249.92
+     Every test will give you a C. If you were positive for flu A, you would have that red line running here. If you were
+},
+{
+    249.92,256.92
+     positive for Flu B, you would have that red line running here. Let's shut this off. So
+},
+{
+    256.92,265.7
+     this tells you this is the final reading. So this patient does not have flu A or flu B.
+},
+{
+    265.7,269.64
+     This patient does not have that flu.
+},
+{
+    269.64,272.34
+     But if it came back positive for A and B,
+},
+{
+    272.34,275.78
+     you are still going to see the red line at C
+},
+{
+    275.78,279.22
+     because you will always see a control reading.
+},
+{
+    279.22,282.26
+     And that is how you read the flu test.
+},

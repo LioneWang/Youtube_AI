@@ -1,0 +1,1156 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.36,12.2
+     Well, hi there folks.
+},
+{
+    12.2,13.4
+     I'm Bob Schrupp, physical therapist.
+},
+{
+    13.4,14.72
+     Brad Heineck, physical therapist.
+},
+{
+    14.72,16.64
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.64,18.16
+     In our opinion, of course, Bob.
+},
+{
+    18.16,20.92
+     Today we're gonna show you how to relieve chest muscle pain.
+},
+{
+    20.92,23.08
+     And that's the pectoralis major and minor.
+},
+{
+    23.08,23.92
+     Yep.
+},
+{
+    23.92,27.58
+     In 90 seconds and avoid the most common mistake made.
+},
+{
+    27.58,31.04
+     Absolutely Bob, because this is something everyone should know.
+},
+{
+    31.04,33.52
+     I think it's a very simple approach
+},
+{
+    33.52,34.6
+     and we're gonna show it to you.
+},
+{
+    34.6,36.12
+     All right, by the way, if you're new to our channel,
+},
+{
+    36.12,37.64
+     please take a second to subscribe to us.
+},
+{
+    37.64,39.56
+     We provide videos how to stay healthy, fit, pain-free
+},
+{
+    39.56,40.86
+     and we upload every day.
+},
+{
+    40.86,43.5
+     Also go to bobandbrad.com, go to the giveaway section.
+},
+{
+    43.5,44.96
+     We're always giving something away.
+},
+{
+    44.96,48.94
+     This week we're giving away Bob and Brad exercise bands
+},
+{
+    48.94,51.18
+     and also the wall anchors that go with them.
+},
+{
+    51.18,53.1
+     Oh yes, you can't go wrong with these Bob.
+},
+{
+    53.1,54.78
+     We really like these.
+},
+{
+    54.78,56.64
+     Get the nuts out of it.
+},
+{
+    56.64,57.7
+     There we go.
+},
+{
+    57.7,58.74
+     Yeah, these are high quality.
+},
+{
+    58.74,62.02
+     We searched the world over for the best quality.
+},
+{
+    62.02,63.66
+     Oh, also I'm gonna quick mention.
+},
+{
+    63.66,64.5
+     Oh yeah.
+},
+{
+    64.5,67.68
+     There's a blog we have, a blog section on our website.
+},
+{
+    67.68,71.44
+     And Deborah Rixo, she's a doctor to PT.
+},
+{
+    71.44,73.38
+     She just, she wrote an article on back
+},
+{
+    73.38,76.78
+     and pelvic girdle pain in pregnancy and postpartum women.
+},
+{
+    76.78,79.48
+     So yeah, if you're pregnant and you're having pain
+},
+{
+    79.48,81.12
+     back there, check it out.
+},
+{
+    81.12,83.04
+     Yeah, she's got an excellent writer
+},
+{
+    83.04,84.28
+     and she's very knowledgeable.
+},
+{
+    84.28,86.64
+     Yeah, also you can go to Facebook,
+},
+{
+    86.64,88.8
+     the contest will be pinned to the top of the page.
+},
+{
+    88.8,90.32
+     Go to Twitter, Instagram or TikTok
+},
+{
+    90.32,92.32
+     if you want a 60 second version of our program.
+},
+{
+    92.32,93.52
+     Outstanding, Bob.
+},
+{
+    93.52,94.36
+     Clear these out, Brad.
+},
+{
+    94.36,96.96
+     Yep, we gotta have some room.
+},
+{
+    96.96,99.88
+     So chest muscle pain, we've already mentioned,
+},
+{
+    99.88,103.56
+     we're talking about the pectoralis major, you know,
+},
+{
+    103.56,105.28
+     and the minor as well.
+},
+{
+    105.28,106.44
+     Probably mostly a major.
+},
+{
+    106.44,107.76
+     Yeah, mostly a major.
+},
+{
+    107.76,109.52
+     Obviously not the heart muscles
+},
+{
+    109.52,112.56
+     where no cardiac information here whatsoever.
+},
+{
+    112.56,115.0
+     Right, you wanna make sure that you're not having chest pain
+},
+{
+    115.0,116.56
+     due to a cardiac problem.
+},
+{
+    116.56,117.4
+     Exactly.
+},
+{
+    117.4,118.76
+     Let's make sure that's been ruled out.
+},
+{
+    118.76,119.72
+     Exactly.
+},
+{
+    119.72,121.92
+     So, you know, the chest muscles,
+},
+{
+    121.92,123.96
+     if you strain the muscle,
+},
+{
+    123.96,126.92
+     it's one of those that, you know, you've had it strain.
+},
+{
+    126.92,129.24
+     I've actually, right now I'm dealing with one right now
+},
+{
+    129.24,130.86
+     from swimming, which is-
+},
+{
+    130.86,132.48
+     Yeah, I remember you taking the massage
+},
+{
+    132.48,133.32
+     into it every time.
+},
+{
+    133.32,134.16
+     Right, absolutely.
+},
+{
+    134.16,136.24
+     We're gonna talk about that a little bit.
+},
+{
+    136.24,139.04
+     But first of all, let's talk about the anatomy,
+},
+{
+    139.04,139.88
+     the location.
+},
+{
+    139.88,141.36
+     We know the location basically,
+},
+{
+    141.36,147.8
+     but we need to go a little more in depth and detail, particularly for the 90 second treatment
+},
+{
+    147.8,149.92
+     that I'm gonna show you in just a little bit.
+},
+{
+    149.92,154.92
+     So here we're gonna use Sam and I've got some Kinesio tape
+},
+{
+    154.92,159.0
+     we're gonna use as a model to demonstrate this.
+},
+{
+    159.0,162.96
+     The green tape represents the lower fibers,
+},
+{
+    162.96,165.8
+     connects from the humerus down to the chest across.
+},
+{
+    165.8,166.96
+     It's a big fan muscle.
+},
+{
+    166.96,168.6
+     There's three particular sets.
+},
+{
+    168.6,170.2
+     Then there's the middle fibers,
+},
+{
+    170.2,173.04
+     which is the orange and then the red fibers.
+},
+{
+    173.04,176.88
+     And the pec minor is buried underneath the pec major.
+},
+{
+    176.88,179.04
+     Now these are actual colors of-
+},
+{
+    179.04,181.0
+     I'm joking though of course.
+},
+{
+    181.0,183.68
+     No, no, so we're looking at all this.
+},
+{
+    183.68,187.56
+     Now when you pull a muscle, typically you don't pull,
+},
+{
+    187.56,190.12
+     I would say almost always you don't pull the whole,
+},
+{
+    190.12,193.08
+     all the fibers across the whole fan of the muscle.
+},
+{
+    193.08,194.0
+     It's typically.
+},
+{
+    194.0,194.96
+     A micro tear.
+},
+{
+    194.96,198.84
+     A micro tear or a few fibers in one of these locations.
+},
+{
+    198.84,199.68
+     Strain.
+},
+{
+    199.68,200.52
+     Exactly.
+},
+{
+    200.52,201.34
+     People call it strain.
+},
+{
+    201.34,204.6
+     So keep that in mind when we show this 90 second treatment.
+},
+{
+    204.6,205.74
+     So.
+},
+{
+    205.74,207.84
+     You can see as I'm bringing the arm out here
+},
+{
+    207.84,209.96
+     how the fibers are starting to stretch.
+},
+{
+    209.96,213.8
+     Which is, as we said, the most common mistake,
+},
+{
+    213.8,215.5
+     that's the mistake.
+},
+{
+    215.5,217.68
+     You pull your chest muscle and you think,
+},
+{
+    217.68,219.42
+     oh, I better stretch it.
+},
+{
+    219.42,221.28
+     I got a muscle strain.
+},
+{
+    221.28,223.72
+     So what people do is they start stretching.
+},
+{
+    223.72,226.18
+     What happens is you've already got a tore muscle,
+},
+{
+    226.18,230.74
+     micro tears in it, maybe, macro tears.
+},
+{
+    230.74,233.48
+     And then you stretch it and you just re-tear it
+},
+{
+    233.48,235.24
+     or tear it worse.
+},
+{
+    235.24,236.48
+     Do not do that.
+},
+{
+    236.48,239.0
+     Allow it to heal, give it some time,
+},
+{
+    239.0,241.52
+     work on our 90 second treatment I'm gonna show you.
+},
+{
+    241.52,243.24
+     Again, not too long, just be careful.
+},
+{
+    243.24,245.48
+     Not only you and gonna probably hold off
+},
+{
+    245.48,249.16
+     on doing like bench press or push ups for a while.
+},
+{
+    249.16,251.32
+     Anything that aggravates it.
+},
+{
+    251.32,254.88
+     Flies, flies are really gonna get after it.
+},
+{
+    254.88,255.72
+     Way back.
+},
+{
+    255.72,256.92
+     Exactly.
+},
+{
+    256.92,258.4
+     So keep this in mind.
+},
+{
+    258.4,261.4
+     You're gonna allow this muscle some rest time.
+},
+{
+    262.88,264.44
+     Okay.
+},
+{
+    264.44,267.0
+     So here it is, the 90 second treatment.
+},
+{
+    267.0,268.72
+     Now you could do this one in bed,
+},
+{
+    268.72,270.48
+     doesn't matter, carpeted floor.
+},
+{
+    270.48,272.2
+     You know, you could do it on a hard floor if you want,
+},
+{
+    272.2,273.72
+     but it's not that comfortable.
+},
+{
+    274.92,277.48
+     You wanna throw me the pillow right there, Bob.
+},
+{
+    277.48,279.16
+     Get a pillow, get comfortable.
+},
+{
+    279.16,281.4
+     Yep, that one will be fine.
+},
+{
+    281.4,282.68
+     I'm gonna use a throw pillow.
+},
+{
+    282.68,283.52
+     That's good.
+},
+{
+    283.52,286.0
+     You could do this actually on your couch too,
+},
+{
+    286.0,288.68
+     assuming this would be the injured arm.
+},
+{
+    288.68,292.44
+     The injured arm was away from the backrest.
+},
+{
+    292.44,295.48
+     Okay, now remember, these fibers are going this way.
+},
+{
+    295.48,297.0
+     In order to get this,
+},
+{
+    297.0,299.24
+     it's called a positional release treatment
+},
+{
+    299.24,301.16
+     or strain counter strain.
+},
+{
+    301.16,307.02
+     We need to get the fibers of the muscle where it's injured as short as possible
+},
+{
+    307.02,310.22
+     in a very relaxed and pain-free position.
+},
+{
+    310.22,313.66
+     So in order to do that, I'm gonna take my arm
+},
+{
+    313.66,318.14
+     and bring it over and this shortens the muscle fibers.
+},
+{
+    318.14,320.42
+     And then because it's such a broad muscle,
+},
+{
+    320.42,324.18
+     it's gonna make a difference whether I have my elbow here,
+},
+{
+    324.18,325.2
+     up here, whether I have my elbow here, up here,
+},
+{
+    325.2,328.52
+     whether I rotate my arm in this way or out this way,
+},
+{
+    328.52,331.08
+     it's probably gonna be more comfortable this way.
+},
+{
+    331.08,333.12
+     But you'll know, cause you're gonna feel it.
+},
+{
+    333.12,333.96
+     So-
+},
+{
+    333.96,335.16
+     So they're gonna experiment basically.
+},
+{
+    335.16,336.52
+     Exactly.
+},
+{
+    336.52,338.0
+     And you're the boss on this.
+},
+{
+    338.0,340.12
+     There's no therapist that could tell you
+},
+{
+    340.12,341.96
+     which position it is because
+},
+{
+    341.96,343.36
+     you're gonna listen to your body.
+},
+{
+    343.36,344.64
+     You're looking for the position
+},
+{
+    344.64,346.64
+     that is the least amount of pain?
+},
+{
+    346.64,348.0
+     Yeah, exactly.
+},
+{
+    348.0,350.68
+     Matter of fact, I'm gonna do this on my left side
+},
+{
+    350.68,354.84
+     because that is the muscle that I'm particularly,
+},
+{
+    354.84,357.2
+     I got a real minor problem with this, not a major one.
+},
+{
+    357.2,360.04
+     So that's why you can kind of move around
+},
+{
+    360.04,361.28
+     to see where yours feels the best.
+},
+{
+    361.28,363.16
+     All right, so I'm gonna do it for real here.
+},
+{
+    363.16,365.84
+     I go this way, so,
+},
+{
+    365.84,366.68
+     actually,
+},
+{
+    368.52,370.0
+     down here.
+},
+{
+    370.0,371.0
+     That's where it feels best.
+},
+{
+    371.0,372.44
+     Yep, there.
+},
+{
+    372.44,374.48
+     Yeah, when I move my hand up there,
+},
+{
+    374.48,376.76
+     it turned the pain off, it feels good.
+},
+{
+    376.76,378.52
+     And now the critical part of this,
+},
+{
+    378.52,380.08
+     and there's no cheating on this,
+},
+{
+    380.08,381.6
+     you need to get a timer,
+},
+{
+    381.6,382.6
+     and you got a timer,
+},
+{
+    382.6,384.72
+     so when you find that comfortable position,
+},
+{
+    384.72,388.36
+     time it for 90 seconds, minimum.
+},
+{
+    388.36,390.72
+     You can go up to 120 seconds a couple minutes
+},
+{
+    390.72,394.24
+     or even a little longer, but for sure 90 seconds.
+},
+{
+    394.24,395.88
+     And that takes a little while.
+},
+{
+    395.88,398.36
+     You'd be surprised how long 90 seconds takes,
+},
+{
+    398.36,401.08
+     but if you're comfortable, just relax and breathe.
+},
+{
+    401.08,404.92
+     I'm not gonna do that here because it makes people bored.
+},
+{
+    404.92,408.44
+     But when you get done with the 90 seconds or two minutes,
+},
+{
+    408.44,410.68
+     then you're gonna slowly open it up.
+},
+{
+    410.68,411.92
+     You're not gonna open up
+},
+{
+    411.92,414.42
+     and start stretching aggressively whatsoever,
+},
+{
+    414.42,415.96
+     but you're gonna open it up
+},
+{
+    415.96,419.8
+     and then there's not gonna be any particular exercises
+},
+{
+    419.8,422.6
+     or activity for the next half hour or so.
+},
+{
+    422.6,424.96
+     It's a time, you know, you can do some gentle massage
+},
+{
+    424.96,426.48
+     in there to loosen it up.
+},
+{
+    426.48,428.88
+     And you're gonna do that two or three times a day.
+},
+{
+    428.88,430.68
+     You're gonna know if this is the right thing
+},
+{
+    430.68,433.04
+     because it's gonna feel good.
+},
+{
+    433.04,436.64
+     What happens is a muscle, when it's at a certain position,
+},
+{
+    436.64,438.52
+     it allows it to relax.
+},
+{
+    438.52,439.36
+     Completely.
+},
+{
+    439.36,441.0
+     Yep, when it completely relaxes,
+},
+{
+    441.0,443.24
+     blood flow gets to the injured area
+},
+{
+    443.24,445.64
+     and then your healing is accelerated,
+},
+{
+    445.64,447.16
+     and that's what we need.
+},
+{
+    447.16,450.04
+     So I would think that you do wanna throw some massage
+},
+{
+    450.04,451.16
+     in there eventually though too.
+},
+{
+    451.16,454.76
+     Exactly, and you know that may be within a day or two.
+},
+{
+    454.76,457.04
+     You can start with massaging with your hand,
+},
+{
+    457.04,460.84
+     the fibers, you know, go this way, this way, or this way,
+},
+{
+    460.84,463.96
+     and mine, my fibers in here, I'm gonna go in there.
+},
+{
+    463.96,465.32
+     So he's going cross.
+},
+{
+    465.32,466.68
+     Across, yep.
+},
+{
+    466.68,468.24
+     Fibers, the fibers run this way
+},
+{
+    468.24,470.48
+     and he's going across the fibers.
+},
+{
+    470.48,473.8
+     And you can get in pretty deep, you know, depending on,
+},
+{
+    473.8,475.96
+     you know, some of these guys got these massive
+},
+{
+    475.96,477.44
+     pectoralis muscles.
+},
+{
+    477.44,478.28
+     And that-
+},
+{
+    478.28,480.96
+     You're kind of on the armpit there a little bit.
+},
+{
+    480.96,482.8
+     And it does go up into the armpit,
+},
+{
+    482.8,483.92
+     but it could be up here too.
+},
+{
+    483.92,485.96
+     Yep, yep, it very well could be up here.
+},
+{
+    487.08,489.48
+     So you're gonna work that cross-fixion from massage
+},
+{
+    489.48,491.0
+     until your fingers get tired.
+},
+{
+    491.0,492.42
+     As long as it doesn't irritate it,
+},
+{
+    492.42,495.36
+     after 30 seconds of this,
+},
+{
+    495.36,496.88
+     you're gonna assess it.
+},
+{
+    496.88,497.72
+     Is it feeling better?
+},
+{
+    497.72,499.78
+     Is it feeling, or is it getting irritated?
+},
+{
+    499.78,501.04
+     If it feels better,
+},
+{
+    501.04,503.68
+     you're gonna continue to go until your fingers get tired.
+},
+{
+    503.68,506.56
+     And after doing this for a few days
+},
+{
+    506.56,508.76
+     or whatever time it is as it improves,
+},
+{
+    508.76,510.32
+     your hands are gonna get tired.
+},
+{
+    510.32,515.32
+     And this is where, if you happen to have a massage gun,
+},
+{
+    515.48,518.16
+     because a lot of people who exercise are getting these,
+},
+{
+    519.16,521.32
+     including Bob and I, we really like these.
+},
+{
+    521.32,523.8
+     We have our own massage gun.
+},
+{
+    523.8,524.64
+     Our own massage gun.
+},
+{
+    524.64,526.16
+     So Bob and Brad are right on it.
+},
+{
+    526.16,527.2
+     Very high quality.
+},
+{
+    527.2,528.12
+     Exactly.
+},
+{
+    528.12,529.6
+     Do we need to say that?
+},
+{
+    529.6,531.28
+     Well, we wouldn't put our name on it
+},
+{
+    531.28,533.16
+     unless we had complete faith in it.
+},
+{
+    533.16,536.38
+     So what we're gonna do with this is we're going to,
+},
+{
+    537.84,539.56
+     you put it out of high level.
+},
+{
+    539.56,540.72
+     This has five levels.
+},
+{
+    540.72,542.88
+     I'm gonna go to level four.
+},
+{
+    542.88,544.44
+     And they come with different heads too.
+},
+{
+    544.44,546.84
+     And he's got the round head on there right now.
+},
+{
+    547.96,550.76
+     Yeah, and this is so much easier
+},
+{
+    550.76,552.52
+     than with the fingers.
+},
+{
+    552.52,554.76
+     And you can work this longer time.
+},
+{
+    554.76,556.72
+     It's nice, once you have a massage gun in the house,
+},
+{
+    556.72,558.88
+     the whole family can use it.
+},
+{
+    558.88,559.72
+     You can pass it around.
+},
+{
+    559.72,561.92
+     And also you have it then for any problem
+},
+{
+    561.92,562.76
+     that crops up.
+},
+{
+    562.76,563.6
+     Exactly.
+},
+{
+    563.6,566.04
+     And as you get older, they crop up.
+},
+{
+    566.04,567.56
+     Or if you're just an active family,
+},
+{
+    567.56,572.56
+     I've got a friend, his son's in hockey and football
+},
+{
+    573.0,576.28
+     and he's active and his wife uses it.
+},
+{
+    576.28,577.92
+     But anyways, you're gonna say,
+},
+{
+    577.92,580.24
+     well, what do you do after it starts feeling better?
+},
+{
+    580.24,581.92
+     Get back to your exercises,
+},
+{
+    581.92,587.08
+     but back off on the intensity a lot, at least 50% or more to start with.
+},
+{
+    587.08,588.6
+     You're gonna take it on incrementally.
+},
+{
+    588.6,590.5
+     So like, yeah, you can go back to bench press,
+},
+{
+    590.5,592.56
+     but you maybe just start with the bar.
+},
+{
+    592.56,593.4
+     Yeah.
+},
+{
+    593.4,595.72
+     You know, 45 pounds, I mean, or whatever you're using.
+},
+{
+    595.72,596.56
+     Right.
+},
+{
+    596.56,598.6
+     And the length of time, in my case for swimming,
+},
+{
+    598.6,601.84
+     I used to swim usually 45 minutes to an hour.
+},
+{
+    601.84,604.92
+     I'm going about 20 to 30 minutes now at a low level,
+},
+{
+    604.92,605.76
+     and I'm building up.
+},
+{
+    605.76,606.6
+     So you got.
+},
+{
+    606.6,609.4
+     You can tell when it feels like it's getting strained
+},
+{
+    609.4,610.58
+     then you want to back off.
+},
+{
+    610.58,611.84
+     Listen to your body.
+},
+{
+    611.84,613.4
+     You got to respect it.
+},
+{
+    613.4,616.76
+     So once again, Bob, we can fix just about anything except
+},
+{
+    616.76,617.84
+     for a broken heart.
+},
+{
+    617.84,618.96
+     But this is close.
+},
+{
+    618.96,619.8
+     It is close.
+},
+{
+    619.8,620.64
+     Absolutely.
+},
+{
+    620.64,621.48
+     We're in the area.
+},
+{
+    621.48,622.48
+     We're in the neighborhood.
+},
+{
+    622.48,625.0
+     We're going to get a whole pamphlet on this, I'm thinking.
+},
+{
+    625.0,626.8
+     And, you know, we'll see how it goes.
+},
+{
+    626.8,628.36
+     All right, thanks for watching.
+},

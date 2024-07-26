@@ -1,0 +1,320 @@
+{
+    0.0,7.0
+     Hi I'm Bob Schrupp physical therapist, Brad Heideck physical therapist, I thought for a minute you were going to do it like silently
+},
+{
+    7.0,13.0
+     and together we are the most famous physical therapists on the internet, and our opinion of course, our opinion
+},
+{
+    13.0,17.0
+     Brad we're going to talk about something near and dear to you, you bet, unfortunately it's near to you
+},
+{
+    17.0,27.0
+     we're going to talk about spinal stenosis and we're going to talk about three ways you can maybe tell that you have spinal stenosis and this is more kind of a back pain issue, back pain and leg pain issue
+},
+{
+    27.0,33.0
+     Sure, yep, low back usually, could be in the neck too but we're not focused on here today
+},
+{
+    33.0,39.0
+     Exactly, this is all about the back, not the low back, not the neck, because you can get stenosis anywhere
+},
+{
+    39.0,41.0
+     First off, oh you know what, we need the spine
+},
+{
+    41.0,44.0
+     Oh, yeah, Nancy, be careful
+},
+{
+    44.0,47.84
+     I know, I'm gonna rotate. Keep it vertical. Go ahead.
+},
+{
+    47.84,62.44
+     Alright, each one of these segments here have basically on the back of it an open area like
+},
+{
+    62.44,68.94
+     a tunnel. Is that a good way to say it Brad? Right, where the spinal nerve exit from the spinal cord and they have to go
+},
+{
+    68.94,75.1
+     through the two vertebrae and that area that hole is called a...
+},
+{
+    75.1,76.1
+     Foramen.
+},
+{
+    76.1,77.1
+     Foramen, yes.
+},
+{
+    77.1,81.5
+     We'll talk about more central spinal stenosis, the one going down the main canal.
+},
+{
+    81.5,83.5
+     Let me show it on here.
+},
+{
+    83.5,85.52
+     Okay, so this is kind of a cross-section through one of the vertebrae and you can going down the main canal. Let me show it on here. All right. Okay.
+},
+{
+    86.96,89.52
+     So this is kind of a cross section through one of the vertebrae.
+},
+{
+    89.52,92.32
+     And you can see this round hole here.
+},
+{
+    92.32,95.76
+     All right, the spinal cord goes right down that hole.
+},
+{
+    95.76,97.64
+     This is a person who has spinal stenosis
+},
+{
+    97.64,100.68
+     and as you can see it's narrowed up.
+},
+{
+    100.68,103.8
+     And this can be caused by a thickening of the ligaments.
+},
+{
+    103.8,107.0
+     It could be caused by a thickening of the ligaments, it could be caused by a bony growth,
+},
+{
+    107.0,115.0
+     there's other things that can cause it, a disc protrusion into the canal also cause it.
+},
+{
+    115.0,118.0
+     But anyway, so there's pressure on the spinal cord.
+},
+{
+    118.0,122.0
+     And when you get to the low back, actually what is happening at that point,
+},
+{
+    122.0,126.0
+     it's really not the spinal cord anymore, it's the cauda equina,
+},
+{
+    126.0,131.6
+     which is what the actually is Latin for horse's tail. Right, yep. So and that's just the spinal
+},
+{
+    131.6,137.28
+     nerves that are starting to spread out. Okay, so it's right, if you look up here, it's kind of like
+},
+{
+    137.28,142.32
+     a garden hose I imagine it, and once you get down to L1 here, it starts to turn into that
+},
+{
+    142.32,145.66
+     cauda equina, in other words it turns into a number of like spaghetti
+},
+{
+    145.66,150.76
+     You have like a number of spaghetti strands going down and then they'll exit out the
+},
+{
+    151.88,153.88
+     Framen here
+},
+{
+    155.44,158.88
+     So that's enough about anatomy what are you gonna feel if you have spinal sconosis?
+},
+{
+    158.88,162.64
+     Brad you apparently have some spinal sconosis you can tell
+},
+{
+    162.64,167.84
+     Well, yeah, I think yeah, I'm not really sure yet, I've got to get some more scans done
+},
+{
+    167.84,172.52
+     whether it's through the spinal cord or the stenosis through the frame itself
+},
+{
+    172.52,178.72
+     But one thing that definitely is no fun is standing in one spot for a long period of time
+},
+{
+    178.72,184.52
+     like shopping. If I go shopping, my wife is shopping and I'm waiting, I need to sell
+},
+{
+    184.52,186.72
+     Another reason not to like shopping for a month.
+},
+{
+    186.72,190.88
+     But, and I saw statistically that was the highest
+},
+{
+    190.88,193.68
+     correlated fine with spinal stenosis,
+},
+{
+    193.68,195.44
+     that they don't like standing.
+},
+{
+    195.44,198.12
+     And it was actually called the shopping cart test,
+},
+{
+    198.12,199.52
+     or shopping cart syndrome.
+},
+{
+    199.52,202.04
+     Because people would tell me and say,
+},
+{
+    202.04,204.0
+     it feels better when you lean forward
+},
+{
+    204.0,205.36
+     and hold onto the shopping cart. Right, take feels better when you lean forward and hold on to the
+},
+{
+    205.36,209.4
+     shopping cart. Right, take some weight off lean forward and right now I mean
+},
+{
+    209.4,212.84
+     because I'm having some back pain now this feels good and I'm doing the
+},
+{
+    212.84,216.88
+     opposite of what we talked about right. I'm actually mounting my back and
+},
+{
+    216.88,220.52
+     separating it gives a little more space and this is the one case where you're
+},
+{
+    220.52,225.9
+     gonna want to be able to do that And usually it's the opposite with normal back pain.
+},
+{
+    225.9,232.54
+     Normal back pain generally feels better standing and walking, generally not always, and worse with sitting,
+},
+{
+    232.54,238.94
+     this feels better with sitting. You better leave it. Okay, you also get numbness, tingling and pain down into the legs.
+},
+{
+    238.94,245.88
+     And quite often what I see is often it's in both legs and that's also not typical back pain
+},
+{
+    245.88,252.08
+     typical back pain tends to go down one side so if you're getting it down both legs it more often is
+},
+{
+    252.08,258.12
+     going to be a spinal stenosis or again not you know definitive right the last thing Brad is
+},
+{
+    258.12,262.76
+     extension hurts right right you want to show them what extension that's what we're gonna have been
+},
+{
+    262.76,266.74
+     backwards like this and I can do this and this isn't too bad
+},
+{
+    266.86,271.34
+     But if you're doing something like overhead like over the weekend, I was working on the ceiling
+},
+{
+    271.64,274.54
+     The next two days were great fun. You're not feeling it. Yeah
+},
+{
+    275.2,279.5
+     So that's that's really the three the three symptoms, right?
+},
+{
+    279.5,284.32
+     And then I think we'll save for another video for exercises and treatment
+},
+{
+    284.32,286.44
+     We're actually going to do that next video, Brad.
+},
+{
+    286.44,287.64
+     Absolutely, so.
+},
+{
+    287.64,288.48
+     Oh, cute.
+},
+{
+    288.48,289.32
+     Yeah, I'm just,
+},
+{
+    289.32,290.56
+     Nancy, maybe you could even put a link
+},
+{
+    290.56,292.28
+     to that video from this one.
+},
+{
+    292.28,293.76
+     Yeah, link it right up, Nancy.
+},
+{
+    293.76,294.6
+     Put it together.
+},
+{
+    294.6,296.16
+     Oh, by the way, just real quickly.
+},
+{
+    296.16,298.36
+     Spinal stenosis tends to happen, by the way,
+},
+{
+    298.36,300.84
+     in people very commonly 60 and over.
+},
+{
+    300.84,302.76
+     Brad unfortunately got it early.
+},
+{
+    302.76,305.4
+     But so if you're in that age 40 and over
+},
+{
+    305.4,308.68
+     you're gonna subscribe to us because we do provide videos on a stay healthy fit
+},
+{
+    308.68,332.92
+     and pain for you well into your elderly years. You can deal with these things like spinal stenosis. Thank you.
+},

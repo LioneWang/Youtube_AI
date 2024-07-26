@@ -1,0 +1,140 @@
+{
+    0.0,9.3
+     When removing your bandage 24 to 72 hours after most surgery that you have had on your
+},
+{
+    9.3,13.36
+     nose, you will have a large pressure bandage.
+},
+{
+    13.36,20.56
+     If there's been any bleeding or crust underneath, sometimes your bandage can become adherent.
+},
+{
+    20.56,26.0
+     Gently moisten the bandage with water to loosen the bandage.
+},
+{
+    26.0,35.0
+     Then gather all of your supplies, gloves if desired, soap and water as well as gauze to clean the incision,
+},
+{
+    35.0,48.28
+     Q-tips to apply your ointment such as Vaseline or Aquafor, a non-stick dressing, clean scissors, and tape. Once your supplies have been
+},
+{
+    48.28,54.84
+     gathered, wash your hands diligently with soap and water. Then remove the
+},
+{
+    54.84,61.04
+     bandage. Work from the outside edges of the tape,
+},
+{
+    67.0,94.4
+     removing the adhesive parts to the edges of our incision has been marked with a pen.
+},
+{
+    94.4,100.64
+     After removing the bandage, then gently wash the incision line with soap and water.
+},
+{
+    100.64,109.2
+     Be very gentle. If there is scabbing or crusting, do not pull or pick at this, but gently wash
+},
+{
+    109.2,117.2
+     it off, soaking it with the water. If you are not able to remove it, leave it in place.
+},
+{
+    117.2,123.7
+     The Vaseline that you apply next will slowly dissolve the crusting and scabbing and it
+},
+{
+    123.7,127.42
+     will come off potentially with your next successive
+},
+{
+    127.42,129.94
+     bandage changes.
+},
+{
+    129.94,134.26
+     Next apply the Vaseline with a Q-tip, not with your finger.
+},
+{
+    134.26,138.24
+     Make sure that you are using new Vaseline or aqua-4.
+},
+{
+    138.24,143.06
+     Apply it along the length of the incision, covering not only the incision but also all
+},
+{
+    143.06,149.0
+     sutures involved. Next cut your
+},
+{
+    149.0,157.28
+     non-stick bandage to fit the incision sight. Usually you want this at least
+},
+{
+    157.28,170.46
+     one centimeter in width. Both sides of the nonstick dressing are the same, so there is not a right or a
+},
+{
+    170.46,177.66
+     wrong side to apply to the incision line. You will notice that we do not touch the incision
+},
+{
+    177.66,191.48
+     line with our fingers, so as to decrease the risk of it introducing any infection. Once the non-stick bandage has been applied and is
+},
+{
+    191.48,194.32
+     totally covering all incision lines and sutures
+},
+{
+    194.32,199.72
+     then apply tape. When applying to the nose the distal nose is made of cartilage
+},
+{
+    199.72,200.84
+     and is very
+},
+{
+    200.84,204.08
+     mobile. Do not pull
+},
+{
+    204.08,208.92
+     or twist on that as you are doing the taping. Start with the
+},
+{
+    208.92,215.6
+     stationary portion of the nose. Apply tape to one side, make that adherent, then pull
+},
+{
+    215.6,221.56
+     across the non-stick and down onto the other side. By making sure that one side is stuck
+},
+{
+    221.56,227.72
+     before draping it over, you will be able to better address the concavities
+},
+{
+    227.72,251.54
+     and convexities or the bumps stationary piece of tape, the others can
+},
+{
+    251.54,272.26
+     be kind of draped and pulled just to cover all the non-stick areas so that it is completely incision site.
+},
+{
+    272.26,276.34
+     This dressing will remain in place for 24 hours.
+},
+{
+    276.34,285.0
+     After that time period, you will remove this dressing and repeat these instructions to apply another daily bandage.
+},

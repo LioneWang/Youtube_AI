@@ -1,0 +1,240 @@
+{
+    0.0,7.0
+     The following videos are a demonstration of the basic skills required to care for a child with a tracheostomy.
+},
+{
+    7.0,13.0
+     This is not meant to replace hands-on training, but to provide an additional resource.
+},
+{
+    20.0,23.0
+     Personal protective equipment or PPE.
+},
+{
+    23.0,26.32
+     Gloves, sterile gloves and eye protection,
+},
+{
+    26.32,32.0
+     mask or gown as indicated. Appropriate sized disposable sterile suction
+},
+{
+    32.0,36.76
+     catheter clearly marked with numbers. Individually packaged suction device
+},
+{
+    36.76,42.48
+     for oral and nasal suctioning if indicated. Self-inflating bag connected to
+},
+{
+    42.48,48.0
+     an oxygen flow meter. Normal saline in disposable vial, or sterile water,
+},
+{
+    48.0,57.0
+     pulse oximeter, suction source, so you'll need a wall regulator or portable machine, and have connector tubing and a collection container,
+},
+{
+    57.0,61.0
+     stethoscope, and a trach to go bag at the bedside.
+},
+{
+    61.0,67.08
+     Perform hand hygiene before patient contact. Ensure that the appropriate supplies
+},
+{
+    67.08,73.0
+     for the procedure and emergency resuscitation equipment are fully functioning and available
+},
+{
+    73.0,78.92
+     at the bedside. Verify that the suction unit is turned on and that the pressure is within
+},
+{
+    78.92,85.0
+     the recommended range. Set the suction pressure between 80 and 100 millimeters of mercury for infants
+},
+{
+    85.0,89.0
+     and between 100 to 120 millimeters of mercury for children.
+},
+{
+    89.0,94.0
+     Check the unit's negative pressure by occluding the end of the suction tubing
+},
+{
+    94.0,97.0
+     before attaching the suction catheter.
+},
+{
+    97.0,101.0
+     Select the appropriate type and size of suction catheter.
+},
+{
+    101.0,111.0
+     Use a suction catheter with measurement markings. Using the trach size, multiply by
+},
+{
+    111.0,116.32
+     two and then round down to an even number to determine the size of the suction catheter.
+},
+{
+    116.32,129.04
+     For example, if you have a trach size of 4.5, multiply it times two, that equals nine. You round down to eight, so you'll know that you'll use a eight-french suction catheter.
+},
+{
+    129.04,132.88
+     Verify the pre-measured length for the suction catheter insertion
+},
+{
+    132.88,136.56
+     before inserting the catheter into the airway.
+},
+{
+    136.56,138.8
+     If the pre-measure depth is unknown,
+},
+{
+    138.8,147.44
+     obtain the depth by measuring the length of an extra tracheostomy tube of the same size. Record the appropriate
+},
+{
+    147.44,152.24
+     length of the catheter insertion measurement in the child's record and display the length at the
+},
+{
+    152.24,160.16
+     bedside if it is not already displayed. Perform hand hygiene and Dawn gloves. Open the sterile
+},
+{
+    160.16,168.64
+     suction catheter package on a clean work surface. Maintain sterility on the inside of the package.
+},
+{
+    168.64,173.72
+     If indicated, set up a flush solution to flush the catheter and clear thick secretions of
+},
+{
+    173.72,178.08
+     the tubing as necessary between suctioning events.
+},
+{
+    178.08,184.12
+     Fill the container with enough sterile water or saline to flush the catheter as needed.
+},
+{
+    184.12,187.68
+     Coil or wrap the suction catheter around the dominant hand.
+},
+{
+    188.88,192.64
+     Using the non-dominant hand, pick up the suction connection tubing
+},
+{
+    192.64,194.4
+     and connect it to the suction catheter.
+},
+{
+    196.64,203.2
+     If indicated, pre-oxygenate the child using the ventilator or self-inflating bag with 100%
+},
+{
+    203.2,207.92
+     oxygen for between 30 and 60 seconds.
+},
+{
+    207.92,213.36
+     Disconnect the child from the ventilator circuit with a non-dominant hand or instruct an assistant
+},
+{
+    213.36,218.44
+     to disconnect the child if clinically indicated.
+},
+{
+    218.44,223.12
+     Insert the suction catheter into the tracheostomy tube to the pre-measured length.
+},
+{
+    223.12,228.76
+     When the pre-measure depth is reached, withdraw the suction catheter using a twisting or twirling motion,
+},
+{
+    228.76,232.84
+     while at the same time applying continuous or intermittent suction.
+},
+{
+    232.84,238.12
+     Limit the total suction time of each suctioning event to less than 10
+},
+{
+    238.12,244.44
+     seconds. Coil the suction catheter around the dominant hand and return the
+},
+{
+    244.44,245.44
+     child to the ventilator
+},
+{
+    245.44,248.32
+     circuit with the non-dominant hand.
+},
+{
+    248.32,253.96
+     Hyperoxygenate the child after the suctioning event for 30 seconds.
+},
+{
+    253.96,259.72
+     Assess the need for more suctioning and repeat steps for passing the suction catheter.
+},
+{
+    259.72,269.92
+     Flush the catheter with sterile water or saline solution if indicated to maintain patency. Allow the child sufficient recovery time between passes of the
+},
+{
+    269.92,275.4
+     suction catheter. Evaluate and assess the tracheostomy to patency if tracheal
+},
+{
+    275.4,280.6
+     secretions do not clear or indicators for suctioning do not improve after
+},
+{
+    280.6,290.68
+     repeated passes of the suction catheter. With the catheter wrapped around the dominant hand, pull the glove off around the catheter inside out, remove
+},
+{
+    290.68,295.6
+     the other glove and discard it in a waste container. Flush the connecting
+},
+{
+    295.6,301.04
+     tubing with sterile water or saline solution. Secure the suction device at
+},
+{
+    301.04,305.92
+     the bedside in clear view for future suctioning needs.
+},
+{
+    305.92,310.48
+     Assess the child's cardiopulmonary status and breath sounds to detect any pertinent
+},
+{
+    310.48,313.28
+     changes after suctioning.
+},
+{
+    313.28,320.08
+     Discard supplies, remove personal protective equipment, and perform hand hygiene.
+},
+{
+    320.08,324.44
+     These videos are available for you to review as often as you would like.
+},
+{
+    324.44,329.24
+     If you have any questions about any of the skills shown here, please ask a member of
+},
+{
+    329.24,330.12
+     your health care team.
+},

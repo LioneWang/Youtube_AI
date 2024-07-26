@@ -1,0 +1,240 @@
+{
+    0.0,7.38
+     Of course, it's best to stop skin cancer before it occurs.
+},
+{
+    7.38,11.52
+     Learning about the types of skin cancers and how to recognize skin changes that you should
+},
+{
+    11.52,14.48
+     see your doctor about is smart.
+},
+{
+    14.48,19.6
+     Most skin cancer is preventable and if caught early, most can be cured.
+},
+{
+    19.6,26.44
+     There are three main kinds of skin cancer, basal cell skin cancer, squamous cell skin cancer, and
+},
+{
+    26.44,28.34
+     melanoma.
+},
+{
+    28.34,33.58
+     Basal cell skin cancer usually appears on sun exposed areas, most commonly the face and
+},
+{
+    33.58,37.08
+     neck, but also on the trunk, arms, and legs.
+},
+{
+    37.08,42.44
+     A basal cell skin cancer may look like a firm, flush colored, or red bump.
+},
+{
+    42.44,45.24
+     It may have small blood vessels on top.
+},
+{
+    45.24,48.24
+     It can appear as an open area or pimple-like growth
+},
+{
+    48.24,51.52
+     that bleeds and crests over on an ongoing basis.
+},
+{
+    51.52,54.94
+     It can also look like a dry red scaly patch.
+},
+{
+    54.94,57.3
+     This is the least dangerous type of skin cancer
+},
+{
+    57.3,59.16
+     because it is highly unlikely to spread
+},
+{
+    59.16,61.16
+     to other areas of the body.
+},
+{
+    61.16,64.22
+     But it should be treated because if you allow it to grow,
+},
+{
+    64.22,67.24
+     it can cause further damage to the skin in the area,
+},
+{
+    67.24,69.94
+     look bad, or cause disfigurement.
+},
+{
+    69.94,73.36
+     More men than women seem to get this type of skin cancer.
+},
+{
+    73.36,76.0
+     Although people in their late teens and early 20s
+},
+{
+    76.0,77.28
+     have been seen with it,
+},
+{
+    77.28,79.72
+     the rate that it happens increases with age,
+},
+{
+    79.72,82.52
+     most frequently affecting those over 50.
+},
+{
+    84.56,91.04
+     Squamous cells skin cancer most commonly appears on sun exposed areas such as the head, neck,
+},
+{
+    91.04,93.6
+     arm, back of the hand and leg.
+},
+{
+    93.6,97.16
+     It can also appear on the rim of the ear or the lip.
+},
+{
+    97.16,103.24
+     A squamous cell skin cancer appears as a thickened, red, scaly bump or wart-like growth.
+},
+{
+    103.24,107.48
+     It may also look like an open sore or crusted skin that doesn't heal.
+},
+{
+    107.48,112.04
+     This type of skin cancer may grow quickly over a period of several weeks, or it may take
+},
+{
+    112.04,113.84
+     years to develop.
+},
+{
+    113.84,118.88
+     It is seen mostly in people over 50.
+},
+{
+    118.88,124.16
+     While basal cell and squamous cell skin cancers are not a serious threat to life, these skin
+},
+{
+    124.16,128.8
+     cancers have to be removed by surgery or other treatment methods.
+},
+{
+    128.8,134.52
+     Pain and disfigurement can result.
+},
+{
+    134.52,138.8
+     Melanoma is the least common, but is a potentially deadly type of skin cancer.
+},
+{
+    138.8,144.0
+     However, it is important to note that there is a 95% cure rate for melanoma if it is caught
+},
+{
+    144.0,150.8
+     early. Melanoma appears most often on the backs of men and legs of women. Melanoma can develop within
+},
+{
+    150.8,158.88
+     weeks or months or can be slow growing over several years. Intense sun exposure from time to time,
+},
+{
+    158.88,166.0
+     sunburns and especially blistering sunburns in childhood, play a leading role in the development of melanoma.
+},
+{
+    166.0,169.48
+     This type of skin cancer can occur in any age group.
+},
+{
+    169.48,174.8
+     Fair skinned people who burn easily and those with freckles, red or fair hair and light
+},
+{
+    174.8,177.48
+     colored eyes are at greater risk.
+},
+{
+    177.48,182.68
+     People with a lot of moles, more than 50 moles, large moles or moles with an unusual color
+},
+{
+    182.68,186.48
+     or shape have an increased risk.
+},
+{
+    193.6,195.44
+     A simple way to check the skin for melanoma is by using the A, B, C, D, E guide to melanoma diagnosis.
+},
+{
+    199.68,201.36
+     A is for a symmetry. One half of the skin lesion is unlike the other.
+},
+{
+    204.8,206.78
+     B is for border, an irregular outline.
+},
+{
+    206.78,213.84
+     C is for color, a mixture of colors, black, brown, blue, red or white, particularly a change
+},
+{
+    213.84,216.4
+     in the color.
+},
+{
+    216.4,222.08
+     D is for diameter, larger than 6mm or the diameter of a pencil.
+},
+{
+    222.08,225.76
+     Although it is better to diagnose the melanoma before it reaches this size
+},
+{
+    225.76,232.64
+     and many melanomas are less than six millimeters in diameter. E is for evolution. Change is in a
+},
+{
+    232.64,238.16
+     pigmented spot. If there is a change in the shape, color, or size of a skin lesion or mole,
+},
+{
+    238.16,246.84
+     the lesion should be checked by a dermatologist. Melanoma requires surgical removal. Melanoma can be cured if it is found early
+},
+{
+    246.84,254.32
+     and removed. While basal cell skin cancer and squamous cell skin cancer arising in sun-damaged
+},
+{
+    254.32,259.4
+     skin have a low risk of spreading to other areas of the body, melanoma can spread to
+},
+{
+    259.4,265.88
+     other parts of the body and can lead to death. If you are uncertain about a change in your skin, consult
+},
+{
+    265.88,271.44
+     a dermatologist. Early detection is critical because if you find a melanoma early, it is
+},
+{
+    271.44,316.0
+     curable. Thank you. Music
+},

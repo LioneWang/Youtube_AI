@@ -1,0 +1,640 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.12,13.0
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.0,14.24
+     Brad Heineck, physical therapist.
+},
+{
+    14.24,16.16
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.16,17.56
+     In our opinion, of course, Bob.
+},
+{
+    17.56,19.66
+     Today we're gonna show you how to get rid of neck pain
+},
+{
+    19.66,21.32
+     from sleeping wrong.
+},
+{
+    21.32,23.6
+     This is something that just happened to somebody
+},
+{
+    23.6,24.56
+     I live with.
+},
+{
+    24.56,25.94
+     Oh, wonderful.
+},
+{
+    25.94,28.14
+     She doesn't like when I mention her name, so.
+},
+{
+    28.14,29.66
+     So by the way, if you're new to our channel,
+},
+{
+    29.66,31.14
+     please take a second to subscribe to us.
+},
+{
+    31.14,32.86
+     We provide videos on how to stay healthy,
+},
+{
+    32.86,35.38
+     fit, pain-free, and we upload every day.
+},
+{
+    35.38,36.44
+     And that's what we're doing right now.
+},
+{
+    36.44,37.5
+     We're staying in the basement
+},
+{
+    37.5,40.62
+     away from possible coronavirus problems.
+},
+{
+    40.62,43.46
+     You can go to also bobandbrad.com,
+},
+{
+    43.46,44.7
+     go to the giveaway section,
+},
+{
+    44.7,46.06
+     because we're always giving something away.
+},
+{
+    46.06,48.46
+     We're giving a sleep-ovation table
+},
+{
+    48.46,52.64
+     that has a UV light on it that can help clean things.
+},
+{
+    52.64,54.1
+     What, it's not a table?
+},
+{
+    54.1,55.04
+     Sleep-ovation?
+},
+{
+    55.04,57.62
+     Oh, not sleep-ovation, flex-a-spot.
+},
+{
+    57.62,58.46
+     Flex-a-spot.
+},
+{
+    58.46,60.34
+     Sorry about flex-a-spot.
+},
+{
+    60.34,62.56
+     I have sleep-ovation on the mind.
+},
+{
+    62.56,65.28
+     All right, you can also go to Instagram and Twitter
+},
+{
+    65.28,68.2
+     for a one minute version of our program,
+},
+{
+    68.2,69.8
+     or you go to Facebook and it'll be pinned
+},
+{
+    69.8,73.04
+     at the top of the page as far as the contest is concerned.
+},
+{
+    73.04,74.12
+     Excellent job.
+},
+{
+    74.12,77.76
+     So yes, approximately a week ago,
+},
+{
+    77.76,81.2
+     this person I live with woke up with a very stiff neck.
+},
+{
+    81.2,83.34
+     And I don't want to tell her how it happened,
+},
+{
+    83.34,86.64
+     but she was sleeping on the couch with her head forward
+},
+{
+    86.64,89.48
+     and bad posture for a long period of time.
+},
+{
+    89.48,93.68
+     So immediately what we had her do is we just had to take
+},
+{
+    93.68,97.36
+     a rolled towel and Brad's going to demonstrate here
+},
+{
+    97.36,100.76
+     and what he did or what she did is actually worked on
+},
+{
+    100.76,106.12
+     trying to gently start doing some cervical or neck extensions.
+},
+{
+    106.12,109.04
+     Brad, do you wanna use a chair or what do you wanna do?
+},
+{
+    109.04,112.0
+     Yeah, let's use a chair so I can go.
+},
+{
+    112.0,113.72
+     I'm gonna go ahead and handle the camera here.
+},
+{
+    113.72,116.88
+     Again, we don't have a camera person right now.
+},
+{
+    116.88,117.98
+     We're on our own.
+},
+{
+    118.96,119.8
+     We can do it, Bob.
+},
+{
+    119.8,120.84
+     This is the way we used to do it.
+},
+{
+    120.84,121.68
+     That's right.
+},
+{
+    121.68,123.08
+     Just how we did it from the beginning.
+},
+{
+    123.08,124.64
+     The old days coming back.
+},
+{
+    124.64,125.48
+     Yeah.
+},
+{
+    125.48,127.2
+     So I'm gonna take the towel roll wrapped up.
+},
+{
+    127.2,130.16
+     We have some tape around here, that's the red stripes.
+},
+{
+    130.16,132.8
+     And that's to keep it so it doesn't fall apart.
+},
+{
+    132.8,134.56
+     Yeah, you don't necessarily need that, but.
+},
+{
+    134.56,136.64
+     No, there you go.
+},
+{
+    136.64,139.52
+     All right, so what did you ever do first, Bob?
+},
+{
+    139.52,142.48
+     Well, first, you know, if she tried it without the towel,
+},
+{
+    142.48,143.36
+     it just didn't work.
+},
+{
+    143.36,144.28
+     It was too painful.
+},
+{
+    144.28,145.16
+     Yeah, so you're going?
+},
+{
+    145.16,148.0
+     Yeah, it was, it was very stiff.
+},
+{
+    148.0,150.52
+     So we just started having her take the towel
+},
+{
+    150.52,155.44
+     and I had her put some counter pressure against the neck.
+},
+{
+    155.44,156.44
+     So she would pull those things.
+},
+{
+    156.44,157.4
+     Pull that way, yeah.
+},
+{
+    157.4,158.24
+     Gently.
+},
+{
+    158.24,160.4
+     And just started working on extensions.
+},
+{
+    160.4,163.04
+     Now you can have your back up against the chair too,
+},
+{
+    163.04,165.52
+     if you, yeah, especially if you have a decent chair
+},
+{
+    165.52,167.28
+     with a decent back.
+},
+{
+    167.28,169.64
+     Now did you have her hold here or a little bit of?
+},
+{
+    169.64,170.48
+     A little bit of both.
+},
+{
+    170.48,172.8
+     A little bit of, you know, whatever felt comfortable,
+},
+{
+    172.8,175.04
+     that whatever was letting her extend back,
+},
+{
+    175.04,176.32
+     that's what we're doing.
+},
+{
+    176.32,178.76
+     So typically you'll go back a little farther,
+},
+{
+    178.76,181.44
+     it feels better with the support.
+},
+{
+    181.44,185.94
+     And it may take a few repetitions or even more, you know, throughout the day
+},
+{
+    185.94,188.12
+     before it starts to really go back.
+},
+{
+    188.12,190.12
+     And the pain goes down with the range of motion
+},
+{
+    190.12,192.04
+     as it increases, typically.
+},
+{
+    192.04,195.2
+     It immediately helps some.
+},
+{
+    195.2,197.8
+     And then over the course of the next day or two,
+},
+{
+    197.8,199.26
+     it went away.
+},
+{
+    199.26,202.4
+     But in addition to that, what you can also try
+},
+{
+    202.4,204.28
+     is you can try some rotations, Brad.
+},
+{
+    204.28,205.4
+     Do you want to go ahead and try those?
+},
+{
+    205.4,206.8
+     Sure.
+},
+{
+    206.8,208.56
+     You're gonna go back up to the bed, okay?
+},
+{
+    208.56,211.04
+     All right, so we're just gonna keep good posture,
+},
+{
+    211.04,214.76
+     not slouched, bring the shoulders back here,
+},
+{
+    214.76,216.32
+     and we're gonna use this, right, Brad?
+},
+{
+    216.32,220.56
+     So let's say Brad has trouble turning to the left, his left.
+},
+{
+    220.56,221.4
+     Oh.
+},
+{
+    221.4,223.12
+     Yep, it just doesn't wanna go.
+},
+{
+    223.12,225.08
+     You can, this Brad's gonna show you now,
+},
+{
+    225.08,228.16
+     you can pull down on the towel on the left,
+},
+{
+    228.16,229.56
+     that gets pulled down, yep.
+},
+{
+    229.56,231.76
+     And we usually cross hands over.
+},
+{
+    231.76,235.32
+     So he puts the right hand on the left towel
+},
+{
+    235.32,237.64
+     and the left hand on the right towel.
+},
+{
+    237.64,238.48
+     So then he pulls you,
+},
+{
+    238.48,240.32
+     kinda pull on your mic a little bit there, Brad.
+},
+{
+    240.32,241.16
+     But-
+},
+{
+    241.16,242.52
+     Sorry, what am I gonna do, Bob?
+},
+{
+    242.52,243.84
+     Take the rest off?
+},
+{
+    243.84,244.68
+     Go the other way.
+},
+{
+    244.68,245.56
+     Okay. So we'll Go the other way. Okay.
+},
+{
+    245.56,247.44
+     So we'll show the opposite way now.
+},
+{
+    248.56,250.6
+     These ones gonna go, turn to the right now.
+},
+{
+    250.6,252.08
+     So you're gonna pull down on the right one
+},
+{
+    252.08,254.04
+     and there he goes to the left.
+},
+{
+    254.04,255.0
+     All right, to the right.
+},
+{
+    255.0,256.94
+     Notice I keep the towel up here
+},
+{
+    256.94,260.08
+     so it goes across my jawbone and not your neck.
+},
+{
+    260.08,261.76
+     Yeah, exactly.
+},
+{
+    261.76,262.6
+     Really critical thing there.
+},
+{
+    262.6,264.72
+     It just gives nice support for the neck
+},
+{
+    264.72,268.44
+     when trying to do this and it works real well.
+},
+{
+    268.44,271.84
+     If it hurts to rotate that way,
+},
+{
+    271.84,274.48
+     you might actually work on rotating the other way
+},
+{
+    274.48,278.28
+     in order to, and then go back to the other one eventually.
+},
+{
+    278.28,279.12
+     Right.
+},
+{
+    279.12,279.96
+     It seems like that really helps.
+},
+{
+    279.96,280.8
+     Yep.
+},
+{
+    280.8,281.76
+     All right, I'm gonna come back, Brad.
+},
+{
+    281.76,283.16
+     Oh, sure, come on.
+},
+{
+    283.16,286.04
+     I'm gonna try to flip this around so I can see. All right, so the last come back Brad. Oh, sure, come on. I'm gonna try to flip this around so I can see.
+},
+{
+    286.04,289.32
+     All right, so the last thing you can try is,
+},
+{
+    289.32,293.68
+     if you're still stiff and you're lacking some side bending,
+},
+{
+    293.68,295.16
+     what we want you to do with that one
+},
+{
+    295.16,299.12
+     is actually do a chin tuck and then go to that side.
+},
+{
+    299.12,303.04
+     Don't just go to that side, chin tuck and go to that side.
+},
+{
+    303.04,305.24
+     Yeah, I can see Brad showing it from behind there.
+},
+{
+    305.24,306.8
+     Chin tuck, that side.
+},
+{
+    306.8,308.2
+     If you're gonna go the other direction,
+},
+{
+    308.2,310.52
+     chin tuck, and this direction.
+},
+{
+    310.52,312.52
+     So just so you guys could tell,
+},
+{
+    312.52,316.04
+     I'm back behind the table, maintaining my six feet distance.
+},
+{
+    316.04,317.88
+     That's right, I can't reach him.
+},
+{
+    317.88,320.88
+     He's back there, but I don't know.
+},
+{
+    320.88,324.32
+     I guess we both were not really exposed
+},
+{
+    325.36,327.88
+     as far as breath wise, but we were exposed
+},
+{
+    327.88,330.64
+     as far as touching surfaces possibly, right?
+},
+{
+    330.64,332.08
+     Yeah, that potential exists.
+},
+{
+    332.08,335.84
+     Yeah, so we've been trying to use disinfectant
+},
+{
+    335.84,338.0
+     and wash our hands and use gloves and all that,
+},
+{
+    338.0,339.92
+     and we're out of there now, so hopefully.
+},
+{
+    339.92,341.44
+     Right, yep.
+},
+{
+    341.44,343.92
+     So everybody, please stay safe out there.
+},
+{
+    343.92,346.56
+     We'll all get through this together.
+},
+{
+    346.56,350.94
+     We just gotta use some ingenuity and have some faith.
+},
+{
+    350.94,353.68
+     Yep, and just relax, do what you're supposed to do
+},
+{
+    353.68,354.8
+     and read a book.
+},
+{
+    354.8,None
+     All right, thanks for watching. you
+},

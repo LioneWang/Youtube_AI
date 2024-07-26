@@ -1,0 +1,700 @@
+{
+    0.0,10.0
+     Who out there hasn't had that frustrating situation where you go to the doctor after feeling pretty miserable and not sleeping the past couple days?
+},
+{
+    10.0,17.0
+     Or even worse, maybe for those women out there, your husband has been keeping you up with another bout of his man flu.
+},
+{
+    17.0,25.24
+     You go to your doctor or to the friendly urgent care just to be told what you think is an obvious sinus infection, is just due to
+},
+{
+    25.24,28.92
+     another one of those dreaded viral illnesses that nobody can seem to define.
+},
+{
+    28.92,33.48
+     You get a pat on the back, maybe a sympathy smile, and a nice fat bill for
+},
+{
+    33.48,38.72
+     your trouble. Does this sound familiar to anybody out there? I bet it does. In fact,
+},
+{
+    38.72,43.44
+     I'm sure that it does for a lot of my own patients. So in this video, we're going
+},
+{
+    43.44,45.32
+     to discuss what makes up a sinus
+},
+{
+    45.32,49.8
+     infection, what things you can do at home to treat it, prevent it from getting
+},
+{
+    49.8,54.0
+     worse, and when to seek care when it isn't something that's going to go away on its own.
+},
+{
+    54.0,57.0
+     Coming up.
+},
+{
+    64.72,70.4
+     Welcome to Family Med, your medical home for practical and accurate information to help
+},
+{
+    70.4,73.12
+     your family make healthy decisions.
+},
+{
+    73.12,77.88
+     I'm Dr. Eric Richardson and today we're talking about sinus infections.
+},
+{
+    77.88,78.88
+     What is a sinus infection?
+},
+{
+    78.88,83.88
+     As you can see in the diagram, to understand what a sinus infection is, let's look at a
+},
+{
+    83.88,85.5
+     simple diagram of what sinuses are.
+},
+{
+    85.5,90.7
+     You note here on the screen that the sinuses are opening inside of this goal that communicates
+},
+{
+    90.7,96.98
+     into the nasal passages through a small opening. They produce mucus to help keep the nose healthy.
+},
+{
+    96.98,102.58
+     However, what can happen is when you get sick, these little narrow openings can get inflamed,
+},
+{
+    102.58,105.28
+     get plugged up. If this happens,
+},
+{
+    105.28,110.22
+     then over time it can create an environment where bacteria grow and finally turn into
+},
+{
+    110.22,115.36
+     a more significant infection. So how do you determine if you have a sinus infection? Well,
+},
+{
+    115.36,121.16
+     most common symptoms of a sinus infection are cough, congestion, runny nose, sinus pain
+},
+{
+    121.16,125.52
+     and pressure, sometimes fevers, drainage down the back of your throat.
+},
+{
+    125.52,129.2
+     Now these may sound similar to symptoms you would attribute to a cold.
+},
+{
+    129.2,131.6
+     If you're thinking this, then you're right.
+},
+{
+    131.6,136.2
+     Sinus infections typically start out being caused by a normal cold virus.
+},
+{
+    136.2,140.72
+     The first several days of symptoms, you typically can't tell a difference between a viral versus
+},
+{
+    140.72,143.24
+     a bacterial source of your symptoms.
+},
+{
+    143.24,145.78
+     But studies have shown that it's by far more common
+},
+{
+    145.78,149.02
+     to be a virus causing your symptoms, especially early on.
+},
+{
+    149.02,150.54
+     Remember, what's happening?
+},
+{
+    150.54,152.3
+     As the sinus openings get swollen,
+},
+{
+    152.3,155.42
+     pressure builds up and causes a lot of discomfort.
+},
+{
+    155.42,158.34
+     That many of us kind of relate to a sinus infection.
+},
+{
+    158.34,160.5
+     The pain you're experiencing is coming
+},
+{
+    160.5,161.9
+     from the pressure building up
+},
+{
+    161.9,163.9
+     and doesn't necessarily mean
+},
+{
+    163.9,165.2
+     that there's a bacterial infection
+},
+{
+    165.2,170.64
+     causing it. That's why treatments are going to focus on trying to get that pressure relieved
+},
+{
+    170.64,176.72
+     rather than treating with antibiotics. Remember, that is important because a viral infection is
+},
+{
+    176.72,183.2
+     not responsible to antibiotics and are worthless really to try. That's why we focus more on symptom
+},
+{
+    183.2,188.52
+     control at the beginning because most of these shouldn't be treated with an antibiotic. We'll go
+},
+{
+    188.52,191.64
+     into some home treatments in a minute, but before we do we should talk about
+},
+{
+    191.64,196.16
+     some things that would make us more concerned and maybe reasons that you
+},
+{
+    196.16,200.24
+     should go seek care. Some of the things that maybe you should consider going to
+},
+{
+    200.24,208.68
+     see a doctor for are, you know, if you're having a persistent fever over 101. Now in the initial stages it's not uncommon to have a fever and wouldn't
+},
+{
+    208.68,213.2
+     necessarily be the reason to go in however if it were to persist or didn't
+},
+{
+    213.2,217.44
+     respond to normal treatments then maybe you should you know consider looking into
+},
+{
+    217.44,223.04
+     it. Also symptoms that are getting worse or lasting more than 10 days or it
+},
+{
+    223.04,226.32
+     could be a concern. Also, any time that symptoms
+},
+{
+    226.32,230.88
+     that initially started to get better, and all of a sudden got worse and continued to
+},
+{
+    230.88,236.72
+     do so, would also be something you may want to have looked at closer. Most of the time,
+},
+{
+    236.72,241.04
+     we don't consider us physicians treating a sinus infection until your symptoms been
+},
+{
+    241.04,246.44
+     going on for about 10 days or so, or if you're having real severe symptoms that aren't being
+},
+{
+    246.44,248.92
+     relieved by normal treatments.
+},
+{
+    248.92,251.0
+     If you're experiencing any of these symptoms,
+},
+{
+    251.0,252.36
+     then it's more likely that you may
+},
+{
+    252.36,254.32
+     benefit from treatment of antibiotics
+},
+{
+    254.32,255.56
+     if they're real severe.
+},
+{
+    255.56,257.08
+     And then maybe you should go see your doctor
+},
+{
+    257.08,258.84
+     and discuss it with them.
+},
+{
+    258.84,260.36
+     Now, fortunately, most sinus symptoms
+},
+{
+    260.36,262.0
+     are not bacterial in origin.
+},
+{
+    262.0,264.6
+     OK, it can be treated fairly easily.
+},
+{
+    264.6,266.18
+     So we're going to talk about a few things
+},
+{
+    266.18,268.3
+     that you can do at home to hopefully
+},
+{
+    268.3,270.5
+     prevent your symptoms from getting worse
+},
+{
+    270.5,272.82
+     and requiring further medical care.
+},
+{
+    272.82,274.82
+     So as we discussed these, think again,
+},
+{
+    274.82,277.14
+     back at our diagram of the sinuses
+},
+{
+    277.14,278.26
+     and hopefully that will help that.
+},
+{
+    278.26,281.14
+     You know, some of these things make a little more sense.
+},
+{
+    281.14,282.98
+     We're trying to open up those passages
+},
+{
+    282.98,288.88
+     and allow those sinuses to drain better. So the first thing we can start trying are decongestants. Now
+},
+{
+    288.88,292.0
+     there's three main kinds of decongestants you can get over the counter.
+},
+{
+    292.0,296.2
+     The first is called phenylephrin. Okay this is the ingredient that you find in
+},
+{
+    296.2,301.12
+     most your decongestants that they sell on the shelf. It can help some and it's
+},
+{
+    301.12,305.28
+     easier to get because but it's also the least effective out of all of them.
+},
+{
+    310.08,315.36
+     Okay the second you can get is Sudafedrin or Sudafed. Okay this tends to work a little better than the phenolaphrin but its main problem is is the government does control the sale of it.
+},
+{
+    315.36,320.16
+     You don't need the prescription but you do need to buy it behind the pharmacy counter.
+},
+{
+    320.16,324.8
+     You have to specifically ask the pharmacist for it and you have to show your ID to be able to get
+},
+{
+    324.8,325.0
+     it. This is thanks to your friendly ID to be able to get it.
+},
+{
+    325.0,329.0
+     This is thanks to your friendly neighborhood methamphetamine manufacturer.
+},
+{
+    329.0,332.0
+     As is one of the ingredients that they all used to make it.
+},
+{
+    332.0,334.0
+     Now, one caution on the oral decongestants.
+},
+{
+    334.0,337.0
+     If you do have high blood pressure, it can make this worse.
+},
+{
+    337.0,340.0
+     So, certainly consult your doctor before using it.
+},
+{
+    340.0,343.0
+     Okay, the last one is called oxymethasoline.
+},
+{
+    343.0,347.68
+     Okay, these are the ingredients you find in your affrin nasal spray type products.
+},
+{
+    347.68,351.22
+     These are very fast acting and they can work very well.
+},
+{
+    351.22,354.08
+     So we have to offer up a really big warning here though.
+},
+{
+    354.08,358.04
+     You don't want to be taking affrin or those kind of type medicated nasal sprays for more
+},
+{
+    358.04,359.96
+     than three or four days.
+},
+{
+    359.96,363.04
+     The problem about affrin is that your nose can become addicted to it.
+},
+{
+    363.04,364.76
+     You become an affrin junkie.
+},
+{
+    364.76,369.4
+     What happens is your nose becomes dependent and the afferent can be able to open it up
+},
+{
+    369.4,370.4
+     and keep them up.
+},
+{
+    370.4,373.0
+     You get what we call rebound congestion.
+},
+{
+    373.0,376.6
+     So after the medication wears off, you get worse congestion than you had before.
+},
+{
+    376.6,380.32
+     So you have to keep using it in order to keep your nose open.
+},
+{
+    380.32,383.68
+     This is pretty miserable to come off of and often times need your doctors help to get
+},
+{
+    383.68,384.68
+     rid of that.
+},
+{
+    384.68,387.92
+     So be careful on using afferent, but it can be helpful for a short amount of time.
+},
+{
+    388.88,392.8
+     Now a second group of medications that you can use at home or things you can do at home that
+},
+{
+    392.8,398.24
+     can be helpful are mucous centers. These are medications like your mucinics. Okay these medications
+},
+{
+    398.24,402.88
+     have been taken with a lot of water, can help thin out the mucous secretions and can help facilitate
+},
+{
+    402.88,408.72
+     a little bit better drainage from the sinus. So look at the box, take them as directed. Okay the
+},
+{
+    408.72,412.64
+     third thing you can do is start using some sort of a nasal steroid spray. Okay
+},
+{
+    412.64,416.56
+     these are now over the counter. These are medications such as your flonies and
+},
+{
+    416.56,420.88
+     nasocort. These work best in trying to help keep the inflammation down your
+},
+{
+    420.88,425.84
+     nasal passages and sinuses. Now these medications don't start working right away.
+},
+{
+    425.84,428.76
+     It takes a few days for them to start to take effect,
+},
+{
+    428.76,431.32
+     so they aren't meant really for immediate relief.
+},
+{
+    431.32,433.12
+     They're really your best to use them daily
+},
+{
+    433.12,436.4
+     to try and prevent recurrent infections, okay?
+},
+{
+    436.4,439.48
+     Now, in order for these to work the best,
+},
+{
+    439.48,442.52
+     you need to put the medicine in the right place, okay?
+},
+{
+    442.52,444.96
+     Most people, in fact, I got to,
+},
+{
+    444.96,446.56
+     here to demonstrate for you,
+},
+{
+    447.28,450.96
+     most people they just kind of stick it up their nose and spray. But it's not going to work the
+},
+{
+    450.96,455.44
+     best if you do it that way. The reason is, is that spray just kind of stays right up at the front.
+},
+{
+    456.48,460.56
+     Best way to use this medication in order to get to the right spot, and this really goes for any
+},
+{
+    460.56,469.88
+     kind of nasal spray, is you want to take your medication ball and put your chin to your chest. Then you're going to want to stick that nose up your nose and
+},
+{
+    469.88,474.36
+     point it right to the back of your head. Now when it's up like this you want to angle
+},
+{
+    474.36,479.8
+     it slightly out towards the ear of the side you're spraying on. So you want to put your
+},
+{
+    479.8,490.4
+     chin to your chest, you want to stick it up, point it right to the back of your head, you want to angle it out towards the side you're spraying on, then plug one side, it's a new
+},
+{
+    490.4,495.6
+     feature spray. That's all it takes. Okay? So that'll bring it up and out and really get
+},
+{
+    495.6,501.28
+     inside those sinus passages and do real well. Okay. So the fourth thing you can do is work
+},
+{
+    501.28,508.12
+     on cleaning out those nasal and sinus passages. So you can do this by using some sinus irrigation products. These include things
+},
+{
+    508.12,513.54
+     like saline spray, sinus rinse kits, okay, such as those made by Neil Med or the
+},
+{
+    513.54,519.0
+     Netty Pot, or even the Grand Etude Mall, the Navage. Okay, these work great. Now
+},
+{
+    519.0,522.44
+     they're not the most attractive thing in the world to use, so you may want to find
+},
+{
+    522.44,526.28
+     a little private time to do it. However, they really can help a lot.
+},
+{
+    526.28,529.42
+     What you do is you take whatever bottle or device you're using,
+},
+{
+    529.42,532.74
+     using included salt solution in there and some warm water.
+},
+{
+    532.74,535.16
+     This helps actually so you don't get that burning sensation
+},
+{
+    535.16,536.68
+     when it goes up your nose.
+},
+{
+    536.68,540.18
+     Now, and then what you do, you just squirt it up your nose.
+},
+{
+    540.18,541.1
+     That's it.
+},
+{
+    541.1,542.4
+     Okay, this works for a couple of reasons.
+},
+{
+    542.4,546.16
+     First, it helps to wash out the nasal passages,
+},
+{
+    546.16,550.4
+     but more importantly, that salt solution can help dry out the inside of those,
+},
+{
+    551.6,556.32
+     the nose and can shrink up that kind of congested tissue that's in there. So give it a try.
+},
+{
+    556.32,560.96
+     One caution though, they do recommend that you make sure to use purified water. There have been
+},
+{
+    560.96,567.64
+     some rare reported cases of people actually getting brain infections from a certain amoeba that have been contacting their water supply.
+},
+{
+    567.64,571.24
+     It certainly is extremely rare, but it's of course something to keep in mind.
+},
+{
+    571.24,575.92
+     Okay, so by aggressively employing these simple steps, you can hopefully maintain those sinus
+},
+{
+    575.92,580.92
+     openings open and allow the area to drain properly, prevent it from turning into something
+},
+{
+    580.92,584.12
+     worse that may require further treatment.
+},
+{
+    584.12,585.1
+     So there you have it.
+},
+{
+    585.1,586.78
+     Hopefully you've learned something today
+},
+{
+    586.78,588.42
+     about science infections
+},
+{
+    588.42,592.06
+     and are now more prepared to tackle your next man flu.
+},
+{
+    592.06,593.7
+     Remember, check out the notes below
+},
+{
+    593.7,595.54
+     to review the things that we talked about.
+},
+{
+    595.54,597.62
+     Also, go ahead and comment below as well.
+},
+{
+    597.62,598.62
+     Let us know.
+},
+{
+    598.62,600.06
+     What do you do to try and treat
+},
+{
+    600.06,601.86
+     and prevent your science infection?
+},
+{
+    601.86,603.18
+     Are there things that you found useful
+},
+{
+    603.18,605.12
+     that maybe we haven't discussed yet.
+},
+{
+    609.76,610.4
+     There's certainly a lot of things out there that can be helpful, so let us know what you think.
+},
+{
+    613.28,616.64
+     I've also attached some links to some of the products we talked about today, as well as others that are recommended by patients, and I know it's below, so check them out.
+},
+{
+    617.44,623.04
+     All right guys, so hopefully you found this information helpful. So don't forget to like
+},
+{
+    623.04,627.08
+     this video. If you want to see more videos like it, don't forget to subscribe, hit that notification
+},
+{
+    627.08,629.88
+     button and then please share it with your friends, okay?
+},
+{
+    629.88,633.12
+     Also, go ahead and check out the other videos we have on our channel.
+},
+{
+    633.12,637.56
+     Okay, now remember, my purpose in sharing this information for you is to educate you
+},
+{
+    637.56,642.0
+     in the things that you can think about and trying to make decisions for your own health.
+},
+{
+    642.0,645.0
+     In no way should it be taken as direct medical advice to you
+},
+{
+    645.0,649.0
+     and in your own situation. So please consult your own doctor for concerns regarding your
+},
+{
+    649.0,654.0
+     specific situation. So until next time, this is Family Med with Dr. Eric Richardson. And
+},
+{
+    654.0,658.0
+     remember, please take care of your body because it's the only one you have.
+},

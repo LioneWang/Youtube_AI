@@ -1,0 +1,520 @@
+{
+    0.0,2.72
+     In this video, I'm gonna show you five natural ways
+},
+{
+    2.72,4.92
+     to unclog your plugged up ears.
+},
+{
+    4.92,5.76
+     Coming up.
+},
+{
+    5.76,9.92
+     ["Dance of the Sugar Plum Fairy"]
+},
+{
+    11.52,13.4
+     Hi guys, Cliff Olson, Doctor of Audiology
+},
+{
+    13.4,16.36
+     and founder of Applied Hearing Solutions in Anthem, Arizona.
+},
+{
+    16.36,17.84
+     And on this channel, I cover a bunch of
+},
+{
+    17.84,19.72
+     hearing-related information to help make you
+},
+{
+    19.72,21.12
+     a better informed consumer.
+},
+{
+    21.12,23.72
+     So if you're into that, consider hitting the subscribe button.
+},
+{
+    23.72,26.26
+     Our ears can get plugged up for a variety of reasons. One of those is changing elevations. So whether you're into that, consider hitting the subscribe button. Our ears can get plugged up for a variety of reasons.
+},
+{
+    26.26,28.0
+     One of those is changing elevations.
+},
+{
+    28.0,30.18
+     So whether you're driving in a car through the mountains
+},
+{
+    30.18,33.18
+     or you're on an airplane ascending or descending,
+},
+{
+    33.18,35.06
+     you can get the sensation that your ears
+},
+{
+    35.06,36.3
+     are being plugged up.
+},
+{
+    36.3,38.28
+     Another reason your ears would feel clogged
+},
+{
+    38.28,41.06
+     is if you are having a cold or a sinus infection
+},
+{
+    41.06,42.3
+     and you have a bunch of mucus
+},
+{
+    42.3,44.12
+     that is plugging up your sinuses.
+},
+{
+    44.12,46.2
+     So what is actually giving you the sensation
+},
+{
+    46.2,47.4
+     that your ears are clogged?
+},
+{
+    47.4,49.4
+     Our ears are comprised of an outer ear,
+},
+{
+    49.4,51.24
+     middle ear, and inner ear.
+},
+{
+    51.24,53.32
+     Our middle ear is connected to our throat
+},
+{
+    53.32,55.06
+     by our Eustachian tube.
+},
+{
+    55.06,57.64
+     This tube is responsible for keeping the air pressure
+},
+{
+    57.64,60.2
+     in our middle ear equal with the air pressure
+},
+{
+    60.2,61.48
+     in our outer ear.
+},
+{
+    61.48,64.4
+     If the Eustachian tube does not keep things equal,
+},
+{
+    64.4,67.28
+     we get this perception that our ears are clogged.
+},
+{
+    67.28,69.32
+     So the simple solution to this problem
+},
+{
+    69.32,71.96
+     is actually getting air to go through our Eustachian tube
+},
+{
+    71.96,74.76
+     into our middle ear space to regulate that pressure.
+},
+{
+    74.76,76.24
+     Under normal circumstances,
+},
+{
+    76.24,79.1
+     our ears will naturally unclog just by swallowing.
+},
+{
+    79.1,80.68
+     But when swallowing isn't enough,
+},
+{
+    80.68,82.96
+     you need to use a trick in order to get air
+},
+{
+    82.96,88.72
+     through your Eustachian tube into your middle ear space, the first one is called the Val Salva Maneuver.
+},
+{
+    88.72,92.56
+     Very simply the Val Salva Maneuver is when you plug your nose and blow.
+},
+{
+    92.56,96.52
+     That'll take air, push it through your Eustachian tube into your middle ear space and it will
+},
+{
+    96.52,98.22
+     regulate that pressure.
+},
+{
+    98.22,101.8
+     If the Val Salva Maneuver isn't getting the job done, then you may have to use our second
+},
+{
+    101.8,103.92
+     technique which is the Lowry Method.
+},
+{
+    103.92,109.6
+     With the Lowry Method you basically do the same steps as you would with the Val Salva maneuver, but instead of just
+},
+{
+    109.6,115.04
+     plugging your nose and blowing, you're plugging your nose, blowing, and swallowing at the same time,
+},
+{
+    115.04,119.6
+     that sometimes gets extra air through your station tube and into your middle ear space.
+},
+{
+    119.6,123.92
+     If you're not capable of doing those first two techniques, then the third technique is yawning,
+},
+{
+    123.92,125.18
+     because when you yawn,
+},
+{
+    125.18,126.82
+     it opens up those Eustachian tubes
+},
+{
+    126.82,128.66
+     just enough to let some air through.
+},
+{
+    128.66,130.38
+     Technique number four is a little bit weird,
+},
+{
+    130.38,131.7
+     but you could actually have someone
+},
+{
+    131.7,133.5
+     put their lips around your nose,
+},
+{
+    133.5,135.58
+     making sure they create a good seal,
+},
+{
+    135.58,139.58
+     and they can gently blow into your nose while you swallow.
+},
+{
+    139.58,141.26
+     This will force air through the tube,
+},
+{
+    141.26,143.06
+     again, into your middle ear space.
+},
+{
+    143.06,144.38
+     I wouldn't really recommend it,
+},
+{
+    144.38,147.36
+     because it can be dangerous if they're blowing too hard.
+},
+{
+    147.36,149.2
+     Instead of doing technique number four,
+},
+{
+    149.2,151.88
+     I would probably recommend that you do technique number five,
+},
+{
+    151.88,154.2
+     which is actually using the Eustachie.
+},
+{
+    154.2,155.96
+     The Eustachie is a very simple product
+},
+{
+    155.96,158.42
+     that actually will blow air through your nostril
+},
+{
+    158.42,161.96
+     to unclog your Eustachian tubes while you swallow.
+},
+{
+    161.96,164.96
+     The concept is that you actually take this little hole
+},
+{
+    164.96,166.44
+     right there at the tip of the
+},
+{
+    166.44,171.52
+     Eustachie, you'll put that into your nostril and then you'll hit this start button here
+},
+{
+    171.52,176.8
+     which will gently force air through your nostril down through your throat and into your Eustachian
+},
+{
+    176.8,177.8
+     tubes.
+},
+{
+    177.8,181.2
+     It's a much safer method of doing it than having someone wrap their lips around your
+},
+{
+    181.2,182.52
+     nose and blowing.
+},
+{
+    182.52,186.26
+     When you use it, you'll do something like this right here. You'll hit the start button
+},
+{
+    186.26,188.74
+     and you'll feel air go through your nostril
+},
+{
+    188.74,191.14
+     and when you feel that air, you're gonna swallow.
+},
+{
+    191.14,193.98
+     You'll keep that button pressed down while you're doing it
+},
+{
+    193.98,197.26
+     and voila, it forces air through your use station tube
+},
+{
+    197.26,198.7
+     and into your middle ear space,
+},
+{
+    198.7,200.98
+     getting rid of that clog sensation.
+},
+{
+    200.98,203.02
+     Now, if you've tried all of these natural methods
+},
+{
+    203.02,204.54
+     and none of them seem to work,
+},
+{
+    204.54,207.08
+     your plugged ears could actually be something a little bit more
+},
+{
+    207.08,212.0
+     serious. The first one is earwax. If you have a bunch of earwax in your outer
+},
+{
+    212.0,216.32
+     ear plugging up your ear canal, it will definitely give you this sensation of
+},
+{
+    216.32,220.52
+     being plugged up. In fact, most people think that that's the original cause of
+},
+{
+    220.52,224.6
+     their ears feeling clogged, but then when they do some ear washes or they go in
+},
+{
+    224.6,226.04
+     and have their ears cleaned out,
+},
+{
+    226.04,227.92
+     they find that they really didn't have any earwax
+},
+{
+    227.92,230.88
+     in there at all, and it was just a middle ear issue.
+},
+{
+    230.88,232.42
+     The second thing that could be going on
+},
+{
+    232.42,234.2
+     is fluid in your middle ear space.
+},
+{
+    234.2,236.44
+     So instead of a negative middle ear pressure,
+},
+{
+    236.44,238.08
+     you actually have fluid inside of there
+},
+{
+    238.08,240.2
+     that is giving you that clogged up feeling.
+},
+{
+    240.2,242.88
+     Now every once in a while, that fluid will naturally
+},
+{
+    242.88,248.4
+     go away, sometimes doing those techniques that I described earlier will get that fluid to go back down
+},
+{
+    248.4,250.88
+     through your eustachian tube into your throat.
+},
+{
+    250.88,254.78
+     But every once in a while it requires the use of a pressure equalization tube that will
+},
+{
+    254.78,258.8
+     need to be put into your eardrum by an ear specialist.
+},
+{
+    258.8,263.88
+     And a third possible cause of your ears feeling clogged is sudden sensorineural hearing loss.
+},
+{
+    263.88,268.82
+     This generally happens in one ear versus the other and it is a much more serious medical
+},
+{
+    268.82,272.74
+     situation than those other two situations that I talked about.
+},
+{
+    272.74,277.82
+     It's actually required of you to go into a hearing care professional to get it diagnosed
+},
+{
+    277.82,283.26
+     and to receive treatment from an ear specialist in the form of steroids or even a steroid injection
+},
+{
+    283.26,285.96
+     through your eardrum to stop whatever is actually
+},
+{
+    285.96,288.22
+     attacking your hearing organ.
+},
+{
+    288.22,290.16
+     Treatment is extremely time sensitive
+},
+{
+    290.16,291.9
+     with sudden sensory neural hearing loss,
+},
+{
+    291.9,294.04
+     so if you try any of these other techniques
+},
+{
+    294.04,296.4
+     and they don't work, you need to immediately go in
+},
+{
+    296.4,299.16
+     and see an audiologist to get your hearing tested,
+},
+{
+    299.16,301.76
+     and if you have sustained a sudden sensory neural
+},
+{
+    301.76,304.72
+     hearing loss, you need to get treatment immediately.
+},
+{
+    304.72,306.6
+     It is never a good idea to just assume
+},
+{
+    306.6,309.04
+     that your clogged ears is due to something simple
+},
+{
+    309.04,312.04
+     like unequalized pressure in your middle ear space.
+},
+{
+    312.04,314.32
+     So if you try these techniques that I mentioned before
+},
+{
+    314.32,315.84
+     and you've tried to use Stacey
+},
+{
+    315.84,317.54
+     and that doesn't fix the problem,
+},
+{
+    317.54,319.8
+     you need to schedule an appointment with an audiologist
+},
+{
+    319.8,321.2
+     to get your hearing evaluated
+},
+{
+    321.2,323.76
+     to see what the problem really is.
+},
+{
+    323.76,324.72
+     That's it for this video.
+},
+{
+    324.72,325.56
+     If you have any questions,
+},
+{
+    325.56,327.24
+     leave them in the comment section below.
+},
+{
+    327.24,328.84
+     If you liked the video, please share it.
+},
+{
+    328.84,330.84
+     And if you wanna see other videos just like this one,
+},
+{
+    330.84,332.64
+     go ahead and hit that subscribe button.
+},
+{
+    332.64,334.12
+     I'll see you next time.
+},

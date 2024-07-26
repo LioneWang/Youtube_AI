@@ -1,0 +1,440 @@
+{
+    0.0,11.12
+     As we've already established, irregular biscylid injections are very important.
+},
+{
+    11.12,17.36
+     It is essential that any problems experienced by the patient are identified and minimised.
+},
+{
+    17.36,22.36
+     Health staff should identify whether pain is a concern for their patients and work with
+},
+{
+    22.36,25.24
+     them to determine which of the following pain
+},
+{
+    25.24,31.48
+     and stress reduction strategies are the most effective. Minimising pain and stress remains
+},
+{
+    31.48,38.12
+     very important all through the treatment period, but it is in particular so for the very first
+},
+{
+    38.12,49.68
+     injections. Take your time and promote a calm environment, especially with a new patient.
+},
+{
+    49.68,56.08
+     Encourage pain relief, such as paracetamol or ibuprofen, approximately 30 minutes prior
+},
+{
+    56.08,57.76
+     the injection.
+},
+{
+    57.76,61.8
+     This may be taken prior to presenting to the clinic.
+},
+{
+    61.8,66.2
+     Topical anesthetic can provide relief from the needle pain. For example,
+},
+{
+    66.2,72.56
+     amylocrimal patch may begin to numb the site within 15 minutes but it needs at least 1
+},
+{
+    72.56,79.16
+     hour to provide adequate pain relief. The patient may prefer to put topical anesthetic
+},
+{
+    79.16,86.52
+     on at home prior to presenting for injection. Distraction is important as this can reduce anxiety.
+},
+{
+    86.52,91.08
+     Depending on age, patients may respond to a bubble blower,
+},
+{
+    91.08,93.4
+     a picture book or poster,
+},
+{
+    93.4,98.08
+     or the use of an electronic gadget such as an iPad or similar.
+},
+{
+    98.08,102.0
+     You can also distract by asking about their sport and hobbies
+},
+{
+    102.0,105.36
+     or playing video or music.
+},
+{
+    105.36,110.8
+     Many patients experience a higher level of stress as soon as they sight the needle.
+},
+{
+    110.8,116.96
+     Where possible, prepare the injection outside of view of the patient and cover the items.
+},
+{
+    116.96,122.64
+     Bicillin needs to be stored in the fridge but cold preparations can be more painful when
+},
+{
+    122.64,126.3
+     injected. Immediately prior to injection,
+},
+{
+    126.3,128.74
+     my cellan can be removed from the fridge
+},
+{
+    128.74,131.4
+     and safely warmed to room temperature
+},
+{
+    131.4,134.74
+     by rolling the syringe between warm hands.
+},
+{
+    134.74,136.68
+     When patients are comfortable with this
+},
+{
+    136.68,138.82
+     and like to be part of the process,
+},
+{
+    138.82,141.82
+     they may be able to do this themselves.
+},
+{
+    141.82,144.48
+     Apply fairly strong pressure with your thumb
+},
+{
+    144.48,147.0
+     right on the chosen site immediately prior
+},
+{
+    147.0,152.84
+     to injection for approximately 30 seconds as this can help numb the area.
+},
+{
+    152.84,157.4
+     Applying an ice pack pre-injection also has a numbing effect.
+},
+{
+    157.4,163.2
+     After selecting the site immediately prior to injection, gently tap the area to stimulate
+},
+{
+    163.2,165.86
+     the nerve endings and minimize pain when the
+},
+{
+    165.86,167.74
+     needle is inserted.
+},
+{
+    167.74,174.74
+     Some health practitioners use a local anesthetic, such as Lignacade, immediately before or with
+},
+{
+    174.74,179.3
+     the bicellum injection to reduce longer term injection pain.
+},
+{
+    179.3,186.4
+     However, mixing bicellum with an anesthetic solution and decanting into a larger syringe poses an
+},
+{
+    186.4,192.72
+     infection risk and is not recommended by the manufacturer Pfizer. As insufficient data is
+},
+{
+    192.72,198.88
+     available to substantiate this practice, encourage the patient to relax because injections into
+},
+{
+    198.88,206.64
+     tense muscles are more painful than relaxed muscles and may bleed more easily. Allow alcohol from the swab to dry
+},
+{
+    206.64,208.84
+     before inserting the needle.
+},
+{
+    208.84,211.84
+     This prevents the sting when inserting the needle.
+},
+{
+    211.84,214.08
+     Bicillin is a thick fluid.
+},
+{
+    214.08,217.64
+     Injecting slowly over two or three minutes
+},
+{
+    217.64,221.52
+     allows the solution to be dispersed into the muscle gently
+},
+{
+    221.52,224.12
+     which can have a positive effect on pain.
+},
+{
+    223.76,228.0
+     into the muscle gently which can have a positive effect on pain.
+},
+{
+    233.68,240.08
+     Encourage gentle movement of muscle following injection as this will help absorb the biscylin and may shorten the period of deeper muscle pain. This can be achieved by applying slight pressure
+},
+{
+    240.08,247.0
+     and gentle massage to the injection side with a flat hand and walking, cycling or other
+},
+{
+    247.0,253.64
+     leg exercises. Use a cold pack application post injection. Some patients may prefer a
+},
+{
+    253.64,260.12
+     heat pack. Suggest to the patient to take pain relief at home such as paracetamol or
+},
+{
+    260.12,267.08
+     iprofen. Your facility may be able to provide this or propose to the patient to purchase
+},
+{
+    267.08,273.92
+     this. Some patients may need several pain reduction strategies, whilst others may prefer
+},
+{
+    273.92,279.64
+     to just get jabbed and go with a minimum of fuss. Keep in mind that the injections can
+},
+{
+    279.64,285.8
+     become more tolerable to the patient over time, in particular when the very first injections
+},
+{
+    285.8,292.96
+     have been as pain and stress free as possible.
+},
+{
+    292.96,298.52
+     Here are other strategies for you as the clinician or your healthcare facility to consider to
+},
+{
+    298.52,303.04
+     reduce the stress and inconvenience experienced by patients.
+},
+{
+    303.04,308.12
+     Feeling cared for and nurtured and having a sense of belonging to a health service is
+},
+{
+    308.12,315.44
+     very important to ensure people continue to return to the health service regularly.
+},
+{
+    315.44,319.6
+     Feeling valued may even be more significant than feeling no pain.
+},
+{
+    319.6,324.92
+     Accommodating the parents or caregivers may also have a significant positive impact on
+},
+{
+    324.92,329.44
+     the relationship between the patient and the health service.
+},
+{
+    329.44,336.04
+     A good care plan can be used to document the patient's preference in relation to pain relief
+},
+{
+    336.04,338.84
+     and chosen injection site.
+},
+{
+    338.84,344.12
+     This ensures that the patients does not need to explain this at each visit and may give
+},
+{
+    344.12,345.4
+     them a sense of being
+},
+{
+    345.4,346.96
+     in control.
+},
+{
+    346.96,352.64
+     Moving patients quickly and respectively through the injection procedure will avoid anxious
+},
+{
+    352.64,354.6
+     waiting times.
+},
+{
+    354.6,356.1
+     Provide privacy.
+},
+{
+    356.1,361.76
+     Having to bear a part of your body to a stranger may be an uncomfortable or culturally sensitive
+},
+{
+    361.76,363.36
+     issue.
+},
+{
+    363.36,367.0
+     Health staff of the same gender as the patient may make
+},
+{
+    367.0,372.28
+     the patient feel more comfortable. Patients may prefer the injection to be given by the
+},
+{
+    372.28,379.2
+     same person at each visit. Where a pharmacy prescription is required, insured by Cilin
+},
+{
+    379.2,385.0
+     is prescribed and issued as a complete pack of 10 pre-filled syringes.
+},
+{
+    385.0,391.0
+     This ensures that trips to the pharmacy by the patient are kept to a minimum.
+},
+{
+    391.0,396.0
+     Store the patients unused by cylinder syringes in the health facilities fridge.
+},
+{
+    396.0,405.64
+     Taking this home to store in a family's fridge can result in the solution to reach incorrect temperatures. And storing sharps in a household
+},
+{
+    405.64,409.94
+     where young children are likely to visit is not advisable.
+},
+{
+    409.94,412.32
+     A dedicated by-sillenday,
+},
+{
+    412.32,416.94
+     so ARF patients can all come at the same time,
+},
+{
+    416.94,419.98
+     aids the facility with recall
+},
+{
+    419.98,424.98
+     and provides regularity and peer support for the patient.
+},
+{
+    425.0,425.84
+     It is essential to understand the reasons and provides regularity and peer support for the patient.
+},
+{
+    428.48,430.96
+     It is essential to understand the reasons why some patients may have troubles
+},
+{
+    430.96,432.68
+     attending the clinic regularly.
+},
+{
+    432.68,436.08
+     If this is related to personal transport,
+},
+{
+    436.08,439.56
+     can either your facility or another organization
+},
+{
+    439.56,441.44
+     help provide this transport?
+},
+{
+    441.44,444.0
+     If it is related to distance,
+},
+{
+    444.0,445.94
+     can an outreach service be
+},
+{
+    445.94,451.58
+     provided to the patient? It is important that health care facilities have an
+},
+{
+    451.58,456.86
+     active recall system. Patients should be recalled from the end of the third week
+},
+{
+    456.86,462.92
+     after their previous injection, so that their next injection is given no more
+},
+{
+    462.92,466.48
+     than four weeks or 28 days later.
+},
+{
+    466.48,471.56
+     A by-cylind chart can assist with recall and keeping track of the by-cylind
+},
+{
+    471.56,478.32
+     prophylaxis given. Discuss reminder methods with the patient. For example, when
+},
+{
+    478.32,483.72
+     patients have access to a mobile phone, the calendar or alarm function could be
+},
+{
+    483.72,486.52
+     set up as a reminder. Injection reminder
+},
+{
+    486.52,492.0
+     cards could be completed by the nurse and held by the patients. And last but certainly
+},
+{
+    492.0,499.0
+     not least, education. It can be said that education is a patient's right and a healthcare
+},
+{
+    499.0,508.88
+     provider's responsibility. It is very important that people with ARF in RHD receive regular, appropriate education
+},
+{
+    508.88,512.92
+     about the importance of their disease and treatment.
+},
+{
+    512.92,518.6
+     They need to understand that this disease is chronic and serious.
+},
+{
+    518.6,530.0
+     You can ask the patient what they understand already and then build on that knowledge. It is also important to involve the patient's family and support group in education
+},
+{
+    530.0,535.0
+     so that ongoing support is available outside their health service.
+},

@@ -1,0 +1,40 @@
+{
+    0.0,27.0
+     In this video you'll learn how to treat treating the wound.
+},
+{
+    33.12,37.6
+     Rinse the wound with clean water and soap if possible.
+},
+{
+    37.6,42.4
+     If there is still dirt in the wound, use a sterile gauze pad to remove it.
+},
+{
+    42.4,45.44
+     If possible, disinfect the wound with an antiseptic.
+},
+{
+    50.16,54.64
+     Make an adhesive dressing to cover the wound using sterile gauze pads and adhesive tape
+},
+{
+    55.84,62.32
+     or apply a ready to use self adhesive dressing. Make sure that your tetanus shots are up to date.
+},
+{
+    62.96,66.0
+     If any doubt, seek advice from your doctor.
+},
+{
+    66.0,70.0
+     Watch out for any signs of infection in the following days.
+},
+{
+    70.0,94.76
+     If you notice any redness, heat or pain, consult your doctor. A minor wound is a superficial cut or scrape with no profuse bleeding and which is not
+},
+{
+    94.76,97.72
+     located near a body orifice or the eyes.
+},

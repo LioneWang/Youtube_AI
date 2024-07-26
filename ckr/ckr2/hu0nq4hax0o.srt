@@ -1,0 +1,144 @@
+{
+    0.0,5.66
+     Walking with crutches non-weight bearing. It is very important to follow your
+},
+{
+    5.66,10.4
+     doctor's orders regarding your non-weight bearing status. To sit in a chair,
+},
+{
+    10.4,16.32
+     back up until you feel the chair on the back of your leg. Place both crutches in
+},
+{
+    16.32,21.12
+     the hand of your injured side then reach back for the chair with your other hand
+},
+{
+    21.12,32.0
+     while holding your injured leg out in front of you. Carefully lower yourself to the chair, bending at your hips and keeping the weight off your injured leg.
+},
+{
+    32.0,38.0
+     Do the reverse to stand back up.
+},
+{
+    38.0,43.0
+     To walk with crutches non-weight bearing.
+},
+{
+    43.0,47.36
+     When you walk with crutches, it is important that you keep the crutches under your arms
+},
+{
+    47.36,52.4
+     and close to your sides. Squeeze the top of the crutches into your sides while putting
+},
+{
+    52.4,58.24
+     weight on your hands and not through your armpits. This is the correct way.
+},
+{
+    58.24,63.44
+     This would be incorrect. Do not lean on the crutches with your armpits.
+},
+{
+    63.44,66.4
+     Move the crutches forward 6 to 12 inches.
+},
+{
+    66.4,71.6
+     Push down on the hand grips as you step forward holding your injured leg out in front of you.
+},
+{
+    71.6,75.6
+     Or you may bend at the knee of your injured leg if that is an option.
+},
+{
+    75.6,80.0
+     The tips of the crutches and the healthy leg should always form a triangle.
+},
+{
+    80.0,83.4
+     This will make you steadier and less likely to fall.
+},
+{
+    83.4,85.52
+     This is the correct way.
+},
+{
+    85.52,87.52
+     This is incorrect.
+},
+{
+    87.52,92.8
+     To go upstairs, non-weight bearing with crutches, begin close to the bottom step.
+},
+{
+    93.52,97.2
+     Push down on the hand grips as you step up with your healthy leg,
+},
+{
+    97.2,98.96
+     then bring the crutches up next.
+},
+{
+    99.92,102.88
+     Check your balance before you continue to the next step.
+},
+{
+    103.76,106.36
+     If there's a sturdy handrail available,
+},
+{
+    106.36,109.28
+     place both crutches under one arm,
+},
+{
+    109.28,111.52
+     holding the rail with the opposite arm,
+},
+{
+    111.52,115.24
+     step up with the healthy leg first, and the crutches follow.
+},
+{
+    119.16,122.4
+     To go downstairs non-weight bearing with crutches,
+},
+{
+    122.4,129.84
+     start at the edge of the step, keeping your hips beneath you. Place crutches on the lower step holding the injured leg out in
+},
+{
+    129.84,134.96
+     front of you then slowly lower yourself down to the next step. Check your balance
+},
+{
+    134.96,139.4
+     before you continue. Make sure you bend at your hip in need to prevent leaning
+},
+{
+    139.4,145.28
+     forward which could cause you to fall. If there is a sturdy handrail available,
+},
+{
+    145.28,147.28
+     hold both crutches under one arm
+},
+{
+    147.28,149.76
+     and use the handrail with the other arm.
+},
+{
+    149.76,152.4
+     Hold your injured leg out in front of you,
+},
+{
+    152.4,154.96
+     then place the crutches down on the lower step
+},
+{
+    154.96,157.44
+     as you carefully lower yourself down.
+},

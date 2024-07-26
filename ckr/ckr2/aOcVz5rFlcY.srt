@@ -1,0 +1,652 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.2,13.04
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.04,14.36
+     Brad Heineck, physical therapist.
+},
+{
+    14.36,16.56
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.56,18.16
+     In our opinion, of course, Bob.
+},
+{
+    18.16,19.72
+     Part of our assessment series,
+},
+{
+    19.72,22.04
+     what is causing your shoulder pain,
+},
+{
+    22.04,24.44
+     frozen shoulder, how to tell?
+},
+{
+    24.44,25.28
+     Okay then. We've gone through all the other things that possibly could be, could it pain, frozen shoulder, how to tell? Okay then.
+},
+{
+    25.28,26.76
+     We've gone through all the other things
+},
+{
+    26.76,29.28
+     that possibly could be a frozen shoulder.
+},
+{
+    29.28,30.4
+     Assessment series.
+},
+{
+    30.4,32.2
+     Right, well we were going for the shoulder.
+},
+{
+    32.2,33.68
+     For the shoulder, okay, sure.
+},
+{
+    33.68,35.14
+     So when you have a frozen shoulder,
+},
+{
+    35.14,37.52
+     the main symptoms are pain and stiffness,
+},
+{
+    37.52,40.4
+     with nearly all movements of the shoulder.
+},
+{
+    40.4,43.72
+     That's the telltale sign, that's the gold standard.
+},
+{
+    43.72,45.2
+     What do you mean all movements? Every movement, every direction, and that's what the teststale sign, the gold standard. What do you mean all movements?
+},
+{
+    45.2,46.64
+     Every movement, every direction.
+},
+{
+    46.64,48.32
+     And that's what the tests are gonna be.
+},
+{
+    48.32,50.4
+     And we can jump right into that.
+},
+{
+    50.4,52.4
+     We'll break it down to a system.
+},
+{
+    52.4,55.24
+     So the first test, now you can do this standing,
+},
+{
+    55.24,57.24
+     but stand in front of a mirror
+},
+{
+    57.24,61.2
+     and you're gonna check your non-involved shoulder first.
+},
+{
+    61.2,62.08
+     Good idea.
+},
+{
+    62.08,66.68
+     So that's, let's say my shoulder problem is on my right side.
+},
+{
+    66.68,69.68
+     So I check my left side, I see how far it goes up.
+},
+{
+    71.32,72.16
+     Right.
+},
+{
+    72.16,72.98
+     That's pretty normal.
+},
+{
+    72.98,75.16
+     So the frozen shoulder, most often,
+},
+{
+    75.16,77.52
+     it's not gonna even hit parallel,
+},
+{
+    77.52,79.84
+     which is right straight out like that.
+},
+{
+    79.84,81.4
+     It's gonna be like that or less
+},
+{
+    81.4,82.68
+     when you compare it to the other arm.
+},
+{
+    82.68,85.78
+     So this'll be like this, this'll be like that.
+},
+{
+    85.78,88.32
+     Typically painful or just feeling painful?
+},
+{
+    88.32,91.96
+     Especially in the first stage, the freezing stage.
+},
+{
+    91.96,95.04
+     It could also be an impingement though,
+},
+{
+    95.04,95.88
+     going this way yet.
+},
+{
+    95.88,96.76
+     Sure, wrap.
+},
+{
+    96.76,99.36
+     So that's why we're gonna check another one.
+},
+{
+    99.36,101.72
+     So this time we're gonna raise out to the side.
+},
+{
+    101.72,104.4
+     So thumb up, I'm gonna raise up to the side,
+},
+{
+    104.4,106.8
+     I'm gonna go up as far as I can go.
+},
+{
+    106.8,108.36
+     Are you gonna go all the way up?
+},
+{
+    108.36,109.92
+     Well, I can go that high.
+},
+{
+    109.92,111.4
+     Okay. I don't know.
+},
+{
+    111.4,113.0
+     And then I'm gonna check with the other side.
+},
+{
+    113.0,114.8
+     And the other side again,
+},
+{
+    114.8,119.08
+     is probably not gonna go any farther past parallel.
+},
+{
+    119.08,119.92
+     It's gonna-
+},
+{
+    119.92,120.76
+     Thumb up. Thumb up.
+},
+{
+    120.76,122.04
+     Right.
+},
+{
+    122.04,124.68
+     So, and again, could be painful.
+},
+{
+    124.68,127.96
+     The last one, you're gonna bend your arms to 90 degrees,
+},
+{
+    127.96,129.24
+     like that, yep.
+},
+{
+    129.24,131.82
+     And you're gonna go ahead and turn them out.
+},
+{
+    131.82,136.08
+     Now, the non-involved one should go out quite far,
+},
+{
+    136.08,140.6
+     but this one is not gonna go out very far at all.
+},
+{
+    140.6,143.88
+     And keep note, the elbows stay close to the ribs.
+},
+{
+    143.88,145.72
+     You don't let them go out like this.
+},
+{
+    145.72,149.28
+     That's important for that particular test.
+},
+{
+    149.28,150.68
+     Yeah, if all three,
+},
+{
+    150.68,154.24
+     you know, if all three movements are affected
+},
+{
+    154.24,156.4
+     and you weren't having trouble with your shoulder before,
+},
+{
+    156.4,157.52
+     just kind of came on,
+},
+{
+    158.74,161.52
+     then I think it's time to see the doctor and get a diagnosis,
+},
+{
+    161.52,163.56
+     but I'm guessing you have a frozen shoulder.
+},
+{
+    163.56,164.8
+     That's a pretty good sign.
+},
+{
+    164.8,165.64
+     Right.
+},
+{
+    165.64,168.92
+     If it's shoulder impingement, this one will hurt
+},
+{
+    168.92,170.44
+     and be limited.
+},
+{
+    170.44,171.96
+     This one may be too.
+},
+{
+    171.96,173.64
+     And this one.
+},
+{
+    173.64,174.48
+     Unlikely.
+},
+{
+    174.48,175.32
+     Yeah.
+},
+{
+    175.32,176.16
+     Not so much.
+},
+{
+    176.16,179.8
+     It can be painful, but the frozen shoulder
+},
+{
+    179.8,183.56
+     more presents itself, I would say more stiffness.
+},
+{
+    183.56,184.88
+     Right.
+},
+{
+    184.88,187.54
+     Pain though, I mean, especially at night.
+},
+{
+    187.54,190.16
+     In fact, let's talk about this, Brad.
+},
+{
+    190.16,194.92
+     So some of the signs, some of the commonalities among it,
+},
+{
+    194.92,199.92
+     women greater than men, often between the age of 40 and 60.
+},
+{
+    200.84,203.2
+     And I have to admit, the ones I've seen
+},
+{
+    203.2,205.4
+     are almost fit right along, right in this category.
+},
+{
+    205.4,210.4
+     But increase risk if you have diabetes.
+},
+{
+    211.08,216.08
+     So also this is very common if you've had recent trauma.
+},
+{
+    217.52,218.36
+     It's like-
+},
+{
+    218.36,219.2
+     Shoulder injury.
+},
+{
+    219.2,220.52
+     Yeah, shoulder injury or surgery.
+},
+{
+    220.52,221.36
+     Okay.
+},
+{
+    221.36,223.24
+     Especially if you had an arm fracture.
+},
+{
+    223.24,224.56
+     Oh, right.
+},
+{
+    224.56,227.2
+     It definitely sets this process off.
+},
+{
+    227.2,229.24
+     It's a weird thing, frozen shoulder.
+},
+{
+    229.24,230.64
+     It's really a strange thing
+},
+{
+    230.64,233.66
+     because as we'll talk about some of our videos,
+},
+{
+    233.66,235.28
+     it tends to get better on its own
+},
+{
+    235.28,238.36
+     but it can take months, even years.
+},
+{
+    238.36,240.36
+     So I hate to discourage you but.
+},
+{
+    241.16,242.8
+     I don't even like to say the years
+},
+{
+    242.8,243.92
+     because that depresses me.
+},
+{
+    243.92,244.76
+     Sure.
+},
+{
+    244.76,245.76
+     And we'll show you some things
+},
+{
+    245.76,247.52
+     to hopefully make it not years.
+},
+{
+    247.52,248.68
+     You know, oh.
+},
+{
+    248.68,250.52
+     No, I was gonna mention a couple other things Brad.
+},
+{
+    250.52,251.36
+     Do you wanna say it first?
+},
+{
+    251.36,252.2
+     Go ahead.
+},
+{
+    252.2,253.92
+     Well, I wanted to get back to,
+},
+{
+    253.92,256.28
+     because it just crossed my mind is I agree.
+},
+{
+    256.28,258.8
+     If it is an impingement, this'll hurt.
+},
+{
+    258.8,260.64
+     But oftentimes if you help with the other hand,
+},
+{
+    260.64,264.28
+     once he gets so far up, then it's better up here.
+},
+{
+    264.28,265.12
+     And it's a very good. And it hurts here.
+},
+{
+    265.12,266.32
+     That's a very good point, Brad.
+},
+{
+    266.32,268.8
+     If you have a frozen shoulder, you can hear it.
+},
+{
+    268.8,270.08
+     It's like you're hitting a wall.
+},
+{
+    270.08,270.92
+     Right, right.
+},
+{
+    270.92,273.84
+     It's not, you can't bring it up there very easy.
+},
+{
+    273.84,274.68
+     Right.
+},
+{
+    274.68,276.72
+     And so that would help dilinate
+},
+{
+    276.72,279.0
+     whether it is impinging if you have a question.
+},
+{
+    279.0,282.76
+     This is actually called painful arc syndrome
+},
+{
+    282.76,284.12
+     because it's so common.
+},
+{
+    284.12,285.72
+     Right in here, it's more painful,
+},
+{
+    285.72,288.08
+     but if you help or sometimes you can reach through it
+},
+{
+    288.08,290.16
+     and then it comes up and it's not so bad,
+},
+{
+    290.16,291.48
+     then it's definitely not for the shoulder.
+},
+{
+    291.48,293.04
+     If you're hitting a wall,
+},
+{
+    293.04,296.2
+     that means that capsule is tightened up on you
+},
+{
+    296.2,298.12
+     and both ways end this way.
+},
+{
+    298.12,300.08
+     It just doesn't wanna move.
+},
+{
+    300.08,302.96
+     So also increased risk if you have heart disease,
+},
+{
+    302.96,304.84
+     thyroid disease, Parkinson's,
+},
+{
+    304.84,307.04
+     they're all tied to frozen shoulder.
+},
+{
+    307.04,310.02
+     Definitely hard to sleep at night due to the pain.
+},
+{
+    310.02,312.08
+     In fact, the last patient I saw this,
+},
+{
+    312.08,314.0
+     actually a person that works for us,
+},
+{
+    315.12,317.12
+     he was having trouble sleeping.
+},
+{
+    317.12,317.88
+     I mean.
+},
+{
+    317.88,319.56
+     Laying on it or just in general?
+},
+{
+    319.56,320.4
+     Just in general.
+},
+{
+    320.4,321.24
+     Okay.
+},
+{
+    321.24,322.52
+     It's just, you know, it's going through
+},
+{
+    322.52,326.9
+     that freezing process, inflammation. And I think when it's going through that,
+},
+{
+    326.9,329.44
+     he got a cortisone shot and it did help.
+},
+{
+    329.44,333.08
+     So when he says freezing, that's just a term
+},
+{
+    333.08,333.92
+     they medically came up with.
+},
+{
+    333.92,336.2
+     Yeah, we'll be doing some videos,
+},
+{
+    336.2,338.68
+     video describing the three phases.
+},
+{
+    338.68,339.52
+     Okay.
+},
+{
+    339.52,341.48
+     Freezing, frozen, and thawing.
+},
+{
+    341.48,342.32
+     Thawing, yeah.
+},
+{
+    342.32,344.2
+     Just like winter time.
+},
+{
+    344.2,345.04
+     Just like winter. There you go. Like frost to the snow, man. So, all right, just like winter time. Just like winter.
+},
+{
+    345.04,345.88
+     There you go.
+},
+{
+    345.88,347.04
+     Like frost to the snowman.
+},
+{
+    347.04,None
+     So, all right, thanks everybody for watching. you
+},

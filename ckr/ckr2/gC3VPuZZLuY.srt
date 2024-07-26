@@ -1,0 +1,252 @@
+{
+    0.0,6.64
+     Hello everyone, my name is Dr. Dave. I'm a licensed podiatrist. I'd like to thank you for watching my video on my Frugal Foot YouTube channel.
+},
+{
+    6.64,11.12
+     If you enjoy videos about medicine and feet, then hit that subscribe button. In this video,
+},
+{
+    11.12,18.16
+     I'm going to show you how you can check the circulation of your feet at home. Now, this is best done by a doctor,
+},
+{
+    18.16,21.92
+     but maybe you can't get to the doctor this minute. I'm going to show you how you can do this.
+},
+{
+    22.88,25.36
+     The circulation I'm referring to in this video
+},
+{
+    25.36,31.52
+     is arterial circulation. This is the type of circulation that brings oxygen-rich blood from
+},
+{
+    31.52,37.28
+     your heart to your feet. It is the most important type of circulation because obviously without
+},
+{
+    37.28,42.72
+     oxygen your foot isn't going to last very long. So when you look at your foot, the first thing that
+},
+{
+    42.72,45.2
+     you want to look at is the health of
+},
+{
+    45.2,51.76
+     the skin. And what you're looking at is the actual what's called skin turgor or how tight the skin
+},
+{
+    51.76,58.64
+     is. You don't want to have a skin that is very tight and shiny. It should be very flexible and
+},
+{
+    58.64,65.76
+     move nicely like this and it should be soft and supple. So that's first. The next thing is look for hair growth. Hair growth
+},
+{
+    65.76,70.96
+     is indicative of good circulation. Now a lot of women shave the hair on their feet and on their
+},
+{
+    70.96,77.52
+     toes, but if you see hair on the top here and on the toes, that's usually a good sign of good
+},
+{
+    77.52,83.68
+     circulation. Again, these are not always set in stone just because it's not there doesn't necessarily
+},
+{
+    83.68,87.68
+     mean that it's poor circulation, but these are you put the whole picture together when you're
+},
+{
+    87.68,92.08
+     doing this. The next thing you want to do is check for pulses. Now in the foot
+},
+{
+    92.08,97.6
+     there are two pulses that are readily palpable. The first is the dorsalis
+},
+{
+    97.6,103.04
+     pedis artery and that is located in this region right here and this is going
+},
+{
+    103.04,105.24
+     to be very difficult for you yourself
+},
+{
+    105.24,107.88
+     to find and you will need somebody
+},
+{
+    107.88,110.64
+     most likely to help find it for you.
+},
+{
+    110.64,113.56
+     They'll have to take their fingers and put it over.
+},
+{
+    113.56,115.64
+     And you can use the first two fingers like this,
+},
+{
+    115.64,117.88
+     but it's located just on the outside
+},
+{
+    117.88,119.88
+     of this big tendon here that,
+},
+{
+    121.2,124.16
+     if you bring your toe up, there's that tendon.
+},
+{
+    124.16,128.28
+     It's just to the outside of that tendon right in there.
+},
+{
+    128.28,134.28
+     And the second artery is behind the ankle on the inside, and that's right in here.
+},
+{
+    134.28,138.0
+     This is called the posterior tibial artery.
+},
+{
+    138.0,140.64
+     And I can feel that one very easy.
+},
+{
+    140.64,144.68
+     Sometimes it's hard to feel that artery if there's a lot of swelling in this area.
+},
+{
+    144.68,150.0
+     And a lot of people as they get older have a lot of swelling and you just won't be able to find the artery.
+},
+{
+    150.0,157.2
+     This artery always has to be what we call patent means. It has to be functioning.
+},
+{
+    157.2,161.36
+     It has to be bringing blood through there otherwise the foot's in real trouble.
+},
+{
+    161.36,171.12
+     So you want to be able to try to palpate that artery there and this artery here. Another thing that we can look at is circulation to the toes and we can
+},
+{
+    171.12,176.8
+     check that by squeezing the tip of the toe and squeeze all the blood out of it and then let go
+},
+{
+    177.52,182.96
+     and that blood should fill back into that toe in about three to five seconds. A really good way to
+},
+{
+    182.96,189.4
+     do this is to actually lift the foot up a little bit so the toes are above the hip and then squeeze the
+},
+{
+    189.4,195.12
+     toe and you can do all of these like this and you'll see the blood, hopefully
+},
+{
+    195.12,199.44
+     you'll be able to see it on the video, becomes white and then it becomes pink
+},
+{
+    199.44,206.84
+     again and that should happen in about three to five seconds. So when you see toes where it blanches
+},
+{
+    206.84,208.72
+     and doesn't fill back up,
+},
+{
+    208.72,212.52
+     along with this tight, shiny skin, a lack of hair growth,
+},
+{
+    212.52,214.9
+     the pulses are not palpable,
+},
+{
+    214.9,216.96
+     these are when the doctor starts to think
+},
+{
+    216.96,218.56
+     that there might be something going on
+},
+{
+    218.56,221.12
+     and might order additional tests.
+},
+{
+    221.12,224.32
+     Certainly, if you have any kind of sores on your feet
+},
+{
+    224.32,225.08
+     that aren't healing, or if your toes are turning black, or there's any kind of sores on your feet that aren't healing
+},
+{
+    225.08,229.04
+     or if your toes are turning black or there's any kind of black tissue on your
+},
+{
+    229.04,233.84
+     foot or if you're having pain when your foot is elevated and gets worse when you
+},
+{
+    233.84,237.6
+     elevate your foot even more, you should be stopping this video right now and
+},
+{
+    237.6,240.84
+     calling your doctor or going to the emergency room because those are
+},
+{
+    240.84,247.28
+     dangerous things. Before I end this video I just want to re-emphasize the importance it is that you take this video
+},
+{
+    247.28,248.76
+     with a grain of salt.
+},
+{
+    248.76,249.92
+     Don't try to play doctor.
+},
+{
+    249.92,254.0
+     If you suspect that there are any issues going on with your foot, you've got to call your
+},
+{
+    254.0,256.16
+     doctor or go to the emergency room.
+},
+{
+    256.16,257.66
+     Don't take any chances.
+},
+{
+    257.66,259.6
+     That being said, I hope you learned something from this video.
+},
+{
+    259.6,261.32
+     If you did, please give it a thumbs up.
+},
+{
+    261.32,263.4
+     I'm Dr. David and I'll see you on my next video.
+},

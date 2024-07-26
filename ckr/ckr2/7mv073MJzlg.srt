@@ -1,0 +1,280 @@
+{
+    0.0,13.44
+     This video contains the latest recommendations from the 2017 ADA Clinical Practice Guideline
+},
+{
+    13.44,17.44
+     on the Evaluation of Oral Mucosal Abnormalities.
+},
+{
+    17.44,22.78
+     This video offers step-by-step instructions for evaluating adult patients for potentially
+},
+{
+    22.78,26.32
+     malignant disorders or PMDs and oral cancer
+},
+{
+    26.32,29.28
+     during a routine dental exam in your clinic.
+},
+{
+    29.28,34.0
+     First, begin the exam by asking your patient if any new dental issues have emerged since
+},
+{
+    34.0,39.28
+     their last visit or appointment. During the medical history recollection, pay attention
+},
+{
+    39.28,45.0
+     to risk factors such as being male, older, smoking, and alcohol consumption.
+},
+{
+    45.0,47.0
+     With the patient's response in mind,
+},
+{
+    47.0,52.0
+     NEXT perform a conventional visual and tactile intraoral and extraoral exam.
+},
+{
+    52.0,60.0
+     Throughout the exam, use inspection and palpation to look for any changes in color, contour, consistency, and function.
+},
+{
+    60.0,65.0
+     Begin the extraoral exam by examining the head and face with both the front and back.
+},
+{
+    65.0,70.0
+     Taking note of any asymmetries and the presence of pigmented lesions.
+},
+{
+    70.0,78.0
+     For such lesions, use the American Cancer Society's ABCDE rule to assess for melanoma risk.
+},
+{
+    78.0,89.0
+     Look for asymmetry, border irregularity, color changes, diameter greater than 6 millimeters, and evolution of the lesion over time.
+},
+{
+    89.0,106.32
+     Next, observe and palpate the neck on both sides. If lymph nodes are identified, pay attention to the size, consistency, whether they are painful and whether they freely move or are fixed in place. When evaluating the lips, note any change in
+},
+{
+    106.32,112.52
+     the vermilion border, mucosa, and comishers, as well as the lips color, contour,
+},
+{
+    112.52,119.44
+     consistency, and function. Look for endurations and ulceration.
+},
+{
+    121.48,127.88
+     Ask your patient to open their mouth and begin the intraoral exam by inspecting the cheeks.
+},
+{
+    127.88,132.16
+     Retract the tissue with your thumbs and gently pinch the cheek between your fingers looking
+},
+{
+    132.16,136.2
+     for hidden masses.
+},
+{
+    136.2,140.32
+     Use a mirror to examine the alveolar processes in gingiva.
+},
+{
+    140.32,146.3
+     Look for changes in color, consistency, or a tooth with bone loss out of proportion with the rest of the arch.
+},
+{
+    147.0,151.2
+     Pay special attention to the presence of a lesion with the history of poor healing.
+},
+{
+    151.2,155.7
+     Carefully inspect and palpate the heart and soft palate, looking for abnormalities.
+},
+{
+    156.0,163.2
+     While depressing the tongue with the mirror, ask the patient to say ah to have better access to the ufila and tonsillar pilers.
+},
+{
+    164.04,167.68
+     have better access to the ufila and tonsillar pilars. Using gauze, move the tongue to the left and to the right
+},
+{
+    167.68,170.56
+     to examine the entire dorsal tongue.
+},
+{
+    170.56,173.68
+     Pay attention to the lateral and ventral tongue as well.
+},
+{
+    173.68,175.92
+     Complete this assessment palpating the tongue
+},
+{
+    175.92,178.04
+     and nearby salivary glands.
+},
+{
+    178.04,180.12
+     This aspect of the exam is important
+},
+{
+    180.12,183.0
+     as nearly half of all potentially malignant lesions
+},
+{
+    183.0,185.16
+     are usually found in this area.
+},
+{
+    185.16,189.56
+     Ask the patient to touch their top front teeth with the tip of their tongue so that the floor
+},
+{
+    189.56,192.4
+     of the mouth can be inspected and palpated.
+},
+{
+    192.4,195.4
+     Use two hands when palpating this area.
+},
+{
+    195.4,200.96
+     After the exam, clinicians should consider two potential clinical scenarios.
+},
+{
+    200.96,205.4
+     Either the patient exhibits no lesions or has some type of mucosal abnormality.
+},
+{
+    205.4,211.4
+     For patients without a lesion, no further action is necessary. Although light-base and
+},
+{
+    211.4,215.92
+     salivary test adjuncts have been proposed to evaluate mouths without lesions,
+},
+{
+    215.92,221.32
+     none of these tools have been proven effective and as a result they aren't recommended for use.
+},
+{
+    221.32,226.2
+     For patients with a lesion, the majority of these lesions will be innocuous.
+},
+{
+    226.2,228.64
+     Some common causes of innocuous lesions
+},
+{
+    228.64,231.48
+     include trauma, para-functional habits,
+},
+{
+    231.48,233.44
+     and dental restorations.
+},
+{
+    233.44,236.52
+     These innocuous lesions require periodic follow-up
+},
+{
+    236.52,238.68
+     with the patient to provide therapy
+},
+{
+    238.68,240.56
+     and or monitor the lesion.
+},
+{
+    240.56,244.28
+     In instances in which an innocuous lesion does not resolve
+},
+{
+    244.28,246.22
+     or in instances in which a lesion
+},
+{
+    246.22,252.34
+     is suspected to be a PMD, immediate biopsy or referral to a specialist is recommended.
+},
+{
+    252.34,257.18
+     Many adjuncts have been proposed as tools to assess PMDs sooner rather than later.
+},
+{
+    257.18,261.38
+     Unfortunately, current evidence doesn't support the use of adjuncts because of their high
+},
+{
+    261.38,266.74
+     frequency of false positives, which result in unnecessary complications and costs.
+},
+{
+    266.74,271.38
+     When evaluating patients for PMDs in oral cancer, please remember, get to know your
+},
+{
+    271.38,272.38
+     patient.
+},
+{
+    272.38,276.34
+     During your patient's exam, update their history and have a conversation about oral
+},
+{
+    276.34,278.42
+     cancer risk factors.
+},
+{
+    278.42,282.5
+     Keep in mind that this could be a stressful situation for the patient, and maybe even
+},
+{
+    282.5,285.22
+     for the clinician conducting the exam.
+},
+{
+    285.22,286.76
+     Time is important.
+},
+{
+    286.76,291.56
+     For potentially malignant lesions, biopsy will refer the patient immediately.
+},
+{
+    291.56,294.2
+     Be skeptical of the use of adjuncts.
+},
+{
+    294.2,298.64
+     Current evidence does not support the use of these tools in the general population.
+},
+{
+    298.64,303.04
+     Please monitor and critically appraise the literature for the emergence of new evidence
+},
+{
+    303.04,304.92
+     in this field.
+},
+{
+    304.92,308.52
+     Look to the ADA's most current recommendations for insights.
+},
+{
+    308.52,314.12
+     For more information on the ADA's clinical recommendations for PMD and oral cancer evaluation,
+},
+{
+    314.12,317.6
+     please visit ADA.org.
+},

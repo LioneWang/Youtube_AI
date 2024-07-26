@@ -1,0 +1,792 @@
+{
+    0.0,20.84
+     If you have had recent surgery, you may have one or more incisions depending on the type
+},
+{
+    20.84,23.08
+     of surgery you have had.
+},
+{
+    23.08,25.8
+     After some surgeries, blood and normal body fluids
+},
+{
+    25.8,27.96
+     may collect in the surgical site,
+},
+{
+    27.96,30.32
+     which is also called the wound.
+},
+{
+    30.32,32.04
+     Fluids can build up at the site
+},
+{
+    32.04,34.06
+     and slow the healing process.
+},
+{
+    34.06,36.78
+     They may also interfere with your daily activities
+},
+{
+    36.78,38.6
+     and cause discomfort.
+},
+{
+    38.6,41.14
+     To avoid fluid buildup, your surgeon
+},
+{
+    41.14,43.04
+     may have inserted a flexible tube
+},
+{
+    43.04,45.12
+     into the surgical site during your surgery.
+},
+{
+    45.12,50.84
+     The drain allows fluid from the surgical site to drain into a reservoir that can be emptied.
+},
+{
+    50.84,56.44
+     In this video, you will learn the steps to care for your drain as well as the dressing covering
+},
+{
+    56.44,72.52
+     the area where the drain enters your skin. Your wound drainage system consists of tubing, also called a catheter or drain, and a reservoir
+},
+{
+    72.52,76.12
+     at the bottom of the tube, also called a bulb.
+},
+{
+    76.12,81.48
+     Throughout this video, the wound catheter is referred to as the drain, and the reservoir
+},
+{
+    81.48,82.96
+     as the bulb.
+},
+{
+    82.96,86.68
+     The drain tubing is placed inside the wound by your surgeon
+},
+{
+    86.68,89.28
+     and is secured to the skin outside of the wound
+},
+{
+    89.28,91.52
+     with a suture or stitch.
+},
+{
+    91.52,93.48
+     This area where the drain enters
+},
+{
+    93.48,95.0
+     and is stitched to your skin
+},
+{
+    95.0,97.76
+     is called the drain insertion site.
+},
+{
+    97.76,100.12
+     The bulb provides gentle suction,
+},
+{
+    100.12,102.56
+     which helps draw fluid from the wound site.
+},
+{
+    104.92,107.42
+     Two times a day, empty each bulb.
+},
+{
+    108.72,111.62
+     Measure the amount of fluid in each bulb separately
+},
+{
+    111.62,114.58
+     and record the amounts on a specific chart.
+},
+{
+    114.58,116.54
+     The amount you record on the chart
+},
+{
+    116.54,118.78
+     will determine when it's safe for your surgeon
+},
+{
+    118.78,120.02
+     to remove the drain.
+},
+{
+    121.7,124.62
+     There is a risk of infection at the incision site
+},
+{
+    124.62,126.92
+     and at the drain insertion site.
+},
+{
+    126.92,132.3
+     To avoid infection and help the healing process, it is important for you and your caregiver
+},
+{
+    132.3,137.12
+     to know the right method for cleaning and caring for your incision and drain.
+},
+{
+    137.12,141.74
+     This portion of the video shows you how to take care of your drain insertion site and
+},
+{
+    141.74,145.36
+     the specific dressing your surgeon has chosen for you.
+},
+{
+    145.36,151.44
+     You need to be aware of potential problems at the drain site and of any signs of infection.
+},
+{
+    151.44,157.12
+     It is important that you call the breast center if you notice any problems.
+},
+{
+    157.12,161.52
+     Before you are discharged, you are given a handout reviewing these instructions.
+},
+{
+    161.52,166.16
+     It has care instructions specific to your drains and surgical incisions. The
+},
+{
+    166.16,176.4
+     handout has phone numbers for you to call if you have concerns.
+},
+{
+    176.4,181.14
+     Your incision may be closed with stitches that dissolve on their own or stitches that need
+},
+{
+    181.14,187.44
+     to be removed by your surgeon at a later time. You may also have a dressing over your drain insertion site.
+},
+{
+    187.44,190.96
+     There are many types of dressings used to cover incisions.
+},
+{
+    190.96,196.56
+     The type of dressing you have on your incision may be different from what is shown in this video.
+},
+{
+    196.56,201.36
+     You will receive separate written instructions on how to care for your incision and dressing.
+},
+{
+    202.64,207.96
+     It is normal to have a little bit of swelling around each stitch along your incision.
+},
+{
+    207.96,213.2
+     It is also normal to have a little bit of swelling around each drain insertion site.
+},
+{
+    213.2,217.2
+     This mild swelling may last for a few days after surgery.
+},
+{
+    217.2,222.72
+     It is also normal to have some oozing of clear, yellowish fluid with a small amount of blood
+},
+{
+    222.72,230.4
+     from the incision and around the drain insertion site. You may feel some tenderness in these areas.
+},
+{
+    234.56,240.1
+     The fluid in the bulb right after surgery is red. This is normal because the
+},
+{
+    240.1,246.72
+     fluid contains some blood cells. It becomes less red over time.
+},
+{
+    246.72,252.48
+     It usually becomes a clear yellow or cloudy fluid with occasional small red blood clots
+},
+{
+    252.48,254.66
+     or pink fibrous tissue.
+},
+{
+    254.66,259.18
+     This is a normal part of the healing process.
+},
+{
+    259.18,264.18
+     Call the breast center right away if the fluid in your bulb becomes bright red with clots
+},
+{
+    264.18,269.56
+     or milky white in color. Also call the breast center right away if you measure more
+},
+{
+    269.56,275.56
+     than 250 milliliters of fluid within a 24-hour period.
+},
+{
+    279.92,284.72
+     If your incisions or drains require dressings you will be given the
+},
+{
+    284.72,287.0
+     supplies you need to take care of them.
+},
+{
+    287.0,295.0
+     You may not require dressings. If you run out of supplies, you can buy more, such as gauze pads, at any drugstore.
+},
+{
+    295.0,302.0
+     We recommend a caregiver who can be a family member or a friend care for the incision and drain sites.
+},
+{
+    307.0,313.0
+     incision and drain sites. Do not take a bath or submerge your incisions or any part of the drain system in water.
+},
+{
+    313.0,317.0
+     Avoid swimming pools, jacuzzi, lakes and oceans.
+},
+{
+    317.0,323.0
+     You may take baths and swim only after your surgeon tells you it's safe to do so.
+},
+{
+    323.0,326.96
+     You may shower with the drain in place 48 hours after surgery.
+},
+{
+    328.64,333.84
+     If you are unable to shower, clean the drain insertion site with soap and water at least
+},
+{
+    333.84,341.92
+     one time each day. You and your caregiver should always wash your hands first. Begin by inspecting
+},
+{
+    341.92,347.5
+     the incision and drain insertion sites. Do this at least one time each day.
+},
+{
+    347.5,353.5
+     Make a note of any changes in color or swelling at the incision or drain insertion sites.
+},
+{
+    359.5,363.5
+     There are many ways to dress and care for the drain insertion site.
+},
+{
+    363.5,366.72
+     There are also different types of dressings.
+},
+{
+    366.72,371.32
+     Depending on what your surgeon has chosen for your specific needs, care of the area
+},
+{
+    371.32,372.8
+     will vary.
+},
+{
+    372.8,383.72
+     Please follow the instructions specific to your type of dressing.
+},
+{
+    383.72,389.64
+     Four by four inch gauze and tape dressings were applied to your skin over the drain insertion site
+},
+{
+    389.64,392.76
+     at the time of your surgery.
+},
+{
+    392.76,396.68
+     You need to change your gauze dressing one time each day.
+},
+{
+    396.68,400.2
+     You may shower 48 hours after surgery.
+},
+{
+    400.2,405.04
+     We recommend changing your gauze dressing when you shower.
+},
+{
+    410.08,413.84
+     Before you shower, gently remove the old tape and gauze dressing and throw them away.
+},
+{
+    417.68,421.36
+     Gently clean the wound drain insertion site with soap and water. Allow soapy water to run over the dressing like a waterfall.
+},
+{
+    422.08,429.0
+     Rinse well. Pat the area dry with a clean towel. Allow to air dry for a few minutes.
+},
+{
+    429.0,437.0
+     If you are unable to shower, clean the area with soap and water and rinse well at least one time each day.
+},
+{
+    437.0,445.92
+     To redress the drain insertion site, begin by opening and laying out your supplies on a clean dry surface.
+},
+{
+    446.48,452.96
+     Two or three strips of tape. Two 4x4 inch gauze squares for each drain you have.
+},
+{
+    453.92,470.84
+     Start by folding one gauze square in half. With a folded edge up, place one gauze pad under the drain where the drain meets your skin. Use one piece of tape to secure it to your skin.
+},
+{
+    470.84,474.32
+     Fold the second piece of 4x4 gauze in half.
+},
+{
+    474.32,479.8
+     Again, with the folded edge up, place it over the top of the drain.
+},
+{
+    479.8,483.36
+     Use another piece of tape to secure it in place.
+},
+{
+    483.36,487.28
+     Your drain insertion site should remain covered at all times.
+},
+{
+    487.28,490.2
+     The gauze and tape dressing should be replaced daily
+},
+{
+    490.2,492.68
+     every time you clean the drain insertion site
+},
+{
+    492.68,495.64
+     or if the dressing falls off or becomes soiled.
+},
+{
+    502.28,504.44
+     Each day, while cleaning your incisions
+},
+{
+    504.44,508.4
+     and drain insertion site, look for signs of infection.
+},
+{
+    508.4,515.96
+     Typical signs of infection include redness or swelling, drainage with pus, opening of
+},
+{
+    515.96,525.28
+     the incision, bad odor, pain and or fever with a temperature above 101.5 degrees Fahrenheit.
+},
+{
+    525.28,538.32
+     If you have any of these signs of infection, call the Breast Center immediately.
+},
+{
+    538.32,542.92
+     Because you have a drain, you need to empty and measure the contents of the bulb.
+},
+{
+    542.92,545.48
+     This is called stripping the drain.
+},
+{
+    545.48,548.68
+     You must strip the drain at least two times a day
+},
+{
+    548.68,550.6
+     to prevent the drain from becoming clogged
+},
+{
+    550.6,552.96
+     with blood clots or fibrous material.
+},
+{
+    554.32,557.62
+     To strip the drain, first wash your hands.
+},
+{
+    558.78,560.72
+     With your non-dominant hand,
+},
+{
+    560.72,564.3
+     firmly hold the drain without moving it near the skin
+},
+{
+    564.3,566.36
+     at the drain insertion site. With your dominant hand and close to the drain without moving it near the skin at the drain insertion site.
+},
+{
+    566.36,571.82
+     With your dominant hand and close to the drain stitch, place an alcohol prep pad around
+},
+{
+    571.82,577.52
+     the drain. With your thumb and first finger, gently pinch the drain with the alcohol prep
+},
+{
+    577.52,583.64
+     pad and slide the alcohol prep pad down the entire length of the drain until your fingers
+},
+{
+    583.64,585.76
+     meet the top of the bulb.
+},
+{
+    585.76,590.76
+     The alcohol prep pad helps your fingers slide more easily along the tube.
+},
+{
+    590.76,595.88
+     The fluid should move along with your fingers down the length of the drain and empty into
+},
+{
+    595.88,597.04
+     the bulb.
+},
+{
+    597.04,601.14
+     Repeat this procedure for each drain you have.
+},
+{
+    601.14,606.3
+     It is not necessary to completely clear all the fluid from the drain, but try to move
+},
+{
+    606.3,611.38
+     as many clots down the drain into the bulb as you can.
+},
+{
+    611.38,616.32
+     If the flow of the drainage is blocked and stripping does not restore the flow, call
+},
+{
+    616.32,624.36
+     the breast center.
+},
+{
+    624.36,629.4
+     At least two times a day after you have stripped the drain, empty the fluid collected in each
+},
+{
+    629.4,632.66
+     bulb into a separate measuring cup.
+},
+{
+    632.66,637.6
+     To empty the bulb and measure the fluid, follow these steps.
+},
+{
+    637.6,642.56
+     After stripping the drain, unplug the stopper from the emptying port located at the top
+},
+{
+    642.56,643.96
+     of the bulb.
+},
+{
+    643.96,647.54
+     Tip the bulb upside down over the measuring cup.
+},
+{
+    647.54,651.82
+     Gently squeeze all of the fluid from the bulb into the measuring cup.
+},
+{
+    651.82,654.94
+     Your nurse will give you measuring cups.
+},
+{
+    654.94,659.46
+     If your bulb is small and fills quickly, you may need to empty the bulb and measure the
+},
+{
+    659.46,662.2
+     fluid more than two times a day.
+},
+{
+    662.2,668.56
+     Do not let the bulb completely fill because this will stop the fluid from flowing into the bulb.
+},
+{
+    668.56,673.44
+     Do not disconnect the drain tubing from the bulb at any time.
+},
+{
+    673.44,677.44
+     If the drainage into the bulb stops, call the breast center.
+},
+{
+    683.84,690.1
+     Two times a day, measure and record the amount of fluid collected in each bulb.
+},
+{
+    690.1,695.1
+     It is very important that you record the amount of fluid for each bulb separately at least
+},
+{
+    695.1,696.92
+     two times every day.
+},
+{
+    696.92,700.02
+     Do not record a daily or weekly total.
+},
+{
+    700.02,702.98
+     Do not record the total of all bulbs.
+},
+{
+    702.98,708.54
+     On the Volume of Drainage chart, record the date, time, and amount of fluid collected
+},
+{
+    708.54,710.22
+     from each bulb.
+},
+{
+    710.22,713.5
+     Your nurse reviews your Volume of Drainage chart.
+},
+{
+    713.5,719.42
+     This information is used to determine if your drains can safely be removed.
+},
+{
+    719.42,723.34
+     After you have recorded the amount of fluid from each bulb on your Volume of Drainage
+},
+{
+    723.34,727.0
+     chart, discard the fluid by flushing it down the toilet.
+},
+{
+    727.0,735.0
+     In the evening, when you empty and measure your fluid drainage, take your body temperature and record it on the volume of drainage chart.
+},
+{
+    735.0,745.0
+     If your body temperature is ever 101.5 degrees Fahrenheit or higher, call the breast center.
+},
+{
+    749.3,753.88
+     After emptying and measuring the fluid from each bulb, you will need to
+},
+{
+    753.88,759.84
+     reactivate the bulb suction. First, wipe the port opening with an alcohol swab to
+},
+{
+    759.84,767.52
+     clean it. Next, gently squeeze the bulb and flatten it as completely as possible. While the bulb is
+},
+{
+    767.52,774.16
+     completely flattened, insert the stopper into the emptying port as far as possible. Release your grip
+},
+{
+    774.16,780.56
+     from the bulb. If the bulb stays flattened, you have successfully reactivated the bulb suction.
+},
+{
+    781.68,786.24
+     In the next few hours, you will notice the bulb expanding gradually as it
+},
+{
+    786.24,792.58
+     fills with fluid. If the bulb does not expand gradually and collect fluid, call
+},
+{
+    792.58,795.48
+     the breast center.
+},
+{
+    799.08,805.8
+     Gravity is necessary to keep the drains functioning properly. You must place the bulb below the
+},
+{
+    805.8,811.88
+     drain insertion site. Using the plastic tag on the bulb, attach it to your clothing or drain
+},
+{
+    811.88,834.4
+     belt. Do not disconnect, bend, compress, or puncture the drain center. The length of time that your drain remains in place depends on the amount of fluid coming
+},
+{
+    834.4,836.24
+     from the surgical site.
+},
+{
+    836.24,842.2
+     When one drain produces less than 30 milliliters of drainage over a 24-hour period for two
+},
+{
+    842.2,846.24
+     days in a row, your drain is ready to be removed.
+},
+{
+    846.24,849.04
+     When your drain output meets this criteria,
+},
+{
+    849.04,850.4
+     call the breast center,
+},
+{
+    850.4,852.6
+     and the nurses will schedule your appointment
+},
+{
+    852.6,854.64
+     for your drain to be removed.
+},
+{
+    854.64,857.32
+     The drains are usually removed within three weeks
+},
+{
+    857.32,860.52
+     of the surgery, regardless of the drainage output.
+},
+{
+    860.52,863.32
+     However, your surgeon may recommend removal
+},
+{
+    863.32,864.96
+     at a different time.
+},
+{
+    864.96,865.2
+     After your drain is removed, continue to wash that area of your skin daily However, your surgeon may recommend removal at a different time.
+},
+{
+    865.2,870.08
+     After your drain is removed, continue to wash that area of your skin daily with soap and
+},
+{
+    870.08,871.4
+     water.
+},
+{
+    871.4,876.88
+     After the drain is removed in clinic, your nurse may tape a 4x4 gauze bandage over the
+},
+{
+    876.88,878.28
+     drain site.
+},
+{
+    878.28,885.6
+     You may remove the tape and gauze 24 hours after the drain is removed. It is not necessary to replace the gauze.
+},
+{
+    892.32,896.64
+     You are responsible for the care of your incision and drain insertion site when you
+},
+{
+    896.64,902.8
+     leave the hospital after surgery. It is important that you recognize any unusual changes with your
+},
+{
+    902.8,905.84
+     incision, the drain, and the drain insertion site.
+},
+{
+    907.68,910.88
+     Call the Breast Center if any of the following things occur.
+},
+{
+    911.52,917.6
+     The bulb suction cannot be activated. The drain falls out or is accidentally cut.
+},
+{
+    917.6,926.8
+     The drain fluid in the bulb has a foul smell. You have a body temperature of 101.5 degrees Fahrenheit or higher. There is
+},
+{
+    926.8,931.6
+     increased redness, swelling, or abnormal drainage from the drain insertion site.
+},
+{
+    931.6,938.48
+     There is an air leak, fluid leak, or any other malfunction in the system.
+},
+{
+    938.48,943.92
+     Clots form in the tubing and block drainage. The bulb is not collecting
+},
+{
+    943.92,945.96
+     fluid. If you measure more than 250 milliliters of drainage. The bulb is not collecting fluid. If you measure more
+},
+{
+    945.96,952.52
+     than 250 milliliters of drainage from one bulb in 24 hours. If the amount of drainage
+},
+{
+    952.52,959.0
+     is less than 30 milliliters in a 24-hour period for two days in a row. If the drain is no
+},
+{
+    959.0,964.52
+     longer secured to your skin with a stitch.
+},
+{
+    964.52,968.78
+     Before you leave the hospital, you will be given all of the supplies and information to
+},
+{
+    968.78,973.2
+     properly care for your incision, drain and drain insertion site.
+},
+{
+    973.2,977.34
+     It is very important that you carefully follow these instructions.
+},
+{
+    977.34,981.78
+     You may find it helpful to write down your questions and concerns.
+},
+{
+    981.78,986.56
+     Do not hesitate to call the Breast Center to speak with a nurse for help if you experience
+},
+{
+    986.56,989.52
+     any of the problems mentioned in this video.
+},
+{
+    989.52,993.24
+     If you are ever in doubt, please call the Breast Center.
+},
+{
+    993.24,None
+     We are happy to help you. you
+},

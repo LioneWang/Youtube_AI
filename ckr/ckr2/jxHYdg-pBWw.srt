@@ -1,0 +1,644 @@
+{
+    0.0,6.88
+     Hey everyone and welcome to TopThink.
+},
+{
+    6.88,12.84
+     Today we're going to learn about dopamine detox, how to reset your brain for success.
+},
+{
+    12.84,14.56
+     Now let's begin.
+},
+{
+    14.56,17.84
+     Can you reset the neurochemicals in your brain?
+},
+{
+    17.84,21.12
+     Can you increase the volume of dopamine by fasting?
+},
+{
+    21.12,25.34
+     Countless people have used detoxes to influence their brain's reward system.
+},
+{
+    25.34,27.44
+     But this isn't your average detox.
+},
+{
+    27.44,28.44
+     No.
+},
+{
+    28.44,33.68
+     Instead of abstaining from junk food or social media, a dopamine detox is a complete removal
+},
+{
+    33.68,36.0
+     of all your favorite things.
+},
+{
+    36.0,43.28
+     During a dopamine detox, people avoid media, phones, games, food, and even social interaction.
+},
+{
+    43.28,47.44
+     Anything that stimulates some sort of pleasure is off the table.
+},
+{
+    47.44,51.32
+     But why should you cut out all these enjoyable things out of your life?
+},
+{
+    51.32,56.24
+     Well, this detox revolves around the neurochemical dopamine.
+},
+{
+    56.24,60.48
+     Dopamine is commonly framed as one of many feel-good chemicals in the brain.
+},
+{
+    60.48,65.22
+     But your brain's relationship to dopamine is a lot more complicated than you think.
+},
+{
+    65.22,68.68
+     Have you ever wondered why your brain wants what it wants?
+},
+{
+    68.68,73.0
+     Well dopamine is the driving force behind wants and cravings.
+},
+{
+    73.0,78.48
+     In other words, dopamine compels you to do whatever you want to do.
+},
+{
+    78.48,81.28
+     Imagine you're in the middle of work when your phone dings.
+},
+{
+    81.28,85.06
+     You know that sound, you've heard that sound a million times, so your
+},
+{
+    85.06,90.4
+     brain responds instantly with a shot of dopamine. Suddenly, you feel compelled to check your
+},
+{
+    90.4,95.04
+     phone. A burst of excitement and enthusiasm drives your brain away from your work, so
+},
+{
+    95.04,100.44
+     you pick up your phone, check your messages, and realize it's just spam. Or a text from
+},
+{
+    100.44,106.92
+     your mom. That rush of dopamine dies down. You put away your phone and you refocus on your work.
+},
+{
+    106.92,110.28
+     When your phone dings again, the cycle goes on.
+},
+{
+    110.28,114.76
+     Throughout your life, you may find yourself chasing these bursts of dopamine.
+},
+{
+    114.76,119.48
+     Because the chemical rush is often more exciting than the actual stimulus.
+},
+{
+    119.48,121.08
+     Just think about that text message.
+},
+{
+    121.08,125.52
+     Wasn't the potential of that message more exciting than the message itself?
+},
+{
+    131.92,139.2
+     That's how dopamine works. It fuels your brain's wants and desires, but it doesn't control whether or not you enjoy something. Instead, it pushes you to watch one more episode. Click one more profile.
+},
+{
+    139.2,148.3
+     Scroll through one more page. Rushes of dopamine keep you wanting more even if each stimuli leaves you feeling disappointed.
+},
+{
+    148.3,152.22
+     As you can imagine, chasing dopamine can be a dangerous path.
+},
+{
+    152.22,156.14
+     Many people cling to their smartphones and social media because they're searching for
+},
+{
+    156.14,158.48
+     their next source of dopamine.
+},
+{
+    158.48,163.64
+     Each time you engage with these devices, you get a little rush of dopamine in your brain,
+},
+{
+    163.64,167.56
+     and that chemical keeps you coming back again and again.
+},
+{
+    167.56,170.88
+     So why should you fast from sources of dopamine?
+},
+{
+    170.88,176.36
+     The goal of a dopamine detox is to change your relationship with this powerful chemical.
+},
+{
+    176.36,181.6
+     By fasting from dopamine, you're removing the sources of want and desire in your life.
+},
+{
+    181.6,185.0
+     You're abstaining from all the things that control you on a daily
+},
+{
+    185.0,190.76
+     basis. Because dopamine dependence creates a toxic cycle, a cycle that's incredibly
+},
+{
+    190.76,195.84
+     difficult to escape from. By fasting, you're removing all sources of dopamine from your
+},
+{
+    195.84,199.28
+     life and escaping your bad habits.
+},
+{
+    199.28,204.32
+     So how do you perform a dopamine detox? What steps should you take to rid your life of
+},
+{
+    204.32,206.56
+     this controlling desire? Before we break down step by step how to perform a dopamine detox. What steps should you take to rid your life of this controlling desire?
+},
+{
+    206.56,211.32
+     Before we break down step by step how to perform a dopamine detox, there's one important
+},
+{
+    211.32,214.04
+     distinction we need to make.
+},
+{
+    214.04,218.96
+     Dopamine fasting was first conceptualized by a psychiatrist exploring the role of dopamine
+},
+{
+    218.96,220.12
+     in addiction.
+},
+{
+    220.12,225.6
+     He designed the dopamine detox to help people escape from compulsive and destructive behaviors.
+},
+{
+    225.6,229.16
+     But the technique was soon adapted to different lifestyles.
+},
+{
+    229.16,237.92
+     As it grew more popular, dopamine fasting became a blanket solution to our dependence on technology, food, and other sources of desire.
+},
+{
+    237.92,242.0
+     But dopamine fasting is not the answer to all of your problems.
+},
+{
+    242.0,246.68
+     By performing a dopamine detox, you will not suddenly live a different life or gain
+},
+{
+    246.68,249.3
+     unstoppable self-discipline.
+},
+{
+    249.3,253.56
+     Dopamine fasting doesn't actually increase or decrease the amount of dopamine in your
+},
+{
+    253.56,254.68
+     body.
+},
+{
+    254.68,257.28
+     This is a fact that countless people misunderstand.
+},
+{
+    257.28,262.84
+     You're not chipping away at an overabundance of dopamine in your system, nor are you refilling
+},
+{
+    262.84,265.68
+     empty banks of this chemical in your brain.
+},
+{
+    265.68,270.32
+     In other words, a dopamine detox will not increase the pleasure you feel on a daily
+},
+{
+    270.32,271.32
+     basis.
+},
+{
+    271.32,275.84
+     It will not amplify your favorite things or make them 10 times more fun.
+},
+{
+    275.84,281.16
+     Because dopamine doesn't control how much you enjoy something, it controls wants and
+},
+{
+    281.16,284.44
+     desires not liking or pleasure.
+},
+{
+    284.44,287.68
+     So what does a dopamine detox really do?
+},
+{
+    287.68,291.8
+     This practice can significantly increase your resistance to temptation.
+},
+{
+    291.8,294.66
+     It can give you a sense of control over your life.
+},
+{
+    294.66,297.04
+     Right now, you may feel glued to your phone.
+},
+{
+    297.04,302.06
+     You may feel like a ding, text, or notification has more power than you do.
+},
+{
+    302.06,305.44
+     A dopamine detox may not amplify your experience,
+},
+{
+    305.44,307.28
+     but it will affect your relationships
+},
+{
+    307.28,310.16
+     with temptation and distraction.
+},
+{
+    310.16,311.92
+     During a dopamine detox,
+},
+{
+    311.92,314.8
+     you're forced to remove all temptations from your life.
+},
+{
+    314.8,316.56
+     You gain a unique opportunity
+},
+{
+    316.56,319.44
+     to reflect on the distractors that control you,
+},
+{
+    319.44,322.32
+     and you learn how to live your life without them.
+},
+{
+    322.32,325.48
+     By the end of your detox, you won't be a different person.
+},
+{
+    325.48,329.2
+     If you enjoyed social media before, you'll enjoy social media after.
+},
+{
+    329.2,332.44
+     The same goes for Netflix, video games, and junk food.
+},
+{
+    332.44,336.04
+     But what happens the next time you hear a ding across the room?
+},
+{
+    336.04,341.12
+     Instead of compulsively grabbing your phone, you may stop, think, and make your own decision.
+},
+{
+    341.12,344.08
+     And that's the power of a dopamine detox.
+},
+{
+    344.08,349.34
+     Okay, now that we understand what this chemical does and what role a dopamine detox plays
+},
+{
+    349.34,353.76
+     in your life, how do you perform your own dopamine detox?
+},
+{
+    353.76,357.46
+     First, identify what temptations you want to avoid.
+},
+{
+    357.46,359.34
+     Do you spend too much time on your phone?
+},
+{
+    359.34,362.88
+     Do you find yourself glued to a screen for hours on end?
+},
+{
+    362.88,367.2
+     Do you scroll through social media every time there's a lull in your day?
+},
+{
+    367.2,372.36
+     Each of these compulsions represent a destructive behavior driven by that rush of dopamine.
+},
+{
+    372.36,376.88
+     So these are the temptations you want to avoid during your detox.
+},
+{
+    376.88,381.36
+     Many people think a detox means abstaining from all sources of dopamine.
+},
+{
+    381.36,386.92
+     Not only is that almost impossible, it can interfere significantly with your daily life.
+},
+{
+    386.92,391.2
+     Human interaction has become a popular component of dopamine fasting.
+},
+{
+    391.2,395.44
+     People try to reset their brains by avoiding all human connection for an extended period
+},
+{
+    395.44,396.56
+     of time.
+},
+{
+    396.56,398.76
+     But this doesn't really do anything for you.
+},
+{
+    398.76,403.88
+     In fact, the creator of this technique specified that avoiding human interaction was not part
+},
+{
+    403.88,405.44
+     of his original plan,
+},
+{
+    405.44,411.08
+     because avoiding human interaction doesn't affect your brain's relationships to dopamine.
+},
+{
+    411.08,415.96
+     All this does is deprive you of love, solidarity, and connection.
+},
+{
+    415.96,421.52
+     Instead of making you more introspective, locking yourself away can leave you feeling lonely.
+},
+{
+    421.52,426.18
+     To perform an effective dopamine detox, you don't have to cut out everything that stimulates
+},
+{
+    426.18,427.92
+     that rush of dopamine.
+},
+{
+    427.92,432.68
+     Instead, target your detox at the behaviors and compulsions that you have trouble with
+},
+{
+    432.68,434.44
+     on a regular basis.
+},
+{
+    434.44,437.58
+     Your phone, social media, unhealthy food.
+},
+{
+    437.58,442.3
+     These are all great behaviors to address because you can tackle these issues without interfering
+},
+{
+    442.3,444.56
+     too much with your life.
+},
+{
+    444.56,448.76
+     So whether you're fasting from one thing or ten things, you should start your dopamine
+},
+{
+    448.76,452.4
+     fast by creating a list of cans and cans.
+},
+{
+    452.4,456.56
+     This list will be your rulebook throughout your detox, so whenever you feel like breaking
+},
+{
+    456.56,459.72
+     the rules, you go back and look at this list.
+},
+{
+    459.72,464.6
+     Remind yourself which habits you can do and which habits you can't.
+},
+{
+    464.6,469.4
+     Next thing, take care of any outstanding problems that might come up during this period.
+},
+{
+    469.4,473.66
+     If you have to let people know that you're stepping away from your phone, do it now.
+},
+{
+    473.66,477.84
+     Make sure you have no extraneous reasons to check your phone or to break your list of
+},
+{
+    477.84,478.84
+     rules.
+},
+{
+    478.84,482.48
+     You should also use this time to notify your friends and family.
+},
+{
+    482.48,484.36
+     Let people know what you're doing.
+},
+{
+    484.36,489.46
+     Not only does this stimulate a sense of accountability, but it helps you create a sense of space between
+},
+{
+    489.46,492.08
+     your detox and your daily life.
+},
+{
+    492.08,495.34
+     When you've got everything prepared, it's time to get started.
+},
+{
+    495.34,498.76
+     The best time to start your detox is first thing in the morning.
+},
+{
+    498.76,503.34
+     If you want to start on a Monday, get everything prepared on Sunday so you can start your fast
+},
+{
+    503.34,505.24
+     from the moment you wake up.
+},
+{
+    505.24,506.76
+     Keep your rulebook handy.
+},
+{
+    506.76,512.16
+     Keep your motivations in mind and put your distractions as far away as possible, because
+},
+{
+    512.16,514.84
+     out of sight means out of mind.
+},
+{
+    514.84,518.56
+     Most people maintain their detox for one 24-hour cycle.
+},
+{
+    518.56,522.72
+     You wake up without temptation and you fall asleep without temptation.
+},
+{
+    522.72,525.36
+     But others extend their fasting to 48 hours
+},
+{
+    525.36,526.96
+     or week-long periods.
+},
+{
+    526.96,528.48
+     But if you're fasting from food,
+},
+{
+    528.48,531.56
+     experts recommend stopping after 24 hours.
+},
+{
+    531.56,534.3
+     A longer period may lead to more significant problems
+},
+{
+    534.3,535.56
+     with your health.
+},
+{
+    535.56,538.96
+     Whichever length you choose, remember to be realistic.
+},
+{
+    538.96,541.6
+     If you've never done a dopamine detox before,
+},
+{
+    541.6,542.68
+     you may struggle.
+},
+{
+    542.68,544.72
+     Don't expect yourself to suddenly fast
+},
+{
+    544.72,545.48
+     for an entire
+},
+{
+    545.48,551.24
+     month. Try 12 hours. If you enjoy the experience, try a full day. Eventually, you may have the
+},
+{
+    551.24,558.48
+     self-control to detox for an entire week. But this self-control takes time and practice.
+},
+{
+    558.48,563.16
+     As you dive into this period of separation, take plenty of time to reflect on your relationship
+},
+{
+    563.16,565.08
+     with want and desire.
+},
+{
+    565.08,568.4
+     Do you feel uncomfortable being away from your temptations?
+},
+{
+    568.4,570.04
+     What makes you uncomfortable?
+},
+{
+    570.04,572.2
+     Are you craving temptation?
+},
+{
+    572.2,576.36
+     Experts recommend writing these feelings down because you'll want to read them later.
+},
+{
+    576.36,581.72
+     Finally, when your detox comes to a close, spend a few more moments in quiet reflection.
+},
+{
+    581.72,584.12
+     Do you feel more control than before?
+},
+{
+    584.12,585.68
+     Are you less impulsively grabbing
+},
+{
+    585.68,591.96
+     your phone? Many people feel a sense of empowerment after performing a dopamine detox. Try to
+},
+{
+    591.96,597.08
+     maintain that level of positivity even after the fast is over. Because that's really
+},
+{
+    597.08,602.52
+     where the hard work begins. Doing a detox is new and exciting. Like a ding popping up
+},
+{
+    602.52,605.48
+     on your phone, it carries a lot of potential.
+},
+{
+    605.48,609.84
+     But your responsibility is to incorporate those lessons into your lifestyle when the
+},
+{
+    609.84,616.88
+     detox is done.
+},

@@ -1,0 +1,116 @@
+{
+    0.0,12.76
+     Many people with chronic lung diseases such as COPD or asthma use a nebulizer to take
+},
+{
+    12.76,19.1
+     their medication in the form of a mist that is inhaled into the lungs.
+},
+{
+    19.1,27.0
+     Nebulizers are often recommended for patients who have a hard time using inhalers because of health issues, or patients who are unable to inhale deeply enough
+},
+{
+    27.0,29.0
+     for other devices.
+},
+{
+    29.0,32.5
+     A nebulizer has five basic parts.
+},
+{
+    32.5,34.5
+     A medicine cup,
+},
+{
+    34.5,37.0
+     a top piece or cap
+},
+{
+    37.0,39.0
+     to attach to a mask
+},
+{
+    39.0,41.5
+     or mouthpiece to the medicine cup.
+},
+{
+    41.5,43.0
+     With your healthcare provider,
+},
+{
+    43.0,45.92
+     you can decide which type works best for you.
+},
+{
+    47.12,50.4
+     Thin plastic tubing connects the mouthpiece to the machine,
+},
+{
+    51.6,57.52
+     and an air machine called a compressor, which can be plugged into an electrical socket for indoor use,
+},
+{
+    58.4,64.88
+     a car adapter for when you're on the go, or battery operated for portable use while not at home.
+},
+{
+    66.48,72.28
+     on the go, or battery operated for portable use while not at home. With clean hands, take the medicine as prescribed by your healthcare provider and pour it into
+},
+{
+    72.28,74.6
+     the medicine cup.
+},
+{
+    74.6,82.2
+     Attach the top piece to the medicine cup, and then the mouthpiece or mask.
+},
+{
+    82.2,85.0
+     Connect the tubing from the compressor to the medicine cup.
+},
+{
+    85.0,93.0
+     Put the mask over your face, or put the mouthpiece in your mouth between your teeth,
+},
+{
+    93.0,96.0
+     and close your lips tightly around it.
+},
+{
+    96.0,98.0
+     Turn on your compressor.
+},
+{
+    98.0,103.0
+     Hold the nebulizer in an upright position to prevent spilling,
+},
+{
+    103.0,108.4
+     and to ensure the medication is correctly distributed.
+},
+{
+    108.4,111.36
+     Take normal, regular breaths in through your mouth
+},
+{
+    111.36,114.92
+     so that the medicine can go deep into your lungs.
+},
+{
+    114.92,119.04
+     Continue until all of the medicine is gone from the cup.
+},
+{
+    119.04,121.96
+     For more demonstration videos and information
+},
+{
+    121.96,125.52
+     on cleaning and caring for your nebulizer, visit the
+},
+{
+    125.52,132.36
+     American Long Association's website at long.org.nebulizer.
+},

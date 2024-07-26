@@ -1,0 +1,296 @@
+{
+    0.0,4.36
+     Now let's cover shock.
+},
+{
+    4.36,9.12
+     You know the interesting thing about shock, which is pretty much defined by saying it's
+},
+{
+    9.12,14.96
+     a failure of the body to circulate oxygenated blood to cells.
+},
+{
+    14.96,19.88
+     The interesting thing about that is that everybody who dies eventually dies from some form of
+},
+{
+    19.88,21.16
+     shock.
+},
+{
+    21.16,25.3
+     So when we're talking about emergency first aid, it's one of the things we'll always
+},
+{
+    25.3,31.48
+     be watching for along with airway breathing, circulation, bleeding control. Right after
+},
+{
+    31.48,37.76
+     we get into that circulation aspect, we think about shock symptoms. Shock is sometimes misunderstood
+},
+{
+    37.76,45.88
+     as shock like psychogenic shock or psychological emotional shock like scared or surprised.
+},
+{
+    45.88,48.44
+     But that's not the kind of shock we're talking about.
+},
+{
+    48.44,52.4
+     We're talking about one of the many forms of shock.
+},
+{
+    52.4,58.52
+     Forms meaning we could have spinal shock cause secondary to a spinal cord injury.
+},
+{
+    58.52,62.32
+     Cardiogenic shock, primarily from pump failure.
+},
+{
+    62.32,67.0
+     Hypovolemic shock from loss of fluids or blood, anaphylactic shock, which
+},
+{
+    67.8,73.74
+     is primarily caused from a severe alert reaction, and those are the main types of shock we'll
+},
+{
+    73.74,80.74
+     see out in the environment. The symptoms are pretty much going to be about the same though.
+},
+{
+    80.74,87.1
+     Decrease level of consciousness, anxiety, chilled and cold, pale, clammy.
+},
+{
+    87.1,91.12
+     Poor capillary refill. You pinch the nail bed,
+},
+{
+    91.12,94.72
+     usually takes two to three seconds to refill. If it takes more than that,
+},
+{
+    94.72,98.52
+     we're probably showing a delay in capillary refill,
+},
+{
+    98.52,103.68
+     which could be an early sign of shock. The rapid breathing, rapid pulse,
+},
+{
+    103.68,107.64
+     signs of shock. Many times we don't
+},
+{
+    107.64,111.4
+     know the reason why they're going into this shock unless there's an obvious
+},
+{
+    111.4,116.72
+     external trauma. But if it's an internal injury, if it's a brain injury, a heart
+},
+{
+    116.72,120.48
+     injury, we won't know exactly why they're going into shock. We'll just know
+},
+{
+    120.48,123.88
+     that they're showing the symptoms of shock. And when they do, we're going to
+},
+{
+    123.88,125.84
+     treat it the same way. If we haven And when they do, we're going to treat it the same way.
+},
+{
+    125.84,128.44
+     If we haven't already called 911,
+},
+{
+    128.44,130.52
+     we're going to make sure our scene is safe,
+},
+{
+    130.52,132.88
+     gloves are on, CPR shields available,
+},
+{
+    132.88,135.72
+     and activate emergency medical services.
+},
+{
+    135.72,140.06
+     Then treat the primary causes of that shock.
+},
+{
+    140.06,141.36
+     If they're unresponsive,
+},
+{
+    141.36,143.84
+     we're still going to check to see if they're breathing.
+},
+{
+    143.84,147.08
+     If they are unresponsive, we're still going to check to see if they're breathing. If they are breathing, fantastic.
+},
+{
+    147.08,153.64
+     Now we know we can move to the secondary issues, bleeding control, shock management, fracture
+},
+{
+    153.64,154.84
+     management.
+},
+{
+    154.84,161.76
+     In this case, he is breathing, he's pale, cool, sweaty, delayed capillary refill.
+},
+{
+    161.76,165.44
+     No obvious signs of external bleeding that would cause us any problems.
+},
+{
+    165.44,171.32
+     We can now treat for shock. Primary treatments for shock is laying them down. After we've
+},
+{
+    171.32,176.12
+     managed airway breathing and compressions, and it's not an issue, we want to make the
+},
+{
+    176.12,185.12
+     patient as warm as possible. Why? Keeping the body warm helps it compensate for shock.
+},
+{
+    185.12,192.36
+     If it doesn't have to vasodilate in its extremities, that helps it to shunt the blood to the main
+},
+{
+    192.36,200.36
+     areas of the body, brain, heart, the different vascular organs that need to be fed with oxygenated
+},
+{
+    200.36,202.88
+     blood to stay alive.
+},
+{
+    202.88,207.0
+     Keeping them warm helps that. So when we do our demonstration,
+},
+{
+    207.0,211.84
+     we'll show how we're going to cover the patient with a warm blanket to help them with this
+},
+{
+    211.84,218.84
+     issue. And then if we don't suspect any kind of spinal cord injury or hip injury or long
+},
+{
+    218.84,226.24
+     bone fracture, we're going to go ahead and elevate the legs, making sure to put the box or object to keep
+},
+{
+    226.24,232.92
+     their legs elevated above their heart somewhere around their knees so that we don't hyper-extend
+},
+{
+    232.92,234.32
+     their knees.
+},
+{
+    234.32,239.72
+     By elevating the legs, keeping them warm, laying them down, and then reassessing them
+},
+{
+    239.72,245.96
+     for breathing and circulation and controlling any other external injuries like external bleeding
+},
+{
+    245.96,250.64
+     is how we're going to help this person combat the effects of shock and give them a second
+},
+{
+    250.64,254.76
+     chance at survival.
+},
+{
+    254.76,257.96
+     The scene is safe, my gloves are on, my CPR shield is available.
+},
+{
+    257.96,259.64
+     Sir, sir are you alright?
+},
+{
+    259.64,261.32
+     Are you okay?
+},
+{
+    261.32,264.84
+     He appears to be breathing but he's not responsive.
+},
+{
+    264.84,267.2
+     You in the plaid shirt, go call 911 and come back.
+},
+{
+    267.2,269.28
+     I might need your help.
+},
+{
+    269.28,276.72
+     He does appear to be breathing, but he looks pale, cool, sweaty, low-capillary refill, slow-capillary
+},
+{
+    276.72,278.92
+     refill, and he's unresponsive.
+},
+{
+    278.92,280.48
+     I think he might be suffering from shock.
+},
+{
+    280.48,281.48
+     I'm going to elevate his legs.
+},
+{
+    281.48,283.56
+     Let me know how he got hurt.
+},
+{
+    283.56,284.8
+     Any back injuries?
+},
+{
+    284.8,287.44
+     We find out that we don't suspect any neck or back injuries.
+},
+{
+    287.44,321.52
+     I'm going to elevate the legs, being careful not to hyper extend the knees. Server, can you hear me?
+},
+{
+    321.52,322.52
+     Can you hear me?
+},
+{
+    322.52,324.64
+     He still appears to be breathing.
+},
+{
+    324.64,328.6
+     I do not see any external hemorrhaging or bleeding that needs to be controlled.
+},
+{
+    328.6,333.28
+     I'm just going to maintain reassessment every couple minutes, make sure that if there's
+},
+{
+    333.28,336.28
+     any problems I treat them, and wait for EMS to arrive.
+},

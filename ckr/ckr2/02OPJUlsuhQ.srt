@@ -1,0 +1,52 @@
+{
+    0.0,7.08
+     Kia ora, my name is Tasha and I'm a pharmacist at Auckland City Hospital. Today I'm going
+},
+{
+    7.08,13.76
+     to show you how to use your Turbuhala. First you'll need to remove the cap. Do this by
+},
+{
+    13.76,28.52
+     twisting the cap until it comes off. Next you'll need to activate your dose. To do this, twist the base, first anti-clockwise and then back to your
+},
+{
+    28.52,36.44
+     urology. To inhale your dose, you will need to breathe out away from your device,
+},
+{
+    36.44,42.48
+     then make a tight seal around the mouthpiece with your lips and breathe
+},
+{
+    42.48,77.76
+     in rapidly, then hold your breath for up to 10 seconds. Once you get down to around 10 doses, this window will become partially coloured red.
+},
+{
+    77.76,82.64
+     When this happens, you'll need to go and get a repeat from your pharmacist or a new prescription
+},
+{
+    82.64,85.92
+     from your pharmacist or a new prescription from your doctor. After you've inhaled your
+},
+{
+    85.92,96.08
+     dose, replace the cap and twist it until it is on properly. Do not wash this device in
+},
+{
+    96.08,103.36
+     water as it will damage the inhaler. If it needs a clean, clean it with a clean dry cloth,
+},
+{
+    103.36,106.0
+     especially around the mouthpiece.
+},
+{
+    106.0,112.0
+     If you have any questions about any of the inhaler devices please go and ask your pharmacist.
+},
+{
+    112.0,None
+     They'll be more than happy to help and answer any questions. you
+},

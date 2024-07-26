@@ -1,0 +1,108 @@
+{
+    0.0,11.52
+     My name is Randy White and I'll be demonstrating the pressure dressing.
+},
+{
+    11.52,15.64
+     The first thing is, of course, is BSI to make sure that you have your gloves on.
+},
+{
+    15.64,19.64
+     The next thing is you'll need some four beforeers and as soon as you get there you want to make
+},
+{
+    19.64,25.28
+     sure that you cover that and put direct pressure, pinpoint pressure over that bleeding.
+},
+{
+    25.28,31.64
+     Okay, once you've done that, you may need to move on to a different skill like, for
+},
+{
+    31.64,36.24
+     instance, airway or treating for shock or something like that.
+},
+{
+    36.24,39.28
+     So I'm going to put a pressure dressing on it.
+},
+{
+    39.28,44.36
+     Okay, now remember, once you put this on here, you shouldn't be looking at it anymore.
+},
+{
+    44.36,47.2
+     I'm going to put an anchor wrap on.
+},
+{
+    47.2,52.64
+     An anchor wrap really is just to keep my bandage from slipping all over the place.
+},
+{
+    52.64,60.28
+     And now I'm going to, again, keeping direct pressure over the top, I'm going to be moving
+},
+{
+    60.28,67.0
+     the wrap distal to proximal, proximal to distal.
+},
+{
+    67.0,68.0
+     Okay?
+},
+{
+    68.0,74.0
+     And as I'm going to make this look a little pretty, okay?
+},
+{
+    74.0,80.0
+     Now when I want to do direct pressure over the site, okay?
+},
+{
+    80.0,83.0
+     I'm going to bring the bandage around,
+},
+{
+    83.0,86.68
+     and now I'm going to move the bandage over and now I'm going to move the bandage over and
+},
+{
+    86.68,89.16
+     put direct pressure over the site with that.
+},
+{
+    89.16,96.48
+     I'm going to come around being careful now not to drop my roller gauze because if I do
+},
+{
+    96.48,102.88
+     then I've lost a ball game and it's a lot easier to drop when you're rolling backwards.
+},
+{
+    102.88,114.84
+     Now I'm rolling forwards again. I'm going to do this one more time here and one more time here. Okay now I'm just
+},
+{
+    114.84,127.0
+     going to finish it up making sure that I put plenty of my roller gauze over the top.
+},
+{
+    127.0,129.24
+     Again tightening up as I go.
+},
+{
+    129.24,136.72
+     Making sure that the bottom side is loose so that I get good pulses.
+},
+{
+    136.72,138.68
+     Now I'll tape and tie and tuck.
+},
+{
+    138.68,140.96
+     I want to make sure that I have a good pulse here.
+},
+{
+    140.96,146.72
+     I want to make sure I've got good capillary refill here. I want to make sure I got good capillary refill here.
+},

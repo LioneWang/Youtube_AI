@@ -1,0 +1,352 @@
+{
+    0.0,31.44
+     Hello everybody, this is Ms. Fook Fixer. We have Dr Kenny here with a medical issue in
+},
+{
+    31.44,39.52
+     his feet. So I'll be treating him but he's going to explain to us what has happened to
+},
+{
+    39.52,48.4
+     his feet while I get ready. Hi everyone, I hurt my toe, my little toe. This is the one on my left,
+},
+{
+    48.4,75.0
+     so my right toe, I can move it to the side, a lot happens. Up, side, and down, down, down.
+},
+{
+    75.0,82.0
+     Yeah, I think I broke my toe, or maybe like the head of my, of my met or something like
+},
+{
+    82.0,91.08
+     that, or maybe that tiny little fracture. It's a little bit more swollen than the one on the right. This is already a week ago I think. The one on
+},
+{
+    91.08,95.76
+     my right is this one. It's a little bit less swollen and this one is more swollen and I
+},
+{
+    95.76,103.32
+     think there's some bruise in there as well and it hurts at the bottom of the foot. Anyone
+},
+{
+    103.32,105.08
+     thinks they've broken their toe they should probably
+},
+{
+    105.08,111.36
+     go and see a doctor in the NX range and get some advice. I have decided that it is not
+},
+{
+    111.36,122.36
+     a fracture, it is not a big one, it is a major fracture. I am vascular in tax by that I mean
+},
+{
+    122.36,127.84
+     I have a good blood flow towards the toe. I can feel it absolutely fine.
+},
+{
+    127.84,130.56
+     It's just the pain and it's a bit unstable when I walk on it.
+},
+{
+    130.56,132.04
+     Like this, when you do this, that hurts.
+},
+{
+    132.04,135.34
+     Stop poking my toe.
+},
+{
+    135.34,142.36
+     And yes, so I have asked my wife to buddy strap it and to give me a bit of padding and hopefully
+},
+{
+    142.36,153.8
+     it'll just hit on its own after a couple of weeks. I do it doing exercise basically. I do a bit of tie boxing and apparently my little toe is not as strong as someone's knee.
+},
+{
+    153.8,165.56
+     Who knew? And there you go. And my lovely wife, Miss Foot Fixer, is now going to and to not cause me any pain. Sure.
+},
+{
+    165.56,168.36
+     And take my toe together.
+},
+{
+    168.36,169.36
+     Sure.
+},
+{
+    169.36,174.32
+     So we also take the meds together because he finds that we do really helpful.
+},
+{
+    174.32,177.36
+     So we'll do that too and see what happens.
+},
+{
+    177.36,181.64
+     Yeah, quite like I'm going to be able to support over the meds when I'm stepping on the ground
+},
+{
+    181.64,182.64
+     when I'm going training.
+},
+{
+    182.64,183.64
+     So what happened yesterday night?
+},
+{
+    183.64,186.16
+     Yesterday night you tried to do it yourself.
+},
+{
+    186.16,186.98
+     I did.
+},
+{
+    186.98,188.88
+     And then he was like, ah, ah, ah,
+},
+{
+    188.88,190.76
+     it's still painful.
+},
+{
+    190.76,192.24
+     Because he did it too tight.
+},
+{
+    192.24,193.66
+     I did do it too tight, that's true.
+},
+{
+    193.66,197.48
+     So when you body strap, you don't want to do it too tight
+},
+{
+    197.48,201.08
+     because it can restrict the circulation.
+},
+{
+    201.08,204.04
+     And obviously you can cause a lot of pain
+},
+{
+    204.04,207.32
+     by compressing onto the area that's injured
+},
+{
+    207.4,211.64
+     So you really want kind of just some support. So what I've done here
+},
+{
+    212.48,216.1
+     Before anyone asks that is not a fungal nail infection my little toe now
+},
+{
+    216.6,220.1
+     It's just a bit years of trauma and I no longer have a little toe now
+},
+{
+    220.64,222.64
+     so what I do is make a
+},
+{
+    223.12,227.46
+     Little tiny aperture here just to separate the toe access
+},
+{
+    227.46,228.46
+     to the foundation.
+},
+{
+    228.46,240.46
+     So we're just going to fold this up like that.
+},
+{
+    240.46,242.78
+     And Kenny doesn't like it too big.
+},
+{
+    242.78,246.0
+     Slide in between. Is that okay? And Kenny doesn't like it too big
+},
+{
+    248.0,248.52
+     Slight in between
+},
+{
+    252.56,253.56
+     Is that okay? Yes, I love you. I love you too
+},
+{
+    258.8,259.8
+     And then what we'll do is we're gonna buddy strap it. So what I'm gonna do is put this on here
+},
+{
+    261.8,264.0
+     like that
+},
+{
+    267.76,269.52
+     I'll put this like this like that and I'll put this like this, like that, and I'll put this in between the toe.
+},
+{
+    279.52,291.04
+     Obviously be super super gentle and then I'm going to body strap his toe to the next one. I'll put this under, kind of like a belt.
+},
+{
+    291.04,313.48
+     In between here, be really really gentle. that it's got some space.
+},
+{
+    315.48,359.0
+     And then put it over. And what you little tiny piece is doing. Left elevate your foot up very excellent.
+},
+{
+    359.0,361.52
+     I liked it when you supported that tape with another tape.
+},
+{
+    361.52,363.88
+     Yeah but I'm not going to do that because that's...
+},
+{
+    363.88,366.0
+     That's good, otherwise it falls off.
+},
+{
+    366.0,370.0
+     I didn't do a... I didn't do a...
+},
+{
+    370.0,372.0
+     Double tape last time on the Mets anyways.
+},
+{
+    372.0,373.0
+     Yeah are you sure?
+},
+{
+    373.0,374.0
+     Yeah.
+},
+{
+    374.0,375.0
+     I feel like you did.
+},
+{
+    375.0,376.0
+     You always think that I did.
+},
+{
+    376.0,378.0
+     You also thought that I didn't put the separate on.
+},
+{
+    378.0,398.4
+     But then I did. This is like customers wrapping.
+},
+{
+    398.4,399.4
+     So they're okay.
+},
+{
+    399.4,400.4
+     Is it too tight?
+},
+{
+    400.4,401.4
+     Yeah, it's good.
+},
+{
+    401.4,416.9
+     You communicate with me.
+},
+{
+    418.9,422.4
+     And then just rip that off. Just lean a little bit forward for me. Excellent.
+},
+{
+    422.4,424.4
+     And you cut this off.
+},
+{
+    424.4,426.28
+     More well.
+},
+{
+    426.28,427.64
+     So that's body strap.
+},
+{
+    427.64,428.92
+     Nice.
+},
+{
+    428.92,429.76
+     Secure.
+},
+{
+    431.0,431.84
+     Does it feel okay?
+},
+{
+    431.84,432.68
+     Feels good.
+},
+{
+    432.68,434.28
+     And I added a bit of extra tape
+},
+{
+    434.28,437.64
+     between the toe body strap and the tape around the mat
+},
+{
+    437.64,439.44
+     so that it doesn't come off as easy.
+},
+{
+    442.36,447.0
+     Nice, taping it down like that.
+},
+{
+    462.0,463.0
+     Perfect. Lovely.
+},
+{
+    463.0,464.0
+     There you go.
+},
+{
+    464.0,465.0
+     Now I can go training again.
+},
+{
+    465.0,466.0
+     You can go training.
+},
+{
+    466.0,467.0
+     Awesome.
+},
+{
+    467.0,470.0
+     So that's what you do, but it's perhaps very, very easy.
+},
+{
+    470.0,472.0
+     Sometimes a bit annoying.
+},
+{
+    472.0,480.0
+     And we'll find out what happens to his tail if we need to amputate it in the future.
+},
+{
+    480.0,None
+     Thank you very much for watching.
+},

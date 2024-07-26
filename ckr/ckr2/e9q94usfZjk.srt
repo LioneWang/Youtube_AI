@@ -1,0 +1,412 @@
+{
+    0.0,2.64
+     So you've got some eye drops and you're having trouble putting them in.
+},
+{
+    2.64,7.84
+     Well, in this video, I'm going to show you the best way to administer the drops so that you don't miss and make a mess of yourself.
+},
+{
+    7.84,12.84
+     Plus, stay tuned toward the end for some extra pro tips on how to make them even more effective.
+},
+{
+    12.84,28.72
+     So let's take a look. Hey everyone, welcome. I am Dr. Joseph Allen and here on Doctor Eye Health, you're going to find education all
+},
+{
+    28.72,31.36
+     but the eyes, vision and finding the best vision products.
+},
+{
+    31.36,33.78
+     So if you're new here, consider subscribing.
+},
+{
+    33.78,36.84
+     Also at any point throughout the video, make sure to check out the show notes and links
+},
+{
+    36.84,40.2
+     below for further information about everything that we mentioned today.
+},
+{
+    40.2,43.8
+     Otherwise, let's go over how to use eye drops like a pro.
+},
+{
+    43.8,46.0
+     Now the first thing you want to do is wash your hands.
+},
+{
+    46.0,49.56
+     You're going to be touching around your eyes to get eye drops in and you don't want to
+},
+{
+    49.56,51.68
+     give yourself an eye infection.
+},
+{
+    51.68,56.68
+     Then make sure you look at the side of the bottle or the bottom for an expiration date.
+},
+{
+    56.68,61.56
+     If the bottle is expired, then the active ingredients are well, no longer active.
+},
+{
+    61.56,70.16
+     And you're really just putting chemicals into your eye at that point and that can cause irritation, dry eyes, and even a chemical burn. Then you want to check out the tip of the
+},
+{
+    70.16,75.36
+     bottle, because the tip of the bottle, if it looks an orange or a brown color like this one,
+},
+{
+    75.36,80.88
+     then you know that it's either old or it's contaminated. And so you don't want to be using
+},
+{
+    80.88,86.56
+     this one. This one goes right in the trash. Now, when you the cap, you're gonna want to place it on some place that's clean
+},
+{
+    86.56,89.58
+     so that you don't contaminate the cap of the bottle.
+},
+{
+    89.58,92.48
+     I prefer either a piece of tissue paper or a paper towel
+},
+{
+    92.48,95.16
+     because you have no idea how clean or dirty
+},
+{
+    95.16,97.36
+     your countertops actually are.
+},
+{
+    97.36,100.2
+     Then you're gonna want to lift your chin and head back
+},
+{
+    100.2,102.12
+     looking up toward the ceiling.
+},
+{
+    102.12,105.2
+     You could also do this by laying down if you prefer.
+},
+{
+    105.2,109.28
+     Now you're going to use your non-dominant hand to either make a fist or use your fingers to
+},
+{
+    109.28,114.8
+     pull down on the upper cheek and lower eyelid, creating an eyelid pocket. This eyelid pocket
+},
+{
+    114.8,121.04
+     is key because it's going to help catch the eye drops and give you a bigger target. Now this is
+},
+{
+    121.04,131.76
+     the part where you want to listen up because this is the part where most people have trouble. When you're doing this you want to make sure you're not just free floating your arm above your eye with the eye dropper
+},
+{
+    131.76,139.44
+     because that makes it very difficult to get the drops into the eye and most people end up missing and landing on their cheek somewhere.
+},
+{
+    139.44,148.68
+     Wasting the drop and these medications can get expensive. What I find works best is to use your dominant hand and rest it on the back of the hand that's
+},
+{
+    148.68,150.76
+     making the eyelid pocket.
+},
+{
+    150.76,155.52
+     That's going to stabilize your arm and make it easier for you to get the drops directly
+},
+{
+    155.52,156.52
+     into the eye.
+},
+{
+    156.52,160.64
+     Now make sure the tip of the dropper is pointing toward the eye, but be sure not to touch the
+},
+{
+    160.64,166.28
+     tip of the dropper to the eyeball itself or your lashes. Then gently squeeze
+},
+{
+    166.28,171.38
+     the center of the bottle, getting the drop to fall into the eye. Once it's in, close
+},
+{
+    171.38,176.56
+     your eye and wait for a minute. Now it's best for you not to blink frequently, as that will
+},
+{
+    176.56,182.32
+     actually flush the eye drops out of the eye through the drainage canal. Now what actually
+},
+{
+    182.32,185.0
+     you can do is use your finger and gently press
+},
+{
+    185.0,189.76
+     right on the corner of the eye where the eyelid meets the nose. There you'll find
+},
+{
+    189.76,192.96
+     a little bump and when you push on that little bump you're actually going to
+},
+{
+    192.96,197.92
+     close the drainage canal of the eye and by blocking that drainage canal you'll
+},
+{
+    197.92,202.8
+     help keep that medication on the surface of the eye increasing the absorption and
+},
+{
+    202.8,205.02
+     its effectiveness.
+},
+{
+    205.02,209.72
+     Also by blocking that drainage canal, you're going to prevent further systemic absorption
+},
+{
+    209.72,213.92
+     of that medication and help avoid some other side effects.
+},
+{
+    213.92,217.34
+     Then once you're finished, put the cap back on the dropper and place it someplace where
+},
+{
+    217.34,219.4
+     you can find them easily again.
+},
+{
+    219.4,222.6
+     Now that you know the proper technique, let's go over some pro tips.
+},
+{
+    222.6,225.5
+     Now pro tip number one, when you're using many different
+},
+{
+    225.5,228.8
+     eye drops at the same time, you wanna make sure you space
+},
+{
+    228.8,231.36
+     them out by at least five minutes.
+},
+{
+    231.36,233.64
+     Otherwise, you're just gonna end up flushing out
+},
+{
+    233.64,236.84
+     the previous medication, wasting that eye drop.
+},
+{
+    236.84,240.2
+     Now, pro tip number two, if you're also using an ointment
+},
+{
+    240.2,243.64
+     or a gel drop, you wanna use those last.
+},
+{
+    243.64,248.48
+     Those gels and ointments are really thick and they'll actually prevent the absorption
+},
+{
+    248.48,251.32
+     of all of the eye drops that you use afterwards.
+},
+{
+    251.32,253.76
+     So again, use those last.
+},
+{
+    253.76,258.18
+     Now Pro Tip number three, if you are a contact lens wearer, it's best for you not to use
+},
+{
+    258.18,263.0
+     medications on the eye while the contacts are in, unless your doctor instructed you to
+},
+{
+    263.0,264.0
+     do so.
+},
+{
+    264.0,266.2
+     However, there are different eyedrops out there
+},
+{
+    266.2,269.96
+     for contact lenses, and you can specifically find these
+},
+{
+    269.96,272.16
+     at any sort of drugstore or pharmacy
+},
+{
+    272.16,276.1
+     and look for the bottle that has it labeled for contacts.
+},
+{
+    276.1,279.76
+     Otherwise, the best artificial tears or lubricating drops
+},
+{
+    279.76,283.2
+     for contact lenses are ones that say non-preservative
+},
+{
+    283.2,285.84
+     or preservative-free, because those preservatives
+},
+{
+    285.84,291.64
+     in the other drops can actually get absorbed into the contact lenses and damage the lenses.
+},
+{
+    291.64,295.32
+     So Pro Tip number four is to look at the cap color of the bottle.
+},
+{
+    295.32,299.84
+     These colors are actually made to tell us what classification these pharmaceuticals fall
+},
+{
+    299.84,300.84
+     into.
+},
+{
+    300.84,305.28
+     And anything that has a red cap to it means don't put it in the eye unless your
+},
+{
+    305.28,310.08
+     doctor specifically told you to do so. And that's exactly why some different contact
+},
+{
+    310.08,315.52
+     lens solutions have a red top to them because again you don't put it in the eye. There's
+},
+{
+    315.52,320.04
+     even some types of super glue that I've seen that have a red cap because they don't want
+},
+{
+    320.04,324.96
+     people confusing that with an eye drop. And yes, I've seen that in the clinic.
+},
+{
+    324.96,329.68
+     Now pro tip number five is that if you are having trouble figuring out if you actually got the drop
+},
+{
+    329.68,335.2
+     in the eye, then consider putting the medications in the refrigerator. That means the cooling effect
+},
+{
+    335.2,339.76
+     of those drops are going to hit the eye and give you that alert to tell you, hey, you actually got
+},
+{
+    339.76,347.88
+     it in. Also, you get the kind of the refreshing cooling effect. But of course, make sure that you read the package insert of those drops or ask your
+},
+{
+    347.88,352.0
+     pharmacist to make sure that it's not going to be a problem by keeping those drops in
+},
+{
+    352.0,353.0
+     the refrigerator.
+},
+{
+    353.0,357.2
+     Lastly, if you're having trouble squeezing these bottles and getting drops to come out,
+},
+{
+    357.2,361.2
+     make sure to either talk to your doctor or your pharmacist about finding other types
+},
+{
+    361.2,366.2
+     of squeezing devices that lock onto the bottle and help get those drops in.
+},
+{
+    366.2,369.08
+     Sometimes these bottles are made really small and tiny
+},
+{
+    369.08,371.12
+     and it's hard to get them to drop out.
+},
+{
+    371.12,373.56
+     I've also included some links to some extra ones
+},
+{
+    373.56,376.12
+     you can find online in the description below.
+},
+{
+    376.12,377.56
+     So eye health question of the day,
+},
+{
+    377.56,379.92
+     which of the pro tips did you find most useful?
+},
+{
+    379.92,381.68
+     Go ahead and comment in the section below
+},
+{
+    381.68,383.68
+     and remember that some of the best tips
+},
+{
+    383.68,386.16
+     come from you and the rest of the iHealth community.
+},
+{
+    386.16,388.28
+     Alright everybody, thanks so much for watching.
+},
+{
+    388.28,391.12
+     Go ahead and hit that like and subscribe button down below.
+},
+{
+    391.12,394.34
+     Also if you'd like to see other cool videos here from Dr. iHealth, just click or tap the
+},
+{
+    394.34,397.24
+     screen up over here or click or tap the screen down here.
+},
+{
+    397.24,398.96
+     Otherwise, keep an eye on it.
+},
+{
+    398.96,407.72
+     We'll talk to you soon. Little kitty.
+},

@@ -1,0 +1,60 @@
+{
+    26.24,28.72
+     Yn ymddi'r cyfnodd, mae'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn y Gold is caused by wet heat, like steam or a hot cup of tea. If your baby has a burn or scold, you might see some of these signs.
+},
+{
+    28.72,31.76
+     They may cry or have pain in the area.
+},
+{
+    31.76,34.44
+     They may have a reddened, swollen patch of skin.
+},
+{
+    35.32,39.76
+     They may have blisters or they may have peeling skin.
+},
+{
+    39.76,42.12
+     If you think your baby has a burn or scold,
+},
+{
+    42.12,44.36
+     move them away from the source of heat,
+},
+{
+    44.36,85.38
+     call the burn or scold by running it under cold water for at least 10 minutes. Felly, mae'n gwybod y cwyl baby yn ymddiol o'r gwybod, mae'n gwybod i'r gwybod i'r llwydd, mae'n gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'rn rhoi i'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o'r rhan o'r rhan o baby's face, hands or feet, or if the injured area is larger than the size of the baby's
+},
+{
+    85.38,90.68
+     hand, or if it is a deep burn, then it's a serious burn or scold. Serious burns or
+},
+{
+    90.68,96.98
+     scolds need emergency treatment, so call 999 or 112. While you wait for the ambulance,
+},
+{
+    96.98,106.92
+     treat your baby for shock if necessary. So remember, move them away from the heat, cool the burn with water for at least 10 minutes,
+},
+{
+    106.92,109.28
+     protect the burn with cling film,
+},
+{
+    109.28,112.44
+     call 999 or 112 for an ambulance.
+},
+{
+    112.44,115.56
+     And that's how you treat a baby with a burn or scald.
+},
+{
+    115.56,116.84
+     Thanks for watching.
+},
+{
+    116.84,129.0
+     Help Support St John Ambulance donate today. Music
+},

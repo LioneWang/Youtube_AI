@@ -1,0 +1,292 @@
+{
+    0.0,6.48
+     Hello, I'm Dr. Michael Brown with Meritas Health in North Kansas City Hospital, and
+},
+{
+    6.48,10.72
+     I'm here today to talk to you about how to use an Albuteronhaler appropriately.
+},
+{
+    10.72,13.32
+     Why is it important to use your Albuteronhaler appropriately?
+},
+{
+    13.32,18.92
+     Well, most people, when they use it incorrectly, get less than 10% of the medication with
+},
+{
+    18.92,20.52
+     each dose.
+},
+{
+    20.52,26.1
+     At best, when you use the inhaler appropriately, you're getting only about 50% of the medication in your lungs.
+},
+{
+    26.1,29.5
+     So it's very important that you use it as directed.
+},
+{
+    29.5,32.54
+     The most common prescription for albuterol
+},
+{
+    32.54,35.82
+     typically comes in two brands, either pro-air or venaline.
+},
+{
+    35.82,39.14
+     So your inhaler will probably say one of those two brands.
+},
+{
+    39.14,42.7
+     But for the sake of this video, I'll refer to it as albuterol.
+},
+{
+    42.7,49.24
+     Typically it's prescribed to do two puffs of your inhaler each time you have an episode of chest tightness or
+},
+{
+    49.24,53.98
+     wheezing. It's important that you review with your primary care provider how to
+},
+{
+    53.98,57.58
+     use it and when to use your albuterol inhaler appropriately if you have any
+},
+{
+    57.58,61.56
+     questions regarding it. Your albuterol inhaler works as what is called a beta
+},
+{
+    61.56,65.76
+     agonist. This takes advantage of what we call the fight or flight response.
+},
+{
+    65.76,68.6
+     For instance, when a bear jumps out at you in the woods.
+},
+{
+    68.6,72.04
+     Well, it's very important for your lungs to open up in that kind of situation and give
+},
+{
+    72.04,75.48
+     you as much air as possible so you can run away from the bear.
+},
+{
+    75.48,76.48
+     That's what albuterol does.
+},
+{
+    76.48,77.8
+     It takes advantage of that.
+},
+{
+    77.8,81.88
+     And that's why after using this inhaler, you might feel things like your heart racing
+},
+{
+    81.88,83.04
+     or fluttering.
+},
+{
+    83.04,85.8
+     That can be very normal after using your Albuterol inhaler.
+},
+{
+    85.8,89.28
+     And if you have any concerns with the side effects of Albuterol, please be sure again
+},
+{
+    89.28,92.72
+     to bring them up with your primary care provider.
+},
+{
+    92.72,96.52
+     If it's the first time that you've ever used your inhaler, you actually need to prime your
+},
+{
+    96.52,97.72
+     inhaler.
+},
+{
+    97.72,102.52
+     This means pushing it down until you get a nice even spray.
+},
+{
+    102.52,108.96
+     So you'll push it down a few times until you get a nice steady even spray. You need to prime your inhaler the first
+},
+{
+    108.96,110.12
+     time you've ever used it
+},
+{
+    110.12,114.28
+     or if you haven't used it in more than two weeks or after you may drop the
+},
+{
+    114.28,114.92
+     inhaler.
+},
+{
+    114.92,118.04
+     It's very important to do that to make sure you get a nice steady
+},
+{
+    118.04,123.84
+     solid even spray each time you use it. I'm now going to review with you
+},
+{
+    123.84,125.48
+     the appropriate steps for using your
+},
+{
+    125.48,128.84
+     inhaler. The first thing you'll want to do is take your cap off and make sure it's
+},
+{
+    128.84,134.28
+     clean and clean the mouthpiece off. You'll then want to shake it 10 to 15 times.
+},
+{
+    134.28,139.2
+     Without the inhaler you'll want to take a big deep breath in and a big deep breath
+},
+{
+    139.2,145.4
+     out all the way. You'll then take the inhaler and you'll put it in between your lips and above your
+},
+{
+    145.4,149.28
+     tongue.
+},
+{
+    149.28,153.32
+     Before you press down on the inhaler, you'll actually want to begin breathing in slowly.
+},
+{
+    153.32,157.44
+     A lot of people will push it down and then begin breathing in, but that's not appropriate.
+},
+{
+    157.44,161.36
+     What you should do first is start breathing in and then push down your inhaler so that
+},
+{
+    161.36,164.6
+     you get the maximum amount of the medication.
+},
+{
+    164.6,169.64
+     This is a training inhaler and so it actually makes a noise when I start breathing in.
+},
+{
+    169.64,173.6
+     Your inhaler will not do that, but this is so that you get an idea of what I'm doing
+},
+{
+    173.6,174.6
+     on this video.
+},
+{
+    174.6,179.1
+     So when you hear that noise, you'll know I've been breathing in.
+},
+{
+    179.1,183.72
+     After you begin to breathe in slowly, you'll push the inhaler and you'll take a big deep
+},
+{
+    183.72,184.72
+     breath in.
+},
+{
+    184.72,185.12
+     Now this is the
+},
+{
+    185.12,189.48
+     most important part. Again, as I said earlier, you don't want to breathe in quickly and then
+},
+{
+    189.48,193.12
+     immediately exhale the medication. Remember, that all it gets to hear and we want to get
+},
+{
+    193.12,197.16
+     it down to here. So what you're going to do is after you breathe in all the way, you'll
+},
+{
+    197.16,202.12
+     want to hold your breath as much as you possibly can. Usually about 10 seconds is what we're
+},
+{
+    202.12,205.6
+     trying to go for here. But as long as you're able to comfortably hold your breath in
+},
+{
+    205.6,212.16
+     The more medication are going to get in after you've done about 10 seconds of holding your breath in you'll want to breathe out slowly
+},
+{
+    213.4,215.4
+     Again, you don't want to breathe out too fast
+},
+{
+    216.08,221.34
+     So I'm going to demonstrate these steps for you again. Remember taking the cap off making sure it's clean
+},
+{
+    222.04,223.64
+     shaking the inhaler
+},
+{
+    223.64,228.88
+     taking a deep breath in, out.
+},
+{
+    244.56,248.52
+     Now doing this twice is typically a full dose.
+},
+{
+    248.52,253.5
+     So I would repeat those steps one more time to get my second puff of that dose.
+},
+{
+    253.5,256.6
+     Some points to remember, do everything slowly.
+},
+{
+    256.6,260.32
+     Breathe the medication in slowly, breathe the medication out slowly.
+},
+{
+    260.32,265.6
+     Also, I recommend that after you use your inhaler, you always rinse out your mouth and
+},
+{
+    265.6,267.32
+     brush your teeth.
+},
+{
+    267.32,271.52
+     If the medication is not working for you appropriately or you're not getting the response that you
+},
+{
+    271.52,275.88
+     used to get from your inhaler, please be sure to follow up with your primary care provider
+},
+{
+    275.88,281.36
+     so that they can talk with you about what needs to happen next.
+},
+{
+    281.36,285.2
+     Thank you again for letting me teach you how to use an albedo on healer appropriately.
+},
+{
+    285.2,289.16
+     Once again I'm Dr. Michael Brown with Meritaz Health and North Kansas City Hospital.
+},

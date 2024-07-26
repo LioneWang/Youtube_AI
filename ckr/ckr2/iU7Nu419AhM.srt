@@ -1,0 +1,64 @@
+{
+    0.0,10.38
+     My name is Peg Schmier and I'm one of three bone density technologists working at Pacific
+},
+{
+    10.38,12.06
+     Medical Center.
+},
+{
+    12.06,17.74
+     The bone density scan will tell us how thick or thin your bones are and what your risk
+},
+{
+    17.74,20.1
+     of future fracture is.
+},
+{
+    20.1,26.36
+     Who needs to have this type of test? Usually are post-menopausal women or older men
+},
+{
+    26.36,31.24
+     who have certain diseases or take certain medications.
+},
+{
+    31.24,35.36
+     People should not take calcium pills the day of the test.
+},
+{
+    35.36,38.52
+     They should wear clothing that has no metal
+},
+{
+    38.52,40.6
+     or plastic attached.
+},
+{
+    40.6,48.0
+     A suggestion would be like a t-shirt or a sweatshirt and a sports bra or no bra.
+},
+{
+    48.0,53.88
+     For the bottoms, they should wear pants or a skirt with an elastic waist.
+},
+{
+    53.88,57.72
+     This is a very easy and painless test.
+},
+{
+    57.72,64.2
+     It only takes about 10 minutes and we technologists sit right in the room with you and we'll be
+},
+{
+    64.2,67.0
+     scanning the lower spine and the hip.
+},
+{
+    67.0,70.0
+     You will get the results of this test in about a week.
+},
+{
+    70.0,79.0
+     It goes to our doctor who interprets the test and then it is sent to your doctor who will let you know what the results are.
+},

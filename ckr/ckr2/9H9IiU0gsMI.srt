@@ -1,0 +1,392 @@
+{
+    0.0,3.0
+     Hey everyone, welcome back to Rehab Revived Physical Therapy.
+},
+{
+    3.0,8.0
+     My name is Dr. Joey Luo and today I'm going to help you get out of your back pain.
+},
+{
+    18.0,28.52
+     So you've just thrown out your back or gotten a back spasm or pulled a muscle in your back, right? These are all the same terms for acute back pain.
+},
+{
+    28.52,31.08
+     You've just had an incidence where all of a sudden
+},
+{
+    31.08,35.16
+     there's a rush of pain, a rush of cramp in your back.
+},
+{
+    35.16,38.62
+     And you don't know why it happened or how it happened.
+},
+{
+    38.62,41.2
+     So it could be many different scenarios
+},
+{
+    41.2,42.64
+     where you got your back pain,
+},
+{
+    42.64,48.82
+     you could be sitting at your couch standing in line like I was or you know you're picking something up from
+},
+{
+    48.82,53.44
+     the floor or picking something out of your trunk and all of those times your
+},
+{
+    53.44,58.32
+     back wasn't able to keep itself up doing whatever you're doing whether you were
+},
+{
+    58.32,63.16
+     standing in a weird posture and you don't even know about it or you're trying
+},
+{
+    63.16,67.44
+     to pick something up the back was. So what happens when the back is unstable?
+},
+{
+    67.44,69.64
+     Your back says no.
+},
+{
+    69.64,75.34
+     It sends signals down to your spine and it makes those big muscles seize up to stabilize
+},
+{
+    75.34,76.34
+     your back.
+},
+{
+    76.34,80.36
+     The little ones are weak, they're not doing their job, so the big ones are going to help
+},
+{
+    80.36,81.36
+     you out.
+},
+{
+    81.36,82.64
+     Now, that's a good thing.
+},
+{
+    82.64,90.16
+     We don't want our backs to totally fall over, but at the same time it can be a very painful process when these big muscles
+},
+{
+    90.16,95.28
+     start to activate too much. So here's what to do day one of your back pain.
+},
+{
+    95.28,100.16
+     Alright you're in pain, you're probably lying on your back so that's in the
+},
+{
+    100.16,111.68
+     position that we're gonna start. So you're going to take deep belly breaths in through your stomach and then out. So as you inhale, your stomach is going to expand and
+},
+{
+    111.68,115.2
+     then when you exhale, your stomach is going to contract. It's going to shrink and get
+},
+{
+    115.2,119.64
+     smaller and your abdominals are really going to contract there. So I want you to spend
+},
+{
+    119.64,125.12
+     about five seconds inhaling. It's pretty long inhale and then five seconds inhaling, it's pretty long inhale, and then five seconds exhaling.
+},
+{
+    125.12,130.12
+     It's pretty long exhale. But take your time, feel your core activate, feel the
+},
+{
+    130.12,135.88
+     relief your back gets when you inhale and when you exhale, and then as you get
+},
+{
+    135.88,141.6
+     relief, I want you to close your eyes and we're gonna work on strengthening some
+},
+{
+    141.6,149.84
+     of those muscles with a little bit of rotational force. Now that you are calming the spasm down a little bit, we can start to
+},
+{
+    149.84,154.52
+     strengthen. Alright so now that we've gotten some relief with the breathing, we
+},
+{
+    154.52,158.36
+     want to find a positional preference for your back. What position does your back
+},
+{
+    158.36,163.76
+     feel best in? So whether you're standing or you're sitting or you're lying down
+},
+{
+    163.76,170.04
+     on your back or you're in quadruped that's on your hands and knees, I want you to find the position that feels
+},
+{
+    170.04,171.04
+     best.
+},
+{
+    171.04,176.2
+     Now once you're in that position, what you can do is flex and extend your spine.
+},
+{
+    176.2,182.64
+     Flexion is sort of like arching your spine up, sort of bringing your head downwards,
+},
+{
+    182.64,187.52
+     and then extension is a sag of the back.
+},
+{
+    187.52,191.72
+     So you're sort of doing a back bend, head is coming up as well.
+},
+{
+    191.72,199.08
+     So find whether your spine likes one of the four seated standing, lying your back or in
+},
+{
+    199.08,206.0
+     quadruped or if it likes flexion or extension, find that position and I want you to stay in that position.
+},
+{
+    206.0,213.5
+     So now that you've found a position where your back is less painful, we can do a little bit of stabilization exercises.
+},
+{
+    213.5,220.0
+     So right now your back is in spasm, so it's craving stability. So let's give it some stability.
+},
+{
+    220.0,226.56
+     So what I want you to do is whatever position you're in, you're going to raise either your right arm or your left arm.
+},
+{
+    226.56,233.08
+     So raise both one at a time, figure out which one is more difficult to do or brings on pain
+},
+{
+    233.08,234.32
+     more.
+},
+{
+    234.32,239.44
+     So I want you to keep that arm up and then do some breathing.
+},
+{
+    239.44,243.64
+     So whichever arm is more painful, hold it up.
+},
+{
+    243.64,247.0
+     Just slightly, I don't want it to be a lot of pain, but it
+},
+{
+    247.0,252.48
+     should be a little bit difficult for you to hold your arm up and then do breathing. Do
+},
+{
+    252.48,259.56
+     the belly breathing, inhale, expand the belly, exhale, contract the belly. Once you've done
+},
+{
+    259.56,265.56
+     the arms, then you can throw in legs. So you can either raise your right leg or your left leg.
+},
+{
+    265.56,270.32
+     Find out which one is more difficult for you to do. Again, I don't want it to be
+},
+{
+    270.32,277.76
+     too painful. Maybe just a 2 or 3 out of 10 amount of pain and then hold your leg
+},
+{
+    277.76,283.6
+     there and then breathe. Breathing is key. Breathing is building those muscles.
+},
+{
+    283.6,289.16
+     Breathing is giving you stability. Once you've done legs then you can combine it to you can do arms and
+},
+{
+    289.16,294.4
+     legs usually it's going to be opposite arm opposite leg because that's the same
+},
+{
+    294.4,299.52
+     rotational force but now you can stabilize with both arms and legs and
+},
+{
+    299.52,306.64
+     doing some breathing okay so now I hope you understand your body a little better
+},
+{
+    306.64,311.84
+     during this very acute time. Things should be a little bit more relaxed, but I
+},
+{
+    311.84,315.84
+     want to talk about something maybe even more important than these exercises or
+},
+{
+    315.84,321.52
+     techniques. Let's talk about mindset. So my mindset during this time this past
+},
+{
+    321.52,330.62
+     weekend was, oh man, I got to go to work tomorrow? How can I go to work with this back pain? I can't even lift my arm right now. So these are very
+},
+{
+    330.62,335.52
+     scary thoughts and oftentimes they're not even true. Like, oh, did I do something to
+},
+{
+    335.52,340.88
+     my disc? Did I pull a joint out of place? These are usually not true and really not
+},
+{
+    340.88,345.08
+     what's going on. So I want you to avoid thinking those thoughts
+},
+{
+    345.08,352.52
+     because these thoughts actually ramp up your inflammation process. The stress creates more
+},
+{
+    352.52,359.4
+     inflammation. So if you think these thoughts and are worried about it all day, then your
+},
+{
+    359.4,366.88
+     back will actually become exacerbated. So take a deep breath, do the breathing technique. Remember,
+},
+{
+    366.88,372.06
+     this is a temporary moment. You will get out of this. It may take different amounts of
+},
+{
+    372.06,376.5
+     time for different people, but this is not the end of the world. Doing these breathing
+},
+{
+    376.5,382.74
+     techniques can be very tiring. Make sure that you take breaks and rest. If you want to recover
+},
+{
+    382.74,385.56
+     quickly, you need to remember that your back
+},
+{
+    385.56,388.2
+     can't maintain the spasm forever.
+},
+{
+    388.2,390.04
+     But if you don't rest,
+},
+{
+    390.04,392.12
+     it will drain up all of your energy
+},
+{
+    392.12,393.52
+     and for the next day,
+},
+{
+    393.52,395.68
+     you won't be able to do what you need to do
+},
+{
+    395.68,398.68
+     in order to relax and heal.
+},
+{
+    398.68,400.92
+     So take time to rest,
+},
+{
+    400.92,402.96
+     find a position that's comfortable
+},
+{
+    402.96,409.8
+     where your back is not so aggravated and irritated. Put some ice on it. Use an ice pack to decrease that
+},
+{
+    409.8,415.44
+     inflammatory process. Rest. I hope this video helped you out. Now you have the
+},
+{
+    415.44,420.28
+     tools to get yourself out of this beginning stage of pain. I hope you
+},
+{
+    420.28,423.88
+     learned a little bit about your back and what's going on. But always remember
+},
+{
+    423.88,425.68
+     consult a medical professional
+},
+{
+    425.68,426.96
+     before you treat yourself.
+},
+{
+    426.96,429.72
+     So if you liked this video, please leave us a like below.
+},
+{
+    429.72,432.1
+     Let us know how your back is doing in the comments section.
+},
+{
+    432.1,433.4
+     Also, subscribe.
+},
+{
+    433.4,435.36
+     We love to make more content for you
+},
+{
+    435.36,438.24
+     and give you more tips on how to keep yourself healthy.
+},
+{
+    438.24,440.16
+     Follow along with me and my journey
+},
+{
+    440.16,442.68
+     through exercise and weight loss.
+},
+{
+    442.68,444.78
+     I'm gonna give you tips on how to stay healthy
+},
+{
+    444.78,449.36
+     so that you can achieve your exercise goals. My name is Dr. Joey Luehl.
+},
+{
+    449.36,452.4
+     We're here at Rehab and Revive Physical Therapy and we'll see you in the next
+},
+{
+    452.4,454.64
+     video.
+},

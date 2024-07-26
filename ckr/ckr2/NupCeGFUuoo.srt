@@ -1,0 +1,36 @@
+{
+    0.0,10.4
+     When there's something wrong with your baby, if you know what to do, you're given the
+},
+{
+    10.4,12.68
+     best chance of survival.
+},
+{
+    12.68,17.46
+     If you've found your baby is not responding to you, you'll need to do a primary survey.
+},
+{
+    17.46,22.16
+     If they are breathing, try to keep calm and put them into the recovery position.
+},
+{
+    22.16,25.68
+     This is the safest position for your baby until help arrives.
+},
+{
+    25.68,30.44
+     Cradle your baby in your arms with their head tilted downwards.
+},
+{
+    30.44,34.84
+     Then call for an ambulance. Keep checking your child's breathing, pulse and level of
+},
+{
+    34.84,39.64
+     response while you wait for help to arrive. And that's how you put a baby in the recovery
+},
+{
+    39.64,None
+     position. Thanks for watching. Help support St John Ambulance donate today.
+},

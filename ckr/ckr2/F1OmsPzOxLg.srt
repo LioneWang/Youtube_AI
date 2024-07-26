@@ -1,0 +1,196 @@
+{
+    0.0,6.0
+     If you were faced with someone who was badly burned, would you know what to do?
+},
+{
+    6.0,8.0
+     That looks good.
+},
+{
+    8.0,16.0
+     As a doctor working in emergency medicine, I want to share some simple techniques that could help you save a life.
+},
+{
+    17.0,28.0
+     Burns and scalds are very common, incredibly painful, and if severe, can be fatal. The heat that causes burns comes in many forms.
+},
+{
+    28.0,34.0
+     From scalding steam to open flames to hot, boiling oil.
+},
+{
+    34.0,37.0
+     But the good news is that for first aid,
+},
+{
+    37.0,41.0
+     the treatment for most burns and spools is essentially the same.
+},
+{
+    43.0,49.24
+     So I've come to the commercial kitchens of a hotel in Dundee to show the staff and you
+},
+{
+    49.24,51.2
+     what to do.
+},
+{
+    51.2,53.44
+     First we need a volunteer.
+},
+{
+    53.44,58.44
+     Can I get you to go over to my mate over there, Alistair, and he's going to give you a pretend
+},
+{
+    58.44,59.44
+     burn.
+},
+{
+    59.44,66.0
+     It won't hurt, I promise.
+},
+{
+    68.0,70.0
+     Who's Tad Burns? Everybody who watches my kitchen's on a boner.
+},
+{
+    70.0,72.0
+     A bit of a badge of honour.
+},
+{
+    72.0,75.0
+     We're laughing and joking about them, but for me as an A&E doctor
+},
+{
+    75.0,78.0
+     it's actually one of the most squeamish things I have to deal with
+},
+{
+    78.0,82.0
+     and it's because you just know how painful they are
+},
+{
+    82.0,87.0
+     but they also can be quite dangerous if you don't treat them properly.
+},
+{
+    87.0,89.0
+     Alistair, how are you doing?
+},
+{
+    89.0,90.0
+     I think we're ready.
+},
+{
+    90.0,91.0
+     Yeah, cool. Okay, brilliant.
+},
+{
+    91.0,97.0
+     The first thing to do is get the person to a safe place and then remove any jewellery,
+},
+{
+    97.0,102.0
+     watch or clothing from the affected area, unless it's sticking to the skin.
+},
+{
+    102.0,106.2
+     The next thing that we need to do is to run this under a tap.
+},
+{
+    106.2,108.4
+     Cold water coming down.
+},
+{
+    108.4,113.32
+     Cooling the burn will reduce pain, swelling and the risk of scarring.
+},
+{
+    113.32,117.96
+     So the faster and longer a burn is called, the better.
+},
+{
+    117.96,121.88
+     Keep it going for at least ten minutes.
+},
+{
+    121.88,127.0
+     You don't want to use ice on there because the ice could cause further damage, it could
+},
+{
+    127.0,129.76
+     cause an ice burn, it would be much more painful.
+},
+{
+    129.76,134.76
+     There are plenty of myths surrounding what you should use to treat a burn. Things like
+},
+{
+    134.76,142.48
+     yogurt, butter, oil and cream will do nothing for a burn and toothpaste is abrasive and will
+},
+{
+    142.48,146.24
+     only make matters worse.
+},
+{
+    151.2,151.28
+     So that's your arm, having been run under a tap for about 20 minutes.
+},
+{
+    152.68,154.0
+     So I'm just going to turn it off.
+},
+{
+    156.0,156.08
+     Once the skin's cooled though,
+},
+{
+    160.0,160.08
+     there is one thing you could reach for in the kitchen to help you.
+},
+{
+    161.08,162.0
+     Kling film.
+},
+{
+    164.84,164.92
+     And I would just lay it over the top like that.
+},
+{
+    168.0,173.76
+     All right, nice and loose. I'm not going to wrap it around like a sausage, so it's just literally just laying it on top. Cling film is
+},
+{
+    173.76,180.88
+     ideal as it will keep the injury clean and stop it drying out. If the size of the burn is smaller
+},
+{
+    180.88,185.72
+     than the palm of the hand of the patient and it's quite superficial,
+},
+{
+    185.72,190.0
+     some redness on the skin, then that's something you can treat at home with
+},
+{
+    190.0,194.42
+     first aid. If it's bigger than the palm of the hand you need to take him to
+},
+{
+    194.42,201.2
+     hospital. If you come across a severe burn just remember stay calm and move the
+},
+{
+    201.2,205.66
+     person to a place that's safe. Call the burn as quickly as possible
+},
+{
+    205.66,211.68
+     with cold water for at least 10 minutes and then loosely cover the burn with cling film
+},
+{
+    211.68,218.12
+     or a clean plastic bag. But if you have any doubts whatsoever just call 999.
+},

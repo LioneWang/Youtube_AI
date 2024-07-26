@@ -1,0 +1,72 @@
+{
+    0.0,3.0
+     Jackson, can you get that board out of the way for me?
+},
+{
+    3.0,6.0
+     Jackson, Jackson, can you hear me?
+},
+{
+    6.0,8.0
+     Jackson, squeeze my hands if you can hear me.
+},
+{
+    8.0,10.0
+     Okay, we need an ambulance. Can you call triple zero?
+},
+{
+    10.0,13.0
+     A spinal injury should be suspected in any casualty
+},
+{
+    13.0,17.0
+     who loses consciousness as a result of a head injury.
+},
+{
+    17.0,20.0
+     I'm going to need your help, boys. We need to turn him over onto the side.
+},
+{
+    20.0,22.0
+     Should we really be moving him? Wouldn't it?
+},
+{
+    22.0,27.76
+     Yeah, he's unconscious and we need to make sure he keeps breathing. The airway takes priority over the spinal injury
+},
+{
+    27.76,32.32
+     and the unconscious casualty must always be turned onto their side.
+},
+{
+    32.32,37.36
+     When turning these casualties, care must be taken to maintain spinal alignment
+},
+{
+    37.36,39.36
+     and minimise twisting.
+},
+{
+    39.36,42.64
+     This can be achieved by performing a log roll.
+},
+{
+    42.64,45.68
+     To perform a log roll, you will need yourself and two
+},
+{
+    45.68,50.84
+     bystanders. Okay boys I need you down that end to hang on to the ankle and the hips.
+},
+{
+    50.84,55.84
+     Your hip and shoulder and we're going to turn him over and keep him nice and straight. On
+},
+{
+    55.84,63.06
+     the count of three boys, one, two, three. Gently roll the casualty in unison into the
+},
+{
+    63.06,64.68
+     side recovery position.
+},

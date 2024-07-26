@@ -1,0 +1,1272 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.68,8.0
+     on the internet.
+},
+{
+    11.52,13.36
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.36,14.2
+     Brad Heineck, physical therapist.
+},
+{
+    14.2,16.24
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.24,17.32
+     In our opinion, of course, Bob.
+},
+{
+    17.32,18.16
+     Our humble opinion.
+},
+{
+    18.16,20.92
+     Today we're gonna give you some fast relief
+},
+{
+    20.92,22.88
+     for that back pain and spasms.
+},
+{
+    22.88,24.54
+     These are some of the stuff that we have found
+},
+{
+    24.54,26.4
+     have worked for our patients
+},
+{
+    26.4,28.08
+     and we hope we can pass them on to you.
+},
+{
+    28.08,28.92
+     Successfully.
+},
+{
+    28.92,29.76
+     There you go Bob.
+},
+{
+    29.76,30.6
+     That's exactly right.
+},
+{
+    30.6,31.44
+     If you're new to our channel,
+},
+{
+    31.44,32.88
+     please take a second to subscribe to us.
+},
+{
+    32.88,34.32
+     We provide videos on how to stay healthy,
+},
+{
+    34.32,36.08
+     fit, pain-free, and we upload every day.
+},
+{
+    36.08,39.12
+     Also join us on some of our social media platforms.
+},
+{
+    39.12,40.88
+     Got it right set up, that's great.
+},
+{
+    40.88,42.84
+     Instagram, you're definitely gonna join us
+},
+{
+    42.84,44.24
+     on Facebook, Bob and Brad,
+},
+{
+    44.24,49.24
+     because we've reached one million subscribers on YouTube.
+},
+{
+    49.44,50.56
+     We're very proud of this.
+},
+{
+    50.56,52.44
+     We're very thankful to all of you.
+},
+{
+    52.44,53.44
+     We're gonna thank each one of you.
+},
+{
+    53.44,54.52
+     Thank you, thank you, thank you, thank you.
+},
+{
+    54.52,55.52
+     One million times.
+},
+{
+    55.52,58.44
+     Yep, and we're gonna give away stuff now
+},
+{
+    58.44,61.0
+     in honor of that, and we're gonna start giving
+},
+{
+    61.0,63.6
+     something away once a week for the whole year.
+},
+{
+    63.6,64.68
+     There you go, Bob.
+},
+{
+    64.68,66.2
+     Say no more, say no more. Let's get on with this. Let's week for the whole year. There you go, Bob. Say no more, say no more.
+},
+{
+    66.2,67.04
+     Let's get on with this.
+},
+{
+    67.04,68.32
+     Let's get started with the show.
+},
+{
+    68.32,69.16
+     There you go.
+},
+{
+    69.16,73.4
+     Bob, as you and I know from back pain ourselves,
+},
+{
+    73.4,75.8
+     as well as hundreds or thousands of patients
+},
+{
+    75.8,78.52
+     over the last 20 and 30 years for us,
+},
+{
+    78.52,81.4
+     the first thing you wanna do is get them comfortable
+},
+{
+    81.4,83.68
+     and see if you can relax the muscles
+},
+{
+    83.68,87.2
+     and get that pain to come down very quickly.
+},
+{
+    87.2,91.14
+     And posture is one of the key issues with it.
+},
+{
+    91.14,93.66
+     And the next thing you can either apply some heat to it
+},
+{
+    93.66,96.32
+     or cold to it, depending on the situation.
+},
+{
+    96.32,97.16
+     Yeah, the whole thing,
+},
+{
+    97.16,100.12
+     and the reason our back is spasming,
+},
+{
+    100.12,103.72
+     it's trying to splint and support them
+},
+{
+    103.72,105.18
+     so you don't bend the back.
+},
+{
+    105.18,108.44
+     Right, it's a natural mechanism for the body
+},
+{
+    108.44,109.38
+     to protect itself.
+},
+{
+    109.38,111.64
+     Yeah, and it's usually trying to protect itself
+},
+{
+    111.64,113.78
+     from going into a bad position.
+},
+{
+    113.78,116.4
+     So a lot of times if you put it into a good position,
+},
+{
+    116.4,117.82
+     a lot of times that's gonna calm it down.
+},
+{
+    117.82,119.56
+     Sure, you bet.
+},
+{
+    119.56,123.56
+     So the first thing is also with this,
+},
+{
+    123.56,125.0
+     we're gonna talk about briefly
+},
+{
+    125.08,128.98
+     if you have pain going down the leg,
+},
+{
+    128.98,130.24
+     that's gonna change things.
+},
+{
+    130.24,132.36
+     For the most part, we're talking about that pain
+},
+{
+    132.36,135.08
+     that's in the back, it's central in the back,
+},
+{
+    135.08,138.08
+     maybe in the buttock a little bit.
+},
+{
+    138.08,140.32
+     But if you got pain running down the leg,
+},
+{
+    140.32,142.28
+     that puts it in a different category.
+},
+{
+    142.28,144.2
+     That's more sciatica and you should probably check out
+},
+{
+    144.2,145.56
+     some of our sciatica videos.
+},
+{
+    145.56,146.9
+     There you go.
+},
+{
+    146.9,150.2
+     So the first thing is find a position
+},
+{
+    150.2,151.84
+     that you can get it to relax.
+},
+{
+    151.84,154.56
+     And if you can do this either in a seated chair,
+},
+{
+    154.56,156.88
+     depending on the chair or laying down,
+},
+{
+    156.88,159.44
+     we're gonna cover all three of those positions.
+},
+{
+    159.44,162.2
+     So if you're in a chair, now personally,
+},
+{
+    162.2,168.04
+     what I do is I use a recliner and my recliner obviously reclines,
+},
+{
+    168.04,171.84
+     but I absolutely must have lumbar support
+},
+{
+    171.84,174.96
+     because most furniture and recliners
+},
+{
+    174.96,177.16
+     do not have enough lumbar support right in here.
+},
+{
+    177.16,179.16
+     When you're sinking in and you're going into
+},
+{
+    179.16,181.88
+     that rounded out position and generally,
+},
+{
+    181.88,183.88
+     with most people the rounded out position,
+},
+{
+    183.88,190.02
+     that slumped position is the one that may be causing your pain. So we want to get you. I got a shom on here
+},
+{
+    190.02,195.3
+     Oh go ahead Bob show him the anatomy again. So the bones are the strongest
+},
+{
+    195.3,202.38
+     This is the vertebrae is standing up just like Brad right now facing this way and generally the back is the strongest
+},
+{
+    202.38,205.96
+     When you have a slight curve in slight slight curve out, slight curve in.
+},
+{
+    206.0,208.8
+     So the more you can get your spine in that position,
+},
+{
+    209.32,214.04
+     generally the better it's going to be and the less pain it's going to have. The bad position generally is this.
+},
+{
+    214.04,216.04
+     Right. That's slow.
+},
+{
+    216.04,218.04
+     So if you're in a recliner that's
+},
+{
+    218.88,224.0
+     that soft and you're sinking in like this, you're going to be in that rounded out position.
+},
+{
+    224.0,227.68
+     You want to be in that rounded out position. You wanna be in that S curve.
+},
+{
+    227.68,230.2
+     And that's why you use a lumbar support.
+},
+{
+    230.2,232.04
+     And also by reclining,
+},
+{
+    232.04,234.0
+     you're actually taking some of the weight off the spine.
+},
+{
+    234.0,234.84
+     Yeah, so.
+},
+{
+    234.84,235.8
+     Exactly.
+},
+{
+    235.8,239.36
+     So you can use a tall roll like this
+},
+{
+    239.36,241.92
+     for that lumbar support right in here.
+},
+{
+    241.92,243.2
+     You can use a throw pillow.
+},
+{
+    243.2,244.56
+     I have a lot of my patients have that.
+},
+{
+    244.56,246.4
+     That's what I use as a throw pillow all the time.
+},
+{
+    246.4,248.32
+     If it's not too big or the size is right.
+},
+{
+    248.32,250.96
+     Typically a head pillow gets too big,
+},
+{
+    250.96,253.8
+     but sometimes I've had people had success with those.
+},
+{
+    253.8,256.08
+     You can purchase lumbar supports
+},
+{
+    256.08,257.92
+     like this is a memory foam one.
+},
+{
+    257.92,259.96
+     But what I'm gonna say then,
+},
+{
+    259.96,261.68
+     when you get that position
+},
+{
+    261.68,268.24
+     and you find the back pain is relieving, then depending on what you respond better to,
+},
+{
+    268.48,272.32
+     you may know already if you use a cold pack or a hot pack.
+},
+{
+    273.84,275.96
+     You've been using, well you use both, don't you Brad?
+},
+{
+    275.96,280.18
+     I do, if I have a real severe back pain
+},
+{
+    280.18,282.32
+     and it just happened because I did something silly,
+},
+{
+    282.32,284.88
+     like I was out working too hard and bending and lifting
+},
+{
+    284.88,286.34
+     and I knew I shouldn't have been doing it.
+},
+{
+    286.34,287.68
+     Then I'll use a cold pack,
+},
+{
+    287.68,290.44
+     but if I just got tight muscles and they're spasming
+},
+{
+    290.44,291.86
+     and it just feel tight,
+},
+{
+    291.86,293.96
+     then I'm gonna go to a hot pack.
+},
+{
+    293.96,295.0
+     Okay.
+},
+{
+    295.0,296.36
+     And when I do use hot packs,
+},
+{
+    296.36,298.48
+     what I use is the Thermotex.
+},
+{
+    298.48,299.32
+     Yeah.
+},
+{
+    299.32,300.68
+     Thermotex is infrared heat.
+},
+{
+    300.68,301.52
+     Right.
+},
+{
+    301.52,303.96
+     Or infrared rays, I don't know what you'd call them.
+},
+{
+    303.96,306.04
+     But the reason why we like the Thermotex
+},
+{
+    306.04,307.2
+     and Brad and I both use this,
+},
+{
+    307.2,309.6
+     I just have it in my chair every night,
+},
+{
+    309.6,311.72
+     especially when it's cold like this now,
+},
+{
+    311.72,316.08
+     27 below in my area, 29 below in your area this morning.
+},
+{
+    316.08,318.4
+     Whatever, it's freezing water pretty quick.
+},
+{
+    318.4,320.08
+     I actually sat on mine this morning.
+},
+{
+    320.08,322.92
+     I did, we're having our floors done,
+},
+{
+    322.92,325.76
+     so I had to eat my cereal, watch it, TV,
+},
+{
+    325.76,328.28
+     and I put the thermotex on even for that little bit.
+},
+{
+    328.28,330.28
+     So you can actually even leave it on.
+},
+{
+    330.28,333.76
+     But the reason why we like the thermotex over regular heat,
+},
+{
+    333.76,335.8
+     I'm just gonna show you this demonstration real quick.
+},
+{
+    335.8,339.56
+     Regular heat only penetrates a minimal amount here,
+},
+{
+    339.56,341.32
+     just like a millimeter or two.
+},
+{
+    341.32,342.68
+     And when he says regular heat,
+},
+{
+    342.68,347.24
+     that's a standard hot pack, a convection hot pack technically,
+},
+{
+    347.24,349.92
+     and it just heats up by contact.
+},
+{
+    349.92,353.44
+     Infrared is sending out the infrared rays
+},
+{
+    353.44,355.4
+     that are like the sun puts out,
+},
+{
+    355.4,356.76
+     and it goes much deeper.
+},
+{
+    356.76,358.92
+     It goes much deeper, 2.36?
+},
+{
+    358.92,359.92
+     2.36.
+},
+{
+    359.92,361.4
+     2.36 inches.
+},
+{
+    361.4,364.48
+     And so you can see that penetrates down,
+},
+{
+    364.48,366.04
+     that's starting to get into the spine.
+},
+{
+    366.04,368.32
+     So into the joints of the spine.
+},
+{
+    368.32,369.92
+     The muscles in your back, you know,
+},
+{
+    369.92,373.52
+     you've got some fairly thick muscles, bands of muscles.
+},
+{
+    373.52,375.72
+     So that's why we use that.
+},
+{
+    375.72,376.56
+     Now the key is-
+},
+{
+    376.56,377.96
+     The wrap and the knuckles like the old nuns.
+},
+{
+    377.96,381.0
+     Bob, why, Bob, why, once again.
+},
+{
+    381.0,384.84
+     Anyways, seriously, take your hot pack,
+},
+{
+    384.84,387.08
+     whatever you're using, hot pack or cold pack,
+},
+{
+    387.08,389.94
+     and put it back and use that physically
+},
+{
+    389.94,391.76
+     as part of the lumbar support.
+},
+{
+    391.76,394.88
+     So that is giving the physical comfort
+},
+{
+    394.88,396.36
+     and then you add in the heat.
+},
+{
+    396.36,399.16
+     So you have this and then you'd have the thermotex
+},
+{
+    399.16,401.72
+     over the top of it or this and the cold pack
+},
+{
+    401.72,402.56
+     over the top.
+},
+{
+    402.56,404.96
+     Right, as a matter of fact, I actually just use this
+},
+{
+    404.96,406.4
+     because it offers enough support.
+},
+{
+    406.4,408.16
+     It's enough lumbar support for him.
+},
+{
+    408.16,410.04
+     Yeah, and I don't need to have the,
+},
+{
+    410.04,412.24
+     the, there's the cold pack.
+},
+{
+    412.24,413.08
+     The cushion.
+},
+{
+    413.08,415.08
+     If you're using the cold pack,
+},
+{
+    415.08,418.8
+     you definitely need a cold pack that doesn't freeze hard.
+},
+{
+    418.8,421.84
+     When it comes out of the freezer, it needs to be pliable.
+},
+{
+    421.84,424.12
+     And do not put it directly on your skin.
+},
+{
+    424.12,426.16
+     Make sure you have at least a layer of clothing.
+},
+{
+    426.16,428.48
+     We actually have a video on how to make a cold pack.
+},
+{
+    428.48,429.32
+     Yep.
+},
+{
+    429.32,430.16
+     Very inexpensive.
+},
+{
+    430.16,433.24
+     If you want to just look up Bob and Brad cold pack.
+},
+{
+    433.24,434.08
+     Yep.
+},
+{
+    434.08,435.52
+     And it's just, you know, rubbing alcohol
+},
+{
+    435.52,437.84
+     and some freezer bags and some tap water.
+},
+{
+    437.84,438.68
+     Yeah.
+},
+{
+    438.68,441.32
+     This time of year when it was 29 below,
+},
+{
+    441.32,443.12
+     I didn't even want to put this on my back right now.
+},
+{
+    443.12,444.84
+     But I'm good, I'm going to sacrifice it
+},
+{
+    444.84,446.16
+     for the viewers.
+},
+{
+    446.16,447.28
+     Thank you for that million.
+},
+{
+    447.28,450.16
+     I'm gonna enjoy this cold back right now.
+},
+{
+    450.16,451.0
+     There you go.
+},
+{
+    451.0,451.84
+     There you go.
+},
+{
+    451.84,453.56
+     Now, and that's in the seated position.
+},
+{
+    453.56,457.04
+     Oftentimes people can find better relief laying down.
+},
+{
+    457.04,457.88
+     Right.
+},
+{
+    458.92,461.04
+     So we're gonna show you a few tricks
+},
+{
+    461.04,462.76
+     that we've learned over the years.
+},
+{
+    463.68,464.98
+     Now in your bed,
+},
+{
+    466.08,467.36
+     you can take pillows.
+},
+{
+    467.36,469.28
+     Yeah, here show them the pillow trick, Bob.
+},
+{
+    469.28,471.88
+     Yeah, you can show pillows and put them underneath the-
+},
+{
+    471.88,473.8
+     I had that other pillow here for you.
+},
+{
+    473.8,475.84
+     Yeah, you need quite a few, that's the thing.
+},
+{
+    475.84,478.52
+     For my head, Bob, I want a pillow for my head.
+},
+{
+    478.52,479.76
+     Okay.
+},
+{
+    479.76,481.36
+     There, there, oh, thank you.
+},
+{
+    481.36,482.2
+     All right.
+},
+{
+    482.2,485.56
+     So this will typically be better than nothing,
+},
+{
+    485.56,488.32
+     but we've found that this leg wedge
+},
+{
+    488.32,491.04
+     does a tremendous job of relieving pressure.
+},
+{
+    491.04,493.48
+     I can't tell you how many times I've used this field.
+},
+{
+    493.48,495.16
+     People just love it.
+},
+{
+    495.16,498.32
+     The other thing, this is totally off on a different story,
+},
+{
+    498.32,501.64
+     but tangent, but I have a patient who's got
+},
+{
+    501.64,504.4
+     lymphedema in his legs, and this just works so well
+},
+{
+    504.4,505.1
+     to put his legs up
+},
+{
+    505.1,506.9
+     and then he does his ankle pumps like this.
+},
+{
+    506.9,508.74
+     This pumps that fluid right out of there.
+},
+{
+    508.74,511.74
+     I've had this work for knee pain, hip pain, back pain,
+},
+{
+    511.74,512.78
+     the whole works.
+},
+{
+    512.78,516.58
+     And then you take your hot pack,
+},
+{
+    516.58,517.86
+     you know, you put it under there first,
+},
+{
+    517.86,519.86
+     you don't have to go through this gyration,
+},
+{
+    519.86,520.7
+     especially when you got a-
+},
+{
+    520.7,521.54
+     No, you're getting your-
+},
+{
+    521.54,522.38
+     A mic wire.
+},
+{
+    522.38,523.22
+     You're getting your mic wire there.
+},
+{
+    523.22,524.46
+     You're probably not gonna have a mic wire
+},
+{
+    524.46,525.92
+     when you're at home.
+},
+{
+    525.92,528.0
+     And then your cold pack can go under there
+},
+{
+    528.0,530.2
+     or your hot pack.
+},
+{
+    530.2,531.36
+     You want to be a little careful
+},
+{
+    531.36,533.4
+     if you're laying on a hot pack
+},
+{
+    533.4,536.56
+     because it can get burned.
+},
+{
+    536.56,538.28
+     I mean, because you're compressing,
+},
+{
+    538.28,539.84
+     there's not as much blood flow there.
+},
+{
+    539.84,543.36
+     Thermotex less likely because of that radiant heat.
+},
+{
+    543.36,545.58
+     It just doesn't, I mean that infrared heat.
+},
+{
+    545.58,547.76
+     It's not as intense.
+},
+{
+    547.76,548.8
+     There's only one level.
+},
+{
+    548.8,551.68
+     It's not like the convection where you have three levels.
+},
+{
+    551.68,553.3
+     And if you fall asleep on this,
+},
+{
+    553.3,554.64
+     you don't want to fall asleep on either.
+},
+{
+    554.64,556.72
+     No, not fall asleep on either one.
+},
+{
+    556.72,558.92
+     They recommend 45 minutes on the infrared
+},
+{
+    558.92,562.24
+     because it goes much deeper on the convection,
+},
+{
+    562.24,564.68
+     typically 20 to 30 minutes maximum.
+},
+{
+    565.46,568.9
+     Cold packs, you can fall asleep with a cold pack
+},
+{
+    568.9,571.12
+     because they just warm up.
+},
+{
+    571.12,572.2
+     Yeah, they tend to warm up.
+},
+{
+    572.2,574.06
+     Right, so it's not, you know, again,
+},
+{
+    574.06,575.66
+     not directly on your skin.
+},
+{
+    578.54,580.68
+     Generally, I mean, you want a cold pack
+},
+{
+    580.68,582.72
+     for about 20 minutes anyway, and by that,
+},
+{
+    582.72,584.04
+     it's warming up anyway.
+},
+{
+    584.04,586.32
+     I have fallen asleep with a cold pack. Yeah, and anyway. And by that, it's warming up anyway. I have fallen asleep with a cold pack.
+},
+{
+    586.32,588.64
+     Yep, and then in bed I've done it.
+},
+{
+    588.64,590.16
+     I just take it out, put it on the floor
+},
+{
+    590.16,592.24
+     the next morning, throw it in the freezer again.
+},
+{
+    592.24,594.04
+     This is the cycle, Bob.
+},
+{
+    594.04,595.44
+     The world is a cycle.
+},
+{
+    595.44,596.44
+     Cycle and weight.
+},
+{
+    596.44,598.52
+     I'll learn how to manage your back pain sometimes,
+},
+{
+    598.52,601.2
+     especially if you've got kind of a chronic situation.
+},
+{
+    601.2,605.32
+     So the other point, Brad, you can actually try laying down
+},
+{
+    605.32,606.16
+     that I have the pillow.
+},
+{
+    606.16,607.56
+     Oh yeah.
+},
+{
+    607.56,610.44
+     You know, I used to have success with laying on my stomach
+},
+{
+    610.44,614.84
+     years ago, and then as my spondylolisthesis progressed,
+},
+{
+    614.84,615.88
+     it's the worst thing I could do.
+},
+{
+    615.88,617.76
+     Yeah, it would not be good for spondylolisthesis,
+},
+{
+    617.76,619.58
+     but for a lot of back issues,
+},
+{
+    619.58,621.64
+     this actually is gonna feel good.
+},
+{
+    621.64,623.76
+     You can start with a couple pillows like this,
+},
+{
+    623.76,625.02
+     and just lay down like this
+},
+{
+    625.02,626.5
+     and then you can have another pillow here.
+},
+{
+    626.5,628.94
+     And just work your way.
+},
+{
+    628.94,630.58
+     And then I'm gonna put the cold pack on you
+},
+{
+    630.58,631.42
+     so you get the help stuff for that.
+},
+{
+    631.42,632.26
+     Thanks for that today.
+},
+{
+    632.26,634.54
+     Oh, appreciate that Brad.
+},
+{
+    634.54,635.82
+     Oh, that wakes me up.
+},
+{
+    635.82,636.66
+     There you go.
+},
+{
+    636.66,639.26
+     But eventually you can go work your way to the point
+},
+{
+    639.26,640.9
+     where you take maybe one pillow out
+},
+{
+    641.82,644.22
+     and then lay like that for a bit
+},
+{
+    644.22,645.84
+     and then you actually can take another pillow out and then you know lay like that for a bit and then you actually can take another pillow out
+},
+{
+    646.56,652.48
+     and lay like that and even on just regular old you know typical back pain after a while you might
+},
+{
+    652.48,658.88
+     even lay like this on the prone part we call it and it starts moving the back into that arch position
+},
+{
+    658.88,668.04
+     and a lot of times that helps calm things down and along that, you can put the hot pack, leave it on there while you're doing this,
+},
+{
+    668.04,670.6
+     as well as the cold pack,
+},
+{
+    670.6,673.2
+     whichever you respond better to.
+},
+{
+    673.2,674.84
+     You know, that's a big question, Bob.
+},
+{
+    674.84,677.84
+     People say, do I use heat or do I use cold?
+},
+{
+    677.84,681.04
+     And I've had people that don't respond
+},
+{
+    681.04,682.76
+     while it's cold no matter what.
+},
+{
+    682.76,683.92
+     Exactly.
+},
+{
+    683.92,684.76
+     And then on the other hand-
+},
+{
+    684.76,685.44
+     There's arthritis in there,
+},
+{
+    685.44,691.44
+     arthritis, the cold doesn't feel good. But one way or another, if it is an acute really sore and
+},
+{
+    691.44,696.96
+     tender to the touch where it's like, oh, it feels like it's all swollen, that's when I'm gonna say
+},
+{
+    696.96,702.32
+     back off on the heat, lean towards the cold. Yeah, especially for the first like 24 to 36 hours.
+},
+{
+    702.32,706.52
+     Right. Because there's swelling in your back, just like if you injure a joint,
+},
+{
+    706.52,707.82
+     you sprain your ankle,
+},
+{
+    707.82,710.0
+     you can definitely get swelling in your back too.
+},
+{
+    710.0,712.4
+     So, alright, well I hope we covered it.
+},
+{
+    712.4,714.6
+     And remember Brad and I can fix just about anything.
+},
+{
+    714.6,716.4
+     Except for a broken heart.
+},
+{
+    716.4,717.6
+     But we're working on that.
+},
+{
+    717.6,718.44
+     Yeah.
+},
+{
+    718.44,721.08
+     If you've ever, I ask you, do you ever break a heart?
+},
+{
+    721.08,724.48
+     Bob, Bob, how can you ask me those things?
+},
+{
+    724.48,725.0
+     This is, we don't do things from the neck out here. Thanks for watching. Breaking heart? Bob, Bob, how can you ask me those things?
+},
+{
+    725.0,727.0
+     We don't do things from the neck out here.
+},

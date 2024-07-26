@@ -1,0 +1,108 @@
+{
+    0.0,6.14
+     Splinters come in all shapes and sizes and can be quite painful.
+},
+{
+    6.14,11.82
+     To reduce pain and prevent infection, splinters should be removed as soon as you notice them.
+},
+{
+    11.82,16.78
+     To remove a splinter, follow these tips from dermatologists.
+},
+{
+    16.78,21.56
+     To prevent infection, wash your hands and the affected area with soap and water and
+},
+{
+    21.56,23.84
+     pat your skin dry.
+},
+{
+    23.84,25.04
+     Inspect the splinter.
+},
+{
+    25.04,30.96
+     If it's very small, use a magnifying glass to see how big the splinter is and which direction
+},
+{
+    30.96,32.4
+     it entered the skin.
+},
+{
+    32.4,37.88
+     If part of the splinter is sticking out, use tweezers to gently pull out the splinter.
+},
+{
+    37.88,42.6
+     First, sterilize the tip of the tweezers using rubbing alcohol.
+},
+{
+    42.6,45.04
+     Then pull out the splinter in the same direction that
+},
+{
+    45.04,50.84
+     it entered the skin. Never squeeze out a splinter, as this may cause it to break into smaller
+},
+{
+    50.84,56.8
+     pieces that are harder to remove. If the entire splinter is embedded under the skin, use a
+},
+{
+    56.8,61.64
+     small needle to remove it. Stereolize the needle and a pair of tweezers using rubbing
+},
+{
+    61.64,65.4
+     alcohol. Afterwards, look through a magnifying glass
+},
+{
+    65.4,68.28
+     and use the needle to gently pierce the surface of the skin
+},
+{
+    68.28,69.88
+     at one end of the splinter.
+},
+{
+    69.88,72.64
+     Continue to use the needle to carefully push out
+},
+{
+    72.64,73.84
+     part of the splinter.
+},
+{
+    73.84,76.68
+     Once one end of the splinter is sticking out,
+},
+{
+    76.68,79.86
+     use the tweezers to gently pull out the splinter.
+},
+{
+    81.08,83.32
+     After the splinter has been removed,
+},
+{
+    83.32,87.0
+     clean the area with soap and water and apply petroleum jelly.
+},
+{
+    87.0,91.0
+     Keep the area covered with a bandage until it heals.
+},
+{
+    91.0,97.0
+     Most splinters can be safely removed at home, but some may require medical assistance.
+},
+{
+    97.0,108.0
+     See your doctor or a board-certified dermatologist if your splinter is very large, deep, located in or near your eye, or if the area becomes infected.
+},
+{
+    108.0,112.16
+     To find a dermatologist in your area, visit aad.org.
+},

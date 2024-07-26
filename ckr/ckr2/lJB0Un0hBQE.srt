@@ -1,0 +1,32 @@
+{
+    0.0,6.36
+     Once you've assessed that the infant is not breathing and is not alert in a wake, you
+},
+{
+    6.36,8.0
+     need to call for help.
+},
+{
+    8.0,13.72
+     Tilt the head back and lift the chin up so that you open up the airway.
+},
+{
+    13.72,19.6
+     You'll then pinch the nose with one hand and you will deliver a rescue breath over one
+},
+{
+    19.6,27.36
+     second and you should have sufficient air blowing into the baby to see both of the chest walls rise.
+},
+{
+    27.36,34.8
+     So you do 30 chest compressions and you give two rescue breaths. If you are the only person there,
+},
+{
+    34.8,39.96
+     then you start chest compressions and rescue breaths for two minutes and then you need to
+},
+{
+    39.96,42.96
+     leave the side of the infant and call 911 for help.
+},

@@ -1,0 +1,200 @@
+{
+    0.0,10.2
+     Hi, my name is Lois Baldry and one of the Skin Cancer Specialists nurses at the Bristol
+},
+{
+    10.2,16.96
+     Dermatology Centre. Today I'm going to show you how to check your lymph nodes. Lymph nodes
+},
+{
+    16.96,26.5
+     are found in several areas of the body, predominantly the head, neck, armpits and groin area. Skin cancer can spread to the lymph nodes,
+},
+{
+    26.5,33.08
+     so it's important to check them regularly in order to detect changes early. It's advisable
+},
+{
+    33.08,38.52
+     that you check your nodes once a month. It is important not to do this too often,
+},
+{
+    38.52,48.4
+     otherwise you may not notice any changes. It should be noted that not all swollen glands mean cancer. It is common that
+},
+{
+    48.4,56.0
+     if you have a sore throat or a cold, your lymph nodes can temporarily enlarge as they fight infection.
+},
+{
+    56.64,65.92
+     Enlarged lymph nodes are not usually painful and they often feel like a pee, olive, or smooth pebble under the skin.
+},
+{
+    65.92,73.0
+     To check your lymph nodes, you need to check the areas closest to where you have had your skin cancer removed.
+},
+{
+    73.0,80.52
+     It is important to check both sides of your body so that you become familiar with what is normal for you.
+},
+{
+    81.52,87.74
+     So now we're going to show you how to check your lymph nodes from home. I've got
+},
+{
+    87.74,93.12
+     Harriet here with me today who is kindly going to demonstrate how to do this. First of all,
+},
+{
+    93.12,98.96
+     we're going to show you how to check your head and neck lymph nodes. If you start with
+},
+{
+    98.96,108.0
+     using your two fingers, you want to do a stroking motion down and in front of your ears.
+},
+{
+    108.0,113.28
+     That's it and you're feeling for pea-sized or marble-sized lumps.
+},
+{
+    113.28,117.3
+     Next you want to feel down the side of your neck.
+},
+{
+    117.3,128.46
+     You want to again check both sides of your neck, but start using maybe your right arm and with the flat of your hand tip your ear down towards your shoulder and
+},
+{
+    129.34,136.94
+     With a stroking motion go down towards your chest. That's it perfect and you want to do the same on the other side
+},
+{
+    138.1,140.1
+     perfect
+},
+{
+    140.98,150.46
+     Next you want to check behind your ears. So with two fingers, you want to do a nice stroking motion straight from the top of your
+},
+{
+    150.46,151.46
+     ear down.
+},
+{
+    151.46,152.46
+     Perfect.
+},
+{
+    152.46,158.74
+     So from where your jaw bends, you want to pinch that area just gently, feeling for any
+},
+{
+    158.74,160.22
+     lumps.
+},
+{
+    160.22,165.0
+     Then you want to come along underneath your jaw with two fingers.
+},
+{
+    166.08,170.58
+     Come underneath the jaw to the front and back again.
+},
+{
+    172.04,174.04
+     Don't tip your head back too far.
+},
+{
+    174.04,176.6
+     That's it. Keep your head in a nice neutral position.
+},
+{
+    178.44,180.68
+     Next, you want to feel behind your head.
+},
+{
+    180.68,187.44
+     So with two fingers, if you want to tip your head slightly back and do a stroking
+},
+{
+    187.44,196.84
+     motion along where the nape of your neck is, that's perfect. Finally, you want to check
+},
+{
+    196.84,206.0
+     for any lymph nodes behind your collarbones. So if you just bring your shoulders forward slightly and shrug, that's perfect.
+},
+{
+    206.0,209.0
+     And then you want to feel into the dip. That's it.
+},
+{
+    211.0,212.0
+     Perfect.
+},
+{
+    213.0,217.0
+     So now we're going to show you how to check the lymph nodes under your armpits.
+},
+{
+    217.0,226.84
+     So Harriet, if you can take your right hand, you want to use the flats of your fingers as best as you possibly can. It
+},
+{
+    226.84,231.76
+     is awkward and you want to keep the left shoulder as relaxed as you possibly can.
+},
+{
+    231.76,238.52
+     So you can start with having your hand on your hip, you want to place your
+},
+{
+    238.52,248.72
+     fingers into your armpit and you want to press up towards your shoulder. You then want to roll your fingers
+},
+{
+    249.28,258.16
+     towards your rib cage and feel in circular motions just as you're doing. So now you want to use your
+},
+{
+    258.16,265.32
+     thumb and if you press down as you are, perfect And you want to feel the tissue between your fingers
+},
+{
+    265.32,274.22
+     and thumb. Excellent. So finally, you want to move your hand up to the top of your arm
+},
+{
+    274.22,281.0
+     and have a feel under there. Perfect. So we're now going to show you how to check the lymph
+},
+{
+    281.0,289.3
+     nodes in your groin area. Harriet's going to have a feel along the area where her leg bends, feel slightly
+},
+{
+    289.3,293.18
+     above that line and below that line in a slightly circular
+},
+{
+    293.18,299.02
+     motion. Perfect. All the way along. And then there's an area
+},
+{
+    299.22,304.98
+     of lymph nodes down the inside of the leg in a V shape. And it
+},
+{
+    304.98,307.56
+     comes they come down to about short level if you
+},
+{
+    307.56,311.36
+     were wearing a pair of shorts.
+},
+{
+    311.36,313.24
+     And of course you want to check both sides.
+},

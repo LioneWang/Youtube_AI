@@ -1,0 +1,140 @@
+{
+    0.0,19.88
+     Hi, my name is Angela Hammett. I'm the Perinatal Education Coordinator at Woman's Hospital
+},
+{
+    19.88,26.64
+     and I'm going to teach you how to use a bulb syringe on your baby. Occasionally your baby may have some,
+},
+{
+    26.64,30.02
+     may spit up and need to have their mouth suction.
+},
+{
+    30.02,31.4
+     Sometimes babies will also,
+},
+{
+    31.4,32.84
+     when they get their first little cold,
+},
+{
+    32.84,35.12
+     need to have their nose suctioned as well
+},
+{
+    35.12,37.6
+     to help them be able to breathe better.
+},
+{
+    37.6,40.16
+     This is the bulb that we use at Woman's Hospital
+},
+{
+    40.16,42.88
+     and we encourage you to take this bulb home with you.
+},
+{
+    42.88,44.62
+     And if you care for it properly,
+},
+{
+    44.62,47.08
+     it can be used throughout your baby's first year or
+},
+{
+    47.08,48.88
+     two.
+},
+{
+    48.88,54.48
+     When you go to use the bulb syringe, I always teach my patients to make a peace sign and
+},
+{
+    54.48,57.56
+     then drop it in and then use their thumb.
+},
+{
+    57.56,61.72
+     That way you have complete control over the bulb syringe.
+},
+{
+    61.72,65.32
+     What you're going to want to do is squeeze out all of the air before you
+},
+{
+    65.32,71.9
+     approach your baby. If you need to suction out both the baby's mouth and nose, we recommend
+},
+{
+    71.9,77.88
+     that you do the mouth first. So what you'll do is you'll insert the bulb syringe into
+},
+{
+    77.88,87.88
+     the side of the baby's cheek and go ahead and suction. And then you'll have a towel nearby that you can get all the excess out.
+},
+{
+    87.88,91.44
+     And then we'll suction the baby's other side of the cheek
+},
+{
+    91.44,92.88
+     and get that out.
+},
+{
+    92.88,95.44
+     When it's time to suction your baby's nose,
+},
+{
+    95.44,98.2
+     you can occlude one nostril
+},
+{
+    98.2,101.8
+     while you put the bulb syringe in the other nostril.
+},
+{
+    101.8,103.9
+     You don't have to push it up very far at all,
+},
+{
+    103.9,109.06
+     just right inside the tip of the nostril. And then we'll get whatever's out and we'll
+},
+{
+    109.06,116.58
+     repeat on the other side. Once you have finished using your bulb syringe, it's
+},
+{
+    116.58,120.58
+     very important that you take care of it and that you clean it after every use.
+},
+{
+    120.58,126.5
+     We recommend that you clean it with warm soapy water. So what you'll do is you'll
+},
+{
+    126.5,135.3
+     suck up the warm soapy water and then push it out and repeat that a couple of times. When you go
+},
+{
+    135.3,141.58
+     to dry the bulb syringe, it's very important that you not store it face up because we want all of
+},
+{
+    141.58,145.36
+     the water to drip out. So I would recommend that you store it
+},
+{
+    145.36,150.96
+     on the edge of the sink face down. For more information or to watch any more of our videos,
+},
+{
+    150.96,156.56
+     please visit our website at womens.org or our YouTube station at youtube.com slash
+},
+{
+    156.56,156.92
+     womenshospitalbr.
+},

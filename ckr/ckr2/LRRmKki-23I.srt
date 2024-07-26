@@ -1,0 +1,248 @@
+{
+    0.0,8.0
+     Okay, now in this training segment we're going to talk about what to do when your conscious
+},
+{
+    8.0,11.92
+     choking infant has gone unresponsive.
+},
+{
+    11.92,16.96
+     Now if you've not already activated EMS by calling 911 or calling a code, now is your
+},
+{
+    16.96,18.62
+     opportunity to do so.
+},
+{
+    18.62,23.08
+     If you don't have a cell phone available or you don't have a runner to go call 911 or
+},
+{
+    23.08,25.0
+     there's not a code button, you're
+},
+{
+    25.0,26.68
+     going to have to do it yourself.
+},
+{
+    26.68,32.0
+     I like to bring the baby with me so that I have them available either to do CPR in route
+},
+{
+    32.0,36.54
+     or I have them so that once I've activated EMS, they're right there with me and I can
+},
+{
+    36.54,38.28
+     begin my compressions again.
+},
+{
+    38.28,43.36
+     However, after we've told somebody, you in the plaid shirt, go call 911, come back, I
+},
+{
+    43.36,46.68
+     might need your help and bring an AED if you can find one.
+},
+{
+    46.68,50.32
+     Now we're going to actually go right into chest compressions.
+},
+{
+    50.32,53.04
+     The reason we're doing that is because we were already
+},
+{
+    53.04,55.36
+     with the baby when conscious choking.
+},
+{
+    55.36,56.78
+     If you weren't with the baby,
+},
+{
+    56.78,58.76
+     you might need to start with a reassessment.
+},
+{
+    58.76,60.92
+     But we're gonna say we're continuing on.
+},
+{
+    60.92,62.86
+     Baby was conscious, they were choking,
+},
+{
+    62.86,69.72
+     now they're unconscious and they're still choking. Nipple line for the landmark, two fingers down in the lower third of the
+},
+{
+    69.72,75.36
+     sternum, third the depth of the chest for compressions at 100 to 120 compressions per
+},
+{
+    75.36,91.56
+     minute. We're going to start right now. One and two and three and four and five and six, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+},
+{
+    91.56,95.24
+     I bring the baby's head into a neutral position and look in the mouth.
+},
+{
+    95.24,96.24
+     See if there's product.
+},
+{
+    96.24,100.28
+     If I don't see product, I'm not going in first a blind finger sweep.
+},
+{
+    100.28,102.36
+     That's contraindicated in babies.
+},
+{
+    102.36,105.9
+     I don't see anything visibly, so I'm going to go ahead and attempt a rescue breath.
+},
+{
+    107.92,110.56
+     Nothing goes in so I reposition the head and try again.
+},
+{
+    111.88,115.88
+     Nothing goes in so I'm going to go right back into my 30 chest compressions.
+},
+{
+    116.32,121.48
+     After my 30 chest compressions, I relook in the mouth and look for an object.
+},
+{
+    121.56,126.76
+     But I do see an object so I'm going to sweep it out with my smallest finger I have, my pinky.
+},
+{
+    126.76,129.64
+     I go in with a hooking motion and try to sweep it out.
+},
+{
+    129.64,132.68
+     After the object is clear, I reseal my rescue mask
+},
+{
+    132.68,134.2
+     and try another rescue breath.
+},
+{
+    135.98,138.26
+     Ah, the chest rose and fell.
+},
+{
+    139.16,141.4
+     And I get a second rescue breath.
+},
+{
+    141.4,143.26
+     Now, as a healthcare provider,
+},
+{
+    143.26,147.42
+     I check a brachial pulse for no more than 10 seconds.
+},
+{
+    147.42,150.4
+     Now, in infants, if their heart rate is lower
+},
+{
+    150.4,154.44
+     than 60 beats per minute, it's indicated that we override
+},
+{
+    154.44,157.08
+     with chest compressions in CPR.
+},
+{
+    157.08,159.2
+     But if we're not supposed to check for a pulse
+},
+{
+    159.2,160.76
+     for more than 10 seconds,
+},
+{
+    160.76,164.36
+     how do we know that it's only 60 beats per minute?
+},
+{
+    164.36,169.44
+     You can multiply it times six when you check it for 10 seconds.
+},
+{
+    169.44,174.64
+     So for instance, a baby who's been in distress not breathing is probably going to be a bit
+},
+{
+    174.64,175.64
+     tachycardic.
+},
+{
+    175.64,182.0
+     Now remember, infants can range on the high end between 120 to 180 beats per minute depending
+},
+{
+    182.0,183.32
+     on their age.
+},
+{
+    183.32,188.36
+     So it's not going to be abnormal to feel a really fast and maybe even a slightly thready
+},
+{
+    188.36,189.56
+     pulse.
+},
+{
+    189.56,192.88
+     What we call thready is thin like it's getting weaker.
+},
+{
+    192.88,196.72
+     And I check for 10 seconds and it's 30 beats in that 10 seconds.
+},
+{
+    196.72,198.24
+     I'm watching my watch.
+},
+{
+    198.24,202.4
+     I check it for 10 seconds and it came to 30.
+},
+{
+    202.4,206.92
+     30 times 6 is 180 beats per minute. So we've got plenty
+},
+{
+    206.92,213.22
+     of heart contractions going on and a great rate, but the baby's not breathing normally.
+},
+{
+    213.22,217.88
+     So I'm going to go right back into my rescue breaths. Rescue breaths without compressions
+},
+{
+    217.88,223.96
+     is once every three seconds for two minutes. After approximately two minutes, I'm going
+},
+{
+    223.96,230.4
+     to reassess for a brachial pulse. And if the pulse is gone and the baby's not breathing, I go right
+},
+{
+    230.4,235.32
+     into full CPR. 30 compressions, two rescue breaths, and I'm going to do that
+},
+{
+    235.32,243.72
+     until help arrives, until an AED arrives, or until the baby revives.
+},

@@ -1,0 +1,300 @@
+{
+    0.0,14.68
+     Hello, I'm Dr. Rick Green, a surgeon from Charlotte, North Carolina.
+},
+{
+    14.68,19.76
+     It is a pleasure to introduce this wound care program developed by your health care team
+},
+{
+    19.76,23.88
+     and patients and sponsored by the American College of Surgeons.
+},
+{
+    23.88,28.96
+     The wound care program including videos, and checklist, will teach you how
+},
+{
+    28.96,31.04
+     to care for your wound.
+},
+{
+    31.04,36.04
+     Use the skills checklist inside the back cover of the booklet to guide you through the steps
+},
+{
+    36.04,37.48
+     in your care.
+},
+{
+    37.48,44.56
+     Your feedback is important, so please complete the patient evaluation form by mail or online.
+},
+{
+    44.56,49.66
+     I wish you all the best for your recovery.
+},
+{
+    49.66,54.8
+     This program will educate you about cleaning your wound that is closed with sutures, also
+},
+{
+    54.8,61.2
+     called stitches, staples, sterile strips, or tissue adhesive.
+},
+{
+    61.2,69.9
+     Many wounds will heal on their own with basic first aid care. To clean your wound, take off jewelry. Wet and wash hands that are
+},
+{
+    69.9,74.4
+     visibly dirty with soap and water for 15 to 30 seconds.
+},
+{
+    74.4,80.1
+     Use a 60% alcohol-based hand gel if hands are not visibly dirty.
+},
+{
+    80.1,84.54
+     Soak clean gauze or a cloth with soap and water
+},
+{
+    84.54,90.0
+     and dab around the staple or suture line to remove dried blood or drainage.
+},
+{
+    90.0,97.0
+     The incision line is the least contaminated, so start there and clean outward away from the wound.
+},
+{
+    97.0,106.0
+     Drive the area completely with clean gauze or towel, dabbing around the sutures or staples. You may usually keep the area
+},
+{
+    106.0,110.56
+     open to air if the staple or suture line is not draining.
+},
+{
+    110.56,117.56
+     Repeat cleaning around the wound site daily. You should be able to shower 24 to 48 hours
+},
+{
+    117.6,123.8
+     after sutures or staples are in place if your health care provider approves.
+},
+{
+    123.8,128.0
+     Let the water run on the wound to completely rinse the soap away.
+},
+{
+    128.0,133.0
+     If you have a scalp wound that has been closed with sutures or staples,
+},
+{
+    133.0,136.0
+     you should be able to shampoo your hair gently and rinse.
+},
+{
+    136.0,140.0
+     Try not to let water pool around the wound,
+},
+{
+    140.0,143.0
+     and pat gently with a towel to dry.
+},
+{
+    143.0,149.5
+     Your doctor should advise you when to come back to get the sutures or stables removed.
+},
+{
+    149.5,153.0
+     The timing varies depending on the wound location.
+},
+{
+    153.0,160.0
+     If there is any drainage or signs of infection from the wound, let your health care provider know.
+},
+{
+    160.0,167.88
+     Sutures or staples in areas of the body that require a lot of movement they need to stay in place longer.
+},
+{
+    167.88,171.24
+     If your wound was closed with sutures or staples
+},
+{
+    171.24,173.44
+     there will usually be a scar.
+},
+{
+    173.44,179.48
+     Apply sunscreen with an SPF of 30 or higher to the wound after it has healed.
+},
+{
+    179.48,183.8
+     Sun protection may help reduce red or brown discoloration
+},
+{
+    183.8,186.88
+     and help the scar fade faster.
+},
+{
+    186.88,193.24
+     Although no scar can be completely eliminated, most scars fade over time.
+},
+{
+    193.24,197.32
+     Skin closure strips are often referred to as sterile strips.
+},
+{
+    197.32,202.48
+     They are sterile, tape strips reinforced with polyester that are used to hold the wound
+},
+{
+    202.48,210.1
+     edges closely together. Wound closure strips should be kept dry for the first 24 hours.
+},
+{
+    210.1,215.76
+     Ask your doctor if you can shower after that, but do not soak in a tub or pool until the
+},
+{
+    215.76,217.04
+     wound is healed.
+},
+{
+    217.04,221.28
+     Do not use creams or ointments over the wound or strips.
+},
+{
+    221.28,225.8
+     This may cause them to fall off and the wound can reopen.
+},
+{
+    225.8,232.0
+     Stereostrips will usually fall off by themselves after 7 to 10 days.
+},
+{
+    232.0,237.28
+     Tissue adhesive provides a strong, flexible and water resistant coating that bonds wound
+},
+{
+    237.28,242.96
+     edges together. The adhesive will fall off in about 7 days.
+},
+{
+    242.96,247.0
+     You can shower, but do not soak your wound in a tub or pool.
+},
+{
+    247.64,254.64
+     Be sure to gently dry the wound area. Do not use creams or ointments over the tissue
+},
+{
+    254.92,261.56
+     adhesive. This may cause the tissue adhesive to fall off and the wound can reopen. Do not
+},
+{
+    261.56,267.0
+     scratch, rub or pick at the adhesive, and do not put tape directly over the adhesive.
+},
+{
+    267.0,273.0
+     Some wounds, like jagged or circular wounds, may not be able to be closed.
+},
+{
+    273.0,280.0
+     Other wounds, like puncture wounds, may need to be kept open to drain so they do not become infected.
+},
+{
+    280.0,283.0
+     You should keep these wounds moist.
+},
+{
+    283.0,291.0
+     Ask your doctor if you need a special dressing, ointment or a gel to prevent the wound from drying out and forming a scab.
+},
+{
+    291.0,294.0
+     Wounds with scabs take longer to heal.
+},
+{
+    294.0,307.0
+     Draining wounds should be covered with a primary dressing or bandage to cover and protect the wound. Cover the wound area with a dressing larger than the wound. For large scrapes,
+},
+{
+    307.64,312.92
+     sores, burns, or persistent redness, your health care provider should tell you if you
+},
+{
+    312.92,319.44
+     need to use a treated or absorbent dressing. Use an adhesive dressing or bandage and change
+},
+{
+    319.44,326.0
+     it daily to keep the wound clean while it heals. If you have skin that is sensitive to adhesives,
+},
+{
+    326.0,331.0
+     try a non-adhesive gauze pad with paper tape available at a drugstore.
+},
+{
+    331.0,336.0
+     Visitors should wash their hands or use a 60% alcohol-based hand gel
+},
+{
+    336.0,338.0
+     before and after visiting.
+},
+{
+    338.0,342.0
+     Friends and families should not touch your wound or surgical site
+},
+{
+    342.0,346.24
+     unless they have been trained to do so.
+},
+{
+    346.24,353.12
+     Prevent the wound from reopening by keeping activity in that area to a minimum.
+},
+{
+    353.12,358.48
+     Carefully follow your doctor's instructions about wound care.
+},
+{
+    358.48,362.92
+     Call your doctor if you experience any of these signs.
+},
+{
+    362.92,366.12
+     Increase drainage or bleeding from the wound. Increased
+},
+{
+    366.12,372.12
+     swelling or redness around the wound. A foul odor or pus coming from the wound.
+},
+{
+    372.12,379.68
+     A fever of 101 degrees or 38.3 degrees centigrade. Wound tissue that changes
+},
+{
+    379.68,387.0
+     from pink to white, yellow or black in color. Increase size or depth of the wound. Pain at the site
+},
+{
+    388.6,395.6
+     that will not go away even after taking pain medication. A wound that has split open. Or
+},
+{
+    395.6,402.48
+     a wound where stitches or staples have come out too soon. If your wound does open, cover
+},
+{
+    402.48,405.5
+     it with gauze or a moist clean towel.
+},
+{
+    405.5,None
+     Call your health care provider immediately for more directions or go to the nearest emergency department. වහින්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්න්� you
+},

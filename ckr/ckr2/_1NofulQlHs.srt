@@ -1,0 +1,544 @@
+{
+    0.0,4.52
+     Hi, I'm Martha Murray and I'm one of the orthopedic surgeons here at Children's Hospital Boston.
+},
+{
+    4.52,7.36
+     This is Elizabeth Beck, one of our physician's assistants, and we're going to go through
+},
+{
+    7.36,11.02
+     with you today how to adjust your post-operative brace.
+},
+{
+    11.02,13.36
+     The brace we're going to show you today is made by Bragg.
+},
+{
+    13.36,15.08
+     It's called the T-scope brace.
+},
+{
+    15.08,19.08
+     It has two hinges, one on either side, and it's held together with four straps.
+},
+{
+    19.08,22.36
+     And we're going to show you a little bit about how to put it together.
+},
+{
+    22.36,27.32
+     Most of this work we will have done for you in the operating room so you'll wake up with the brace adjusted but sometimes when
+},
+{
+    27.32,31.24
+     you get home you'll need to do some of these adjustments as well. We'll show you those specific
+},
+{
+    31.24,34.8
+     adjustments you'll likely need to do at home. But what we do in the operating room while
+},
+{
+    34.8,38.84
+     you're still asleep is we're going to adjust first the hinges to the right length. For
+},
+{
+    38.84,43.32
+     most people it means setting the bar at about the number one and then we can clip down these
+},
+{
+    43.32,47.16
+     clips to make sure that it's secure in place.
+},
+{
+    47.16,51.12
+     If you find that your brace is sliding like this, up and down, check to see if the clip
+},
+{
+    51.12,53.4
+     has come unhooked.
+},
+{
+    53.4,56.6
+     So you can just click it down like that and secure it again in place.
+},
+{
+    56.6,59.72
+     And again, we are going to do all four of these at the number one position.
+},
+{
+    59.72,63.96
+     So let's do the other side too.
+},
+{
+    63.96,67.2
+     This makes sure that the two hinges are the same length and the length that you need for
+},
+{
+    67.2,69.36
+     your surgery protection.
+},
+{
+    69.36,72.4
+     The next thing we're going to do is we're going to set the range of motion of the brace.
+},
+{
+    72.4,76.96
+     So the brace as it comes can have a very wide range of motion.
+},
+{
+    76.96,81.16
+     For most of our patients, initially we're going to limit your motion to about 90 degrees
+},
+{
+    81.16,82.92
+     of bending or flexion.
+},
+{
+    82.92,85.9
+     So in order to do that, we're going to take these little triangular tabs
+},
+{
+    85.9,87.64
+     and pull it out to release it.
+},
+{
+    87.64,90.52
+     And then we can slide it over to the number 90 and stick it right back in at
+},
+{
+    90.52,91.72
+     the number 90.
+},
+{
+    91.72,95.66
+     And that lets us then adjust the brace so now it can only go from 0
+},
+{
+    95.66,99.56
+     to 90 degrees. Can't go all the way so that helps to protect your knee.
+},
+{
+    99.56,103.68
+     The other thing you're going to be asked to do is to lock your brace at times.
+},
+{
+    103.68,107.0
+     So this device here is what locks the brace.
+},
+{
+    107.0,111.0
+     Right now the brace is unlocked, but if I slide that down, now the brace is locked, it
+},
+{
+    111.0,112.0
+     can't move.
+},
+{
+    112.0,116.48
+     We'll often ask you to lock it at zero degrees for sleeping at night for the first several
+},
+{
+    116.48,117.92
+     weeks after surgery.
+},
+{
+    117.92,121.56
+     You can see here how the number zero is lined up with the line on the brace.
+},
+{
+    121.56,123.88
+     That means it's locked at zero degrees.
+},
+{
+    123.88,128.14
+     If you're locking the brace, you want to lock it on both hinges.
+},
+{
+    128.14,129.52
+     So we're going to lock this one as well.
+},
+{
+    129.52,130.88
+     So now it's locked.
+},
+{
+    130.88,133.2
+     Now I'm going to fit the brace on Elizabeth's leg.
+},
+{
+    133.2,136.4
+     So we're going to unlock it to do that.
+},
+{
+    136.4,139.76
+     So we've got to unlock both hinges so that now the brace can move.
+},
+{
+    139.76,142.04
+     Did we set this one at 90 degrees?
+},
+{
+    142.04,145.68
+     Let's set this one at 90 degrees as well so the two hinges match.
+},
+{
+    145.68,146.68
+     So we're just pulling that out.
+},
+{
+    146.68,149.84
+     We're going to put that in there so we've got that hinged.
+},
+{
+    149.84,151.76
+     Now we've got 90 degrees on both hinges.
+},
+{
+    151.76,153.4
+     So can you lift your leg up for me?
+},
+{
+    153.4,155.08
+     So we're going to put the brace on.
+},
+{
+    155.08,159.88
+     We're going to slide it so the four straps are under Elizabeth's leg there.
+},
+{
+    159.88,163.24
+     And then we're going to ask her to Elizabeth, can you bend your knee up a little bit so
+},
+{
+    163.24,167.24
+     that we can make sure the hinges are matching where her knee motion is?
+},
+{
+    167.24,170.88
+     Typically that means that the top of the hinge is about at the top of your knee cap, but
+},
+{
+    170.88,174.16
+     sometimes it's easiest just to put the brace on with the pillow under your knee so you
+},
+{
+    174.16,176.08
+     make sure you get the bend in the right place.
+},
+{
+    176.08,179.04
+     Okay, you put your leg down, straight, good.
+},
+{
+    179.04,182.24
+     So now you can see that the brace is clearly too big for Elizabeth's leg, so we're going
+},
+{
+    182.24,185.44
+     to adjust it to her leg by adjusting the straps.
+},
+{
+    185.44,187.5
+     And typically what I'll do is I'll just hook
+},
+{
+    187.5,190.04
+     one of these front straps just to kind of hold it in place,
+},
+{
+    190.04,191.34
+     maybe two of them.
+},
+{
+    191.34,194.38
+     But you can, and what I wanna do is adjust the hinges
+},
+{
+    194.38,197.78
+     so that the hinges are perpendicular to the table
+},
+{
+    197.78,199.18
+     but parallel to each other.
+},
+{
+    199.18,201.38
+     So you don't want the hinges coming in like this
+},
+{
+    201.38,203.56
+     towards each other around the back of the leg.
+},
+{
+    203.56,207.08
+     You want them on the side of the leg and parallel to each other.
+},
+{
+    207.08,211.0
+     The other thing that when you fit the brace is that you'll notice that sometimes there'll
+},
+{
+    211.0,215.84
+     be space between the hinge and your knee on one side or the other that's totally normal
+},
+{
+    215.84,218.96
+     and fine and not a problem with the brace.
+},
+{
+    218.96,222.4
+     The key thing is to make the hinges parallel to each other.
+},
+{
+    222.4,225.44
+     So now we've got the brace just kind of provisionally on.
+},
+{
+    225.44,227.24
+     We've got the hinges where we want them.
+},
+{
+    227.24,230.08
+     But if Elizabeth lifts up her leg, do you mind lifting it up?
+},
+{
+    230.08,231.84
+     You can see how there's a lot of slack here
+},
+{
+    231.84,233.12
+     in the straps underneath.
+},
+{
+    233.12,234.36
+     So the first thing we're going to do,
+},
+{
+    234.36,236.0
+     you can put it down, thank you, is we're
+},
+{
+    236.0,237.92
+     going to tighten up those straps underneath.
+},
+{
+    237.92,242.0
+     And in order to do that, there are these holders on the side,
+},
+{
+    242.0,244.88
+     velcro holders, and we can flip out these tabs.
+},
+{
+    244.88,248.44
+     And the tabs will let us then pull the back through.
+},
+{
+    248.44,250.0
+     So why don't you lift up again just for a minute.
+},
+{
+    250.0,253.28
+     So now I've released the tab here, and I can pull this through.
+},
+{
+    253.28,254.88
+     Do you see how it's tightening up back there?
+},
+{
+    254.88,256.72
+     But I want to make sure I don't tighten it up too much.
+},
+{
+    256.72,259.4
+     I don't want to bring this hinge around the back.
+},
+{
+    259.4,262.76
+     So I just tighten it up, and I'm going to tighten up the other straps just to get the
+},
+{
+    262.76,263.76
+     slack out of them.
+},
+{
+    263.76,267.0
+     We'll do the final adjustments later, and so we're going to do that on all four of these
+},
+{
+    267.0,271.88
+     here.
+},
+{
+    271.88,275.24
+     And then I put the tab back to kind of anchor that strap in the back, okay, and come on
+},
+{
+    275.24,276.96
+     back down.
+},
+{
+    276.96,280.32
+     And now what we're going to do is we're going to tighten up in the front.
+},
+{
+    280.32,284.36
+     You can do that simply by releasing the Velcro tab here on the front and then pulling through
+},
+{
+    284.36,286.78
+     the hinge like this.
+},
+{
+    286.78,290.32
+     And then you can fasten that back on.
+},
+{
+    290.32,293.98
+     So we're going to hook this on, take this and now we can just pull this through the
+},
+{
+    293.98,299.74
+     hinge like that and back around on the back.
+},
+{
+    299.74,303.1
+     Is this bothering you anywhere?
+},
+{
+    303.1,307.0
+     Is it okay?
+},
+{
+    307.6,311.04
+     Now one thing, sometimes on these upper straps or even on the lower straps,
+},
+{
+    311.04,315.28
+     you'll find that the Velcro tab is going to hit plastic
+},
+{
+    315.28,318.8
+     and so you can't make it hook or it's hooking way around the back of your leg
+},
+{
+    318.8,320.24
+     and it's inconvenient.
+},
+{
+    320.24,325.0
+     These tabs actually can come off the end of the strap.
+},
+{
+    325.0,328.0
+     And then you can fold the strap, or if you need to, you can trim it.
+},
+{
+    328.0,332.0
+     And then you can put this tab right back on the end of the strap that you folded over.
+},
+{
+    332.0,336.0
+     And so it now attaches to something that's sticky for the Velcro.
+},
+{
+    336.0,339.0
+     So that's another trick that you can use to adjust it.
+},
+{
+    339.0,345.52
+     So most of this will have been done for you in the operating room at the time of your surgery.
+},
+{
+    345.52,348.32
+     The other thing that will happen in the operating room though is oftentimes you'll have an ice
+},
+{
+    348.32,351.04
+     pack placed underneath your brace.
+},
+{
+    351.04,354.14
+     In that case, after a day or two of using that ice pack, you may want to take the ice
+},
+{
+    354.14,356.4
+     pack out and get around.
+},
+{
+    356.4,359.6
+     When that happens, these straps will often be a little bit loose because they will have
+},
+{
+    359.6,362.16
+     been sized to have the ice pack under there.
+},
+{
+    362.16,365.72
+     If that's the case, then you're going to want to tighten up particularly these two straps
+},
+{
+    365.72,367.68
+     once you take the ice pack out.
+},
+{
+    367.68,373.32
+     So in order to do that, the first thing you're going to do is release the two straps, and
+},
+{
+    373.32,374.64
+     then you're going to check the back.
+},
+{
+    374.64,378.56
+     So if Elizabeth has, you can see how she has some slack still here in the back, because
+},
+{
+    378.56,380.16
+     we've taken the ice pack out.
+},
+{
+    380.16,384.36
+     So again, same thing that we did earlier, you're going to release this tab right here,
+},
+{
+    384.36,386.44
+     and then gently pull the strap through in the back
+},
+{
+    386.44,389.16
+     so that you get a nice fit there on the back of your calf.
+},
+{
+    389.16,391.28
+     And then you can tighten the front down.
+},
+{
+    391.28,391.88
+     Same thing here.
+},
+{
+    391.88,394.2
+     We're going to release the back tab first
+},
+{
+    394.2,396.6
+     so we can pull that through, anchor that,
+},
+{
+    396.6,399.08
+     then we can pull the front tab through.
+},
+{
+    399.08,401.0
+     Do you want to just try bending your knee up
+},
+{
+    401.0,402.2
+     and making sure it feels like it's
+},
+{
+    402.2,406.88
+     hinging in the right place so that feel pretty comfortable? And that's how you put on the brace and adjust it.
+},

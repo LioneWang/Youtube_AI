@@ -1,0 +1,1224 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.3,13.16
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.16,14.5
+     Brad Heineck, physical therapist.
+},
+{
+    14.5,16.22
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.22,17.4
+     In our opinion, of course, Bob.
+},
+{
+    17.4,19.78
+     What you didn't see on camera, I just said, hi folks.
+},
+{
+    19.78,21.4
+     Okay, the first thing we're gonna talk about
+},
+{
+    21.4,24.44
+     is the first sign you are getting arthritis
+},
+{
+    24.44,27.68
+     in your shoulder, hip, or knee.
+},
+{
+    27.68,29.0
+     It's a do-it-yourself test.
+},
+{
+    29.0,30.4
+     What I'm trying to do here, Brad,
+},
+{
+    30.4,32.12
+     is I'm trying to eliminate our jobs.
+},
+{
+    32.12,33.2
+     I'm trying to make sure people
+},
+{
+    33.2,34.8
+     don't need physical therapists anymore.
+},
+{
+    34.8,38.12
+     Well, that's it, because once we retire,
+},
+{
+    38.12,39.32
+     what else, what else?
+},
+{
+    39.32,41.52
+     Yeah, right, once we retire, we don't need anybody else.
+},
+{
+    41.52,42.8
+     There's nothing left over.
+},
+{
+    42.8,44.4
+     Okay, by the way, if you're new to our channel,
+},
+{
+    44.4,45.92
+     please take a second to subscribe to us. We provide videos on how to stay healthy, fit, pain-free, and don't need it. There's nothing left over. Okay, by the way, if you're new to our channel, please take a second to subscribe to us.
+},
+{
+    45.92,47.44
+     We provide videos on how to stay healthy,
+},
+{
+    47.44,49.64
+     fit, pain-free, and we upload every day.
+},
+{
+    49.64,52.44
+     Go to BobandBrad.com, go to the giveaway section,
+},
+{
+    52.44,54.84
+     because this week we're giving away a mattress.
+},
+{
+    54.84,55.68
+     Whoa!
+},
+{
+    55.68,58.28
+     A sleep-evasion mattress, awesome mattress.
+},
+{
+    58.28,59.64
+     This is just a sample of it.
+},
+{
+    59.64,61.08
+     It's not this small.
+},
+{
+    61.08,63.24
+     You don't have to be a dog or anything like that.
+},
+{
+    63.24,64.28
+     And it has a cover.
+},
+{
+    64.28,67.0
+     Yeah, it has a cover, and it's got individual mattresses
+},
+{
+    67.0,69.64
+     and air channels and it's very comfortable
+},
+{
+    69.64,71.64
+     if you're having pain.
+},
+{
+    71.64,72.58
+     Even if you're not.
+},
+{
+    72.58,75.72
+     Yeah, go to Facebook, the contest will be pinned
+},
+{
+    75.72,78.92
+     to the top of the page, Instagram, TikTok or Twitter
+},
+{
+    78.92,81.24
+     if you want a 60 second version of our program.
+},
+{
+    81.24,84.64
+     Oh, by the way, we're getting away a couple of pillows too
+},
+{
+    84.64,86.96
+     and they have springs in them.
+},
+{
+    86.96,88.36
+     But they're really comfortable.
+},
+{
+    88.36,90.2
+     Yeah, they're very, very nice pillows.
+},
+{
+    90.2,92.08
+     Really good for side sleepers, that's what I think.
+},
+{
+    92.08,93.0
+     Yeah, I agree.
+},
+{
+    93.0,94.52
+     Okay, carry on.
+},
+{
+    94.52,97.22
+     All right, this is based in part on the work
+},
+{
+    97.22,99.64
+     of James Siriax, who's considered the father
+},
+{
+    99.64,101.68
+     of orthopedic medicine.
+},
+{
+    101.68,103.28
+     He says when you're starting to get,
+},
+{
+    103.28,104.64
+     and we see this too,
+},
+{
+    104.64,106.72
+     when you start to get arthritis,
+},
+{
+    106.72,110.64
+     the joint starts to lose motion in a certain pattern,
+},
+{
+    110.64,112.16
+     which we call a capsular pattern.
+},
+{
+    112.16,115.24
+     And this will become more clear as we show you.
+},
+{
+    115.24,117.28
+     So we're gonna show you the pattern for the shoulder,
+},
+{
+    117.28,119.6
+     the hip, the knee, or the elbow.
+},
+{
+    119.6,120.96
+     Well, I didn't have elbow.
+},
+{
+    120.96,122.96
+     I guess we can mention elbow if you want.
+},
+{
+    124.52,127.16
+     So before we do that though,
+},
+{
+    127.16,130.4
+     you should probably answer these questions
+},
+{
+    130.4,132.24
+     because if these aren't true,
+},
+{
+    132.24,133.84
+     you probably don't have arthritis.
+},
+{
+    133.84,136.46
+     If you're not older,
+},
+{
+    136.46,138.28
+     it's unlikely you have arthritis.
+},
+{
+    138.28,139.12
+     Although-
+},
+{
+    139.12,139.96
+     What's older, Bob?
+},
+{
+    139.96,143.76
+     Well, pushing maybe 40, 50, 60.
+},
+{
+    143.76,145.88
+     Yeah, if you're maybe up in your 40s,
+},
+{
+    145.88,147.98
+     you might, you know, there may be some conditions
+},
+{
+    147.98,149.4
+     that people will develop earlier,
+},
+{
+    149.4,151.3
+     but we're talking about general public.
+},
+{
+    151.3,153.78
+     Yeah, a lot of times, especially if you enter the joints.
+},
+{
+    153.78,154.62
+     Sometimes you get-
+},
+{
+    154.62,156.96
+     Yeah, it'll get arthritic earlier.
+},
+{
+    156.96,158.22
+     Right.
+},
+{
+    158.22,162.58
+     Generally too, arthritis is a gradual onset of pain
+},
+{
+    162.58,163.46
+     and stiffness.
+},
+{
+    163.46,166.14
+     I can't tell you how many times that in my lifetime, Brad,
+},
+{
+    166.14,169.74
+     I'm a clinic, somebody come in and they go,
+},
+{
+    169.74,172.58
+     well, the doctor I said I have arthritis in the shoulder.
+},
+{
+    172.58,174.26
+     I go, when did it start?
+},
+{
+    174.26,176.1
+     Well, it started two days ago.
+},
+{
+    176.1,177.5
+     I go, did you have any pain before that?
+},
+{
+    177.5,178.34
+     No.
+},
+{
+    178.34,179.62
+     It's like, it's not arthritis.
+},
+{
+    179.62,181.38
+     Arthritis doesn't start in two days.
+},
+{
+    181.38,183.62
+     You know, it takes a long time.
+},
+{
+    183.62,185.72
+     You start noticing the days. You know, it takes a long time. You start noticing the stuff.
+},
+{
+    185.72,186.56
+     You know.
+},
+{
+    186.56,190.4
+     Yeah, the cartilage begins to deteriorate or wear over time.
+},
+{
+    190.4,192.2
+     Other signs you have arthritis,
+},
+{
+    192.2,195.32
+     that there's grinding or clicking or cracking.
+},
+{
+    195.32,197.28
+     You know, again, the wearing of the cartilage.
+},
+{
+    197.28,199.2
+     Right, right, we call that crepitus.
+},
+{
+    199.2,201.36
+     So let's say you have all those things.
+},
+{
+    201.36,204.2
+     So the first sign, let's talk about the hip first.
+},
+{
+    204.2,206.8
+     The first thing, the first sign you have arthritis
+},
+{
+    206.8,209.04
+     in your hip is you're gonna lose what we call
+},
+{
+    209.04,211.36
+     is hip internal rotation.
+},
+{
+    211.36,213.04
+     Very simple to test.
+},
+{
+    213.04,216.52
+     You're gonna sit up on a high surface.
+},
+{
+    216.52,217.6
+     So your feet dangle.
+},
+{
+    217.6,218.64
+     So your feet dangle.
+},
+{
+    218.64,221.08
+     And all you're gonna do is your knees are bent
+},
+{
+    221.08,223.44
+     at a right angle and you're gonna turn your legs out
+},
+{
+    223.44,224.28
+     like this.
+},
+{
+    224.28,226.48
+     And you can see I don't have a lot of hip external,
+},
+{
+    226.48,227.92
+     internal rotation, do I Brad?
+},
+{
+    227.92,229.08
+     I don't either.
+},
+{
+    229.08,232.28
+     Nope, that's, I got really good external rotation personally.
+},
+{
+    232.28,235.24
+     Yeah, you never did have internal rotation.
+},
+{
+    235.24,238.0
+     But if you look at one and one goes out to here
+},
+{
+    238.0,241.4
+     and your other one doesn't go near as far,
+},
+{
+    241.4,243.04
+     that doesn't mean you have arthritis.
+},
+{
+    243.04,245.76
+     It means, you know, it's a positive indication.
+},
+{
+    245.76,247.72
+     There's three different tests for the hip.
+},
+{
+    247.72,248.56
+     That's right.
+},
+{
+    248.56,249.4
+     Right, right.
+},
+{
+    249.4,252.32
+     So that's one is that, if you're losing that motion,
+},
+{
+    252.32,255.0
+     again, if you have one that's worse than the other,
+},
+{
+    255.0,258.36
+     we'd expect that one that's motion to be worse than the other.
+},
+{
+    258.36,262.4
+     I mean, probably a normal person could go out to about here.
+},
+{
+    262.4,264.32
+     But again, you gotta keep your butt down.
+},
+{
+    264.32,265.84
+     You can't cheat like this.
+},
+{
+    265.84,268.2
+     You have to actually go like that.
+},
+{
+    268.2,272.44
+     All right, the next sign of the hip,
+},
+{
+    272.44,274.56
+     that was the number one sign.
+},
+{
+    274.56,276.96
+     The next one would be a loss of hip flexion.
+},
+{
+    276.96,280.0
+     So that's just bending the leg up like this.
+},
+{
+    280.0,283.08
+     Now, you can do it seated,
+},
+{
+    284.24,286.38
+     or you can also lie down.
+},
+{
+    286.38,288.56
+     And what's nice about lying down, Brad,
+},
+{
+    288.56,290.12
+     then you can kind of compare.
+},
+{
+    290.12,292.72
+     You say, okay, that one goes that far.
+},
+{
+    294.32,295.36
+     This one goes farther.
+},
+{
+    295.36,297.12
+     This one, let's go farther.
+},
+{
+    297.12,299.8
+     Well, your right hip is a little on the fritz, isn't it?
+},
+{
+    299.8,300.64
+     Yep, yep.
+},
+{
+    300.64,301.92
+     It's the one that always gives me trouble.
+},
+{
+    301.92,302.76
+     Yep.
+},
+{
+    302.76,304.52
+     So you might have some arthritis in there, Bob.
+},
+{
+    304.52,305.36
+     I would guess. I would guess. Don't worry about it. Sorry, that's the sign that always gives me trouble. Yep, so. You might have some arthritis in there, Bob. I would guess.
+},
+{
+    305.36,306.2
+     I would guess.
+},
+{
+    306.2,307.04
+     Don't worry about it.
+},
+{
+    307.04,308.44
+     Sorry, that's the sign.
+},
+{
+    308.44,309.4
+     It'll get better.
+},
+{
+    309.4,310.88
+     It'll get better.
+},
+{
+    310.88,313.28
+     All right, the last one, again,
+},
+{
+    313.28,314.48
+     so it kind of goes in our first,
+},
+{
+    314.48,316.76
+     you'll see hip internal rotation affected,
+},
+{
+    316.76,319.8
+     then hip flexion, last one is hip abduction,
+},
+{
+    319.8,322.44
+     and that's just going straight out to the side.
+},
+{
+    322.44,325.52
+     So you could do this line on the floor,
+},
+{
+    325.52,326.44
+     you could do it on the bed,
+},
+{
+    326.44,327.96
+     but you're just gonna take one hip out
+},
+{
+    327.96,330.4
+     and go out as far as you can go.
+},
+{
+    330.4,333.28
+     Kinda notice how far out it is.
+},
+{
+    333.28,335.08
+     And then take the other one out.
+},
+{
+    335.08,336.24
+     I'm gonna hit the wall.
+},
+{
+    337.28,338.52
+     Oh, as far as you can go.
+},
+{
+    338.52,340.52
+     Right, so obviously, you know,
+},
+{
+    340.52,343.16
+     sheets off, you're laying on top of the bed covers.
+},
+{
+    343.16,344.32
+     I could tell.
+},
+{
+    344.32,348.24
+     And the other thing is, when you test these motions,
+},
+{
+    348.24,350.96
+     you'll feel like the ones that are tighter,
+},
+{
+    350.96,352.92
+     you're hitting against the wall a little bit.
+},
+{
+    352.92,354.2
+     It'll feel tighter.
+},
+{
+    354.2,355.48
+     Or you might have that crepitus,
+},
+{
+    355.48,359.56
+     some grinding, popping, and that was kind of sensations.
+},
+{
+    359.56,361.28
+     So if you look at your hip,
+},
+{
+    361.28,364.0
+     and it's really lost internal rotation,
+},
+{
+    364.0,365.28
+     compared to the other side.
+},
+{
+    365.28,368.78
+     Yeah, you know, and you lost some of those other motions too.
+},
+{
+    368.78,371.8
+     There's a sign you might have arthritis.
+},
+{
+    371.8,373.84
+     First sign of shoulder.
+},
+{
+    373.84,376.04
+     The first thing you lose on shoulder motion
+},
+{
+    376.04,378.16
+     is often external rotation.
+},
+{
+    378.16,379.68
+     So let me show you how to do that one.
+},
+{
+    379.68,382.74
+     The best way to do it is to do that one lying down.
+},
+{
+    382.74,385.0
+     So you bring your arms out, if you can,
+},
+{
+    385.0,387.24
+     to about a right angle.
+},
+{
+    387.24,388.08
+     Straight out.
+},
+{
+    388.08,389.88
+     Straight out, yep.
+},
+{
+    389.88,392.76
+     And you have your elbows at a right angle,
+},
+{
+    392.76,394.48
+     a 90 degree angle, yep.
+},
+{
+    394.48,395.8
+     Both sides.
+},
+{
+    395.8,398.2
+     And you're gonna go like this, in this test.
+},
+{
+    398.2,402.0
+     Now I go all the way down to the surface,
+},
+{
+    402.0,405.16
+     so I'm not worried about external rotation on this one.
+},
+{
+    405.16,406.8
+     If you've had an injury in the past,
+},
+{
+    406.8,408.36
+     you can see I can even go further.
+},
+{
+    408.36,410.66
+     Yeah, you may have a tight shoulder.
+},
+{
+    412.04,414.32
+     I think, well, I guess mine are about equal.
+},
+{
+    414.32,417.52
+     I thought one of mine was tighter from an injury.
+},
+{
+    417.52,420.5
+     All right, the next one is,
+},
+{
+    420.5,422.64
+     I gotta think myself, shoulder abduction.
+},
+{
+    422.64,424.6
+     So that one's going out to the side.
+},
+{
+    424.6,427.64
+     If I'm lying down again, I'd be going out like this.
+},
+{
+    427.64,428.92
+     I can just do the shoulder this one.
+},
+{
+    428.92,431.24
+     You're gonna show out to the side.
+},
+{
+    431.24,433.44
+     You could do it actively too.
+},
+{
+    433.44,436.7
+     And this one I hit the ear.
+},
+{
+    436.7,438.0
+     This one's a little bit tight.
+},
+{
+    438.0,438.84
+     Do you see that?
+},
+{
+    438.84,441.76
+     I mean, I've got tight shoulders.
+},
+{
+    441.76,443.24
+     This is as high as I can.
+},
+{
+    443.24,445.24
+     I can't come close to my ears.
+},
+{
+    445.24,448.6
+     Yeah, and that might have been for years for you too.
+},
+{
+    448.6,450.04
+     Yeah, historically it's a kind of,
+},
+{
+    450.04,451.32
+     I think a genetic thing.
+},
+{
+    451.32,452.28
+     Sure.
+},
+{
+    452.28,456.6
+     The last one, we measured shoulder external rotation.
+},
+{
+    456.6,458.96
+     Now we're gonna measure shoulder internal rotation.
+},
+{
+    458.96,461.0
+     Yep, you're gonna measure just like that.
+},
+{
+    461.0,463.76
+     Again, I've got pretty decent motion.
+},
+{
+    463.76,466.2
+     You can do this lying down too, same thing.
+},
+{
+    467.96,469.4
+     Minor.
+},
+{
+    469.4,471.22
+     Whatever yours are, they're equal.
+},
+{
+    471.22,472.06
+     You know what I mean?
+},
+{
+    472.06,476.04
+     They're equal external rotation.
+},
+{
+    476.04,478.02
+     How is abduction on you?
+},
+{
+    479.16,480.56
+     Oh yeah, you're tighter on that one.
+},
+{
+    480.56,482.4
+     Right side, yeah.
+},
+{
+    482.4,484.36
+     I'm right-handed.
+},
+{
+    484.36,485.72
+     I'd have injured both shoulders.
+},
+{
+    485.72,487.48
+     Maybe that one twice, I don't know.
+},
+{
+    487.48,488.6
+     I can't remember though, that stuff.
+},
+{
+    488.6,489.92
+     All right, so that's the shoulder.
+},
+{
+    489.92,493.76
+     Now with the knee, Brad was gonna show this one.
+},
+{
+    493.76,496.2
+     The first thing that you tend to lose
+},
+{
+    496.2,498.64
+     is it just doesn't straighten as far.
+},
+{
+    498.64,499.88
+     You lose the extension.
+},
+{
+    499.88,502.28
+     So you can sit on the edge of the chair.
+},
+{
+    502.28,503.72
+     If you look at the stripes,
+},
+{
+    503.72,505.16
+     we're going to see if it's straight.
+},
+{
+    505.16,507.88
+     And the good thing to do is just compare one to the other.
+},
+{
+    507.88,509.96
+     If one doesn't go down as far,
+},
+{
+    509.96,511.6
+     you can also put your foot up.
+},
+{
+    511.6,514.36
+     Put this one up a little bit so that you can see the difference.
+},
+{
+    514.36,515.8
+     Yeah, let's say you check it.
+},
+{
+    515.8,518.92
+     Yeah, and you can see that one just doesn't go as straight.
+},
+{
+    518.92,519.76
+     Right.
+},
+{
+    519.76,521.04
+     And that's...
+},
+{
+    521.04,522.28
+     You can do it.
+},
+{
+    522.28,524.12
+     It's nice to have a rolling stool.
+},
+{
+    524.12,526.04
+     You could do it on a stationary one.
+},
+{
+    526.04,527.52
+     And check them this way too.
+},
+{
+    527.52,528.52
+     You may have to lean back
+},
+{
+    528.52,530.48
+     because your hamstrings may be tight.
+},
+{
+    530.48,531.98
+     If the hamstrings are tight,
+},
+{
+    531.98,533.56
+     you feel these muscles pulling really hard.
+},
+{
+    533.56,536.12
+     You'll have to do it on the floor, on the edge.
+},
+{
+    536.12,537.28
+     But it's the same thing.
+},
+{
+    537.28,541.14
+     You're looking for, see if they're both equal and straight.
+},
+{
+    542.04,544.92
+     And then you're gonna test, that's the first sign.
+},
+{
+    544.92,546.32
+     That's the first thing that tends to go,
+},
+{
+    546.32,549.24
+     but you might have lost flexion on the knee too.
+},
+{
+    549.24,550.64
+     And so,
+},
+{
+    550.64,551.96
+     you can check that way.
+},
+{
+    551.96,553.28
+     So this thing,
+},
+{
+    553.28,554.92
+     this one you could do on the chair,
+},
+{
+    554.92,557.68
+     you can check one,
+},
+{
+    557.68,559.32
+     and then obviously check the other
+},
+{
+    559.32,561.12
+     and compare.
+},
+{
+    561.12,563.24
+     Common thing with these is that grinding,
+},
+{
+    563.24,567.02
+     crepitus sound that's probably more common than the shoulder
+},
+{
+    567.02,568.26
+     and probably the hip too.
+},
+{
+    568.26,570.94
+     You can test this one lying down too.
+},
+{
+    570.94,572.06
+     Check the knee.
+},
+{
+    572.06,573.76
+     And again, you'll, you know,
+},
+{
+    573.76,575.56
+     sometimes they look very close,
+},
+{
+    575.56,577.4
+     but the one feels just feels tighter.
+},
+{
+    577.4,579.02
+     It doesn't feel like it's going as well.
+},
+{
+    579.02,581.82
+     Do that again, Bob, because just note on this one,
+},
+{
+    581.82,584.78
+     we're not paying attention to the knee position.
+},
+{
+    584.78,588.16
+     We're paying attention to the heel going towards the buttock,
+},
+{
+    588.16,590.96
+     that distance right there, right to left.
+},
+{
+    590.96,593.24
+     Yeah, that's a good indicator Brad, very good.
+},
+{
+    593.24,595.0
+     That's good that you pointed that out.
+},
+{
+    595.0,599.48
+     So, what happens if you have found
+},
+{
+    599.48,600.76
+     that you do have arthritis?
+},
+{
+    600.76,603.48
+     You do wanna try to regain that motion.
+},
+{
+    603.48,606.16
+     If you lost some internal rotation, you wanna try to regain that motion. If you lost some internal rotation,
+},
+{
+    606.16,607.6
+     you wanna try to regain it.
+},
+{
+    607.6,609.72
+     We have videos on that.
+},
+{
+    609.72,612.28
+     So if you look up, Bob and Brad,
+},
+{
+    612.28,616.2
+     and you do shoulder arthritis, hip arthritis,
+},
+{
+    616.2,618.12
+     knee arthritis, it'll pop up.
+},
+{
+    618.12,620.44
+     And it'll show you stretches that you can do.
+},
+{
+    620.44,623.8
+     Yeah, you may wanna put shoulder arthritis,
+},
+{
+    623.8,625.64
+     exercises, a arrange your motion.
+},
+{
+    625.64,628.64
+     So you can narrow down a little quicker
+},
+{
+    628.64,630.4
+     or just go to the YouTube channel
+},
+{
+    630.4,632.0
+     and go right to our site.
+},
+{
+    632.0,633.36
+     Yep, all right.
+},
+{
+    633.36,635.36
+     Remember Brad and I can fix this about anything?
+},
+{
+    635.36,636.84
+     Except for...
+},
+{
+    636.84,637.68
+     I'm broken heart.
+},
+{
+    637.68,639.32
+     That's right, Bob.
+},
+{
+    639.32,640.32
+     What do you seem sad about?
+},
+{
+    640.32,642.68
+     Well, we've been working on it for a long time, Bob.
+},
+{
+    642.68,646.32
+     And we're not getting a lot, not attraction yet.
+},
+{
+    646.32,647.84
+     Well, we can fix just about anything.
+},
+{
+    647.84,648.92
+     Yeah. Except that.
+},
+{
+    648.92,650.08
+     That makes me feel better.
+},
+{
+    650.08,None
+     All right, thanks. you
+},

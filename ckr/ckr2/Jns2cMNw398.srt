@@ -1,0 +1,212 @@
+{
+    0.0,4.64
+     Hello again, this is Dr. Mix from West Plano Pediatrics.
+},
+{
+    4.64,8.76
+     We are talking about how to take a rectal temperature.
+},
+{
+    8.76,10.24
+     Lots of parents freak out about this.
+},
+{
+    10.24,12.56
+     I promise you, it's not that bad.
+},
+{
+    12.56,15.84
+     Okay, fever, again, in reference to our last video,
+},
+{
+    15.84,18.72
+     red flags, if your baby is acting really fussy,
+},
+{
+    18.72,21.0
+     not feeding well, something is just off
+},
+{
+    21.0,23.48
+     and your little spidey sense goes off,
+},
+{
+    23.48,30.48
+     take a rectal temperature. Remember again, fever is defined as a hundred point four or greater rectally as
+},
+{
+    30.48,35.64
+     ideal at your baby's core temperature. That's Fahrenheit or 38 degrees Celsius.
+},
+{
+    35.64,41.8
+     Okay, so we're just gonna kind of do like a little demo here. Just kind of use
+},
+{
+    41.8,45.66
+     your imagination a bit. You can use gloves with your baby if you
+},
+{
+    45.66,49.3
+     want, you don't have to, but certainly if your baby ever or your child ever has
+},
+{
+    49.3,53.44
+     diarrhea, I would definitely recommend using gloves and wiping down surfaces
+},
+{
+    53.44,57.74
+     after. That's always a good thing. So here's our little patient, our little
+},
+{
+    57.74,62.7
+     cowboy's bear. Okay, cowboys. And here he is. So what we'll do, you lay your baby
+},
+{
+    62.7,65.6
+     down on your little changing table or on the floor
+},
+{
+    71.76,79.36
+     and all you need this is it like a little digital rectal thermometer. From this one happens to be from CBS. You can go into Walgreens, Target, Walmart, you know Kroger, wherever. Any anywhere has it.
+},
+{
+    79.36,85.16
+     So very simple. I think they only cost a few dollars. And then you just have a little button
+},
+{
+    85.16,87.64
+     and so it's off right now when I turn it on,
+},
+{
+    87.64,89.92
+     it'll go, you know, you can even have different settings.
+},
+{
+    89.92,92.08
+     You can put it in Fahrenheit or Celsius.
+},
+{
+    92.08,93.08
+     Right now it's measuring low
+},
+{
+    93.08,95.1
+     because we're not taking a temperature.
+},
+{
+    95.1,97.92
+     So the key is you're going to insert it
+},
+{
+    97.92,100.4
+     into where the poo poo comes out, into the child's rectum,
+},
+{
+    100.4,103.0
+     until this little silver tip disappears.
+},
+{
+    103.0,105.16
+     I promise you, it will not hurt them.
+},
+{
+    105.16,106.56
+     They may get a little mad
+},
+{
+    106.56,107.64
+     and you need to watch out
+},
+{
+    107.64,109.0
+     after you're done taking the temperature.
+},
+{
+    109.0,112.24
+     They may have a little explosion after.
+},
+{
+    112.24,114.16
+     Okay, this is also another trick
+},
+{
+    114.16,116.6
+     that if your baby has a really hard stool,
+},
+{
+    116.6,119.52
+     we may instruct you to take a rectal temperature one time
+},
+{
+    119.52,121.2
+     to relieve the obstruction.
+},
+{
+    121.2,123.16
+     It's not something you should be doing every day.
+},
+{
+    123.16,128.6
+     You're only doing this if your pediatrician tells you to or you think your baby has a fever because you don't want
+},
+{
+    128.6,132.72
+     them to get dependent on rectal temperatures to have a poo poo. All right, so we got our
+},
+{
+    132.72,139.32
+     little guy. He doesn't really have an opening or anything, but this is a little lubricant.
+},
+{
+    139.32,147.36
+     You don't need that. You can just use Vaseline, aqua- four, whatever. You just put it very generously on this metal tip, okay?
+},
+{
+    147.36,149.48
+     And then you just turn your little thermometer on
+},
+{
+    149.48,152.56
+     and then you will insert it like that.
+},
+{
+    152.56,155.4
+     So see, you don't see the silver tip anymore.
+},
+{
+    155.4,157.02
+     So you can zoom in on that if you want.
+},
+{
+    157.02,158.4
+     And I usually just lift up their legs.
+},
+{
+    158.4,160.72
+     You can lift up one or both
+},
+{
+    160.72,163.72
+     and see our little teddy bear, our little baby is just fine.
+},
+{
+    163.72,168.72
+     Doesn't even care, just la la la. And then you wait for a beep, beep, beep, beep, beep, and then you're gonna see
+},
+{
+    168.72,172.88
+     what the measurement is. That's it. It might take about a minute and it should beep after that.
+},
+{
+    172.88,177.84
+     Okay? If you, if it's not beeping or you get a really low temperature, you probably didn't
+},
+{
+    177.84,186.48
+     insert it far enough. So you just need to insert it until that little silver disappears and you get to the blue. Okay well that's
+},
+{
+    186.48,193.32
+     then taking a rectal temperature 101. Have a great day. I'm fever free.
+},

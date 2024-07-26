@@ -1,0 +1,88 @@
+{
+    0.0,6.0
+     The scene is safe. My gloves are on. My rescue mask is available.
+},
+{
+    6.0,11.0
+     Sir, are you alright? Are you okay? Sir, can you hear me? There's no response.
+},
+{
+    11.0,18.0
+     You in the plaid shirt. Go call 911 and come back. If you can bring an ADD, please bring it. Otherwise, go call a code.
+},
+{
+    18.0,24.0
+     Checking for normal breathing and checking for a pulse.
+},
+{
+    24.0,30.0
+     There's a pulse present, but there's no breathing.
+},
+{
+    30.0,32.76
+     Breath does not go in.
+},
+{
+    32.76,34.26
+     Breath does not go in.
+},
+{
+    34.26,35.26
+     Thirty compressions.
+},
+{
+    35.26,50.64
+     One and two and three and five and six and seven and eight, nine and ten, eleven and 12, and 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+},
+{
+    50.64,54.8
+     I look in the mouth, I don't see anything.
+},
+{
+    54.8,57.84
+     Reposition.
+},
+{
+    57.84,59.68
+     Breath still doesn't go in.
+},
+{
+    59.68,68.86
+     And two and three and four and five and six and seven and eight nine and ten and twelve and thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty
+},
+{
+    68.86,72.44
+     one twenty two twenty four twenty five twenty six twenty seven twenty eight
+},
+{
+    72.44,79.7
+     twenty nine thirty give a breath. I saw something I pull it out.
+},
+{
+    80.32,85.1
+     Breath goes in. Breath goes in.
+},
+{
+    85.1,87.06
+     I check for a pulse.
+},
+{
+    87.06,88.66
+     Pulse is still present, but no breathing.
+},
+{
+    88.66,93.74
+     I'll give rescue breaths one breath every five seconds for a total of two minutes.
+},
+{
+    93.74,94.98
+     Re-assess.
+},
+{
+    94.98,98.18
+     If no breathing, no pulse, begin CPR.
+},
+{
+    98.18,101.9
+     Wait for EMS to arrive in AED or until my patient revives.
+},

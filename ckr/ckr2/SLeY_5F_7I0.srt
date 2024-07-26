@@ -1,0 +1,332 @@
+{
+    0.0,18.48
+     Sizing is quick and easy to do. First, determine the length of the sleeve based on physician
+},
+{
+    18.48,25.0
+     prescription of knee or thigh length sleeve. For thigh length, you must measure the circumference of the thigh to determine
+},
+{
+    25.0,36.0
+     sizing. For knee length measure the circumference of the calf. Sizing information is clearly
+},
+{
+    36.0,42.0
+     marked on the product packaging. Once sizing is determined remove the sleeves from the plastic
+},
+{
+    42.0,49.28
+     package. Place the side with a printed person silhouette against the patient's leg.
+},
+{
+    49.28,53.52
+     Position the sleeves so the blue arrows printed on the sleeve are centered directly behind
+},
+{
+    53.52,55.4
+     the patient's leg.
+},
+{
+    55.4,59.84
+     Wrap the sleeve securely around the patient's leg, beginning with a side that does not contain
+},
+{
+    59.84,61.4
+     the hook tape.
+},
+{
+    61.4,70.0
+     Holding the ankle section of the sleeve against the patient's ankle, wrap the sleeve securely around the ankle and calf, attaching the hook edge securely to the sleeve.
+},
+{
+    70.0,80.0
+     If thigh length is being used, repeat this procedure on the thigh section of the sleeve. The sleeve should fit securely but not tightly around all sections of the leg.
+},
+{
+    80.0,87.0
+     For proper application, two fingers should fit between the sleeve and leg. Correct fit should be routinely assessed.
+},
+{
+    87.0,92.0
+     Do not position the sleeve such that the tubing can form pressure points on the patient's limb.
+},
+{
+    92.0,97.0
+     This may be particularly important in certain prone, kneeling or sidelined positions.
+},
+{
+    97.0,110.0
+     In these cases, the Kendall SCD sleeves can be rotated around the limb with no reduction in efficacy. Over the past 20 years, there have been many improvements in controller technology in the IPC market.
+},
+{
+    110.0,117.0
+     Covidian is committed to providing products that are easy to use and provide mechanical solutions for DVT profile axis.
+},
+{
+    117.0,123.0
+     Covidian's latest compression platform is called the Kendall SCD 700 Series Controller.
+},
+{
+    123.0,128.64
+     The 700 Series Controller has a new graphical user interface designed to improve ease of
+},
+{
+    128.64,129.84
+     use.
+},
+{
+    129.84,134.16
+     The size and weight of the new controller are similar to previous platforms, providing
+},
+{
+    134.16,137.72
+     users with a lightweight and easy to store device.
+},
+{
+    137.72,141.96
+     There are also a few other similarities that were important to keep with the new pump,
+},
+{
+    141.96,145.16
+     including independent tubing ports, which make one-legged
+},
+{
+    145.16,147.3
+     operation feasible.
+},
+{
+    147.3,151.94
+     Lithium ion battery will up to eight hours of battery life so that patients can receive
+},
+{
+    151.94,154.64
+     prophylaxis during transport.
+},
+{
+    154.64,160.58
+     Vascular refill detection, or VRD, is a unique technology which measures refill times and
+},
+{
+    160.58,168.0
+     customizes its compression cycle to each individual patient. VRD has been shown to move significantly more blood over time
+},
+{
+    168.0,174.0
+     compared to IPC without VRD, thus reducing stasis and the potential for clot formation.
+},
+{
+    174.0,178.0
+     Regardless of patient position or vascular competency,
+},
+{
+    178.0,183.0
+     VRD automatically adjusts its cycle to the patient without nurse intervention.
+},
+{
+    183.0,190.6
+     VRD has been clinically documented to move 76% more blood versus a device without VRD. Vascular
+},
+{
+    190.6,194.72
+     refill detection is yet another way that the Kendall SCD 700 series
+},
+{
+    194.72,199.44
+     clinically differentiates itself from other devices in the marketplace.
+},
+{
+    199.44,203.52
+     Covidian has made multiple design updates to further enhance the user
+},
+{
+    203.52,210.4
+     experience. Such improvements include adjustable bedhook to accommodate a wide range of bed sizes,
+},
+{
+    211.2,215.76
+     improved durability. By using a more robust material and molding design,
+},
+{
+    215.76,219.68
+     the 700 series is able to withstand the rigorous hospital environment.
+},
+{
+    220.32,223.76
+     The new material will stand up to the majority of cleaning agents,
+},
+{
+    223.76,225.16
+     and the grooveless design
+},
+{
+    225.16,229.38
+     allows minimal liquid ingress, making cleaning of the pumps easy.
+},
+{
+    229.38,233.0
+     The 700 series controller has reduced noise level.
+},
+{
+    233.0,238.4
+     The muffled motor produces lower decibel levels than the Kendall SCD Express and other competitive
+},
+{
+    238.4,240.24
+     devices on the market.
+},
+{
+    240.24,243.88
+     It was designed to help minimize patient and clinician disturbance.
+},
+{
+    243.88,249.2
+     A USB port has been added to allow the end user to easily upgrade the controller's software,
+},
+{
+    249.2,253.3
+     providing access to continuing innovation from COVID-19.
+},
+{
+    253.3,258.7
+     The graphical user interface allows end users to identify and address alarm issues,
+},
+{
+    258.7,263.0
+     minimizing patient-clinician disturbance and maximizing therapy.
+},
+{
+    263.0,268.52
+     The graphical user interface comes with a prominent 3.2-inch color LCD screen that will
+},
+{
+    268.52,275.0
+     clearly communicate to the end user how to operate the pump and diagnose alarms.
+},
+{
+    275.0,278.76
+     To use the pump, simply apply the sleeves to the patient's leg.
+},
+{
+    278.76,285.4
+     Connect the sleeves to the tubing and connect the tubing to the pump.
+},
+{
+    285.4,289.6
+     Press the power button to start the pump for leg or foot garment detection.
+},
+{
+    289.6,295.4
+     The 700 series will detect garments on the patient's limb and will show this on the LCD screen.
+},
+{
+    295.4,301.0
+     If the foot cuff option is being used, simply follow the same steps as the leg sleeves.
+},
+{
+    301.0,304.56
+     Once applied, one touch operation will start the pump.
+},
+{
+    304.56,308.0
+     Foot cuffs will be detected and show on the LCD screen.
+},
+{
+    308.0,314.0
+     Confirm the Foot Cuff option by pressing the A and B buttons that coincide with the displayed checkmarks.
+},
+{
+    314.0,327.0
+     The 700 Series 3.2 inch color LCD screen helps end users easily recognize and resolve alarms through animated alarm resolution. The 700 series has three alarm categories.
+},
+{
+    327.0,333.0
+     User Resetable, Manual Reset Required, and Service Required.
+},
+{
+    333.0,335.0
+     The first is User Resetable.
+},
+{
+    335.0,339.0
+     This allows the user to address the issue and resume operation
+},
+{
+    339.0,343.0
+     by pressing the A or B button corresponding to the affected port.
+},
+{
+    343.0,352.0
+     This eliminates the need for the controller to be powered off and on before resuming therapy. In this example, the tubing has been disconnected.
+},
+{
+    352.0,357.0
+     This will coincide with an error message and a yellow triangle with an exclamation point.
+},
+{
+    357.0,365.16
+     In order to address this alarm, step one, identify the point of tubing disconnection, either at the controller or the sleeve.
+},
+{
+    365.16,366.16
+     Step 2.
+},
+{
+    366.16,370.48
+     Reconnect the tubing.
+},
+{
+    370.48,371.48
+     Step 3.
+},
+{
+    371.48,376.56
+     Press the A button that coincides with the check mark and therapy will resume.
+},
+{
+    376.56,383.96
+     An alarm indicating a manual reset is required can be resolved by the user, but requires
+},
+{
+    383.96,388.0
+     the unit to be powered off and then back on once the issue is addressed.
+},
+{
+    389.0,392.0
+     Here the location of the problem is shown along with the visual.
+},
+{
+    393.0,396.0
+     This is a pressure alarm, tube kinking on the A-Sign.
+},
+{
+    396.0,401.0
+     As you can see, there is also an alarm code with a red triangle and exclamation point.
+},
+{
+    401.0,408.0
+     To address this problem, step one, identify the location of the tubing kink. Step two, fix the kink tubing.
+},
+{
+    408.0,414.0
+     And step three, power the controller off and then back on to continue the patient's therapy.
+},
+{
+    414.0,421.0
+     The last of the alarm resolution categories is service required. When a nurse or end user sees this visual,
+},
+{
+    421.0,429.62
+     service is required to this controller. The controller should be sent to the hospital's biomedical engineering department.
+},
+{
+    429.62,434.4
+     The animated alarm resolution feature on the 700 series controller will clearly communicate
+},
+{
+    434.4,439.22
+     to end users and minimize time spent identifying alarm issues.
+},
+{
+    439.22,None
+     This will help reduce downtime and maximize therapy as prescribed by the physician.
+},

@@ -1,0 +1,84 @@
+{
+    0.0,4.88
+     This episode of SeaTally Run is brought to you by Run & Fun and M-Tech Results.
+},
+{
+    18.24,22.24
+     Hi, I'm Olympian Keri Telafson and today I'm going to share with you five home remedies
+},
+{
+    22.24,29.0
+     that will help ease your aches and pains. So let's get after it.
+},
+{
+    29.0,30.0
+     Rolling pin.
+},
+{
+    30.0,35.96
+     Roll out your tight calves, hamstrings, quads, shins, whatever.
+},
+{
+    35.96,39.52
+     Just roll it out and make sure to wash it when you're done.
+},
+{
+    39.52,40.68
+     Back towel.
+},
+{
+    40.68,42.36
+     Use it for stretching.
+},
+{
+    42.36,45.0
+     Simply wrap around your foot, pull and hold.
+},
+{
+    46.0,55.0
+     Tennis ball. Roll on it with your feet, your calves, your IT band, your glutes, whatever it is. Just roll on it.
+},
+{
+    56.0,65.06
+     Frozen veggies. I like to use this because it molds a little better to your body, whether it's your foot, your ankle, your quad, your
+},
+{
+    65.06,72.9
+     shoulder, whatever it may be. Petroleum jelly. Have a problem with chafing or want to avoid
+},
+{
+    72.9,80.66
+     frostbite? Apply petroleum jelly to your face, the armpit, and other problem areas.
+},
+{
+    80.66,90.0
+     Thanks for joining me for Home Remedies. Get After It! Hi, I'm Olympian Carrie Tullipson and today we're doing... and today we're doing...
+},
+{
+    90.0,98.0
+     Today I'm going to share with you five household items that will help ease your aches and pains of getting after it.
+},
+{
+    99.0,105.7
+     Rolling, rolling, rolling with the rolling pin. Do, do, do, do.
+},
+{
+    105.7,111.7
+     Except actually massage yourself.
+},
+{
+    111.7,112.7
+     Yep.
+},
+{
+    112.7,115.7
+     I had to, I had to.
+},
+{
+    115.7,117.7
+     Okay, ready?
+},
+{
+    117.7,None
+     I'm doing it again.
+},

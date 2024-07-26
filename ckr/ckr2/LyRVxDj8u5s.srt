@@ -1,0 +1,44 @@
+{
+    0.0,9.0
+     In this video, I'm going to teach you how to administer an EpiPen if someone is having a severe allergic reaction.
+},
+{
+    9.0,15.0
+     To administer the EpiPen, first get the prescribed EpiPen.
+},
+{
+    15.0,21.0
+     Then, remove the safety cap and follow instructions printed on the pen.
+},
+{
+    21.0,27.8
+     Hold the EpiPen in your fist without touching either end. Then push the
+},
+{
+    27.8,33.44
+     side with the needle hard against the side of the person's thigh through
+},
+{
+    33.44,41.56
+     clothing or bare skin. Hold the EpiPen in place for 10 seconds. Remove the EpiPen
+},
+{
+    41.56,48.0
+     by pulling it straight out. Rub the injection site for about 15 seconds.
+},
+{
+    48.0,55.0
+     Make sure to note the time of the injection and dispose of the EpiPen in a sharps container.
+},
+{
+    55.0,59.0
+     An EpiPen should work within 15 seconds to a few minutes.
+},
+{
+    59.0,65.52
+     Be prepared to give a second dose if the first dose is not sufficient.
+},
+{
+    65.52,70.64
+     Now that you've administered your EpiPen, you should call for emergency help.
+},

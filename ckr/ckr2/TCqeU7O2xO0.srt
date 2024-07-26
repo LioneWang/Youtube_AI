@@ -1,0 +1,144 @@
+{
+    0.0,5.08
+     The next wound is going to be a puncture.
+},
+{
+    5.08,12.96
+     In this scenario we have a stick that is stuck and sticking out of her skin, which is a puncture
+},
+{
+    12.96,13.96
+     wound.
+},
+{
+    13.96,21.4
+     So, again, we want to make sure that we have our gloves on.
+},
+{
+    21.4,28.0
+     First thing we want to instruct the patient to do is never to push or pull the object out.
+},
+{
+    28.0,34.0
+     Furthermore, we want to instruct the patient that the reason that we keep that in is because it is number one,
+},
+{
+    34.0,36.0
+     it's applying direct pressure to the wound.
+},
+{
+    36.0,42.0
+     And number two, we do not know the exact direction that it went in.
+},
+{
+    42.0,46.0
+     So by pulling it out would cause a second injury.
+},
+{
+    46.0,54.0
+     So leave the wound in and if she had to she can hold it all the top to keep it from moving.
+},
+{
+    54.0,67.0
+     First thing I want to do is with our saline solution I want to make sure that we clean around the base of the wound and
+},
+{
+    67.0,90.72
+     wipe that up with our gauze if we need to. Our excess saline. And then after that's dry, we want to take a couple pieces of gauze, clean gauze, and
+},
+{
+    90.72,103.5
+     put those at the base of the item, this knife or stick, pencil, whatever it might be.
+},
+{
+    103.5,107.0
+     Once we have that there, again, I want to ask the patient,
+},
+{
+    107.0,112.0
+     if she has a good hand, she can help us by holding the items.
+},
+{
+    112.0,118.0
+     Next, what we're going to do is we're going to stabilize the knife
+},
+{
+    118.0,121.0
+     so that it doesn't move.
+},
+{
+    121.0,131.52
+     We can do that by very multiple methods. We can use triangular bandage or towel and wrap that around to support it.
+},
+{
+    131.52,136.92
+     We can use elastic wraps if we needed to.
+},
+{
+    136.92,141.52
+     Or we can also use roller bandages.
+},
+{
+    141.52,147.52
+     So I'm going to use the roller bandages for this case. The one
+},
+{
+    147.52,150.92
+     thing you also want to make sure is you want to make sure that you cover it
+},
+{
+    150.92,156.86
+     high enough so that there isn't much sticking out. So if you needed to make
+},
+{
+    156.86,173.84
+     multiple layers you can do that. Once it's covered enough, then we want to stabilize the wraps on the side or tiles
+},
+{
+    173.84,187.6
+     whatever you put on there. So again, hopefully without making much movement to the punctured item. We're going to go around the wound and then again you can do this either
+},
+{
+    187.6,222.32
+     with an elastic wrap or roller bandage would be the best. Again you're putting it tight going to stay. It doesn't move. And then the last thing that we would always want to do
+},
+{
+    222.32,226.96
+     is check distal pulse at the wrist or creptillary refill and
+},
+{
+    227.72,229.72
+     sensation just to make sure that
+},
+{
+    229.8,231.8
+     It's not too tight
+},
+{
+    232.36,237.22
+     And we also want to make sure that we refer her to the hospital or
+},
+{
+    237.96,243.48
+     doctor's office to obviously get that taken out under sterile conditions and
+},
+{
+    244.48,251.84
+     Again reminder not to not to move it or bump it on anything.
+},
+{
+    251.84,258.28
+     And also she might need to get a tennis shot depending on what type of object.
+},
+{
+    258.28,264.04
+     Or check her tennis shot records just to make sure that they were up to date.
+},
+{
+    264.04,268.24
+     And look for sign of infection after the injury.
+},
+{
+    268.24,268.48
+     That's it.
+},

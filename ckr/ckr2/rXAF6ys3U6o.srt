@@ -1,0 +1,180 @@
+{
+    0.0,7.84
+     So let's take a closer look at the anatomical landmarks of a baby.
+},
+{
+    7.84,13.6
+     Now a baby is normally categorized as any child that's under one year of age.
+},
+{
+    13.6,17.82
+     But there's some important things to think about when we're talking about babies.
+},
+{
+    17.82,19.84
+     And this is a nice healthy baby.
+},
+{
+    19.84,25.24
+     You can tell because her lips are nice and pink, her mucus membrane is nice and pink, her
+},
+{
+    25.24,29.48
+     nail beds are nice and pink, she's moving around, she doesn't seem to be in
+},
+{
+    29.48,34.52
+     distress whatsoever. A baby who might be in distress especially respiratory wise
+},
+{
+    34.52,39.64
+     would maybe have some circle moral cyanosis, blue around the lips and around
+},
+{
+    39.64,47.52
+     the the mucus membrane. Her nail beds might also be blue. Don't confuse that with a cold hand of a baby
+},
+{
+    47.52,53.52
+     because that can turn blue as well pretty easily. But I really want to pay special attention to the
+},
+{
+    53.52,58.88
+     anatomical landmarks that are going to be really important to identify when we're actually treating
+},
+{
+    58.88,70.0
+     a baby with CPR or with chest compressions for a choking baby unconscious. So let's take a little closer look at some of those important landmarks that we talk about.
+},
+{
+    70.0,75.0
+     As we open up the onesie, we can see the mid nipple line.
+},
+{
+    75.0,80.0
+     It's important for us to note that we need to put our two fingers on the center of the chest,
+},
+{
+    80.0,85.0
+     right on the sternum, just barely below that mid nipple line.
+},
+{
+    85.0,90.0
+     That's when we're going to do that one-third of the depth of the full chest for our compressions
+},
+{
+    90.0,94.0
+     at a rate of 100 to 120 times per minute.
+},
+{
+    94.0,100.0
+     You can also see now that I have that open, this brachial artery location is right here,
+},
+{
+    100.0,105.64
+     right between the bicep and the tricep against that little humorous bone.
+},
+{
+    105.64,107.68
+     Because they really don't have much of a neck
+},
+{
+    107.68,109.48
+     to find a carotid artery,
+},
+{
+    109.48,112.0
+     so we have to actually use the brachial artery
+},
+{
+    112.0,113.24
+     for that location.
+},
+{
+    114.24,117.64
+     Another thing to keep in mind is you can really see here
+},
+{
+    117.64,120.72
+     that they like to, you know, they've got such a big head
+},
+{
+    120.72,122.4
+     compared to the rest of their body
+},
+{
+    122.4,129.06
+     that it tends to put their chin down on their chest. So we're gonna want to just get something a little bit underneath
+},
+{
+    129.06,134.1
+     their shoulder blades is a nice shortcut that's still firm and won't let them sink
+},
+{
+    134.1,137.98
+     into the mattress when we're doing compressions but that helps to hold
+},
+{
+    137.98,143.26
+     their head in that sniffing position. These are all important landmarks when it
+},
+{
+    143.26,145.86
+     comes to where to actually do the
+},
+{
+    145.86,151.26
+     compressions. The only other variation is the circumferential compressions where
+},
+{
+    151.26,155.54
+     we hold around the baby's chest and we place our thumbs right in that same
+},
+{
+    155.54,162.26
+     sternal location. We're also going to take note that this baby's airway is
+},
+{
+    162.26,166.12
+     literally only the size approximately of their
+},
+{
+    166.12,171.56
+     little pinky. That's a pretty small airway and so as opposed to a child and
+},
+{
+    171.56,177.12
+     adult where we do a head tilt chin lift, open the airway, a strong head tilt chin
+},
+{
+    177.12,182.64
+     lift or a chin to the chest sometimes is enough to actually occlude the airway
+},
+{
+    182.64,185.6
+     and make it difficult for a baby to breathe.
+},
+{
+    185.6,191.0
+     So that's why we put them into a slightly sniffing position, not a full head tilt chin
+},
+{
+    191.0,192.0
+     lift.
+},
+{
+    192.0,196.36
+     Now you can see too that the size of their fist is pretty small.
+},
+{
+    196.36,199.32
+     That's approximately the size of their heart.
+},
+{
+    199.32,210.0
+     And it's located right under the sternum in the center of their chest. These are all important anatomical landmarks as we move into the actual training segments
+},
+{
+    210.0,216.0
+     of how to give effective CPR and chest compressions for the unconscious choking patient.
+},

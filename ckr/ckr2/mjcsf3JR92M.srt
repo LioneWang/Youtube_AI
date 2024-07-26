@@ -1,0 +1,152 @@
+{
+    0.0,12.84
+     Patients who need constant oxygen at home or while they sleep are often prescribed home
+},
+{
+    12.84,19.88
+     oxygen concentrators. Oxygen concentrators take air from your surroundings, extract oxygen,
+},
+{
+    19.88,26.9
+     and filter it into purified oxygen for you to breathe. Oxygen can be drying to your nose,
+},
+{
+    26.9,29.44
+     so some patients use a humidifier bottle
+},
+{
+    29.44,31.12
+     that can be attached to your home unit
+},
+{
+    31.12,33.24
+     to help moisten the oxygen you inhale.
+},
+{
+    34.44,36.24
+     If you use a humidifier bottle,
+},
+{
+    36.24,38.64
+     start by filling it with distilled water
+},
+{
+    38.64,40.84
+     and attach it to the oxygen outlet.
+},
+{
+    40.84,43.48
+     Then, plug your home oxygen concentrator
+},
+{
+    43.48,45.0
+     into an electrical source.
+},
+{
+    45.0,48.0
+     It needs to stay plugged in at all times to work properly.
+},
+{
+    48.0,54.0
+     An alarm will sound if it's not plugged in, or if there is an abrupt power failure.
+},
+{
+    54.0,62.0
+     Next, attach your nasal cannula or face mask and set the rate, which is prescribed to you by your doctor.
+},
+{
+    62.0,66.96
+     You will notice the oxygen is prescribed in number of liters per minute.
+},
+{
+    66.96,69.32
+     The flow rate, or number of liters per minute,
+},
+{
+    69.32,72.16
+     is your prescription.
+},
+{
+    72.16,74.52
+     Do not self-adjust your oxygen flow rate
+},
+{
+    74.52,77.48
+     without consulting your doctor.
+},
+{
+    77.48,79.56
+     You can use a nasal cannula connected
+},
+{
+    79.56,82.8
+     with a hose of up to 50 feet around your home.
+},
+{
+    82.8,85.28
+     Be careful when you're walking, so you do not trip on it.
+},
+{
+    86.08,91.2
+     Care for your system by washing your nasal cannula or face mask weekly with a mild dish soap
+},
+{
+    91.2,98.08
+     and warm water. Clean them more frequently if you're sick and let air dry. Be sure not to get water
+},
+{
+    98.08,105.6
+     in the tubing and replace it if it is damaged. You can get replacement tubing from your oxygen supplier.
+},
+{
+    107.9,110.2
+     Clean your humidifier bottle every three days with warm water and mild dish soap.
+},
+{
+    110.2,113.76
+     Make sure you rinse out all of the soap with hot water.
+},
+{
+    113.76,116.44
+     Then, soak it in a vinegar and water solution
+},
+{
+    116.44,120.04
+     for a few minutes to help get rid of any extra bacteria.
+},
+{
+    120.04,123.36
+     Dry the bottle with a paper towel and then let it air dry.
+},
+{
+    126.04,133.32
+     Clean the machine's filter once a month by removing the filter and dipping it into a clean container filled with water and mild dish soap.
+},
+{
+    134.04,140.88
+     Scrub the filter with a washcloth to remove any small pieces of dirt or dust and rinse it under water to remove all soap residues.
+},
+{
+    141.56,146.32
+     Then set the filter on a clean dry towel and let it air dry completely before
+},
+{
+    146.32,152.32
+     putting it back in the machine. A home oxygen concentrator can help you stay healthier and
+},
+{
+    152.32,158.56
+     more active in your home. Your doctor might also prescribe a portable oxygen concentrator
+},
+{
+    158.56,168.0
+     or oxygen in a metal tank for use outside the home. It might be daunting at first to get started with a new oxygen device.
+},
+{
+    168.0,173.0
+     But with practice, you will gain confidence and adjust to life with oxygen therapy.
+},
+{
+    175.0,178.0
+     For more information, visit lung.org.
+},

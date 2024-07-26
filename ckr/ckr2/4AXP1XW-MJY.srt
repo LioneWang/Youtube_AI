@@ -1,0 +1,324 @@
+{
+    0.0,7.0
+     Hi, I'm Bob Schrupp, physical therapist, Brad Heideck, physical therapist, together we are the most famous physical therapists on the internet
+},
+{
+    7.0,8.0
+     In our opinion, of course, Bob Schrupp
+},
+{
+    8.0,14.0
+     In our last video, Brad, I noticed for somehow my belt got way twisted over and I realized that you wanted to be the same way
+},
+{
+    14.0,15.0
+     That's cool, huh?
+},
+{
+    15.0,17.0
+     No, I'm going to open it back
+},
+{
+    17.0,18.0
+     Alright, well, that's a topic
+},
+{
+    18.0,28.12
+     Today we're going to talk about, you know, you're having some sciatic pain, is it coming from your piriformis muscle? So there's three tests you can do, the tests that we do, but there's three tests
+},
+{
+    28.12,31.82
+     you can do it and not that you're gonna be the doctor, but you might be able to
+},
+{
+    31.82,35.04
+     form your medical professional then, what's going on?
+},
+{
+    35.04,36.14
+     To learn your body more.
+},
+{
+    36.14,39.68
+     So very simple, number one, what is the piriformis first? We're going to that
+},
+{
+    39.68,45.28
+     Brad, right? Piriformis is a muscle in your butt, it's a small little muscle and it
+},
+{
+    45.28,50.32
+     goes from the sacrum, here's this bone right here which is right above your tailbone
+},
+{
+    50.32,54.72
+     right and it goes from there on the front part of it and it goes out to your hip
+},
+{
+    54.72,59.24
+     actually the big bone on top of that, the greater shoulder, and the reason it can
+},
+{
+    59.24,64.12
+     be a problem, a reason why it can give you some sciatic type pain is the sciatic
+},
+{
+    64.12,65.48
+     nerve goes right underneath it and so it can tighten you some sciatic type pain is the sciatic nerve goes right underneath it
+},
+{
+    65.48,68.94
+     And so it can tighten up on that and send pain down your leg
+},
+{
+    68.94,69.94
+     Pitch!
+},
+{
+    69.94,73.62
+     They actually call it Pseudo-psychotica, false sciatic
+},
+{
+    73.62,79.14
+     Oh, I know what Pseudo means Bob, but the other thing, this is a small, this is a pretty good representation
+},
+{
+    79.14,84.76
+     It's a small strap muscle, and it has a trigger point in it that can tighten up and knot up
+},
+{
+    84.76,87.0
+     And it's just one of those muscles that
+},
+{
+    87.28,88.78
+     Gets in the way a lot
+},
+{
+    88.78,93.1
+     One of the first things that I see Brad when I start thinking it might be pierce farmers is
+},
+{
+    93.38,98.66
+     When they're not really having any problems in their back now you can get back pain along with this
+},
+{
+    99.1,103.3
+     But that's the first thing I start seeing you know their back really doesn't bother me
+},
+{
+    103.3,105.96
+     But I'm getting pain down like my leg and in my butt
+},
+{
+    105.96,107.96
+     Right, you know then it might be piriformis
+},
+{
+    108.28,113.98
+     But the first thing we're gonna do is we're actually gonna try to put our fingers on that and see if one side hurts
+},
+{
+    114.24,119.52
+     Versus the other so you could do that laying down or you could do it sitting up, right?
+},
+{
+    119.6,124.56
+     You want to show Brad? There's that bone. There's the sacrum. Here's the bone right here
+},
+{
+    124.56,125.44
+     He's talking about right there. It's a sacrum. Here's the bone right here, he's talking about it.
+},
+{
+    125.44,130.88
+     Right there, it's a sacrum, so we're gonna go right there, right there, and you're gonna
+},
+{
+    130.88,135.2
+     palpate around, or in other words kind of poke around on your butt, you might pull up that
+},
+{
+    135.2,139.68
+     leg and get in there, and you'll fight it, it will clearly stick out, and you're like,
+},
+{
+    139.68,143.6
+     oh, oh that's the spot! Some people feel like they're sitting on a golf ball,
+},
+{
+    143.6,149.62
+     they say, yeah. And then go on the other other side you can compare one side to the other and there will be a dramatic
+},
+{
+    149.62,155.8
+     Yeah, that's what you're looking for is the difference between the two because it's very unlikely you're gonna have piriformis syndrome on both sides
+},
+{
+    156.0,158.16
+     So that's number one number two
+},
+{
+    158.64,162.12
+     The one that I always see on people is
+},
+{
+    164.2,167.72
+     Is that we you stretch it you stretch the piriformis muscle
+},
+{
+    167.72,171.08
+     and you'll find one side hurts and the other side doesn't.
+},
+{
+    171.08,173.52
+     So first I'm gonna check the left side.
+},
+{
+    173.52,176.2
+     So I cross my leg over,
+},
+{
+    176.2,178.64
+     so the ankle's a little past the knee here,
+},
+{
+    178.64,180.68
+     and I take this knee now and pull it
+},
+{
+    180.68,182.64
+     towards the opposite shoulder.
+},
+{
+    182.64,184.68
+     So I'm gonna pull this over,
+},
+{
+    184.68,187.22
+     and if that hurts or gives me symptoms
+},
+{
+    187.22,189.22
+     or you know
+},
+{
+    189.22,196.28
+     it really stretches. I'm going to compare it to the other side. So I'll bring that one over, pull the knee to the shoulder and
+},
+{
+    197.16,203.46
+     if there's one side that's worse than the other, the one on the side that hurts, then your palpating or pushing on it.
+},
+{
+    203.82,206.68
+     Another possibility that's piriformis syndrome.
+},
+{
+    206.68,209.92
+     Right, yeah so you're stretching it and it's going to be very clear.
+},
+{
+    209.92,212.4
+     It's not going to be wow, this one's a little bit more.
+},
+{
+    212.4,214.44
+     It's going to be, this really hurts more.
+},
+{
+    214.44,218.08
+     Alright, the third thing you could do, the third test you could do, you can actually
+},
+{
+    218.08,221.2
+     put some resistance against the muscle and see if it hurts when you do that.
+},
+{
+    221.2,222.2
+     Sure.
+},
+{
+    222.2,224.76
+     You might put a belt around my knees perhaps.
+},
+{
+    224.76,227.0
+     Yes I do mind, but I'm going to do it anyways Bob. Very nice when you do that. Sure. You might put a belt around my knees Brad. Yes I do mind but I'm gonna do it anyway.
+},
+{
+    227.0,234.6
+     Very nice of you. Okay so this is just gonna be offer some resistance. It doesn't have to be a white belt.
+},
+{
+    234.6,245.6
+     It can be a black belt. Maybe a little tighter than that Brad. A little tighter. Okay. I gave him one job and look what he does. Okay, well actually I don't want it that tight.
+},
+{
+    247.92,254.56
+     Because you do want a little bit of farther apart. He was right. This is the first time it is left.
+},
+{
+    257.28,260.24
+     Okay, so you do want it far apart like this and now you're going to
+},
+{
+    260.96,266.6
+     try to spread your legs apart with your feet touching, because you're basically going into external rotation
+},
+{
+    266.6,270.4
+     For you not professionals, right?
+},
+{
+    270.4,274.0
+     Right, so we can call this the clam show if we have it together
+},
+{
+    274.0,278.4
+     So here's the clam show, clam, num, num, num, num, tru tru tru anyways
+},
+{
+    278.4,283.2
+     So you push out and that's going to make that muscle work, that pure form
+},
+{
+    283.2,285.96
+     If it's injured,'s gonna create pain exactly
+},
+{
+    286.2,289.22
+     And the last test I don't know if you could do this baby on your own too
+},
+{
+    289.22,292.46
+     You're gonna bring the leg up like this and now you're gonna pull it out again and
+},
+{
+    292.94,299.22
+     Because at this point is an ab doctor right and you do the same thing you can try it there and you can try it there
+},
+{
+    299.22,301.22
+     It's a little easier to do with someone
+},
+{
+    301.74,305.66
+     Learning here the right so that's what Bob is referring to if you could do it on your own
+},
+{
+    306.22,310.04
+     So those if those if you're finding all three of those are positive
+},
+{
+    310.2,315.9
+     There's a good chance you have piriformis syndrome and then you're gonna want to you know and do is watch our video on how to treat it
+},
+{
+    315.9,320.88
+     Right, I'll put that right here Brad. Yeah put it right there and if you haven't subscribed yet
+},
+{
+    320.96,327.56
+     You're gonna go right down there and do that down there, right so I really appreciate that Brad. Thanks a lot. Thank you
+},

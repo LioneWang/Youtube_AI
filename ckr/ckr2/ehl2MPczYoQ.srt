@@ -1,0 +1,48 @@
+{
+    0.0,13.48
+     In this demonstration I'm going to show you how to accurately measure wound dimensions
+},
+{
+    13.48,17.4
+     using this simulated wound model.
+},
+{
+    17.4,25.82
+     You will need a disposable single use paper ruler to do your wound dimensions. We will start with this wound as this is a
+},
+{
+    25.82,33.04
+     flat wound that's easily measurable. Take your paper ruler and place it on the
+},
+{
+    33.04,38.72
+     longest length of the wound remembering that that runs on the sagittal plane.
+},
+{
+    38.72,45.92
+     When you put your ruler against the wound you may need to move it several times in order to
+},
+{
+    45.92,53.12
+     ascertain the maximum length of the wound as this may not be in the centre.
+},
+{
+    53.12,59.82
+     In this case the longest length of the wound is 4.5 centimetres. Then we're
+},
+{
+    59.82,71.88
+     ready to measure the width of the wound remembering that that it runs on the transverse plane at 90 degrees to the length. Again we take our wound measuring
+},
+{
+    71.88,80.46
+     device and place it adjacent to the wound at the widest point. In this case
+},
+{
+    80.46,85.0
+     the width of the wound is 5.5 centimetres.
+},
+{
+    85.52,89.2
+     These can then be documented on your wound assessment chart.
+},

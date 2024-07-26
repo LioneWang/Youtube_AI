@@ -1,0 +1,168 @@
+{
+    0.0,6.2
+     How to Improve Blood Circulation.
+},
+{
+    6.2,10.48
+     Tingling or cold feet or hands, bluish skin and cuts or wounds that take a long time to
+},
+{
+    10.48,13.68
+     heal are all indicative of circulatory problems.
+},
+{
+    13.68,17.28
+     If you suffer from any of these symptoms, there are steps you can take to improve your
+},
+{
+    17.28,18.76
+     circulation.
+},
+{
+    18.76,29.0
+     You will need Exercise Water Healthy foods Warm baths Reduce stress A doctor Supplements and herbal remedies
+},
+{
+    29.0,31.82
+     A yoga class Step 1.
+},
+{
+    31.82,32.82
+     Get some exercise.
+},
+{
+    32.82,37.9
+     If you have a desk job, stand up once an hour and do some jumping jacks or knee bends.
+},
+{
+    37.9,40.66
+     While you're sitting, tap your legs with your hands.
+},
+{
+    40.66,43.7
+     Try to get at least 30 minutes of exercise a day.
+},
+{
+    43.7,45.48
+     Prop your feet up while you sit.
+},
+{
+    45.48,50.52
+     Lean back and put your feet up on your desk for short periods of time throughout the day.
+},
+{
+    50.52,51.52
+     Step 2.
+},
+{
+    51.52,54.8
+     Drink lots of water, room temperature, not iced.
+},
+{
+    54.8,56.56
+     Water improves circulation.
+},
+{
+    56.56,61.56
+     Cut sugary sodas and alcohol out of your diet and replace them with water.
+},
+{
+    61.56,62.68
+     Step 3.
+},
+{
+    62.68,65.2
+     Eat lots of fruit, vegetables, and whole grains.
+},
+{
+    65.2,69.84
+     Cut saturated fats from your diet and eat moderate amounts of unsaturated fats.
+},
+{
+    69.84,72.04
+     Limit your sugar and salt intake.
+},
+{
+    72.04,75.56
+     Poor dietary habits can affect your blood flow.
+},
+{
+    75.56,76.56
+     Step 4.
+},
+{
+    76.56,77.56
+     Don't smoke.
+},
+{
+    77.56,79.36
+     If you're a smoker, quit.
+},
+{
+    79.36,83.4
+     Nicotine use is known to cause circulation problems.
+},
+{
+    83.4,84.4
+     Step 5.
+},
+{
+    84.4,85.84
+     Take warm baths.
+},
+{
+    85.84,89.92
+     Soaking your body, especially your feet in warm water, can significantly increase your
+},
+{
+    89.92,91.84
+     circulation.
+},
+{
+    91.84,93.24
+     Step 6.
+},
+{
+    93.24,94.68
+     Lower your stress.
+},
+{
+    94.68,97.0
+     Find relaxing activities or hobbies.
+},
+{
+    97.0,101.28
+     Humulative stress can have an adverse effect on your blood circulation.
+},
+{
+    101.28,105.36
+     Enroll in a yoga class to relax and to exercise.
+},
+{
+    105.36,106.44
+     Step 7.
+},
+{
+    106.44,109.24
+     See a doctor if your circulation problem persists.
+},
+{
+    109.24,114.08
+     Ask about supplements such as vitamins, calcium, magnesium, and omega-3 fish oil.
+},
+{
+    114.08,117.24
+     Correct the problem naturally with herbs or other remedies.
+},
+{
+    117.24,121.52
+     Poor circulation can contribute to the formation of a number of serious conditions, including
+},
+{
+    121.52,124.0
+     diabetes and high blood pressure.
+},
+{
+    124.0,128.96
+     Did you know Bone marrow produces about 95 percent of the body's blood cells.
+},

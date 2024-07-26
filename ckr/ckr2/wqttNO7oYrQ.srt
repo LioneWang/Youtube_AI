@@ -1,0 +1,56 @@
+{
+    0.0,3.0
+     Kluarga, kawasan, teknik bandaging,
+},
+{
+    3.0,5.0
+     menghantar,
+},
+{
+    5.0,7.5
+     menghantar perangkatan, meminimiskan pergerakan.
+},
+{
+    7.5,10.0
+     Menghantar perangkatan atau menghantar perangkatan
+},
+{
+    10.0,12.0
+     untuk menghantar perangkatan.
+},
+{
+    12.0,14.0
+     Jangan menghantar perangkatan.
+},
+{
+    14.0,17.0
+     Menghantar perangkatan atau pengurusan lain
+},
+{
+    17.0,20.0
+     untuk menghantar perangkatan dan menghantar bersama.
+},
+{
+    20.0,21.0
+     Pada menggunakan bandage roller,
+},
+{
+    21.0,23.0
+     menghantar berada di atas perangkatan dan
+},
+{
+    23.0,25.0
+     berada di atas per kawasan bersama.
+},
+{
+    26.0,29.0
+     Jangan kawasan di dalam perang atau menang.
+},
+{
+    29.0,32.0
+     Jangan mengembangkan kawasan atau kawasan.
+},
+{
+    32.0,36.0
+     Tanya kemahiran untuk mengawal perang.
+},

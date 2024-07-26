@@ -1,0 +1,256 @@
+{
+    0.0,19.32
+     Oh man, I've got a headache and it feels this big.
+},
+{
+    19.32,20.8
+     Hey everybody it's Doctor Jo.
+},
+{
+    20.8,28.28
+     Today I'm going to show you some simple stretches and exercises if you have a tension headache. Let's get started. To start off you want to just loosen up
+},
+{
+    28.28,32.68
+     those neck muscles. You can do some active range of motion, simply just
+},
+{
+    32.68,36.96
+     starting like you're turning your head back behind you looking at something
+},
+{
+    36.96,42.12
+     behind you. Hold it for about two or three seconds. Come back the other way
+},
+{
+    42.12,47.0
+     looking behind you holding it there two to three seconds, coming back.
+},
+{
+    47.0,52.0
+     You can do that up to five to ten times, then taking your ear towards your shoulder.
+},
+{
+    52.0,57.0
+     Now it's not bringing your shoulder up to your ear, keep your shoulder down if you can.
+},
+{
+    57.0,63.0
+     Come down to the side, hold it for about three to five seconds, and then come back the other way.
+},
+{
+    63.0,65.12
+     Same thing, hold about three to five
+},
+{
+    65.12,69.32
+     seconds, two to three seconds, whatever you can, and do it about five to ten times.
+},
+{
+    69.32,75.04
+     Then you want to tuck your chin in towards your chest and then look up
+},
+{
+    75.04,80.2
+     towards the ceiling. So same thing, just a couple seconds, hold on each one, going
+},
+{
+    80.2,83.92
+     back and forth. That'll loosen up those muscles a little bit. Now if that's not
+},
+{
+    83.92,86.8
+     quite enough, if you're not feeling much stretch with that, you can actually then
+},
+{
+    86.8,91.04
+     put a little pressure over it. And now you want to hold it for a little bit
+},
+{
+    91.04,96.78
+     longer, so maybe about 10 to 15 seconds. And then do each direction. I've got a
+},
+{
+    96.78,101.26
+     little pop in my neck. That's a good thing. And then holding it for about 10 to
+},
+{
+    101.26,106.0
+     15 seconds. More if you want to, push your chin a little bit to the
+},
+{
+    106.0,112.64
+     side. If you have chin problems, you can make your hand do the whole side of the head instead
+},
+{
+    112.64,121.96
+     of just the chin, and then back the other way. And probably with up and down you don't
+},
+{
+    121.96,127.36
+     really need any pressure for those. The next one is to actually start activating the muscles a little bit.
+},
+{
+    127.36,133.08
+     So this is an isometric muscle activation and basically you're just pushing into your
+},
+{
+    133.08,134.08
+     hand.
+},
+{
+    134.08,139.04
+     So if I was going to look down with my chin, I'm going to put my hand on my forehead and
+},
+{
+    139.04,141.36
+     push down like I'm trying to take my chin down.
+},
+{
+    141.36,145.72
+     Now you don't want to push super hard, just a little bit to start off with.
+},
+{
+    145.72,148.12
+     Hold it about three to five seconds.
+},
+{
+    149.36,151.16
+     Do about three of those.
+},
+{
+    151.16,152.32
+     And then you can do the same thing,
+},
+{
+    152.32,154.72
+     put your hand behind your head and push back.
+},
+{
+    154.72,156.96
+     So I'd be doing this motion,
+},
+{
+    156.96,159.36
+     but my hand is stopping me from doing that motion.
+},
+{
+    159.36,161.04
+     Then I'm pushing into my hand.
+},
+{
+    161.88,163.36
+     Then pushing on the side.
+},
+{
+    164.96,167.44
+     So I'd be doing that motion and then back
+},
+{
+    167.44,174.84
+     the other way and then relaxing and then I'd be turning this way so go in that
+},
+{
+    174.84,182.8
+     direction and pushing into my hand about three to five seconds. After you do all
+},
+{
+    182.8,185.8
+     that then you can start loosening up the shoulders just a little bit.
+},
+{
+    185.8,191.48
+     So you can do shoulder shrugs, about 10 of those coming up and down.
+},
+{
+    191.48,192.84
+     Just a little pause at the top.
+},
+{
+    192.84,195.0
+     It doesn't have to be too long.
+},
+{
+    195.0,199.6
+     And then after those 10, then you can do some circles.
+},
+{
+    199.6,209.62
+     10 one way and then reverse it for the Australians going the opposite direction. Then you can do some shoulder squeezes so you're taking your shoulder blades and
+},
+{
+    209.62,214.52
+     trying to push them together squeezing in. Hold about three to five seconds for
+},
+{
+    214.52,218.68
+     this one and come back doing ten of those. The last one is going to be some
+},
+{
+    218.68,222.76
+     chin tucks. I'm going to show you how to do it lying down. Now for the chin tucks
+},
+{
+    222.76,225.72
+     roll up a nice squishy towel to give you a target. When for the chin tucks, roll up a nice squishy towel
+},
+{
+    225.72,227.1
+     to give you a target.
+},
+{
+    227.1,230.36
+     When I say chin tucks, I don't mean bring your chin
+},
+{
+    230.36,231.56
+     towards your chest.
+},
+{
+    231.56,234.24
+     Actually pushing your chin downwards.
+},
+{
+    234.24,236.36
+     So the towel gives you the target to take those
+},
+{
+    236.36,238.54
+     neck muscles and push them down.
+},
+{
+    238.54,240.56
+     Let your head rest against the ground
+},
+{
+    240.56,242.48
+     and you're pushing down that way.
+},
+{
+    242.48,244.92
+     So the chin's going down, holding it for about
+},
+{
+    244.92,248.8
+     three to five seconds and then coming up, not going down towards your
+},
+{
+    248.8,253.56
+     chest. And do that about ten times. Those were some stretches and exercises if
+},
+{
+    253.56,257.04
+     you have a tension headache. If you have any questions, leave them in the comment
+},
+{
+    257.04,261.84
+     section. If you'd like to check out some other videos, go to AskDrJo.com and
+},
+{
+    261.84,266.64
+     don't forget to follow me on Facebook and Twitter. Remember be safe, have fun,
+},
+{
+    266.64,279.92
+     and I hope you feel better soon.
+},

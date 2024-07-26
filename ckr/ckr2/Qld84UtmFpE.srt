@@ -1,0 +1,240 @@
+{
+    0.0,7.0
+     Yn ymddi'r cyfnodd, mae'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd.
+},
+{
+    7.0,11.0
+     Mae'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd yn ymddi'r cyfnodd.
+},
+{
+    11.0,19.0
+     Yn ymddi'r cyfnodd yn ymddi'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd, o'r cyfnodd.
+},
+{
+    19.0,25.24
+     Mae'n cyfnodd yn ymddi'r cyfnodd. serious. If your baby has had an electric shock you might see some of these
+},
+{
+    25.24,31.32
+     signs. They may have burns, blistered or charred skin, they may have pain or
+},
+{
+    31.32,36.2
+     weakness. An electric shock can make your baby unresponsive. If you think your
+},
+{
+    36.2,40.64
+     baby has had an electric shock you'll need to do a baby primary survey. If your
+},
+{
+    40.64,44.0
+     baby is still in contact with the electrical current turn the power off
+},
+{
+    44.0,65.0
+     if you can or use something non-metallic to break the contact like a rolled up Felly y bwysig yn cyntaf o'r cyfaint o'r cyfaint, rwy'n gwybod ymlaen o'r cyfaint, o'r cyfaint o'r cyfaint, o'r cyfaint o'r cyfaint o'r cyfaint, o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint o'r cyfaint Martha, can you hear me?
+},
+{
+    68.0,71.0
+     Next you will need to check if they are breathing. To check for normal breathing, open the airway.
+},
+{
+    71.0,75.0
+     Place one hand on your baby's forehead and very gently tilt their head back
+},
+{
+    75.0,78.0
+     with one finger gently lift the chin to open the airway
+},
+{
+    78.0,80.0
+     and check to see if they're breathing.
+},
+{
+    82.0,85.2
+     If your baby is breathing, put them into the recovery position.
+},
+{
+    85.2,89.2
+     Cradle the baby in your arms with the head tilted downwards.
+},
+{
+    89.2,94.2
+     If your baby has suffered an electric shock and has stopped breathing,
+},
+{
+    94.2,96.7
+     you need to start baby CPR.
+},
+{
+    96.7,99.7
+     This technique is for use on babies under one year old.
+},
+{
+    99.7,102.2
+     Call for help.
+},
+{
+    102.2,106.0
+     Ask a helper to call 999 or 112 o helpu ymergen.
+},
+{
+    106.0,125.52
+     Fyfodd y cilio i helpu ymlaen i'r ddechrau'r ddechrau, felly mae'n ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r and open their airway. With one hand on the forehead gently tilt their head back
+},
+{
+    125.52,130.36
+     with your fingertip gently lift the chin to open the airway. Pick out any
+},
+{
+    130.36,136.28
+     visible obstructions from the mouth and nose. Step one is puff. Take a breath, put
+},
+{
+    136.28,140.6
+     your lips around your baby's mouth and nose and make a seal. Blow gently and
+},
+{
+    140.6,146.4
+     steadily for up to one second. The chest should rise. Remove your mouth and watch yn ystod i gyda'r unrhyw. Y cest ar y cyfnod, rym ni'n gwybod i'r mwy ac yn ystod y cest.
+},
+{
+    146.4,150.4
+     Yna'r unrhyw bryd o'r cyfnod. Rwy'n gwybod 5.
+},
+{
+    159.6,165.68
+     Yn ystod y cestio, o'r cyfnod cyfnod. Rwy'n gwybod i'r cyfnod ar y cestio ar y cestio, o'r cestio cymprasyn. Rwy'n dweud y ddweud y cestio ar y ddweud y cestio,
+},
+{
+    165.68,168.62
+     ac yn ddweud y ddweud y ddweud y cestio.
+},
+{
+    168.62,171.42
+     Rwy'n ddweud y ddweud, o'r ddweud y cestio i'r cymdeithas,
+},
+{
+    171.42,173.48
+     a'r ddweud yn ddweud.
+},
+{
+    173.48,178.64
+     Rwy'n ddweud y ddweud 30 ym 100-120 cestio per sefydli.
+},
+{
+    178.64,180.64
+     Mae'n ddweud yn gweithio.
+},
+{
+    182.0,184.0
+     Felly, mae'r cyfnodd yn ymddiol. Mae'r cyfnodd yn ymddiol.
+},
+{
+    184.0,186.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    186.0,188.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    188.0,190.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    190.0,192.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    192.0,194.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    194.0,196.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    196.0,198.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    198.0,200.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    200.0,202.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    202.0,204.0
+     Mae'r cyfnodd yn ymddiol.
+},
+{
+    204.0,212.48
+     Mae'r cyfnodd yn ymddiol. Mae'r cyfnodd yn ymddiol. If you're on your own and don't have a speakerphone, stop after one minute and call 999 or 112
+},
+{
+    212.48,217.56
+     for emergency help. If a mobile phone is not available and you have to move to get to a
+},
+{
+    217.56,246.0
+     telephone, take the baby with you. Keep repeating 30 pumps, then 2 puffs until help arrives Rwy'n credu 30 pampau, ddyn nhw'n ddweud o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hynny o'r hydwyf yn cael ei ddwyf yn cael ei ddwyf. Rwyf yn cael ei ddwyf ar y bern, felly'r ddwyf yn cael ei ddwyf yn cael ei ddwyf,
+},
+{
+    246.0,248.0
+     ddim yn cael ei ddwyf.
+},
+{
+    248.0,250.0
+     Rwyf yn cael ei ddwyf yn cael ei ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf.
+},
+{
+    250.0,252.0
+     Mae'n cael ei ddwyf yn cael ei ddwyf.
+},
+{
+    252.0,254.0
+     Mae'n cael ei ddwyf yn cael ei ddwyf.
+},
+{
+    254.0,256.0
+     Mae'n cael ei ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf,
+},
+{
+    256.0,258.0
+     felly mae'n cael 999 o 112.
+},
+{
+    258.0,286.0
+     Mae'n cael ei ddwyf o'r ddwyf o'r ddwyf, mae'n cael ei ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'r ddwyf o'n meddwl. Yn gyfnodd cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r cyfnodd gyda'r bwysig yn cael ei ddweud o'r bwysig, felly mae'r bwysig yn cael ei ddweud o'r gweithwyr, yn ymweld i'r bwysig yn ymweld i'r bwysig,
+},
+{
+    286.0,288.0
+     dwi'n ddweud o'r bwysig,
+},
+{
+    288.0,290.0
+     a'r bwysig yn cael ei ddweud o'r bwysig o'r bwysig o'r bwysig o'r bwysig o'r bwysig.
+},
+{
+    290.0,292.0
+     A'r bwysig yn cael ei ddweud o'r bwysig,
+},
+{
+    292.0,294.0
+     a'r bwysig yn cael ei ddweud o'r bwysig.
+},
+{
+    294.0,296.0
+     Ddweud i'r bwysig.
+},
+{
+    296.0,298.0
+     Yn ymweld i'r bwysig,
+},
+{
+    298.0,300.0
+     ddweud i'r bwysig i'r bwysig.
+},

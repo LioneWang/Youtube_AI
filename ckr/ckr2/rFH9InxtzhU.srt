@@ -1,0 +1,88 @@
+{
+    0.0,12.08
+     Hi, this is Melanie from the Grecian Garden, your Holistic Health Specialist, showing you
+},
+{
+    12.08,18.2
+     how to facilitate healing on a scraped nose. A scraped nose can be alarming, but oftentimes
+},
+{
+    18.2,22.56
+     there's no need to panic. If you properly care for the scraped nose, you're going to
+},
+{
+    22.56,25.22
+     prevent infection, reduce pain,
+},
+{
+    25.22,28.96
+     and help it heal correctly without any scars.
+},
+{
+    28.96,31.96
+     When you have a scraped nose, you wanna first apply
+},
+{
+    31.96,33.74
+     a topical pressure.
+},
+{
+    33.74,36.7
+     This topical pressure is going to reduce any bleeding
+},
+{
+    37.62,39.46
+     and really help it to stop bleeding.
+},
+{
+    40.32,44.42
+     Secondly, you wanna apply a topical antibiotic ointment.
+},
+{
+    44.42,51.3
+     I like to use two tablespoons of cocoa butter mixed with two teaspoons of raw honey.
+},
+{
+    51.3,54.28
+     This will help to prevent infection.
+},
+{
+    54.28,56.68
+     Now you want to cover it.
+},
+{
+    56.68,59.62
+     Use a band-aid and cover the area completely.
+},
+{
+    59.62,64.08
+     You don't want to be picking at it or scratching it while it's healing.
+},
+{
+    64.08,66.72
+     Lastly, if you notice that the skin
+},
+{
+    66.72,72.6
+     is not healing or that a scar is developing, you can simply apply Weet Your Moil. Weet
+},
+{
+    72.6,77.86
+     Your Moil is the whole food complex of vitamin E. I like to use the Weet Your Moil that comes
+},
+{
+    77.86,82.96
+     in pearls because if it's just liquid in a bottle, it goes rancid very quickly. So you
+},
+{
+    82.96,90.2
+     just want to take a knife or a pair of scissors, poke a hole in the wheat-chamal capsule and apply it directly to your nose.
+},
+{
+    90.2,94.66
+     This is Melanie from the Grecian Garden, your holistic health specialist, showing you how
+},
+{
+    94.66,97.04
+     to facilitate healing on a scraped nose.
+},

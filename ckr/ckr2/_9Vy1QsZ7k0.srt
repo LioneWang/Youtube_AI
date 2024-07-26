@@ -1,0 +1,64 @@
+{
+    0.0,20.32
+     Oh, hi there. I'm Alan Guinea and today I'm going to go over TMJ dislocation and reduction.
+},
+{
+    20.32,30.72
+     I'm working today with Dr. Sarah Yee, who's behind the camera. In a temporal mandibular joint dislocation, the head of the mandible is usually dislocated
+},
+{
+    30.72,34.56
+     anteriorly from the mandibular fossa.
+},
+{
+    34.56,39.92
+     And the standard reduction technique is to place your two thumbs on the patient's inferior
+},
+{
+    39.92,46.52
+     molars and exert downward and backward pressure to replace the joint. What you need to do is
+},
+{
+    46.52,53.52
+     get the head of the mandible down and past the anterior lip of the mandibular fossa.
+},
+{
+    53.52,76.0
+     So you exert downward and backward pressure until you feel a pop. When you're doing this with a patient, I like to protect my thumbs with gauze because you're going to be exerting a lot of pressure onto the patient's teeth.
+},
+{
+    85.0,94.0
+     Take your two thumbs and place them on the patient's inferior molars. And you might have to exert significant pressure as you pull the jaw down and posterior until you feel pop.
+},
+{
+    97.0,104.0
+     Another technique you might want to try is allowing the patient to bite down on a syringe between their molars.
+},
+{
+    104.0,106.08
+     Then ask the patient to rock that on a syringe between their molars, then ask the patient
+},
+{
+    106.08,109.96
+     to rock that syringe back and forth.
+},
+{
+    109.96,116.88
+     This will allow them to use their own musculature to do the same downward and posterior force
+},
+{
+    116.88,120.74
+     and relocate the jaw.
+},
+{
+    120.74,125.0
+     Some patients may find it difficult to hold the syringe on just one side,
+},
+{
+    125.0,131.0
+     so an alternate technique is to allow them to bite down on both sides and roll the syringe.
+},
+{
+    133.0,137.0
+     And that's how you reduce a TMJ dislocation.
+},

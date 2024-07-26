@@ -1,0 +1,40 @@
+{
+    45.2,67.0
+     Felly, y gallwn ydych yn gweithio'r gweithio, mae'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r ddweud y gallwn ddweud y gallwn gweithio'r ddweud yn cael ei ddweud. Mae'n cael ei ddweud y gallwn ddweud y gallwn ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud yn cael ei ddweud y gallwn ni'n dweud y gallwn ni'n dweud y byddai'r argynnu. Y dweud y bryd yn ymdweud ychydig yn ymdweud ychydig yn ymdweud y byddai'r argynnu. Mae'n dweud y byddai'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gdwl i'r ddweud yn ystod, mae'n dweud yn gweithio. Mae'r bod yn ymddiol, mae'n meddwl i'r ddweud yn cael ysgol,
+},
+{
+    67.0,71.0
+     mae'r ddweud yn cael ysgol yn ymddiol, ac mae'n ddweud yn ymddiol.
+},
+{
+    71.0,75.0
+     Felly mae'n meddwl, mae'n meddwl i'r ddweud yn cael ysgol,
+},
+{
+    75.0,77.0
+     ac mae'n meddwl i'r ddweud.
+},
+{
+    77.0,82.0
+     Felly mae'n meddwl i'r ddweud yn ystod yn ystod yn ystod yn ystod yn ystod yn ystod.
+},
+{
+    82.0,148.0
+     Felly mae'n meddwl i'r ddweud yn ystod, mae'n meddwl i'r ddweud, mae'n gwybod yw'r oesodd, mae'n ddweud. Felly, yw'r oesodd, mae'n gweithio'n gweithio'n gweithio'n gweithio, ac mae'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'nad, mae'n ddweud o'r ffasau ar y ddweud, a mae'n ddweud o'r rhan o'r rhan o'r llwyddiad yn ymgyrch.
+},
+{
+    149.0,154.0
+     Yn ymgyrch yn ymgyrch, mae'n ddweud o'r aes, ymgyrch, ac mae'n ddweud o'r llwyddiad.
+},
+{
+    155.0,160.0
+     Mae'r arweidio, ymgyrch, ac mae'n ddweud. Mae'n ddweud o'r arweidio, dwi'n ddweud o'r llwyddiad.
+},
+{
+    161.0,186.7
+     Mae'n ddweud o'r rhan o'r llwyddiad, mae'n ddweud o'r llwyddiad, mae'n ddweud o'r llwyddiad, a mae'n ddweud o'r hyn o'r hyn o'r bwysig, o'r gweithio, o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn o'r hyn mae'r cyflawn yn gweithio. Fy'r cyflawn yn gweithio, mae'r cyflawn yn dweud,
+},
+{
+    186.7,188.7
+     ac mae'r llwyth yn gweithio yn ymlaen nhw'n gwybod.
+},

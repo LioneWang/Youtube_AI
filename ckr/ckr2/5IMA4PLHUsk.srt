@@ -1,0 +1,428 @@
+{
+    0.0,3.76
+     Hi everybody, I'm Steve with USCCA Training.
+},
+{
+    3.76,8.4
+     I'm here with my good friend Anthony Lambert, USCCA Training Counselor and owner of ACT
+},
+{
+    8.4,9.4
+     Gun Training.
+},
+{
+    9.4,13.76
+     Anthony is joining us here today so that he can help teach us how we may be able to save
+},
+{
+    13.76,14.76
+     lives.
+},
+{
+    14.76,17.96
+     Anthony, as a Chief Navy Corpsman, you've saved many lives.
+},
+{
+    17.96,21.48
+     So I feel so confident and so fortunate that you're here to help us out.
+},
+{
+    21.48,23.32
+     Why don't you teach us one of those methods?
+},
+{
+    23.32,24.32
+     Alright.
+},
+{
+    24.32,26.24
+     So today what I did, Steve,
+},
+{
+    26.24,28.08
+     is I brought a trinicate here with me.
+},
+{
+    28.08,31.24
+     It's a soft tea trinicate.
+},
+{
+    31.24,33.08
+     And there's a lot of different brands out there
+},
+{
+    33.08,33.92
+     on the market.
+},
+{
+    33.92,37.56
+     And your particular model may be a little bit different,
+},
+{
+    37.56,40.68
+     but essentially any trinicate is designed
+},
+{
+    40.68,42.8
+     to restrict the flow of blood.
+},
+{
+    42.8,44.28
+     Okay, and why would that be important?
+},
+{
+    44.28,46.44
+     Well, the number one reason that people die
+},
+{
+    46.44,49.36
+     in a combat situation or, you know,
+},
+{
+    49.36,52.36
+     let's say in a gunfight is due to blood loss,
+},
+{
+    52.36,53.34
+     major blood loss.
+},
+{
+    53.34,55.72
+     So this tool right here, when you receive it,
+},
+{
+    55.72,57.68
+     one thing I would highly recommend everyone doing
+},
+{
+    57.68,58.92
+     is check out your equipment,
+},
+{
+    58.92,61.04
+     make sure everything's all there.
+},
+{
+    61.04,65.06
+     And typically these trinocates come all the way closed.
+},
+{
+    67.86,69.18
+     Now imagine if you're the one injured and you have to put this on yourself. It's gonna be pretty hard to open that up.
+},
+{
+    69.18,72.76
+     Right. So what I recommend for everybody out there is when you get your
+},
+{
+    72.76,76.94
+     trinicates, open that strap all the way open and then refold it.
+},
+{
+    77.52,80.72
+     So it makes sense for you so you can be able to put it on yourself,
+},
+{
+    80.8,84.8
+     tighten it down and wind it up. Okay. So can I, uh,
+},
+{
+    87.4,88.88
+     demonstrate to our viewers out there on you on how to use this?
+},
+{
+    88.88,89.72
+     Absolutely, absolutely.
+},
+{
+    89.72,92.96
+     All right, on the soft tee trinicate,
+},
+{
+    92.96,94.32
+     all you gotta do is we're gonna simulate
+},
+{
+    94.32,97.04
+     that you have a severed left arm.
+},
+{
+    97.04,97.88
+     Okay.
+},
+{
+    97.88,100.52
+     Now one key thing with the trinicate is you wanna go
+},
+{
+    100.52,102.2
+     at least four inches above the wound.
+},
+{
+    102.2,105.88
+     So we'll just say that you severed your arm here
+},
+{
+    105.88,109.08
+     or you have major bleeding right from your forearm here.
+},
+{
+    109.08,113.2
+     So we want to go above the joint, never ever on the joint.
+},
+{
+    113.2,115.36
+     And then what we want to do is we want to tighten down
+},
+{
+    115.36,118.88
+     the strap as tight as possible.
+},
+{
+    118.88,120.8
+     Now, since we're doing this for training purposes,
+},
+{
+    120.8,122.6
+     I'm not going to tighten it down so hard that actually
+},
+{
+    122.6,124.32
+     restrict the flow of blood.
+},
+{
+    124.32,126.16
+     But let me know when you start feeling it.
+},
+{
+    126.16,127.72
+     Okay, and this is the windless type.
+},
+{
+    127.72,129.36
+     So you're gonna just take this,
+},
+{
+    129.36,131.6
+     you're gonna turn it, continue turning.
+},
+{
+    132.72,133.56
+     All right.
+},
+{
+    133.56,134.64
+     It's two turns and it feels like
+},
+{
+    134.64,135.88
+     I'm getting my blood pressure taken so far.
+},
+{
+    135.88,137.6
+     Okay, so we'll stop right there,
+},
+{
+    137.6,139.32
+     but in real life situation,
+},
+{
+    139.32,140.92
+     you wanna cut it all the way off.
+},
+{
+    140.92,141.76
+     Okay.
+},
+{
+    141.76,144.64
+     And then you're gonna take this ring right here
+},
+{
+    144.64,148.4
+     and just hook it to the end so it holds by itself. That's it. Okay. Now a couple of key things
+},
+{
+    148.4,153.68
+     you want to look at after you apply the Trenk kit is one, check for a distal pulse. Okay.
+},
+{
+    153.68,157.92
+     Make sure there is no pulse. There's an absence of a pulse. Okay. And also you can do what's
+},
+{
+    157.92,161.96
+     called a cap refill. All you got to do is look at the nail bed, squeeze the nail bed. And
+},
+{
+    161.96,166.96
+     if it doesn't refill with blood, you know you've got complete restriction of that blood flow.
+},
+{
+    166.96,169.56
+     Okay, so checking for the pulse
+},
+{
+    169.56,171.68
+     and checking for a capillary refill,
+},
+{
+    171.68,173.32
+     tells us that you've got it on tight enough,
+},
+{
+    173.32,174.92
+     or if you have to turn it a little bit tighter.
+},
+{
+    174.92,176.84
+     Correct, now once you've applied a trinicate,
+},
+{
+    176.84,178.44
+     never remove it, okay?
+},
+{
+    178.44,180.1
+     And if the patient is unconscious,
+},
+{
+    180.1,182.0
+     you definitely want to mark their forehead
+},
+{
+    182.0,184.74
+     with either a Sharpie pen or maybe even with their own blood.
+},
+{
+    184.74,185.92
+     Mark a T on their forehead.
+},
+{
+    185.92,189.72
+     That way, once they get into the emergency room, the emergency room staff know that there's
+},
+{
+    189.72,191.12
+     a trinicate on you somewhere.
+},
+{
+    191.12,195.28
+     And the other key thing that the viewers must remember is you can only apply a trinicate
+},
+{
+    195.28,196.76
+     on an extremity.
+},
+{
+    196.76,200.8
+     Never anywhere near the central mass of the body.
+},
+{
+    200.8,201.8
+     Right.
+},
+{
+    201.8,202.8
+     Okay.
+},
+{
+    202.8,205.68
+     You talked about that there was a severed arm, but what if it's an arterial bleed?
+},
+{
+    205.68,206.68
+     Same thing.
+},
+{
+    206.68,207.68
+     You still want a turnic.
+},
+{
+    207.68,211.6
+     Arterial bleed and the way you can tell, the difference between arterial bleed or a
+},
+{
+    211.6,215.36
+     venous bleed is it's going to be bright red blood and it's going to be spurting with
+},
+{
+    215.36,216.36
+     the heartbeat.
+},
+{
+    216.36,217.36
+     Okay.
+},
+{
+    217.36,218.36
+     Okay.
+},
+{
+    218.36,222.08
+     And also, even if it's a deep vein bleed, you're going to get massive bleeding, so you
+},
+{
+    222.08,223.8
+     definitely want to throw a turnic on there.
+},
+{
+    223.8,224.8
+     First thing.
+},
+{
+    224.8,225.88
+     First thing. Gotcha. Save time. Save time, save lives, right? That's right. You're gonna get massive bleeding so you definitely want to throw a trinicant on there first thing first thing got you save time
+},
+{
+    226.4,228.44
+     Save time save lives right that's right
+},
+{
+    228.44,234.26
+     I mean I have iFax in my home individual first-aid kits in my home in different areas in the home in all of my vehicles
+},
+{
+    234.26,236.26
+     I got one in my desk drawer at work
+},
+{
+    236.28,238.4
+     Any other recommendations as far as that is concerned?
+},
+{
+    238.4,242.4
+     I would recommend actually having one on your persons because you're not gonna always gonna be at home
+},
+{
+    242.4,244.4
+     You're not gonna always be in your vehicle
+},
+{
+    244.4,249.0
+     You could be at the shopping mall and it could be that you need it or one of your loved ones needs it.
+},
+{
+    249.0,251.0
+     And you can get them small enough that they can actually fit in your pocket.
+},
+{
+    251.0,252.0
+     Absolutely, yeah.
+},
+{
+    252.0,257.0
+     For those of you who want more of this type of information from Anthony, we've done a great DVD product with him.
+},
+{
+    257.0,262.0
+     You can go to the link that's included in the description below and visit the USCCA store
+},
+{
+    262.0,266.2
+     and you too can learn more and more of these life-saving techniques from Anthony Lambert.
+},
+{
+    266.2,271.36
+     And don't forget, train hard, train safe, and train always. Have a fabulous day!
+},

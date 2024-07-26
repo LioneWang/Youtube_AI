@@ -1,0 +1,164 @@
+{
+    0.0,8.36
+     When someone has a spinal injury, the greatest risk is their spinal cord may be temporarily
+},
+{
+    8.36,10.68
+     or permanently damaged.
+},
+{
+    10.68,15.12
+     If a casualty has suffered an abnormal force to the neck or back and is complaining of
+},
+{
+    15.12,20.4
+     changes in sensation or difficulty in moving, they could have a spinal injury.
+},
+{
+    20.4,25.0
+     You must take care not to unnecessarily move their head, neck or spine.
+},
+{
+    25.0,29.0
+     Some of the following incidents could indicate a possible spinal injury.
+},
+{
+    29.0,33.0
+     They could have fallen from a height, such as from a ladder.
+},
+{
+    33.0,36.0
+     Fallen awkwardly when doing gymnastics.
+},
+{
+    36.0,39.0
+     From diving into a shallow pool and hitting the bottom.
+},
+{
+    39.0,42.0
+     A collapsed rugby scrum.
+},
+{
+    42.0,45.36
+     Fallen awkwardly from a horse or motorbike. They could have
+},
+{
+    45.36,50.6
+     experienced sudden de-acceleration in a car, had an injury to the head or face,
+},
+{
+    50.6,57.08
+     or had a heavy object fall across their back. If you suspect someone has a
+},
+{
+    57.08,61.88
+     spinal injury there are several key things to look for. They may have pain in
+},
+{
+    61.88,68.28
+     their neck or back where the injury occurred. Have bruising and tenderness in the skin over the spine.
+},
+{
+    68.28,71.6
+     An irregular twist in the normal curve of the spine.
+},
+{
+    71.6,73.68
+     Have breathing difficulties.
+},
+{
+    73.68,76.64
+     Loss of bladder and or bowel control.
+},
+{
+    76.64,79.2
+     They may lose control of their limbs.
+},
+{
+    79.2,84.2
+     May lose sensation or have abnormal sensations such as tingling or burning.
+},
+{
+    84.2,86.84
+     Or their limbs feel stiff, heavy or clumsy.
+},
+{
+    88.84,90.84
+     If you think they have a spinal injury,
+},
+{
+    90.84,93.84
+     reassure the casualty and advise them not to move.
+},
+{
+    93.84,97.36
+     Call 999 or 112 for emergency help.
+},
+{
+    97.36,100.44
+     You should then kneel or lie behind the casualty's head,
+},
+{
+    100.44,102.92
+     rest your elbows on the ground or on your knees
+},
+{
+    102.92,104.92
+     to help keep your arms steady.
+},
+{
+    104.92,108.56
+     Hold each side of their head with your fingers spread so their ears are not
+},
+{
+    108.56,113.28
+     covered and they can still hear you. Support the head in this position so the
+},
+{
+    113.28,118.76
+     head neck and spine are aligned. While you support the head ask a helper to place
+},
+{
+    118.76,123.84
+     rolled-up blankets, towels or clothes on either side of the casualty's head. Make
+},
+{
+    123.84,127.8
+     sure you continue to hold this position until emergency help arrives.
+},
+{
+    133.48,136.68
+     Do not move the casualty from the position that you have found them in
+},
+{
+    136.68,140.6
+     unless they are in immediate danger and it's safe for you to do so.
+},
+{
+    140.6,143.8
+     Monitor their level of response until help arrives.
+},
+{
+    143.8,145.6
+     If they become unresponsive at any
+},
+{
+    145.6,150.72
+     point, prepare to treat an unresponsive casualty.
+},
+{
+    150.72,157.48
+     So remember, if you suspect a spinal injury, reassure them and call 999 or 112. Don't move
+},
+{
+    157.48,162.76
+     them. Support their head and neck until help arrives. And that's how you help someone with
+},
+{
+    162.76,169.68
+     a spinal injury. If this video has been helpful to you help support St John Ambulance by going to
+},
+{
+    169.68,175.44
+     sha.org.uk forward slash donate.
+},

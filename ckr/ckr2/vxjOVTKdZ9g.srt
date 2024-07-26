@@ -1,0 +1,184 @@
+{
+    0.0,3.4
+     Hi, efo'r Eme, ac rwy'n gweithio i chi ddweud ymwneud ymwneud yn ysgolol,
+},
+{
+    3.4,5.4
+     yn ymgyrchol a'r ddweud.
+},
+{
+    5.4,7.4
+     Felly, yw'r ysgolol yn cyffredig ac yn ddawr,
+},
+{
+    7.4,9.4
+     mae'n ymdweud yn ymdweud ymdweud ymdweud ymdweud.
+},
+{
+    9.4,11.4
+     A dyna'r ymdweud.
+},
+{
+    13.4,16.4
+     Felly, yna'r ymdweud ymdweud ymdweud.
+},
+{
+    16.4,19.4
+     Mae'r ymdweud ymdweud yn ymdweud o'r ymdweud.
+},
+{
+    19.4,22.4
+     Mae'r ymdweud yn ymdweud yn ymdweud.
+},
+{
+    22.4,24.4
+     Fynd i'r ymdweud yn ymdweud,
+},
+{
+    24.4,26.68
+     mae'n dweud yn ymdweud yn ymdweud yn ymdweud, ond mae'n dweud yn ymdweud yn ymdweud. A disposable pen already contains insulin, whereas a reusable pen, it will last a little bit longer,
+},
+{
+    26.68,29.48
+     but you'll need to fit the insulin cartridge yourself.
+},
+{
+    29.48,31.84
+     So next up, your needle.
+},
+{
+    31.84,33.84
+     Your needle is small and thin,
+},
+{
+    33.84,35.88
+     because insulin only needs to be injected
+},
+{
+    35.88,39.0
+     underneath the skin, not into a muscle or a vein,
+},
+{
+    39.0,40.6
+     and you can't reuse this.
+},
+{
+    40.6,42.04
+     So after your injection,
+},
+{
+    42.04,47.4
+     you'll need to dispose safely of your needle. If you're out and about, you could maybe use a needle clipper, Felly, dwi'n cael ei wneud, mae'n cael ei ddysbosio'r gwahodd yn ymdill. Felly, mae'n cael ei ddysbosio'r gwahodd yn ymdill,
+},
+{
+    47.4,50.4
+     oedd y gallwn ni'n cael ei ddysbosio'r gwahodd yn ymdill,
+},
+{
+    50.4,53.4
+     oedd y gallwn ni'n cael ei ddysbosio'r gwahodd yn ymdill,
+},
+{
+    53.4,56.4
+     a'r ddysbosio'r gwahodd yn ymdill, mae'n cael ei ddysbosio'r gwahodd.
+},
+{
+    59.4,62.4
+     Felly, yna'r ddysbosio'r gwahodd yn ymdill.
+},
+{
+    62.0,66.0
+     Felly, ydych chi'n gwybod i'r rai'r ddweudio'r ddweudio.
+},
+{
+    68.24,70.24
+     Felly, mae'n gwybod i'n gwybod i'n gwybod i'r ddweudio. Felly, mae'n gwybod i'n gwybod i'r ddweudio.
+},
+{
+    70.24,72.8
+     Felly, mae'r ddweudio'n gwybod i'r ddweudio,
+},
+{
+    72.8,75.2
+     yn y cerddau yn y cerddau ar y cerddau,
+},
+{
+    75.2,76.4
+     y ddweudio'n gwybod i'r ddweudio,
+},
+{
+    76.4,86.5
+     o'r ddweudio. Mae'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gweithio i'r gweithio, mae'n gweithio i'r 1cm o'r 1,5 inch gaf arall.
+},
+{
+    86.5,89.5
+     Felly, mae'n gweithio'r llwmp yn cael Lai Po'r Cynform,
+},
+{
+    89.5,105.6
+     ac mae'n gweithio'r insul yn gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio. Mae'n gweithio'r 3 cyfnodau yn cael ei gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweith i'n meddwl i'r pen.
+},
+{
+    105.6,109.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    109.6,113.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    113.6,115.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    115.6,117.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    117.6,119.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    119.6,121.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    121.6,123.6
+     Felly, rydyn ni'n meddwl i'r pen.
+},
+{
+    123.6,127.12
+     Felly, rydyn ni'n meddwl i'r pen. Felly, rydyn ni'n meddwl o'r insulyn, ac rwy'n meddwl y pen ar y cyfnod, ac yn ddwy'r plwnger ar y cyfnod,
+},
+{
+    127.12,133.2
+     sy'n meddwl y insulyn yn ymgyrch ar y gweithio. Mae'n gwybod y prymau, a'n helpu i'ch gwneud y
+},
+{
+    133.2,136.96
+     ddwyngau ar y gweithio, byddwn i'r llwy ffyrdd o'r ddwyng o'r holl o'r cartreid.
+},
+{
+    140.0,165.68
+     Felly mae'n rhaid i'ch ddwyngau ar y ddwyngau, ac mae'n rhaid i'ch ddwyg. A ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew'r ddylew' back to zero and then you need to count to ten to give the insulin time to enter
+},
+{
+    165.68,175.24
+     the body before you remove the needle. One, two, three, four, five, six, seven,
+},
+{
+    175.24,180.36
+     eight, nine, ten.
+},
+{
+    184.96,190.36
+     All that's left to do is to dispose of your needle. So you can use your needle clipper
+},
+{
+    190.36,196.16
+     or your sharp spin and your health care team will let you know how to dispose of it safely
+},
+{
+    196.16,209.36
+     once your sharp spin is full. So just remember, check your kit, wash and dry, choose a spot, prime your pen, inject, count to 10 and clean up.
+},

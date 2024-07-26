@@ -1,0 +1,132 @@
+{
+    0.0,5.0
+     I'm Gene Lu and I'm an otolaryngologist head and neck surgeon or ear nose and throat doctor here in Los Angeles.
+},
+{
+    5.0,8.0
+     And today I wanted to talk briefly about how to use eardrops.
+},
+{
+    8.0,12.0
+     There are a lot of different types of drops that someone may use in their ear canal,
+},
+{
+    12.0,15.0
+     but the way that we get the drops in are all the same.
+},
+{
+    15.0,20.0
+     When we're using eardrops, we want to make sure that it goes down the ear canal to the eardrum.
+},
+{
+    20.0,24.0
+     Because a lot of ear canals are very thin and narrow and twisty,
+},
+{
+    24.0,27.0
+     it's going to take a little bit of manipulation to get the drops all the way in.
+},
+{
+    27.0,34.0
+     We generally want to either tilt our head or be lying down, and when we put in the drops, you need to wiggle the outer part of the ear
+},
+{
+    34.0,41.0
+     and also pump that little triangular guy called the tragus. That forces the liquid all the way down the ear canal.
+},
+{
+    41.0,50.12
+     In the perfect world, we almost always want to maintain that side position for a few minutes to let the drops do their work. Eventually, you can
+},
+{
+    50.12,55.12
+     get up and if you need to do the other side, you repeat. If you don't wiggle the ear or
+},
+{
+    55.12,60.68
+     pump the tragus, the drops don't get in nearly as well. If you're putting in the drops and
+},
+{
+    60.68,68.28
+     wiggling the ear and pumping the tragus and the drops aren't going in, it might be because there's a bunch of wax or the skin's peeling off or the infection
+},
+{
+    68.28,70.22
+     is filling the ear with goo.
+},
+{
+    70.22,73.28
+     If that's the case then you might need to see an ear nose and throat doctor to get the
+},
+{
+    73.28,77.24
+     ear cleaned out or suction so that the medicine can even get in.
+},
+{
+    77.24,80.72
+     Most of the time ear drops shouldn't hurt, but if the ear is a little bit inflamed or
+},
+{
+    80.72,88.28
+     if there's a scratch or scrape or if there's an ear tube and the drops can get in further, it sometimes can be a little bit uncomfortable.
+},
+{
+    88.28,92.9
+     If the ear drops hurt, sometimes there are good alternatives or other options that you
+},
+{
+    92.9,96.82
+     can switch to and other times you just have to tough it out but that's a discussion with
+},
+{
+    96.82,98.42
+     your doctor.
+},
+{
+    98.42,102.98
+     If you have ear tubes or if you possibly have a hole in the ear drum, there's going to be
+},
+{
+    102.98,109.56
+     a lot of drops that you're not supposed to use. There are only a few types of drops that we want going in that far. So
+},
+{
+    109.56,114.36
+     if you have concerns of a possible hole in the eardrum or if you have ear tubes, make
+},
+{
+    114.36,118.16
+     sure that you don't just grab any over the counter eardrop and start putting it in. Check
+},
+{
+    118.16,123.56
+     with your doctor first. Definitely in little kids getting drops in can be a bit of an adventure.
+},
+{
+    123.56,126.0
+     It could be hard to get them to hold still or lie down.
+},
+{
+    126.0,131.0
+     Their ear canals are smaller or more narrow so it's harder to physically get the drops in in the first place.
+},
+{
+    131.0,136.0
+     They might act up a little bit or revolt or squirm because they don't like that feeling of wetness.
+},
+{
+    136.0,140.0
+     And if they're already having an ear infection and the ear is uncomfortable,
+},
+{
+    140.0,144.0
+     they just don't want anybody touching it. Do what you can.
+},
+{
+    144.0,147.64
+     I hope this helped explain a little bit better about how to use ear drops. If you
+},
+{
+    147.64,149.96
+     have any additional questions, please leave it in the comments below.
+},

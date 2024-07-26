@@ -1,0 +1,344 @@
+{
+    0.0,9.84
+     What are the seven steps of effective wound management?
+},
+{
+    9.84,12.08
+     Why is each step important?
+},
+{
+    12.08,14.84
+     And what happens during each one?
+},
+{
+    14.84,18.92
+     Knowing the answers will help you develop and support the most effective treatment plan
+},
+{
+    18.92,21.32
+     to promote healing.
+},
+{
+    21.32,26.0
+     Let's take a closer look at the role of each step and how it's typically performed by a clinician,
+},
+{
+    26.0,29.0
+     such as a certified wound care nurse.
+},
+{
+    29.0,34.0
+     Wound assessment is the first and foundation step of proper wound management.
+},
+{
+    34.0,40.0
+     The goal is to identify and address all issues that may impact and potentially delay healing.
+},
+{
+    40.0,44.0
+     This will help guide the development of the most effective treatment plan
+},
+{
+    44.0,47.56
+     in keeping with the health care providers established wound
+},
+{
+    47.56,53.2
+     care guidelines. To perform this step inspect and evaluate the wound based on
+},
+{
+    53.2,58.88
+     several characteristics. Start by identifying the location, length, width
+},
+{
+    58.88,64.2
+     and depth of the wound. Then check for undermining which is a rolled over lip
+},
+{
+    64.2,66.88
+     around the wound. Also check for tunnelining, which is a rolled over lip around the wound. Also check
+},
+{
+    66.88,71.16
+     for tunneling, which occurs when the wound burrows under the skin.
+},
+{
+    71.16,79.76
+     Next, look at the exudate for drainage color, odor, amount, and consistency. And examine
+},
+{
+    79.76,85.0
+     the tissue appearance for color and moisture level. Is it wet or dry?
+},
+{
+    85.0,88.0
+     Another important characteristic is the periwound,
+},
+{
+    88.0,91.0
+     which is the area surrounding the wound itself.
+},
+{
+    91.0,93.0
+     Is the periwound intact or macerated,
+},
+{
+    93.0,97.0
+     which means shriveled skin caused by prolonged moisture?
+},
+{
+    97.0,100.0
+     Then examine the wound for infection in bioburden,
+},
+{
+    100.0,104.0
+     which is the state between normal and infected tissue.
+},
+{
+    104.0,108.0
+     Is the wound red, a condition called erythema.
+},
+{
+    108.0,111.0
+     Is there swelling known as edema?
+},
+{
+    111.0,116.0
+     Is the wound warm? Does it have an odor or does the patient have a fever?
+},
+{
+    116.0,120.0
+     Lastly, what is the patient's level of pain?
+},
+{
+    120.0,123.0
+     By assessing all of these wound characteristics,
+},
+{
+    123.0,125.36
+     you'll be in a better position to develop
+},
+{
+    125.36,130.46
+     and implement the most effective treatment plan and move on to the next step, cleansing
+},
+{
+    130.46,133.44
+     the wound.
+},
+{
+    133.44,137.0
+     Cleanse and irrigate the wound per its assessment.
+},
+{
+    137.0,140.96
+     Cleansing and irrigating the wound creates the optimum environment for healing in two
+},
+{
+    140.96,141.96
+     ways.
+},
+{
+    141.96,148.0
+     First, it removes loose debris, exudate, pus, and free-floating bacteria.
+},
+{
+    148.0,151.0
+     And second, it supports the wound assessment
+},
+{
+    151.0,154.0
+     by making the wound easier to see and evaluate.
+},
+{
+    154.0,157.0
+     To cleanse the wound, swab it with dampened gauze
+},
+{
+    157.0,159.0
+     or a similar product,
+},
+{
+    159.0,162.0
+     and irrigate to remove deeper debris.
+},
+{
+    162.0,165.52
+     Step three is to protect the periwound from wound drainage
+},
+{
+    165.52,168.0
+     that can cause maceration and skin stripping.
+},
+{
+    171.6,174.48
+     Protecting the periwound skin is also essential
+},
+{
+    174.48,178.1
+     because it helps prevent the wound from increasing in size.
+},
+{
+    178.1,179.78
+     But this can be a challenge
+},
+{
+    179.78,182.96
+     because periwound skin can appear normal.
+},
+{
+    182.96,185.52
+     As a result, protecting it can be overlooked and damage can occur. To protect the periwound skin can appear normal. As a result, protecting it can be overlooked
+},
+{
+    185.52,187.6
+     and damage can occur.
+},
+{
+    187.6,189.28
+     To protect the periwound,
+},
+{
+    189.28,191.64
+     clean it with a normal saline solution,
+},
+{
+    191.64,195.2
+     then apply a non-alcohol-based skin prep solution.
+},
+{
+    196.16,198.64
+     Next, fill any depth in the wound
+},
+{
+    198.64,200.48
+     by packing all open spaces
+},
+{
+    200.48,202.88
+     with the appropriate filling material.
+},
+{
+    202.88,204.28
+     This step is important
+},
+{
+    204.28,205.28
+     because it helps prevent
+},
+{
+    205.28,207.44
+     pockets of abscess from forming,
+},
+{
+    207.44,208.92
+     as well as promotes healing.
+},
+{
+    210.12,213.28
+     Wounds that require filling include tunneling wounds,
+},
+{
+    213.28,218.0
+     undermined wounds, and stage three and four pressure injuries.
+},
+{
+    218.0,220.28
+     Fill them based on the wound assessment,
+},
+{
+    220.28,222.92
+     the wounds contours and the clinicians discretion.
+},
+{
+    224.4,229.0
+     Choose from gauze, foams, fibers, alginates and shells.
+},
+{
+    229.0,233.0
+     For infected wounds, add an antimicrobial agent.
+},
+{
+    234.0,238.0
+     After filling the wound, apply a protective dressing to cover the wound.
+},
+{
+    238.0,246.24
+     The goal is to maintain a clean, moist wound bed, which promotes granulation, healing, and closure.
+},
+{
+    246.24,250.8
+     Properly covering the wound also helps prevent infection while the wound is healing, and
+},
+{
+    250.8,254.6
+     until healthy skin can resume its infection-preventing role.
+},
+{
+    254.6,259.4
+     If the protective dressing doesn't secure itself, apply a secondary dressing.
+},
+{
+    259.4,263.78
+     This step helps promote healing by protecting the wound from pathogens.
+},
+{
+    263.78,268.8
+     Securing the dressing also secures medical devices and aids in patient mobility.
+},
+{
+    268.8,274.92
+     Select the most effective secondary dressing based on provider policy and procedures.
+},
+{
+    274.92,282.8
+     Examples include gauze, conforming stretch bandages, tape, transparent film, and composite dressing.
+},
+{
+    282.8,285.94
+     These products attach to, cover, or pad the protective
+},
+{
+    285.94,292.12
+     dressing and help ensure it stays in place. The final step is to evaluate the
+},
+{
+    292.12,297.04
+     wound's healing progress when you change dressings. Is it healing, regressing, or
+},
+{
+    297.04,301.42
+     is there no change? Knowing this is important because it can help you
+},
+{
+    301.42,309.0
+     determine if the treatment plan is succeeding, or if another approach is required as soon as possible to promote healing.
+},
+{
+    309.0,312.0
+     To evaluate the wound, ask yourself,
+},
+{
+    312.0,317.0
+     are there any new signs of infection, such as a change in color or odor?
+},
+{
+    317.0,321.0
+     Are the protective and secondary dressings staying in place,
+},
+{
+    321.0,326.28
+     and if applicable, is the drainage control working?
+},
+{
+    326.28,330.8
+     To help promote healing, know the seven steps of effective room management.
+},
+{
+    330.8,340.04
+     Assess, cleanse, protect, fill, cover, secure, and evaluate.
+},
+{
+    340.04,None
+     To learn more, visit CardinalHealth.com.
+},

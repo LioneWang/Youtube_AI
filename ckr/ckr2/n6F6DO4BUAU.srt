@@ -1,0 +1,88 @@
+{
+    0.0,8.64
+     At Florida Hospital, it is our goal to help you prepare for your upcoming bone density
+},
+{
+    8.64,11.8
+     scan, also known as DEXA scan.
+},
+{
+    11.8,14.8
+     It is important to note a few things before the date of your appointment.
+},
+{
+    14.8,19.96
+     It is recommended that you wear a two-piece outfit for your own convenience.
+},
+{
+    19.96,25.52
+     Any metal will interfere with the exam, so avoid clothes with metal grommets, zippers, bras
+},
+{
+    25.52,30.32
+     with underwire, and remove any jewelry or body piercings.
+},
+{
+    30.32,34.16
+     If you have had any previous imaging work completed outside of the Florida Hospital
+},
+{
+    34.16,38.2
+     Network, please be sure to have it sent over in advance.
+},
+{
+    38.2,42.28
+     When you arrive at the imaging facility, you will check in at the front desk.
+},
+{
+    42.28,48.08
+     You will be asked to fill out the appropriate paperwork, a medical history form, and the reason for the bone density scan.
+},
+{
+    48.88,51.68
+     Once you are checked in and your paperwork is completed,
+},
+{
+    51.68,54.64
+     you will be cared for by one of our amazing technologists.
+},
+{
+    55.2,60.16
+     Once the procedure begins, the imaging device will slowly cover the area being examined.
+},
+{
+    60.96,64.32
+     The technologist will remain in the room with you during the procedure
+},
+{
+    64.32,67.0
+     to answer any questions or concerns you may have.
+},
+{
+    67.0,75.0
+     Typically, you will be able to remain in your own clothes during the scan and the entire process should take between 10 to 20 minutes.
+},
+{
+    75.0,81.0
+     This is a non-invasive, painless procedure, though you must remain completely still during the scan.
+},
+{
+    81.0,89.16
+     You may be asked to briefly hold your breath to ensure a clear picture is produced. After the appointment results will be sent to your
+},
+{
+    89.16,93.88
+     ordering physician between two and ten days and you can request a CD of your
+},
+{
+    93.88,99.08
+     results. It is important to us that all your questions are addressed so please
+},
+{
+    99.08,104.32
+     reach out to your technologist for any further information you desire. Thank you
+},
+{
+    104.32,108.08
+     for allowing Florida Hospital to take care of your imaging needs.
+},

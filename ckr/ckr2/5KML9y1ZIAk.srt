@@ -1,0 +1,264 @@
+{
+    0.0,6.16
+     Hi, I'm Bob Schrupp, physical therapist and I am Brad, anti-physical therapist.
+},
+{
+    6.16,10.6
+     I'm so glad and together we are the most famous physical therapists on the internet.
+},
+{
+    10.6,12.2
+     In our opinion of course Bob.
+},
+{
+    12.2,18.84
+     Brad, everybody has a headache in their life and no not everybody does but what we have
+},
+{
+    18.84,24.12
+     found is that 15 to 20 percent of people who have headaches, that neck is actually the cause
+},
+{
+    24.12,25.0
+     of the pain.
+},
+{
+    25.0,26.0
+     And usually the upper neck.
+},
+{
+    26.0,27.0
+     Yeah, usually the upper neck.
+},
+{
+    27.0,32.28
+     And this is a treatment that, top three treatments that a lot of you can do very easily, very
+},
+{
+    32.28,35.28
+     easy to try, and we recommend that you do.
+},
+{
+    35.28,36.28
+     So let's go ahead and start.
+},
+{
+    36.28,37.28
+     Sure.
+},
+{
+    37.28,41.96
+     The first one, Brad, is, again, we've just talked about this in our last video, how a
+},
+{
+    41.96,45.92
+     lot of people are now spending a lot of time on their computers or laptops
+},
+{
+    45.92,50.68
+     And they got this forward head posture and that what happens is the muscles started tighten up here, Brad
+},
+{
+    50.88,53.88
+     So what you're gonna want to do is chin tucks and we've said this
+},
+{
+    54.68,57.64
+     Adnazium at a lot of our videos. You want to go ahead and show up Brad? Sure
+},
+{
+    58.12,63.32
+     So we're gonna do this opposite motion the chin tucks in towards your throat and everything goes back
+},
+{
+    63.56,65.92
+     Like someone's gonna take a pie and throw it in your face
+},
+{
+    65.92,68.46
+     And you're going to do that so it's not down here
+},
+{
+    68.46,70.8
+     But it's in and back it's kind of a strange motion
+},
+{
+    71.18,74.58
+     Some people have a hard time doing it if you want to add a little pressure
+},
+{
+    74.58,78.18
+     But feels good here and you push a little more you can do that
+},
+{
+    78.18,83.16
+     But you don't have to it's just a simple chin tuck and oftentimes good enough and you a lot of times
+},
+{
+    83.16,84.24
+     I'll have patients say yeah
+},
+{
+    84.24,87.44
+     I feel it stretch right back in here and that's what you want to do
+},
+{
+    87.44,92.64
+     I've seen people to take the you know the crease of their and go like this and really stretch it
+},
+{
+    92.64,98.28
+     Yeah, and that sometimes that feels really good Brad to do that stretch and it makes funny faces too. Yeah
+},
+{
+    99.8,106.28
+     Surprise all your friends, but so that's number one you you wanna make sure, and if you are all day long like this,
+},
+{
+    106.28,108.16
+     maybe you wanna try to correct your work station
+},
+{
+    108.16,110.6
+     so that you're gonna end up in this area here,
+},
+{
+    110.6,113.24
+     your head's equal with the screen
+},
+{
+    113.24,115.32
+     so that you're not down like this all day long.
+},
+{
+    115.32,117.46
+     Because again, that can be causing your headache.
+},
+{
+    117.46,119.38
+     All right, the second thing you wanna try
+},
+{
+    119.38,122.32
+     is to go ahead and just do a massage to this area.
+},
+{
+    122.32,130.0
+     Yeah, so yeah, good position there Brad. And a lot. And what I like to do is just take two fingers like this and pull it across.
+},
+{
+    130.0,149.0
+     So yeah, do you see how Brad is doing that? You got to focus on something you can easily do throughout the day, you know, if you're having trouble
+},
+{
+    149.0,150.0
+     with it.
+},
+{
+    150.0,153.0
+     Yeah, little circular, but you're working right in that area.
+},
+{
+    153.0,158.0
+     A lot of the pain, let's talk about where the pain often is when you're having neck
+},
+{
+    158.0,159.0
+     headaches, Brad.
+},
+{
+    159.0,164.0
+     It actually is often a lot of times starting here and it'll radiate off to one side or
+},
+{
+    164.0,168.22
+     the other sometimes. Sometimes they'll go behind the eye, sometimes it's like that tight
+},
+{
+    168.22,173.26
+     band feeling right around your whole head. I think that we can see the reason
+},
+{
+    173.26,177.54
+     that is is a lot of the occipital nerves come off the greater occipital nerve.
+},
+{
+    177.54,182.5
+     That's how they travel. That's their path and so that's why it's
+},
+{
+    182.5,187.64
+     sending pain there. That's especially at C1. C2 often can often send pain into here too
+},
+{
+    187.92,193.22
+     So the third thing you might try is just simply take some ice and put it on that area
+},
+{
+    193.26,199.06
+     Now we just showed how to make an ice pack out of rice and a sock
+},
+{
+    199.32,203.36
+     A clean sock a clean sock and I'll put that video up right here
+},
+{
+    203.36,210.0
+     But the other way this is the most simplest way of all, if you just have a little baggy,
+},
+{
+    210.0,215.8
+     little plastic baggy, Ziploc and you take a washcloth and you wet it and then you put
+},
+{
+    215.8,220.28
+     that in the freezer and freeze it up, this isn't frozen right now.
+},
+{
+    220.28,222.8
+     But it works out really good, it's just very simple to do.
+},
+{
+    222.8,226.24
+     I'd rather use a bigger bag if you have one.
+},
+{
+    226.24,231.44
+     And you just put it on there and then you can, well actually that's why the rice pack
+},
+{
+    231.44,233.66
+     might work, it can just sit there.
+},
+{
+    233.66,236.48
+     But if you can have it somehow so it just stays there.
+},
+{
+    236.48,239.12
+     Sit in the recliner and to do that.
+},
+{
+    239.12,243.08
+     And ice that baby up right in there and that may take away the headache there.
+},
+{
+    243.08,249.36
+     So obviously I mean you can obviously try ibuprofen or some type of whatever works for your for pain relief but those things
+},
+{
+    249.36,253.26
+     these are the things we're trying to do to stop it from happening again right so it's
+},
+{
+    253.26,257.44
+     an massage and the sun is just treating the symptoms are going to we're trying to eliminate
+},
+{
+    257.44,263.16
+     so the pain doesn't happen again the other thing helps is if you get the stress out
+},
+{
+    263.16,267.68
+     of your life all right if you haven't already please subscribe to us bye
+},

@@ -1,0 +1,244 @@
+{
+    0.0,6.72
+     Alright, so now we're on the adult unconscious choking victim.
+},
+{
+    6.72,10.08
+     This is the person we were working with when they were conscious and choking.
+},
+{
+    10.08,12.48
+     Our efforts did not get the obstruction clear.
+},
+{
+    12.48,16.4
+     They were going unconscious, so we help lower them to ground ideally.
+},
+{
+    16.4,20.48
+     And as soon as they were lowered to the ground, that's our cue to access the emergency medical
+},
+{
+    20.48,24.16
+     services, call 911 or call a code.
+},
+{
+    24.16,27.08
+     At this point, once we lower them down to the ground
+},
+{
+    27.08,29.68
+     after calling 911, we're gonna go straight
+},
+{
+    29.68,32.18
+     to 30 chest compressions.
+},
+{
+    32.18,34.62
+     We're gonna do those 30 chest compressions
+},
+{
+    34.62,36.44
+     and then open the air wing.
+},
+{
+    36.44,39.08
+     Look in the mouth, check for an obstruction.
+},
+{
+    39.08,42.68
+     If we see the obstruction, we're actually going to reach in.
+},
+{
+    42.68,44.46
+     Now watch as we reach in here.
+},
+{
+    44.46,49.88
+     We're actually gonna go with a hooking motion with one finger to the side of the mouth, go towards
+},
+{
+    49.88,55.24
+     the back, grab that object, and pull it out. Once the object is out, we're going to go
+},
+{
+    55.24,60.4
+     ahead and cover the mouth and nose with a mask and attempt one breath. We attempt one
+},
+{
+    60.4,66.44
+     breath, it does not go in. We reposition the head, attempt another breath.
+},
+{
+    66.44,69.04
+     It still doesn't go in, so we go right back
+},
+{
+    69.04,70.92
+     to 30 chest compressions.
+},
+{
+    70.92,74.18
+     After 30 chest compressions, we put our mask back
+},
+{
+    74.18,76.16
+     on the face, attempt a breath.
+},
+{
+    76.16,80.46
+     If it doesn't go in, we reposition the head,
+},
+{
+    80.46,82.02
+     attempt another breath.
+},
+{
+    82.02,84.4
+     If it still doesn't go in, we go right back
+},
+{
+    84.4,90.08
+     to chest compressions. If at some point when we try the rescue breath and it goes in,
+},
+{
+    90.08,95.6
+     we're going to deliver a second rescue breath and then check for a carotid pulse,
+},
+{
+    95.6,101.36
+     no longer than 10 seconds. If we find that there is a good palpable or feelable
+},
+{
+    101.36,105.6
+     pulse, easily feelable, we know that this person is not in cardiac arrest
+},
+{
+    105.72,111.56
+     But if they're not breathing we're gonna begin rescue breathing if there's no pulse no breathing
+},
+{
+    111.56,113.56
+     We're gonna go right straight into CPR
+},
+{
+    116.96,120.76
+     So I just lowered him to the ground he was conscious and choking now he's unconscious
+},
+{
+    121.64,125.08
+     Now I'm gonna call 911. Hey you in the plaid shirt, go call 911.
+},
+{
+    125.08,127.48
+     I've got a person who's now unconscious from choking.
+},
+{
+    127.48,128.08
+     Please return.
+},
+{
+    128.08,129.72
+     Let me know that you've called him.
+},
+{
+    129.72,132.76
+     At this point, I'm going to start my 30 chest compressions.
+},
+{
+    132.76,136.16
+     One, two, and three, and four, and five, and six, and seven,
+},
+{
+    136.16,142.6
+     eight, and nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+},
+{
+    142.6,147.0
+     22, 23, 24, 25, 26, 27, 28, 29, 30.
+},
+{
+    150.0,152.0
+     I don't see anything in an attempt of breath.
+},
+{
+    155.0,157.0
+     Nothing went in. I'm going to reposition once.
+},
+{
+    158.0,160.0
+     Try another breath.
+},
+{
+    162.0,165.0
+     Nothing went in. I'm going to continue 30 more chest compressions.
+},
+{
+    165.0,172.0
+     Two, three, four, five, six, seven, eight, ten, eleven, twelve, thirteen, fourteen, fifteen,
+},
+{
+    172.0,176.0
+     sixteen, seventeen, eighteen, nineteen, twenty, two, twenty-three, twenty-four, twenty-five,
+},
+{
+    176.0,178.88
+     twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty.
+},
+{
+    178.88,179.88
+     Look in the mouth.
+},
+{
+    179.88,181.88
+     I still don't see anything.
+},
+{
+    181.88,183.88
+     I try a breath.
+},
+{
+    183.88,186.0
+     Didn't go in. I'm going't see anything. I'll try a breath. Didn't go in.
+},
+{
+    186.0,188.0
+     I'm going to reposition.
+},
+{
+    188.0,190.0
+     Try again.
+},
+{
+    192.0,194.0
+     Nothing went in. I'm going to continue 30 chest compressions.
+},
+{
+    194.0,196.0
+     After 30 chest compressions,
+},
+{
+    196.0,198.0
+     if I tried a breath and it went in,
+},
+{
+    198.0,200.0
+     I'd give another breath,
+},
+{
+    200.0,202.0
+     check for a pulse.
+},
+{
+    202.0,204.0
+     If there was an easily palpable pulse,
+},
+{
+    204.0,206.76
+     but no breathing,
+},
+{
+    206.76,211.28
+     I'd continue rescue breathing. If there was no pulse and no breathing, I'd start CBR.
+},

@@ -1,0 +1,144 @@
+{
+    0.0,21.6
+     Hello everyone, welcome back to another video first aid series.
+},
+{
+    21.6,26.64
+     This video is all about the first aid for external and internal bleeding.
+},
+{
+    26.64,30.8
+     Before we dive into the video, let's first understand what does external and internal
+},
+{
+    30.8,36.12
+     bleeding mean. External bleeding is nothing but the bleeding caused due to the cut on
+},
+{
+    36.12,42.8
+     the skin. In simple words, the bleeding caused outside the body. The symptoms depend on
+},
+{
+    42.8,46.24
+     the site where an injury has taken place on the body but
+},
+{
+    46.24,52.68
+     the most common symptoms are the pain at the injury site and the visibility of the blood.
+},
+{
+    52.68,55.98
+     Internal Bleeding Internal bleeding is the loss of blood from
+},
+{
+    55.98,61.84
+     the blood vessels that collects inside the body. For this, the symptoms also depend on
+},
+{
+    61.84,72.56
+     the place where the injury has taken place. Then it might be pain at the injured side, swollen, tight abdomen, nausea and vomiting,
+},
+{
+    72.56,83.12
+     pale, clammy, sweaty skin, breathlessness, extreme thirst, unconsciousness, etc.
+},
+{
+    83.12,88.48
+     Let's now see how the first aid for external bleeding is to be done. First, you
+},
+{
+    88.48,93.96
+     need to make sure that you are not in danger. If you are safe, then only we suggest you
+},
+{
+    93.96,100.8
+     go to help out the needy. Secondly, make sure you are not making a direct contact with the
+},
+{
+    100.8,110.44
+     blood. So, before touching the wound, make sure you are wearing hand gloves. These gloves will act as a barrier to prevent direct contact with the victim's
+},
+{
+    110.44,114.92
+     blood. Make the victim sit down and relax and take
+},
+{
+    114.92,121.88
+     his consent to access, identify and examine the injury. Check whether the wound has foreign
+},
+{
+    121.88,129.6
+     particles but do not remove them. If there is any foreign particle then leave the wound alone and call over an ambulance.
+},
+{
+    129.6,136.8
+     The next step is to immobilize the wound if possible and continuously monitor the injured area.
+},
+{
+    136.8,142.0
+     Later which we need to choose a bandage suitable for the wound.
+},
+{
+    142.0,147.08
+     Apply a bandage directly to the wound firmly. But at the same
+},
+{
+    147.08,154.12
+     time make sure that the dressing is not too tight otherwise it may cut the circulation.
+},
+{
+    154.12,161.12
+     If the blood seeps through apply another pad and bandage over an original one.
+},
+{
+    161.12,176.0
+     The last but not the least is to clean up. Whatever precautions you take, there are chances that you might come in contact with the person's blood. Clean up the area. If you have any cuts on your skin, do wash them so as to prevent infections.
+},
+{
+    176.0,186.52
+     Apart from this, change the dressings every day in order to avoid its contamination which may be infectious to your body.
+},
+{
+    186.52,193.28
+     The next is the first aid for bleeding of nose. Make the patient sit in an area room.
+},
+{
+    193.28,200.28
+     Keep his head bent forward. Loosen the clothes around the neck and the chest. Use cold sponge
+},
+{
+    200.28,206.82
+     around the head and the nose. Press the bridge of the nose. Advise patient to
+},
+{
+    206.82,213.06
+     breathe through mouth. In case of blood clot in the nose do not blow the nose.
+},
+{
+    213.06,221.0
+     Advise patient not to insert any object in the nose. Now we will see the first
+},
+{
+    221.0,225.16
+     aid for bleeding skull. If the skull is fractured, give direct
+},
+{
+    225.16,231.88
+     pressure, place cushion and tie the skull as shown in the video. Place wet cotton in
+},
+{
+    231.88,239.4
+     the mouth and ask the patient to keep it pressed. Bleeding through ears. Make the patient lie
+},
+{
+    239.4,246.72
+     on the side and place dry cloth on it. If bleeding through both the ears then allow him to lie down flat.
+},
+{
+    246.72,254.56
+     Do not allow the patient to eat if bleeding. If he is thirsty apply wet cloth on the lips.
+},
+{
+    254.56,285.68
+     That's all for this video. We will come up with another first aid video shortly. Thank you for watching.
+},

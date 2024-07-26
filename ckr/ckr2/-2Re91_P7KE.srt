@@ -1,0 +1,176 @@
+{
+    0.0,6.44
+     Hey, I'm Clay Louder with Colonial Family Practice.
+},
+{
+    6.44,10.88
+     It's summertime here in South Carolina and we are seeing a lot of summertime injuries.
+},
+{
+    10.88,14.96
+     One of the main ones that we see is a fish hook injury.
+},
+{
+    14.96,20.72
+     And I have an unusual way that I like to treat that and I wanted to show it to you today.
+},
+{
+    20.72,23.36
+     Now there are three ways to remove a fish hook.
+},
+{
+    23.36,28.42
+     One way is to go to the doctor, get some local anesthetic put into it, and get the hook
+},
+{
+    28.42,29.86
+     removed that way.
+},
+{
+    29.86,34.14
+     The second way is the pull through method where you take the hook and you actually push
+},
+{
+    34.14,39.9
+     it through, cut off the barb with something heavy, and then remove the fish hook.
+},
+{
+    39.9,41.38
+     Both those to me are boring.
+},
+{
+    41.38,47.16
+     The best way to take a fish hook out that I think is called the string jerk method.
+},
+{
+    47.16,50.86
+     I didn't learn this in medical school or in residency, but I learned it from my uncle
+},
+{
+    50.86,53.56
+     Steve Lauder who's a professional fisherman.
+},
+{
+    53.56,57.0
+     And so I'd like to show you today the way that I jerk hook out.
+},
+{
+    57.0,61.12
+     Now first thing you need to understand is fish hook physiology.
+},
+{
+    61.12,64.96
+     This is a Gamagatsu chemically sharpened fish hook.
+},
+{
+    64.96,67.32
+     And right here you can see the barb on the hook.
+},
+{
+    67.32,71.12
+     The barb is what catches the fish and holds him to your hook.
+},
+{
+    71.12,76.84
+     Well, unfortunately when that goes into human skin, the barb catches and won't come out.
+},
+{
+    76.84,80.6
+     And to get it out, you have to release that barb.
+},
+{
+    80.6,86.0
+     So the number one thing you need to remember about that is how to release the barb on this fish hook.
+},
+{
+    86.0,92.0
+     Now what I have here is Mr. Pig and he unfortunately stepped on a fish hook probably out in the boat shed
+},
+{
+    92.0,99.0
+     and he's got it hooked into him and we're going to try to jerk it out of him and we didn't give him any anesthetic at all
+},
+{
+    99.0,106.18
+     so he's going to try to tough it out. As you can see he's got a big worm hook in him and it stuck past the barb and stuck
+},
+{
+    106.18,107.18
+     pretty good.
+},
+{
+    107.18,112.74
+     Now, what I've done is I've taken some braided line and I've doubled it up and so I've made
+},
+{
+    112.74,117.96
+     it to a strong connection and I'm going to put that over the fish hook and I'm going
+},
+{
+    117.96,118.96
+     to jerk it out.
+},
+{
+    118.96,122.34
+     Now, I'm not going to pull it and I'm not going to ease it out.
+},
+{
+    122.34,127.12
+     And what I'm going to do, the most critical part is to use my left hand to put pressure on the hook
+},
+{
+    127.12,130.84
+     to release the barb so that I can jerk it out.
+},
+{
+    130.84,133.84
+     Kind of goes like this here.
+},
+{
+    133.84,137.6
+     So you take the line, wrap it around the hook.
+},
+{
+    137.6,140.88
+     Hopefully the patient hasn't cut the hook too much,
+},
+{
+    140.88,142.6
+     so you can get to it.
+},
+{
+    142.6,147.44
+     Then I push down firm with my left thumb. I usually like
+},
+{
+    147.44,151.76
+     to count the three and jerk on two. So the patient doesn't know I'm getting ready
+},
+{
+    151.76,155.46
+     to do it because they'll be tense. Sometimes you have to give them local
+},
+{
+    155.46,159.44
+     anesthesia like with a Kors light or something. If they do that it usually
+},
+{
+    159.44,166.88
+     calms them down. But the first thing I do is just count the three, one, two, boom.
+},
+{
+    166.88,172.72
+     Fish hook pops out, you have a happy patient and he is good to go for the next round of
+},
+{
+    172.72,173.72
+     fishing.
+},
+{
+    173.72,177.48
+     So that's been Clay Louder with my fish hook removal.
+},
+{
+    177.48,179.04
+     Hope you have a great summer.
+},

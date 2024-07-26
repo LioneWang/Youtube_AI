@@ -1,0 +1,612 @@
+{
+    0.0,3.2
+     Hey guys, Dr. Daphne Limburtz, certified laser dermatologist.
+},
+{
+    3.2,7.92
+     Hey, you've seen a lot of my videos on acne scarring and cosmetic revision of
+},
+{
+    8.68,10.68
+     scars and birthmarks and
+},
+{
+    11.6,15.2
+     lots of good stuff and interesting things, but look
+},
+{
+    15.96,21.32
+     the brilliant bother of my training as a dermatologist is that of skin checks.
+},
+{
+    21.32,25.08
+     Now I've given that up about or four or five years ago as of skin checks. Now, I've given that up about, or four, five years ago,
+},
+{
+    25.08,27.24
+     as regular skin checks, but I still do skin checks
+},
+{
+    27.24,29.0
+     for the military or ex-military personnel
+},
+{
+    29.0,30.7
+     because I'm ex-military myself.
+},
+{
+    30.7,34.88
+     So, these patients usually have an extraordinary amount
+},
+{
+    34.88,38.0
+     of sun damage, and you'll see shortly what I mean
+},
+{
+    38.0,40.32
+     by sun damage and skin cancers,
+},
+{
+    40.32,45.0
+     because when you work in the Air Force Army or Navy,
+},
+{
+    45.32,47.34
+     they're often restrictions on what you can wear
+},
+{
+    47.34,51.6
+     or you can't wear, especially in the 50s, 60s and 70s.
+},
+{
+    51.6,56.36
+     And as a result, you can see the immense amount of damage
+},
+{
+    56.36,59.12
+     of what UV radiation can do.
+},
+{
+    59.12,61.7
+     Typically my patients will have at least
+},
+{
+    61.7,64.48
+     at any given time a dozen skin cancers
+},
+{
+    64.48,65.16
+     or would have had a
+},
+{
+    65.16,69.44
+     couple of hundred skin cancers cut out. So watch this video, he's a really cool
+},
+{
+    69.44,73.04
+     guy, I've been looking after him for the last 10 years and you can see the amount
+},
+{
+    73.04,78.32
+     of sun damage he has and why it's important to wear sunscreen and do your
+},
+{
+    78.32,82.64
+     best to wear hats and really take care of your skin and if you're at high risk
+},
+{
+    82.64,86.48
+     see a board certified dermatologist who does regular skin checks.
+},
+{
+    86.48,87.48
+     So thanks for that guys.
+},
+{
+    87.48,89.48
+     Hey guys this is my mate Barry.
+},
+{
+    89.48,90.48
+     How are you Barry?
+},
+{
+    90.48,91.48
+     Well thanks yourself.
+},
+{
+    91.48,92.48
+     Good, good.
+},
+{
+    92.48,99.44
+     You can see very shortly how many skin cancers he's had and I'll take you through a skin
+},
+{
+    99.44,107.52
+     check what they look for and stay safe that way. So just as an idea, Barry's had at least 300, 400,
+},
+{
+    107.52,112.96
+     yeah, probably 400 sking dancers. Your ex-military used to be in the Air Force, right,
+},
+{
+    112.96,116.8
+     from what I remember. Yep. Yep. And with the, being in the Air Force is something
+},
+{
+    116.8,121.36
+     called FID, foreign object debris. Is that right? FIDs? Foreign object damage.
+},
+{
+    121.36,127.16
+     The air-firing damage. In other words, they kind of wear hats. You couldn't wear sunglasses last time.
+},
+{
+    127.16,128.16
+     And the only thing you could have
+},
+{
+    128.16,130.0
+     could be earmuffs and that's it.
+},
+{
+    130.0,133.36
+     So as a result, he's on the tarmac
+},
+{
+    133.36,135.5
+     with the UV exposure, which is ridiculous,
+},
+{
+    135.5,136.88
+     much like California.
+},
+{
+    136.88,139.68
+     Just imagine that no hats, no sunscreens
+},
+{
+    139.68,141.24
+     because you were working on the tarmac
+},
+{
+    141.24,144.08
+     at that stage in the 60s and 70s
+},
+{
+    144.08,146.12
+     on F1 Lebanon's Long Retire
+},
+{
+    146.12,151.36
+     aircraft. But you know, it's amazingly amount of sun damage it has and as a result the
+},
+{
+    151.36,158.16
+     consequence of UV damage. So he's a classic example of really bad skin cancers and sun
+},
+{
+    158.16,163.88
+     damage and I'll show you the amount of skin cancers he's had and he has at this moment.
+},
+{
+    163.88,169.2
+     Okay so quick check over here, you can see he's got a graft over here that's formed by melanoma
+},
+{
+    169.2,174.32
+     I presume. Is that melanoma on SCC? SCC. It's a squamous cell castanoma that was probably a
+},
+{
+    174.32,178.24
+     couple of decades ago. He's had numerous operations over here. He's had at least,
+},
+{
+    178.96,186.24
+     I've operated on you quite a few times in the past. He's had a graft to his nose over here. He's got
+},
+{
+    186.24,190.24
+     sun damage everywhere, solar keratosis all the way around here, anything which is rough
+},
+{
+    190.24,195.28
+     or unscaly. I have a Prima lignin, so they're called solar keratosis or actinic keratosis
+},
+{
+    195.28,201.6
+     in the US. He's got a couple of IECs which are precancerous. He's had scars over here,
+},
+{
+    201.6,207.0
+     on the forehead over here, nasal reconstruction over here, down through
+},
+{
+    207.16,214.16
+     his ALR down there, he's had carcinomas up on his lip over here, lots and lots of scars
+},
+{
+    214.44,220.08
+     everywhere, secondary to BCCs and squamous cell carcinomas. You can see part of his
+},
+{
+    220.08,226.24
+     ear is missing and that's secondary to skin cancer as well as skin cancer excursions.
+},
+{
+    226.24,230.24
+     This is where we normally take our grafts from, which is a part of the front part of
+},
+{
+    230.24,231.44
+     the ear.
+},
+{
+    231.44,236.12
+     Moving down to his body, we can see he's got lots of sun damage all over his chest.
+},
+{
+    236.12,238.32
+     These areas are pre-cantherous as well.
+},
+{
+    238.32,242.56
+     Anything which is rougher and scaly that doesn't go away in six weeks is considered as pre-cantherous
+},
+{
+    242.56,244.68
+     until proven otherwise.
+},
+{
+    244.68,247.44
+     Numerous scars everywhere from skin cancer there.
+},
+{
+    247.44,253.72
+     Cryotherapy here, that's done by a plastic surgeon, so we call it Azoro, Mark was Zed,
+},
+{
+    253.72,258.6
+     that's his little flap there for a skin cancer there.
+},
+{
+    258.6,262.56
+     Moving down his arms, you can see an immense amount of sun damage, starting all the way
+},
+{
+    262.56,264.36
+     from his fingers.
+},
+{
+    264.36,265.36
+     All of this is precancer,
+},
+{
+    265.36,270.8
+     precancer, pretranser, precancer. Surgical scars over here, all of these are precancerous lesions.
+},
+{
+    271.6,277.52
+     Looking at his back, we're going to his back now. We can see he's got lots of spots and dots,
+},
+{
+    277.52,282.8
+     but this is where you should see a board certified dermatologist because even though he has lesions
+},
+{
+    282.8,286.56
+     like this, which may look nasty, they're not.
+},
+{
+    286.56,289.6
+     These are actually age warts or age barnacles.
+},
+{
+    289.6,293.84
+     So these are called sebkeratoses, barnacles in the ship of life.
+},
+{
+    293.84,296.04
+     So they're indeed actually benign.
+},
+{
+    296.04,297.16
+     So they're not dangerous at all.
+},
+{
+    297.16,299.12
+     The dangerous ones are the ones you usually can't see.
+},
+{
+    299.12,304.04
+     So that's why it's very important if you get a lot of sun exposure to see a dermatologist.
+},
+{
+    304.04,311.7
+     You can see the scars there from skin cancers. So even though his back looks kind of like, wow, out
+},
+{
+    311.7,318.56
+     there, it's actually quite good because his back is actually age barnacles and age warts.
+},
+{
+    318.56,322.68
+     So then if we move down to his legs, we can see what's happened to his legs. So look at
+},
+{
+    322.68,325.04
+     the amount of sun damage. This is from a graph,
+},
+{
+    325.04,329.52
+     so that's called a split thickness graph, and that's from another graph. So you can see the graph
+},
+{
+    329.52,335.12
+     sites. All of these areas here are precancerous. So it's got precancerous areas all the way here,
+},
+{
+    335.12,340.8
+     all the way down here, and you can see all the way down. So because you wore shorts, didn't you,
+},
+{
+    340.8,350.84
+     mate? Yeah, shorts and t-shirts. Yeah, so in the RAF and the Air Force, Ati was shorts and t-shirts or even a singlet.
+},
+{
+    350.84,352.68
+     I wore like four singles here.
+},
+{
+    352.68,357.4
+     Yeah, so you can see the amount of sun damage stops around here.
+},
+{
+    357.4,358.4
+     His feet are kind of okay.
+},
+{
+    358.4,360.12
+     You can see that sharp cut off.
+},
+{
+    360.12,364.64
+     So you can see the amount of sun damage due to the UV.
+},
+{
+    364.64,366.32
+     And all of these areas here, once again,
+},
+{
+    366.32,368.3
+     like I said, they're all precancerous.
+},
+{
+    368.3,371.92
+     And these had excisions over here on this calf as well,
+},
+{
+    371.92,374.2
+     and excisions over there with a flap repair,
+},
+{
+    374.2,377.2
+     over there with a Zoro flap repair, Zed flap repair.
+},
+{
+    377.2,382.2
+     So yeah, this is my typical military,
+},
+{
+    382.56,385.0
+     or ex-military skin check.
+},
+{
+    385.36,390.36
+     So guys, it's really important to get your skin checked.
+},
+{
+    394.08,396.92
+     One of the ways we can treat solar keratosis
+},
+{
+    396.92,399.48
+     is something called cryotherapy, which is this.
+},
+{
+    399.48,402.22
+     So basically we're just freezing off tons of spots
+},
+{
+    402.22,403.72
+     in the scheme of things.
+},
+{
+    402.2,403.8
+     we're just freezing off time and spots. In the scheme of things,
+},
+{
+    408.04,410.76
+     in the scheme of things, what I'm doing with this
+},
+{
+    410.76,413.08
+     to treat this amount of sun damage,
+},
+{
+    414.68,415.64
+     it's not gonna work guys.
+},
+{
+    415.64,418.0
+     So that's when we use other treatments
+},
+{
+    418.0,420.48
+     like photodynamic therapy or creams
+},
+{
+    420.48,423.98
+     such as five fluoro-urusil or FU-dex.
+},
+{
+    423.98,427.96
+     So in the US you have a treatment called LuVan.
+},
+{
+    427.96,430.6
+     In Australia we use something called PDT
+},
+{
+    430.6,432.72
+     or Phytodynamic Therapy.
+},
+{
+    432.72,435.96
+     Basically we use a red light to activate the chemical
+},
+{
+    435.96,438.12
+     which kills the pre-campus cells.
+},
+{
+    438.12,440.68
+     And Barry's had much of that in the past.
+},
+{
+    440.68,443.68
+     Mate, hey, Barry, thanks very much for letting me film you,
+},
+{
+    443.68,444.52
+     mate.
+},
+{
+    444.52,445.0
+     All right. And any tips for the guys out there who are still sun baking? Mate, hey Barry, thanks very much for letting me film you mate.
+},
+{
+    445.0,452.0
+     And any tips for the guys out there who are still sun baking?
+},
+{
+    452.0,454.0
+     That's it, sunscreen, yeah?
+},
+{
+    454.0,456.0
+     Good idea mate, thanks mate.
+},
+{
+    456.0,457.0
+     And lots of it.
+},
+{
+    457.0,458.0
+     Lots of it, that's it.
+},
+{
+    458.0,459.0
+     That's the best tip.
+},
+{
+    459.0,460.0
+     Thanks mate.
+},
+{
+    460.0,463.0
+     Okay, so that's it guys.
+},
+{
+    463.0,467.1
+     You can see Barry's got it spot on. Use slip slop slap.
+},
+{
+    467.1,474.22
+     That was the old slogan in Australia in the 80s. Yeah, slip slop slap. Slip on the
+},
+{
+    474.22,479.68
+     t-shirt, slop on some sunscreen and slap on your hat. Something like that. But
+},
+{
+    479.68,484.94
+     anyway, slip slop slap is what we used to call in the 80s for sun protection. And
+},
+{
+    484.94,485.0
+     it is really important. Make sure if you're at high risk, get your skin checked Slip, Slop, Slap is what we used to call in the 80s for sun protection.
+},
+{
+    485.0,486.6
+     And it is really important.
+},
+{
+    486.6,491.36
+     Make sure if you're at high risk, get your skin checked because what you can see, what
+},
+{
+    491.36,497.08
+     looks nasty on his back is actually fine and what doesn't look nasty is actually precances
+},
+{
+    497.08,498.52
+     or cancers.
+},
+{
+    498.52,504.16
+     So yeah, get your skin checked by a board certified dermatologist, especially if you're
+},
+{
+    504.16,505.32
+     at high risk.
+},
+{
+    505.32,511.68
+     And remember, if something that comes up and stays for longer than six weeks, look and
+},
+{
+    511.68,514.96
+     doesn't go away, make sure you get it checked because it could be a skin cancer.
+},
+{
+    514.96,518.68
+     Hey guys, thanks very much for watching this video and I'll see you again next Saturday.
+},
+{
+    518.68,519.68
+     Bye.
+},
+{
+    519.68,523.72
+     Hey guys, thank you so much for your support.
+},
+{
+    523.72,531.96
+     I can't do this channel without all you subscribers and seriously, 52,000 subscribers in the last
+},
+{
+    531.96,533.44
+     nine months.
+},
+{
+    533.44,535.28
+     I'm really stoked.
+},
+{
+    535.28,538.28
+     So I would love you to subscribe so I can do more videos.
+},
+{
+    538.28,550.4
+     I'm also on Instagram, so I post a couple of videos every week. So for anything up and coming and exciting, you can follow me on Instagram.
+},
+{
+    550.4,551.6
+     So hope to see you soon.
+},
+{
+    551.6,552.24
+     Bye.
+},

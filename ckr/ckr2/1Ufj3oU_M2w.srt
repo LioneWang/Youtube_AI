@@ -1,0 +1,240 @@
+{
+    0.0,7.0
+     ACT stands for Airway Clearance Technique.
+},
+{
+    7.0,12.0
+     You can perform one or more of these techniques as part of your daily care.
+},
+{
+    12.0,19.0
+     ACTs are performed to loosen and move the thick, sticky mucus out of your airways so
+},
+{
+    19.0,21.0
+     you can breathe better.
+},
+{
+    21.0,30.0
+     All ACTs include huffing or coughing. Huffing means to breathe in slowly through your nose, hold the breath for three seconds,
+},
+{
+    30.0,34.0
+     and then exhale with an open mouth, similar to fogging a mirror.
+},
+{
+    34.0,39.0
+     In huffing, a small breath in, followed by a long exhale,
+},
+{
+    39.0,43.0
+     moves mucus from the small airways up into the larger airways.
+},
+{
+    43.0,48.28
+     A deep breath in, followed by a short, forceful exhale,
+},
+{
+    48.28,52.68
+     moves mucus from the larger airways and out of your lungs.
+},
+{
+    52.68,57.4
+     Then, you cough to clear the mucus out of your airway.
+},
+{
+    57.4,60.52
+     After coughing, it's important to always spit out the mucus
+},
+{
+    60.52,63.24
+     and not swallow it.
+},
+{
+    63.24,66.52
+     Remember to clean your hands when you're finished.
+},
+{
+    66.52,68.64
+     There are many airway clearance techniques, which
+},
+{
+    68.64,70.52
+     work in different ways.
+},
+{
+    70.52,75.16
+     They include active cycle of breathing, autogenic drainage,
+},
+{
+    75.16,78.36
+     chest physical therapy, high-frequency chest
+},
+{
+    78.36,82.68
+     wall oscillating vest, positive expiratory device,
+},
+{
+    82.68,85.0
+     and airway oscillillating Device.
+},
+{
+    85.0,90.0
+     Active Cycle of Breathing is a technique that is designed to get air behind the mucus,
+},
+{
+    90.0,92.0
+     making it easier to cough up.
+},
+{
+    92.0,94.0
+     It has three phases.
+},
+{
+    94.0,97.0
+     The first phase is known as breathing control.
+},
+{
+    97.0,102.0
+     Here, you gently breathe in through your nose to relax your airways.
+},
+{
+    102.0,107.06
+     The second phase is a chest expansion exercise. You inhale deeply
+},
+{
+    107.06,112.84
+     and hold your breath for three seconds. This will get air behind the mucus and loosen it,
+},
+{
+    112.84,118.16
+     making it move up into the larger airways more easily. The third phase is called a forced
+},
+{
+    118.16,127.0
+     expiratory technique. Here, you huff cough to move the mucus from the larger airways, and finally, out of your body.
+},
+{
+    128.0,134.0
+     Autogenic drainage is another technique that uses controlled breathing in three phases.
+},
+{
+    134.0,141.0
+     In the first phase, you take in shallow breaths to unstick mucus from the sides of the small airways.
+},
+{
+    142.0,146.52
+     In the second phase, you collect mucus by holding your breath for three seconds.
+},
+{
+    146.52,153.04
+     Finally, in the last phase, you move the mucus out of your airway with a hard, huff cough.
+},
+{
+    153.04,159.24
+     Chest physical therapy, also known as postural drainage and percussion,
+},
+{
+    159.24,164.28
+     is when another person uses cupped hands and percussion to loosen mucus from your airways.
+},
+{
+    164.28,165.16
+     This percussion happens while you lie in positions that use gravity percussion to loosen mucus from your airways.
+},
+{
+    165.16,169.62
+     This percussion happens while you lie in positions that use gravity to drain the mucus from your
+},
+{
+    169.62,171.32
+     smaller airways.
+},
+{
+    171.32,175.56
+     You then huff or cough the mucus out of your lungs.
+},
+{
+    175.56,180.22
+     High-frequency chest wall oscillating vest is a technique that works by compressing the
+},
+{
+    180.22,188.48
+     chest in and out to create airflow, which loosens mucus from airway walls.
+},
+{
+    195.6,201.12
+     Positive expertory pressure, or PEP, uses resistance to open the airways and get air behind the mucus, loosening it and moving it from smaller airways to larger ones, where it is hoffed or coughed out.
+},
+{
+    203.72,208.0
+     hoffed or coughed out. Much like PEP, in an airway oscillating device, or AOD,
+},
+{
+    208.0,210.96
+     resistance forces airways to open.
+},
+{
+    210.96,213.48
+     Vibrations from the device, called oscillations,
+},
+{
+    213.48,217.64
+     also shake mucus, loosening it from the airway walls.
+},
+{
+    217.64,220.48
+     Once the mucus has moved up into the larger airways,
+},
+{
+    220.48,224.16
+     you hoff or cough it out of your airway.
+},
+{
+    224.16,225.72
+     To reduce the risk of infection,
+},
+{
+    225.72,228.38
+     remember to clean and disinfect all equipment
+},
+{
+    228.38,229.78
+     when you're finished.
+},
+{
+    229.78,232.18
+     If you have questions about how to best clean your equipment,
+},
+{
+    232.18,233.56
+     ask your CF care team.
+},
+{
+    234.5,237.46
+     When done consistently as part of your daily care plan,
+},
+{
+    237.46,239.66
+     ACTs can help control infection
+},
+{
+    239.66,242.78
+     and slow the progression of damage to your lungs.
+},
+{
+    242.78,244.58
+     Talk with your CF care team to learn more
+},
+{
+    244.58,246.52
+     about these airway clearance techniques.
+},
+{
+    248.22,251.0
+     As your partner, they can help you choose the ACT
+},
+{
+    251.0,252.12
+     that is right for you.
+},

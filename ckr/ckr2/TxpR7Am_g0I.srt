@@ -1,0 +1,76 @@
+{
+    0.0,8.6
+     To help reduce the swelling faster, I give all my patients instructions on how to tape
+},
+{
+    8.6,12.44
+     your nose at night when you sleep at least for the first month.
+},
+{
+    12.44,17.0
+     And what this taping will do, well it puts a little bit of pressure on the nose, helps
+},
+{
+    17.0,22.6
+     reduce swelling, speeds up healing and particularly with patients with either thicker skin or
+},
+{
+    22.6,25.76
+     ethnic skin, well it speeds up the resolution of the
+},
+{
+    25.76,32.24
+     swelling which tends to be more associated with the skin type and also it can give a better result
+},
+{
+    32.24,37.76
+     as it gives more definition as a result of the fine pressure. I give patients the tape in which
+},
+{
+    37.76,43.36
+     to use and this tape is a special tape and that it's hypoallergenic which means that it's very rare
+},
+{
+    43.36,45.44
+     to have issues with the tape itself, it's also latex free and which means that it's very rare to have issues with the tape itself.
+},
+{
+    45.44,50.44
+     It's also latex free. And this tape, what it will do is do the equivalent of a little
+},
+{
+    50.44,56.4
+     bit of pressure on your nose when healing to help enhance recovery and speed up the final
+},
+{
+    56.4,60.76
+     result. The way to apply this tape is to have the
+},
+{
+    60.76,65.0
+     tape coming down your forehead, down the bridge of the nose,
+},
+{
+    65.0,69.0
+     around the tip of the nose, then back up the other side
+},
+{
+    69.0,76.0
+     of the bridge of your nose onto your forehead. The tape can then be pressed down, so it is relatively firm,
+},
+{
+    76.0,79.0
+     and it can stay over this area overnight.
+},
+{
+    79.0,89.0
+     And there's certainly no reason to use the tape during the day as that will limit all your activities. By using it last thing at night and while you sleep means that in the morning there
+},
+{
+    89.0,92.56
+     will be less swelling in your nose than otherwise.
+},
+{
+    92.56,None
+     I would encourage most patients to do this for the first month to speed up healing. you
+},

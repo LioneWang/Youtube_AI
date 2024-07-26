@@ -1,0 +1,172 @@
+{
+    0.0,6.0
+     Place both palms behind your ears and massage it outward like that.
+},
+{
+    6.0,15.0
+     One, two, three. Ready? One, two, three.
+},
+{
+    15.0,25.0
+     Make sure you place both palms on the side of the head and the ears and massage it strongly. six, seven, eight, nine, 10.
+},
+{
+    26.08,31.08
+     One more, one, two, three, four, five, six, seven, eight,
+},
+{
+    36.64,40.08
+     nine, 10, and relax.
+},
+{
+    40.08,42.48
+     Now this time massage on the top of your head,
+},
+{
+    44.08,52.88
+     up and down, one, two five six seven eight nine ten one two three four five six seven eight
+},
+{
+    53.68,65.16
+     nine ten one two three four five six seven eight nine ten stop and relax yourself I start it properly. Six, seven, eight, nine, 10.
+},
+{
+    65.16,68.0
+     Stop and relax yourself.
+},
+{
+    68.0,71.88
+     The thumb in the middle of your ear, like that.
+},
+{
+    76.38,77.46
+     And push it in.
+},
+{
+    78.44,83.44
+     One, two, three, four, five, six, seven, eight, nine, 10.
+},
+{
+    84.36,89.9
+     One, two, three, four, five, six, 7, 8, 9, 10 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+},
+{
+    89.9,95.44
+     1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+},
+{
+    95.44,100.94
+     1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+},
+{
+    100.94,103.98
+     and hold it and push it in for 10 seconds
+},
+{
+    103.98,114.8
+     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, hold it and push it in for 10 seconds. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and relax. Now on your left side,
+},
+{
+    115.52,117.84
+     push your thumb in the middle of the ear.
+},
+{
+    148.24,154.84
+     there and push in one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine nine ten one two three four five six seven eight nine nine two three four five six seven eight nine nine two three four five six seven eight nine nine two three four five six seven eight nine two three four five six seven eight nine two three four five six seven eight nine two three four five six seven eight nine two three four five six seven eight nine two three four five six seven eight nine two three four five six seven eight nine two three four five six seven eight nine ten. One two three four five six seven eight nine ten. One two three four five six seven eight nine ten. And ready push in and hold it for
+},
+{
+    154.84,169.68
+     ten seconds. One two three four five six seven eight nine ten. relax. Now we both thumb in the same spot in the middle and push it in together.
+},
+{
+    169.68,206.92
+     Push in and out strongly at the same time. Five six seven eight nine ten one two three four five 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 and push in seven, eight, nine, ten. One, two, three, four, five, six, seven, eight, nine, ten.
+},
+{
+    206.92,209.44
+     And push in and hold for 10 seconds.
+},
+{
+    209.44,214.44
+     One, two, three, four, five, six, seven, eight, nine, ten.
+},
+{
+    216.28,218.28
+     And relax.
+},
+{
+    218.28,219.96
+     And massage your palm.
+},
+{
+    219.96,221.24
+     Keep your ears up.
+},
+{
+    221.24,224.84
+     Round one, two, three.
+},
+{
+    224.84,228.52
+     You will have a warm feeling on the side of your forehead.
+},
+{
+    228.52,232.2
+     Seven, eight, nine, 10.
+},
+{
+    232.2,234.8
+     With your fingers at the back of your ear,
+},
+{
+    234.8,235.64
+     and tap it.
+},
+{
+    237.0,237.84
+     Ready?
+},
+{
+    237.84,242.8
+     One, two, three.
+},
+{
+    242.8,252.64
+     The ringing sound in your ears will start to decrease more. 6, 7, 8, 9, 10.
+},
+{
+    252.64,268.6
+     10 more. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Stop. Hold it. Now place both thumbs in the middle of your
+},
+{
+    268.6,295.0
+     ear. Push it in and breathe out at the same time. Ready? Push in, in, one, two, seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten
+},
+{
+    295.0,307.0
+     and will decrease the level of the sound inside the ears further. Second, one, two, three, four, five, six, seven, eight, nine, ten.
+},
+{
+    308.0,309.0
+     And relax.
+},
+{
+    311.0,314.0
+     The level of the ringing sounds inside your ears
+},
+{
+    314.0,316.0
+     will decrease from ten to around five now.
+},
+{
+    316.0,318.0
+     Eight, nine, ten.
+},
+{
+    318.0,320.0
+     And relax yourself.
+},
+{
+    321.0,324.0
+     Do this for five days and you will start to feel better.
+},

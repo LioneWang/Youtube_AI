@@ -1,0 +1,164 @@
+{
+    0.0,11.36
+     A wound is a break in the skin or soft tissues characterized by the steady escape of blood,
+},
+{
+    11.36,13.76
+     usually from an artery or vein.
+},
+{
+    13.76,20.08
+     Types of wounds include contusions or bruises which is bleeding under the skin, abrasions
+},
+{
+    20.08,25.36
+     which occur when the skin is rubbed or scraped away.
+},
+{
+    29.6,30.72
+     Lacerations, which are cuts or tears in the skin and underlying tissue.
+},
+{
+    35.8,37.24
+     Evulsions, which occur when a piece of skin is totally or partially torn away.
+},
+{
+    41.72,43.2
+     And punctures, which occur when the skin is pierced with a pointed object.
+},
+{
+    48.7,52.58
+     In the case of minor wounds where there is only surface damage and little bleeding, wash the wound with soap and water.
+},
+{
+    52.58,56.78
+     Disinfecting the area with an antibiotic will help prevent infection and speed the healing
+},
+{
+    56.78,58.26
+     process.
+},
+{
+    58.26,61.94
+     Infection is always a concern when an injury breaks the skin.
+},
+{
+    61.94,65.72
+     After cleaning the wound, apply sterile dressings. For smaller
+},
+{
+    65.72,71.8
+     wounds, use a simple adhesive bandage that can come in all different shapes and sizes.
+},
+{
+    71.8,77.84
+     For larger wounds, use square sterile gauze pads and roller bandages.
+},
+{
+    77.84,82.36
+     Tetanus is a potentially fatal disease that may result if wounds are not thoroughly cleaned
+},
+{
+    82.36,89.04
+     and disinfected. A deeper wound that is the result of an animal bite, or occurs in unhygienic surroundings,
+},
+{
+    89.04,91.24
+     should be referred to medical help.
+},
+{
+    91.24,95.16
+     Serious infections may cause the casualty to develop a fever.
+},
+{
+    95.16,99.32
+     There may also be red streaks under the skin progressing from the wound.
+},
+{
+    99.32,103.12
+     If this is the case, seek medical attention immediately.
+},
+{
+    103.12,106.0
+     First aid for infection. Keep area clean.
+},
+{
+    106.0,108.0
+     Apply a warm, wet compress.
+},
+{
+    108.0,110.0
+     Apply an antibiotic ointment
+},
+{
+    110.0,112.0
+     recommended by a pharmacist.
+},
+{
+    112.0,114.0
+     Seek medical attention
+},
+{
+    114.0,116.0
+     if the infection looks serious.
+},
+{
+    116.0,118.0
+     A doctor may prescribe appropriate antibiotics.
+},
+{
+    120.0,122.0
+     Special considerations for wounds.
+},
+{
+    122.0,124.0
+     When do we need stitches?
+},
+{
+    124.0,125.0
+     Stitches are usually needed when there is a complete separation Special considerations for wounds. When do we need stitches?
+},
+{
+    125.0,130.0
+     Stitches are usually needed when there is a complete separation of both skin layers.
+},
+{
+    130.0,135.0
+     The edges of the skin do not fall together, and the wound is larger than 1 to 2 centimeters.
+},
+{
+    135.0,141.0
+     A closed wound does not involve a break in the skin, and therefore no external bleeding.
+},
+{
+    141.0,146.24
+     Signs and symptoms of a contusion or bruise include tenderness, discoloration,
+},
+{
+    146.24,151.44
+     and swelling of the soft tissues in the area. Direct pressure on the area to decrease bleeding
+},
+{
+    151.44,157.92
+     under the skin. Apply a cold compress to control both pain and swelling. Applying a cold compress
+},
+{
+    157.92,162.32
+     will also constrict the blood vessels in the soft tissue and minimize internal bleeding.
+},
+{
+    163.04,165.48
+     Be sure to place a thin barrier between the
+},
+{
+    165.48,171.64
+     cold source and the skin. Apply cold for 20 minutes every hour for as long as the person
+},
+{
+    171.64,177.52
+     feels pain. If it is a more serious bruise, apply cold for 20 minutes every hour for the
+},
+{
+    177.52,None
+     first 24 to 48 hours. Check and treat for any underlying bone, muscle, or joint injuries.
+},

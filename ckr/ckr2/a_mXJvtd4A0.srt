@@ -1,0 +1,180 @@
+{
+    0.0,7.0
+     Yn ymddiw yw'r cyfnodd, mae'r cyfnodd yn ymddiw'r cyfnodd yn ymddiw.
+},
+{
+    7.0,12.0
+     Yn ymddiw'r cyfnodd, mae'r cyfnodd yn ymddiw'r cyfnodd yn ymddiw'r cyfnodd yn ymddiw.
+},
+{
+    12.0,25.0
+     Hefyd, mae'r cyfnodd yn ymddiw yw'r cyfnodd, ac mae'r cyfnodd yn ymddiw'r cyfnodd yn ymddiw. Yn ymddiw'r cyfnodd, mae'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithny'n gyfnod o glwcogon. Mae'n mynd i'n gyfnod o glwcogon.
+},
+{
+    25.0,65.0
+     Fyddwn ni'n gyfnod o glwcogon, mae'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyn gwybod i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddau i'r ddauw'r unig, mae'r unig
+},
+{
+    65.0,67.0
+     ac mae'n rhan o'r unig i'w ddwylltyn
+},
+{
+    67.0,71.0
+     fel hynny, oedd ychydig i'w ddwylltyn
+},
+{
+    71.0,73.0
+     ar y unig.
+},
+{
+    73.0,77.0
+     Ac mae'n rhan o'r unig i'w ddwylltyn.
+},
+{
+    77.0,79.0
+     Yn ymlaen i'w ddwylltyn,
+},
+{
+    79.0,81.0
+     mae'n rhan o'r fial,
+},
+{
+    81.0,83.0
+     gyda'r rhan o'r unig.
+},
+{
+    83.0,87.0
+     Ac mae'n rhan o'r unyn ni'n ddweud yma'r rin.
+},
+{
+    87.0,91.0
+     Rhin yw'r rin yn fwy o water.
+},
+{
+    91.0,97.0
+     Yn y bwysig, rydyn ni'n ddweud y llwyddiad
+},
+{
+    97.0,101.0
+     yw'r llwyddiad yn ychydig yn ychydig yn y meddwl.
+},
+{
+    101.0,125.76
+     A'r gweithio, rydyn ni'n ddweud yw'r gweithio'r glwcogon a'r gweithio chi i gael i chi'n gwybod i oherwydd mae'n fflaesiaf.
+},
+{
+    125.76,129.12
+     Felly, mae'r fiannau'r fiannau'n fwyaf, ac mae'n fwyaf o'r fiannau.
+},
+{
+    129.12,132.32
+     Mae'n gweithio i'r fiannau, fel yw'r ddod.
+},
+{
+    132.32,138.56
+     Felly, fel y teulu, mae'r fiannau'n fflaesiaf, ac mae'n ffligio'r fiannau.
+},
+{
+    138.56,142.56
+     Mae'n fflaesiaf. Mae'n fflaesiaf a'n fflaesiaf.
+},
+{
+    142.56,144.16
+     A'n fflaesiaf.
+},
+{
+    144.16,148.4
+     Mae'n fflaesiar bwng yn ymddiol. Mae'n ddweud. Mae'n ddweud yn y bwng.
+},
+{
+    151.04,154.96
+     Felly, i'r meddwl, i'r glwcogon,
+},
+{
+    154.96,157.52
+     mae'n ddweud y bwng.
+},
+{
+    158.24,164.0
+     Mae'n ddweud y bwng yn y bwng yn y bwng
+},
+{
+    164.0,166.9
+     yn y bwng yn y bwysig yn y bwysig ar y bwysig ar y bwysig ar y bwysig.
+},
+{
+    167.6,170.7
+     A ddyn nhw'n ddweud y plwnger
+},
+{
+    171.5,175.9
+     fel y bwysig yn ymgyrch.
+},
+{
+    176.3,178.8
+     Mae'r bwysig yn ymgyrch yn ymgyrch.
+},
+{
+    180.5,187.0
+     Rwy'n ddweud y b ysryng a'r bwysig o'r ddweud.
+},
+{
+    187.0,195.0
+     Rydyn ni'n meddwl yma, y glwch yn gweithio'r bwysig.
+},
+{
+    195.0,245.2
+     Rydyn ni'n meddwl i'r bwysig yn ymwysig yn ymwysig yn y pen o'r bwysig sy'n bwysig, ac mae'n mynd i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch g oed yn ymweld, mae'n gweithio y ddod, ac mae'n rhan o'r ddod o'r ddod o'r rhag o'r rhag o'r ddod o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhag o'r rhchrau'r gweithio, y ddechrau'r gweithio'r gweithio'r gweithio'r
+},
+{
+    245.2,251.2
+     ddechrau'r butwch, y ddechrau'r gweithio'r gweithio, oedd yn ddweud i chi'n gweithio'r gweithio.
+},
+{
+    251.2,259.28
+     Felly mae'n ddweud o'r hyn, oed o'r ddweud i chi, ac y ddweud o'r gweithio'r gweithio'r gweithio.
+},
+{
+    260.0,265.6
+     Felly mae'n ddweud i'r gweithio'r gweithio'r gweithio. Felly mae'n ddweud i'r gweithio'r gweithio'r gweith i'r ffynol ffynol, felly mae'n gwybod i'r ffynol.
+},
+{
+    285.0,288.0
+     felly mae'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwybod i'n gwyid i'r plwnger yn ymddiol.
+},
+{
+    290.0,293.0
+     Rwy'n meddwl i'r llwy, yn ymddiol i'r rhaglenu'r bobl.
+},
+{
+    296.0,299.0
+     Ac rwy'n meddwl i'r bwysig yn y rwyfyrdd
+},
+{
+    299.0,308.0
+     ac yn ymddiol i'r amlwg ac yn helpu i'r gweithio. Mae'r meddwl yw'r meddwl yn ymddiol i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddbod i'r amgylchedd a helpu i'r gweithio. Mae'r meddwl yw'r meddwl yn fawr i'r gweithio'r gweithio.
+},
+{
+    308.0,312.0
+     Felly mae'n gwybod i'r idea o'r gweithio'n gwybod o 20 o 30 minu
+},
+{
+    312.0,316.0
+     oedd ydych chi'n gwybod i'r gweithio o'r gweithio o'r gweithio o'r gweithio.
+},
+{
+    316.0,320.0
+     Bydd ydych chi'n gwybod i'r amgylchedd a helpu i'r gweithio
+},
+{
+    320.0,322.0
+     ac mae'r gweithio yn ymgylchedd.
+},
+{
+    322.0,325.44
+     Felly mae'n cael ei gwybod i'r gweithio'r glyfr yn ychydig yn ymddi'r gweithio. Felly mae'r gweithio'r gweithio'r gweithio'r glwcogon.
+},
+{
+    325.44,337.92
+     Rwy'n fawr i'n fawr i'n gweithio'r gweithio ac yn ddod i'n fawr i'n gweithio.
+},

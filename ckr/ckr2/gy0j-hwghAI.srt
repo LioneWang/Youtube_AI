@@ -1,0 +1,64 @@
+{
+    0.0,5.0
+     You know, throughout the course of everyday life, all of us will sustain minor injuries.
+},
+{
+    5.0,10.0
+     I am Captain Joe Bruni, and what I'm going to talk about is how to stop mild bleeding.
+},
+{
+    10.0,15.0
+     Mild bleeding is usually the occurrence of some type of minor injury.
+},
+{
+    15.0,28.4
+     Mild bleeding can be controlled normally by first cleaning the blood away with some type of sterile or clean dressing until we can
+},
+{
+    28.4,31.76
+     expose the injured area.
+},
+{
+    31.76,39.96
+     After the mild bleeding is cleaned away, a small amount of pressure can be applied to
+},
+{
+    39.96,47.0
+     the bleeding area for a short period of time until the blood clots and the bleeding stops.
+},
+{
+    47.12,52.54
+     Once the bleeding stops, wash the area with soap and water to cleanse the area and apply
+},
+{
+    52.54,59.54
+     some type of antiseptic or disinfecting solution that is topical to the skin area to reduce
+},
+{
+    59.64,66.12
+     the chances of infection. If the wound is minor in nature, something as simple as your
+},
+{
+    66.12,72.68
+     everyday Band-Aid could be applied to the area to stop and keep the bleeding
+},
+{
+    72.68,87.0
+     from occurring again and keep the area clean and dry until healing occurs. Minor injuries are a common fact of life,
+},
+{
+    87.0,90.64
+     but with proper techniques and cleaning,
+},
+{
+    90.64,95.56
+     bandaging can take place after this, so healing
+},
+{
+    95.56,98.76
+     will ensue. I'm Captain Joe Bruny. Stay safe
+},
+{
+    98.76,100.0
+     and see you next time.
+},

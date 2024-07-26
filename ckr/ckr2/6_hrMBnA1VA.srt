@@ -1,0 +1,492 @@
+{
+    0.0,7.92
+     Guys, give me five minutes and I'm going to teach you how to level up your core game
+},
+{
+    7.92,10.92
+     today.
+},
+{
+    10.92,13.84
+     Arash Mksudhi, doctor of physical therapy with the Prehab Guys here.
+},
+{
+    13.84,17.4
+     Today I'm going to be talking about core and ways that you can level up your core strength
+},
+{
+    17.4,18.4
+     today.
+},
+{
+    18.4,21.04
+     First and foremost, you've got to make sure when you're doing your core work, you're
+},
+{
+    21.04,23.44
+     strengthening your core in all three planes of movement.
+},
+{
+    23.44,27.5
+     That's forward, backward, sagittal plane, side to side, frontal plane, and then
+},
+{
+    27.5,31.12
+     rotational, being the transverse plane. So I'm going to show you three exercises,
+},
+{
+    31.12,35.12
+     each of them addressing them independently, and then one extra
+},
+{
+    35.12,38.36
+     credit exercise at the end that will address all three planes of movement
+},
+{
+    38.36,42.56
+     within one movement. So let's start with the first one, reverse crunches. Get on
+},
+{
+    42.56,46.8
+     the floor. I'll take you through three levels of each exercise.
+},
+{
+    46.8,51.48
+     Level one, make sure your core is engaged, backs flat against the floor, knees up.
+},
+{
+    51.48,55.48
+     Now once you have this position, you're going to drop your knees down towards the floor,
+},
+{
+    55.48,59.16
+     making sure your core stays engaged, and then come back up.
+},
+{
+    59.16,61.4
+     This is going to be level one.
+},
+{
+    61.4,62.88
+     You should feel the core work.
+},
+{
+    62.88,64.96
+     Breathe out as you bring the legs up.
+},
+{
+    64.96,68.14
+     Level two, you're going to straighten out the legs further.
+},
+{
+    68.14,69.14
+     This is more challenging.
+},
+{
+    69.14,71.72
+     The lower you get towards the floor, the more challenging.
+},
+{
+    71.72,72.98
+     This is easier.
+},
+{
+    72.98,73.98
+     This is going to be harder.
+},
+{
+    73.98,75.82
+     This is going to be level two here.
+},
+{
+    75.82,79.44
+     Then you're going to tap the floor, come back.
+},
+{
+    79.44,82.18
+     Tap the floor, knees straight, come back.
+},
+{
+    82.18,85.84
+     Level three, you're going to actually get your arms into this as well.
+},
+{
+    85.84,87.12
+     So now when you're here,
+},
+{
+    87.12,89.72
+     you're dropping your arms and your legs,
+},
+{
+    89.72,91.2
+     and then coming back up.
+},
+{
+    91.2,92.64
+     Dropping your arms and the legs,
+},
+{
+    92.64,95.64
+     core's engaged, your back is not arching.
+},
+{
+    95.64,97.3
+     And then you come back up.
+},
+{
+    97.3,98.4
+     That's level three.
+},
+{
+    98.4,100.56
+     If you really wanna challenge yourself further,
+},
+{
+    100.56,103.2
+     add some load, you can hold onto a medicine ball,
+},
+{
+    103.2,104.72
+     challenge yourself further there.
+},
+{
+    104.72,106.32
+     That's the sagittal plan of movement.
+},
+{
+    106.68,111.96
+     Second exercise will do like side plank type position. Level 1 start modified.
+},
+{
+    111.96,113.96
+     You're doing hip dips here.
+},
+{
+    113.96,119.32
+     Dropping your hips towards the floor, you're gonna feel a stretch in these obliques, and then you're pulling yourself up
+},
+{
+    119.48,123.06
+     trying to crunch in with the obliques. You're gonna use a lot of hip muscles too,
+},
+{
+    123.06,127.84
+     yes, but there's gonna be a lot of oblique activation that's going to lift yourself back up. So you're
+},
+{
+    127.84,133.24
+     dropping your hip towards the floor, allowing all this to stretch, and then pulling yourself
+},
+{
+    133.24,140.92
+     as you exhale. Drop, level one. Level two, straighten your knees out. This is going to
+},
+{
+    140.92,146.84
+     be a lot more challenging. Now drop the hips, allow for this to stretch, and then pull back up.
+},
+{
+    146.84,152.22
+     Drop the hips, and you're really going to feel this side of the core working with this.
+},
+{
+    152.22,156.9
+     Now, level three, very challenging, even though it's a subtle change.
+},
+{
+    156.9,158.4
+     Lift the top leg up.
+},
+{
+    158.4,159.6
+     Lift the top leg up.
+},
+{
+    159.6,162.68
+     Now you're up, and then you're going to be doing this hip dip.
+},
+{
+    162.68,165.88
+     Pull back up a ton of hip activation,
+},
+{
+    165.88,170.88
+     but also a lot, a lot of oblique activation too.
+},
+{
+    171.02,172.64
+     With this, just for extra credit,
+},
+{
+    172.64,174.6
+     if you want to go through a more range of motion,
+},
+{
+    174.6,177.32
+     you can straighten out this elbow, lift the arm up,
+},
+{
+    177.32,179.36
+     and yes, you can go further down and up.
+},
+{
+    179.36,182.0
+     This just allows for more movement to occur there.
+},
+{
+    182.0,184.44
+     Now, the third exercise will address
+},
+{
+    184.44,185.76
+     some rotational movement.
+},
+{
+    185.76,189.64
+     So it's kind of more of like an anti-rotation.
+},
+{
+    189.64,193.04
+     It's a quadruped position to start with.
+},
+{
+    193.04,197.68
+     And then you're going to kick your leg out and your opposite arm out at the same time.
+},
+{
+    197.68,202.88
+     So I'm kicking this leg out, driving the heel towards the back wall and this arm out while
+},
+{
+    202.88,204.88
+     making sure my core stays engaged.
+},
+{
+    204.88,209.36
+     I don't rotate my body one way or the other so if I have a glass of water on
+},
+{
+    209.36,214.28
+     my back it's staying there. Sometimes I'll literally put like a ball on someone's
+},
+{
+    214.28,218.44
+     back to make sure if they rotate one side the ball is gonna fall off and they
+},
+{
+    218.44,227.84
+     get some feedback with it. So core stays strong, kick the arm, kick the leg out, hold, and then come back in.
+},
+{
+    227.84,231.7
+     If you want to go all the way down, you can to bring the elbow and the knee together,
+},
+{
+    231.7,233.08
+     but you don't have to.
+},
+{
+    233.08,235.4
+     This is level one.
+},
+{
+    235.4,237.88
+     Okay?
+},
+{
+    237.88,242.08
+     Now level two, let's get up into a bear crawl position.
+},
+{
+    242.08,244.36
+     Just lift the knees a little bit.
+},
+{
+    244.36,245.92
+     Even though this is a subtle change,
+},
+{
+    245.92,247.8
+     it makes a huge difference in the demand
+},
+{
+    247.8,249.32
+     that's placed on your body.
+},
+{
+    249.32,251.92
+     So now you can't load into the knees.
+},
+{
+    251.92,255.3
+     You're doing the same thing back and forth,
+},
+{
+    256.92,258.18
+     just like this.
+},
+{
+    258.18,261.12
+     It's gonna be a lot on your quads and shoulders as well,
+},
+{
+    261.12,263.8
+     but you'll feel a lot of core activation with this.
+},
+{
+    263.8,266.8
+     Level three, you're gonna be in a high plank position,
+},
+{
+    266.8,268.56
+     just like this, and then you're gonna do
+},
+{
+    268.56,271.56
+     the same exact thing, lift the arm and the leg,
+},
+{
+    271.56,273.02
+     parallel to the floor.
+},
+{
+    273.02,274.9
+     So they're not going all the way up,
+},
+{
+    274.9,276.88
+     they're just going straight out, parallel to the floor,
+},
+{
+    276.88,279.88
+     and then come back down, just like this.
+},
+{
+    279.88,282.72
+     And with all these, you wanna make sure the back does an arch,
+},
+{
+    282.72,284.68
+     it doesn't go straight up towards the sky,
+},
+{
+    284.68,285.12
+     everything stays neutral and strong as you do these exercises. And with all of these, you want to make sure the back doesn't arch. It doesn't go straight up towards the sky.
+},
+{
+    285.12,288.92
+     Everything stays neutral and strong as you do these exercises.
+},
+{
+    288.92,292.4
+     Now I told you I'll give you a fun, extra credit one that will address all three planes
+},
+{
+    292.4,293.4
+     of motion at once.
+},
+{
+    293.4,294.8
+     And I'll show you this.
+},
+{
+    294.8,297.28
+     You probably haven't seen this one before.
+},
+{
+    297.28,302.36
+     To start out with this one, you'll go on your elbows and your knees.
+},
+{
+    302.36,306.28
+     Elbows under your shoulders, knees under your hips.
+},
+{
+    306.28,308.68
+     And from here, you're gonna kick one leg out,
+},
+{
+    308.68,311.24
+     so I'll kick my right leg out.
+},
+{
+    311.24,312.98
+     And then I'm gonna rotate down,
+},
+{
+    312.98,315.12
+     try to tap my hip to the floor,
+},
+{
+    315.12,318.68
+     and then push myself back up, and then switch sides.
+},
+{
+    318.68,321.76
+     Now I kick my left leg out, tap my hip to the floor,
+},
+{
+    321.76,324.9
+     without letting my leg touch, and then come back.
+},
+{
+    324.9,327.6
+     At first, you're gonna probably need to let the leg drop
+},
+{
+    327.6,329.84
+     a little bit as you come down like this,
+},
+{
+    329.84,333.36
+     but as you feel more and more comfortable and stronger,
+},
+{
+    333.36,336.54
+     you'll be able to go all the way down, tap the hip,
+},
+{
+    336.54,339.68
+     and then pull yourself back up using a lot of the obliques.
+},
+{
+    339.68,341.88
+     Let me just show you guys a few more reps.
+},
+{
+    347.0,350.0
+     I'm going to show you guys a few more reps. And that will get the core in all three planes of motion.
+},
+{
+    350.0,357.0
+     So I showed you guys an exercise, three levels of each exercise,
+},
+{
+    357.0,361.0
+     to make sure that you strengthen your core in all three planes of movement.
+},
+{
+    361.0,368.44
+     That's very key because as we move, as we lift, as we do exercises, we're moving in all three planes of motion. So you got to make sure
+},
+{
+    368.44,372.44
+     to prepare your body and strengthen your core in those motions as well. So if
+},
+{
+    372.44,376.04
+     there's anything else that you guys want, let us know. Let us know what you think
+},
+{
+    376.04,379.76
+     about these core exercises and what level you guys are currently working on
+},
+{
+    379.76,384.24
+     right now. Don't forget to subscribe and let us know if there's anything else you
+},
+{
+    384.24,386.84
+     guys want to see.
+},

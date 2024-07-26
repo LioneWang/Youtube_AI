@@ -1,0 +1,240 @@
+{
+    0.0,6.0
+     Hi, we see a lot of patients in our clinic who complain of shoulder pains.
+},
+{
+    6.0,12.0
+     The pain could come on when they put on a jacket, trying to reach for the hand on the sleeves,
+},
+{
+    12.0,17.0
+     or when they try to reach the back seat of the car to grab something.
+},
+{
+    17.0,21.0
+     When they sit in front of a computer, maybe just working on the mouse,
+},
+{
+    21.0,23.0
+     at the end of the day they might have a shoulder pain.
+},
+{
+    23.0,45.44
+     Or even when they do some overhead work, paint as decorators, doing a lot of stuff overhead gyda'r mwy o'r mwy, yn y gweithio, mae'n gweithio'r gweithio, o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r fwy o'r ddweud o'r ddweud o'r llwyffro o'r ddweud o'r ddweud o'r tanonitis.
+},
+{
+    45.44,66.5
+     Felly mae'n ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud. A'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r exorciseis yw'r cyffredinol, rwy'n gweithio'r cyffredinol, rwy'n gweithio'r cyffredinol, rwy'n gweithio'r meddwl
+},
+{
+    66.5,73.5
+     gyda'r cyffredinol, rwy'n gweithio'r cyffredinol, ac yna'r ysgolwch ar y blynedd, rwy'n gweithio'r cyffredinol, ac yna'r ysgolwch ar y blynedd.
+},
+{
+    73.5,75.0
+     Yn ymddangos, mae'n gweithio'r exorciseis.
+},
+{
+    75.0,81.0
+     Yn ymddangos, mae'n gweithio'r exorciseis yn ymddangos ar y llwyddi.
+},
+{
+    81.0,85.6
+     Mae'n gweithio'r cyffredinol, yw'r llwyddi a'rr prifentio ac yn ymddiad o'r cychwyn gweithio.
+},
+{
+    85.6,89.2
+     Rwy'n dweud bod yn ei wneud o'r problemau a'r ddweud o'r llwyddiad.
+},
+{
+    89.2,106.72
+     A'r ddweud yw'n ddweud, mae'n ddweud, mae'n ddweud o'r ddweud, mae'n ddweud o'r ddweud o'r ddweud, mae'n ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r a frozen shoulder or a rotator cuff injury, even a rotator cuff injury that's confirmed with a CT scan or an MRI scan,
+},
+{
+    106.72,108.8
+     that you actually have a little bit of a tear there.
+},
+{
+    108.8,112.36
+     The exercise I'm going to show you are very, very effective
+},
+{
+    112.36,114.78
+     for these problems.
+},
+{
+    116.0,118.52
+     Now, before we start, two things.
+},
+{
+    118.52,122.42
+     One, you have to be able to lift your hand
+},
+{
+    122.42,148.24
+     up to the horizon without too much pain. So that's number one before you start these exercises. ychydig i'w ddwy'r ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w ddwych i'w d osteoferoses, oedd ychydig ychydig yn ysgrifennu, yn ymdweud o'r cyfnod, ac yn ddweud, mae'n ddweud ymddiadau
+},
+{
+    148.24,151.76
+     o'r meddwl, yn ysgrifennu meddwl, ac yn ddweud ymddiadau
+},
+{
+    151.76,154.32
+     a'r meddwl yw'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud.
+},
+{
+    154.32,157.76
+     Felly, o'r ddweud, mae'n ddweud i'r ddweud,
+},
+{
+    157.76,160.56
+     ond mae'n ddweud i'r ddweud i'r ddweud i'r ddweud,
+},
+{
+    160.56,206.1
+     ond mae'n ddweud i'r ddweud i'r ddweud i'r ddweud. Felly, y ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddd, bo'r cyfnodd yn fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy fwy ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'r ffasio'n meddwl i'n meddwl, yn ymddi'r gweithio, dwi'n meddwl i'n meddwl o'r 10 sgyn ddifen i'r gweithio'n meddwl i'r gweithio, a'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio.
+},
+{
+    207.4,208.2
+     Felly, mae'n meddwl i'r gweithio.
+},
+{
+    208.2,248.4
+     Felly, mae'n meddwl i'n meddwl i'r gweithio, mae'n meddwl i'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweithio'n meddwl i'r gweith yn ymddi'r ffordd. Mae'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r ffordd yn ymddi'r parwch, ychydig yn y ffordd, yn ymddi'r cyfnod, 10-30 sg ac yn ymddi'r cyfnod yn ymddi.
+},
+{
+    248.4,251.6
+     Felly mae'n gweithio'r cyfnod o'r ffordd,
+},
+{
+    251.6,255.4
+     yn ymddi'r cyfnod, yn ymddi'r cyfnod, yn ymddi'r cyfnod,
+},
+{
+    255.4,257.6
+     yn ymddi'r cyfnod, yn ymddi'r cyfnod, yn ymddi'r cyfnod,
+},
+{
+    257.6,260.0
+     yn ymddi'r cyfnod, yn ymddi'r cyfnod,
+},
+{
+    260.0,262.4
+     felly mae'n gweithio'r cyfnod, yn ymddi'r cyfnod,
+},
+{
+    262.4,265.7
+     mae'n gweithio'r cyfnod o'r arnyn, yn ymddi'r cyfnod, yn ymddi'r cyfnod, yn ymddi'r cyfnod, yn ymddi'r cyfnod. so using the weights and dumbbells, you need to be able to get your arm above the horizon,
+},
+{
+    265.7,268.38
+     no added weight, just above the horizon, pain-free.
+},
+{
+    268.38,271.48
+     So that's what you need to be doing, that's the condition.
+},
+{
+    271.48,274.98
+     So I've got two dumbbells here, two KG,
+},
+{
+    274.98,277.18
+     three exercises I'd like you to do.
+},
+{
+    277.18,280.58
+     Always make sure that your palms face down.
+},
+{
+    280.58,284.38
+     So first exercise is bring the dumbbells
+},
+{
+    284.38,289.3
+     all the way up above your head and all the way down.
+},
+{
+    289.3,297.0
+     And we're looking for 30 to 45 repetitions. That's what I'd like you to do. The weights that you
+},
+{
+    297.0,303.66
+     put on your dumbbell should range between 1 and 8 pounds. If you manage to do 30 to 45 repetitions,
+},
+{
+    303.66,306.08
+     that's when you increase your weight.
+},
+{
+    306.08,308.72
+     It's also important that you go through your full range of motion,
+},
+{
+    308.72,312.48
+     so you really want to go all the way up and all the way down.
+},
+{
+    312.48,313.76
+     That's your first movement.
+},
+{
+    313.76,315.12
+     Second movement is sideways.
+},
+{
+    316.64,323.2
+     So you go sideways, straight up, all the way down, and up, and all the way down.
+},
+{
+    323.2,323.76
+     Same thing.
+},
+{
+    323.76,348.0
+     Again, 30 to 45 repetitions only increase the weight if you get those kind of numbers. ac yw'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'r un i'rfnod, yw'r cyfnod yw'r cyfnod yw'r cyfnod,
+},
+{
+    348.0,352.0
+     ac mae'r cyfnod, yw'r cyfnod, yw'r cyfnod,
+},
+{
+    352.0,356.0
+     yn ymddych ar y cyfnod, yw'r cyfnod, yw'r cyfnod,
+},
+{
+    356.0,360.0
+     yw'r cyfnod, yw'r cyfnod, yw'r cyfnod,
+},
+{
+    360.0,364.0
+     ac mae'n ddweud o'r cyfnod.
+},
+{
+    364.0,367.4
+     Yn ymddych ar y cyfwneud yw'r cyfnodd yma, yw'r cyfnodd yn ymwneud yma,
+},
+{
+    367.4,370.2
+     sy'n gwybod yw'r cyfnodd, ychydig i'r panchur,
+},
+{
+    370.2,373.2
+     yw'r cyfnodd, yw'r cyfnodd, yw'r cyfnodd, yw'r cyfnodd,
+},
+{
+    373.2,374.6
+     yw'r cyfnodd.
+},
+{
+    374.6,376.6
+     Mae'n ffordd, mae'n ffordd.
+},
+{
+    376.6,378.6
+     Felly, mae'n gwybod i'r gwybod.
+},
+{
+    378.6,None
+     Rwy'n gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod
+},

@@ -1,0 +1,848 @@
+{
+    0.0,13.44
+     Hey guys, welcome back to another episode of ED Quick Tips.
+},
+{
+    13.44,16.52
+     My name is Frankie Proud and I'm the yard educator here at the hospital.
+},
+{
+    16.52,19.28
+     My name is Danielle and I'm the trauma resource nurse.
+},
+{
+    19.28,22.96
+     I'm Michelle, I'm the physical therapist and certified wound specialist.
+},
+{
+    22.96,25.36
+     Today we have a special guest.
+},
+{
+    25.36,27.48
+     They're going to help us discuss the burn care
+},
+{
+    27.48,29.12
+     in the emergency department as well
+},
+{
+    29.12,31.16
+     as some educational topics that we can provide
+},
+{
+    31.16,33.12
+     to our patients after the self-rope burn.
+},
+{
+    33.12,35.2
+     So Michelle, starting at the beginning,
+},
+{
+    35.2,37.84
+     when a burn patient arrives to the emergency department,
+},
+{
+    37.84,40.68
+     as an ER nurse, what should I be assessing for?
+},
+{
+    40.68,42.52
+     One of the most important things you need to remember
+},
+{
+    42.52,44.86
+     about a burn patient is they are a patient
+},
+{
+    44.86,46.0
+     just like all your other patients.
+},
+{
+    46.0,70.64
+     But you do want to incorporate a good skin assessment. And based on that skin assessment dressing, will be either superficial or partial thickness, first or second degree burns, correct?
+},
+{
+    70.64,81.0
+     That's correct. Unless they are a large total body surface area, those then may require admission and further specialized care.
+},
+{
+    81.0,86.24
+     If I'm going to address this burn, as an ER nurse, how do I need to prepare the patient?
+},
+{
+    86.24,90.84
+     It depends on the patient and depends on the depth of injury. First and foremost,
+},
+{
+    91.04,98.32
+     pain management. So making sure that their pain is adequately controlled from this injury and for you to do that first
+},
+{
+    98.32,104.46
+     dressing change. Second of all, it depends on what the physician orders as far as your bacitracin or
+},
+{
+    104.48,109.44
+     it depends on what the physician orders as far as your basatracin or sylvidine or what other topical medication. So what areas of the body
+},
+{
+    109.44,114.34
+     would you expect that basatracin would be utilized in sylvidine? What is the
+},
+{
+    114.34,118.96
+     preference for basatracin versus sylvidine? When you are looking at the
+},
+{
+    118.96,124.96
+     burn injury, if it's a superficial or first-degree sunburn, face, hands for
+},
+{
+    124.96,126.52
+     instance, your basatracin is
+},
+{
+    126.52,131.52
+     your best option. It will still have enough of germ fighters in it to prevent
+},
+{
+    131.52,136.72
+     infection, but it's not too astringent enough to cause damage to the eyes. Where
+},
+{
+    136.72,140.08
+     the silver Dean is a little more astringent, it's a little more broad
+},
+{
+    140.08,144.96
+     spectrum, you're going to put that more on your chest, your arms, your legs, back
+},
+{
+    144.96,149.24
+     any other area where you're not worried about rubbing the eyes or anything
+},
+{
+    149.24,153.72
+     dripping into the eyes. So definitely vasotracin for the face and the hands.
+},
+{
+    153.72,157.6
+     Absolutely. Okay we've discussed what type of medications that we might see the
+},
+{
+    157.6,161.12
+     doctor order what type of supplies do I need to gather to prepare for this
+},
+{
+    161.12,165.48
+     dressing. Okay well let's see.
+},
+{
+    167.0,168.12
+     We already have them gathered here. Wow, that was fast.
+},
+{
+    168.12,169.24
+     It was fast.
+},
+{
+    169.24,172.4
+     However, you're usually not gonna have them laid out
+},
+{
+    172.4,174.76
+     like this, so let's go over those.
+},
+{
+    174.76,176.16
+     You want a pair of scissors,
+},
+{
+    176.16,178.4
+     because we definitely need to be able to cut
+},
+{
+    178.4,181.0
+     proper sizes that we need so we don't overuse,
+},
+{
+    181.0,183.36
+     so we can send extras with our patient.
+},
+{
+    183.36,191.28
+     You're gonna use tubular net bandageage. We have these in different sizes. This is a size 6. This is a size 2
+},
+{
+    191.28,198.24
+     for fingers. The 6 I would probably use on a forearm. You have 8, size 8, and
+},
+{
+    198.24,203.84
+     that you can use on a leg or an arm. We also have a bigger size 11 that we can
+},
+{
+    203.84,206.16
+     use to make a shirt. Now these are
+},
+{
+    206.16,212.12
+     going to be used to secure and hold our dressing in place after we have done the rest of the
+},
+{
+    212.12,217.04
+     dressing. Depending on what the physician is ordered, he may have ordered silverine or
+},
+{
+    217.04,223.56
+     she may have ordered vasotracin. We actually Michelle do have a tube of vasotracin in our
+},
+{
+    223.56,226.96
+     acutoes so that's going to be much easier for you to get access to
+},
+{
+    226.96,228.56
+     to make this dressing go faster
+},
+{
+    228.56,231.84
+     cause we definitely don't want our patients to get too cold.
+},
+{
+    231.84,234.56
+     Then you're gonna use some Vaseline Gauze.
+},
+{
+    234.56,238.96
+     This is your contact layer after you apply the medication.
+},
+{
+    238.96,241.48
+     And then you've got this thick burn gauze.
+},
+{
+    241.48,244.44
+     You'll see how we do this when we do a dressing change
+},
+{
+    244.44,246.24
+     because this is very thick
+},
+{
+    246.24,251.04
+     and it's used to absorb but you don't want to you don't want to apply too much or your patient
+},
+{
+    251.04,256.16
+     won't be able to move they won't be able to do range of motion. You have curl X that we're going to
+},
+{
+    257.28,262.48
+     help secure the dressing and then we also have some four by fours and we can use those for fingers
+},
+{
+    262.48,268.76
+     but we can also use these to clean and you have to make sure Danielle that you clean these burn wounds.
+},
+{
+    268.76,272.92
+     What should I clean them with? Actually having your patient to get into the
+},
+{
+    272.92,278.16
+     shower once they get home is the most important thing for them that shows in
+},
+{
+    278.16,282.28
+     the literature to be the best way to clean a burn wound and we use non
+},
+{
+    282.28,285.84
+     astringent soap here at this hospital just because
+},
+{
+    285.84,287.76
+     we don't want to change the pH of our wound.
+},
+{
+    287.76,289.56
+     We have that in our PIXAS as well.
+},
+{
+    289.56,293.92
+     So once you get this burn wound clean, then we can go ahead and do the dressing.
+},
+{
+    293.92,297.8
+     So go ahead and show us how to properly dress the burn just like you do up in the burn unit.
+},
+{
+    297.8,301.76
+     I'm going to have you put your arm up here and we're only going to say you have a burn
+},
+{
+    301.76,309.66
+     that's just on the dorsal aspect of her hand, a couple fingers here and the forearm. So I like to get everything ready and prepped.
+},
+{
+    309.66,315.0
+     That makes the dressing go faster. So I will take the medicine whether it be the
+},
+{
+    315.0,318.48
+     sylvanine or vasotracin and in this case since we have a hand we're going to do
+},
+{
+    318.48,322.28
+     vasotracin and a forearm we're going to do the sylvanine. I like to just go ahead
+},
+{
+    322.28,327.0
+     and divvy out what I think I'm going to need to prevent cross contamination back into the container.
+},
+{
+    327.0,335.0
+     So let's take some silver Dean and if you're able to apply that directly to the burn injury.
+},
+{
+    335.0,369.84
+     The dosage on silver Dean is one sixteenth of an inch, two millimeters thick. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 wound was too wet for me to be able to put that on. I would put it right on this Vaseline Gauze. Keep in mind that the Vaseline Gauze is whatever size you have. This is a 3x18.
+},
+{
+    369.84,375.94
+     We also have bigger 6x36s. They're kind of accordions. So don't take this small piece
+},
+{
+    375.94,382.84
+     and slap it right on there, okay? Open it up. Try to cut to fit the best you can.
+},
+{
+    382.84,385.22
+     So Michelle, why is it important that the silvidine not
+},
+{
+    385.22,391.6
+     touch the non-burned areas? It's not going to damage the skin but it will
+},
+{
+    391.6,395.6
+     macerate it or make it too wet which can mess with the integrity of the skin
+},
+{
+    395.6,399.96
+     and cause a larger open wound. So we've got the forearm covered
+},
+{
+    399.96,402.68
+     with the silvidine and the Vaseline Gauze and next we're going to cover
+},
+{
+    402.68,405.52
+     fingers. So I have my vasotracin already out
+},
+{
+    405.52,409.48
+     and I do put a fair amount of vasotracin on fingers
+},
+{
+    409.48,413.48
+     because I need her to move her hand.
+},
+{
+    413.48,416.76
+     So I put a nice thick layer.
+},
+{
+    416.76,419.72
+     And again, just trying to, to the best of my ability,
+},
+{
+    419.72,422.24
+     cover the wounds themselves.
+},
+{
+    422.24,423.8
+     And sometimes if you need a palette,
+},
+{
+    423.8,428.8
+     you might wanna put the medicine on the back of your hand so that you don't have to keep going back
+},
+{
+    428.8,434.48
+     and forth as well. So a question that is often asked is this a sterile procedure?
+},
+{
+    434.48,439.24
+     It is not a sterile procedure. The only thing really sterile is in the OR so it's
+},
+{
+    439.24,453.24
+     a clean procedure and we're going to do the same thing. You're going to open up your Vaseline gauze and again we're going to cut. And on the hand I do go a little bit
+},
+{
+    453.24,456.68
+     beyond because your patients gonna you're going to ask them to continue to
+},
+{
+    456.68,461.84
+     move. Make fists, use that hand. Why is that so important with your burn patients
+},
+{
+    461.84,468.6
+     that they increase their mobility? When you have a burn injury regardless of size you're going to have local swelling,
+},
+{
+    468.6,474.48
+     local inflammation. An active motion helps to decrease the swelling and on the
+},
+{
+    474.48,480.0
+     hands you've got so many tendons that if you don't move them that swelling and
+},
+{
+    480.0,492.84
+     it will come thick and fibrotic under the tendons and they won't be able to move. So we're almost finished and to go along with that range of motion
+},
+{
+    492.84,498.92
+     question I always after I wrap them or get the contact layer down I'll ask
+},
+{
+    498.92,503.24
+     your patient to the best of your ability try to make a fist for me and that way
+},
+{
+    503.24,505.92
+     you can see and make sure nothing comes
+},
+{
+    505.92,511.24
+     uncovered. Now that we have the contact layer in place we're going to apply the gauze in
+},
+{
+    511.24,515.88
+     order to absorb drainage. So if your patient's able you're going to ask them to straighten
+},
+{
+    515.88,519.92
+     their fingers out and spread them apart. As the fingers are spread we're going to open
+},
+{
+    519.92,528.0
+     the gauze and then you're going to kind of couple the finger, go around and criss-cross.
+},
+{
+    528.0,534.0
+     And then I'm going to use that size 2 netting to secure my dressing so it
+},
+{
+    534.0,538.34
+     doesn't fall off while I'm doing the rest of my dressing. Now if I were to go
+},
+{
+    538.34,544.3
+     around the fingers and just wrap all around, she's not going to be able to
+},
+{
+    544.3,549.56
+     move and that's the most important part. Partial thickness burn injuries are going to heal
+},
+{
+    549.56,551.32
+     as long as there's no infection
+},
+{
+    551.32,555.08
+     within two to three weeks. So that motion and getting all of that
+},
+{
+    555.08,559.36
+     swelling out is the most important part of their recovery to get them back to work.
+},
+{
+    559.36,566.1
+     So as the nurse or whoever's dressing this wound is doing this, is it important to incorporate
+},
+{
+    566.1,569.9
+     family and anyone who is there so they're going home?
+},
+{
+    569.9,570.9
+     Yes, absolutely.
+},
+{
+    570.9,575.42
+     You want to make sure you're educating the family members, whoever caregiver it is, because
+},
+{
+    575.42,580.14
+     they're going to be doing these dressings once, maybe twice a day depending on that order
+},
+{
+    580.14,581.8
+     from whichever service.
+},
+{
+    581.8,587.9
+     If they don't know how to do it, then the patient's going to come back through the ED with a potential infection because we didn't
+},
+{
+    587.9,592.94
+     do our part with good family education. Question I'm often asked, can I work?
+},
+{
+    592.94,598.18
+     Usually the patients are not going to be going back to work until they follow up
+},
+{
+    598.18,601.86
+     in the burn clinic. We have a burn clinic here at this facility on Wednesday
+},
+{
+    601.86,605.44
+     mornings so if the patient was burned on Friday, the physician
+},
+{
+    605.44,609.76
+     and the ER may say, hey, let's have you off work until you follow up with a burn clinic. And then
+},
+{
+    609.76,615.68
+     at that point, based on whatever occupation that is, we may let them go back like duty or just keep
+},
+{
+    615.68,619.6
+     them off until they're totally healed. So we've got the fingers in the back of the hand covered,
+},
+{
+    619.6,623.68
+     and that technique you see also gets that back of the hand covered. So we don't have to use as much
+},
+{
+    623.68,627.44
+     of this thick burn gauze. So we're going to wrap the forearm now and
+},
+{
+    627.44,632.16
+     this is the burn gauze like I had mentioned earlier thick package and you
+},
+{
+    632.16,636.56
+     don't want to be putting this whole thing on there so you can peel this and
+},
+{
+    636.56,640.8
+     whatever thickness you think you might need and all of this that we don't use
+},
+{
+    640.8,646.04
+     we are going to have the families take home so they can use it for the next
+},
+{
+    646.04,647.04
+     dressing.
+},
+{
+    647.04,653.48
+     So because it's just the top of our arm, I can take the burn galls and layer it just
+},
+{
+    653.48,654.48
+     like that.
+},
+{
+    654.48,657.92
+     But it's not going to stay on its own.
+},
+{
+    657.92,661.8
+     So then we are going to use acrylics.
+},
+{
+    661.8,667.38
+     I like to go around the wrist once and then go around the thumb web
+},
+{
+    667.38,671.26
+     space once because otherwise it gets too tight and can't do your range of motion.
+},
+{
+    671.26,679.12
+     Then you go up in a spiral pattern, not circular. These are not compressive dressings. They
+},
+{
+    679.12,683.28
+     are not meant to be extremely tight. Since it's just a forearm, there's no reason to
+},
+{
+    683.28,690.76
+     go above. If it went to the elbow, I would go above because I don't want it to slide down and expose.
+},
+{
+    690.76,695.44
+     So if we're not using all this, you can cut. And then to hold this in place, we're going
+},
+{
+    695.44,701.48
+     to use a larger size. So for your forearm, we can use a size six. This is definitely
+},
+{
+    701.48,706.34
+     easier with two people. So if you're able to have family help,
+},
+{
+    706.34,710.08
+     they would hold on one side and you would go up the forearm together. And
+},
+{
+    710.08,716.88
+     that's important because these hurt. So scraping this will sometimes cause more
+},
+{
+    716.88,724.36
+     pain. Then you can either cut or poke a hole in this for the thumb because I
+},
+{
+    724.36,728.68
+     definitely don't want my dressing coming down. And then we're just about finished.
+},
+{
+    728.68,731.92
+     The last thing we want to do is because you're going to be using this hand
+},
+{
+    731.92,735.24
+     is we don't want our dressings on the fingers to fall off so you can use
+},
+{
+    735.24,736.48
+     whatever kind of tape,
+},
+{
+    736.48,740.76
+     a trick tie, a yarn, whatever the patient has at home.
+},
+{
+    740.76,743.88
+     And you kind of poke a little hole through
+},
+{
+    743.88,746.6
+     the netting, poke a hole through
+},
+{
+    746.6,751.12
+     the finger, and then tie.
+},
+{
+    751.12,756.52
+     Do you do both sides or just the dorsal?
+},
+{
+    756.52,762.68
+     I usually just do the dorsal because sometimes the knot will get in the way.
+},
+{
+    762.68,765.4
+     And I never, I've seen before, but sometimes you'll put
+},
+{
+    765.4,770.48
+     a hole, people put a hole here and then go through that. But that can actually mess with
+},
+{
+    770.48,776.4
+     your MP joint and your finger, your knuckle. So try not to do that. And then you can go
+},
+{
+    776.4,778.88
+     through and do the rest of these.
+},
+{
+    778.88,785.68
+     So when sending supplies home for them to do their dressings. Should we send a couple to
+},
+{
+    785.68,790.62
+     three days worth so that they can get started and then there is a service that
+},
+{
+    790.62,794.46
+     our case management can get involved with to set up further dressings to be
+},
+{
+    794.46,799.56
+     delivered? Yes we send about three to four days home because it takes about
+},
+{
+    799.56,803.76
+     that long for this company to send the supplies to the home but yeah there will
+},
+{
+    803.76,809.78
+     be a form available by case management. What you'll need to do is have the wound
+},
+{
+    809.78,816.6
+     size and location, so the forearm, the hand fingers, and then whatever you want.
+},
+{
+    816.6,821.38
+     You can get this Vaseline Gauze that we used. You can get burn gauze. You can
+},
+{
+    821.38,825.24
+     also get ABD pads. You can get Curl X. The only thing that I've
+},
+{
+    825.24,831.1
+     noticed is challenging is the netting. So you might want to just go ahead through our central
+},
+{
+    831.1,838.02
+     supply, get a box of whatever supply of netting you want. Another burn that we may send home
+},
+{
+    838.02,843.48
+     as ER nurses will be to either the back or the chest. How am I supposed to secure that?
+},
+{
+    843.48,848.22
+     So we're going to have that contact layer, that Vaseline Gauze, you're gonna put the medicine on and we're
+},
+{
+    848.22,854.16
+     gonna use the burn gauze as well. So let's say we're gonna dress your chest.
+},
+{
+    854.16,861.12
+     You're gonna cover it, but to hold that in place we're gonna use the netting. We're
+},
+{
+    861.12,867.2
+     gonna use a bigger size netting. Usually measure the netting to whichever extremity.
+},
+{
+    867.2,870.52
+     This is the trunk so I've kind of measured it out.
+},
+{
+    870.52,874.36
+     Then I'm going to come down and make a shirt.
+},
+{
+    874.36,877.44
+     And you make two cuts.
+},
+{
+    877.44,880.92
+     Those are your armholes.
+},
+{
+    880.92,888.1
+     And this is going to stretch open. Now you can kind of see the vision. We have
+},
+{
+    888.1,893.54
+     two arm holes and then the head. So put the arm in first because that was
+},
+{
+    893.54,898.82
+     burned. Then I'm going to come to the other side and help you.
+},
+{
+    900.14,910.64
+     You're going to put your other arm in here and I'm going to help with your head and then we just kind of pull this down. So the other thing is if this is
+},
+{
+    910.64,914.92
+     if she's burned up here and I don't want the shoulder
+},
+{
+    914.92,920.68
+     to get exposed you can take some more netting and just slide it up the arm
+},
+{
+    920.68,924.64
+     and then use
+},
+{
+    924.64,933.4
+     that tie to tie the shirt and the arm piece together. That way none of this gets exposed.
+},
+{
+    933.4,942.2
+     Patients who are going home with burns to the face, we talked about vasotracin. But should I cover those?
+},
+{
+    942.2,948.48
+     Usually not. If they're going home, it's usually probably scattered areas on the face so you'll just put a little bass of tracing
+},
+{
+    948.48,953.12
+     a thin layer on those. However if it's on the forehead and it's draining down
+},
+{
+    953.12,956.96
+     they might want to use a little gauze to keep it from dripping into the eyes.
+},
+{
+    956.96,960.64
+     When discharging the patient home what are some of the things that the ER nurse
+},
+{
+    960.64,967.12
+     should educate the patient on for home care? Since the family member was already present for the dressing change, you probably won't
+},
+{
+    967.12,968.96
+     need to go over that again.
+},
+{
+    968.96,973.76
+     However, you do want to educate them on elevation to decrease the swelling.
+},
+{
+    973.76,977.6
+     You want to educate them on continued range of motion.
+},
+{
+    977.6,980.6
+     You want to explain to them the number of times a day they do the dressing.
+},
+{
+    980.6,987.62
+     It's usually going to be once or twice a day depending on the service that was consulted. On a face burn you want to make sure that they're
+},
+{
+    987.62,992.48
+     applying the Bacitracin multiple times a day so it doesn't dry out. You also
+},
+{
+    992.48,996.14
+     want to educate them to stay out of the sun. Most of the time your patients are
+},
+{
+    996.14,1000.04
+     not going to want to go out in the sun but the sun is going to cause them more
+},
+{
+    1000.04,1006.48
+     damage and pain if they are exposed to the UV rays. Another thing to remember is for follow-up.
+},
+{
+    1007.2,1012.56
+     We want to make sure you do that with whatever service was consulted and there's a quick tips
+},
+{
+    1012.56,1017.6
+     sheet at the secretary's desk and to get the patient into proper follow-up. Thanks for watching
+},
+{
+    1017.6,1021.76
+     this episode of IndieQuickDips. As always, if you have any questions, we're here to help.
+},

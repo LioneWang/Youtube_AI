@@ -1,0 +1,408 @@
+{
+    0.0,9.76
+     You will begin taking insulin by injecting it with a needle into the subcutaneous tissue.
+},
+{
+    9.76,13.84
+     To determine when you should inject insulin, pay attention to the times you check your
+},
+{
+    13.84,18.48
+     blood sugar, when you eat, and what kind of insulin you are taking.
+},
+{
+    18.48,22.2
+     Check your blood sugar no more than 30 minutes before you eat.
+},
+{
+    22.2,26.74
+     If you are taking rapid acting insulin before meals, give yourself the insulin when you
+},
+{
+    26.74,28.48
+     sit down to eat.
+},
+{
+    28.48,32.96
+     If you are taking regular insulin before meals, give yourself the insulin no more than 30
+},
+{
+    32.96,34.84
+     minutes before the meal.
+},
+{
+    34.84,39.96
+     If you are taking intermediate acting or long acting insulin, give yourself the insulin
+},
+{
+    39.96,42.72
+     at the same time each day.
+},
+{
+    42.72,45.8
+     There is no standard or typical dose of insulin.
+},
+{
+    45.8,48.32
+     Your dose will be the amount of insulin that you need
+},
+{
+    48.32,51.28
+     in order to keep your blood sugar in good control.
+},
+{
+    51.28,53.32
+     Your doctor will prescribe an insulin dose
+},
+{
+    53.32,54.88
+     that is right for you.
+},
+{
+    54.88,56.84
+     The most common side effect of insulin
+},
+{
+    56.84,59.72
+     is low blood sugar or hypoglycemia.
+},
+{
+    59.72,62.08
+     Low blood sugar happens when the level of sugar
+},
+{
+    62.08,67.12
+     in the blood falls below 70 mg per deciliter.
+},
+{
+    67.12,73.2
+     Symptoms include sleepiness, shaking, sweating, dizziness, and hunger.
+},
+{
+    73.2,91.48
+     Be sure you know how to treat low blood sugar before you start using insulin. An insulin injection delivers medicine into the subcutaneous tissue, which is the tissue
+},
+{
+    91.48,94.28
+     between your skin and muscle.
+},
+{
+    94.28,99.84
+     Subcutaneous tissue, which is also called sub-Q tissue, is found all over your body.
+},
+{
+    99.84,104.16
+     Your healthcare provider has chosen insulin injections that are done with a syringe that
+},
+{
+    104.16,108.26
+     is filled from a bottle of insulin as the best option for you.
+},
+{
+    108.26,110.76
+     Here are the steps you will take.
+},
+{
+    110.76,113.28
+     Select a clean, dry work area.
+},
+{
+    113.28,119.16
+     The supplies you will need include the prescribed bottle of insulin, an insulin syringe, alcohol
+},
+{
+    119.16,122.48
+     wipes, and a container for used equipment.
+},
+{
+    122.48,125.76
+     You can use a hard plastic container with a screw on or tight
+},
+{
+    125.76,132.48
+     lid or a commercial sharps container. Begin by washing your hands. If the bottle of insulin
+},
+{
+    132.48,138.16
+     appears cloudy, roll the bottle in your hands and turn it from side to side for one full minute.
+},
+{
+    138.16,143.12
+     You do not have to roll the bottle if the insulin is completely clear. Do not shake the bottle.
+},
+{
+    143.76,145.74
+     If opening a new bottle of insulin,
+},
+{
+    145.74,148.42
+     remove the plastic cap and wipe the top of the bottle
+},
+{
+    148.42,150.14
+     with an alcohol wipe.
+},
+{
+    150.14,152.94
+     If using a bottle of insulin that has already been open,
+},
+{
+    152.94,155.86
+     you will still need to wipe the top or rubber stopper
+},
+{
+    155.86,157.58
+     with an alcohol wipe.
+},
+{
+    157.58,159.98
+     Remove the caps from both the top and bottom
+},
+{
+    159.98,161.94
+     of the insulin syringe.
+},
+{
+    161.94,164.7
+     You may need to twist the cap to get it to come off
+},
+{
+    164.7,165.7
+     more easily.
+},
+{
+    165.7,167.86
+     Do not touch the needle.
+},
+{
+    167.86,170.1
+     Pull back on the plunger to the unit mark
+},
+{
+    170.1,173.22
+     for the insulin dose that has been ordered for you.
+},
+{
+    173.22,175.24
+     Put the bottle on the table.
+},
+{
+    175.24,177.78
+     Insert the needle straight into the top of the bottle
+},
+{
+    177.78,179.74
+     through the rubber stopper.
+},
+{
+    179.74,182.9
+     Push the plunger down to inject the air into the bottle.
+},
+{
+    182.9,185.2
+     Turn the bottle upside down with the needle still in
+},
+{
+    185.2,190.72
+     it. Hold the bottle at eye level. Make sure the tip of the needle is in the insulin. Make sure not
+},
+{
+    190.72,195.28
+     to bend the needle when picking up the bottle. Pull the plunger back to the unit mark for the
+},
+{
+    195.28,200.88
+     insulin dose ordered for you. If you see bubbles in the syringe, gently tap on the syringe so the
+},
+{
+    200.88,208.72
+     bubbles move to the top. Push the syringe to release the bubbles back into the bottle of insulin. Once again, with the needle in the insulin,
+},
+{
+    208.72,212.84
+     pull the plunger back to the unit mark for insulin dose that has been ordered
+},
+{
+    212.84,217.6
+     for you. Check that the dose is correct. Set the syringe down without letting the
+},
+{
+    217.6,220.56
+     needle touch anything.
+},
+{
+    234.06,236.18
+     Since you will be injecting your insulin on a regular basis, you need to know where on your body to inject it.
+},
+{
+    236.18,241.5
+     You will also need to learn how to rotate or switch your injection sites.
+},
+{
+    241.5,246.72
+     Recommended injection sites include the abdomen, front and side of the thighs, upper and outer
+},
+{
+    246.72,249.04
+     arms, and buttocks.
+},
+{
+    249.04,256.0
+     Do not inject near joints, the groin area, the navel, the middle of the abdomen, or scar
+},
+{
+    256.0,257.34
+     tissue.
+},
+{
+    257.34,262.78
+     If you use the same injection site over and over again, you may get hardened areas under
+},
+{
+    262.78,266.72
+     your skin that keep the insulin from working properly.
+},
+{
+    266.72,273.32
+     Rotating your injection sites will make your injections easier, safer, and more comfortable.
+},
+{
+    273.32,275.2
+     Follow these guidelines.
+},
+{
+    275.2,278.6
+     Ask your healthcare provider which sites you should use.
+},
+{
+    278.6,281.92
+     The injection site is about 2 inches of skin.
+},
+{
+    281.92,286.48
+     Clean this area in a circular motion with an alcohol wipe. Move the site
+},
+{
+    286.48,293.68
+     of each injection. Inject at least 1.5 inches away from the last spot where you injected.
+},
+{
+    293.68,299.24
+     Try to inject in the same general area of your body at the same time each day. Keep a record
+},
+{
+    299.24,307.28
+     of which injection sites you have used. Every time you give yourself an injection, write down the date, time, and site.
+},
+{
+    307.28,312.24
+     Please note, depending on which type of insulin you are taking, absorption may be different
+},
+{
+    312.24,316.64
+     for different parts of the body. Talk to your healthcare provider to learn more about the
+},
+{
+    316.64,335.56
+     insulin you are using and which sites work best. Using the hand you write with, hold the syringe like a pen or a pencil, with the needle end
+},
+{
+    335.56,336.56
+     down.
+},
+{
+    336.56,342.0
+     With your other hand, pinch about 2-3 inches on both sides of the cleaned skin.
+},
+{
+    342.0,345.54
+     Insert the needle with a quick motion into the pinched skin at a 90
+},
+{
+    345.54,350.7
+     degree angle. The needle should go all the way into your skin. Slowly push the
+},
+{
+    350.7,355.26
+     plunger of the syringe until all of the insulin is pushed out. Stop pinching your
+},
+{
+    355.26,360.52
+     skin and pull the needle out. You may bleed at the spot of the injection. If you
+},
+{
+    360.52,365.32
+     notice bleeding, apply pressure with a clean alcohol wipe or a cotton ball.
+},
+{
+    365.32,368.64
+     Cover the injection site with a bandage if necessary.
+},
+{
+    368.64,373.72
+     Drop the entire syringe and needle into your container for use sharps equipment.
+},
+{
+    373.72,376.08
+     Do not put the cap back on the needle.
+},
+{
+    389.72,391.76
+     It's important to remember that when storing your insulin that you store unopened bottles in the refrigerator.
+},
+{
+    391.76,396.0
+     Unopened insulin that is stored in the refrigerator will be good until the expiration date printed
+},
+{
+    396.0,397.56
+     on the box.
+},
+{
+    397.56,400.48
+     Write the date on the bottle when you first open it.
+},
+{
+    400.48,403.82
+     Store the bottle you are using at room temperature.
+},
+{
+    403.82,406.5
+     Avoid temperatures that are too hot or too cold.
+},
+{
+    406.5,409.0
+     This can change how the insulin works.
+},
+{
+    409.0,412.5
+     Most insulin is good for 28 days once it's opened.
+},
+{
+    412.5,417.0
+     Check with your pharmacist or read the drug insert for exact instructions.
+},
+{
+    417.0,423.0
+     Always check your medicine type and the expiration date printed on the box before you leave the pharmacy.
+},
+{
+    423.0,430.58
+     Do not use insulin if it has lumps, is discolored, or has been frozen. Place used insulin syringes and
+},
+{
+    430.58,435.8
+     lancets for blood sugar testing in a hard plastic or metal container with a
+},
+{
+    435.8,441.22
+     screw-on or tight lid or a commercial sharps container. If you have questions
+},
+{
+    441.22,446.0
+     about the subcutaneous injection procedure, please ask your healthcare providers.
+},
+{
+    446.0,450.0
+     Thank you again for choosing Cleveland Clinic for your care.
+},

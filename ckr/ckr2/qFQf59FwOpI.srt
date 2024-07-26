@@ -1,0 +1,56 @@
+{
+    0.0,9.38
+     Cervical rotation, turn to look over your left shoulder.
+},
+{
+    9.38,13.12
+     Hold for 10 to 15 seconds, then switch sides.
+},
+{
+    13.12,30.72
+     Repeat 3 to 5 times. tolerated for more stretch.
+},
+{
+    30.72,31.96
+     Side bending.
+},
+{
+    31.96,35.4
+     Bend your ear towards your left shoulder while looking straight ahead.
+},
+{
+    35.4,37.8
+     Hold for 10 to 15 seconds.
+},
+{
+    37.8,39.88
+     Then alternate to the right side.
+},
+{
+    39.88,45.82
+     Repeat 3 to5 times.
+},
+{
+    45.82,59.88
+     Add gentle pressure at the side of the head or forehead as tolerated for more stretch.
+},
+{
+    59.88,61.36
+     Flexion and extension.
+},
+{
+    61.36,65.84
+     Bring your chin toward your chest, hold for 10 to 15 seconds. Return
+},
+{
+    65.84,71.16
+     to an upright position, then bring your head back. Hold again for 10 to 15
+},
+{
+    71.16,76.52
+     seconds. Repeat three to five times. You may hold the back of your neck with your
+},
+{
+    76.52,93.0
+     hands if you need more support. Music
+},

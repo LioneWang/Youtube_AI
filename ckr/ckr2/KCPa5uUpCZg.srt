@@ -1,0 +1,404 @@
+{
+    0.0,6.96
+     When performing dressing changes at home, no matter the type of dressing, there are
+},
+{
+    6.96,12.08
+     a few steps to take to ensure you are ready to make that dressing change as fast and painless
+},
+{
+    12.08,13.08
+     as possible.
+},
+{
+    13.08,18.04
+     Provide the prescribed pain medication to your child at least 30 minutes before the dressing
+},
+{
+    18.04,19.04
+     change.
+},
+{
+    19.04,24.44
+     This can be Tylenol, Motrin, or what you have been prescribed by your health care team.
+},
+{
+    24.44,28.64
+     Prepare all of your bandages and treatments ahead of the change.
+},
+{
+    28.64,31.84
+     This will ensure you can move quickly, keeping the area covered
+},
+{
+    31.84,36.16
+     and minimizing pain. It is best to soak the wound in warm,
+},
+{
+    36.16,41.84
+     soapy water before performing the change. With the current dressing on, soak the
+},
+{
+    41.84,45.88
+     area in water or if the child is old enough for the tub,
+},
+{
+    45.88,51.16
+     let them have bath time. This helps the dressing to not stick to the injured area and allows
+},
+{
+    51.16,57.48
+     you to clean away any dead skin easily. Wash your hands before you begin, and wear gloves
+},
+{
+    57.48,65.36
+     if you can. You can do a dressing change anywhere in your home. We recommend the bathroom or the kitchen. Both of
+},
+{
+    65.36,70.4
+     these have quick and easy access to a water source. The following sections are
+},
+{
+    70.4,75.48
+     specific to the type of dressings you may be changing. Be sure to follow the
+},
+{
+    75.48,80.84
+     dressing change instructions as ordered by your health care team.
+},
+{
+    83.36,89.4
+     Burned areas with aquafor should be cleaned and the aqua-foor should be re-applied two
+},
+{
+    89.4,91.68
+     times a day.
+},
+{
+    91.68,97.32
+     You can apply more aqua-foor during the day if you notice that the burned area looks dry.
+},
+{
+    97.32,101.56
+     Provide the prescribed pain medication to your child at least 30 minutes before the
+},
+{
+    101.56,102.96
+     dressing change.
+},
+{
+    102.96,105.18
+     Wash your hands before you begin. And wear gloves if you can. Gather and prepare all before the dressing change. Wash your hands before you begin.
+},
+{
+    105.18,106.68
+     And wear gloves if you can.
+},
+{
+    106.68,109.3
+     Gather and prepare all of the supplies needed.
+},
+{
+    109.3,112.38
+     Soak the burn with warm soapy water.
+},
+{
+    112.38,116.08
+     You can use a wet washcloth and hold it on the burned area.
+},
+{
+    116.08,119.64
+     The goal is to soak the burn for five to 10 minutes.
+},
+{
+    119.64,122.12
+     We understand that this may be hard.
+},
+{
+    122.12,124.24
+     Try your best and soak the burn
+},
+{
+    124.24,125.34
+     for as long as your child
+},
+{
+    125.34,130.44
+     will allow you to. Having distractions like a favorite toy or allowing for
+},
+{
+    130.44,138.6
+     screen time can be helpful. After soaking, wipe away all old aqua-4, drainage, and
+},
+{
+    138.6,147.0
+     dead skin. Let the area of the burn dry.
+},
+{
+    147.76,154.32
+     Now that the area is clean and dry, take the small amount of aqua-foor that you have prepared
+},
+{
+    154.32,158.2
+     and gently apply this to the burn.
+},
+{
+    158.2,161.92
+     Use gentle pressure when applying aqua-foor to the burn.
+},
+{
+    161.92,166.24
+     The skin should be a little bit shiny when you are done.
+},
+{
+    171.36,175.96
+     Make sure to reward your child and yourself for completing this dressing change.
+},
+{
+    180.68,181.08
+     Burned areas with a zero form dressing should be changed twice a day.
+},
+{
+    185.5,191.12
+     Provide the prescribed pain medication to your child at least 30 minutes before the dressing change. Wash your hands before you begin. And wear gloves if you can.
+},
+{
+    191.12,200.12
+     Gather and prepare all of the supplies needed. Soak the burn with warm soapy water. We find
+},
+{
+    200.12,206.44
+     that bath time is the easiest time to soak this dressing. You can use a cup to pour
+},
+{
+    206.44,211.16
+     water over the dressing while they are in the tub. Allowing your child to play in
+},
+{
+    211.16,225.84
+     the bathtub will allow the dressing to come off measly. After soaking wipe away drainage and dead skin.
+},
+{
+    228.08,231.04
+     Let the area of the burn dry.
+},
+{
+    236.48,237.04
+     Now that the area is clean and dry, take the Xeroform and place it over the burn.
+},
+{
+    240.88,244.4
+     Next, place a piece of gauze on top of the Xeroform.
+},
+{
+    251.24,255.76
+     You are now ready to wrap the burned area. While you wrap the hand, make sure not to wrap it too tightly.
+},
+{
+    255.76,261.52
+     The wrap is used to keep the Xeroform dressing on the burn.
+},
+{
+    261.52,267.0
+     A child will want to curl their hand up when there is an injury to their palm.
+},
+{
+    267.0,272.28
+     Stretching it in extension will not only help you wrap their hand, but it will help with
+},
+{
+    272.28,282.88
+     the function of the hand.
+},
+{
+    282.88,289.76
+     Not everyone needs tuba fast, but if your provider has given you tuba fast, now place
+},
+{
+    289.76,292.44
+     it over the dressing.
+},
+{
+    292.44,311.52
+     The tuba fast keeps little fingers from tugging at the dressing and taking it off. Make sure to reward your child and yourself for completing this dressing change.
+},
+{
+    319.2,320.72
+     Mepplex AG dressings are long-acting dressings. These are normally changed when you come to burn clinic.
+},
+{
+    328.0,335.0
+     However, if the dressing becomes dirty or falls off, the following steps will walk you through the dressing change. Provide the prescribed pain medication to your child at least 30 minutes before the dressing change.
+},
+{
+    335.0,339.0
+     Soak the burn with warm, soapy water.
+},
+{
+    339.0,344.0
+     We find that bath time is the easiest time to soak this dressing.
+},
+{
+    344.0,345.32
+     Wash your hands before you begin, and wear gloves if you can. We find that bath time is the easiest time to soak this dressing.
+},
+{
+    345.32,349.48
+     Wash your hands before you begin and wear gloves if you can.
+},
+{
+    349.48,352.56
+     Gather and prepare all of the supplies needed.
+},
+{
+    352.56,358.56
+     Letting your child play in the bathtub will allow the dressing to come off easily.
+},
+{
+    358.56,368.04
+     Peel the mepilex AG away from the burn and then wipe away any drainage and dead skin. Let the area of
+},
+{
+    368.04,375.08
+     the burn dry. Now that the area is clean and dry, take your new piece of Mepelex
+},
+{
+    375.08,383.88
+     AG and place it over the burn. You are now ready to wrap the burned area. Make
+},
+{
+    383.88,388.88
+     sure not to wrap the burned area too tightly. The wrap is used
+},
+{
+    388.88,412.24
+     to keep the Mepelex AG dressing on the burn. Not everyone needs tuba fast, but if your provider has given you tuba fast, now place
+},
+{
+    412.24,415.04
+     it over the dressing.
+},
+{
+    415.04,426.0
+     The tuba fast keeps little fingers from tugging at the dressing and taking it off. Make sure to reward your child and yourself for completing this dressing change.
+},
+{
+    430.8,435.44
+     Burned areas with a silver deen dressing should be changed once a day.
+},
+{
+    435.44,441.44
+     Provide the prescribed pain medication to your child at least 30 minutes before the dressing change.
+},
+{
+    441.44,445.76
+     Wash your hands before you begin and wear gloves if you can.
+},
+{
+    445.76,448.52
+     Gather and prepare all of the supplies needed.
+},
+{
+    448.52,450.52
+     When preparing silver dean,
+},
+{
+    450.52,454.9
+     do not put your hands or fingers into the jar.
+},
+{
+    454.9,457.88
+     Use a clean object like a tongue depressor
+},
+{
+    457.88,459.84
+     to scoop out a small amount
+},
+{
+    459.84,463.24
+     and then paint the silver dean onto pieces of gauze.
+},
+{
+    464.12,470.22
+     You want to prepare enough pieces of silver dean covered gauze to cover the burn area.
+},
+{
+    470.22,475.02
+     When painting the silver dean onto the gauze, paint a thin layer.
+},
+{
+    475.02,480.94
+     We like to tell people to paint like you would put butter on toast, not like cream cheese
+},
+{
+    480.94,482.82
+     on a bagel.
+},
+{
+    482.82,485.0
+     Having distractions like a favorite toy
+},
+{
+    485.0,488.0
+     or allowing for screen time can be helpful.
+},
+{
+    488.0,491.0
+     Allowing your child to play in the bathtub
+},
+{
+    491.0,495.0
+     will let the dressing come off more easily.
+},
+{
+    495.0,500.0
+     The goal is to soak the burn for 5 to 10 minutes.
+},
+{
+    502.0,509.24
+     Wipe away all old silver deam, drainage and dead skin.
+},
+{
+    509.24,513.64
+     Let the area of the burn dry.
+},
+{
+    513.64,519.92
+     Now that the area is clean and dry, place your prepared silver deam covered gauze over
+},
+{
+    519.92,522.28
+     the burn.
+},
+{
+    522.28,528.76
+     You are now ready to wrap the burned area. When wrapping any arm or leg, always
+},
+{
+    528.76,536.44
+     start from the bottom and wrap to the top. This helps with not wrapping too tightly.
+},
+{
+    536.44,554.92
+     Make sure not to wrap it too tightly. The wrap is used to keep the silver-deen dressing on the burn.
+},
+{
+    554.92,557.56
+     Not everyone needs tuba fast.
+},
+{
+    557.56,563.0
+     But if your provider has given you tuba fast, now place it over the dressing.
+},
+{
+    563.0,566.14
+     The tuba fast keeps little fingers from tugging at
+},
+{
+    566.14,572.84
+     the dressing and taking it off. Make sure to reward your child and yourself for
+},
+{
+    572.84,None
+     completing this dressing change. you
+},

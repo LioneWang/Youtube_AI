@@ -1,0 +1,116 @@
+{
+    0.0,6.0
+     Hello. When we measure someone's temperature, we are measuring the degree of heat in their body.
+},
+{
+    6.0,12.0
+     To do this, we use a thermometer and the reading is given in degrees Celsius.
+},
+{
+    16.0,23.0
+     The human body is very clever and works hard to keep our vital organs, such as our brain, heart and kidneys,
+},
+{
+    23.0,26.24
+     at a core temperature of 37 degrees
+},
+{
+    26.24,33.04
+     Celsius. In order to keep our core temperature constant our blood vessels and skin works to
+},
+{
+    33.04,43.04
+     either warm us up or cool us down. When we get too cold hairs on our skin stand up to trap heat
+},
+{
+    43.04,45.84
+     and create a layer of insulation. Our blood vessels narrow so that less blood flows to our skin stand up to trap heat and create a layer of insulation. Our
+},
+{
+    45.84,50.96
+     blood vessels narrow so that less blood flows to our skin and less heat is lost
+},
+{
+    50.96,56.14
+     to the environment. When we get too hot, sweat glands release sweat from our skin,
+},
+{
+    56.14,62.0
+     sweat evaporates and transfers heat from our body into the environment. Our blood
+},
+{
+    62.0,65.2
+     vessels widen so more blood flows to our fingers and toes and heat can be lost to the environment. Our blood vessels widen so more blood flows to our fingers and toes
+},
+{
+    65.2,69.44
+     and heat can be lost to the environment.
+},
+{
+    72.32,78.04
+     A high core temperature above 38 degrees Celsius is described as a fever.
+},
+{
+    78.04,84.04
+     Fever can be caused by infections, some medications and overexposure to sunlight
+},
+{
+    84.04,85.0
+     or heat stroke.
+},
+{
+    90.0,94.0
+     A low core body temperature might be related to being in a cold environment,
+},
+{
+    94.0,101.0
+     but can also be caused by infections and certain conditions such as diabetes or thyroid disease.
+},
+{
+    108.88,112.96
+     disease. To take a temperature reading you need to be familiar with the type of thermometer you have available. The most common type of thermometer is the ear
+},
+{
+    112.96,118.88
+     thermometer as they are quick and easy to use. To use an ear thermometer gain
+},
+{
+    118.88,127.0
+     consent from the individual. Make sure that the thermometer is clean. Place a new clean disposable tip on the end of the probe.
+},
+{
+    127.0,132.0
+     Gently pull the ear back and insert the probe into the ear canal.
+},
+{
+    132.0,136.0
+     The ear canal points slightly downwards and to the face.
+},
+{
+    136.0,141.0
+     The reading may not be accurate if the probe isn't fully inserted into the ear.
+},
+{
+    141.0,147.1
+     Squeeze and hold down the button for one second. Remove the thermometer
+},
+{
+    147.1,152.18
+     and read the temperature. Record the temperature reading on the paper news chart or an electronic
+},
+{
+    152.18,160.18
+     device. Throw the disposable tip away. Other types of thermometers include digital thermometers
+},
+{
+    160.18,166.2
+     and strip type thermometers. Strip type thermometers are not recommended as they measure the temperature
+},
+{
+    166.2,172.28
+     of the skin and not the core body temperature. If you have any concerns about someone's
+},
+{
+    172.28,174.8
+     temperature please speak to a senior colleague.
+},

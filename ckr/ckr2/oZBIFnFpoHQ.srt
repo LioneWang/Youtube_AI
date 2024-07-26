@@ -1,0 +1,404 @@
+{
+    0.0,6.76
+     Now let's cover the particulars of the bag valve mask.
+},
+{
+    6.76,10.92
+     And I think it's important for us to talk about several aspects without deliberating
+},
+{
+    10.92,17.16
+     too long about why we would use a bag valve mask, what it is for, and some pitfalls that
+},
+{
+    17.16,22.6
+     we can accidentally get into if we're not aware of what to do with it or how to use
+},
+{
+    22.6,23.76
+     it properly.
+},
+{
+    23.76,30.88
+     So I'm just going to kind of go through them as systematically as I can and explain how we use it, why we use it, and with what adjuncts
+},
+{
+    30.88,36.24
+     we use it with. Okay, so there's a couple different sizes that we should make note of. As you can see
+},
+{
+    36.24,41.76
+     there's clearly a difference between these two bag valve masks. One is for an infant, the other is
+},
+{
+    41.76,46.44
+     for child and adult. They deliver different amounts of air into the lungs
+},
+{
+    46.44,50.04
+     and they have a different size mask,
+},
+{
+    50.04,53.9
+     usually that incorporates with the size of the bag valve
+},
+{
+    53.9,57.06
+     or the actual area of the bag itself.
+},
+{
+    57.06,57.9
+     So that's important.
+},
+{
+    57.9,60.16
+     We don't wanna use this on a child or an adult
+},
+{
+    60.16,63.04
+     and we don't wanna necessarily have to use this on an infant
+},
+{
+    63.04,65.92
+     but we can if that's all we have.
+},
+{
+    65.92,69.92
+     Think about it though, we can deliver a lot more air with a big bag like this,
+},
+{
+    69.92,74.72
+     and so we must only give the infant enough air to see chest rise and fall.
+},
+{
+    74.72,79.04
+     Something to keep in mind when we're dealing with that, but ideally you get the right size tool
+},
+{
+    79.04,83.76
+     for the right size job. Now moving right along some aspects to think about here,
+},
+{
+    83.76,90.56
+     you can see that this bag valve has a reservoir attached to it. Many times they do right out of the bag
+},
+{
+    90.56,96.94
+     from the manufacturer. This reservoir allows us to fill it with 100% oxygen so
+},
+{
+    96.94,101.42
+     that when we deliver the rescue breath to the patient we're delivering a higher
+},
+{
+    101.42,107.9
+     concentration of oxygen into the body of the patient so that it can compensate for any of their other things
+},
+{
+    107.9,108.94
+     that are going on.
+},
+{
+    108.94,115.82
+     Now if we hook up the oxygen tubing to the oxygen inlet and we do not see the bag
+},
+{
+    116.3,121.32
+     Reservoir bag actually inflating at an appropriate rate a little trick of the trade
+},
+{
+    121.32,125.48
+     I like to put my thumb over the outlet here, which seals
+},
+{
+    125.48,130.08
+     this bag system off and only allows the reservoir to fill at that point.
+},
+{
+    130.08,135.16
+     The O2 should be on high flow so that we fill that up and we can continue to keep it inflated
+},
+{
+    135.16,139.32
+     while we're delivering our rescue breaths to the patient.
+},
+{
+    139.32,146.0
+     However, you may be in a system or in an environment that does not have high-flow O2 regulators.
+},
+{
+    146.0,149.64
+     In that case, I would suggest pulling off the reservoir
+},
+{
+    149.64,154.64
+     and using it as a room air only bag valve device.
+},
+{
+    155.24,157.96
+     So that's what this would look like here.
+},
+{
+    157.96,161.04
+     Now, when it comes to sealing the mask
+},
+{
+    161.04,163.2
+     over the face of the patient,
+},
+{
+    163.2,165.84
+     there's a couple of points I'd like to make. Look at the shape of
+},
+{
+    165.84,172.16
+     this mask. You see that you have this apex that goes over the nose of the patient with a bell on
+},
+{
+    172.16,179.12
+     the other end that's wider and this should seal around the chin and face of the patient under
+},
+{
+    179.12,190.38
+     their bottom lip. So it would look like this. We're going to bring the apex part over the bridge of the nose while the bell portion fits over their mouth and seals around the bottom side
+},
+{
+    190.38,197.7
+     of their chin. We're also going to use a specific method called the CE method of holding
+},
+{
+    197.7,206.32
+     the mask and sealing the mask. Now we're going to put the C with the stem of the actual bag valve right there.
+},
+{
+    206.32,212.52
+     This index and thumb finger is what helps me balance the pressures on the right side
+},
+{
+    212.52,214.52
+     of the face of the patient.
+},
+{
+    214.52,219.92
+     It's not the E that balances the other side, it's the palm of my hand that's going to
+},
+{
+    219.92,226.16
+     help get the pressure on the other side of the mask. The E portion of my fingers is literally
+},
+{
+    226.16,231.4
+     just to grab the mandible or jaw line of the patient's chin
+},
+{
+    231.4,235.88
+     and jaw and actually draw their jaw up into the mask,
+},
+{
+    235.88,238.28
+     drawing their face up into the mask.
+},
+{
+    238.28,240.12
+     We can sometimes see mistakes where
+},
+{
+    240.12,242.36
+     people think they're supposed to push the mask down
+},
+{
+    242.36,244.36
+     over the face of the patient, and that's
+},
+{
+    244.36,245.76
+     how we get a good seal.
+},
+{
+    245.76,247.88
+     When in reality, that's not true,
+},
+{
+    247.88,249.88
+     we're actually making the seal with our fingers
+},
+{
+    249.88,252.04
+     and our palm of our hand
+},
+{
+    252.04,255.0
+     while we grab the jawline and pull it into the mask.
+},
+{
+    255.0,256.56
+     We're pulling it up into the mask
+},
+{
+    256.56,258.04
+     and then getting a good seal
+},
+{
+    258.04,261.86
+     and delivering a good rescue breath with the bag valve mask.
+},
+{
+    261.86,264.92
+     However, there can be facial features.
+},
+{
+    264.92,265.28
+     There can be external, internal, and, there can be facial features, there can be
+},
+{
+    265.28,269.46
+     external, internal, and then there can be traumatic facial features that cause
+},
+{
+    269.46,274.84
+     problems with sealing the mask. If we run into the situation and we have a second
+},
+{
+    274.84,279.32
+     rescuer as I do here that's already doing chest compressions or other
+},
+{
+    279.32,284.88
+     activities, we can always incorporate them into this effort. Jody, I'm having a
+},
+{
+    284.88,286.0
+     hard time getting a good seal here.
+},
+{
+    286.0,291.0
+     Could you see if you could seal that mask and I'll concentrate on the actual squeeze of the bag?
+},
+{
+    291.0,296.0
+     So he's able to use two hands now to seal the mask appropriately.
+},
+{
+    296.0,300.0
+     And then when he says, okay, I've got it, I'm going to attempt to squeeze the bag.
+},
+{
+    300.0,303.0
+     And I had probably better see a chest rise and fall.
+},
+{
+    303.0,306.48
+     If I do not see a chest rise and fall. If I do not see a chest rise and fall,
+},
+{
+    306.48,312.48
+     that air did not go in. No matter how bad I wanted to, no chest rise, no chest fall,
+},
+{
+    312.48,321.6
+     we did not give the patient a breath. Now, on a side note from there, if there's no way that we
+},
+{
+    321.6,326.2
+     can possibly seal this mask to the face of this patient.
+},
+{
+    326.2,329.2
+     There's other adjuncts available.
+},
+{
+    329.2,331.84
+     It starts getting into advanced life support
+},
+{
+    331.84,334.92
+     and advanced airways, but I think it's worth mentioning
+},
+{
+    334.92,337.72
+     because many of you use them.
+},
+{
+    337.72,341.76
+     We have the superglottic airways
+},
+{
+    341.76,346.76
+     that are designed to fit with the actual stem of the bag valve without the
+},
+{
+    346.76,352.56
+     mask that could help deliver a secured airway with a rescue breath. We have the
+},
+{
+    352.56,358.66
+     more traditional endotracheal tubes that are also designed with the actual stem
+},
+{
+    358.66,367.18
+     of the bag valve mask and this too can assist us when for whatever reason the actual mask is not fitting and
+},
+{
+    367.18,368.18
+     not sealing.
+},
+{
+    368.18,374.62
+     I'm going to say this, if you can't get a rescue breath successfully in with the bag
+},
+{
+    374.62,378.5
+     valve mask, don't use it.
+},
+{
+    378.5,384.2
+     Put it aside, get a regular rescue mask and try to give a rescue breath that way.
+},
+{
+    384.2,388.32
+     If that works better for you, it's going to be better for you to deliver a mouth to mask
+},
+{
+    388.32,393.84
+     rescue breath than it is for us to spend a ton of time trying to get a successful rescue
+},
+{
+    393.84,395.78
+     breath in and failing.
+},
+{
+    395.78,400.04
+     The patient is going to become anoxic, which means they're going to run out of oxygen and
+},
+{
+    400.04,401.92
+     we're going to be doing more harm than good.
+},
+{
+    401.92,409.12
+     So I think it's just vitally important that if you believe you're supposed to use one of these and your protocol state to use
+},
+{
+    409.12,414.72
+     it, it's a tool that you just have to practice with. I believe everybody can get proficient
+},
+{
+    414.72,420.32
+     with it, but not if you don't practice and practice makes perfect. So if you fit into
+},
+{
+    420.32,424.56
+     that category where you're supposed to use one of these, or you see the benefits of using
+},
+{
+    424.56,427.92
+     a bag valve mask, I suggest you get your mannequin out, get
+},
+{
+    427.92,431.56
+     your bag valve mask out, and start practicing so that you can become a
+},
+{
+    431.56,437.0
+     well-versed rescuer in the airway management arena.
+},

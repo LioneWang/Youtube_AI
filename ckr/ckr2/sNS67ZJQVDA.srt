@@ -1,0 +1,56 @@
+{
+    0.0,19.88
+     Wound dressing, practical demonstration.
+},
+{
+    19.88,47.0
+     Before you begin, it is important to clean your work area and gather your supplies. Dressing pack, water or saline, new dressings. the
+},
+{
+    130.76,167.76
+     Dry them thoroughly. Open the dressing pack. Open the apron dirty dressings and place them in the bag ready
+},
+{
+    167.76,187.0
+     for disposal. You can use the bag itself to remove the dressings. Use the sticky strip to attach it next to your work area.
+},
+{
+    195.92,202.92
+     Open all of the dressings required and drop them onto the sterile area.
+},
+{
+    210.0,232.8
+     Remove the plastic tray from the pack. Fill it with water or saline. Wash and dry your hands again.
+},
+{
+    232.8,238.6
+     Remove the gloves from the pack and put them on.
+},
+{
+    238.6,294.72
+     Try to avoid touching the outside of the gloves as much as possible. wet the gauze pad with water or saline.
+},
+{
+    294.72,299.08
+     Gently clean the wound. Start at the centre and dab in circles out to 1 inch past the
+},
+{
+    299.08,305.76
+     edge. Don't wipe or rub too hard as this could damage the newly healing tissue.
+},
+{
+    308.72,309.28
+     Do not go from the outer edges of the wound back toward the centre.
+},
+{
+    311.12,316.56
+     This could spread germs into the wound.
+},
+{
+    355.84,364.4
+     Peel the backing off the dressings to the wound. Be also be put into the disposal bag.
+},
+{
+    364.4,None
+     Dispose of the waste disposal bag as advised by the nursing staff and then wash your hands. Yn ymddiwch, mae'r cyfnodd yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol
+},

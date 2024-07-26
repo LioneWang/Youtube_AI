@@ -1,0 +1,152 @@
+{
+    0.0,8.82
+     Hi, Captain Wayne Bennett here with another life saving tip that could make you your family's
+},
+{
+    8.82,9.82
+     hero.
+},
+{
+    9.82,11.56
+     Life cannot exist without breathing.
+},
+{
+    11.56,15.88
+     That's why choking is so deadly, causing over 49 deaths per year.
+},
+{
+    15.88,20.96
+     It has become the fourth leading cause of death for children under 4 years old.
+},
+{
+    20.96,23.84
+     This is a skill that every parent and grandparent should know.
+},
+{
+    23.84,28.76
+     It's so simple, yet most people do it wrong. So let's teach you the right way to save someone
+},
+{
+    28.76,36.12
+     with a simple rescue technique called the Heimlich Maneuver. So let's begin. If
+},
+{
+    36.12,39.68
+     your victim is talking, they are breathing. If the victim is coughing, then
+},
+{
+    39.68,43.56
+     have them continue to cough, declare the object, do not strike them on the back.
+},
+{
+    43.56,49.98
+     This could cause a partial obstruction to move and cause a complete obstruction. If they can't cough,
+},
+{
+    49.98,55.12
+     talk, or breathe, then you need to take immediate action. First, ask them if they're choking
+},
+{
+    55.12,59.88
+     and then tell them you're going to perform abdominal thrust to help them breathe. So
+},
+{
+    59.88,64.92
+     quickly get behind your victim, placing your leg in between theirs. This gives you more
+},
+{
+    64.92,66.48
+     power and better control.
+},
+{
+    66.48,70.04
+     Then reach around the stomach, find the belly button with one finger.
+},
+{
+    70.04,73.0
+     This is your landmark for the diaphragm, their breathing muscle.
+},
+{
+    73.0,77.76
+     Then make a fist with the other hand, place the thumb side just against their stomach,
+},
+{
+    77.76,79.36
+     just above your finger.
+},
+{
+    79.36,83.2
+     This will keep you just below the rib cage to avoid injuring the victim.
+},
+{
+    83.2,88.76
+     Then grab your fist with the other hand and begin forcibly thrusting inward and upward repeatedly
+},
+{
+    88.76,90.52
+     until the victim coughs up the object
+},
+{
+    90.52,92.54
+     or becomes unresponsive.
+},
+{
+    92.54,94.04
+     If they become unresponsive,
+},
+{
+    94.04,96.62
+     you will help them to the floor and begin chest thrust.
+},
+{
+    96.62,97.88
+     After 30 chest thrusts,
+},
+{
+    97.88,101.04
+     which is very similar to the CPR chest compression,
+},
+{
+    101.04,103.96
+     you will then perform a head tilt chin lift maneuver,
+},
+{
+    103.96,109.76
+     look in the mouth and remove any objects. If they begin breathing, roll them onto the left side into the recovery
+},
+{
+    109.76,133.56
+     position. For infants, the technique is completely different.
+},
+{
+    133.56,137.0
+     You will hold the baby by supporting the head with one hand in arm.
+},
+{
+    137.0,141.24
+     You will give five back slaps between the baby shoulder blades with the heel of the hand.
+},
+{
+    141.24,145.24
+     If the object does not come up, then roll the baby face up, place
+},
+{
+    145.24,149.84
+     two fingers, one finger below mid nipple line, and deliver five chests for us at about one
+},
+{
+    149.84,154.56
+     per second and about one and a half inches deep. You will continue these cycles until
+},
+{
+    154.56,160.24
+     the object is expelled or the infant becomes unresponsive. If the infant becomes unresponsive,
+},
+{
+    160.24,167.08
+     you will begin infant CPR. Watch for more life-saving videos covering everything from CPR to survival.
+},
+{
+    167.08,None
+     And again, thanks for watching and please share this video with family and friends. I'm going to use the same technique as the other one. you
+},

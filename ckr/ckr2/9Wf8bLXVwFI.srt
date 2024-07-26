@@ -1,0 +1,284 @@
+{
+    0.0,11.44
+     Viracose veins are swollen blood vessels that appear on the skin as clusters of blue or
+},
+{
+    11.44,13.16
+     purple veins.
+},
+{
+    13.16,18.12
+     They're sometimes surrounded by spider veins, a group of small blood vessels located near
+},
+{
+    18.12,21.2
+     the surface of the skin.
+},
+{
+    21.2,25.0
+     Vains have one-way valves that help keep blood flowing toward your heart.
+},
+{
+    25.0,30.0
+     If these valves are weak or damaged, blood can back up and pool in your veins.
+},
+{
+    30.0,35.0
+     This causes the veins to swell and leads to varicose veins.
+},
+{
+    35.0,41.0
+     Varicose veins can appear anywhere, but they often appear on the legs and in the pelvic area.
+},
+{
+    41.0,45.52
+     Most varicose veins develop near the surface of the skin.
+},
+{
+    45.52,48.26
+     Deeper varicose veins cannot be seen,
+},
+{
+    48.26,51.16
+     but they may cause the skin above to swell,
+},
+{
+    51.16,52.8
+     become darker, or harden.
+},
+{
+    58.44,61.16
+     Symptoms of varicose veins usually appear
+},
+{
+    61.16,64.56
+     before the age of 40 and include swollen,
+},
+{
+    64.56,66.24
+     twisted clusters of purple
+},
+{
+    66.24,73.08
+     or blue veins, swollen legs, ankles and feet, muscle cramps, throbbing, soreness or aching
+},
+{
+    73.08,81.56
+     in the legs, legs that feel heavy, soreness behind the knee, itching around the veins,
+},
+{
+    81.56,89.04
+     leg muscles that tire easily, brown discoloration of the skin, and skin ulcers.
+},
+{
+    89.04,94.16
+     These factors can increase the risk for varicose veins.
+},
+{
+    94.16,98.44
+     Varicose veins are four times more common in women than in men.
+},
+{
+    98.44,103.28
+     As you get older, there is more wear and tear on the valves in the veins.
+},
+{
+    103.28,106.84
+     More weight in the legs increases pressure in the veins.
+},
+{
+    106.84,111.96
+     You have a greater chance of developing varicose veins if your parents or other family members
+},
+{
+    111.96,113.38
+     had them.
+},
+{
+    113.38,123.12
+     Blood does not flow as well in the veins if the person does not get much exercise.
+},
+{
+    123.12,129.06
+     Depending on their size and location, varicose and spider veins can be treated with injections
+},
+{
+    129.06,134.26
+     known as sclerotherapy or with surgery, including laser surgery.
+},
+{
+    134.26,138.34
+     Sclerotherapy is a non-surgical treatment in which a chemical solution is injected
+},
+{
+    138.34,142.68
+     into the veins to make them collapse and disappear.
+},
+{
+    142.68,144.78
+     Sclerotherapy takes several sessions.
+},
+{
+    144.78,147.08
+     One to three injections are usually required
+},
+{
+    147.08,149.68
+     to effectively treat any vein.
+},
+{
+    149.68,153.28
+     10 to 40 veins may be treated in one session.
+},
+{
+    153.28,156.24
+     You will not need anesthesia for sclerotherapy.
+},
+{
+    156.24,158.36
+     You will feel no pain during the treatment,
+},
+{
+    158.36,161.92
+     though you will feel discomfort from the needle sticks.
+},
+{
+    161.92,164.84
+     Temporary reactions to the sclerotherapy
+},
+{
+    164.84,167.76
+     might include slight swelling in the leg or foot
+},
+{
+    167.76,172.04
+     and minor bruising, itching, redness, or soreness.
+},
+{
+    172.04,177.0
+     For two to four weeks after treatment, you will wear medical grade support stockings.
+},
+{
+    177.0,181.08
+     Walking and moderate exercise can help speed recovery.
+},
+{
+    181.08,186.0
+     Once treated, the veins disappear over a period of six months and do not come back.
+},
+{
+    186.0,192.0
+     However, sclerotherapy cannot stop new varicose or spider veins from developing.
+},
+{
+    192.0,197.0
+     These are the laser and surgery treatment options for varicose veins.
+},
+{
+    197.0,203.0
+     Photodome therapy is an intense pulsing light for treating small spider veins,
+},
+{
+    203.0,205.2
+     certain sizes of varicose veins, and
+},
+{
+    205.2,210.2
+     vascular birthmarks. Laser therapy heats the blood vessels and makes the vein
+},
+{
+    210.2,215.48
+     fade away. Surgical ligation or stripping is surgery in which the dilated
+},
+{
+    215.48,220.46
+     vein is removed or tied off through a small incision in the skin. Andovina
+},
+{
+    220.46,226.48
+     sublation therapy uses lasers or radio waves delivered through a catheter to create heat
+},
+{
+    226.48,229.16
+     to close off a varicose vein.
+},
+{
+    229.16,233.04
+     For endoscopic vein surgery, the doctor uses a catheter
+},
+{
+    233.04,235.44
+     with a tiny camera and a surgical device
+},
+{
+    235.44,238.24
+     at the end of the camera to close the vein.
+},
+{
+    238.24,241.0
+     Your doctor will discuss these options with you.
+},
+{
+    249.52,254.32
+     Varicose and spider veins might not always need to be treated. However, if veracose veins make walking or standing painful, you should call your doctor
+},
+{
+    254.32,255.72
+     for advice.
+},
+{
+    255.72,261.04
+     You should also call your doctor if a sore develops on or near a veracose vein, or if
+},
+{
+    261.04,263.36
+     your feet or ankles swell.
+},
+{
+    263.36,266.4
+     In some cases, veracose veins can be harmful to your
+},
+{
+    266.4,272.56
+     health because they might lead to dangerous conditions including venestasis ulcers. These
+},
+{
+    272.56,278.0
+     ulcers result when the enlarged vein does not provide enough drainage of fluid from the skin
+},
+{
+    278.0,283.2
+     and the skin does not receive enough oxygen. Phlebitis or inflammation of the vein.
+},
+{
+    283.92,287.92
+     oxygen, phlebitis or inflammation of the vein. Thrombosis are blood clots that form in the dilated vein.
+},
+{
+    287.92,296.88
+     Here are some ways to keep varicose veins from getting worse or coming back.
+},
+{
+    296.88,299.32
+     Try to exercise regularly.
+},
+{
+    299.32,301.44
+     Stand only when necessary.
+},
+{
+    301.44,304.26
+     Elevate your legs while sitting or sleeping.
+},
+{
+    304.26,305.56
+     When you need to stand for long
+},
+{
+    305.56,311.28
+     periods of time, take frequent breaks to sit down and elevate your feet. And finally,
+},
+{
+    311.28,316.72
+     wear special elastic support stockings for extra support and to relieve aching sore legs.
+},

@@ -1,0 +1,48 @@
+{
+    0.0,22.0
+     In this video you'll learn to administer first aid to a person with a severed body part.
+},
+{
+    22.0,25.5
+     Put on gloves if available.
+},
+{
+    25.5,31.98
+     Apply pressure to the wound immediately with a clean cloth or a plastic bag.
+},
+{
+    31.98,38.94
+     Lay the casualty on their back to avoid worsening their condition.
+},
+{
+    38.94,42.98
+     Call the emergency services.
+},
+{
+    42.98,47.0
+     Ask the casualty to apply pressure themselves so that you can search for the severed body part.
+},
+{
+    47.0,54.0
+     If they are unable to do so, you should apply pressure dressing for the cloth and a wide tie.
+},
+{
+    54.0,67.68
+     Recover the severed limb, wrap it in a clean piece of cloth and put it in a plastic bag or an ice.
+},
+{
+    70.72,73.52
+     This will preserve it until it can be surgically reattached.
+},
+{
+    75.36,83.04
+     A tourniquet should not be used.
+},
+{
+    88.16,90.16
+     If it is not properly applied, there is a risk of causing serious complications, including amputation.
+},
+{
+    90.16,None
+     Cover, monitor and reassure the casualty. you
+},

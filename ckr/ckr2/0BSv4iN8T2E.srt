@@ -1,0 +1,116 @@
+{
+    0.0,15.52
+     Yn ymwneud, yw Andrew. Yn ymwneud ymwneud ym mhwneud.
+},
+{
+    15.52,17.76
+     Rwy'n cael ei wneud yw'r amser yn ymwneud, rwy'n cael ei ddweud.
+},
+{
+    17.76,21.2
+     Yn ymwneud, yw James Alexander 13. oed yn 1989.
+},
+{
+    21.2,22.56
+     Rhaid i chi, James.
+},
+{
+    22.56,45.0
+     Yn ymwneud, mae'n gweithio'r prosedgir yw'r artyryl blug gas. Mae'n gweithio'rw yma yma yma yma yma'n cael ei ddyn nhw.
+},
+{
+    45.0,46.0
+     Rwy'n cael ei ddyn nhw?
+},
+{
+    46.0,47.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    47.0,48.0
+     Rwy'n cael ei ddyn nhw?
+},
+{
+    48.0,49.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    49.0,50.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    50.0,51.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    51.0,52.0
+     Rwy'n cael ei ddyn nhw?
+},
+{
+    52.0,53.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    53.0,54.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    54.0,55.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    55.0,56.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    56.0,57.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    57.0,58.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    58.0,59.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    59.0,60.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    60.0,61.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    61.0,62.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    62.0,63.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    63.0,64.0
+     Rwy'n cael ei ddyn nhw.
+},
+{
+    64.0,67.0
+     Rwy'n cael ei ddyn nhw. Rwy'n cael ei ddyn nhw. Rwy'n cael ei ddyn nhw. Rwy'n cael ei ddyn nhw. Rwy'n cad yn ddweud i'r llwyffol yn ymddiad.
+},
+{
+    67.0,73.0
+     Felly, mae'n gweithio'r cyfnodd yn ddweud i'r llwyffol yn y ddweud.
+},
+{
+    73.0,79.0
+     Felly, rydw i'n ddweud i'r ffist yn fwy o'r ddweud?
+},
+{
+    79.0,81.0
+     Mae'n ddweud i'r ffist.
+},
+{
+    81.0,None
+     Mae'n ddweud i'r ffist i'r rysg, i'r ffist fel mae'n ddweud. I'm now going to press on each side of the wrist to keep your fist as it is and relax. you you you James, mae'n gweithio'r prysgio. Ddodd yn fawr. you
+},

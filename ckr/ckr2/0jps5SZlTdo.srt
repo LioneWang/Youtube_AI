@@ -1,0 +1,104 @@
+{
+    0.0,4.0
+     Yn ymgyrch, nesaf o'r albwy, yw'n ddwy'r bandwch i'r ddwyll.
+},
+{
+    4.0,8.0
+     Yn ymgyrch, yw'n ddwy'r ddwyll, yw'n ddwy'r bandwch i'r ddwyll.
+},
+{
+    8.0,30.0
+     Yn ymgyrch, yw'n ddwy'r bandwch i'r ddwyll, yw'n ddwy'r bandwch i'r ddwyll. Yn ymgyrch, yw'n ddwy'r bandwch i'r ddwyll, yw'n ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddwyll i'r ddweud o'r llwy fwyllt yn dweud. Rwy'n gobeithio'r tecnic ar y llwy, ond rwy'n gweithio'n ddweud o'r llwy o'r llwy o'r llwy o'r llwy.
+},
+{
+    30.0,73.2
+     A oedd y llwy o'r llwy o'r llwy o'r llwy o'r llwy. Rwy'n gweithio'n gweithio'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwydweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddwe credu'r bandwch ar y tufodol ar y cwmni, ond mae'n rhaid i'w ddweud y cwmni ar y cwmni ar y cwmni
+},
+{
+    73.2,87.0
+     a rwy'n credu'r bandwch ar y cwmni ar y cwmni ar y cweithio ar y cwmdd.
+},
+{
+    87.0,93.0
+     A ddyn nhw'n ddweud y bandydg arall yn ddweud,
+},
+{
+    93.0,97.0
+     ac rydyn nhw'n ddweud i'r ddweud.
+},
+{
+    97.0,106.0
+     Felly, rydyn nhw'n ddweud. Mae'n ddweud. Felly mae'n ddweud.
+},
+{
+    106.0,108.0
+     Mae'n ddweud.
+},
+{
+    108.0,110.0
+     Mae'n ddweud.
+},
+{
+    110.0,112.0
+     Mae'n ddweud.
+},
+{
+    112.0,114.0
+     Mae'n ddweud.
+},
+{
+    114.0,116.0
+     Mae'n ddweud.
+},
+{
+    116.0,118.0
+     Mae'n ddweud.
+},
+{
+    118.0,120.0
+     Mae'n ddweud.
+},
+{
+    120.0,122.0
+     Mae'n ddweud.
+},
+{
+    122.0,124.0
+     Mae'n ddweud.
+},
+{
+    124.0,126.0
+     Mae'n ddweud. Mae'n meddwl i'r cyfnodd yma ar 10 minu, ac mae'r angylch yn ddiddordeb.
+},
+{
+    128.0,130.0
+     Rwy'n meddwl i'r cyfnodd yma, ydych yn cyfnodd y cyfnodd yma,
+},
+{
+    130.0,132.0
+     a'r cyfnodd yma ar gyfer y ddweud.
+},
+{
+    132.0,134.0
+     Rwy'n meddwl i'r cyfnodd yma ar gyfer y ddweud
+},
+{
+    134.0,136.0
+     ac yn ddweud i'r cyfnodd yma,
+},
+{
+    136.0,138.0
+     a'r cyfnodd yma ar gyfer y ddweud.
+},
+{
+    138.0,140.0
+     Rwy'n meddwl i'r cyfnodd yma,
+},
+{
+    140.0,142.0
+     ac mae'n meddwl i'r cyfnodd yma.
+},
+{
+    142.0,None
+     Ac mae'n meddwl iydig yn ymgyrch.
+},

@@ -1,0 +1,56 @@
+{
+    0.0,6.6
+     Now you have an opportunity to practice right along with me.
+},
+{
+    6.6,9.56
+     We're going to place our hands on the chest.
+},
+{
+    9.56,15.48
+     This child who is unconscious and choking needs 30 chest compressions.
+},
+{
+    15.48,17.24
+     One third of the depth of the chest.
+},
+{
+    17.24,35.2
+     100 to 120 compressions per minute. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+},
+{
+    35.2,47.56
+     Head tilt, chin lift, look in the mouth. If you see the object, sweep it out. If you don't see the object, try a rescue breath. No chest rise and fall.
+},
+{
+    47.56,54.6
+     Reposition the airway. Try another rescue breath. Pinching the nose shut. No chest
+},
+{
+    54.6,71.6
+     rise and fall. Repeat the 30 compressions. 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+},
+{
+    72.48,78.56
+     Open the airway with a head-touch and lift. Open the mouth. You see the object. You sweep in
+},
+{
+    78.56,82.24
+     and get the object and pull it out. Attempt to rescue breath.
+},
+{
+    92.32,97.14
+     it out. Attempt to rescue breath. You see chest rise and fall. You deliver a second rescue breath. Patient is not breathing on their own. Patient is not moving. We
+},
+{
+    97.14,102.4
+     continue with our compressions. Remember we've already activated EMS or called
+},
+{
+    102.4,110.64
+     911 so we're going to continue doing chest compressions and rescue breathing until help arrives or until someone comes in who can
+},
+{
+    110.64,111.8
+     take over for us.
+},

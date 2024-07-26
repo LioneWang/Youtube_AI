@@ -1,0 +1,176 @@
+{
+    0.0,10.44
+     I'm Billy Joe with Medical Service Company.
+},
+{
+    10.44,12.36
+     I'm a respiratory therapist.
+},
+{
+    12.36,14.94
+     I'm here today to show you an oxygen tank.
+},
+{
+    14.94,16.18
+     This is your backup tank.
+},
+{
+    16.18,19.44
+     You would get this whenever you get set up on oxygen.
+},
+{
+    19.44,22.84
+     You can see on the tank here you've got this little white
+},
+{
+    22.84,25.36
+     label or kind of a cover. This shows you that the tank here you've got this little white label or kind of a cover. This
+},
+{
+    25.36,30.56
+     shows you that the tank is full. You could have a white one, a blue one, a gray
+},
+{
+    30.56,36.44
+     one. You want to take it off to actually use your tank. You can slide it right up
+},
+{
+    36.44,41.36
+     over. If you can't get it off you could always peel it off. And then underneath
+},
+{
+    41.36,47.0
+     the white cover you'll see on the tank you've got three holes on one side.
+},
+{
+    47.0,60.0
+     And then if you turn the tank, you've got one hole on the other side.
+},
+{
+    60.0,62.0
+     Right here you've got a gauge.
+},
+{
+    62.0,69.1
+     This gauge you've got three prongs inside that stick out and one on the other side.
+},
+{
+    69.1,72.26
+     Then on the other side of the gauge you've got a dial.
+},
+{
+    72.26,75.98
+     This dial will tell you how much oxygen is in your tank.
+},
+{
+    75.98,79.26
+     So you have to line this up with your tank.
+},
+{
+    79.26,83.3
+     You have to slide this on.
+},
+{
+    83.3,87.52
+     Just slide it right over the top. You line up your three pegs and you twist
+},
+{
+    87.52,96.52
+     this. And you keep twisting until it's locked tight. You just have to hand tighten it.
+},
+{
+    96.52,108.0
+     There's no need to tighten it with a wrench or anything. Then you can see on here the gauge. So you want to take this key.
+},
+{
+    108.0,113.88
+     You've got these little holes there. They line up right on the top of the tank.
+},
+{
+    113.88,120.18
+     Put them on there. Turn it about
+},
+{
+    120.18,123.52
+     halfway. You can see the little needle popped up to the top.
+},
+{
+    123.52,126.0
+     You'll never see the needle go further down.
+},
+{
+    126.0,128.0
+     It'll always be at about 2,000.
+},
+{
+    128.0,131.0
+     This tank is now considered open and on.
+},
+{
+    131.0,135.0
+     To turn it, you turn this little end,
+},
+{
+    135.0,137.0
+     and the oxygen will come on.
+},
+{
+    137.0,140.0
+     You want to turn this number to the number that your
+},
+{
+    140.0,142.0
+     doctor's told you to use.
+},
+{
+    142.0,146.88
+     So it should match your machine.
+},
+{
+    147.88,150.12
+     Then on the bottom here, you're gonna connect your tubing,
+},
+{
+    150.12,151.82
+     which should be in this little bag.
+},
+{
+    156.32,158.2
+     You're just gonna take this end,
+},
+{
+    159.44,161.96
+     and it's gonna connect right to the tank.
+},
+{
+    164.32,165.68
+     And then your cannula. Should go right in the tank. And then your cannula.
+},
+{
+    167.96,171.68
+     Should go right in your nose, you've got the prongs.
+},
+{
+    171.68,174.46
+     They go right in your nose over your ears.
+},
+{
+    177.36,178.56
+     And then you're connected.
+},
+{
+    181.44,183.08
+     I hope this was helpful.
+},
+{
+    183.08,184.84
+     If you have any questions, please feel free
+},
+{
+    184.84,193.0
+     to call Medical Service Company or your Respiratory Therapist at 1-800-824-1400.
+},
+{
+    193.0,198.0
+     Again, that number is 1-800-824-1400.
+},

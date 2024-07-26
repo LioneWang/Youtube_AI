@@ -1,0 +1,1504 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.12,13.12
+     Howdy folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.12,14.44
+     Brad Heineck, physical therapist.
+},
+{
+    14.44,15.92
+     Here we are, the most famous physical therapists
+},
+{
+    15.92,16.76
+     on the internet.
+},
+{
+    16.76,17.8
+     In our opinion, of course, Bob.
+},
+{
+    17.8,19.44
+     Today we're gonna talk about the best
+},
+{
+    19.44,23.36
+     costocondritis self-treatment, no meds.
+},
+{
+    23.36,25.96
+     We're gonna have you stop that alarming chest pain.
+},
+{
+    25.96,28.6
+     Right, yeah, Bob, and this is something I can attest to
+},
+{
+    28.6,33.76
+     because I have colicondritis, didn't know about it for a while
+},
+{
+    33.76,36.32
+     and it is alarming when you have chest pain
+},
+{
+    36.32,39.68
+     and you have to go to the emergency room to find a way.
+},
+{
+    39.68,42.44
+     As I said before, Brad, as we start to develop things,
+},
+{
+    42.44,45.38
+     which will be pretty much every week now as we get old,
+},
+{
+    45.38,46.96
+     we're gonna go do videos on it.
+},
+{
+    46.96,48.36
+     So that's all gonna benefit you.
+},
+{
+    48.36,50.78
+     We're gonna figure out how to treat these things,
+},
+{
+    50.78,51.96
+     and then we'll pass it on to you.
+},
+{
+    51.96,53.88
+     By the way, if you're new to our channel,
+},
+{
+    53.88,55.64
+     please take a second to subscribe to us.
+},
+{
+    55.64,58.18
+     We provide videos on how to stay healthy, fit, pain-free,
+},
+{
+    58.18,59.88
+     and we upload every day.
+},
+{
+    59.88,63.64
+     Go to also, take a minute, go to bobandbrad.com,
+},
+{
+    63.64,65.12
+     and go to the giveaway section.
+},
+{
+    65.12,67.24
+     We always have a contest for giving something away.
+},
+{
+    67.24,70.16
+     This week we're giving away the Bob and Brad wall anchors.
+},
+{
+    70.16,72.72
+     The anchors that attach to the wall
+},
+{
+    72.72,76.4
+     and you can easily attach resistance bands to them.
+},
+{
+    76.4,77.24
+     You gotta check them out.
+},
+{
+    77.24,78.08
+     They work really well.
+},
+{
+    78.08,78.92
+     Yep, they're nice.
+},
+{
+    78.92,81.36
+     Go to Facebook, the contest will be pinned
+},
+{
+    81.36,82.24
+     to the top of the page.
+},
+{
+    82.24,85.24
+     Go to TikTok, Instagram, and Twitter
+},
+{
+    85.24,87.8
+     if you want a 60 second version of our program.
+},
+{
+    87.8,89.76
+     All right, good job, Bob.
+},
+{
+    89.76,90.6
+     Thank you.
+},
+{
+    90.6,91.44
+     Shall we carry on?
+},
+{
+    91.44,92.28
+     Let's carry on.
+},
+{
+    92.28,95.56
+     All right, costo chondritis, it's a big word.
+},
+{
+    95.56,98.08
+     It just means chest pain.
+},
+{
+    98.08,99.66
+     But I'm gonna tell you a little bit about it.
+},
+{
+    99.66,102.12
+     So once you understand things a little bit
+},
+{
+    102.12,103.76
+     with this type of chest pain,
+},
+{
+    103.76,107.92
+     it makes it a little more easier and comfortable to treat.
+},
+{
+    107.92,108.84
+     And not as scary.
+},
+{
+    108.84,110.72
+     Right, exactly.
+},
+{
+    110.72,113.08
+     So, costo refers to the ribs,
+},
+{
+    113.08,114.66
+     the first part of the name.
+},
+{
+    114.66,117.64
+     Chondritis, itis means inflammation.
+},
+{
+    117.64,119.08
+     And if we look at Sam,
+},
+{
+    119.08,122.52
+     that's why he is here today to assist us.
+},
+{
+    122.52,124.24
+     We got the sternum here.
+},
+{
+    124.24,126.4
+     We got the white ribs here. We got the white ribs here.
+},
+{
+    126.4,127.52
+     We're gonna look at this side
+},
+{
+    127.52,130.88
+     because they get the colors out so we're not confused.
+},
+{
+    130.88,133.2
+     And then this clear part right in here
+},
+{
+    133.2,135.76
+     between the ribs and the sternum,
+},
+{
+    135.76,140.76
+     there's actually a joint typically made more of cartilage.
+},
+{
+    140.88,143.4
+     But as we age, that can change a little bit
+},
+{
+    143.4,145.76
+     and we can actually develop some inflammation,
+},
+{
+    145.76,148.32
+     some arthritic changes in there.
+},
+{
+    148.32,151.24
+     And when things start moving and irritating that,
+},
+{
+    151.24,153.92
+     and get it more inflamed, it creates chest pain,
+},
+{
+    153.92,157.28
+     and it can radiate out, not just in this area,
+},
+{
+    157.28,160.32
+     but in my case, I feel it radiating on the right side,
+},
+{
+    160.32,163.22
+     typically over this way.
+},
+{
+    163.22,164.8
+     And it changes your breathing,
+},
+{
+    164.8,166.1
+     because if it's bad,
+},
+{
+    166.1,168.02
+     you get short of breath because it hurts
+},
+{
+    168.02,169.02
+     when you take a deep breath.
+},
+{
+    169.02,172.26
+     So your body automatically makes shortness of breath
+},
+{
+    172.26,173.22
+     a symptom.
+},
+{
+    173.22,177.34
+     So you've got all the classic symptoms of a heart attack.
+},
+{
+    177.34,179.74
+     So the first thing you're gonna do if you have symptoms
+},
+{
+    179.74,181.06
+     is you're gonna go see a doctor
+},
+{
+    181.06,181.9
+     or go to the hospital.
+},
+{
+    181.9,183.06
+     Absolutely.
+},
+{
+    183.06,185.12
+     Do not think that you're gonna diagnose
+},
+{
+    185.12,186.64
+     costochondritis by yourself.
+},
+{
+    186.64,187.48
+     Exactly.
+},
+{
+    187.48,188.32
+     You gotta go in.
+},
+{
+    188.32,190.16
+     You have to go to the,
+},
+{
+    190.16,191.64
+     typically the emergency room.
+},
+{
+    191.64,193.68
+     You don't have time to go to the doctor
+},
+{
+    193.68,194.76
+     and set up an appointment.
+},
+{
+    194.76,195.6
+     Right, right.
+},
+{
+    195.6,196.44
+     This is not something to take lightly.
+},
+{
+    196.44,197.84
+     I know, because I tried that.
+},
+{
+    197.84,199.32
+     Yeah, yeah, sure.
+},
+{
+    199.32,201.44
+     No, actually the first time what has happened to me
+},
+{
+    201.44,204.12
+     at midnight, I woke up with chest pain,
+},
+{
+    206.18,208.8
+     not immediately, but after some conversation with my wife,
+},
+{
+    208.8,211.36
+     it wasn't too long when we were going to the ER.
+},
+{
+    211.36,212.92
+     I was grabbing you by the ear and dragging you.
+},
+{
+    212.92,214.74
+     I spent the whole night there.
+},
+{
+    214.74,216.46
+     They had me on monitors, blah, blah, blah.
+},
+{
+    216.46,219.26
+     The doctor says, your heart's very healthy.
+},
+{
+    219.26,222.54
+     You have musculoskeletal symptoms.
+},
+{
+    222.54,224.18
+     And I said, well, I'm a physical therapist.
+},
+{
+    224.18,225.72
+     Can you fill me in a little more?
+},
+{
+    225.72,229.44
+     He said, we don't really know for sure where it is,
+},
+{
+    229.44,230.4
+     but it's not your heart.
+},
+{
+    230.4,232.36
+     It's musculoskeletal symptoms.
+},
+{
+    232.36,233.2
+     You're healthy.
+},
+{
+    233.2,234.12
+     You're done with us.
+},
+{
+    234.12,235.24
+     Go on.
+},
+{
+    235.24,237.68
+     So anyways, his job was to keep me alive,
+},
+{
+    237.68,239.52
+     make sure my heart was healthy,
+},
+{
+    239.52,242.34
+     not to go through, you know, more detail.
+},
+{
+    242.34,244.64
+     So I naturally went into this,
+},
+{
+    244.64,247.14
+     looked into it much more thoroughly.
+},
+{
+    247.14,249.98
+     But in the meantime, I did go to the doctor three times
+},
+{
+    249.98,253.82
+     with chest pain to the ER each time, diagnosed.
+},
+{
+    253.82,255.26
+     Because I wanted to make sure,
+},
+{
+    255.26,258.3
+     even though I thought I had gastrochondritis,
+},
+{
+    258.3,259.14
+     I don't wanna-
+},
+{
+    259.14,259.98
+     You hear it?
+},
+{
+    259.98,262.94
+     I mean, Brad, I'm glad you give this as an example here
+},
+{
+    262.94,265.78
+     because I've heard it many times where people go in
+},
+{
+    265.78,267.52
+     and they go, no, your heart's fine.
+},
+{
+    267.52,269.72
+     Then they go, they had a heart attack next time.
+},
+{
+    269.72,272.64
+     So I think it was very wise for you
+},
+{
+    272.64,274.4
+     to check it out for at least three times.
+},
+{
+    274.4,277.74
+     And then along with that, I went to my regular doctor,
+},
+{
+    277.74,280.4
+     then sent me up with a cardiologist.
+},
+{
+    280.4,284.36
+     So I had a very thorough assessment of my heart.
+},
+{
+    284.36,287.04
+     Every time I went to continue to say your heart's healthy,
+},
+{
+    287.04,289.44
+     we can't find anything wrong with it.
+},
+{
+    289.44,291.6
+     It's musculoskeletal.
+},
+{
+    291.6,293.32
+     I wish we could say that about your brain.
+},
+{
+    293.32,295.76
+     Yeah, well, you know, my wife says that too.
+},
+{
+    295.76,296.6
+     Yeah.
+},
+{
+    296.6,297.44
+     But anyways, that's a good story.
+},
+{
+    297.44,298.48
+     One thing you know about the rib cage, Brad,
+},
+{
+    298.48,300.56
+     you know, it's moving up and down.
+},
+{
+    300.56,302.4
+     There's a lot of movement in that rib cage.
+},
+{
+    302.4,303.84
+     There is, there is.
+},
+{
+    303.84,305.8
+     And one way you can test,
+},
+{
+    307.92,310.52
+     I had two or three doctors do this to me,
+},
+{
+    310.52,313.56
+     they would start palpating right here,
+},
+{
+    313.56,317.16
+     right over that area where the costal sternum joints are,
+},
+{
+    317.16,319.6
+     and it would never really set me off
+},
+{
+    319.6,322.0
+     until the third time I went in,
+},
+{
+    322.0,324.04
+     the doctor was doing that and he left
+},
+{
+    324.04,325.08
+     and he really didn't find anything, so I'm pushing, and all of doing that and he left and he related and finding it.
+},
+{
+    325.08,327.84
+     So I'm pushing and all of a sudden right here
+},
+{
+    327.84,329.84
+     about the size of a dime I hit a spot.
+},
+{
+    329.84,330.76
+     Wow!
+},
+{
+    330.76,331.6
+     You found the spot.
+},
+{
+    331.6,332.44
+     I found it.
+},
+{
+    332.44,334.52
+     It's like, it's very specific.
+},
+{
+    334.52,337.92
+     But you know, the idea is if you push here
+},
+{
+    337.92,340.12
+     and it really makes it worse,
+},
+{
+    340.12,344.2
+     that's an indication that it could be costochondritis.
+},
+{
+    344.2,345.0
+     Now I'm being- Not for sure. Not for sure, but it's an indication that it could be costochondritis. Now I'm being-
+},
+{
+    345.0,345.84
+     Not for sure.
+},
+{
+    345.84,348.08
+     Not for sure, but it's an indication.
+},
+{
+    348.08,352.08
+     So anyways, since that point I can remember
+},
+{
+    352.08,354.76
+     I had chest pain outmoing the lawn.
+},
+{
+    354.76,355.6
+     Sure.
+},
+{
+    355.6,357.12
+     And I'm riding and I've had me going
+},
+{
+    357.12,358.32
+     through all the doctor visits,
+},
+{
+    358.32,359.56
+     the YAR visits and everything.
+},
+{
+    359.56,363.0
+     It's like, man, this has got to be costochondritis.
+},
+{
+    363.0,364.56
+     I'm not going in again.
+},
+{
+    364.56,367.12
+     I did, it went away, it was fine.
+},
+{
+    367.12,369.08
+     It happened to me at night once.
+},
+{
+    369.08,372.62
+     And then I started doing some research on my own
+},
+{
+    372.62,374.04
+     and I'm looking at some YouTubes
+},
+{
+    374.04,376.92
+     and there's some other YouTube therapists
+},
+{
+    376.92,380.72
+     that are showing these stretches and stretches like this,
+},
+{
+    380.72,383.12
+     breathing, probably good exercise,
+},
+{
+    383.12,384.56
+     but they never helped me.
+},
+{
+    384.56,386.9
+     As a matter of fact, the stretching, I think,
+},
+{
+    386.9,387.98
+     kind of irritated.
+},
+{
+    387.98,388.82
+     It could irritate it, yes.
+},
+{
+    388.82,391.76
+     Finally, I found a therapist from New Zealand.
+},
+{
+    391.76,392.6
+     New Zealand.
+},
+{
+    392.6,396.56
+     Steve August, and he has a very thorough video on it,
+},
+{
+    396.56,398.6
+     15 minutes long, if you're not a therapist
+},
+{
+    398.6,399.68
+     that gets a little boring,
+},
+{
+    399.68,401.48
+     because he goes through details
+},
+{
+    401.48,403.68
+     about how the problem is back here.
+},
+{
+    403.68,407.76
+     Back here, yeah. And it's like, I didn't buy it at first.
+},
+{
+    407.76,409.0
+     That doesn't make any sense.
+},
+{
+    409.0,410.34
+     I thought it made sense to me right away.
+},
+{
+    410.34,412.32
+     Well, of course, but I thought that right.
+},
+{
+    412.32,415.88
+     And I kind of did, but I thought I'm always skeptical.
+},
+{
+    415.88,417.04
+     You know me, Bob.
+},
+{
+    417.04,419.36
+     I never take anything face value until I prove.
+},
+{
+    419.36,420.2
+     Make sure you're a therapist.
+},
+{
+    420.2,421.28
+     Yep, I guess so.
+},
+{
+    421.28,422.12
+     I don't know.
+},
+{
+    422.12,424.28
+     But anyways, so I started his treatment.
+},
+{
+    424.28,427.24
+     So basically what he's saying is tight back here.
+},
+{
+    427.24,429.12
+     It's almost a here down.
+},
+{
+    429.12,431.08
+     And if it's tight back here,
+},
+{
+    431.08,433.76
+     the movement of the rib cage has gotta come from somewhere.
+},
+{
+    433.76,436.16
+     So it gets hyper mobile here.
+},
+{
+    436.16,437.82
+     So by loosening this,
+},
+{
+    437.82,440.8
+     you don't put as much stress on the front, basically.
+},
+{
+    440.8,443.0
+     You know, he talks about the rib being like a handle
+},
+{
+    443.0,443.84
+     on a bucket.
+},
+{
+    443.84,446.72
+     They move up and down, up and down,
+},
+{
+    446.72,448.44
+     and there should be a hinge on each side
+},
+{
+    448.44,452.16
+     if the hinge gets a little rusty, you know, analogy.
+},
+{
+    452.16,454.12
+     On one side, you need to break it up
+},
+{
+    454.12,456.48
+     and get those ribs loose again.
+},
+{
+    456.48,457.68
+     So I'm a believer now.
+},
+{
+    457.68,461.8
+     I started out, he had, excuse me, Sam,
+},
+{
+    461.8,463.8
+     you're no longer needed.
+},
+{
+    465.24,466.36
+     Here's the whole treatment.
+},
+{
+    466.36,467.56
+     This is what you've been waiting for.
+},
+{
+    467.56,470.12
+     You've been putting up for this babble for seven minutes.
+},
+{
+    470.12,471.52
+     I think it's good to understand.
+},
+{
+    471.52,472.84
+     It is, Bob, it is.
+},
+{
+    472.84,474.56
+     And, you know, it's our show,
+},
+{
+    474.56,476.88
+     so we can take a little longer.
+},
+{
+    476.88,478.2
+     I thought I'll use one of these
+},
+{
+    478.2,481.48
+     because what Steve, he invented a device
+},
+{
+    481.48,483.06
+     called a Backpod Fort,
+},
+{
+    483.06,484.68
+     but it's like, I have to order it.
+},
+{
+    484.68,485.52
+     That's work. I gotta pay for it. They're kind of expensive. I thought, I'm gonna see if I invented a device called a back pod fort, but it's like, I have to order it. That's work.
+},
+{
+    485.52,486.36
+     I got to pay for it.
+},
+{
+    486.36,487.18
+     They're kind of expensive.
+},
+{
+    487.18,489.4
+     I thought, I'm gonna see if I can get something else to work.
+},
+{
+    489.4,490.98
+     And I kind of did.
+},
+{
+    490.98,494.36
+     I do use a six inch roller like this,
+},
+{
+    494.36,497.7
+     but it doesn't get specific enough to those back joints.
+},
+{
+    497.7,501.2
+     But you know, you can try this if you have one at home
+},
+{
+    501.2,504.02
+     and it will do some work.
+},
+{
+    504.02,505.66
+     And it's gonna be good for your posture anyway.
+},
+{
+    505.66,507.4
+     Right, it's not a bad thing for ya.
+},
+{
+    507.4,510.2
+     It's gonna help you one way or another.
+},
+{
+    510.2,512.94
+     Then to get more specific to those rib joints,
+},
+{
+    512.94,516.12
+     I try to softball and that helps.
+},
+{
+    516.12,517.56
+     That was a little more-
+},
+{
+    517.56,519.08
+     That's really aggressive though.
+},
+{
+    519.08,519.92
+     Yeah, it is.
+},
+{
+    519.92,521.8
+     You have to be careful.
+},
+{
+    521.8,523.96
+     I would say the average person's not gonna be able
+},
+{
+    523.96,524.8
+     to tolerate that.
+},
+{
+    524.8,527.88
+     Well, I'm supporting weight through my butt
+},
+{
+    527.88,529.04
+     and through my elbow.
+},
+{
+    529.04,531.44
+     And if I go all the way on it, it's very aggressive.
+},
+{
+    531.44,534.68
+     So, but you can still, if you don't wanna,
+},
+{
+    534.68,535.92
+     you know, get a back pod,
+},
+{
+    535.92,538.54
+     I think you can successfully treat with this,
+},
+{
+    538.54,540.8
+     but you're gonna have to work at it and get,
+},
+{
+    540.8,542.96
+     what should do, why don't you stand up, Bob?
+},
+{
+    542.96,543.8
+     I'm gonna show you.
+},
+{
+    543.8,546.52
+     He's gonna show the area where he's placing it.
+},
+{
+    546.52,550.44
+     Yeah, so we're working between the scapula
+},
+{
+    550.44,552.64
+     and the spine right there.
+},
+{
+    552.64,554.6
+     It's that muscle area.
+},
+{
+    554.6,558.6
+     And that's where those ribs connect to the vertebra.
+},
+{
+    558.6,561.48
+     And so I'm gonna start round your shoulders.
+},
+{
+    561.48,562.32
+     I know you don't, there we go.
+},
+{
+    562.32,564.16
+     It just makes it easier to show.
+},
+{
+    564.16,567.36
+     I'm gonna start here. I'm gonna work up and down here,
+},
+{
+    567.36,568.52
+     and then we're gonna go here.
+},
+{
+    568.52,571.68
+     And usually I do it three places, high, middle, low,
+},
+{
+    571.68,575.66
+     not necessarily in that order, but we get those three places.
+},
+{
+    575.66,578.08
+     And then I'm gonna show you what you do with your arms
+},
+{
+    578.08,578.92
+     and how you do it.
+},
+{
+    578.92,581.48
+     But I am gonna use the back pod because it really,
+},
+{
+    581.48,584.72
+     I mean, that's why it's made specifically this shape.
+},
+{
+    584.72,585.56
+     It works better. And again, it's really expensive, but if you look at, that's why it's made specifically this shape. It works better.
+},
+{
+    585.56,587.3
+     And again, it's really expensive,
+},
+{
+    587.3,589.56
+     but if you look at, there's two molds there.
+},
+{
+    589.56,590.88
+     Show the inside, Brad.
+},
+{
+    590.88,592.84
+     I mean, this thing, you could run a truck over it,
+},
+{
+    592.84,594.18
+     it's not gonna break down.
+},
+{
+    594.18,597.82
+     It's solid, it's built the way it's supposed to be built.
+},
+{
+    597.82,600.48
+     Bob says it expensive, but I spent,
+},
+{
+    602.0,605.0
+     you know, each emergency room visit was over $1,000.
+},
+{
+    605.0,606.56
+     You know, this is $80.
+},
+{
+    606.56,607.4
+     It's pretty cheap.
+},
+{
+    607.4,608.76
+     I wanna make sure everybody knows
+},
+{
+    608.76,610.2
+     we make nothing off this.
+},
+{
+    610.2,612.8
+     I just, I've become a big fan.
+},
+{
+    612.8,614.64
+     I use it for posture all the time.
+},
+{
+    614.64,616.24
+     Yeah, you can use it for other things.
+},
+{
+    616.24,617.16
+     Yeah, side joints.
+},
+{
+    617.16,620.28
+     I'm to the point now, like I bring it to my cabin.
+},
+{
+    620.28,621.8
+     Like if I miss a day,
+},
+{
+    621.8,624.72
+     I start feeling that pain between the shoulder blades
+},
+{
+    624.72,626.12
+     and this takes it away. So I mean a day, I start feeling that pain between the shoulder blades and this takes it away.
+},
+{
+    626.12,629.36
+     So I mean, it's one of the few things
+},
+{
+    629.36,632.44
+     that I would be low to give up in my life.
+},
+{
+    632.44,635.76
+     So here's how we both, Bob and I actually use it the same way.
+},
+{
+    635.76,637.96
+     I'm doing it for my costochondritis.
+},
+{
+    637.96,641.56
+     Bob likes it for his posture as well as his muscles
+},
+{
+    641.56,643.72
+     in his back, it's a good way to get him loose.
+},
+{
+    643.72,645.64
+     So I'm gonna put it here.
+},
+{
+    645.64,647.84
+     And this is my right side.
+},
+{
+    647.84,649.84
+     This is where I always develop the chest pain.
+},
+{
+    649.84,651.92
+     And I worked this side a little more
+},
+{
+    651.92,654.32
+     and I go on there like this.
+},
+{
+    654.32,656.78
+     And this is what Steve, the therapist who invented this,
+},
+{
+    656.78,659.2
+     you know, I did this on a video once.
+},
+{
+    659.2,662.2
+     And he emailed me the next day or a few days later.
+},
+{
+    662.2,665.36
+     He said, you forgot to do your arms up and down like this.
+},
+{
+    665.36,666.88
+     Right, yes, exactly.
+},
+{
+    666.88,668.92
+     And I start to do that.
+},
+{
+    668.92,671.92
+     Well, warning, if you're never used this before,
+},
+{
+    671.92,674.24
+     or if you're using the softball,
+},
+{
+    674.24,679.44
+     take a towel like this and unfold it,
+},
+{
+    679.44,683.16
+     whatever, layer it up and then put that over.
+},
+{
+    683.16,685.04
+     And also you may have a pillow under your head.
+},
+{
+    685.04,687.24
+     Yeah, and a pillow, exactly.
+},
+{
+    687.24,690.72
+     You may really have to blunt it first to start off with.
+},
+{
+    690.72,693.84
+     Cause especially if you're a thinner person,
+},
+{
+    693.84,695.84
+     it'll feel a little aggressive.
+},
+{
+    695.84,697.52
+     You know, I've been using it for quite a while
+},
+{
+    697.52,700.36
+     and I'd say after a couple of weeks of using this,
+},
+{
+    700.36,702.16
+     I welcome it without anything.
+},
+{
+    702.16,704.0
+     Right, but you did start with something, right?
+},
+{
+    704.0,705.4
+     Oh yeah, I used a towel.
+},
+{
+    705.4,707.72
+     I remember you telling me it was hard on you.
+},
+{
+    707.72,709.28
+     I just had a cavitation there.
+},
+{
+    709.28,712.24
+     It'll make your joints pop a little bit and crack.
+},
+{
+    712.24,713.96
+     This is the first thing I do in the morning.
+},
+{
+    713.96,716.6
+     I do it actually while I'm doing hamstring stretches.
+},
+{
+    716.6,718.64
+     You mean like right out of bed you get on the bed?
+},
+{
+    718.64,720.08
+     I get out of bed, I'm serious.
+},
+{
+    720.08,721.2
+     And I go to the bathroom.
+},
+{
+    721.2,722.4
+     Oh, wow, the first thing.
+},
+{
+    722.4,727.4
+     First thing, I get up, I go to the bathroom. First thing, I get up, I go to the bathroom,
+},
+{
+    727.4,730.16
+     I start stretching and I put this thing behind my back
+},
+{
+    730.16,731.68
+     and I hit the six spots.
+},
+{
+    731.68,736.04
+     And I used to have to like, right before I did a run,
+},
+{
+    736.04,738.08
+     I'd have to stretch my back out some more.
+},
+{
+    738.08,740.24
+     But this does it for me.
+},
+{
+    740.24,743.68
+     This is, and like I said, this has taken away
+},
+{
+    743.68,745.92
+     the pain between my shoulder blades. So, you know, the thing I like about this, this is, and like I said, this has taken away the pain between my shoulder blades.
+},
+{
+    745.92,749.16
+     So, you know, the thing I like about this, Brad too,
+},
+{
+    749.16,751.6
+     is that it comes with a booklet.
+},
+{
+    751.6,753.96
+     And that we did what, it was a 30 pages?
+},
+{
+    753.96,754.8
+     31.
+},
+{
+    754.8,756.08
+     31 pages.
+},
+{
+    756.08,758.56
+     And it's really well-written.
+},
+{
+    758.56,760.46
+     I mean, it goes over to the posture things.
+},
+{
+    760.46,762.82
+     It goes over a lot of things you can use this for.
+},
+{
+    762.82,767.82
+     The costochondritis, that book almost is worth $10 to me, Brad.
+},
+{
+    768.6,769.78
+     You know, it gives a good explanation.
+},
+{
+    769.78,771.22
+     Are you having fun?
+},
+{
+    771.22,772.06
+     I'm done.
+},
+{
+    772.06,773.74
+     I just wanted to show how fast it was.
+},
+{
+    773.74,776.0
+     I also treat my SI with it, it feels good.
+},
+{
+    776.0,779.54
+     And he has a pot of pasta on that.
+},
+{
+    779.54,780.74
+     What else do I speak to people?
+},
+{
+    780.74,781.58
+     A video on it?
+},
+{
+    781.58,782.82
+     Yeah, gotta, yeah.
+},
+{
+    782.82,784.34
+     Oh, he has a page in there.
+},
+{
+    784.34,785.16
+     Oh, he has a page in there. Oh, he has a page in there.
+},
+{
+    785.16,786.0
+     Describing on it.
+},
+{
+    786.0,787.84
+     I have not seen that for,
+},
+{
+    787.84,789.4
+     I think you mentioned it one time before
+},
+{
+    789.4,790.72
+     on one of our videos for a second.
+},
+{
+    790.72,792.76
+     Bob, our viewers are starting to get bored.
+},
+{
+    792.76,794.24
+     The main thing is done.
+},
+{
+    794.24,796.36
+     We show it how to use the back cut.
+},
+{
+    796.36,797.48
+     You got the alternatives.
+},
+{
+    797.48,800.4
+     You can try other things if you don't want to spend the money,
+},
+{
+    800.4,803.0
+     but remember Brad and I can fix just about anything.
+},
+{
+    803.0,804.0
+     Except for?
+},
+{
+    804.0,804.92
+     A broken heart.
+},
+{
+    804.92,805.72
+     There we go. We'll get that just about anything. Except for. A broken heart. There we go.
+},
+{
+    805.72,807.82
+     We'll get that fixed too someday.
+},
+{
+    807.82,808.66
+     Thanks for watching.
+},
+{
+    808.66,810.32
+     Boom, boom, boom, boom.
+},
+{
+    810.32,None
+     Boom, boom, boom. you
+},

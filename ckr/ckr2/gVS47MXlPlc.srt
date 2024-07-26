@@ -1,0 +1,112 @@
+{
+    0.0,14.12
+     This video explains a few things that patients need to know when taking a spirometry test.
+},
+{
+    14.12,18.04
+     A spirometry test measures how well your lungs are working.
+},
+{
+    18.04,22.6
+     If you do the test correctly, your results will help your doctor diagnose problems you
+},
+{
+    22.6,24.88
+     may be having.
+},
+{
+    24.88,29.5
+     Taking a spirometry test doesn't hurt. You simply breathe in and breathe out, and your
+},
+{
+    29.5,32.18
+     doctor will interpret the results.
+},
+{
+    32.18,38.24
+     To take the test is easy. First, remove any tight clothing, for example a belt, a tie,
+},
+{
+    38.24,49.0
+     a bra, or a girdle. It's important to be able to breathe freely for these tests. Also, remove gum, candy, loose dentures, or any other objects from your mouth.
+},
+{
+    49.0,53.76
+     To provide accurate, useful results, this barometer needs some information about you,
+},
+{
+    53.76,57.68
+     especially your age, height, gender, and race.
+},
+{
+    57.68,62.12
+     To take the test, seal your mouth and nose so that no air can leak out.
+},
+{
+    62.12,66.04
+     Keep your tongue away from the opening and keep your fingers away from the other end
+},
+{
+    66.04,68.26
+     so that you don't block the air.
+},
+{
+    68.26,70.88
+     Sit up straight, don't lean forward,
+},
+{
+    70.88,72.2
+     and keep your chin up.
+},
+{
+    72.2,75.56
+     All these things will help keep the air flowing correctly.
+},
+{
+    75.56,78.28
+     When you're ready to begin, inhale deeply.
+},
+{
+    78.28,80.42
+     Grip the mouthpiece slightly with your teeth,
+},
+{
+    80.42,82.32
+     but don't bite down hard.
+},
+{
+    82.32,85.36
+     Then blow into the mouthpiece as hard and fast as you
+},
+{
+    85.36,90.6
+     can for as long as you can. Don't hesitate. Pretend that you're blowing out the candles
+},
+{
+    90.6,96.76
+     on a birthday cake. Try to keep blowing for at least six seconds. Remember to sit up straight
+},
+{
+    96.76,103.0
+     and keep your chin up to keep the air flowing correctly. Try not to cough, but if you do,
+},
+{
+    103.0,109.0
+     just try again. You only need to inhale forcefully and exhale forcefully once for each effort.
+},
+{
+    109.0,113.0
+     You'll make at least three efforts, probably more.
+},
+{
+    113.0,114.0
+     That's all there is to it.
+},
+{
+    114.0,116.0
+     If you follow the guidelines reviewed here,
+},
+{
+    116.0,None
+     Spirometry Testing can bring you one step closer to healthier lungs.
+},

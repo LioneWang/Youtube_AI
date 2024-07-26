@@ -1,0 +1,344 @@
+{
+    0.0,2.88
+     Alright, so I'm going to talk about the simple masks now.
+},
+{
+    2.88,9.76
+     So simple masks as advice, you'll see, let me see it a lot in our post surgery area.
+},
+{
+    9.76,11.32
+     It's a nice way to deliver some oxygen.
+},
+{
+    11.32,12.96
+     Also, I've seen it in labor rooms.
+},
+{
+    12.96,15.64
+     They give it to a laboring mother.
+},
+{
+    15.64,18.4
+     If they need some oxygen, she doesn't like nasal cannula.
+},
+{
+    18.4,22.44
+     It's a nice way to deliver oxygen, but it's a very poor way to give an exact amount of
+},
+{
+    22.44,23.44
+     oxygen.
+},
+{
+    23.44,24.96
+     So we're just going to throw some oxygen at this patient.
+},
+{
+    24.96,25.24
+     You know, maybe their saturation will come up, maybe they'll feel a little bit better. but it's a very poor way to give an exact amount of oxygen. So we're just going to throw some oxygen at this patient,
+},
+{
+    25.24,27.0
+     and maybe their saturation will come up,
+},
+{
+    27.0,28.4
+     maybe they'll feel a bit better.
+},
+{
+    28.4,31.56
+     But with this device, as you see, it's a mask,
+},
+{
+    31.56,34.48
+     has a little adapter on it, it all comes together.
+},
+{
+    34.48,37.92
+     It's going to deliver anywhere from like 40% to 60%.
+},
+{
+    37.92,39.8
+     Now that's a broad range.
+},
+{
+    39.8,41.32
+     So it's nothing that we're going to use
+},
+{
+    41.32,43.96
+     when we're going to be weaning oxygen or anything like that.
+},
+{
+    43.96,48.0
+     So generically, you can put a low flow of oxygen on this if you want, but usually it's nothing that we're going to use when we're going to be weaning oxygen or anything like that. So, generically you can put a low flow of oxygen on this if you want,
+},
+{
+    48.0,52.0
+     but usually it's recommended we usually go anywhere from usually 8 to 10 liters.
+},
+{
+    52.0,56.0
+     So I'll plug this in, go to 8 liters,
+},
+{
+    56.0,59.0
+     and you can hear it running. This is what you'll see.
+},
+{
+    59.0,62.0
+     In some of those other areas they're just delivering oxygen.
+},
+{
+    62.0,68.2
+     The patients aren't necessarily critical, but we're just going to kind of deliver oxygen. Obviously it goes over the back of
+},
+{
+    68.2,73.76
+     the head here and this part squeezes down the nose and we can give the patient oxygen.
+},
+{
+    73.76,79.0
+     So one thing to note with this, you notice there's also holes in this part of the mask
+},
+{
+    79.0,84.48
+     and this part of the mask right here. In case this flow would come be shut off and no longer
+},
+{
+    84.48,85.16
+     coming to the mask,
+},
+{
+    85.16,88.92
+     the mask will fog up so you'll know something happened. Unless you can hear the flow meter
+},
+{
+    88.92,93.54
+     running back here. But then the patient will still be able to breathe. This isn't sealed
+},
+{
+    93.54,97.92
+     to the face like a CPAP mask. So they'll still be able to breathe, but it will be uncomfortable
+},
+{
+    97.92,102.96
+     after about 30 seconds to a minute. So it's just one thing to kind of look out for. So
+},
+{
+    102.96,107.64
+     that's a simple mask. You won't see a lot of those around, but just in case you do.
+},
+{
+    107.64,111.36
+     Kind of a generic oxygen device.
+},
+{
+    111.36,116.58
+     The big boy that we see the most often, of course, use an EMS world, ER, or any place
+},
+{
+    116.58,120.06
+     where our patients get ready to crash is the non-rebreeder.
+},
+{
+    120.06,127.66
+     So what this is all about is they are going to, one, non-rebreathe their CO2, but what
+},
+{
+    127.66,132.54
+     they're going to do is they're going to pull 100% oxygen each breath from this.
+},
+{
+    132.54,137.14
+     So this device, we call it 100% that we're delivering.
+},
+{
+    137.14,141.22
+     In all honesty, it's more like 80 to 90.
+},
+{
+    141.22,144.94
+     It's really hard to deliver 100% unless you have an endotracheal tube in somebody, or
+},
+{
+    144.94,145.04
+     you have a CPAPracheal tube in somebody or you
+},
+{
+    145.04,147.32
+     have a CPAP mask seal on their face.
+},
+{
+    147.32,153.64
+     So the thing with a non-rebreed that I'm plugging here real quick, it'll come like this and
+},
+{
+    153.64,155.64
+     you'll see the little bag hanging off of it.
+},
+{
+    155.64,157.76
+     That means it's not ready to go.
+},
+{
+    157.76,161.84
+     Don't put this on a patient with the bag deflated because usually what happens is when they
+},
+{
+    161.84,166.88
+     take a breath there's a one-way valve in here and they're pulling air from, guess what?
+},
+{
+    166.88,168.0
+     Nothing that's in the bag.
+},
+{
+    168.0,170.58
+     So you'll see the bag deflated on it.
+},
+{
+    170.58,174.96
+     So one thing you always want to see, if you walk in a room, let's say for rapid response,
+},
+{
+    174.96,178.0
+     you see someone on an honor to breathe, you should always see this bag inflated.
+},
+{
+    178.0,181.16
+     It's like an RT's pet peeve.
+},
+{
+    181.16,188.4
+     On an honor to breathe, there's only one liter flow that goes on this 15 liters or even higher.
+},
+{
+    188.4,194.14
+     See what happens, the bag blew up and that in that bag right there, that is 100% oxygen.
+},
+{
+    194.14,198.94
+     You'll also see somebody stick their hand in here and put their hand over this thing
+},
+{
+    198.94,199.94
+     over that valve.
+},
+{
+    199.94,201.34
+     It will blow that up even more.
+},
+{
+    201.34,203.7
+     It fills it faster when you need it.
+},
+{
+    203.7,211.0
+     So when it goes on the patient, it looks a little bit like this. And you'll see this mat, this, this, the bag inflated
+},
+{
+    211.0,214.88
+     like this. And this is what it should sound like. When they take their breath, you'll
+},
+{
+    214.88,219.24
+     actually notice this bag, this bag will deflate a little bit and then it will fill up while
+},
+{
+    219.24,224.12
+     they're exhaling. Not while they're exhaling into it because it's a one way valve. But
+},
+{
+    224.12,227.32
+     what will be, what will happen is the oxygen from the flow meter will refill it.
+},
+{
+    227.32,232.28
+     So each time they take a breath, it comes from this bag and delivers really close to 100% FIO2.
+},
+{
+    232.28,238.08
+     Now you walk in the room and you see you're patient on an unregreather.
+},
+{
+    238.08,240.28
+     This happens a lot unfortunately.
+},
+{
+    240.28,243.56
+     Somebody just put on three liters and you look and that thing's deflated.
+},
+{
+    243.56,249.28
+     You'll know that something's up for one you're not delivering much FIO2 at all.
+},
+{
+    249.28,253.5
+     And then for two this is kind of a fun thing, you know, if you're watching soaps with your
+},
+{
+    253.5,259.36
+     non-medical partner and you're like the cool thing about the soap operas is this is where
+},
+{
+    259.36,262.18
+     you can always catch them on being non-authentic.
+},
+{
+    262.18,266.3
+     Because every time they put somebody on non-rebreed, they're on the soaps, it's always deflated.
+},
+{
+    266.3,272.44
+     So if they would ever want to consult a respiratory therapist or a nurse, they would just have
+},
+{
+    272.44,276.48
+     some external air piped in to make this more realistic by having this inflated.
+},
+{
+    276.48,279.8
+     So in real life, this is always inflated.
+},
+{
+    279.8,283.52
+     It looks a little bit like this.
+},
+{
+    283.52,286.66
+     And then you'll notice some little pieces of diaphragm that might be covering up these
+},
+{
+    286.66,287.66
+     holes.
+},
+{
+    287.66,292.18
+     What that does, it actually increases the FIO2 that you're delivering to your patient.
+},
+{
+    292.18,294.48
+     Remember, a non-residue reader is temporary.
+},
+{
+    294.48,297.74
+     You can leave them on this for a while, but they're going to need something else, either
+},
+{
+    297.74,304.58
+     ventilatory support or non-invasive ventilatory support, because this is a high, high amount
+},
+{
+    304.58,306.44
+     of FIO2 that you're delivering with a non-rig
+},
+{
+    306.44,307.44
+     breather.
+},
+{
+    307.44,309.76
+     So, in transport, it's great, not for long periods of time.
+},

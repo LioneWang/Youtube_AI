@@ -1,0 +1,764 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.52,13.08
+     Hi folks.
+},
+{
+    13.08,14.56
+     I'm Bob Schrupp, physical therapist.
+},
+{
+    14.56,15.4
+     Brad Heineck, physical therapist.
+},
+{
+    15.4,17.08
+     Together we are the most famous physical therapists
+},
+{
+    17.08,17.92
+     on the internet.
+},
+{
+    17.92,19.16
+     In our opinion, of course, Bob.
+},
+{
+    19.16,21.52
+     Today we're gonna show you how to fix wrist pain
+},
+{
+    21.52,25.2
+     with decompression plus three stretches.
+},
+{
+    25.2,26.56
+     So we'll try.
+},
+{
+    26.56,27.88
+     So very cool.
+},
+{
+    27.88,28.72
+     If you're new to our channel,
+},
+{
+    28.72,30.2
+     please take a second to subscribe to us.
+},
+{
+    30.2,31.56
+     We provide videos on how to stay healthy,
+},
+{
+    31.56,33.68
+     fit, pain-free, and we upload every day.
+},
+{
+    33.68,35.92
+     Also, we advise you to go to our website,
+},
+{
+    35.92,39.28
+     BobandBrad.com, because if you go to the giveaway section,
+},
+{
+    39.28,41.04
+     you can sign up for one of our contests.
+},
+{
+    41.04,42.52
+     We're always giving something away.
+},
+{
+    42.52,45.48
+     This week we're giving away the massage gun by Renfo.
+},
+{
+    45.48,47.18
+     Really cool device.
+},
+{
+    47.18,50.98
+     Now this thing has percussion and when it hits there, boy,
+},
+{
+    52.98,54.48
+     it does a good job.
+},
+{
+    54.48,55.64
+     Did you get that, Liz?
+},
+{
+    55.64,58.4
+     This thing is high end.
+},
+{
+    58.4,59.6
+     Yeah, it's so.
+},
+{
+    59.6,60.76
+     And we're giving away two of them.
+},
+{
+    60.76,61.74
+     Okay, it goes deep.
+},
+{
+    61.74,63.28
+     Go to Bob and Brad on Facebook.
+},
+{
+    63.28,65.0
+     It's also pinned to the top of the page there.
+},
+{
+    65.0,67.8
+     Go to Twitter and Instagram for our 60 second version
+},
+{
+    67.8,69.52
+     of our daily program.
+},
+{
+    69.52,71.12
+     Brad, take it away, sir.
+},
+{
+    71.12,72.52
+     Bob, wrist.
+},
+{
+    72.52,74.0
+     Now, where this video is,
+},
+{
+    74.0,76.96
+     if you've got a stiff wrist, painful wrist,
+},
+{
+    76.96,81.66
+     oftentimes I may be associated with overuse,
+},
+{
+    81.66,83.6
+     repetitive motion, arthritic,
+},
+{
+    83.6,85.48
+     and you get up in the morning.
+},
+{
+    85.48,86.96
+     And it's stiff and painful.
+},
+{
+    86.96,89.64
+     And these are some that I use personally
+},
+{
+    89.64,91.28
+     and I work with patients as well.
+},
+{
+    91.28,93.92
+     So we're sharing them to our guests and our viewers.
+},
+{
+    93.92,95.48
+     All right, sounds good. Let's go.
+},
+{
+    95.48,96.44
+     Oh, we're ready. Okay.
+},
+{
+    96.44,99.16
+     Number one is simple one.
+},
+{
+    99.16,100.92
+     Just arms out.
+},
+{
+    100.92,102.52
+     Now I'll go this direction.
+},
+{
+    102.52,105.16
+     Keep your fingers straight and flex.
+},
+{
+    105.16,107.54
+     And then up and extend, okay?
+},
+{
+    107.54,109.54
+     Do that three to five times.
+},
+{
+    109.54,112.64
+     So you go up as far as you can, down as far as you can.
+},
+{
+    112.64,115.48
+     And then you're gonna do it with your fingers flexed
+},
+{
+    115.48,117.12
+     and pull them up this way.
+},
+{
+    117.12,120.28
+     It works different muscles, particularly when you flex.
+},
+{
+    120.28,124.28
+     Do it again, five to 10 repetitions, okay?
+},
+{
+    124.28,126.0
+     Now we're gonna add,
+},
+{
+    126.0,127.24
+     you have to do one hand at a time
+},
+{
+    127.24,128.76
+     because one hand is gonna work
+},
+{
+    128.76,132.12
+     and do some extension passive range of motion.
+},
+{
+    132.12,134.08
+     One, you're gonna go not on your fingertips,
+},
+{
+    134.08,138.24
+     but over your fingers and the base knuckles
+},
+{
+    138.24,142.84
+     and stretch like that and hold, stretch and hold
+},
+{
+    142.84,145.8
+     and relax, Hold and relax.
+},
+{
+    145.8,148.36
+     Now, if you've got a painful wrist and you're doing this
+},
+{
+    148.36,151.2
+     and any of these create sharp pain in the wrist,
+},
+{
+    151.2,153.6
+     then you either don't do it near so hard
+},
+{
+    153.6,156.12
+     so it's not painful or don't do that particular stretch.
+},
+{
+    156.12,157.52
+     That's a red light exercise.
+},
+{
+    157.52,161.2
+     Yeah, the red flag, you don't wanna get into that.
+},
+{
+    161.2,164.08
+     Now, you can also do it down palm,
+},
+{
+    164.08,165.68
+     palm on palm and stretch, and then you can have your fingers out of the picture. You see my fingers get into that. Now you can also do it down palm, palm on palm and stretch.
+},
+{
+    165.68,167.72
+     And then you can have your fingers out of the picture.
+},
+{
+    167.72,169.34
+     You see my fingers are wiggling.
+},
+{
+    169.34,171.8
+     That isolates more of the wrist.
+},
+{
+    171.8,173.88
+     And then you can do it down as well.
+},
+{
+    173.88,177.56
+     Same thing here, palm on the top of the back of the hand,
+},
+{
+    177.56,179.6
+     stretch like this.
+},
+{
+    179.6,181.6
+     And if you wanna get more aggressive,
+},
+{
+    181.6,183.72
+     fingers over the fingers over the palm,
+},
+{
+    183.72,188.32
+     so it's back to back, roll it all the way around and bend the fingers,
+},
+{
+    188.32,190.92
+     that you'll feel up in a different location.
+},
+{
+    190.92,191.76
+     All the way through out there.
+},
+{
+    191.76,192.6
+     Yeah.
+},
+{
+    192.6,194.16
+     So do that three to five times.
+},
+{
+    194.16,197.6
+     And again, I like just to hold and relax.
+},
+{
+    197.6,200.32
+     Hold and relax three to five times is good.
+},
+{
+    200.32,201.88
+     Okay, do that to both hands.
+},
+{
+    201.88,203.64
+     We're gonna, I'm gonna skip one of my hands
+},
+{
+    203.64,204.92
+     just for time's sake.
+},
+{
+    204.92,208.52
+     The next one, now this is distraction or traction.
+},
+{
+    208.52,210.24
+     You're gonna actually, you're gonna have to zoom in
+},
+{
+    210.24,211.42
+     on this Liz.
+},
+{
+    211.42,213.4
+     And this is one of them that helps me.
+},
+{
+    214.36,216.82
+     Okay, are you right in on my wrist?
+},
+{
+    216.82,219.12
+     So I'm gonna take my hand, my thumb's going
+},
+{
+    219.12,221.72
+     where my thumbs are there and the other fingers here.
+},
+{
+    221.72,225.2
+     You can do it this way or this way.
+},
+{
+    225.2,227.82
+     Now this is a wrist that's getting distracted.
+},
+{
+    227.82,230.44
+     This arm, you have to really learn to relax
+},
+{
+    230.44,232.48
+     completely on this side.
+},
+{
+    232.48,235.32
+     Hold your elbow still, relax the forearm,
+},
+{
+    235.32,237.48
+     and I'm just gonna pull out.
+},
+{
+    237.48,239.64
+     Can you show where that softest sign is?
+},
+{
+    239.64,242.36
+     It's right through here, as he pulls out,
+},
+{
+    242.36,245.1
+     you'll see there's like a little indentation.
+},
+{
+    245.1,248.64
+     And that shows you that you are getting some traction.
+},
+{
+    248.64,250.0
+     I think they can see that Brad, I can see that.
+},
+{
+    250.0,251.32
+     Can you see that?
+},
+{
+    251.32,253.96
+     So the joint is actually distracted
+},
+{
+    253.96,255.12
+     or pulling away from each other.
+},
+{
+    255.12,257.7
+     It's not very far, but it's all you need
+},
+{
+    257.7,260.4
+     to get some synovial fluid in where it needs to go
+},
+{
+    260.4,262.4
+     and stretch those tissues.
+},
+{
+    262.4,266.04
+     And now this next one is a really cute one, focused right in here, where the illness and the those tissues. And now this next one is a really cute one.
+},
+{
+    266.04,269.64
+     Focus right in here where the illness and the radius are.
+},
+{
+    269.64,271.82
+     And I'm gonna gently distract,
+},
+{
+    271.82,274.52
+     gonna stabilize the hand with this hand
+},
+{
+    274.52,276.84
+     and do a little rotation.
+},
+{
+    276.84,278.96
+     So my hand is stable,
+},
+{
+    278.96,281.72
+     but the wrist is getting that rotation.
+},
+{
+    281.72,283.16
+     Is that pretty clear?
+},
+{
+    283.16,286.4
+     Good, and you do that five to 10 times, okay?
+},
+{
+    286.4,288.4
+     Bob, you wanna show them, this is a bonus one.
+},
+{
+    288.4,290.66
+     Yeah, sure, this is one, it's a little complicated,
+},
+{
+    290.66,292.48
+     but let's say I'm gonna stretch this wrist,
+},
+{
+    292.48,294.08
+     you're having pain.
+},
+{
+    294.08,296.64
+     The idea is you wanna be able to move without pain.
+},
+{
+    296.64,298.68
+     Let's say it hurts when I move it.
+},
+{
+    298.68,301.08
+     So you're gonna take, you're gonna grab your wrist
+},
+{
+    301.08,302.8
+     with the four fingers.
+},
+{
+    302.8,304.32
+     These four fingers grab the wrist.
+},
+{
+    304.32,306.12
+     So both palms are up.
+},
+{
+    306.12,308.04
+     And you're gonna use the thumb
+},
+{
+    308.04,310.2
+     to push the hand this way.
+},
+{
+    310.2,311.04
+     Okay.
+},
+{
+    311.04,312.26
+     So I'm pushing the hand this way.
+},
+{
+    312.26,314.6
+     And while I'm pushing it, now,
+},
+{
+    314.6,318.2
+     I got my hand here, a counter force here.
+},
+{
+    318.2,319.86
+     I'm pushing like this.
+},
+{
+    319.86,321.6
+     And now move it up and down.
+},
+{
+    321.6,323.2
+     It doesn't feel better.
+},
+{
+    323.2,324.04
+     Okay.
+},
+{
+    324.04,326.56
+     It does go ahead and do five reps.
+},
+{
+    326.56,329.44
+     And you can repeat that extra out today then.
+},
+{
+    329.44,330.36
+     And if it doesn't?
+},
+{
+    330.36,331.36
+     If doesn't, don't do it.
+},
+{
+    331.36,332.2
+     Okay.
+},
+{
+    332.2,333.04
+     I'll do it on the other side.
+},
+{
+    333.04,336.36
+     Grab four fingers around the wrist.
+},
+{
+    336.36,337.56
+     Thumbs pushing.
+},
+{
+    337.56,339.16
+     It is right below the pinky
+},
+{
+    339.16,341.16
+     on that padded part of your thumb.
+},
+{
+    341.16,342.0
+     Yep.
+},
+{
+    342.0,343.96
+     And pushing, and I'm gonna go like this.
+},
+{
+    343.96,346.12
+     I got a little duper trance contraction on here,
+},
+{
+    346.12,348.28
+     but the other, that's why I'm having to go.
+},
+{
+    348.28,350.54
+     So here the thumb is there, here, push.
+},
+{
+    352.68,354.76
+     That one might take a little practice.
+},
+{
+    354.76,357.44
+     That's a therapy one, but we think it's something
+},
+{
+    357.44,358.28
+     that people can do.
+},
+{
+    358.28,359.12
+     It's worked well for me.
+},
+{
+    359.12,362.56
+     I feel like my wrist needs to be cracked.
+},
+{
+    362.56,364.08
+     It seems like it works well for that.
+},
+{
+    364.08,365.28
+     And these are the ones that I do.
+},
+{
+    365.28,367.44
+     And I feel, I know I got that.
+},
+{
+    367.44,371.52
+     Is it a lunate or the hamate that has an issue?
+},
+{
+    371.52,372.84
+     Okay, the hamate?
+},
+{
+    372.84,375.56
+     There's a lot of little bones there.
+},
+{
+    375.56,377.68
+     Sometimes it's hard to remember it at our age.
+},
+{
+    377.68,380.08
+     Now you always want to finish with just doing a few circles
+},
+{
+    380.08,380.92
+     and shaking it out.
+},
+{
+    380.92,383.76
+     Yeah, just kind of work it out, shake it out.
+},
+{
+    383.76,386.8
+     Gently, not real aggressive aggressive like you're trying to get
+},
+{
+    386.8,388.36
+     a yolk off your fingers, you know,
+},
+{
+    388.36,390.64
+     it's just a nice, gentle shake.
+},
+{
+    390.64,391.96
+     All right, jazz hands.
+},
+{
+    391.96,393.12
+     Jazz hands.
+},
+{
+    393.12,394.6
+     I never do jazz hands.
+},
+{
+    394.6,396.16
+     All right.
+},
+{
+    396.16,397.92
+     All right, remember what we can fix this body.
+},
+{
+    397.92,399.88
+     Except for broken area.
+},
+{
+    399.88,400.8
+     Yeah, there it is.
+},
+{
+    400.8,401.96
+     Yeah.
+},
+{
+    401.96,402.8
+     Can't even lift it.
+},
+{
+    402.8,403.88
+     Yeah.
+},
+{
+    403.88,405.36
+     Maybe we could do that, I can lift. You think that he could edit that in? Yeah, it'll. Yeah. Can't even lift it. Yeah, maybe we could just lift.
+},
+{
+    405.36,407.28
+     You think that he could edit that in?
+},
+{
+    407.28,409.52
+     No, it'll float up.
+},
+{
+    409.52,None
+     Thanks for watching. you
+},

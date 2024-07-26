@@ -1,0 +1,244 @@
+{
+    0.0,5.04
+     Hi everybody out there. I'm Dr. Joe Nemeth. I'm a periodontist in Southfield, Michigan.
+},
+{
+    5.04,12.16
+     I want to talk a little bit about bleeding gums today. Bleeding gums are never normal. It's never
+},
+{
+    12.16,18.8
+     normal to have bleeding gums. You think, well, everybody's gums bleed when they floss sometimes
+},
+{
+    18.8,25.84
+     or they blush sometimes. No, your gums shouldn't bleed. They only bleed if they're not
+},
+{
+    25.84,31.16
+     healthy. That means you have an infection or inflammation that's causing
+},
+{
+    31.16,36.14
+     those gums to bleed. So bleeding gums are never normal. Sometimes you can
+},
+{
+    36.14,41.56
+     improve them at home, which we can tell you a little bit more about. So gum
+},
+{
+    41.56,45.06
+     disease of course is the number one cause or periodontal disease
+},
+{
+    45.06,49.5
+     is the number one cause of bleeding gums. Now some people have certain
+},
+{
+    49.5,54.98
+     systemic diseases for instance leukemia. I've seen cases of leukemia where the
+},
+{
+    54.98,65.84
+     gums do tend to bleed much more easily. Certain kinds of cancers possibly might increase the tendency for bleeding gums.
+},
+{
+    65.84,75.32
+     But the main cause, 99 point, whatever percentage of the time, is infection in the gums that
+},
+{
+    75.32,80.76
+     you don't feel, that you don't see, that you don't even know is there, but causing a chronic
+},
+{
+    80.76,86.2
+     inflammation, the bleeding, the infection, which then leads to bone loss and
+},
+{
+    86.2,92.24
+     possibly eventually tooth loss as well as compromising your general health.
+},
+{
+    92.24,93.88
+     Bleeding gums have to be stopped.
+},
+{
+    93.88,95.92
+     Hello, my name is Amar Khatranji.
+},
+{
+    95.92,98.48
+     I'm a periodontist here in Southfield, Michigan.
+},
+{
+    98.48,102.24
+     Today I want to talk a little bit about bleeding gums and what you can do at home to help treat
+},
+{
+    102.24,103.24
+     them.
+},
+{
+    103.24,107.56
+     A lot of people ask, you know, I notice a lot more bleeding when I'm brushing and flossing. A lot of times
+},
+{
+    107.56,111.52
+     what you're seeing is more plaque is creating swelling around the gum tissue.
+},
+{
+    111.52,115.66
+     You really have to do a good job of removing the plaque in between your
+},
+{
+    115.66,119.48
+     teeth and especially the stuff that's between your gums. The first thing that
+},
+{
+    119.48,123.0
+     you have to do is you have to do a really good job at home with your home care.
+},
+{
+    123.0,128.58
+     So brushing and flossing is critical and doing it properly is critical to eliminating the
+},
+{
+    128.58,131.66
+     inflammation that causes the bleeding in your gums.
+},
+{
+    131.66,136.58
+     So good brushing habits, good flossing habits is the first place you can start.
+},
+{
+    136.58,140.3
+     Now you can also use stuff at home like salt and baking soda.
+},
+{
+    140.3,144.78
+     If you mix that up, you can either put a little bit of a concoction right on a toothbrush
+},
+{
+    144.78,147.52
+     and brush it around your teeth and your gums.
+},
+{
+    147.52,151.08
+     That can help reduce the swelling that you have around your gums.
+},
+{
+    151.08,153.88
+     That can also reduce the bleeding that you'll see.
+},
+{
+    153.88,158.0
+     Another thing that you can use is hydrogen peroxide and rinses with hydrogen peroxide.
+},
+{
+    158.0,162.76
+     What that does is it increases the amount of oxygen in your mouth and helps reduce the
+},
+{
+    162.76,164.92
+     overall swelling that you have.
+},
+{
+    164.92,167.52
+     So that's another option that you can do at home.
+},
+{
+    167.52,171.76
+     And finally, what we really like to see is if you continue to see these things coming
+},
+{
+    171.76,175.64
+     in and seeing a periodontist to help treat you professionally if you continue to see
+},
+{
+    175.64,176.64
+     the bleeding.
+},
+{
+    176.64,183.2
+     So, you may be able to treat your bleeding gums at home, that's possible, but sometimes
+},
+{
+    183.2,187.4
+     that can't be done or if you can't do it, we treat it here.
+},
+{
+    187.4,188.4
+     And how do we treat it?
+},
+{
+    188.4,195.52
+     Well, we take a slide, we take a sample from under your gum to see what organisms are there,
+},
+{
+    195.52,200.44
+     to see the parasites, to see the bacteria that are contributing or causing the bleeding
+},
+{
+    200.44,201.64
+     gums.
+},
+{
+    201.64,203.64
+     We then eliminate those.
+},
+{
+    203.64,206.54
+     Our treatment eliminates those bacteria. When
+},
+{
+    206.54,212.76
+     we eliminate those organisms, the gum bleeding, the inflammation stops, the bleeding stops.
+},
+{
+    212.76,217.64
+     Your mouth gets healthier and your body gets healthier. Because if I told you all of the
+},
+{
+    217.64,225.0
+     systemic diseases, the general diseases that are increased by having gum disease, you would be amazed.
+},
+{
+    225.0,227.66
+     I call it the other silent killer.
+},
+{
+    227.66,231.14
+     And the goal is to eliminate all bleeding.
+},
+{
+    231.14,233.94
+     If you can do it with your home care, great.
+},
+{
+    233.94,236.34
+     If not, that's what we do here.
+},
+{
+    236.34,240.12
+     Our goal is to eliminate all infection
+},
+{
+    240.12,242.86
+     and never have any bleeding gums,
+},
+{
+    242.86,246.56
+     which is a cardinal sign of gum disease.
+},
+{
+    246.56,252.56
+     So, have a healthy mouth, you'll have a healthier body, and have a great day.
+},
+{
+    252.56,257.44
+     Restore your smile and your health with the help of Dr. Nemeth and his associates.
+},
+{
+    257.44,264.48
+     Visit drnemeth.com to schedule your appointment today.
+},

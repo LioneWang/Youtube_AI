@@ -1,0 +1,144 @@
+{
+    0.0,32.68
+     Music Hello, my name is Greg Putra, Manager of Cardiopulmonary Diagnostics and Cardiac and
+},
+{
+    32.68,34.68
+     Pulmonary Rehab here at Allegiance Health.
+},
+{
+    34.68,36.72
+     Today we're going to be talking about cardiac stress testing.
+},
+{
+    36.72,41.04
+     The indication for cardiac stress testing is to look at the physiologic effects of your
+},
+{
+    41.04,42.04
+     heart.
+},
+{
+    42.04,44.6
+     We want to look at the rate at which your heart is beating.
+},
+{
+    44.6,48.18
+     We want to look at the response of the heart rate. We also want to look
+},
+{
+    48.18,51.84
+     at the response that you have with blood pressures during the test. So we're
+},
+{
+    51.84,56.38
+     physically looking at the heart physiologic action or the action of the
+},
+{
+    56.38,60.82
+     heart and how it's working under stress. Now the indications for the cardiac
+},
+{
+    60.82,67.12
+     stress test are many. It can be for cardiac evaluation for surgery. They can be for a patient who comes into our emergency
+},
+{
+    67.12,69.64
+     department with chest pain and it's unspecified.
+},
+{
+    69.64,72.32
+     So we have a cardiac stress test to identify whether or not
+},
+{
+    72.32,74.36
+     there's been any type of damage to the heart.
+},
+{
+    74.36,76.64
+     All patients who come in for cardiac stress testing,
+},
+{
+    76.64,78.92
+     independent of the type of test that they have,
+},
+{
+    78.92,81.84
+     have to have a standard 12-lead EKG,
+},
+{
+    81.84,84.24
+     electric cardiogram prep attached to them
+},
+{
+    84.24,86.12
+     so that we can effectively monitor
+},
+{
+    86.12,87.44
+     the rhythm of the heart.
+},
+{
+    87.44,91.32
+     We have a number of cardiac stress tests that we perform and a lot of it depends upon what
+},
+{
+    91.32,95.92
+     we're looking for and the level of the patient's ability to perform a test.
+},
+{
+    95.92,101.2
+     With our cardiac stress testing, obviously we try to get patients to perform exercise.
+},
+{
+    101.2,109.6
+     Exercise is the best way to stimulate the heart and to get an accurate view of how the heart is responding. In many situations, a patient is not physically able to exercise,
+},
+{
+    109.6,114.64
+     so we have to resort to using a chemical stress test, either an adenosine or a debutamine,
+},
+{
+    114.64,119.28
+     to simulate that activity of the heart to evaluate the function, the blood pressure,
+},
+{
+    119.28,125.0
+     the heart rate, and the ECG changes, if any any of the cardiac stress test.
+},
+{
+    125.56,128.64
+     We do probably anywhere from 10 to 15
+},
+{
+    128.64,131.44
+     cardiac stress tests a day, a variety.
+},
+{
+    131.44,135.46
+     Today I think we're doing some half our tests are chemical.
+},
+{
+    135.46,137.24
+     We have many that are walking tests
+},
+{
+    137.24,140.04
+     and we have three or four of the echostress tests.
+},
+{
+    140.04,141.48
+     So we're very versed in it.
+},
+{
+    141.48,143.44
+     It's a very safe procedure.
+},
+{
+    143.44,146.88
+     It's something that's very diagnostic and it's helpful for the cardiologist
+},
+{
+    146.88,150.4
+     and your family physician to determine what your heart is doing.
+},

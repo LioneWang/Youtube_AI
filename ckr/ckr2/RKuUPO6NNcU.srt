@@ -1,0 +1,724 @@
+{
+    0.0,27.0
+     you Good morning. I'm Kristen. I'm here to draw your blood today.
+},
+{
+    27.0,28.0
+     Good morning.
+},
+{
+    28.0,41.0
+     Could you please state your name and date of birth?
+},
+{
+    41.0,45.6
+     Pat White, November 11th. Good morning, I'm Kristen, I'm here to draw your blood today.
+},
+{
+    45.6,46.6
+     Good morning.
+},
+{
+    46.6,48.6
+     Could you please state your name and date of birth?
+},
+{
+    48.6,52.36
+     Pat White, November 11th, 1986.
+},
+{
+    52.36,53.52
+     Thank you.
+},
+{
+    53.52,56.48
+     Have you had anything to eat or drink in the last 12 hours?
+},
+{
+    56.48,57.92
+     Not since nine last night.
+},
+{
+    57.92,58.92
+     Thanks.
+},
+{
+    58.92,59.92
+     Do you have any questions?
+},
+{
+    59.92,60.92
+     No.
+},
+{
+    60.92,62.92
+     All right, it will just take me a minute to get everything set.
+},
+{
+    62.92,67.08
+     Blood collection by Veena Puncture is one of the most common procedures performed in
+},
+{
+    67.08,68.96
+     a healthcare setting.
+},
+{
+    68.96,74.58
+     Common but also complex, requiring knowledge and skill to assure the accuracy and integrity
+},
+{
+    74.58,79.84
+     of the samples drawn and to eliminate risk to both patient and healthcare workers.
+},
+{
+    79.84,85.12
+     The first step is to accurately ID the patient using at least two forms of identification.
+},
+{
+    85.12,89.8
+     Does the name and date of birth on the requisition form match what the patient is telling you?
+},
+{
+    89.8,92.72
+     Does it match what is on the patient ID wristband?
+},
+{
+    92.72,97.28
+     Has the patient followed special orders, such as fasting prior to blood draw?
+},
+{
+    97.28,102.88
+     Address the inconsistency first with a requesting physician or healthcare worker on duty.
+},
+{
+    102.88,107.6
+     But if the given information does agree, it's time to prepare yourself and the patient
+},
+{
+    107.6,111.56
+     for a successful blood draw using proper standard precautions.
+},
+{
+    111.56,114.04
+     The phlebotomist washes and then dons
+},
+{
+    114.04,117.2
+     a clean pair of gloves before proceeding.
+},
+{
+    117.2,120.28
+     Make sure alcohol prep pads, gauze, tape,
+},
+{
+    120.28,123.64
+     the correct gauge needles and required evacuated collection
+},
+{
+    123.64,125.84
+     tubes are with an easy reach for you,
+},
+{
+    125.84,128.56
+     but out of the reach of the patient.
+},
+{
+    128.56,132.88
+     Then speak reassuringly to the patient as you position him for the draw.
+},
+{
+    132.88,138.16
+     I'm all set here. If you'd please straighten your arm.
+},
+{
+    138.16,140.32
+     It'll just take a moment while I apply the tourniquet.
+},
+{
+    140.32,146.0
+     Applying a tourniquet slows the flow of blood in the veins and increases venous filling,
+},
+{
+    146.0,151.0
+     thus making the veins more prominent, easier to locate, and easier to enter.
+},
+{
+    151.0,157.0
+     However, leaving the tourniquet on for longer than one minute may affect laboratory test results
+},
+{
+    157.0,170.88
+     and should therefore be removed and reapplied if the procedure will take longer than one minute. Use your fingertip to palpate the anticubital fossa to locate the median cubital vein.
+},
+{
+    170.88,174.84
+     Palpation helps determine the direction of blood flow in the vein to gauge the vein's
+},
+{
+    174.84,179.12
+     size and depth and to estimate its tendency to roll.
+},
+{
+    179.12,182.44
+     It also helps differentiate veins from arteries.
+},
+{
+    182.44,189.88
+     Unlike veins, arteries have thicker feeling walls and are more elastic to the touch.
+},
+{
+    189.88,194.76
+     Use an alcohol prep pad to cleanse the skin around the site.
+},
+{
+    194.76,200.44
+     In a fluid, circular motion, swab from the center to the periphery of the site, being
+},
+{
+    200.44,207.0
+     careful not to drag the pad back across the cleanse field. Let the area air dry.
+},
+{
+    207.0,211.0
+     This prevents contamination of either the patient or the specimen.
+},
+{
+    211.0,220.0
+     Grasp the patient's arm firmly with your hand, placing your thumb approximately two inches below the intended puncture site.
+},
+{
+    220.0,224.0
+     With your thumb, pull the skin taut over the vein to help anchor it in place.
+},
+{
+    224.0,229.24
+     Then let the patient know you're ready to make the puncture so the patient won't startle and jump.
+},
+{
+    229.24,231.64
+     You'll feel a slight pinch.
+},
+{
+    231.64,235.74
+     Position the needle, bevel side up, and line it up with a vein.
+},
+{
+    235.74,240.5
+     Position the needle so that it forms a 30 degree angle with the surface of the arm.
+},
+{
+    240.5,247.0
+     With a single, short, but firm motion, swiftly insert the needle through the skin and into the vein.
+},
+{
+    247.0,251.0
+     Push the evacuated tube onto the needle when the needle enters the vein.
+},
+{
+    251.0,257.0
+     As the vein aligns with the needle, blood will begin to move out of the vein up into the needle.
+},
+{
+    257.0,262.0
+     Maintain a constant, slight forward pressure on the end of the tube.
+},
+{
+    262.0,266.0
+     The evacuated tubes are color-coded based on their additives.
+},
+{
+    266.0,269.0
+     Know the types of additives and which color tubes
+},
+{
+    269.0,272.0
+     are to be drawn based on requisition.
+},
+{
+    272.0,275.0
+     As soon as blood begins to flow into the collection tube,
+},
+{
+    275.0,277.0
+     instruct the patient to open his hand
+},
+{
+    277.0,279.0
+     and remove the tourniquet from his arm.
+},
+{
+    279.0,282.0
+     Removing the tourniquet allows the blood to return
+},
+{
+    282.0,284.0
+     to its normal rate of flow through the vein
+},
+{
+    284.0,290.28
+     and helps reduce bleeding at the puncture site.
+},
+{
+    290.28,295.78
+     A gentle mixing by inversion at least eight times is required to ensure that any additives
+},
+{
+    295.78,299.44
+     in the tube are incorporated into the blood sample.
+},
+{
+    299.44,301.12
+     We're almost finished here.
+},
+{
+    301.12,302.12
+     Are you doing okay?
+},
+{
+    302.12,310.0
+     Fine. Engage the safety device on the needle and use the sharps device for proper disposal.
+},
+{
+    310.0,319.0
+     Applying pressure at the needle entry site immediately after removing the needle will prevent a hematoma from forming and allow hemostasis to seal the wound.
+},
+{
+    319.0,328.0
+     Please keep pressure on the gauze pad for several minutes to ensure that the blood flow stops.
+},
+{
+    328.0,334.12
+     In this illustration, you can see formation of the platelet plug and the fibrin clot.
+},
+{
+    334.12,338.04
+     Applying pressure at the needle entry site immediately after removing the needle will
+},
+{
+    338.04,343.44
+     prevent a hematoma from forming and allow hemostasis to seal the wound.
+},
+{
+    343.44,348.0
+     In this illustration, you can see formation of the platelet plug and fibrin clot.
+},
+{
+    349.0,355.0
+     Apply the ID label on the filled evacuation tube and store it for transport to the lab.
+},
+{
+    355.0,361.0
+     The label must include at least the patient's ID number, full name, date of birth, and today's date.
+},
+{
+    362.0,365.06
+     Using standard precautions, dispose of needles in a
+},
+{
+    365.06,370.24
+     sharps container, dispense of all other used non-sharp materials, including use
+},
+{
+    370.24,375.78
+     gloves and gauze pads in an approved trash receptacle, and disinfect all
+},
+{
+    375.78,380.84
+     contaminated surface areas. You've just completed a successful blood draw,
+},
+{
+    380.84,385.0
+     providing a sample that can be processed for analysis.
+},
+{
+    385.0,389.0
+     Fortunately, most blood draws are completed in an entirely professional,
+},
+{
+    389.0,394.0
+     skilled, and successful manner. Most, but not all.
+},
+{
+    394.0,399.0
+     Poor technique, poor judgment, lack of knowledge, loss of concentration,
+},
+{
+    399.0,404.0
+     and undue haste, all are factors that can negatively impact the integrity
+},
+{
+    404.0,406.36
+     of a sample, or worse, that can negatively impact the integrity of a sample. Or worse,
+},
+{
+    406.36,412.08
+     that can create undue stress and pain for the patient or cause a patient physical harm.
+},
+{
+    412.08,417.6
+     Let's take a look. Failure to align the needle perfectly with the vein and failure to insert
+},
+{
+    417.6,423.54
+     the needle at a 30 degree angle can result in the needle missing its mark. Poor technique
+},
+{
+    423.54,427.0
+     that will require an unwelcome second needle stick.
+},
+{
+    427.0,431.0
+     Inserting the needle at too steep or too shallow an angle
+},
+{
+    431.0,433.0
+     and not lining up precisely with a vein
+},
+{
+    433.0,437.0
+     are two common reasons for missing the vein.
+},
+{
+    437.0,441.0
+     To the patient, that usually means only one thing,
+},
+{
+    441.0,444.0
+     further anxiety and discomfort.
+},
+{
+    444.0,447.4
+     But it can have other consequences as well.
+},
+{
+    447.4,450.28
+     Serious complications are most likely to arise
+},
+{
+    450.28,452.96
+     when targeting the bacillic vein.
+},
+{
+    452.96,455.12
+     With its close proximity to nerves,
+},
+{
+    455.12,457.24
+     which can be permanently damaged,
+},
+{
+    457.24,460.12
+     or the brachial artery, which could be nicked,
+},
+{
+    460.12,461.76
+     even with a proper angle,
+},
+{
+    461.76,464.5
+     the appropriate needle size must be used.
+},
+{
+    465.78,468.22
+     Ready? You're only gonna feel a very small pinch this time.
+},
+{
+    468.22,469.22
+     Uh-huh.
+},
+{
+    469.22,472.68
+     It is acceptable to use a smaller needle called a butterfly.
+},
+{
+    472.68,477.06
+     However, it should be noted that butterflies are a larger gauge needle,
+},
+{
+    477.06,482.7
+     23 to 25 gauge, and therefore have a smaller bore size.
+},
+{
+    482.7,486.94
+     A large gauge straight needle, 25 gauge in this case,
+},
+{
+    486.94,489.36
+     may make piercing the vein more certain,
+},
+{
+    489.36,491.84
+     but as you can see, the smaller bore size
+},
+{
+    491.84,494.3
+     can cause the red blood cells to lice.
+},
+{
+    495.2,497.28
+     While it appeared to the healthcare professional
+},
+{
+    497.28,499.48
+     that this blood draw was successful,
+},
+{
+    499.48,502.36
+     it's clear once the sample is centrifuged
+},
+{
+    502.36,510.52
+     that the choice of needle gauge was a poor one. The selection compromised the integrity of the sample. Aside from these two
+},
+{
+    510.52,514.88
+     examples of invisible errors, there are many visible signs that a health care
+},
+{
+    514.88,518.8
+     professional may not be following standard precautions that ensure a
+},
+{
+    518.8,528.0
+     quality blood draw as well as a satisfactory customer experience. Music
+},
+{
+    528.0,532.0
+     Music
+},
+{
+    532.0,536.0
+     Music
+},
+{
+    536.0,540.0
+     Music
+},
+{
+    540.0,544.0
+     Music
+},
+{
+    544.0,550.48
+     Music Alright, you're good to go.
+},
+{
+    550.48,551.48
+     That's it?
+},
+{
+    551.48,555.92
+     Yeah, I just need to put some tape on it.
+},
+{
+    555.92,567.0
+     Ah, bandaid, that'll work.
+},
+{
+    567.0,569.0
+     What about this?
+},
+{
+    569.0,572.0
+     Oh, you're good to go.
+},
+{
+    572.0,574.0
+     Good to go?
+},
+{
+    574.0,576.0
+     Not necessarily.
+},
+{
+    576.0,578.0
+     Failure to apply pressure on the puncture site
+},
+{
+    578.0,580.0
+     immediately following removal of the needle
+},
+{
+    580.0,582.0
+     can cause bleeding from the vein
+},
+{
+    582.0,584.0
+     into the space around it,
+},
+{
+    584.0,585.0
+     forming a hematoma,
+},
+{
+    585.0,591.0
+     a collection of blood under the skin surface that will become bruised in appearance and painful to the touch.
+},
+{
+    593.0,599.0
+     There are many times, of course, when a single blood draw involves more than the collection of a single sample.
+},
+{
+    599.0,603.0
+     You may be required to collect as many as 10 tubes in a single draw,
+},
+{
+    603.0,605.68
+     and this requires even greater
+},
+{
+    605.68,611.52
+     skill and careful planning to complete successfully.
+},
+{
+    611.52,616.68
+     Two keys to a successful multiple tube draw must occur in the planning stage.
+},
+{
+    616.68,622.34
+     You need to determine which gauge needle will be appropriate for all tests being requested,
+},
+{
+    622.34,627.88
+     and you need to plan the order of the draw to assure the integrity of all samples.
+},
+{
+    627.88,631.28
+     But your technique should remain the same.
+},
+{
+    631.28,633.64
+     Let's take a few moments to review.
+},
+{
+    633.64,635.66
+     Position the needle, bevel side up,
+},
+{
+    635.66,637.1
+     and line it up with a vein.
+},
+{
+    637.1,639.7
+     Position the needle to form a 30 degree angle
+},
+{
+    639.7,641.26
+     with the surface of the arm.
+},
+{
+    641.26,643.74
+     With a single short but firm motion,
+},
+{
+    643.74,645.32
+     swiftly insert the needle through the skin and into the vein short but firm motion, swiftly insert the needle through
+},
+{
+    645.32,650.4
+     the skin and into the vein. Push the evacuated tube onto the needle when the needle enters
+},
+{
+    650.4,655.64
+     the vein. As the vein aligns with the needle, blood will begin to move out of the vein up
+},
+{
+    655.64,661.2
+     into the needle. Maintain a constant, slight forward pressure on the end of the tube to
+},
+{
+    661.2,665.0
+     prevent release of the shutoff valve.
+},
+{
+    665.0,670.16
+     As soon as blood begins to flow into the collection tube, instruct the patient to open his hand
+},
+{
+    670.16,672.76
+     and remove the tourniquet from his arm.
+},
+{
+    672.76,676.36
+     Removing the tourniquet allows the blood to return to its normal rate of flow through
+},
+{
+    676.36,680.24
+     the vein and helps reduce bleeding at the puncture site.
+},
+{
+    680.24,686.8
+     When performing a multi-tube draw, it is important to follow the correct hospital-mandated order of draw.
+},
+{
+    686.8,689.52
+     Blood cultures are always drawn first.
+},
+{
+    689.52,694.48
+     However, in a routine venopuncture, a light blue tube should be drawn first,
+},
+{
+    694.48,698.96
+     followed by a red top, gold, green, lavender, and gray.
+},
+{
+    698.96,701.44
+     We're almost done here. This is the last tube I need to draw.
+},
+{
+    702.96,706.12
+     When will I know the results? I'm kind of anxious about them.
+},
+{
+    706.12,707.84
+     Your samples will go over to the lab today
+},
+{
+    707.84,710.84
+     and your doctor will notify you after the results are in.
+},
+{
+    710.84,711.96
+     You don't see them?
+},
+{
+    711.96,712.8
+     No, I don't.
+},
+{
+    712.8,714.72
+     The samples that we draw today are
+},
+{
+    714.72,717.6
+     tested by laboratory professionals who relay those results
+},
+{
+    717.6,719.4
+     directly to the physician.
+},
+{
+    719.4,722.76
+     My responsibility is to assure the quality of the samples
+},
+{
+    722.76,725.06
+     I draw so that the results your doctor
+},
+{
+    725.06,729.62
+     receives are both accurate and meaningful. The level of quality and
+},
+{
+    729.62,734.1
+     integrity of the samples the laboratory receives is dependent upon the level of
+},
+{
+    734.1,740.88
+     skill, knowledge and professionalism of the phlebotomist. A big responsibility but
+},
+{
+    740.88,785.46
+     one that can make a real difference in the lives of your patients. Thank you.
+},

@@ -1,0 +1,72 @@
+{
+    0.0,5.0
+     Proper Administration of Ear Drops
+},
+{
+    5.0,10.0
+     by Dr. Christopher Chang of Focker ENT Consultants.
+},
+{
+    10.0,15.0
+     The first step is to pull the ear up and back.
+},
+{
+    15.0,20.0
+     We do this in order to straighten the ear canal so that when you apply the drops,
+},
+{
+    20.0,25.7
+     the drops go as far into the ear canal as possible.
+},
+{
+    25.7,30.36
+     While pulling the ear back, apply the drops followed by pushing on the triggers to force
+},
+{
+    30.36,34.88
+     the drops into the ear as shown.
+},
+{
+    34.88,38.36
+     This needs to be done after each drop application.
+},
+{
+    38.36,47.12
+     Let's take a closer look at what happens in this cross section.
+},
+{
+    47.12,52.04
+     The green arrow is pointing to the ear.
+},
+{
+    52.04,57.24
+     The red arrow is pointing at the eardrum.
+},
+{
+    57.24,62.52
+     The blue arrow is pointing into the space behind the eardrum.
+},
+{
+    62.52,70.0
+     As you can see when applying the drops, most of the drops get stuck right at the ear drum.
+},
+{
+    70.0,75.2
+     If a patient has ear tubes, those drops will not be able to get into the space behind the
+},
+{
+    75.2,87.0
+     ear space.
+},
+{
+    93.0,114.4
+     Given that most ear infections occur in the space behind the ear drum, it is important to get these antibiotic air drops into this region. Failure to push down into the ear canal prevents the anavoc
+},
+{
+    114.4,138.6
+     from getting into the region where it is needed most. Remember to pull back on the ear while applying the drops and pushing down into the ear canal.
+},
+{
+    138.6,141.92
+     We hope this video helps you to apply the drops properly.
+},

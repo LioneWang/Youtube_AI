@@ -1,0 +1,168 @@
+{
+    0.0,5.38
+     With a normal swallow, food and liquids move from the mouth into the esophagus directed
+},
+{
+    5.38,9.46
+     by a precise sequence of coordinated muscle movements.
+},
+{
+    9.46,14.42
+     When a swallow is initiated, the epiglottis flips down protecting the airway.
+},
+{
+    14.42,20.54
+     The cricoferangios muscle, or upper esophageal sphincter, relaxes and opens to allow food
+},
+{
+    20.54,23.46
+     and liquids to pass into the esophagus.
+},
+{
+    23.46,26.8
+     Afterwards, the cricofergeus muscle closes back up
+},
+{
+    26.8,30.88
+     to prevent any regurgitation back up into the throat.
+},
+{
+    30.88,32.44
+     Difficulty-swallowing pills,
+},
+{
+    32.44,36.36
+     but not to foods and liquids, is known as pill dysphagia.
+},
+{
+    36.36,39.92
+     Pill dysphagia is often due to the chrycopheringeus muscle
+},
+{
+    39.92,42.88
+     not opening as wildly as it should.
+},
+{
+    42.88,45.46
+     Because the opening is tighter than normal, large
+},
+{
+    45.46,49.16
+     pills often hang up in the throat leading to symptoms of the pill being
+},
+{
+    49.16,55.72
+     stuck in the throat sensation and even occasional choking or gagging. Further
+},
+{
+    55.72,60.52
+     medical investigation of pill dysphagia often shows nothing physically abnormal.
+},
+{
+    60.52,65.92
+     Rather, the muscle tightness is often due to mental factors like anxiety over pill
+},
+{
+    65.92,71.6
+     swallowing. As such, treatment involves learning simple strategies to help swallow pills more easily.
+},
+{
+    72.88,77.92
+     The pop-up bottle method was designed by German researchers with the intention of helping people
+},
+{
+    77.92,83.84
+     swallow dense tablets. To swallow tablets, the pop-up bottle way, you'll need a water bottle
+},
+{
+    83.84,85.48
+     with a narrow opening.
+},
+{
+    85.48,88.12
+     Start by placing the pill on your tongue.
+},
+{
+    88.12,92.6
+     Then bring the water bottle to your mouth and close your lips tightly around the opening.
+},
+{
+    92.6,96.88
+     While keeping contact between the bottle and your lips, use a sucking motion to swallow
+},
+{
+    96.88,99.04
+     the water and tablet.
+},
+{
+    99.04,102.92
+     Keep in mind that this method doesn't work as well with capsules since they have air
+},
+{
+    102.92,105.28
+     inside and weigh less than water.
+},
+{
+    105.28,110.56
+     For both capsules as well as tablets, one can try the lean forward method.
+},
+{
+    110.56,114.94
+     Start with your chin up and your shoulders back as you place the pill in your mouth.
+},
+{
+    114.94,119.32
+     Then take a medium sized sip of water, tilt your head forward touching your chin to your
+},
+{
+    119.32,120.8
+     chest.
+},
+{
+    120.8,123.8
+     Swallow the pill and water while your head is kept bent.
+},
+{
+    123.8,127.56
+     The idea is to move the pill back towards your throat as you tilt your head forward
+},
+{
+    127.56,130.76
+     and give you something else to focus on as you swallow.
+},
+{
+    130.76,136.44
+     Finally, you can bury the tablet or capsule in applesauce pudding or other soft food.
+},
+{
+    136.44,140.06
+     This tricks your brain to swallow something you're already used to swallowing.
+},
+{
+    140.06,144.44
+     Place the pill on top of a tip of a teaspoon and cover it in a fruit puree or pudding of
+},
+{
+    144.44,145.42
+     your choice.
+},
+{
+    145.42,149.42
+     Then swallow.
+},
+{
+    149.42,153.84
+     There are a variety of swallow aids as well one can try.
+},
+{
+    153.84,158.5
+     One can grind a pill into powder or use a pill splitter to swallow smaller pieces one
+},
+{
+    158.5,159.74
+     by one.
+},
+{
+    159.74,169.12
+     One can also apply a pill coating lubricant or spray a lubricant to the back of the throat to make the pill or throat respectively more slippery to make it easier to swallow.
+},

@@ -1,0 +1,64 @@
+{
+    0.0,8.94
+     Hi y'all. During these stressful times, I'm here to talk to you about some very important
+},
+{
+    8.94,14.6
+     exercises to perform. My name is Rohini Bohalkar. I'm a physical therapist and this is Nick.
+},
+{
+    14.6,19.4
+     He's a cold out and we are going to demonstrate some exercises together to increase your lung
+},
+{
+    19.4,27.0
+     capacity. So let's start with diaphragmatic breathing. Take a breath in, put your hands on your tummy.
+},
+{
+    27.0,32.0
+     And as you take a breath in, feel the stomach expanding outwards.
+},
+{
+    32.0,41.0
+     And this time breathe out through your core, slips like as if you were blowing a candle for twice the amount of time.
+},
+{
+    41.0,45.28
+     And take a breath in again once more.
+},
+{
+    45.28,58.48
+     And breathe out. Great. Let's move up higher. Put your hands over your ribs. Now expand the ribs out. Take a breath in.
+},
+{
+    58.48,62.0
+     And breathe out.
+},
+{
+    62.64,65.0
+     Great. Let's do the third exercise. When you take a breath in, this time you're going to bring the third exercise.
+},
+{
+    65.0,70.0
+     When you take a breath in, this time you are going to bring the arms upwards.
+},
+{
+    70.0,76.0
+     And again, remember, you breathe out at a point in the amount of time.
+},
+{
+    76.0,80.0
+     Go slow, breathe out, and bring the arms down.
+},
+{
+    80.0,89.4
+     Great. And the last one is meant to remove any secretions from your lungs. So you take
+},
+{
+    89.4,97.44
+     a breath in, feel the stomach popping out and breathe out as in a hug. So let's see
+},
+{
+    97.44,111.6
+     you do that. Keep your mouth open and do a hug again. Great. These are four simple exercises during these times. Thank you.
+},

@@ -1,0 +1,348 @@
+{
+    0.0,5.6
+     One of the most common causes of knee pain among athletes and active people is a fancy
+},
+{
+    5.6,7.68
+     term called patellofemoral pain.
+},
+{
+    7.68,9.96
+     It's a pain in the front of the knee.
+},
+{
+    9.96,14.76
+     If you have patellofemoral pain, we want to show you some exercises that you can do to
+},
+{
+    14.76,15.76
+     get over it.
+},
+{
+    15.76,20.12
+     I'm Dr. David Geyer, orthopedic surgeon and sports medicine specialist here with my friend
+},
+{
+    20.12,24.36
+     and physical therapist from Maine to Move Physical Therapy, Eve Gigi.
+},
+{
+    24.36,25.44
+     This is really common. In
+},
+{
+    25.44,31.6
+     clinic today, I saw four people that have patellofemoral pain. We think it's about a quarter
+},
+{
+    31.6,38.56
+     of all cases of knee pain, knee injuries among all active people. It's pretty straightforward.
+},
+{
+    38.56,45.4
+     It's an overload or over stressing, I suppose, of the pressure underneath the kneecap.
+},
+{
+    45.4,49.96
+     Typically manifests as pain going up and down stairs, pain when you sit for long periods
+},
+{
+    49.96,51.84
+     of time or when you get up from a chair.
+},
+{
+    51.84,53.64
+     It's usually not structural damage.
+},
+{
+    53.64,56.78
+     If you get an MRI, it's going to come back completely normal.
+},
+{
+    56.78,61.04
+     So it's something that we can get you through either with some exercises like we're going
+},
+{
+    61.04,65.1
+     to show you or formally working with a physical therapist.
+},
+{
+    65.1,70.12
+     So the first one we're going to do for telephemeral pain, as Dr. Geyer said, it's usually those
+},
+{
+    70.12,73.62
+     areas right on the front of the knee that are causing a lot of the pain.
+},
+{
+    73.62,78.14
+     So we want to start greasing the wheels a little bit and start exercising those areas
+},
+{
+    78.14,80.36
+     to see if they can feel better.
+},
+{
+    80.36,84.28
+     So the first exercise we're going to do is a very simple exercise called the step down
+},
+{
+    84.28,89.84
+     exercise. So the first exercise we're going to do is a very simple exercise called the step down exercise We're using a little block here, but you can at home just use the last stair
+},
+{
+    89.94,93.32
+     You know in your set of stairs or a lip something like that
+},
+{
+    93.32,98.12
+     So we're gonna put let's just say it's the right knee is the knee that's feeling some of the pain
+},
+{
+    98.16,99.88
+     We're gonna put that up on the step
+},
+{
+    99.88,106.26
+     Okay, and then we're going to actually do what's a little similar to a single leg squat
+},
+{
+    106.26,109.3
+     So you're actually going to put all the weight on the on the right leg
+},
+{
+    109.6,114.6
+     Yep, stand up big and tall you're going to straighten that right knee and then you're going to bend that right knee
+},
+{
+    115.52,118.86
+     Bend the right knee. Yep, and you're going to tap the heel to the floor
+},
+{
+    119.58,131.08
+     Some of the biggest mistakes we see people make is that they actually want to go up on the toes on this right side and you want to make sure and keep that heel very, very flat.
+},
+{
+    131.08,136.28
+     The other thing is you want to pretend there's an egg under that left heel.
+},
+{
+    136.28,138.4
+     I'm not doing that very well.
+},
+{
+    138.4,140.2
+     Don't crush my egg is what I tell my patients.
+},
+{
+    140.2,141.28
+     So you do not want to crush egg.
+},
+{
+    141.28,148.8
+     You want to just tap it and come right back up. This can be a very tough exercise if you need something to hold on to or you need to make
+},
+{
+    148.8,154.16
+     the step a little bit smaller, you know, modify it for your needs. I like that. That's really good.
+},
+{
+    154.16,159.36
+     It really makes all the little muscle fibers have to kind of work together. A little bit of
+},
+{
+    159.36,163.6
+     coordination involved in that, but that's really good. Yeah, absolutely. So the next one, we're
+},
+{
+    163.6,170.0
+     going to move this block here. Yep. You got it? Yeah. Yep. All right. So the next one we're going to do is just
+},
+{
+    170.0,176.32
+     a single leg deadlift or a single leg RDL. Again, this one's great for working those little stabilizing
+},
+{
+    176.32,180.96
+     muscles in the knee. So to switch things up, we're going to pretend it's the left knee this time.
+},
+{
+    180.96,191.44
+     Okay. So you're going to put all the weight on the left knee and you're actually going to hinge forward and let this right leg come out behind you. Yeah, I'm gonna karate chop this
+},
+{
+    191.44,198.64
+     thing. Yep. Good. And then come back forward. The big thing here is that whatever knee position,
+},
+{
+    198.64,203.68
+     it's gonna be a little bit soft. You want to keep that knee position. What I see a lot of patients do
+},
+{
+    203.68,206.52
+     is as they lunge forward or hinge forward, they want to bend that knee more. I want to keep that knee position. What I see a lot of patients do is as they lunge forward
+},
+{
+    206.52,208.88
+     or hinge forward, they want to bend that knee more.
+},
+{
+    208.88,210.36
+     I want to keep it stable.
+},
+{
+    210.36,212.52
+     I want to keep it strong.
+},
+{
+    212.52,215.88
+     Do anywhere from five to 10 reps on each side,
+},
+{
+    215.88,217.16
+     two to three sets.
+},
+{
+    217.16,218.6
+     You'll feel that in your glutes.
+},
+{
+    218.6,219.56
+     You'll feel that in your quad.
+},
+{
+    219.56,222.24
+     Your hamstrings are probably going to feel that all over.
+},
+{
+    222.24,224.24
+     I see a lot of people at my gym doing that.
+},
+{
+    224.24,226.72
+     So it's got to be good for a lot of different
+},
+{
+    226.72,227.72
+     things.
+},
+{
+    227.72,228.72
+     Yeah, absolutely.
+},
+{
+    228.72,229.72
+     Cool.
+},
+{
+    229.72,233.88
+     So the last one that we're going to do is just a very simple reverse lunge, right?
+},
+{
+    233.88,237.84
+     So a normal lunge, usually putting a lot of pressure on the front of the knee.
+},
+{
+    237.84,242.36
+     So this is a very simple modification to start offloading the knee a little bit, but still
+},
+{
+    242.36,244.48
+     working a lot of those muscles, okay?
+},
+{
+    244.48,246.42
+     So usually in a wrangler lunge, right, you a lot of those muscles. So usually in a regular lunge,
+},
+{
+    246.42,248.18
+     you're kind of pushing forward,
+},
+{
+    248.18,249.3
+     you're taking a step forward.
+},
+{
+    249.3,253.24
+     So instead, we're actually gonna take a step backwards.
+},
+{
+    253.24,255.66
+     And again, we'll make sure this is the left knee this time.
+},
+{
+    255.66,257.86
+     Okay, so I'm going back this way.
+},
+{
+    257.86,259.62
+     Go actually opposite.
+},
+{
+    259.62,261.86
+     So left knee is the one that you're gonna keep forward.
+},
+{
+    261.86,262.7
+     Yep.
+},
+{
+    263.54,267.98
+     The big thing here is you can see, Dr.ajun, great job is keeping this shin very,
+},
+{
+    267.98,270.22
+     very upright and then coming back forward.
+},
+{
+    270.62,273.74
+     I would still alternate both sides when you're doing this exercise, right?
+},
+{
+    273.74,278.0
+     Do five on the left, five on the right, or maybe alternate back and forth.
+},
+{
+    278.22,282.18
+     But this is a great exercise again to work some of the muscles in and around the hip
+},
+{
+    282.18,288.68
+     joint, in and around the knee joint and keep them strong strong and stable and hopefully get you on the road to recovery.
+},
+{
+    288.68,292.4
+     Yeah, now that's really good.
+},
+{
+    292.4,297.44
+     This is a diagnosis that is going to get better, but it takes some time.
+},
+{
+    297.44,299.96
+     If you just leave it alone, you're not going to get worse.
+},
+{
+    299.96,302.44
+     It will just keep nagging at you.
+},
+{
+    302.44,306.08
+     If you commit to 10 minutes of work on some simple
+},
+{
+    306.08,312.24
+     things, you can eliminate just a ton of your pain and you can play the way you want as
+},
+{
+    312.24,317.84
+     well as you want. Check Eve out on social media. His links are down below this video.
+},
+{
+    317.84,322.4
+     All kinds of great physical therapy and injury prevention information. Make sure to check
+},
+{
+    322.4,324.6
+     out our other videos and we'll see you next time.
+},

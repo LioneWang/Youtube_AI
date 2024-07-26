@@ -1,0 +1,852 @@
+{
+    0.0,4.32
+     Hey guys, I'm Sebastian at Forints Play Sports Care. We're going to cover a sports hernia exam
+},
+{
+    4.32,8.64
+     today. Many of you have been looking online for what an examination might look like with a sports
+},
+{
+    8.64,13.76
+     hernia, trying to confirm your sports hernia diagnosis. So I'm one half of the locally
+},
+{
+    13.76,17.84
+     world famous chiropractors in Orange County, California. Come see us if you have growing pain.
+},
+{
+    17.84,22.16
+     So the ear we're talking about with the sports hernia is we're talking about right around here
+},
+{
+    22.16,26.64
+     around the flank and just into the center here, where it's still kind of
+},
+{
+    26.64,32.16
+     fleshy. You can have pain here or here or here, that's associated, but a lot of
+},
+{
+    32.16,34.48
+     time people experience it right here when they do so.
+},
+{
+    34.48,37.52
+     And so the first thing we're going to do, go ahead and stand right here.
+},
+{
+    37.52,40.88
+     I'll pull back just so we can see the exam. So stand right there and just make
+},
+{
+    40.88,45.66
+     sure the cameraman gets all of her body. And so usually what indigamination will look like
+},
+{
+    45.66,48.2
+     is it'll take you through a variety of movements
+},
+{
+    48.2,50.34
+     just to see if we can challenge certain structures.
+},
+{
+    50.34,55.14
+     Cause if in theory, if your abdominal area has been torn,
+},
+{
+    55.14,58.04
+     it'll present itself with some type of movement.
+},
+{
+    58.04,60.66
+     A lot of you will say, well, it only hurts when I run,
+},
+{
+    60.66,62.54
+     but we can simulate stuff like that,
+},
+{
+    62.54,65.68
+     walking upstairs, deep hip flexion
+},
+{
+    65.68,68.04
+     to really challenge the area.
+},
+{
+    68.04,72.96
+     This will also screen out other types of diagnosis like hip impingement, laboral tears, referral
+},
+{
+    72.96,74.72
+     from the spine and so on.
+},
+{
+    74.72,77.12
+     So go ahead and feet together for me.
+},
+{
+    77.12,78.44
+     Bend forward as far as you can.
+},
+{
+    78.44,80.44
+     Let me know if any of this bothers you.
+},
+{
+    80.44,81.44
+     And come on back up.
+},
+{
+    81.44,83.76
+     Give me one more of those, okay?
+},
+{
+    83.76,85.9
+     Usually I'll stand in front of them just to look and see.
+},
+{
+    85.9,87.1
+     Going back up again.
+},
+{
+    87.1,90.2
+     Can you bend backwards as far as you can?
+},
+{
+    90.9,93.3
+     Now, sometimes people with groin pain don't like this.
+},
+{
+    93.3,94.3
+     Go ahead and come back up.
+},
+{
+    94.3,96.3
+     They'll feel like it comes into here a little bit.
+},
+{
+    96.3,99.4
+     And so, an easy thing to do is hands on the hips now.
+},
+{
+    99.4,102.0
+     Push the hips forward. Don't try to lean back.
+},
+{
+    102.0,104.8
+     And so now we're pushing more extension through the hip
+},
+{
+    104.8,106.6
+     versus the abdominal area.
+},
+{
+    106.6,111.2
+     Because again, if that abdominal area really has a strain or a tear, then we're challenging
+},
+{
+    111.2,113.64
+     it via a stretching mechanism.
+},
+{
+    113.64,118.04
+     So other things, do a little teapot, go like that for me, and like that.
+},
+{
+    118.04,123.48
+     We're also testing some hip range in motion and giving a little slow twisty twist.
+},
+{
+    123.48,126.04
+     As you see, Mary Lou's hips are rotating nicely as well as the rest of her body too. That way it looks a little slow twisty twist. As you see, Mary Lou's hips are rotating nicely,
+},
+{
+    126.04,127.38
+     as well as the rest of her body too.
+},
+{
+    127.38,129.24
+     That way looks a little sticky,
+},
+{
+    129.24,132.8
+     but she can turn generally and look over her shoulder.
+},
+{
+    132.8,133.96
+     Let's try a deep squat now.
+},
+{
+    133.96,135.46
+     The best squat that you can do.
+},
+{
+    137.52,138.68
+     Good, come on back up.
+},
+{
+    138.68,139.96
+     Try a couple of these.
+},
+{
+    142.0,144.6
+     Mary Lou likes to shift to this side of her body.
+},
+{
+    144.6,149.64
+     And so there's, it's actually very common that people have groin pain in the side that
+},
+{
+    149.64,150.8
+     they shift weight to.
+},
+{
+    150.8,152.92
+     She might have had a left turn to ankle before.
+},
+{
+    152.92,153.92
+     Did you?
+},
+{
+    153.92,154.92
+     Did you?
+},
+{
+    154.92,155.92
+     Yeah.
+},
+{
+    155.92,156.92
+     There you go.
+},
+{
+    156.92,160.0
+     So, some of you will probably wonder like why this happened?
+},
+{
+    160.0,161.0
+     Why just keep happening?
+},
+{
+    161.0,163.32
+     Like, so the body likes to compensate.
+},
+{
+    163.32,167.12
+     It does not always painful to compensate, but but when it when you have to compensate,
+},
+{
+    167.12,171.52
+     sometimes overload in that area produces the problem.
+},
+{
+    171.52,174.32
+     So it's more of an underutilization of the other side of the body.
+},
+{
+    174.32,175.52
+     At least maybe in her case.
+},
+{
+    175.52,178.08
+     Now let's take an actually stress test to hit a little bit.
+},
+{
+    178.08,179.44
+     Go online, you're back for me.
+},
+{
+    182.24,184.88
+     Now, I know I mentioned hip a lot already,
+},
+{
+    184.88,188.48
+     but it's good practice to make sure that when
+},
+{
+    188.48,193.2
+     you're being examined for spartania that we need to make sure we stress test the area
+},
+{
+    193.2,197.72
+     here, which we'll do in a second, but also look at the area surrounding such as the hip
+},
+{
+    197.72,199.12
+     and the lower back.
+},
+{
+    199.12,206.4
+     We won't do the lower back too much today, but we will do a couple tests which are their neural tension test because
+},
+{
+    206.4,209.52
+     sometimes the referral from the back is really common here.
+},
+{
+    209.52,211.68
+     So the first thing we're going to do is stress test the area here.
+},
+{
+    211.68,214.04
+     And if she walks in like this, we can do this.
+},
+{
+    214.04,216.36
+     But if she's just lit up, we probably wouldn't want to do this.
+},
+{
+    216.36,217.36
+     Okay.
+},
+{
+    217.36,219.6
+     I'm going to put my fingers just kind of in the fleshy area down there.
+},
+{
+    219.6,220.6
+     Okay.
+},
+{
+    220.6,222.36
+     And so maybe that's where you feel your symptoms.
+},
+{
+    222.36,225.76
+     Can you do a little quarter sit up for me? And down.
+},
+{
+    225.76,227.92
+     And again, and down.
+},
+{
+    227.92,228.76
+     One more.
+},
+{
+    229.64,230.48
+     No problems with that?
+},
+{
+    230.48,231.32
+     No.
+},
+{
+    231.32,232.16
+     Good.
+},
+{
+    232.16,235.84
+     And so we're looking for, is a clear divot forming or a lag.
+},
+{
+    235.84,236.68
+     Okay.
+},
+{
+    236.68,239.08
+     And so when we find that, there's a possibility
+},
+{
+    239.08,241.04
+     that you do in fact have a sports hernia.
+},
+{
+    241.04,242.76
+     Since if we're looking at a sports hernia,
+},
+{
+    242.76,246.72
+     it's gonna be a tearing of the of the
+},
+{
+    246.72,251.68
+     fascia down there but if there's not really anything found in this then you probably don't have it.
+},
+{
+    251.68,258.4
+     Now some people will say that you do tests like push me that way like a resisted adductor one that
+},
+{
+    258.4,263.36
+     will light them up. Yeah it'll probably light them up and if you get a cut on your hand you decided
+},
+{
+    263.36,265.16
+     to punch a wall or squeeze it
+},
+{
+    265.16,266.86
+     a lot and probably hurt it too.
+},
+{
+    266.86,271.18
+     It's not an indication that this is actually a sports hernia but it will give, it'll give
+},
+{
+    271.18,274.24
+     some light about what movements bother her you know.
+},
+{
+    274.24,280.64
+     So you could do a MRI or ultrasound, most people don't need it but that'll confirm beyond
+},
+{
+    280.64,284.94
+     reasonable doubt if there's actually a tissue disruption or a tear within the sports hernia
+},
+{
+    284.94,285.44
+     area.
+},
+{
+    285.44,288.16
+     I'm also able to do not need it before starting care.
+},
+{
+    288.16,290.52
+     All I need is an exam just like this.
+},
+{
+    290.52,295.36
+     So the next thing you like to do is stress test the area, specifically more on the hip,
+},
+{
+    295.36,301.32
+     and I'm going to be looking right here to see if she has any tendencies of not using
+},
+{
+    301.32,305.16
+     or not being able to stiffen her spine because if she can't then she'll
+},
+{
+    305.16,311.48
+     have overload into that region too. Go ahead and hold me. Good and relax. Does that hurt you?
+},
+{
+    311.48,318.96
+     Good. Pull me down. Hamstring curl. Good. Kick me up. Good. And we'll do the one
+},
+{
+    318.96,327.76
+     that everyone likes to do. Pull that way. Good. And the other way. Good. So we stress tested the air rib pretty good.
+},
+{
+    327.76,331.76
+     All right. Not highly sensitive. Why did we do the hamstring curl one and stuff?
+},
+{
+    331.76,335.52
+     Because all those muscles cross the hip. And as we know at this point in time,
+},
+{
+    335.52,340.72
+     when you if you have a sports hernia or groin pain, you're going to have some type of hip problem.
+},
+{
+    340.72,345.4
+     Whether it's underutilized or overutilized or muscular imbalances, you're going to have
+},
+{
+    345.4,350.28
+     some type of hip problem, so we need to normalize the function of the hip.
+},
+{
+    350.28,352.52
+     That's probably the most important takeaway in this.
+},
+{
+    352.52,354.02
+     Most people don't need surgery.
+},
+{
+    354.02,356.36
+     They need to make sure their body is working well.
+},
+{
+    356.36,361.36
+     The next thing we can do is something, this is more examination deep within the hip socket,
+},
+{
+    361.36,365.36
+     but I like to grab the leg right here and hold it nice and firm. We're going to scour the socket of the hip socket, but I like to grab the leg right here and hold it nice and firm.
+},
+{
+    365.36,367.84
+     And so we're gonna scour the socket of the hip.
+},
+{
+    367.84,372.5
+     And so I'm gonna push her hip up into the hip socket
+},
+{
+    372.5,376.46
+     and then a rub of the rim and see if it lights her up or not.
+},
+{
+    376.46,379.92
+     For a lot of people, going across the body like this
+},
+{
+    379.92,382.72
+     will light them up and they're like, yeah, that's my symptom.
+},
+{
+    382.72,391.04
+     In that case, this is probably not a sport turnia. It's probably hip impingement. If it's a deep clunk and a painful clunk and click
+},
+{
+    391.04,395.04
+     and associated with this test or they're just blocked, they can't go in and they can't turn like
+},
+{
+    395.04,400.32
+     this, this is probably more of a labor issue. Okay. And that's a labrum of the hip. We'll also
+},
+{
+    400.32,406.6
+     check the outer part. We'll, we'll drive into different quadrants of the hip.
+},
+{
+    407.72,410.28
+     And generally we can see her hip moves nicely.
+},
+{
+    411.08,412.06
+     Is it functioning well?
+},
+{
+    412.06,413.16
+     That's a different story,
+},
+{
+    413.68,416.64
+     but it doesn't seem like there's any large arthritic findings in there.
+},
+{
+    416.66,419.08
+     There's nothing we need to do surgically to this hip.
+},
+{
+    420.04,423.52
+     And lastly, as we see, if this is a positive,
+},
+{
+    423.64,425.68
+     this is called the, uh, for bears test. Now usually we'll look at the other side to see if this is a positive, this is called the the, uh, for bears test.
+},
+{
+    426.6,428.64
+     Now, usually we'll look at the other side to see if there's
+},
+{
+    428.68,430.32
+     asymmetries with range of motion.
+},
+{
+    431.28,432.32
+     I don't know what we're going to find on her.
+},
+{
+    432.32,436.04
+     I'll stay over here just because the camera angle, but this
+},
+{
+    436.04,437.2
+     side feel a little tighter for you.
+},
+{
+    437.24,437.96
+     Or is that your phone?
+},
+{
+    439.8,440.16
+     Okay.
+},
+{
+    440.6,446.36
+     And so going outwards here, I'm looking at generally knee to foot position here.
+},
+{
+    446.36,450.76
+     Roughly, let's just say that's one hour for doing a clock, a big clock.
+},
+{
+    450.76,452.6
+     I don't know what this one will do.
+},
+{
+    452.6,456.4
+     This one's like two hours, three hours.
+},
+{
+    456.4,459.2
+     So a lot more range on this side.
+},
+{
+    459.2,462.2
+     And in the squatting pattern, you didn't put weight on this side.
+},
+{
+    462.2,464.2
+     So this side's getting a little extra work.
+},
+{
+    464.2,469.12
+     Okay. We do all the same tests on the other side of the body and go ahead and we're
+},
+{
+    469.12,473.6
+     going to do one last one as a test to see if this is maybe from the back. Go ahead and
+},
+{
+    473.6,481.6
+     go see it for me. These tests are a little bit more out of order. If we were in a real
+},
+{
+    481.6,486.84
+     setting here we'd screen the spine out first. Do you need images to do the spine?
+},
+{
+    486.84,488.24
+     No, you don't.
+},
+{
+    488.24,491.68
+     You don't need an image to confirm if you have a disc herniation or a pinch nerve or
+},
+{
+    491.68,492.68
+     any of that stuff.
+},
+{
+    492.68,493.92
+     It's extra information.
+},
+{
+    493.92,495.04
+     It's not bad.
+},
+{
+    495.04,496.4
+     It's not needed though.
+},
+{
+    496.4,499.12
+     In most cases, we can do it all like this.
+},
+{
+    499.12,501.64
+     The next thing we're going to have Mary Lou do is just scoot you back a little bit for
+},
+{
+    501.64,503.68
+     me.
+},
+{
+    503.68,505.74
+     Can you go ahead and get real depressed?
+},
+{
+    506.24,511.96
+     Head down even. There you go. Some people this will actually create their groin pain.
+},
+{
+    511.96,519.32
+     And so there's nothing really changing much of the hip. In fact, the hip itself will actually open up range here
+},
+{
+    519.32,524.0
+     because she's in a posterior tilt. The ab wall, do you feel like your abs are working at all?
+},
+{
+    524.32,527.2
+     They're not doing anything, right? They're not stretching because she's not
+},
+{
+    527.2,531.4
+     extending. They're not contracting hard because she's not really throwing
+},
+{
+    531.4,535.2
+     anything or running. But this stresses another part of the body which is the
+},
+{
+    535.2,540.16
+     backside of the spine and this would be more confirming of maybe a disc. Okay? And
+},
+{
+    540.16,543.6
+     so this one's an interesting one and you can actually double down on it. Go ahead
+},
+{
+    543.6,545.0
+     and grab the edges of the table.
+},
+{
+    545.0,547.6
+     Don't move your body and go ahead and pull the seat.
+},
+{
+    547.6,549.6
+     There you go right there and just relax.
+},
+{
+    549.6,550.6
+     Good.
+},
+{
+    550.6,552.8
+     So if that increases it, this is a further confirmation.
+},
+{
+    552.8,554.0
+     We're looking at low back disc.
+},
+{
+    554.0,561.6
+     Again, easy to address, but it's really commonly associated with sports hernia presentation
+},
+{
+    561.6,562.8
+     or groin pain.
+},
+{
+    562.8,564.4
+     How does it refer to there?
+},
+{
+    564.4,568.32
+     You got to trust me on this because this is probably a way of a whole nother video on our channel on this specifically
+},
+{
+    568.32,571.72
+     But I won't spend time on it doing this today. Here's the last test go ahead and stand
+},
+{
+    573.08,575.08
+     This test turned towards me
+},
+{
+    575.4,577.0
+     just knee up
+},
+{
+    577.0,581.2
+     And just stay a lot of times people will have pain with this and they'll have the
+},
+{
+    581.56,585.56
+     Duplication of the groin issues that they came in for.
+},
+{
+    585.56,587.6
+     This can irritate a spore, turnia, FAI,
+},
+{
+    587.6,589.12
+     or hip impingement, lay-wheels, hairs,
+},
+{
+    589.12,591.04
+     even some low back of the side.
+},
+{
+    591.04,593.68
+     Generally you should be able to do about 10 seconds pain-free,
+},
+{
+    593.68,596.36
+     but a lot of times people will be able to,
+},
+{
+    596.36,597.68
+     they'll do 10 seconds, but they're like,
+},
+{
+    597.68,599.0
+     yeah, that hurts.
+},
+{
+    599.0,602.08
+     And so a good test after is to give an intervention,
+},
+{
+    602.08,603.0
+     go and relax.
+},
+{
+    603.0,605.36
+     You give an intervention such as a treatment
+},
+{
+    609.44,614.96
+     or position of comfort. Something that chills their pain down and have them retest. And so that's all we really have to do with the good physical exam for sports hernia.
+},
+{
+    614.96,622.32
+     Sports hernias do not need a lot of equipment nor expensive images to really find out what's
+},
+{
+    622.32,627.8
+     going on. And so if you think you have a sports hernia or if you don't know what the heck it is even, find someone
+},
+{
+    627.8,630.92
+     who can do this. If you don't know anyone around who can do it or if your
+},
+{
+    630.92,635.32
+     clinician didn't do it for you, you can come see us. All right? We have online as
+},
+{
+    635.32,639.52
+     well as in-person availability. So all you have to do is start the process and
+},
+{
+    639.52,648.64
+     just talk to us. So email us info at p2sportscare.com or call 714-390-704-502-4243
+},
+{
+    649.44,653.76
+     and we'll take you through the process. If you feel like you don't want to talk to us at all yet,
+},
+{
+    654.4,658.8
+     at least go on to our channel, subscribe. There's a little button somewhere. It's red.
+},
+{
+    659.36,663.2
+     And for the people who subscribe, there's a search bar right there and you can search
+},
+{
+    663.2,669.36
+     what you want to look for. We have a lot of sports hernia videos that you can certainly watch and if you feel like
+},
+{
+    669.36,672.56
+     you're resonating well with it, just reach out for help because people try to do this
+},
+{
+    672.56,674.2
+     stuff by themselves all the time.
+},
+{
+    674.2,678.92
+     It takes months to years and it's really frustrating not being able to do what you want to do.
+},
+{
+    678.92,681.4
+     So yeah, do you have any questions?
+},
+{
+    681.4,682.4
+     Talk to us.
+},
+{
+    682.4,682.6
+     See you.
+},

@@ -1,0 +1,724 @@
+{
+    0.0,9.0
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    9.0,12.0
+     Hi folks, I'm Bob Schrupp physical therapist
+},
+{
+    12.0,13.0
+     Brad Heideck physical therapist
+},
+{
+    13.0,15.0
+     Because we are the most famous physical therapists on the internet
+},
+{
+    15.0,16.0
+     In our opinion of course
+},
+{
+    16.0,19.0
+     Bob and Brad, now Brad is going to say these words
+},
+{
+    19.0,21.0
+     and we're going to see if he says them correctly
+},
+{
+    21.0,23.0
+     because I don't know how to say them so
+},
+{
+    23.0,28.84
+     Okay, these are diagnosis of back problems and they're actually quite prevalent across
+},
+{
+    28.84,33.44
+     society but the thing is is when a doctor says this to you, you're going to say, oh
+},
+{
+    33.44,37.52
+     my god I have this, we're going to explain to you what you have, it's not as bad as
+},
+{
+    37.52,38.52
+     these words are.
+},
+{
+    38.52,39.52
+     Right.
+},
+{
+    39.52,40.52
+     The first one is spondylosis.
+},
+{
+    40.52,41.52
+     Spondylosis.
+},
+{
+    41.52,42.52
+     Spondylosis.
+},
+{
+    42.52,44.92
+     The second one is spondylosis.
+},
+{
+    44.92,49.16
+     Spondylosis. And the last one is spondylolisis Spondylysis and the last one is spondylolis thesis
+},
+{
+    49.16,52.84
+     Spondylolis thesis, they say D
+},
+{
+    52.84,55.44
+     Spondylolis thesis, wow
+},
+{
+    55.44,59.04
+     Anyways you can google it and they'll actually pronounce it for you
+},
+{
+    59.04,64.72
+     They all sound like they're almost the same thing but they're all really quite different to some extent
+},
+{
+    64.72,68.32
+     Right, especially the first one to the last one that we talked about.
+},
+{
+    68.32,72.04
+     So let's do that. Let's just go through them one at a time in case you have this
+},
+{
+    72.04,75.32
+     and you're kind of wondering what do I have my especially the first is
+},
+{
+    75.32,81.4
+     spondylosis. Right. It's not a big deal. This is what really almost
+},
+{
+    81.4,85.6
+     probably everybody has to some extent as you get older, right? It's just regular
+},
+{
+    85.88,93.04
+     Wearing tear where if you look it up. It says wear normal wear and tear on the back and an interesting thing is spondy
+},
+{
+    93.68,99.56
+     That I believe it's Greek or Latin. It just means vertebra. Oh, it does right so that's a base
+},
+{
+    99.56,103.8
+     They're talking about that's why all three of these have the first and also says like just an abnormality
+},
+{
+    103.8,104.04
+     That's why all three of these have the first and all this is like just an abnormality
+},
+{
+    108.68,114.36
+     Isn't it? If you break these words down it becomes not so scary So that one is really not a scary one because again like I said almost probably everybody has a little bit of that
+},
+{
+    114.36,120.6
+     When you get over 60 years old you probably could even I would say yeah, I'm definitely yeah, I've got all three of these
+},
+{
+    122.08,125.32
+     Okay, and so we're gonna talk about some exercises
+},
+{
+    125.32,126.56
+     for all of these at the end,
+},
+{
+    126.56,127.64
+     but let's go through them first.
+},
+{
+    127.64,129.16
+     Oh, before we go too much further back.
+},
+{
+    129.16,130.52
+     Good point, Bob.
+},
+{
+    130.52,132.48
+     If you're new to our channel, which a lot of you are,
+},
+{
+    132.48,134.0
+     please take a second to subscribe.
+},
+{
+    134.0,136.6
+     Our subscription button is over here besides Brad.
+},
+{
+    136.6,138.12
+     Probably down there or up there.
+},
+{
+    138.12,140.02
+     We provide videos on how to stay healthy, fit,
+},
+{
+    140.02,141.96
+     and pain-free, and we upload every day.
+},
+{
+    141.96,147.62
+     Right, and we're gonna do a lot of education in this video that's going to enlighten you with these terms. Now the
+},
+{
+    147.62,154.04
+     second one, spinal olalysis. Spinal olalysis. Okay this one's a little more
+},
+{
+    154.04,159.04
+     technical and this one I got to get the spinal for you. This can happen in the
+},
+{
+    159.04,164.48
+     low back or the neck. Usually it's low back so we're going to look at the low
+},
+{
+    164.48,168.0
+     back and it's typically in the lower lumbar vertebra
+},
+{
+    168.32,172.2
+     Oftentimes that L5 the lowest one. Okay, because that's where most of the stress is
+},
+{
+    172.56,175.9
+     We're not gonna get into that. You'll just have to believe us so that makes sense
+},
+{
+    175.9,181.52
+     Now what it is as I'm gonna show you where did my pin go Bob right here, oh good
+},
+{
+    183.4,187.26
+     This short on there around that one. Yeah Yeah, well we're gonna do both actually
+},
+{
+    187.66,190.32
+     There's a structure in the back called the par
+},
+{
+    190.72,192.4
+     par's in particular
+},
+{
+    192.4,197.84
+     This is one I had it. I remember from school, but I don't use it very often in the clinic
+},
+{
+    198.0,204.2
+     Okay, but I know where it is. It's we're gonna look at it here if I could pull these two vertebrae out so it's easier to see
+},
+{
+    204.96,206.92
+     We have this. You up there, Brad. Yep
+},
+{
+    208.16,212.7
+     I got to get my glasses on because this is a smaller area, but I have it highlighted
+},
+{
+    213.84,220.34
+     Now if you look at here's L5 and L4, let's say we have the in this case is L4 here's a disc in here
+},
+{
+    220.72,228.1
+     This I put in there just to represent that's where the spinal cord goes. Okay? And there's room down there. I know someone might get technical and say the
+},
+{
+    228.1,232.3
+     spinal cord doesn't go before L1 and we're not going to get into that. This
+},
+{
+    232.3,237.72
+     red mark right here on this part of the bone is the parzarticularis. Sure. And
+},
+{
+    237.72,242.48
+     that is usually it becomes a stress fracture and it can actually become
+},
+{
+    242.48,246.28
+     more of a stretch fracture and break apart. But when it starts to do that, it
+},
+{
+    246.28,249.0
+     progresses to spondylolisthesis, which will get into the
+},
+{
+    249.0,253.16
+     next. So right there can cause problems. And you look at the
+},
+{
+    253.16,258.0
+     nerve right here. If this inflames because of the stress
+},
+{
+    258.0,260.96
+     fracture, that nerve can get involved and that can cause more
+},
+{
+    260.96,262.8
+     pain and symptoms that you want to avoid.
+},
+{
+    263.68,266.1
+     Well, you had some interesting statistics on this, Brad,
+},
+{
+    266.1,266.94
+     that I never knew.
+},
+{
+    266.94,271.5
+     One, that it actually happens in young adults boys.
+},
+{
+    271.5,272.98
+     Right, adolescents, you know,
+},
+{
+    272.98,275.34
+     usually in the early teenage years,
+},
+{
+    275.34,277.54
+     often associated with active people
+},
+{
+    277.54,279.54
+     that are in athletics, contact sports,
+},
+{
+    279.54,280.5
+     or repetitive motions.
+},
+{
+    280.5,281.5
+     Which makes sense.
+},
+{
+    281.5,283.58
+     Things where they extend,
+},
+{
+    283.58,288.46
+     because that pushes a lot of pressure on that part of the vertebra to cause that stress fracture
+},
+{
+    288.46,294.42
+     So you really think of I think of young girls as far as gymnasts because they're always in that hyper extended position
+},
+{
+    294.42,299.4
+     Not only that they're in hyper extended and then they land with a tremendous amount of force to just jam
+},
+{
+    299.4,301.4
+     I'm shocked that every one of them doesn't have this
+},
+{
+    301.4,303.4
+     I know it's really interesting
+},
+{
+    303.4,305.52
+     But it is more common in males.
+},
+{
+    305.52,307.24
+     This is interesting, in fact.
+},
+{
+    307.24,311.76
+     50% of all back pain in that age group
+},
+{
+    311.76,313.96
+     is from this diagnosis.
+},
+{
+    313.96,316.04
+     So if you're having back pain at that age,
+},
+{
+    316.04,318.2
+     this is one of the things you should consider
+},
+{
+    318.2,320.76
+     as a possibility, and that x-rays would pick that up.
+},
+{
+    320.76,322.32
+     And there's a special test, and I'll show you,
+},
+{
+    322.32,323.56
+     it's a simple one.
+},
+{
+    323.56,328.48
+     Okay, and we've done this on another video quite a while ago as you stand on one leg and then you've been back
+},
+{
+    328.96,335.16
+     Into one side and if that consistently flares it up because you're stressing that stress fracture
+},
+{
+    335.44,337.28
+     You can do it the other way then too Brad
+},
+{
+    337.28,342.8
+     Right, yeah, stand on the opposite leg and if I'm on my left leg I'm gonna go back and to the left side
+},
+{
+    342.8,347.32
+     So you're looking to see whether or not the pain on the left side on this one is being enhanced. Right
+},
+{
+    347.32,353.44
+     exactly. If you do that and you have pain with that, that's not a hundred percent
+},
+{
+    353.44,356.36
+     certain that that's what you have, it's just an indicator. It's just one more
+},
+{
+    356.36,361.68
+     possibility you know pushing towards that. Right and they estimate 6% of the
+},
+{
+    361.68,365.72
+     population have this. Okay. Which isn a lot, but it's a fair amount
+},
+{
+    368.22,374.72
+     Oftentimes associated with genetics, you know, and then we talked about the other activities now. Let's go to the other one
+},
+{
+    374.72,376.24
+     That's just probably
+},
+{
+    376.24,380.04
+     More problematic and that's bondololis desis
+},
+{
+    380.64,383.04
+     Desis, and I said THE
+},
+{
+    384.04,387.64
+     I have a hard time with it. Your daughter is a speech
+},
+{
+    387.64,393.12
+     therapist, maybe she can come and help us out. Alright, so spondylolisthesis is
+},
+{
+    393.12,399.6
+     usually an L4 or L5 or L5 and S1 and the big difference with this is I
+},
+{
+    399.6,405.0
+     cannot show you on this model but let's look at this one
+},
+{
+    405.0,409.56
+     because I have this diagnosis and actually my L4 shifts
+},
+{
+    409.56,414.56
+     over my L5 in the anterior or forward direction.
+},
+{
+    414.64,416.16
+     So like here Bob is showing.
+},
+{
+    416.16,419.12
+     So here's normal and here's putting forward.
+},
+{
+    419.12,420.68
+     Now normally there's a disc between there.
+},
+{
+    420.68,421.52
+     Right, exactly.
+},
+{
+    421.52,423.32
+     But you no longer have a disc between yours.
+},
+{
+    423.32,426.12
+     My disc is completely gone and it looks like
+},
+{
+    426.4,430.86
+     according to the x-rays that the bone has fused together and that's what I'm hoping for so it's more stable
+},
+{
+    431.68,435.88
+     Funny how the body is it I mean a lot of things the body will heal if you let it
+},
+{
+    435.88,438.4
+     Yeah, if you give it time and you treat it properly
+},
+{
+    438.4,444.44
+     So we're gonna talk about treatment for spinal lysis and spinal lysis desis are very similar
+},
+{
+    444.44,448.5
+     Right, you could do the same exercises and probably get similar results
+},
+{
+    448.5,452.36
+     Sounds good. Each individual is a little different, but that's how we're going to approach it
+},
+{
+    455.0,458.44
+     The first one we have everybody do is knees to chest, won't you say Brad?
+},
+{
+    458.68,466.06
+     Now big thing about spinal lysis desis is you want to avoid extension. Actually both of these extension exercises
+},
+{
+    466.06,469.6
+     So you're not gonna stretch out like this a lot. I'll do this a little bit
+},
+{
+    469.6,473.58
+     But I'm not gonna repeat it very often because it my body's talking to me about it
+},
+{
+    474.16,479.76
+     Activities if you're gonna wash the ceiling have somebody else do it. Yeah, I've tried that trying to go up
+},
+{
+    479.76,484.12
+     Yeah, it hurts for the next day or so so avoid things like that
+},
+{
+    484.96,486.96
+     but one thing that
+},
+{
+    487.08,491.0
+     does do well with is flexion and that's
+},
+{
+    491.8,497.6
+     Doing double knees to chest you could start off single if you want to right. Yeah, that's a good point Bob
+},
+{
+    497.76,502.64
+     You can start out here. I wouldn't do more than ten. I think after ten year you're stretched out enough
+},
+{
+    504.68,507.28
+     Sometimes I will hold this
+},
+{
+    507.28,511.92
+     because it feels really good and this is usually after I've been standing and
+},
+{
+    511.92,515.92
+     I'm you know in that more of an extension mode but I won't hold it for
+},
+{
+    515.92,519.4
+     minutes usually you know 20 30 seconds at the most when it gets done feeling
+},
+{
+    519.4,522.64
+     good that I'm back to here. The next thing you want to do after you get that
+},
+{
+    522.64,528.1
+     range of motion is some strengthening exercises to strengthen the abdominal, the core
+},
+{
+    528.1,531.8
+     muscles in the front. The core muscles all the way in the back but this is what
+},
+{
+    531.8,536.0
+     you want to really become dominant so they protect those vertebra from
+},
+{
+    536.0,540.8
+     shifting again. And I've been doing these for, let's get the ball, can you Bob? I've
+},
+{
+    540.8,545.76
+     been doing these for approximately five years now on a fairly consistent basis and
+},
+{
+    546.78,555.32
+     Actually, I've been proved quite a bit from four years ago. Yeah to having back pain every day to now just when I do silly things and abuse it
+},
+{
+    556.2,558.2
+     But I'm trying to avoid those things
+},
+{
+    558.64,566.62
+     Sorry, I got my brown shoes on today. I usually have my back shoes someone commented on that Bob. They were not happy with that. Yeah, I know
+},
+{
+    566.62,568.62
+     I'm sorry. I'm sorry
+},
+{
+    568.88,575.26
+     There's in a hurry, but this is a great exercise right here forces a low back in a good posture
+},
+{
+    575.34,581.84
+     It really works you up Dom on them else as well and you get some hamstring and some hip strengthening as well
+},
+{
+    582.6,585.2
+     Okay, and then I'll just go in this position
+},
+{
+    585.2,586.64
+     and this just feels good
+},
+{
+    586.64,590.22
+     and I'll work the core from this direction.
+},
+{
+    591.36,592.84
+     And if you're starting out with these,
+},
+{
+    592.84,594.64
+     probably 10 will be good
+},
+{
+    594.64,596.96
+     and you're gonna get some sore stomach muscles.
+},
+{
+    596.96,599.96
+     You know, if you're fairly fit, you know, you'll build up.
+},
+{
+    599.96,603.04
+     I usually do 50 of these and then I stop
+},
+{
+    603.04,605.64
+     and I have a little more of a routine than that.
+},
+{
+    605.64,612.28
+     Then the third one I do is here and here and I double it up, the double crunch and I'm
+},
+{
+    612.28,620.0
+     thinking about lifting my buttocks up in the air because that will help flex that low back,
+},
+{
+    620.0,625.94
+     those low vertebrae and get those muscles in the front strong. Okay and then the final
+},
+{
+    625.94,629.9
+     one this is one of my favorite because not only does it strengthen your core
+},
+{
+    629.9,634.42
+     you get the oblique muscles on this one but right here under your back with me
+},
+{
+    634.42,641.3
+     anyways it scratches my back and it really feels good. So I do the criss-cross
+},
+{
+    641.3,649.14
+     elbow to knee opposite knee and you do you do those until your muscles get fatigued.
+},
+{
+    649.14,651.6
+     And those are a wonderful tool.
+},
+{
+    651.6,654.04
+     And I really am an advocate of using the ball
+},
+{
+    654.04,656.76
+     because it protects your back from overdoing it.
+},
+{
+    656.76,660.24
+     And otherwise your back can arch in the opposite direction.
+},
+{
+    660.24,661.76
+     It will not do that with the ball.
+},
+{
+    661.76,663.12
+     Get a little bit of squeaky bench here, Brad.
+},
+{
+    663.12,663.96
+     I know it.
+},
+{
+    663.96,664.8
+     Wow.
+},
+{
+    664.8,666.56
+     And remember, Brad, we're not just pretty.
+},
+{
+    666.56,667.76
+     We're pretty ugly, Bob.
+},
+{
+    667.76,669.0
+     No, we're pretty handy.
+},
+{
+    669.0,669.84
+     Oh, that's right.
+},
+{
+    669.84,670.68
+     Again, make sure you subscribe.
+},
+{
+    670.68,672.2
+     Thanks a lot for watching.
+},

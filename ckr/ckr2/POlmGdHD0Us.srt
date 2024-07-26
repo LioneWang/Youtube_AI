@@ -1,0 +1,60 @@
+{
+    0.0,12.88
+     Stroke is on the rise among younger adults. 15% of ischemic strokes occur in young adults
+},
+{
+    12.88,18.8
+     and adolescents. And there was a 44% increase in the number of young Americans hospitalized
+},
+{
+    18.8,26.08
+     due to stroke over the last decade. No matter what your age, it's important to know what to look for in case of a stroke.
+},
+{
+    26.08,33.28
+     Use fast to remember the warning signs of stroke. F is for face. Does one side of the face droop?
+},
+{
+    33.92,42.08
+     A is for arms. Does one arm drift downward? S is for speech. Is their speech slurred or strange?
+},
+{
+    43.28,45.28
+     Is their speech slurred or strange? T is for time.
+},
+{
+    45.28,47.6
+     If you observe any of these signs,
+},
+{
+    47.6,51.44
+     it is time to call 911 immediately.
+},
+{
+    51.44,54.12
+     Young adults often can't identify stroke symptoms,
+},
+{
+    54.12,58.04
+     or they ignore them, resulting in more severe outcomes
+},
+{
+    58.04,59.68
+     or loss of life.
+},
+{
+    59.68,61.96
+     The financial burden and family obligations
+},
+{
+    61.96,67.32
+     after a stroke in young adults can be significantly greater than for older stroke survivors.
+},
+{
+    67.32,71.42
+     Because of their younger age, they will frequently live longer with the physical effects of a
+},
+{
+    71.42,76.36
+     stroke and experience a greater loss in salary earnings over a longer period of time.
+},

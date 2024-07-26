@@ -1,0 +1,140 @@
+{
+    0.0,21.2
+     When using a tube holder assembly, hold the assembled device between your thumb and the
+},
+{
+    21.2,23.96
+     tips of your first three fingers.
+},
+{
+    23.96,26.0
+     This allows ample room to manipulate
+},
+{
+    26.0,32.06
+     the tubes in and out of the holder. Do not grasp the assembly in the palm of your hands
+},
+{
+    32.06,37.12
+     as your fingers will obstruct your ability to visualize the draw, tube exchange and the
+},
+{
+    37.12,39.6
+     angle of entry.
+},
+{
+    39.6,45.0
+     Retighten the tourniquet and position the patient's arm in a downward angle if possible so that
+},
+{
+    45.0,49.6
+     the tubes fill from bottom to top and remove the needle sheath.
+},
+{
+    49.6,54.96
+     With the thumb of your free hand, pull downward from below the intended puncture site to anchor
+},
+{
+    54.96,58.24
+     the vein and tighten the skin.
+},
+{
+    58.24,61.68
+     Do not anchor the vein from above as shown here.
+},
+{
+    61.68,65.52
+     This puts your index finger ahead of the needle and in harm's way should
+},
+{
+    65.52,72.36
+     the patient jump upon needle insertion. Insert the needle with the bevel up at a 30 degree
+},
+{
+    72.36,78.96
+     angle or less until you perceive to be in the center of the vein. Release the skin and
+},
+{
+    78.96,88.56
+     advance the tube without displacing the needle. To maintain needle placement, apply the tube gently by placing one or two fingers on the
+},
+{
+    88.56,94.48
+     flared wings of the tube holder and your thumb on the back of the tube.
+},
+{
+    94.48,99.72
+     Squeeze your thumb and fingers together, advancing the tube so that its stopper is pierced by
+},
+{
+    99.72,102.28
+     the interior needle.
+},
+{
+    102.28,106.84
+     Squeezing your thumb and fingers together like this counteracts the pushing pressure and
+},
+{
+    106.84,113.0
+     keeps the needle from going through the other side of the vein and deeper into the arm.
+},
+{
+    113.0,115.72
+     Allow the first tube to fill.
+},
+{
+    115.72,122.6
+     If possible, release the tourniquet upon venous access to minimize the effects of hemoconcentration.
+},
+{
+    122.6,127.0
+     When the first tube is full, remove it by grasping it between the thumb and middle finger
+},
+{
+    127.0,136.0
+     and pushing against the tube holder with the index finger. Placing your index finger here prevents the needle from being pulled out of the
+},
+{
+    136.0,148.0
+     vein while removing the filled tube from the tube holder. Apply the remaining tubes in the prescribed order of draw. Remove and invert each tube with an additive
+},
+{
+    148.0,152.4
+     five to ten times after filling to provide proper mixing with the blood.
+},
+{
+    152.4,155.76
+     When all tubes have been filled, have the patient
+},
+{
+    155.76,160.28
+     open his fist, release the tourniquet if it has not already been released,
+},
+{
+    160.28,164.08
+     and place a clean gauze pad over the insertion site.
+},
+{
+    164.08,168.0
+     Remove the needle and apply pressure.
+},
+{
+    168.0,173.0
+     If the safety feature is not triggered passively, activate it immediately.
+},
+{
+    173.0,179.0
+     Discard the collection device according to OSHA guidelines and your facilities policy.
+},
+{
+    179.0,185.0
+     Avoid using cotton balls to apply pressure as it is against CLSI recommendations.
+},
+{
+    185.0,191.0
+     The cotton fibers may become embedded into the fiber that forms over the wound while pressure is applied,
+},
+{
+    191.0,194.0
+     and upon removal, reopen the puncture.
+},

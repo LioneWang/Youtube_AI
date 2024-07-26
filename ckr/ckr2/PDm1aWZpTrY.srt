@@ -1,0 +1,172 @@
+{
+    0.0,4.0
+     Everyone gets an itch once in a while.
+},
+{
+    4.0,9.6
+     Usually it only lasts for a short time and is often caused by annoyances, like a mosquito
+},
+{
+    9.6,11.64
+     bite or scratchy fabric.
+},
+{
+    11.64,17.12
+     However, if an itch lasts for more than six weeks, it is considered a chronic itch and
+},
+{
+    17.12,19.88
+     is more likely to disrupt your life.
+},
+{
+    19.88,26.12
+     There are many reasons for itchy skin, including eczema, shingles, hives, and psoriasis.
+},
+{
+    26.12,31.12
+     It could also be a sign of a contagious disease, such as scabies or ringworm.
+},
+{
+    31.12,37.0
+     To help soothe itchy skin, dermatologists recommend the following tips.
+},
+{
+    37.0,43.32
+     Apply a cold, wet cloth or ice pack to the skin that itches for 5 to 10 minutes.
+},
+{
+    43.32,47.7
+     Take an oatmeal bath. This can be very soothing, especially for blisters
+},
+{
+    47.7,50.8
+     or oozing skin due to chicken pox, hives,
+},
+{
+    50.8,53.0
+     poison ivy, or sunburn.
+},
+{
+    53.0,54.5
+     Moisturize your skin.
+},
+{
+    54.5,56.9
+     Choose a moisturizer free of additives,
+},
+{
+    56.9,59.3
+     fragrances, and perfumes.
+},
+{
+    59.3,63.4
+     Apply topical anesthetics that contain Promoxine.
+},
+{
+    63.4,67.12
+     Apply cooling agents such as menthol or kalamine.
+},
+{
+    67.12,69.92
+     You could also place your moisturizer in the refrigerator
+},
+{
+    69.92,72.1
+     to help achieve this cooling effect.
+},
+{
+    72.1,73.84
+     While you are treating your skin,
+},
+{
+    73.84,76.2
+     follow these tips from dermatologists
+},
+{
+    76.2,78.4
+     to help prevent your skin from itching.
+},
+{
+    79.28,82.24
+     Bathe with lukewarm, not hot water
+},
+{
+    82.24,85.7
+     and limit your bath or shower to just 10 minutes.
+},
+{
+    85.7,91.56
+     Always use fragrance-free lotions, soaps, and detergents to minimize irritation.
+},
+{
+    91.56,96.62
+     Be wary of products labeled unscented, as they still might have chemicals that cause
+},
+{
+    96.62,97.62
+     irritation.
+},
+{
+    97.62,102.32
+     As directed by your dermatologist, apply medications before moisturizing.
+},
+{
+    102.32,107.3
+     Then, apply your moisturizer to all areas of your skin, including areas treated with
+},
+{
+    107.3,108.62
+     medication.
+},
+{
+    108.62,113.66
+     Where loose-fitting cotton clothes, wool and other rough-feeling fabrics can irritate
+},
+{
+    113.66,116.42
+     your skin, causing intense itching.
+},
+{
+    116.42,118.78
+     Avoid extreme temperature changes.
+},
+{
+    118.78,123.62
+     Maintain a relatively cool, neutral humidity environment in your house.
+},
+{
+    123.62,126.96
+     Use a humidifier during winter if you are prone to dry skin
+},
+{
+    126.96,128.16
+     and eczema.
+},
+{
+    128.16,133.24
+     Try to reduce stress, as stress can make your itch worse.
+},
+{
+    133.24,135.28
+     If your itch does not go away with home treatment,
+},
+{
+    135.28,137.08
+     see a board-certified dermatologist.
+},
+{
+    137.08,139.36
+     Some people have more than one reason to scratch,
+},
+{
+    139.36,142.04
+     and a dermatologist can work with you to find the cause
+},
+{
+    142.04,145.0
+     and relieve your itching.
+},
+{
+    145.0,151.0
+     To learn more about itch or find a dermatologist in your area, visit aad.org.
+},

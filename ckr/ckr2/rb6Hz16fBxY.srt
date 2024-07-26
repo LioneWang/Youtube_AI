@@ -1,0 +1,420 @@
+{
+    0.0,11.12
+     Hello everyone, welcome to Move Well, Live Well.
+},
+{
+    11.12,16.6
+     We get a number of people that come in here, actually children that come in here with issues
+},
+{
+    16.6,17.84
+     regarding their ear.
+},
+{
+    17.84,32.18
+     They're getting ear infections is a course of antibiotics or basically
+},
+{
+    32.18,38.2
+     a course of antibiotics or drops for their ears or something like that to help alleviate
+},
+{
+    38.2,40.08
+     what's going on in their ears.
+},
+{
+    40.08,48.28
+     But if you look at the anatomy, what we usually do in here for children with ear pain or ear
+},
+{
+    48.28,55.32
+     infections, if you look at the anatomy over here, if you can check it out, this is the
+},
+{
+    55.32,58.08
+     adult skull here.
+},
+{
+    58.08,62.4
+     And if you look at, this is the mastoid process, and this is the ear right here, where the
+},
+{
+    62.4,63.4
+     ear would be.
+},
+{
+    63.4,65.92
+     If you look at this red tube right here,
+},
+{
+    65.92,69.12
+     this is the eustachian tube of the adult,
+},
+{
+    69.12,71.48
+     and you see how it kinda points down.
+},
+{
+    71.48,76.48
+     So bacteria and stuff that sometimes can build up here
+},
+{
+    76.48,81.32
+     in the mastoid air cells and within the inner ear itself
+},
+{
+    81.32,88.56
+     can kind of escape out the eustachian tube because it's pointed downward. However,
+},
+{
+    88.56,94.12
+     in an infant and little kids, I don't think you see that, in infant little kids, this
+},
+{
+    94.12,98.68
+     is the infant, if you look at the configuration, these are the mastoid air cells, and this
+},
+{
+    98.68,105.04
+     is the inner ear right here, the middle ear cavity, you can see the eustachian tube kind of is more horizontal even
+},
+{
+    105.04,113.6
+     pointing upwards. So that's why you see a lot of kids, infants and pediatric
+},
+{
+    113.6,118.64
+     patients of ours have issues with getting infection in their ear because of
+},
+{
+    118.64,123.08
+     that configuration of that eustachian tube point upwards. So what's happening is
+},
+{
+    123.08,129.88
+     that bacteria can't escape all the way. So in just a second here I'm gonna have Dr. K come in here and I'm
+},
+{
+    129.88,135.8
+     gonna show you a thing that you can do to your kids and or infants to help
+},
+{
+    135.8,141.84
+     prevent that back flow of bacteria in through there and what's giving them
+},
+{
+    141.84,149.56
+     those ear infections and hopefully get them away from having to take a bunch of course of antibiotics all the time or
+},
+{
+    149.56,155.66
+     at worst case scenario to put a tube go under surgery and put a tube into their
+},
+{
+    155.66,159.84
+     ear because that's another treatment of choice that they that they that they
+},
+{
+    159.84,164.48
+     recommend when you're getting chronic ear infections and stuff and unfortunately
+},
+{
+    164.48,169.84
+     what happens when you get a chronic chronic ear infections and stuff. And unfortunately what happens when you get chronic ear infections over time, you get scar tissue
+},
+{
+    169.84,175.64
+     in there within the middle ear and even you know sometimes permanent hearing
+},
+{
+    175.64,180.84
+     loss or dysfunction in that ear. So anyway in just a second here I'm gonna have
+},
+{
+    180.84,188.04
+     Dr. K step in and what we're gonna is we're going to show you a way to help alleviate and help
+},
+{
+    188.04,192.32
+     restore some of that function in the ear.
+},
+{
+    192.32,194.52
+     All right, we got Dr. K in here now.
+},
+{
+    194.52,196.8
+     And we're going to show you a way,
+},
+{
+    196.8,199.16
+     because like we were talking about on that chart,
+},
+{
+    199.16,202.28
+     is the Eustachian tube for an infant
+},
+{
+    202.28,205.68
+     kind of points upward a little bit like this.
+},
+{
+    205.68,210.08
+     With my pen as a eustachian tube it's either horizontal or even upward and
+},
+{
+    210.08,215.36
+     then that bacteria can't escape very well and then that's why kids and
+},
+{
+    215.36,219.44
+     infants get that chronic sometimes chronic ear infections. So this is a
+},
+{
+    219.44,225.68
+     technique that you can do at home to help alleviate some of that issue in there, help
+},
+{
+    225.68,230.72
+     bring that Eustachian tube pointing downward a little bit. We too, you know, if you, if,
+},
+{
+    230.72,235.36
+     if, I don't know if you guys see a chiropractor or whatever, but we are trained in being able to
+},
+{
+    235.36,242.0
+     adjust that, that ear. There's a maneuver that we do. That's a quick maneuver that we put on the ear
+},
+{
+    242.8,245.66
+     to help open up that Eustachian tube really quickly.
+},
+{
+    245.66,248.76
+     So, but this is something that you can do at home
+},
+{
+    248.76,253.76
+     to facilitate the draining of the Eustachian tube.
+},
+{
+    256.44,257.28
+     Thank you.
+},
+{
+    257.28,259.76
+     Draining of the Eustachian tube,
+},
+{
+    259.76,262.0
+     so that way it helped prevent some of those ear infections
+},
+{
+    262.0,264.52
+     that your kid may be experiencing.
+},
+{
+    264.52,272.0
+     So what you do basically is remember the eustachian tube is either horizontal or points upward like
+},
+{
+    272.0,277.92
+     this. So what we're trying to do is we're facilitating bringing that eustachian tube
+},
+{
+    277.92,286.8
+     downward. So as you can see I'm taking Dr. K's ear lobe and I'm gently massaging it downward.
+},
+{
+    286.8,291.4
+     You may even have to use a little bit of lotion or coconut oil.
+},
+{
+    291.4,294.8
+     So that way it's not discomforting for your little one.
+},
+{
+    294.8,296.56
+     And again, this is gentle.
+},
+{
+    296.56,301.2
+     So you can kind of see as I'm doing this here, I'm bringing the ear downward and you can
+},
+{
+    301.2,306.6
+     see Dr. K is starting to fall asleep because this is very relaxing.
+},
+{
+    306.6,310.52
+     You shouldn't apply a whole lot of pressure on the ear.
+},
+{
+    310.52,314.42
+     This is more of like an ear massage.
+},
+{
+    314.42,317.28
+     So as you can see, I'm just going downward.
+},
+{
+    317.28,328.64
+     So starting up, going downward, up, downward and you're just getting that opening up that you station tube gently
+},
+{
+    328.64,335.16
+     trying to facilitate it to point downward. Now how often do you do this? If
+},
+{
+    335.16,341.16
+     your kid is getting frequent ear infections you should be probably doing
+},
+{
+    341.16,344.96
+     especially cold and flu season this time of year you should be doing this
+},
+{
+    344.96,346.24
+     daily you know for three to five minutes you know just sit down with them you can you should be probably doing, especially cold and flu season, this time of year, you should be doing this daily,
+},
+{
+    346.24,347.8
+     you know, for three to five minutes.
+},
+{
+    347.8,349.24
+     You know, just sit down with them.
+},
+{
+    349.24,351.0
+     You can do both ears at the same time,
+},
+{
+    351.0,353.56
+     so you can kinda, you know, do a little bit,
+},
+{
+    353.56,355.2
+     if you turn around this way, Dr. K.
+},
+{
+    357.72,360.44
+     So you can kinda do both ears at the same time,
+},
+{
+    360.44,364.48
+     and if they'll say to downward, just like this.
+},
+{
+    364.48,366.0
+     And you know, obviously your kid if
+},
+{
+    366.0,369.56
+     they're an infant they're not gonna know what's going on but if you're just
+},
+{
+    369.56,374.16
+     gentle enough with them they'll get used to you doing this and it feels really
+},
+{
+    374.16,388.64
+     really good for them just a nice gentle massage downward for on their earlobe to facilitate movement of debris or bacteria in the Eustachian tube.
+},
+{
+    390.2,395.0
+     So, start up, work your way down.
+},
+{
+    395.0,397.68
+     Again, this is gentle and you can see Dr. K
+},
+{
+    397.68,401.2
+     starting to fall asleep a little bit in and through here.
+},
+{
+    401.2,407.92
+     But yeah, this is a nice, gentle thing that you can do to help open up that Eustachian
+},
+{
+    407.92,409.72
+     tube for your child.
+},
+{
+    409.72,414.32
+     Now if they're getting chronic, like I said, if they're getting chronic ear infections,
+},
+{
+    414.32,420.56
+     the best thing would be to do a daily type of regimen about three to five minutes, just
+},
+{
+    420.56,423.0
+     to help prevent those earaches.
+},
+{
+    423.0,427.1
+     Obviously take them to a chiropractor. They could be having an issue with C1
+},
+{
+    427.74,434.64
+     the Atlas, the first vertebra in the neck and if that is stuck in a certain configuration
+},
+{
+    435.66,436.8
+     sometimes
+},
+{
+    436.8,442.3
+     that can interfere with function at this part of the ear right there.
+},
+{
+    442.54,447.68
+     So have them get adjusted as well as the chiropractor
+},
+{
+    447.68,451.84
+     if they're well versed
+},
+{
+    451.84,456.84
+     or have that training in that to help adjust the ear itself
+},
+{
+    458.2,460.16
+     to open up that Eustachian tube.
+},
+{
+    460.16,462.28
+     So if you have any further questions,
+},
+{
+    462.28,464.56
+     feel free to drop them off in the comment section below.
+},
+{
+    464.56,468.24
+     We thank you for watching, we appreciate it. How did that feel? Pretty good?
+},
+{
+    468.24,472.24
+     Awesome. If you have any questions, drop them off in the comments section below.
+},
+{
+    472.24,477.12
+     We thank you for watching, we appreciate it. Please like, subscribe, and share so that other
+},
+{
+    477.12,481.04
+     people can benefit from this video as well. And when you hit subscribe, make sure you hit that
+},
+{
+    481.04,488.68
+     bell notifications button so that way you don't miss any videos as we as they come in here in the near future. Again we
+},
+{
+    488.68,494.04
+     appreciate you watching, we'll see you next time. You take care. Bye bye.
+},

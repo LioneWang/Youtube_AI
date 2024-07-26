@@ -1,0 +1,1028 @@
+{
+    0.0,3.96
+     Hello everybody, Craig here, Dr. of Physical Therapy from the Prehab Guys.
+},
+{
+    3.96,8.0
+     Today, we're going to be talking all things Turkish Getup.
+},
+{
+    11.2,16.6
+     First things first, like I said, let's make sure that the Turkish Getup is something safe for you.
+},
+{
+    16.6,22.5
+     Because if it's not safe for you, if you're going to expose different body areas, what's the point of even doing it?
+},
+{
+    23.0,27.92
+     So number one, do you have good shoulder range of motion?
+},
+{
+    27.92,33.16
+     What I mean by that is, can you even get your arms all the way up overhead?
+},
+{
+    33.16,37.24
+     If you can't get your arms up all the way overhead, you're here and you're going to
+},
+{
+    37.24,39.12
+     be holding a kettlebell.
+},
+{
+    39.12,43.4
+     You're just going to be exposing a lot of stress to your shoulder, potentially setting
+},
+{
+    43.4,45.62
+     you up for an overuse injury.
+},
+{
+    45.62,46.92
+     So that's number one, shoulder.
+},
+{
+    46.92,49.28
+     Let's actually, I'm gonna go to the wall in a little bit
+},
+{
+    49.28,51.04
+     to show you another way to measure your shoulder range
+},
+{
+    51.04,53.94
+     of motion, but let's stay here for a moment.
+},
+{
+    53.94,57.94
+     Number two, how well can your trunk and your hips move?
+},
+{
+    57.94,60.64
+     What I mean by that is at one point,
+},
+{
+    60.64,63.56
+     we have to get into this windmill position.
+},
+{
+    63.56,65.0
+     However, I'm not getting into that position
+},
+{
+    65.0,67.0
+     by just bending my back.
+},
+{
+    67.0,70.0
+     I am moving through my hip joint,
+},
+{
+    70.0,73.0
+     keeping my back as straight as I can
+},
+{
+    73.0,77.0
+     and rotating to get into this position.
+},
+{
+    77.0,80.0
+     So we want to look at that on both sides
+},
+{
+    80.0,82.0
+     because it's pretty important to make sure
+},
+{
+    82.0,84.0
+     that you can move through your hip
+},
+{
+    84.0,89.0
+     so that we're not putting excess stress on our low back and our mid back. So that's
+},
+{
+    89.0,94.88
+     number two. Number three, can you even put weight through your wrist? So just put
+},
+{
+    94.88,99.72
+     your hands down on the ground. Can you shift your weight back and forth loading
+},
+{
+    99.72,104.08
+     through your wrist? Even maybe do some of these circles. You're gonna be holding
+},
+{
+    104.08,105.1
+     a weight in your
+},
+{
+    105.1,107.12
+     hand the entire time.
+},
+{
+    107.12,108.6
+     You need to have good grip strength.
+},
+{
+    108.6,112.92
+     You need to have the tolerance to holding weight in your wrist.
+},
+{
+    112.92,116.96
+     If you can't even do those things, maybe there's some other things that we need to address
+},
+{
+    116.96,119.6
+     before jumping into a get-up.
+},
+{
+    119.6,121.0
+     Those are three things, right?
+},
+{
+    121.0,122.0
+     Shoulder range of motion.
+},
+{
+    122.0,124.12
+     We're going to head to the wall in a bit.
+},
+{
+    124.12,129.56
+     How well can you move at your hips and your trunk and what shape are your wrists in last but not
+},
+{
+    129.56,134.6
+     least ready I'm going to do some lunges so you notice that at one point you got to get
+},
+{
+    134.6,140.84
+     into this lunge position you got to have your arm up overhead stand tall and then come back
+},
+{
+    140.84,145.58
+     down can you even do this balanced with no weight?
+},
+{
+    151.12,151.46
+     All right, so we want to make sure that this looks good that this looks clean and you're not compensating
+},
+{
+    154.98,155.32
+     Because if you don't have good form and good stability in the rest of your body
+},
+{
+    160.62,160.74
+     You're gonna have to make up for it with your shoulder and this is how people put too much stress on their shoulder
+},
+{
+    162.82,165.16
+     All right, so make sure that you can do lunges as well. All right, let's head over to the wall
+},
+{
+    165.16,167.48
+     because I want to show this other cleaner
+},
+{
+    167.48,170.0
+     shoulder range of motion test.
+},
+{
+    170.0,172.12
+     Bring your feet away from the wall,
+},
+{
+    172.12,175.0
+     get your low back and the rest of your back
+},
+{
+    175.0,176.84
+     flat against the wall.
+},
+{
+    176.84,180.0
+     Now while trying to keep your elbow straight,
+},
+{
+    180.0,181.92
+     try to get your thumbs to the wall.
+},
+{
+    181.92,185.66
+     So I'm making sure that I'm keeping my elbow straight and I'm trying to get my thumbs to the wall. So, I'm making sure that I'm keeping my elbow straight
+},
+{
+    185.66,188.12
+     and I'm trying to get my thumbs to the wall.
+},
+{
+    189.12,190.96
+     Are you arching in the back?
+},
+{
+    190.96,193.06
+     Are your elbows bending?
+},
+{
+    193.06,194.72
+     These are all things to be mindful of
+},
+{
+    194.72,196.22
+     and to take a look at,
+},
+{
+    196.22,199.18
+     but we wanna make sure that we can get into this position
+},
+{
+    199.18,202.2
+     while keeping our back relatively flat against the wall.
+},
+{
+    202.2,204.2
+     Or else we're just gonna be compensating
+},
+{
+    204.2,205.72
+     at different areas in our body
+},
+{
+    205.72,207.4
+     when we're trying to do the get up,
+},
+{
+    207.4,211.12
+     especially doing the lunge movement with the get up.
+},
+{
+    211.12,214.64
+     All right, so now let's transition into
+},
+{
+    214.64,217.0
+     how to get your first Turkish get up.
+},
+{
+    217.0,218.0
+     All right, so this is how you should
+},
+{
+    218.0,219.32
+     get your first Turkish get up.
+},
+{
+    219.32,221.56
+     So now with the weight, it's with the shoe.
+},
+{
+    221.56,223.64
+     Let's come over here, I wanna demonstrate.
+},
+{
+    224.88,225.12
+     So if you can't master doing the Turkish get up Let's look at the shoe. Let's come over here. I want to demonstrate.
+},
+{
+    225.12,231.2
+     So if you can't master doing the Turkish Get Up by balancing a shoe, then you definitely
+},
+{
+    231.2,233.04
+     shouldn't be doing it with weight.
+},
+{
+    233.04,237.6
+     So get a shoe, balance it on your fist, and then go through the Get Up.
+},
+{
+    237.6,240.98
+     So the first part is we just need to get into the first position.
+},
+{
+    240.98,246.12
+     If I'm holding the shoe in my left hand, I want to balance right over my shoulder.
+},
+{
+    246.12,251.12
+     Now with my right leg and my right arm, I'm thinking give or take maybe 30 degrees or
+},
+{
+    251.12,252.96
+     so out to the side.
+},
+{
+    252.96,257.76
+     You can go a little bit wider or more narrow if you want, but I think 30 degrees is the
+},
+{
+    257.76,258.76
+     right way.
+},
+{
+    258.76,263.48
+     Now, I'm going to push through my left leg, pushing through my right arm, pushing through
+},
+{
+    263.48,267.12
+     my right heel. I'm pushing into the ground
+},
+{
+    267.12,274.8
+     and punching up to the ceiling. This is step one. This is the beginning of the roll. Now from here,
+},
+{
+    274.8,281.44
+     I need to really push through my left foot, push through my right elbow to get my chest high. I'm
+},
+{
+    281.44,287.4
+     still rolling and punching. Now, step two, we need to do this arm transition.
+},
+{
+    287.4,291.96
+     So I need to get off my elbow and get my right arm straight.
+},
+{
+    291.96,295.64
+     Now, in this position, we're going to do the next step.
+},
+{
+    295.64,297.84
+     We're going to lift up and bridge.
+},
+{
+    297.84,301.26
+     Okay, so we're holding this position for a split second.
+},
+{
+    301.26,305.0
+     Now the next step is we're going to sweep the leg.
+},
+{
+    305.0,306.96
+     This is all a little bit slow motion, okay?
+},
+{
+    306.96,309.3
+     But now we're sweeping the leg.
+},
+{
+    309.3,312.64
+     When I take a look down, my right knee
+},
+{
+    312.64,315.32
+     should be close to my right hand.
+},
+{
+    315.32,318.24
+     The shoe is balanced right over my shoulder.
+},
+{
+    318.24,321.16
+     The more that the shoe is balanced over my shoulder,
+},
+{
+    321.16,323.92
+     the less hard that my shoulder has to work, okay?
+},
+{
+    323.92,324.94
+     If this is anywhere else,
+},
+{
+    324.94,327.2
+     my shoulder's gonna have to work a little bit harder.
+},
+{
+    327.2,332.16
+     Just to get an appreciation for this, I'm moving through my hip right, I have my
+},
+{
+    332.16,337.8
+     shoe balanced over my shoulder, my trunk is relatively straight, I'm not really bent
+},
+{
+    337.8,342.64
+     or contorted. I'm rotating through my upper body. Now we need to transition
+},
+{
+    342.64,345.52
+     into this half-kneeling lunge position. I can rotate my leg a little body. Now we need to transition into this half-kneeling lunge position.
+},
+{
+    345.52,351.36
+     I can rotate my leg a little bit. Now from here, the next step, we're going to
+},
+{
+    351.36,357.64
+     stand tall. Okay, now we are standing tall here. I would have rotated my foot a
+},
+{
+    357.64,361.64
+     little bit more, but the turf didn't feel great on my knee. But you want to
+},
+{
+    361.64,369.08
+     rotate that to ideally get into a good lunge position. Now you're just going to reverse everything that you just did. So now
+},
+{
+    369.08,373.92
+     come into a reverse lunge. Again this shoe is still balanced over my shoulder.
+},
+{
+    373.92,378.92
+     Now I'm going to turn this foot a little bit without destroying my knee on this
+},
+{
+    378.92,384.32
+     rough turf and now the next step I'm going to do this windmill. So take a look.
+},
+{
+    384.32,386.0
+     I'm going to do it a few times.
+},
+{
+    386.0,388.0
+     Hopefully I can balance the shoe.
+},
+{
+    388.0,395.0
+     What I'm doing is with my right hand, I'm going to place it outside my right knee.
+},
+{
+    395.0,400.0
+     As I do that, I'm pushing my hips this way.
+},
+{
+    400.0,401.0
+     Take a look here.
+},
+{
+    401.0,403.0
+     Push my hips this way.
+},
+{
+    403.0,404.0
+     Rotate my body.
+},
+{
+    404.0,406.36
+     Get my right hand down there.
+},
+{
+    406.36,412.26
+     I feel a stretch in my left glute and again this shoulder, I mean the shill is positioned
+},
+{
+    412.26,414.06
+     right over my shoulder.
+},
+{
+    414.06,420.06
+     So now I need to get strong through my right arm and then we're going to transition.
+},
+{
+    420.06,425.68
+     Shoot that leg back out, stay really strong through my left foot on my right shoulder, and then come back
+},
+{
+    425.68,431.28
+     down to this position. So I'm not, I'm being mindful of my right shoulder. Take a look here.
+},
+{
+    431.28,436.08
+     You can even zoom in a little bit, but I don't want this shoulder rotated forward here. I need to
+},
+{
+    436.08,441.84
+     stay strong through my shoulder blade. You can readjust your arm position if you need to,
+},
+{
+    441.84,450.7
+     but think with this right hand, I'm like screwing it into the ground, screwing it into the ground, locking in my lat and my
+},
+{
+    450.7,456.02
+     shoulder blade and that feels a lot more comfortable on my shoulder. Now I am
+},
+{
+    456.02,462.3
+     going to do the next step where I transition back to my elbow and my
+},
+{
+    462.3,466.04
+     forearm. So this looks familiar right? If I look down,
+},
+{
+    466.04,472.36
+     okay, relatively 30 degrees or so, give or take. This shoe is still balanced over
+},
+{
+    472.36,475.48
+     my shoulder. I can't believe it. My shoulders even getting a little bit of a
+},
+{
+    475.48,480.32
+     workout here. So you can take a look from this position. I'm not sagging into my
+},
+{
+    480.32,486.36
+     shoulder. I'm staying strong through my shoulder blade, punching this towards the ceiling.
+},
+{
+    486.36,490.68
+     So I'm feeling these muscles here working to keep that
+},
+{
+    490.68,493.4
+     as well as staying strong through my right shoulder blade.
+},
+{
+    493.4,498.4
+     And now extend that right arm, reverse the roll,
+},
+{
+    498.48,500.3
+     and come back to starting position.
+},
+{
+    501.54,503.8
+     And now I can finally relax.
+},
+{
+    503.8,505.4
+     All right, now that you've mastered how to do
+},
+{
+    505.4,507.52
+     a Turkish Getup with just the shoe,
+},
+{
+    507.52,508.6
+     what if you went to the weight
+},
+{
+    508.6,510.52
+     and you're having a lot of difficulty with it?
+},
+{
+    510.52,512.58
+     We're gonna cover some of the common faults
+},
+{
+    512.58,515.12
+     and some of the common issues with the Turkish Getup.
+},
+{
+    515.12,517.36
+     And I'm gonna give you a few exercises
+},
+{
+    517.36,518.4
+     that you can start doing
+},
+{
+    518.4,520.68
+     that's gonna improve your Turkish Getup performance.
+},
+{
+    520.68,524.62
+     So number one is just wrist position holding a kettlebell.
+},
+{
+    524.62,527.92
+     You gotta do this right, especially as the weight gets heavier.
+},
+{
+    527.92,530.08
+     You're going to have a really hard time with this.
+},
+{
+    530.08,532.96
+     If you don't cradle a kettlebell good,
+},
+{
+    532.96,536.44
+     and then lay flat on your back and press up.
+},
+{
+    536.44,539.92
+     My knuckles need to be facing the ceiling the entire time.
+},
+{
+    539.92,542.96
+     What I see is people let their wrists extend,
+},
+{
+    542.96,545.16
+     their palm faces the ceiling, they're
+},
+{
+    545.16,549.56
+     stretching and compressing everything in the front of the wrist. Your wrist is
+},
+{
+    549.56,554.76
+     going to hurt if you do that long enough with heavy weight. Also, I'll see elbows
+},
+{
+    554.76,559.92
+     bend. So you need to stay strong through your shoulder blade, lock in that shoulder
+},
+{
+    559.92,565.5
+     blade, get your lats activated, squeeze the crap out of that handle, and keep your elbow
+},
+{
+    565.5,566.5
+     straight.
+},
+{
+    566.5,567.74
+     So that's number one.
+},
+{
+    567.74,570.26
+     Number two is the roll.
+},
+{
+    570.26,575.28
+     People will have a hard time getting into this rolling position.
+},
+{
+    575.28,578.9
+     So what you can do is just practice the roll, right?
+},
+{
+    578.9,586.0
+     So you can be here, push down through this left leg, push down through this right leg, keep your quads squeezed,
+},
+{
+    586.0,590.6
+     and push down through this right arm, and then roll.
+},
+{
+    590.6,592.8
+     You can just practice that.
+},
+{
+    592.8,596.8
+     If that's getting good and getting better, and we're rolling, right?
+},
+{
+    596.8,600.8
+     So I'm not trying to crunch like I'm doing the ab workout.
+},
+{
+    600.8,602.8
+     I am rolling.
+},
+{
+    602.8,604.5
+     So practice that roll.
+},
+{
+    604.5,608.16
+     Once that gets good, then you can practice to this.
+},
+{
+    608.16,610.32
+     Come down, come back up.
+},
+{
+    610.32,615.32
+     Roll, get on up, come back down.
+},
+{
+    615.8,617.84
+     If that's giving you too much trouble,
+},
+{
+    617.84,622.36
+     you can just be here and now you can roll this way.
+},
+{
+    622.36,624.48
+     So keep both knees bent.
+},
+{
+    624.48,625.4
+     So this we're just getting
+},
+{
+    625.4,630.72
+     comfortable with rolling and we're getting comfortable with our shoulder
+},
+{
+    630.72,635.9
+     being stabilized and working in this position because not only does our shoulder
+},
+{
+    635.9,639.56
+     have to work with the kettlebell right over it, but the Turkish get up a lot we
+},
+{
+    639.56,645.0
+     get sideways. So this is like a rolling arm bar with the kettlebell.
+},
+{
+    646.52,648.42
+     I really like these ones.
+},
+{
+    648.42,651.26
+     You can even take it a step further where you go here,
+},
+{
+    651.26,653.12
+     go up on the forearm.
+},
+{
+    653.12,655.72
+     You can get pretty creative with this stuff.
+},
+{
+    655.72,660.04
+     All right, so rolling and wrist position are two.
+},
+{
+    660.04,664.32
+     Now, what if you're having trouble with this leg sweep
+},
+{
+    664.32,668.3
+     where we get here, I'll demonstrate without the kettlebell,
+},
+{
+    668.3,670.64
+     but we're here, boom, boom, okay.
+},
+{
+    670.64,673.68
+     Now, what about the bridge?
+},
+{
+    673.68,675.4
+     Where I'm here, okay.
+},
+{
+    675.4,680.4
+     So, how do I get from here to boom, this leg sweep?
+},
+{
+    681.0,683.56
+     So, just exactly practice that.
+},
+{
+    683.56,686.88
+     You can do it with the weight. You can do it with a
+},
+{
+    686.88,694.48
+     shoe, but I'll demonstrate it here. Let's get here. Position up. Okay. Bridge up.
+},
+{
+    694.48,699.08
+     Strong through my right arm. Strong through my left hip. Strong through my right leg.
+},
+{
+    699.08,713.22
+     Lower back down. When I lower back down, I'm being mindful of that right shoulder, right? So keep it back, keep it pinned down, bridge up, bridge up. So that's one thing. Now,
+},
+{
+    713.22,720.42
+     if you just need to work on the leg sweep, just get here, practice this. Be here, okay,
+},
+{
+    720.42,728.04
+     that was good. Come back down. Sometimes I think we're always so focused on the kettlebell as we should be
+},
+{
+    728.56,733.82
+     But this is a really nice way to practice this drill and make sure that you're getting your knee
+},
+{
+    734.32,740.44
+     In the spot that it needs to be in so it should be behind your hand. Maybe a little bit inside
+},
+{
+    741.36,743.36
+     closer towards my other leg
+},
+{
+    743.48,744.8
+     all right
+},
+{
+    744.8,747.88
+     what about coming down?
+},
+{
+    747.88,751.76
+     So, say that you're having a hard time with this.
+},
+{
+    751.76,752.8
+     Let's go to this.
+},
+{
+    752.8,754.56
+     So these are windmills, right?
+},
+{
+    754.56,755.48
+     So ready?
+},
+{
+    755.48,759.6
+     Let's have the camera get my entire body in this view.
+},
+{
+    759.6,761.28
+     You're gonna be here.
+},
+{
+    761.28,764.96
+     If I'm holding the kettlebell, left leg is forward.
+},
+{
+    764.96,765.64
+     And now I'm just gonna kettlebell, left leg is forward, and now I'm just going to
+},
+{
+    765.64,775.72
+     windmill. Come down, come back up. Come down, come back up. So with this, I'm
+},
+{
+    775.72,780.28
+     moving through my hip, I'm getting strong in this position. Now I'm staying
+},
+{
+    780.28,788.12
+     rooted in all points of contact with the ground, but then I'm punching up
+},
+{
+    788.12,789.12
+     towards the ceiling.
+},
+{
+    789.12,795.32
+     What I mean by that is I'm here and then it's a boom, punch up and get balanced.
+},
+{
+    795.32,799.72
+     Boom, punch up and get balanced.
+},
+{
+    799.72,805.0
+     That's a really good shoulder stability part task exercise of the get up.
+},
+{
+    806.32,807.32
+     Last but not least,
+},
+{
+    808.24,811.12
+     if you're having trouble with the lunge,
+},
+{
+    811.92,815.92
+     just practice lunges with an overhead kettlebell press.
+},
+{
+    816.76,819.88
+     So it's here, stand up, come down,
+},
+{
+    821.16,822.0
+     stand up,
+},
+{
+    824.56,827.96
+     down, stand up the entire time.
+},
+{
+    827.96,831.92
+     Keeping this kettlebell positioned right over my shoulder.
+},
+{
+    831.92,838.52
+     I don't want to see anything where you come down, your arms lowers, you're moving around.
+},
+{
+    838.52,843.2
+     Like I said earlier, you were going to stress your shoulder.
+},
+{
+    843.2,848.16
+     The more that you have to make up for balancing the kettlebell, if your lower body isn't balanced.
+},
+{
+    848.16,852.48
+     All right, those are great tips to get going with the get up.
+},
+{
+    852.48,853.48
+     Try them out.
+},
+{
+    853.48,854.96
+     Let us know what you think.
+},
+{
+    854.96,858.52
+     More importantly, give us some more exercise ideas.
+},
+{
+    858.52,860.8
+     Give us some more topics.
+},
+{
+    860.8,862.8
+     Do you like kettlebell stuff?
+},
+{
+    862.8,865.04
+     What about dumbbell stuff? What about barbell stuff? What about dumbbell stuff?
+},
+{
+    865.04,866.38
+     What about barbell stuff?
+},
+{
+    866.38,867.38
+     You name it.
+},
+{
+    867.38,871.82
+     We're here to do a ton of videos, a ton of topics on this stuff.
+},
+{
+    871.82,874.06
+     Long form style.
+},
+{
+    874.06,875.06
+     Let us know.
+},
+{
+    875.06,876.06
+     I'm going to go catch my breath.
+},
+{
+    876.06,877.06
+     All right.
+},
+{
+    877.06,879.06
+     Subscribe, everyone.
+},
+{
+    879.06,880.06
+     Talk to you later.
+},
+{
+    880.06,881.06
+     Bye.
+},
+{
+    881.06,882.06
+     Bye.
+},
+{
+    882.06,883.06
+     Bye.
+},
+{
+    883.06,884.06
+     Bye.
+},
+{
+    884.06,885.06
+     Bye.
+},
+{
+    885.06,886.06
+     Bye.
+},
+{
+    886.06,887.06
+     Bye.
+},
+{
+    887.06,888.06
+     Bye.
+},
+{
+    888.06,889.06
+     Bye.
+},
+{
+    889.06,889.56
+     Bye.
+},

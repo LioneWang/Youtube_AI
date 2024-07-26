@@ -1,0 +1,120 @@
+{
+    0.0,3.06
+     Yn ymwneud yw yw yw'r ystod yw'r ystod yw'r ystod.
+},
+{
+    3.06,6.1
+     Yn ystod yw'r ystod, mae'r ystod yn ymwneud yw'r ystod,
+},
+{
+    6.1,9.1
+     yw'r ystod yw'r ystod, a'r ystod yw'r ystod yn ymwneud.
+},
+{
+    9.1,11.1
+     Yn ymwneud yw'r ystod yw'r ystod yw'r ystod?
+},
+{
+    11.1,12.6
+     Yn ymwneud yw'r ystod?
+},
+{
+    12.6,14.6
+     Yn ymwneud yw'r ystod yw'r ystod?
+},
+{
+    14.6,16.6
+     Yn ymwneud yw'r ystod?
+},
+{
+    16.6,20.6
+     Yn ymwneud yw'r ystod, mae'n gweithio'r ystod,
+},
+{
+    20.6,24.1
+     yw ymwneud yw'r ystod yw'r ystod yw'r ystod yw'r ystod.
+},
+{
+    24.1,29.0
+     Yn ymwneud yw'r ystod yw'r ystod yw'r ystod yw'r ystod, a'n ymwneud yw'sgolwyddiadau cardinol. Yn ymddiwch yn y meddwl yw'r ysgolwyddiad, a'r hynny'n ddweud ymddiwch yn ymddiwch.
+},
+{
+    29.0,67.0
+     Rhaid, ddweud. Rwy'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweith o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r fr cyfnodd yma i'r ystod o'r oedolwch i'r mynd i'r tympaniadau.
+},
+{
+    67.0,87.4
+     Mae'r dwylai'r dweud o'r speciolwm o'r oedolwch. Mae'r dweud o'r dweud o'r speciolwm o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'r cyfnodd o'r oedolwch i'yddiadau ymlaen ymlaen yw'r ysgol. Yn ymdegwch y ddweud y ddweud, ydych yn y ddweud y ddweud.
+},
+{
+    88.0,91.4
+     Ddweud y ddweud y ddweud yn y ddweud y ddweud y ddweud.
+},
+{
+    92.2,96.4
+     Yn y ddweud y ddweud y ddweud, ydych yn y ddweud y ddweud.
+},
+{
+    97.0,101.2
+     Yn y ddweud y ddweud, y ddweud yn y ddweud, y ddweud yn y ddweud.
+},
+{
+    101.4,104.2
+     Yn y ddweud, ydweud yn y ddweud yn y ddweud yn y ddweud.
+},
+{
+    128.3,131.6
+     Yn y ddweud, ydweud yn y ddweud. gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r gyda'r down and back instead. Insert the otoscope into the external auditory meatus and inspect the canal for wax, discharge, inflammation and other abnormalities.
+},
+{
+    131.6,136.8
+     Gently proceed down the canal until the tympanic membrane is seen.
+},
+{
+    136.8,141.04
+     Move the speculum around to examine the whole of the tympanic membrane and identify the
+},
+{
+    141.04,142.64
+     normal landmarks.
+},
+{
+    142.64,145.52
+     This is a normal right tympanic membrane. On a
+},
+{
+    145.52,148.64
+     normal tympanic membrane you should be able to see the handle of the Malleus,
+},
+{
+    148.64,154.4
+     the light reflex in the anterior inferior quadrant and the PAS tensor. You
+},
+{
+    154.4,158.68
+     should look superiorly to see the PAS flaccidate also. Gently remove the
+},
+{
+    158.68,162.38
+     otoscope continuing to observe the ear canal for any pathology that may have
+},
+{
+    162.38,168.4
+     been missed on the way in. Repeat the examination on the other ear. i'w gwneud y canol ar gyfer eich perthologi ar gyfer y cyfnod yn ymwyaf. Rwy'n meddwl y dyfodol ar y ddweud.
+},
+{
+    171.92,175.68
+     Felly, mae'r ddweud y ddweud y ddweud, rwy'n meddwl y oedol yn y ddweud,
+},
+{
+    175.68,179.28
+     yn ymdweud y ddweud yn y ddweud y penderfyn ar y ddweud a'r ddweud y ddweud,
+},
+{
+    179.28,182.72
+     ac yn y ddweud y ddweud y ddweud yn y ddweud ar gyfer y ddweud.
+},
+{
+    182.72,None
+     A oedol y dyfodol ar gyfer y ddweud, y ddweud y ddweud yn y ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r
+},

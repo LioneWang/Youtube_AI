@@ -1,0 +1,136 @@
+{
+    0.0,7.8
+     Rheumatoid arthritis or RA is an autoimmune disease where patients live with chronic pain.
+},
+{
+    7.8,11.72
+     It affects 1.3 million people and it's more common in women.
+},
+{
+    11.72,13.98
+     Here are five warning signs to look out for.
+},
+{
+    13.98,19.82
+     The pain that can happen in rheumatoid arthritis can affect multiple joints in the body.
+},
+{
+    19.82,26.32
+     So most patients with rheumatoid arthritis will have pain in their hands and wrists and that's
+},
+{
+    26.32,30.52
+     usually symmetric so it'll affect both hands and both wrists.
+},
+{
+    30.52,33.16
+     But it can affect other joints of the body too.
+},
+{
+    33.16,41.52
+     Other commonly involved areas are the knees, the ankles, the feet, the hips, elbows, shoulder,
+},
+{
+    41.52,42.52
+     and neck.
+},
+{
+    42.52,46.68
+     The stiffness is frequently worse in the morning and
+},
+{
+    46.68,51.56
+     patients will describe waking up and needing extra time to get ready for
+},
+{
+    51.56,57.8
+     their day and the stiffness can last from 30 minutes to upwards of two hours.
+},
+{
+    57.8,62.92
+     Usually that stiffness will get better with moving around and and getting
+},
+{
+    62.92,67.92
+     going. Sometimes a hot shower will help with stiffness,
+},
+{
+    67.92,70.64
+     and it can be an overall sense of stiffness,
+},
+{
+    70.64,74.48
+     or it can be localized to the hands or wrists.
+},
+{
+    74.48,78.24
+     Swelling can be seen in the hands and the wrists,
+},
+{
+    78.24,81.2
+     and the joints can really become enlarged,
+},
+{
+    81.2,85.8
+     and fluid can be present in the joint space itself.
+},
+{
+    85.8,90.56
+     You can also see fluid in the knees and the ankles.
+},
+{
+    90.56,92.96
+     You can have swelling in the feet as well.
+},
+{
+    92.96,99.76
+     The fatigue that some patients with rheumatoid arthritis can experience can really be overwhelming
+},
+{
+    99.76,103.76
+     and maybe the reason that they wind up going to a physician.
+},
+{
+    103.76,105.78
+     It can last all day, they can
+},
+{
+    105.78,112.62
+     sometimes have difficulty sleeping or sometimes they feel the need to sleep all the time.
+},
+{
+    112.62,119.3
+     Loss of function can occur for several different reasons. It can occur secondary to the pain
+},
+{
+    119.3,125.64
+     or stiffness in the joints or because of fatigue, patients may not exercise or do their
+},
+{
+    125.64,133.32
+     usual activities. Rheumatoid arthritis, if untreated, can lead to damage in the
+},
+{
+    133.32,138.32
+     joints and that damage that occurs in the joints can lead to loss of function
+},
+{
+    138.32,143.4
+     over time. When patients experience these different symptoms, they really
+},
+{
+    143.4,149.08
+     should be seen by their physician and referred to a rheumatologist. Those symptoms that we
+},
+{
+    149.08,153.72
+     listed for rheumatoid arthritis are not only seen in rheumatoid arthritis but
+},
+{
+    153.72,158.78
+     in other conditions as well and a rheumatologist would be in a good
+},
+{
+    158.78,165.64
+     position to help make that diagnosis. With everyday health, I'm Taryn Brill.
+},

@@ -1,0 +1,72 @@
+{
+    0.0,7.48
+     Oral B, a mouthful of answers presents, what is plaque?
+},
+{
+    7.48,11.78
+     Plaque is an extremely sticky, colorless or pale yellow buildup of bacteria that regularly
+},
+{
+    11.78,13.78
+     forms on your teeth.
+},
+{
+    13.78,18.02
+     When your saliva, food, and fluids combine, they produce this buildup, which collects
+},
+{
+    18.02,19.88
+     where the teeth and gums meet.
+},
+{
+    19.88,23.86
+     Plaque contains acids that attack your tooth enamel and can damage the gums.
+},
+{
+    23.86,26.72
+     If not treated, the damage could become permanent.
+},
+{
+    26.72,29.12
+     When plaque accumulates and is not removed,
+},
+{
+    29.12,32.4
+     it can harden, trapping stains and turning into tartar.
+},
+{
+    32.4,34.8
+     Tartar is a yellow or brown color deposit
+},
+{
+    34.8,37.12
+     that forms and plaque hardens on the tooth.
+},
+{
+    37.12,40.2
+     Plac buildup can lead to gingivitis and gum disease,
+},
+{
+    40.2,42.24
+     so it's important to speak to your dental professional
+},
+{
+    42.24,44.1
+     about the best form of treatment.
+},
+{
+    44.1,48.16
+     If you are experiencing any symptoms, make sure you visit a dental professional for a proper
+},
+{
+    48.16,53.2
+     checkup. When it comes to plaque and tartar, a clean mouth starts with good brushing habits.
+},
+{
+    53.2,58.88
+     A healthier mouth starts with Oral B. Oral B is the number one dentist recommended toothbrush brand
+},
+{
+    58.88,None
+     worldwide. you
+},

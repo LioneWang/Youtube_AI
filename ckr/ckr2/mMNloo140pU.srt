@@ -1,0 +1,648 @@
+{
+    0.0,3.04
+     Today we have another video from Dr. David Oliver,
+},
+{
+    3.04,5.5
+     where he's gonna be talking to you all about
+},
+{
+    5.5,9.82
+     herniated discs, the causes of herniated and bulging discs,
+},
+{
+    9.82,13.0
+     as well as the symptoms you will feel if you have them,
+},
+{
+    13.0,14.74
+     as well as some of the treatment options
+},
+{
+    14.74,18.52
+     you can explore on your own to treat them from your home.
+},
+{
+    18.52,19.92
+     So when we talk about a herniated disc,
+},
+{
+    19.92,21.4
+     we have to look at the actual structure
+},
+{
+    21.4,22.28
+     that's involved here.
+},
+{
+    22.28,24.36
+     So we're talking about the intervertebral disc,
+},
+{
+    24.36,26.52
+     which is the disc that separates the
+},
+{
+    26.52,28.6
+     two bones in the spine.
+},
+{
+    28.6,32.64
+     So if we look at a model of the spine, you know, we have the different sections of the
+},
+{
+    32.64,33.64
+     spine.
+},
+{
+    33.64,35.16
+     We have our cervical spine, which is our neck.
+},
+{
+    35.16,37.2
+     We have our thoracic spine, which is our mid-back.
+},
+{
+    37.2,39.12
+     And then we have our lumbar spine, which is our low back.
+},
+{
+    39.12,43.08
+     So we're focused right now on this low back, this lumbar spine.
+},
+{
+    43.08,44.8
+     And if we look at the spine itself, we have the bones.
+},
+{
+    44.8,46.96
+     We have the vertebrae here, which is this white one,
+},
+{
+    46.96,47.92
+     and another one below it.
+},
+{
+    47.92,50.88
+     In between that, we have this tan color material
+},
+{
+    50.88,53.0
+     that's called your intervertebral disc.
+},
+{
+    53.0,56.0
+     And the way to think about an intervertebral disc
+},
+{
+    56.0,57.64
+     is it's like a big jelly donut.
+},
+{
+    57.64,59.88
+     So the outside's semi-firm,
+},
+{
+    59.88,62.16
+     and inside is a jelly-like material.
+},
+{
+    62.16,65.56
+     If we get enough damage to that outer ring of that disc,
+},
+{
+    65.56,68.72
+     that jelly-like material can start to squirt its way out.
+},
+{
+    68.72,71.24
+     This is not good because that jelly-like material
+},
+{
+    71.24,73.08
+     is not designed to be in those areas.
+},
+{
+    73.08,76.0
+     This can cause the symptoms of a herniated disc.
+},
+{
+    76.0,78.0
+     Unfortunately, herniated discs are very common
+},
+{
+    78.0,81.08
+     in society nowadays, and there's a variety of reasons for that.
+},
+{
+    81.08,84.52
+     The number one way to irritate a disc is flexion.
+},
+{
+    84.52,85.04
+     So basically flexion, if I were to irritate a disc is flexion. So basically
+},
+{
+    85.04,89.48
+     flexion, if I were to flex forward, this is flexion. So if we're to take the spine
+},
+{
+    89.48,92.44
+     model again and demonstrate that, if you were to look at the spine from the side
+},
+{
+    92.44,97.24
+     and you took, looked at this lower back and you flexed it forward, essentially
+},
+{
+    97.24,100.44
+     this front area of the spine you're compressing which pushes all the
+},
+{
+    100.44,104.48
+     material backwards. If you get enough compression and enough load, it's actually
+},
+{
+    104.48,107.16
+     going to cause a bulge or herniation at this back side of the
+},
+{
+    107.16,113.88
+     disc. So repeated flexion we find to be the most problematic for these spines. The
+},
+{
+    113.88,117.6
+     most common time you're flexing that spine is what you're doing right now,
+},
+{
+    117.6,122.36
+     sitting. Sitting is flexion. Every time we sit down, we flex our lower spine a
+},
+{
+    122.36,128.28
+     little bit. Studies have actually shown just sitting, even with with great posture will increase the pressure in that disc 50%.
+},
+{
+    128.28,131.72
+     You sit with poor posture you can increase it up over a hundred percent of
+},
+{
+    131.72,135.68
+     what it normally is. Repeated flexion, repeated sitting is going to weaken that
+},
+{
+    135.68,139.52
+     disc over time which is going to cause a disc bulge, can cause a herniation. The
+},
+{
+    139.52,143.4
+     most common symptoms we find with a herniated disc or a bulge discs are
+},
+{
+    143.4,147.44
+     localized pain. So we could just find pain that is just centered over the low back.
+},
+{
+    147.44,149.68
+     That can be a symptom of a bulge disc.
+},
+{
+    149.68,154.16
+     If that disc is starting to pinge or irritate a nerve root, we can have symptoms that travel
+},
+{
+    154.16,156.0
+     away from the spine.
+},
+{
+    156.0,158.4
+     The discs or the nerves that innervate our lower back.
+},
+{
+    158.4,161.76
+     So if we're to look at the spine again and we're to look at these yellow nerves, these
+},
+{
+    161.76,164.96
+     nerves exit the spine and travel down our leg.
+},
+{
+    164.96,166.44
+     They control the muscle activity,
+},
+{
+    166.44,169.4
+     they control the sensations of our lower limbs.
+},
+{
+    169.4,170.84
+     If they start to get irritated,
+},
+{
+    170.84,172.82
+     you're gonna start to feel symptoms down here.
+},
+{
+    172.82,175.56
+     It can start out with a general numbness and tingling,
+},
+{
+    175.56,178.44
+     it can progress to burning pain, radiating pain,
+},
+{
+    178.44,179.88
+     sharp pain, electric leg pain,
+},
+{
+    179.88,182.92
+     there's a variety of nerve-like symptoms that can develop.
+},
+{
+    182.92,185.84
+     If you get enough irritation to a nerve root,
+},
+{
+    185.84,190.5
+     you can actually start to develop weakness in those lower extremities. If we see muscle
+},
+{
+    190.5,194.26
+     weakness, we become more concerned about this condition, and it's something that needs to
+},
+{
+    194.26,197.74
+     be addressed immediately. So, as symptoms are hurting, a disc can be anything from just
+},
+{
+    197.74,202.16
+     general localized pain in your back. It can be a radiating type of pain, which can be
+},
+{
+    202.16,207.92
+     either numbness, tingling, burning, electric-like symptoms that travel away from the spine.
+},
+{
+    207.92,210.52
+     These can go down your leg, they can go to your knee,
+},
+{
+    210.52,211.8
+     they can go to the backside of your leg,
+},
+{
+    211.8,214.04
+     the front side, they can go all the way to your toes.
+},
+{
+    214.04,215.88
+     These are what we call radiating symptoms
+},
+{
+    215.88,217.78
+     because of impingement of a nerve root.
+},
+{
+    217.78,220.76
+     So when we talk about sitting equaling flexion,
+},
+{
+    220.76,222.76
+     I wanna go into this a little more detail,
+},
+{
+    222.76,228.08
+     because some people don't really understand why that is. Basically when you sit down this lower back
+},
+{
+    228.08,231.16
+     portion here you have a little bit of a curve or you should anyway but most
+},
+{
+    231.16,234.88
+     people don't. Hardly anybody sits down at their computer or at their table and
+},
+{
+    234.88,238.28
+     sits there like this. Most people the most common thing is actually to flatten
+},
+{
+    238.28,241.64
+     their low back out a little and push it against the back of the chair. That's
+},
+{
+    241.64,248.08
+     essentially taking those lower vertebrae and flexing them forward. Most people will sit there at their computers and type away and
+},
+{
+    248.08,251.16
+     again we have that head moving forward and we're just in this rounded position.
+},
+{
+    251.16,255.28
+     So a way to visualize that is if I'm sitting here with good curved posture
+},
+{
+    255.28,259.64
+     this is good. We're not flexing forward as much but as soon as I round out my
+},
+{
+    259.64,263.16
+     lower back and sit down that's what happens. So we're flexing those lower
+},
+{
+    263.16,266.68
+     vertebrae putting more pressure through these lower discs,
+},
+{
+    266.68,268.88
+     which eventually is gonna cause weakness.
+},
+{
+    268.88,272.52
+     Most people are sitting eight to 12 hours a day, every day.
+},
+{
+    272.52,274.24
+     You do that enough, you're gonna weaken those discs
+},
+{
+    274.24,275.68
+     and eventually you'll have a problem.
+},
+{
+    275.68,277.6
+     So for treatments of a herniated discs,
+},
+{
+    277.6,279.96
+     there's a variety of things you can try to do yourself
+},
+{
+    279.96,282.64
+     at home to alleviate some of that irritation
+},
+{
+    282.64,285.6
+     and that inflammation that's occurring at that disc level.
+},
+{
+    286.24,290.96
+     So the easiest one to do is avoid the activities that are irritating it. So that means avoiding
+},
+{
+    290.96,294.72
+     as much sitting as possible. This is hard for some people because of work, but you need to take
+},
+{
+    294.72,299.36
+     breaks at least. Get up every 20 to 30 minutes, at least for a minute or two, and walk around.
+},
+{
+    300.0,304.24
+     The other thing you could do is ice. Ice is a great way to decrease inflammation.
+},
+{
+    304.24,306.4
+     You do not want to put heat on the low back when it's
+},
+{
+    306.4,307.52
+     in an inflamed state like this.
+},
+{
+    307.52,309.24
+     You can actually make the symptoms worse.
+},
+{
+    309.24,311.8
+     I can't tell you how many times I've had people come to my office
+},
+{
+    311.8,314.88
+     and they tell me, I fell asleep on a heating pack last night
+},
+{
+    314.88,316.04
+     and I couldn't move this morning.
+},
+{
+    316.04,317.0
+     Well, there's a reason for that.
+},
+{
+    317.0,319.44
+     The heat increased the inflammation in the low back,
+},
+{
+    319.44,321.2
+     which caused more pressure on the nerve,
+},
+{
+    321.2,322.76
+     more pressure at the disc level,
+},
+{
+    322.76,324.24
+     which caused more symptoms.
+},
+{
+    324.24,328.84
+     So, icing for 20 minutes on and at least 40 minutes off,
+},
+{
+    328.84,330.0
+     repeating that throughout the day,
+},
+{
+    330.0,331.96
+     the first several days of the injury,
+},
+{
+    331.96,334.56
+     can go a long way in reducing that inflammation.
+},
+{
+    334.56,336.92
+     So you want to ice, you want to reduce the activities
+},
+{
+    336.92,338.52
+     that are stressing those discs.
+},
+{
+    338.52,340.24
+     When you're resting, instead of sitting,
+},
+{
+    340.24,342.96
+     what you should do is lay down with your feet up
+},
+{
+    342.96,345.76
+     on an object, either a chair or you can put
+},
+{
+    345.76,350.08
+     pillows on your knees to take some pressure off. Anytime your knees are flexed up, you're going to
+},
+{
+    350.08,353.76
+     take pressure off your low back. So when you're sleeping at night, if you sleep on your back,
+},
+{
+    353.76,357.44
+     try putting pillows under your knees. Take some pressure off. If you're sleeping on your side,
+},
+{
+    357.44,360.88
+     try actually putting a pillow between your knees and that'll take pressure off your low back as
+},
+{
+    360.88,366.28
+     well. The most common time for people that have pain and irritation is actually in the morning time
+},
+{
+    366.28,367.88
+     because that disc swells overnight.
+},
+{
+    367.88,369.4
+     It's very common to see that.
+},
+{
+    369.4,371.44
+     You want to be very careful in the morning time,
+},
+{
+    371.44,373.44
+     getting out of bed so you don't irritate it.
+},
+{
+    373.44,375.12
+     So no flexion at all.
+},
+{
+    375.12,377.72
+     The first couple hours that you get up,
+},
+{
+    377.72,379.04
+     you want to walk around and try
+},
+{
+    379.04,380.64
+     and just get things moving gently.
+},
+{
+    380.64,382.12
+     You want to avoid anything that causes pain,
+},
+{
+    382.12,383.44
+     is the general rule.
+},
+{
+    383.44,388.76
+     There are a variety of exercises you can do to help with the pain. So one of the best ones and one of the ones
+},
+{
+    388.76,392.28
+     I always give patients initially when they come in this is the cat cow. It's a simple
+},
+{
+    392.28,398.68
+     basic exercise that we can utilize to eliminate some of the irritation or eliminate some of
+},
+{
+    398.68,403.06
+     the bulging that's going on. It's very good for most people. I did an extensive video
+},
+{
+    403.06,406.16
+     on the cat cow exercise and how to do it properly and the things to avoid
+},
+{
+    406.16,408.12
+     so you could check it out at backauthority.com.
+},
+{
+    408.12,409.68
+     There are also many other exercises you could do
+},
+{
+    409.68,411.6
+     to try to eliminate some of that irritation
+},
+{
+    411.6,414.74
+     and that stress on the nerve or the disc level.
+},
+{
+    414.74,416.64
+     So it's important to try to look into these
+},
+{
+    416.64,419.16
+     and only do exercises that feel good.
+},
+{
+    419.16,420.36
+     If you're doing an exercise
+},
+{
+    420.36,421.64
+     and it's increasing your symptoms
+},
+{
+    421.64,424.12
+     or causing more discomfort, it's not a good exercise.
+},
+{
+    424.12,428.04
+     When it comes to low backs, the rule is not no pain, no gain.
+},
+{
+    428.04,431.04
+     If you're feeling pain, you should avoid that activity.
+},
+{
+    431.04,432.64
+     And if none of these modifications,
+},
+{
+    432.64,436.64
+     whether it's the ice or the activity limitations,
+},
+{
+    436.64,439.12
+     avoiding flexion or doing your cat cow,
+},
+{
+    439.12,441.2
+     if that's not helping to alleviate your symptoms,
+},
+{
+    441.2,443.24
+     it's important you seek professional help.
+},
+{
+    443.24,448.24
+     All right, we hope you enjoyed this video. And if you did, please like it and share it with a friend.
+},
+{
+    448.24,455.12
+     Also, if you'd like to get a PDF of specific exercises to relieve herniated discs as well as low back pain,
+},
+{
+    455.12,460.24
+     we can send you that PDF right away. There's going to be a link to that somewhere here on the video
+},
+{
+    460.24,464.32
+     or there's going to be a link in the description below to get that PDF.
+},
+{
+    464.32,469.0
+     Also, make sure to check out our website back backintelligence.com, for more back pain tips.
+},

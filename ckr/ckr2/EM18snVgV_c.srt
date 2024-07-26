@@ -1,0 +1,484 @@
+{
+    0.0,6.0
+     Hi, I'm Dr. Adam Fields. Let's stretch and strengthen your TMJ. We're going to start with chin tucks.
+},
+{
+    6.0,13.0
+     What you do is take a breath in and when you breathe out, I want you to push your head back over your shoulders like this.
+},
+{
+    13.0,19.0
+     And let it relax for a second. Take another big breath and push it back.
+},
+{
+    19.0,26.24
+     Push, push, push, push. You're lifting and you're really opening up your suboccipitals when you do this and that helps relax the TMJ.
+},
+{
+    26.24,29.52
+     Once again, big breath in and breathe out.
+},
+{
+    30.52,33.12
+     I'm going to show you from the side. Big breath in and
+},
+{
+    34.64,36.64
+     push, push, push, push, push, push.
+},
+{
+    37.6,42.04
+     Good. Feel it. Feel it back there. Feel this lift. Feel the muscles get strong.
+},
+{
+    42.2,45.94
+     Most of us are like this. It tightens here and tightens the TMJ.
+},
+{
+    45.94,49.22
+     Big breath in and push it back.
+},
+{
+    52.22,53.44
+     Push, push.
+},
+{
+    53.44,54.82
+     Good.
+},
+{
+    54.82,56.02
+     Big breath in.
+},
+{
+    57.12,59.44
+     As you push, tuck the chin.
+},
+{
+    59.44,60.94
+     Let's see a double chin on you.
+},
+{
+    61.96,63.18
+     Good.
+},
+{
+    63.18,66.48
+     Okay, now we're gonna do a little thumb resistance exercise. Get that
+},
+{
+    66.48,73.2
+     thumb right under your jaw. I want you to open your mouth and close your mouth with resistance.
+},
+{
+    73.2,76.0
+     We're going to open it about four seconds, close about four seconds.
+},
+{
+    80.24,86.4
+     So just go ahead and open that mouth wide. make sure the resistance is coming on the way open and
+},
+{
+    86.52,89.18
+     When you're closing you don't want to close quick on this one
+},
+{
+    95.28,99.78
+     The next one is also for the occipital right here take this part of your knuckle
+},
+{
+    100.2,110.12
+     This part of your knuckle put it right behind his bone behind your ear like, with the fingers pointing up your head and the same thing on the other side,
+},
+{
+    110.12,114.24
+     lift the suboccipital and pull down on the opposite side.
+},
+{
+    114.24,116.68
+     Go to the other side, lift.
+},
+{
+    116.68,117.68
+     Good.
+},
+{
+    117.68,119.52
+     This one is amazing.
+},
+{
+    119.52,123.72
+     People come into my office, they have a headache, oh, give me those occipital lifts.
+},
+{
+    123.72,124.72
+     Like, how's that?
+},
+{
+    124.72,126.2
+     Oh, whoa, it's much better.
+},
+{
+    126.2,132.6
+     Research shows that when the occipitals get tight, the masseter, the jaw muscle gets tight,
+},
+{
+    132.6,147.36
+     and we don't want those clenches tight. We want the clenches more relaxed and every other muscle working a little bit better, a little bit stronger.
+},
+{
+    152.24,158.04
+     Good. Okay, let's go ahead and do some tongue range of motion. So you're going
+},
+{
+    158.04,162.12
+     to bring your tongue to the back of your throat, hold it for about three four
+},
+{
+    162.12,167.52
+     seconds, then we're going to go to one side and the other side as you push out your cheek. Let's go ahead and do it to
+},
+{
+    167.52,173.4
+     the back. Glide that tip of your tongue towards your tonsils. You're going to hold
+},
+{
+    173.4,179.88
+     that for a while. Your tongue is going to go then to your left cheek. Hold that for
+},
+{
+    179.88,187.5
+     a while and to the right cheek. You're going to find this tickles your tongue a little bit and it tickles
+},
+{
+    187.5,194.28
+     the top of your mouth. You're opening your mouth wide and pushing your tongue against your cheek.
+},
+{
+    194.28,205.9
+     Keep that mouth wide open. The tongue is a worker. Let's exercise it. It helps in mixing your foods.
+},
+{
+    205.9,217.22
+     It binds and contorts itself in all different ways in the form of letters and speech.
+},
+{
+    217.22,224.86
+     Even when you sleep, your tongue is constantly pushing saliva down your throat.
+},
+{
+    224.86,227.0
+     Very good. Now we're going to open the jaw. We're going to move
+},
+{
+    227.0,230.16
+     it with your mouth really wide open. We're just going to move that jaw a little bit
+},
+{
+    230.16,236.24
+     to the left and to the right. So open wide. Feel a stretch on the muscles on the side
+},
+{
+    236.24,241.36
+     that you're pushing your jaw towards. You're kind of just moving it back and forth, moving
+},
+{
+    241.36,248.88
+     it back. One side might feel a little tighter than the other and really accentuate. Something feels tight go into a little bit. It's a slight movement. You're going to feel
+},
+{
+    248.88,251.76
+     your jaw exercise though. This is going to be a good one.
+},
+{
+    255.36,257.44
+     Oh that's good. Let's massage a little bit.
+},
+{
+    259.52,264.16
+     You can get your knuckles in there. Okay now we're going to go up right up where the cheeks are
+},
+{
+    264.16,266.8
+     and find some right where those cheek buns are,
+},
+{
+    266.8,269.6
+     find some tender spots and you're gonna open your mouth.
+},
+{
+    270.92,272.24
+     This one's pretty intense.
+},
+{
+    276.4,277.48
+     Feel the pain.
+},
+{
+    288.6,295.8
+     Ooh, it's a good one. If you're not feeling it, lock yourself underneath that cheekbone.
+},
+{
+    295.8,307.84
+     This one's my favorite.
+},
+{
+    307.84,308.84
+     It opens the jaw.
+},
+{
+    308.84,311.84
+     I want you to listen to your voice after you do this also.
+},
+{
+    311.84,315.88
+     We're going to work the mouth openers on this.
+},
+{
+    315.88,320.2
+     Your tongue is going to be pushed against the lower teeth and curled forward and the
+},
+{
+    320.2,322.24
+     mouth is going to be open.
+},
+{
+    322.24,327.44
+     Give yourself really good posture on this perfect proud posture.
+},
+{
+    327.44,331.76
+     Give yourself a proud posture that really push your head back over your shoulders and
+},
+{
+    331.76,334.0
+     give your mouth as wide as you can.
+},
+{
+    334.0,336.68
+     Push that tongue down on top of the teeth.
+},
+{
+    336.68,341.92
+     You're really working the antagonistic muscles to the clenches and opening the back of your
+},
+{
+    341.92,342.92
+     throat.
+},
+{
+    342.92,344.68
+     You'll love what this does for your voice.
+},
+{
+    344.68,348.2
+     You'll get some of your more depth in your voice. You'll feel a vibration in
+},
+{
+    348.2,353.2
+     your skull. It's really going to help your TMJ also.
+},
+{
+    353.44,358.84
+     Alright good. Next we're going to massage the back of your skull. Let's start with
+},
+{
+    358.84,363.4
+     your left hand and you're going to reach it around to the back of your head and
+},
+{
+    363.4,366.68
+     get your fingers right underneath your skull.
+},
+{
+    366.68,368.56
+     Get right under there.
+},
+{
+    368.56,369.56
+     Feel it.
+},
+{
+    369.56,370.56
+     You're going to have a little tension under there.
+},
+{
+    370.56,371.56
+     Get that middle finger in there.
+},
+{
+    371.56,374.88
+     Do some cross fiber massaging.
+},
+{
+    374.88,376.88
+     Find any tender spots.
+},
+{
+    376.88,379.12
+     Even go a little bit below the suboccipital.
+},
+{
+    379.12,382.56
+     Bring your head down a bit if that works better for you.
+},
+{
+    382.56,383.56
+     Get way over to the side.
+},
+{
+    383.56,386.0
+     Cover the whole span of it.
+},
+{
+    386.0,388.88
+     Just work it neat in there.
+},
+{
+    388.88,390.58
+     Give yourself some attention here.
+},
+{
+    393.36,394.96
+     It's gonna be paying off for you.
+},
+{
+    401.76,404.32
+     Okay, we're gonna switch to the other hand.
+},
+{
+    411.64,413.2
+     Again, dig on in people. People wondering about healthcare.
+},
+{
+    413.2,419.44
+     Well, it's not about healthcare as much as it about self-care.
+},
+{
+    419.44,430.98
+     You are with you 24 seven and a little care to yourself is going to go a long way. Bring that head
+},
+{
+    430.98,438.32
+     down a little bit if you have to get in there a little bit more. Next we're going
+},
+{
+    438.32,447.76
+     to do the open mouth exercise again. My favorite. So go ahead and just give yourself really good posture. The
+},
+{
+    447.76,451.96
+     chest is up. Stick that tongue. You're going to be taking the tongue and pushing
+},
+{
+    451.96,484.74
+     that jaw down. Open. That was good.
+},
+{
+    484.74,488.4
+     Let's massage that TMJ a little bit.
+},
+{
+    488.4,490.12
+     That muscle is amazing.
+},
+{
+    490.12,492.52
+     That muscle can exert about 200 pounds.
+},
+{
+    492.52,495.76
+     The human bite is very dangerous.
+},
+{
+    495.76,499.72
+     Strongest bite is size in the human body.
+},
+{
+    499.72,501.72
+     Good.
+},
+{
+    501.72,504.92
+     Work it a little bit.
+},
+{
+    504.92,505.0
+     Okay, we're going to do another open mouth exercise. Good, work it a little bit.
+},
+{
+    505.0,508.24
+     Okay, we're gonna do another open mouth exercise.
+},
+{
+    508.24,509.24
+     And listen to your voice.
+},
+{
+    509.24,510.64
+     Listen to that, hey, how you doing?
+},
+{
+    510.64,512.92
+     Let's say it, say hey, how you doing?
+},
+{
+    512.92,516.28
+     You'll get a little more resonance in your voice with these exercises.
+},
+{
+    516.28,551.36
+     Go ahead and open that mouth again. and Oh, that was great.
+},
+{
+    551.36,554.6
+     So a lot of the jaw, really it's about relaxing.
+},
+{
+    554.6,556.56
+     A lot of people clench at night.
+},
+{
+    556.56,557.56
+     We need to get relaxing.
+},
+{
+    557.56,562.2
+     So what we're going to do is we're going to do, we're going to have the tongue touching
+},
+{
+    562.2,563.2
+     the rift of the mouth.
+},
+{
+    563.2,568.04
+     And we're going to do some inhales and exhales.
+},
+{
+    568.04,572.04
+     When you exhale, I want you to think the word peace.
+},
+{
+    572.04,577.8
+     Just saying that word peace will turn off certain parts of your brain to decrease the
+},
+{
+    577.8,581.2
+     fight or flight response, to decrease stress.
+},
+{
+    581.2,584.56
+     Hung up, you can close your eyes.
+},
+{
+    584.56,588.24
+     Just relax your eyes, relax your jaw.
+},
+{
+    588.24,591.0
+     This is a relaxing pose.
+},
+{
+    591.0,None
+     Just breathe in and as you breathe out, say the word peace in your head. you you you you
+},

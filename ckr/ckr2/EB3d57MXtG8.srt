@@ -1,0 +1,692 @@
+{
+    0.0,10.84
+     Hello, my name is Anne Green and Nauman.
+},
+{
+    10.84,15.56
+     I'm a physical therapist from the Orthopedic Rehab Center on Tilly Drive.
+},
+{
+    15.56,19.16
+     I'm here today to talk to you about how to use a TENS unit.
+},
+{
+    19.16,24.12
+     TENS stands for Transcutaneous Electrical Nerve Stimulation, which basically means using
+},
+{
+    24.12,28.84
+     electricity to trick the brain into not feeling as much pain.
+},
+{
+    28.84,31.52
+     We use TENS for all kinds of pain.
+},
+{
+    31.52,37.0
+     TENS is used for postoperative pain and can help decrease the use of opioid medications.
+},
+{
+    37.0,40.32
+     TENS is also used for chronic pain.
+},
+{
+    40.32,46.64
+     TENS is even used by women in labor when they're having babies.
+},
+{
+    52.64,57.28
+     TENS is a very safe modality and it's been around for a long time, but there are some precautions. So we don't use TENS directly over the heart.
+},
+{
+    57.28,61.52
+     We don't use TENS over the carotid arteries.
+},
+{
+    61.52,64.48
+     We don't use TENS with the brain in the middle.
+},
+{
+    66.54,70.64
+     carotid arteries. We don't use tins with the brain in the middle. We don't use tins if there are any implanted electrical devices or if you have a
+},
+{
+    70.64,76.1
+     cardiac arrhythmia, particularly in the area of the pregnancy, except during
+},
+{
+    76.1,82.0
+     labor. Tins doesn't mix well with water so you don't wear tins in the shower.
+},
+{
+    82.0,85.04
+     It's really easy when the tins is hooked on your pants
+},
+{
+    85.04,88.48
+     to drop it in the toilet, so you want to be careful not to do that.
+},
+{
+    88.48,97.0
+     The last thing is that we don't want to use tins for pain that we don't know the cause of. If
+},
+{
+    97.0,102.56
+     there's pain, we don't want to be using tins to mask it if we don't know what the cause is because
+},
+{
+    102.56,107.0
+     the pain is telling you something and it needs to be evaluated.
+},
+{
+    107.0,130.92
+     So when you get your TENS unit, it will come some electrode wires like this. So the
+},
+{
+    130.92,135.2
+     first thing that you'll need to do is to put the batteries in. So if you turn
+},
+{
+    135.2,140.34
+     over the tens to the back and slide this out you'll see there's a battery area
+},
+{
+    140.34,147.12
+     to put the batteries in. Mine are already in there. So then you're going to close it back up.
+},
+{
+    147.12,151.64
+     And then what you're going to need to do is put the electrode wires in.
+},
+{
+    151.64,156.48
+     So the wires are, in order to bring the electricity from the little unit
+},
+{
+    156.48,157.64
+     into you.
+},
+{
+    157.64,160.28
+     When you look at the wires, you will see
+},
+{
+    160.28,163.52
+     that there is a straight end and a bent end.
+},
+{
+    163.52,167.5
+     The bent end goes in the machine. You'll see at the top of the machine
+},
+{
+    167.5,170.84
+     there are two little holes. You put the
+},
+{
+    170.84,174.64
+     bent end in, push it all the way in,
+},
+{
+    174.64,177.94
+     and then you're going to take
+},
+{
+    177.94,181.46
+     the electrodes. So if you are having
+},
+{
+    181.46,184.98
+     post op, you're using the TENS for postoperative pain,
+},
+{
+    184.98,185.88
+     your electrodes will be placed by your surgeon op, you're using the TENS for post operative pain, your electrodes
+},
+{
+    185.88,188.36
+     will be placed by your surgeon.
+},
+{
+    188.36,194.84
+     If you're using TENS more for other types of pain, then you might be applying them yourself.
+},
+{
+    194.84,201.46
+     I'm going to show you how to set it up with the electrodes as if you were doing it yourself.
+},
+{
+    201.46,210.0
+     So the electrodes come in a little bag. There are four electrodes in the bag.
+},
+{
+    210.0,215.0
+     And what you're going to do is take the straight end of the electrode wire and
+},
+{
+    215.0,227.0
+     push it into the little hole here on the electrode. So you want to push it all the way in so that there's no metal showing.
+},
+{
+    228.84,230.0
+     Now,
+},
+{
+    230.0,234.4
+     there are four electrodes. You can use either two or four electrodes when you're
+},
+{
+    234.4,236.46
+     using the tens on yourself.
+},
+{
+    236.46,239.84
+     If you have a small area of pain, you would use two.
+},
+{
+    239.84,242.08
+     If you have a larger area of pain,
+},
+{
+    242.08,244.18
+     you would use four.
+},
+{
+    244.18,247.0
+     I'm going to show you first how to do it on
+},
+{
+    247.06,254.06
+     my arm and then we'll talk about how you might place it on your low back.
+},
+{
+    256.24,261.32
+     So now what we need to do is apply the electrodes. So we're going to pretend that I have an elbow
+},
+{
+    261.32,269.6
+     problem. So I'm going to show you how I would put the electrodes on my elbow. So when you use the electrodes you want to try not to
+},
+{
+    269.6,273.44
+     touch them anymore than you have to because they're sticky and the more
+},
+{
+    273.44,277.64
+     you touch them the more sticky stuff you lose. So I'm going to peel it off trying
+},
+{
+    277.64,283.12
+     just to touch the very edge of it and I'm going to put the area of pain in
+},
+{
+    283.12,287.4
+     between the two electrodes. So we're pretending that my elbow is hurting here,
+},
+{
+    287.4,289.4
+     I'm going to put one below the elbow,
+},
+{
+    289.4,292.4
+     and then I'm going to peel the other one off,
+},
+{
+    294.4,297.4
+     and I'm going to put the other one above.
+},
+{
+    297.4,300.4
+     So now I have one below and one above.
+},
+{
+    301.4,304.6
+     If you were going to use the Tendzuta on a bigger area,
+},
+{
+    304.6,306.2
+     you would need to use four electrodes.
+},
+{
+    306.2,311.44
+     So we already have one set of wires plugged in with the control right next to it.
+},
+{
+    311.44,313.72
+     Now we're going to plug the next set in.
+},
+{
+    313.72,317.82
+     Same thing, the bent end goes into the machine.
+},
+{
+    317.82,320.5
+     And then the straight end goes to the electrodes.
+},
+{
+    320.5,324.14
+     And in order to place the electrodes, what I would do is put the area of pain in the
+},
+{
+    324.14,325.0
+     middle of the electrode.
+},
+{
+    325.0,333.0
+     So I might put one electrode here above the area of pain and then hooked into the same electrode,
+},
+{
+    333.0,338.0
+     that same wire, put the other one lower and to the opposite side.
+},
+{
+    338.0,344.0
+     And then the next set, you would do the same thing so that what you get is kind of the area of pain in the middle.
+},
+{
+    344.0,346.44
+     And we have kind of a crisscross pattern.
+},
+{
+    348.2,354.12
+     If you had more leg pain, then what you could do is use two electrodes on the back,
+},
+{
+    354.12,358.64
+     and then use two electrodes down on the leg.
+},
+{
+    360.12,363.12
+     So if you had upper back or neck pain, you could do the same thing.
+},
+{
+    363.12,366.48
+     So you'd put your electrodes criss-crossed, criss-crossed
+},
+{
+    366.48,367.96
+     with the same ideas in the low back.
+},
+{
+    370.76,372.44
+     Now in order to turn it on, we're going
+},
+{
+    372.44,374.52
+     to open the front door of the unit.
+},
+{
+    374.52,377.44
+     So there's a little door right here.
+},
+{
+    377.44,380.68
+     You're going to flip it down, and you'll see the controls.
+},
+{
+    380.68,382.88
+     The first control that we're going to talk about
+},
+{
+    382.88,384.24
+     is the on-off button.
+},
+{
+    384.24,385.68
+     That's this button right here.
+},
+{
+    385.68,390.52
+     So if you push that button, the unit should come on.
+},
+{
+    390.52,394.84
+     And there you can see that the screen has got some things on it.
+},
+{
+    394.84,398.24
+     The next thing we need to do is decide the mode.
+},
+{
+    398.24,401.32
+     Or there's lots of different ways you can set the 10s unit.
+},
+{
+    401.32,406.34
+     So we're going to pick one of the pre-program modes and that comes to
+},
+{
+    406.34,413.62
+     right here. There's a mode button right there. It's the top row, the second one from the
+},
+{
+    413.62,417.72
+     right. So if you push the mode button, some choices will come up and you can see them
+},
+{
+    417.72,423.46
+     on the screen. So right now it's on constant mode. That's not one I recommend. It's just
+},
+{
+    423.46,425.48
+     continuous 10s and people get used to it
+},
+{
+    425.48,430.28
+     really fast and you have to keep turning it up. So that's not one I recommend. You
+},
+{
+    430.28,435.0
+     can do what's called burst mode. That's another choice. That's a good
+},
+{
+    435.0,439.8
+     mode to choose. There's two burst modes. So the second burst mode, they each feel
+},
+{
+    439.8,444.2
+     a little different. Or you can use one of the modulation modes. So there's
+},
+{
+    444.2,445.12
+     modulation one and modulation two. So either one of the modulation modes. So there's modulation 1
+},
+{
+    445.12,449.68
+     and modulation 2. So either one of the burst modes or one of the modulation
+},
+{
+    449.68,453.48
+     modes are what I recommend. So I'm going to go ahead with this modulation mode
+},
+{
+    453.48,459.28
+     right here. So now I've got, I've chosen, I've got it on, I've chosen my mode and
+},
+{
+    459.28,464.48
+     the last thing you can think about is the timing. So there's a little timer here.
+},
+{
+    464.48,466.8
+     It looks like a clock face that's right below the mode button and you can think about is the timing. So there's a little timer here. It looks like a clock face
+},
+{
+    466.8,471.92
+     that's right below the mode button and you can push it and you can choose 60 minutes, 30 minutes
+},
+{
+    473.2,479.6
+     or continuous mode. So I'm going to choose the, well that was a 15. Okay so I'm going to choose
+},
+{
+    479.6,488.88
+     a 30 minute. So you could choose 60, 30 or 15. Okay And that will just, it will go for that amount of time and then automatically shut off.
+},
+{
+    488.88,490.84
+     And now I'm going to close that window.
+},
+{
+    490.84,492.68
+     And now we're going to turn the unit on.
+},
+{
+    492.68,497.16
+     And we turn the unit on at the top of it with these two dials.
+},
+{
+    497.16,501.84
+     So the dial on the right takes care of these electrodes that are hooked into that right
+},
+{
+    501.84,502.84
+     side.
+},
+{
+    502.84,506.02
+     The dial on the left we're not using right now.
+},
+{
+    506.02,511.9
+     So I'm going to go ahead and turn the unit on and I'm going to feel a little bit of buzzing
+},
+{
+    511.9,515.18
+     or tingling and I can definitely feel that right now.
+},
+{
+    515.18,519.34
+     So I feel a tingling and buzzing here and here and I can kind of feel it going right
+},
+{
+    519.34,522.16
+     along my elbow.
+},
+{
+    522.16,527.0
+     Some people describe it as like a feeling like something crawling, some people say it's tingling.
+},
+{
+    527.0,533.0
+     What we want to do is turn it up so that you can definitely feel the tingling fairly strong,
+},
+{
+    533.0,539.0
+     but not so high that it bugs you. You'll get better pain control, the stronger you can tolerate it on,
+},
+{
+    539.0,545.24
+     but we don't want it to be causing more discomfort. So you go ahead and turn it up as high as you need to
+},
+{
+    545.24,547.4
+     to feel it nice and strong.
+},
+{
+    547.4,549.92
+     So I'm going to go a little bit stronger here.
+},
+{
+    551.32,552.68
+     Oops, I went the wrong way.
+},
+{
+    552.68,554.3
+     So that's coming nice and strong.
+},
+{
+    554.3,555.6
+     Oh yeah, there we go.
+},
+{
+    556.82,558.4
+     So it's really tingling,
+},
+{
+    558.4,560.8
+     but I'm not getting any muscle twitching.
+},
+{
+    560.8,562.68
+     So I don't really want the muscle twitching,
+},
+{
+    562.68,564.38
+     but that's really, really tingling.
+},
+{
+    567.0,574.76
+     So I don't really want the muscle twitching, but that's really, really tingling. When you're ready to turn it off, you're going to go ahead and turn down the dial so that
+},
+{
+    574.76,577.26
+     you no longer feel the electricity.
+},
+{
+    577.26,580.4
+     So I know you're feeling it there.
+},
+{
+    580.4,585.4
+     If you have set the timer, it will automatically turn off the electricity after that time.
+},
+{
+    585.4,589.9
+     But then you want to go ahead and turn the unit off because otherwise you'll use up the batteries.
+},
+{
+    589.9,592.5
+     So then you would go ahead and turn the unit off.
+},
+{
+    592.5,596.3
+     When you do that, you're going to have to hold the on-off button down,
+},
+{
+    596.3,599.1
+     and then you'll see the screen go black.
+},
+{
+    599.1,603.1
+     Then what you're going to want to do is peel the electrodes off.
+},
+{
+    603.1,605.12
+     Again, you want to try not to
+},
+{
+    605.12,611.04
+     handle them any more than you have to. And then you're going to put them on your paper again.
+},
+{
+    613.28,621.2
+     Again, I'm trying not to handle it. And then they get zipped back into their ziplock bag.
+},
+{
+    621.84,625.68
+     The electrodes will be good for about a week's use
+},
+{
+    625.68,627.54
+     and then they'll get unsticky.
+},
+{
+    627.54,630.32
+     And you can get a few more days use out of them
+},
+{
+    630.32,632.28
+     if you take them off their paper,
+},
+{
+    632.28,634.48
+     put them sticky side up and put a little bit of water
+},
+{
+    634.48,637.4
+     on your fingers and get them wet and wait 60 seconds.
+},
+{
+    639.32,642.36
+     As you use it, you will get used to the sensation
+},
+{
+    642.36,644.84
+     of the electricity and you may need to turn it up
+},
+{
+    644.84,648.0
+     over time in order to keep that strong feeling of the electricity.
+},
+{
+    648.0,654.64
+     You can also use the TENS unit with your cryo cuff or with an ice pack. It's fine
+},
+{
+    654.64,659.36
+     to put them together with that and that can help to manage your pain using two
+},
+{
+    659.36,664.24
+     different things the ice and the TENS and that may be helpful. We don't want to use
+},
+{
+    664.24,668.04
+     the TENS continually for 24 hours because you get used to the
+},
+{
+    668.04,669.44
+     sensation of electricity.
+},
+{
+    669.44,675.3
+     So you're going to use the tins for 30 to 60 minutes at a time, and then you'll go ahead
+},
+{
+    675.3,680.56
+     and turn it off for a while, and then when you feel like your pain is bothering you again,
+},
+{
+    680.56,689.88
+     you can turn it back on. So you can leave the electrodes on and then turn the device on or off as you need to.
+},
+{
+    689.88,695.2
+     We worry a little bit about making sure people's skin doesn't get irritated by
+},
+{
+    695.2,702.08
+     the tins. So if you're using tins for chronic pain management, you want to be
+},
+{
+    702.08,705.24
+     sure every day to take the electrodes off, wash
+},
+{
+    705.24,710.72
+     the skin, let it air dry, and make sure that it's not irritated in any way. If
+},
+{
+    710.72,715.8
+     your skin it becomes irritated you don't want to place the TENS electrodes over
+},
+{
+    715.8,722.04
+     the skin. If you're using the TENS for postoperative pain, we actually don't
+},
+{
+    722.04,729.24
+     want you to do that. We want you to leave the TENS electrodes in place until after your first post-op visit with your surgeon.
+},
+{
+    729.24,737.16
+     After that, then you would do the same skin care regimen. If you have further
+},
+{
+    737.16,742.28
+     questions, then you can ask them from the person at OrthoCare who gives you the
+},
+{
+    742.28,745.52
+     unit. You can also call physical therapy
+},
+{
+    745.52,747.58
+     at the Orthopedic Rehab Center on Tilly Drive.
+},
+{
+    747.58,750.88
+     Our number is 847-7910.
+},
+{
+    750.88,754.72
+     So if you need more help than what you learned here today
+},
+{
+    754.72,756.88
+     or from the handout that we're gonna be giving you,
+},
+{
+    756.88,758.28
+     feel free to give us a call.
+},

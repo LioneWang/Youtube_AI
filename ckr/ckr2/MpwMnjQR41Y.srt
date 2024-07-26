@@ -1,0 +1,172 @@
+{
+    0.0,105.0
+     Mae'r gdweud o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o'r rhan o'r unig o'r gweithio a'r ddau'r cyfnod. Rwy'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r hyn o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'diwyll. Yn gyfnod o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    105.0,109.0
+     Rwy'n meddwl 5 mil o'r ddweud o'r ddweud,
+},
+{
+    109.0,113.0
+     efallai hybu o'r ddweud o'r ddweud o'r ddweud,
+},
+{
+    113.0,116.0
+     o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    116.0,120.0
+     Y ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    120.0,124.0
+     Yn gyfnod o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud,
+},
+{
+    124.0,187.0
+     o'r ddweud o'r ddweud o'r ddweud o'r d dweud o'r dwy'n dyn nhw i'n ddweud o'r dwy'n dyn nhw i'n ddweud o'r dwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'n ddwy'r parm o'r ddechrau'r ddechrau'r ddechrau'r ddech ddweud yma i ddweud yma o'ch 5 mil o'ch ddweud.
+},
+{
+    187.0,191.0
+     Brosig o'r brosig o'r llwyddiadau a'r llwyddiadau o'r llwyddiadau,
+},
+{
+    191.0,195.0
+     ond o'r llwyddiadau, nid o'r ffingers, ymgyrch o'r llwyddiadau,
+},
+{
+    195.0,197.0
+     ac mae'n ddweud o'r ddweud o'r ddweud.
+},
+{
+    197.0,208.76
+     Mae'n ddweud o'r ddweud o'r ddweud o'r ddweud. Y ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud yn ystod o'r ddweud o'r ddweud o'r seisio'r cyfnod, yn ymdweud yn cael ei ddweud o'r ddweud a'r ddweud.
+},
+{
+    208.76,213.76
+     Rwy'n meddwl i'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    213.76,216.28
+     Yn ymdweud, yw'r ddweud o'r ddweud,
+},
+{
+    216.28,219.16
+     ond mae'n meddwl i'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud,
+},
+{
+    219.16,222.28
+     o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud,
+},
+{
+    222.28,225.0
+     a'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud. Rwy'n meddwl i'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud, ac yn ddweud o'r ddweud o'r ddweud.
+},
+{
+    225.0,228.0
+     Felly, yn ddweud, yn ddweud, yn ddweud, yn ddweud, ac yn ddweud,
+},
+{
+    228.0,231.0
+     ac yn ddweud, yn ddweud, yn ddweud.
+},
+{
+    231.0,235.0
+     Rwy'n ddweud, yn ddweud, yn ddweud,
+},
+{
+    235.0,237.0
+     yn ddweud, yn ddweud, yn ddweud,
+},
+{
+    237.0,240.0
+     mae'r proses yn ddweud o'r ddweud.
+},
+{
+    240.0,242.0
+     Yn gyfnodd.
+},
+{
+    242.0,244.0
+     Rwy'n ddweud o'r gyfnodd troly,
+},
+{
+    244.0,246.0
+     ychydig i'rchydig yn y pach,
+},
+{
+    246.0,268.0
+     yn ddod i'r ddod i'r bod yn ymdill. Rwy'n ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'r ddod i'rgyrch o'r ffynir ac yn ymweld i'r elbau sydd yn ymweld i'r gwrdd ymlaen, ac nid oed yn ymddiad y tawl.
+},
+{
+    268.0,273.0
+     Nid oed yn ymddiad y ffynir i'r gwrdd ymlaen, yn ymddiad y tawl.
+},
+{
+    273.0,277.0
+     Rwyf i'n meddwl i'r ddweud, yn ymddiad y tawl yn ymddiad.
+},
+{
+    278.0,282.0
+     Mae'r gawning yn ymddiad o'r gwrdd ymddiad.
+},
+{
+    305.76,309.44
+     gyda'r cyfnod gyfnod gyfnod. Rwy'n gwych i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r gwn i'r g yw'r argynwys ar y cyflawn i'r gael. Rwy'n meddwl i'r gael. Y cyflawn i'r gael yn ymddiad, rwy'n meddwl i'r gael ar y gael.
+},
+{
+    309.44,329.2
+     Rwy'n meddwl i'r gael ar y gael. Rwy'n meddwl i'r gael, rwy'n meddwl i'r gael yn y rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaidwy'r ddwy, ac y ddwy yn y ddwy'r ddwy. Yn y ddwy'r ddwy, ddim yn ddwy'r ddwy ar y ddwy'r ddwy,
+},
+{
+    329.2,333.36
+     ddim yn ddwy'r ddwy ar y parm o'r ddwy'r ddwy.
+},
+{
+    333.36,339.36
+     Yn y ddwy'r ddwy, ddim yn ddwy'r ddwy, ac yn ddwy'r ddwy.
+},
+{
+    339.36,343.52
+     Yn y ddwy, ddwy'r ddwy, ddwy'r ddwy, ddwy'r ddwy, ddwy'r ddwy,
+},
+{
+    343.52,347.0
+     ddwy'r ddwy, ddwy'r ddwy, ddwy'r ddwy. Next, pull gown and glove up your arm so that the fingers are in the correct position.
+},
+{
+    347.0,350.0
+     Repeat this process with the other hand.
+},
+{
+    350.0,355.0
+     The gloves must cover the cuff of the gown as this is not waterproof.
+},
+{
+    355.0,359.0
+     Ensure gloves feel comfortable and fit snugly.
+},
+{
+    359.0,369.0
+     Take hold of the gown pass card and pull the left hand tie out of the card keeping hold of it. Pass Card a'r llwyfod ar y cael ei ddweud o'r cardau, yn cael ei ddweud. Pass y card ar y circulator,
+},
+{
+    369.0,373.0
+     yn cael ei ddweud o'r cardau yn cael ei ddweud.
+},
+{
+    373.0,386.0
+     Nid yw'r roi 360° ac yn cael ei ddweud o'r cardau,wni. Rydyn ni'n meddwl i'r tyfnol yn y bo ar y gwaith.
+},
+{
+    386.0,389.0
+     Rydyn ni'n meddwl i'r ffront a'r bach.
+},
+{
+    389.0,393.0
+     Rydyn ni'n meddwl i'r ffront a'r ffront a'r ffront.
+},
+{
+    393.0,None
+     Rydyn ni'n meddwl i'r ffront a'r ffront. Rydyn ni'n meddwl i'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r ffront a'r llyfr yma, nid yw'r cyfnod o'r llyfr o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyf
+},

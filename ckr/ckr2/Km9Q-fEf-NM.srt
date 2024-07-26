@@ -1,0 +1,328 @@
+{
+    0.0,6.08
+     Baby, you're trying to run further or faster.
+},
+{
+    6.08,7.92
+     What if I told you I could make you run better?
+},
+{
+    7.92,13.52
+     Let me show you how to improve your running form.
+},
+{
+    13.52,15.32
+     Okay.
+},
+{
+    15.32,23.4
+     Hey, free havers.
+},
+{
+    23.4,24.4
+     Welcome back to the channel.
+},
+{
+    24.4,26.56
+     Thanks for joining us. Dr. Lauren Linus.
+},
+{
+    26.56,30.74
+     And today I want to show you some of my favorite exercises to help to improve your running
+},
+{
+    30.74,35.12
+     form. Now we know that with running form, we want to improve efficiency, which means
+},
+{
+    35.12,39.2
+     we really want to work on number one, strengthening the muscles that assist with running. And
+},
+{
+    39.2,44.48
+     then number two, improving the motor patterns that we use to run. So before we get started,
+},
+{
+    44.48,46.04
+     I want you to do yourself a favor.
+},
+{
+    46.04,48.32
+     Go ahead, click subscribe right now.
+},
+{
+    48.32,49.36
+     And then hit that bell too,
+},
+{
+    49.36,51.04
+     so you get more notifications
+},
+{
+    51.04,52.84
+     of when we put out other awesome videos.
+},
+{
+    52.84,54.52
+     But let's get started.
+},
+{
+    54.52,56.84
+     So one of the exercises that we wanna start with
+},
+{
+    56.84,59.24
+     is working on strengthening our feet muscles
+},
+{
+    59.24,62.54
+     and just our lower extremity in a single leg position.
+},
+{
+    62.54,64.16
+     So Pogo hops are a good way to do that.
+},
+{
+    64.16,69.28
+     You're gonna start on one leg and then we're going to just get up on the toe. Okay, quick, quick,
+},
+{
+    69.28,74.32
+     quick, quick. Now, this is a great exercise to improve proprioceptive awareness, which means that
+},
+{
+    74.32,79.04
+     our brain knows where our body is in space. So, if you're a big trail runner, right, this is a good
+},
+{
+    79.04,86.96
+     way to work on improving knowing where our foot is in space. This is also a good exercise to work on improving
+},
+{
+    86.96,89.04
+     both the dorsiflexors and the plantar flexors.
+},
+{
+    89.04,91.28
+     So pushing down and then coming up.
+},
+{
+    91.28,94.36
+     Okay, really important muscles for running.
+},
+{
+    94.36,95.88
+     Now the great thing about this exercise
+},
+{
+    95.88,99.48
+     is that we can go a normal pace, we can pick it up.
+},
+{
+    99.48,102.28
+     Right, we can go slow, really absorb
+},
+{
+    102.28,104.0
+     into the knee and the foot.
+},
+{
+    104.0,106.24
+     But I would encourage you to try 30 to 50 of these
+},
+{
+    107.44,113.36
+     on one leg and then switch. Okay, exercise number one. Again, efficiency comes with improving
+},
+{
+    113.36,118.16
+     strength through our legs in that single leg position. That's a great way to do it. Next
+},
+{
+    118.16,126.88
+     exercise, come on over here, join me at the wall. Okay, something that we often see in runners when they become fatigued is they start leaning back.
+},
+{
+    126.88,132.16
+     Now this can be because of laziness in the glute muscles. Again, it can be because of fatigue,
+},
+{
+    132.16,136.12
+     but something we want to work on with running is just a nice comfortable lean forward. And this
+},
+{
+    136.12,146.08
+     is a good way to work on that. So here we're gonna start with one leg up and then we're gonna do a quick exchange. There's a car coming in.
+},
+{
+    146.08,155.64
+     We're gonna do that next one. Okay, take two. Okay, so something that we also want to work
+},
+{
+    155.64,159.94
+     on with running is improving our forward trunk lean. A lot of times you see with fatigue
+},
+{
+    159.94,164.52
+     or what we call kind of glute laziness is people leaning back when they run. No, we
+},
+{
+    164.52,166.76
+     want to work on just a nice, comfortable forward lean.
+},
+{
+    166.76,168.72
+     So, out of wall, this can be a wall.
+},
+{
+    168.72,170.12
+     I've had my runners do that.
+},
+{
+    170.12,172.24
+     Stop signs, maybe the hood of their car.
+},
+{
+    172.24,174.48
+     Okay, we're gonna start in that runners ready position.
+},
+{
+    174.48,177.52
+     From here, we're gonna do a quick exchange,
+},
+{
+    177.52,180.32
+     bringing that stance leg up and then switching.
+},
+{
+    180.32,183.56
+     Okay, this is also a good way to work on improving
+},
+{
+    183.56,186.48
+     where our leg falls in regards to our body with running.
+},
+{
+    186.48,192.5
+     A lot of times we see injuries with over striding, which means we get our foot farther in front of our base of support
+},
+{
+    192.5,198.16
+     than it should be when we run. Now an angle of more than about 10 degrees between the bottom of my foot and that floor
+},
+{
+    198.44,201.02
+     leads to an increased chance of injury.
+},
+{
+    201.02,205.08
+     So this is also a great exercise to work on getting that leg right
+},
+{
+    205.08,210.8
+     under our body when we run, which translates nicely right to hear that running form. And
+},
+{
+    210.8,215.2
+     this will help to decrease your chance of injury. So I encourage you to try 20 to 30
+},
+{
+    215.2,220.04
+     exchanges here. Quick, light on the feet. Okay. My last exercise I want to take you
+},
+{
+    220.04,230.4
+     guys through. Maybe you've been told before that you cross over a little bit when you run. Okay, I call it sometimes scissor rain when we're running. So in order to correct
+},
+{
+    230.4,234.12
+     that, I want hands out in front of you. Okay, you're going to find a line. So I'm going
+},
+{
+    234.12,237.0
+     to use this line right here. You're going to find a line. And then what I want you to
+},
+{
+    237.0,242.48
+     do, keep your hands right over that line. Practice just marching, getting your legs
+},
+{
+    242.48,248.8
+     to fall right under your hips. Okay, and without letting your legs kind of cross over.
+},
+{
+    248.8,252.96
+     Now this will feel difficult if you are one of those individuals who when they run they
+},
+{
+    252.96,254.52
+     kind of do this type of motion.
+},
+{
+    254.52,259.72
+     Now I'm exaggerating, but we know that individuals who have kind of that crossover gait, a lot
+},
+{
+    259.72,263.06
+     of times will develop IT band pain, maybe knee pain.
+},
+{
+    263.06,264.72
+     So this is a great exercise to try.
+},
+{
+    264.72,265.36
+     And I encourage
+},
+{
+    265.36,270.72
+     you to practice it for 15 to 20 feet. Okay, just retrain that motor pattern again. Do you come a
+},
+{
+    270.72,274.96
+     more efficient runner working on number one, strengthening those muscles, and then number two,
+},
+{
+    274.96,280.08
+     improving form can be a really, really good way to become a more efficient runner. Now,
+},
+{
+    281.68,285.94
+     again, strengthening is really important. We have a really awesome video that shows you five
+},
+{
+    285.94,288.22
+     of our favorite strengthening exercises.
+},
+{
+    288.22,289.58
+     You can find that here.
+},
+{
+    289.58,291.68
+     And then we also have a phenomenal
+},
+{
+    291.68,294.36
+     pre-hab running program that you can find
+},
+{
+    294.36,295.2
+     right on over here.
+},
+{
+    295.2,298.48
+     Check it out if you're looking to up your running game.
+},
+{
+    298.48,299.84
+     Otherwise, it's hot in LA today.
+},
+{
+    299.84,301.2
+     So I'm gonna go grab some water.
+},
+{
+    301.2,305.0
+     I'll see you guys out in the track. ["Snow White"]
+},

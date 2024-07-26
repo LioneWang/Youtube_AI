@@ -1,0 +1,252 @@
+{
+    0.0,11.36
+     Hi, I'm Juliet Gibson.
+},
+{
+    11.36,15.68
+     I am a board certified dermatologist practicing at Trinity Dermatology, which is a member
+},
+{
+    15.68,18.44
+     of U.S. dermatology partners.
+},
+{
+    18.44,24.72
+     One very common reason I see patients is for lesions of concern, like a growth that they're
+},
+{
+    24.72,25.28
+     concerned about.
+},
+{
+    25.28,31.48
+     Is this skin cancer? Is this okay? And so just some general tips on when you want
+},
+{
+    31.48,35.6
+     to seek a dermatologist. I tell patients to look out for things that are
+},
+{
+    35.6,41.48
+     changing, changing in color, size, symptoms. Maybe they didn't feel anything and
+},
+{
+    41.48,48.28
+     now it's getting painful or itchy itchy And I tell patients especially things that are
+},
+{
+    48.88,53.72
+     Bleeding you want to see a dermatologist things that are not healing
+},
+{
+    53.72,59.5
+     So if something's not healing in a few weeks, you definitely need to see your dermatologist to get that checked out
+},
+{
+    61.12,65.12
+     There are definitely certain things that will put you at a higher risk for getting a skin
+},
+{
+    65.12,66.56
+     cancer.
+},
+{
+    66.56,72.68
+     One is if you are fair skinned or you have light hair, light eyes, and if it's hard for
+},
+{
+    72.68,78.44
+     you to tan, so if you're usually burning and if you've had blistering sunburns in
+},
+{
+    78.44,82.4
+     the past, that puts you at a little bit of a higher risk.
+},
+{
+    82.4,87.12
+     If you've had a skin cancer, you're at a higher risk. If
+},
+{
+    87.12,91.84
+     you have someone in your family who has a skin cancer, another thing that puts you at a higher
+},
+{
+    91.84,97.28
+     risk of skin cancer is a history of indoor tanning. So this is even if you did it once,
+},
+{
+    97.28,101.36
+     when you were in college, this still puts you kind of at a higher risk because of the
+},
+{
+    101.36,105.36
+     concentrated UV radiation you're getting in those sessions.
+},
+{
+    105.36,106.72
+     And so that would be something where
+},
+{
+    106.72,108.36
+     you'd want to come in and see dermatologists
+},
+{
+    108.36,111.68
+     to get a full body skin check.
+},
+{
+    111.68,114.2
+     There are three main types of skin cancer.
+},
+{
+    114.2,116.76
+     They're the non-melanoma skin cancer, such as basal cell
+},
+{
+    116.76,119.68
+     cancer and sueyma cell cancer.
+},
+{
+    119.68,122.04
+     And then there's melanoma.
+},
+{
+    122.04,126.6
+     Basal cell cancer is the most common cancer. and that is the most thing that you're most
+},
+{
+    126.6,129.0
+     likely to have.
+},
+{
+    129.0,134.52
+     That type of cancer is very rare to spread to other parts of your body, but it's very
+},
+{
+    134.52,142.24
+     important to get tested and to treat after the biopsy because it can grow and invade
+},
+{
+    142.24,148.16
+     local structures and cause some local damage.
+},
+{
+    148.16,152.96
+     Squamous cell cancers are kind of a little bit up from basal cell cancers and how aggressive
+},
+{
+    152.96,153.96
+     they are.
+},
+{
+    153.96,160.76
+     They can spread from place to place and especially if they have certain high risk features.
+},
+{
+    160.76,166.72
+     And then we have melanomas which is what this is our most serious type of skin cancer
+},
+{
+    166.72,173.44
+     that can spread to different areas of your body and is something that needs to be treated
+},
+{
+    173.44,174.44
+     aggressively.
+},
+{
+    174.44,179.88
+     And if in certain states, we hope to catch it at an early stage where that's all we have
+},
+{
+    179.88,189.02
+     to do is cut it out, but sometimes it's kind of past then. And then we're going to be working with an oncologist
+},
+{
+    189.02,194.6
+     and you, and to kind of come up with the best treatment plan.
+},
+{
+    194.6,196.06
+     Every dermatologist does it differently,
+},
+{
+    196.06,198.46
+     but what I do is I go from head to toe.
+},
+{
+    198.46,199.82
+     And so I look in your scalp.
+},
+{
+    199.82,201.94
+     I see if there's anything that I'm concerned about.
+},
+{
+    201.94,207.24
+     I look closely at your face, your arms, your chest, your back, I look at your legs.
+},
+{
+    207.24,209.58
+     I will ask you if you would like me to look
+},
+{
+    209.58,212.68
+     at your genitalia, because for a lot of women,
+},
+{
+    212.68,215.08
+     that happens at the OB-GYN as well.
+},
+{
+    215.08,217.56
+     So it's really, for me, my patients' preferences,
+},
+{
+    217.56,219.4
+     but I do like to screen there,
+},
+{
+    219.4,222.56
+     because skin cancer can occur on anywhere there is skin.
+},
+{
+    223.32,226.08
+     We'll look at your buttocks, we'll look inside
+},
+{
+    226.08,230.8
+     your mouth, we'll look at your eyes, and then we'll even look in between your toes and on
+},
+{
+    230.8,235.88
+     the bottoms of your feet. We're looking at all of the different spots that you have that
+},
+{
+    235.88,242.72
+     you may have noticed came up. We're looking for even textural changes that sometimes tell
+},
+{
+    242.72,245.92
+     us maybe that there is a pre-cancer.
+},
+{
+    245.92,251.0
+     We are looking for spots that maybe you didn't notice that aren't healing.
+},
+{
+    251.0,257.4
+     You can see the link below to do a skin cancer risk assessment to get an idea for your own
+},
+{
+    257.4,259.76
+     personal risk for skin cancer.
+},
+{
+    259.76,263.6
+     There's also a link below to schedule an appointment with a board certified dermatologist to get
+},
+{
+    263.6,None
+     your full body skin exam.
+},

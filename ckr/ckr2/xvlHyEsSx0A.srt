@@ -1,0 +1,108 @@
+{
+    0.0,2.72
+     My friend here, something is you can do to keep your bones healthy and strong.
+},
+{
+    2.72,5.36
+     Our bones have the potential to be very powerful with the right training.
+},
+{
+    5.36,8.16
+     But if we neglect them, this can lead to injury, especially as we get older.
+},
+{
+    8.16,8.96
+     So let's train.
+},
+{
+    8.96,11.04
+     Exercise in general strengthens your bones.
+},
+{
+    11.04,13.84
+     And just like your muscles, your bones can adapt to increasing force.
+},
+{
+    13.84,15.76
+     The stronger the force is, the stronger the bones.
+},
+{
+    15.76,17.2
+     I didn't make the law, I just follow it.
+},
+{
+    17.2,20.08
+     You can use weights to increase the amount of force put through your bones.
+},
+{
+    20.08,22.24
+     Look for a full body press and a full body lift.
+},
+{
+    22.24,24.48
+     We can put even more force through our body with isometrics,
+},
+{
+    24.48,26.32
+     because you can always hold more weight than you can lift.
+},
+{
+    26.32,28.08
+     This is just a bar, chain, and spring.
+},
+{
+    28.08,29.52
+     I have other videos on how to make one.
+},
+{
+    29.52,31.36
+     You can also push and pull on a small tree.
+},
+{
+    31.36,32.88
+     Push with one arm and pull with the other.
+},
+{
+    32.88,34.32
+     And then switch and do the same thing.
+},
+{
+    34.32,36.88
+     If you don't have equipment, you can try explosive calisthenics.
+},
+{
+    36.88,40.24
+     Although your body weight doesn't change, the increased speed amplifies the force.
+},
+{
+    40.24,41.92
+     You don't need anything too complex.
+},
+{
+    41.92,43.52
+     Simple movements are enough to start.
+},
+{
+    43.52,46.16
+     All of this only applies if you build up progressively.
+},
+{
+    46.16,48.6
+     If you break all your bones, you're getting weaker, not stronger.
+},
+{
+    48.6,51.96
+     Among other things, make sure you're getting plenty of calcium and phosphates in your diet.
+},
+{
+    51.96,53.16
+     And don't forget the sun.
+},
+{
+    54.28,56.92
+     And we heal and we grow when we rest, so please rest.
+},
+{
+    56.92,59.08
+     I hope that can help you and you have a beautiful day.
+},

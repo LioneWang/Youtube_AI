@@ -1,0 +1,392 @@
+{
+    0.0,15.0
+     Music
+},
+{
+    15.0,17.6
+     First phase, a rehabilitation for patella
+},
+{
+    17.6,22.4
+     from moral pain syndrome injury is focused on controlling inflammation and pain,
+},
+{
+    22.4,29.28
+     regaining range of motion, minimizing weakness, and initiating neuromuscular control training. Consult with your
+},
+{
+    29.28,34.16
+     physician and physical therapist for precautions before doing any exercises.
+},
+{
+    34.16,39.8
+     The following are examples of exercises for phase one. You should continue to see
+},
+{
+    39.8,44.2
+     your physical therapist for the full protocol and treatment. Please consult
+},
+{
+    44.2,48.18
+     with your physical therapist if you have increased pain or have any other
+},
+{
+    48.18,49.94
+     questions.
+},
+{
+    49.94,53.74
+     During this phase, your physical therapist will determine if you would benefit from
+},
+{
+    53.74,58.98
+     a McConnell taping technique to assist with proper tracking of your kneecap.
+},
+{
+    58.98,62.98
+     This technique will allow you to strengthen and increase the motion in your knee with
+},
+{
+    62.98,66.48
+     much less pain.
+},
+{
+    66.48,68.76
+     Phase 1, Exercise 1.
+},
+{
+    68.76,73.9
+     This exercise is performed in a sitting position with the involved leg straight out in front
+},
+{
+    73.9,74.9
+     of you.
+},
+{
+    74.9,78.8
+     Roll up the towel and place it under your involved knee.
+},
+{
+    78.8,85.84
+     Tighten the muscles on the top of your thigh by pushing your knee down towards the towel. Focus on tightening
+},
+{
+    85.84,91.96
+     your thigh muscles without tightening your glutes. Hold each repetition for five
+},
+{
+    91.96,98.6
+     seconds and repeat ten times. Perform three sets.
+},
+{
+    107.76,113.64
+     Exercise 2. This exercise is performed in a lying down position with the involved knee straight and
+},
+{
+    113.64,117.52
+     uninvolved knee bent to about 90 degrees.
+},
+{
+    117.52,124.2
+     Tighten the thigh muscles of the involved knee and slowly lift your leg from the bed.
+},
+{
+    124.2,126.8
+     Make sure you keep your knee as straight as possible
+},
+{
+    126.8,131.12
+     as you lift and lower your leg. Repeat this exercise
+},
+{
+    131.12,138.12
+     10 times, perform three sets.
+},
+{
+    152.08,158.12
+     Exercise 3. First tie a bed sheet or a towel around the ankle of your involved leg.
+},
+{
+    158.12,160.92
+     Then lie down on your stomach.
+},
+{
+    160.92,167.88
+     Pull slowly on the bed sheet so that your knee bends to the point where you feel a gentle stretch in the front part of your thigh.
+},
+{
+    167.88,172.36
+     The stretch should be pain-free. Hold stretch
+},
+{
+    172.36,179.36
+     for 30 seconds. Repeat three times.
+},
+{
+    187.42,194.38
+     Exercise number four. In a standing position, place the foot of the involved leg on the top of a stool.
+},
+{
+    194.38,199.26
+     Slowly lean forward, keeping your back straight until if stretch is felt in the back of your
+},
+{
+    199.26,200.76
+     thigh.
+},
+{
+    200.76,206.32
+     You should only feel a gentle stretch without any pain in your knee.
+},
+{
+    206.32,208.8
+     Hold stretch for 30 seconds.
+},
+{
+    208.8,231.2
+     Repeat three times. Please consult with your physical therapist prior to advancing to phase two.
+},
+{
+    231.2,236.0
+     Phase two continues with the same goals and exercises as phase one.
+},
+{
+    236.0,241.24
+     Phase two focuses on restoring full range of motion, normalizing walking, and increasing
+},
+{
+    241.24,244.62
+     strength neuromuscular control.
+},
+{
+    244.62,247.92
+     Readiness for progression from one phase to the next is determined by your physical
+},
+{
+    247.92,253.16
+     therapists. The following are examples of exercise for phase two. You should
+},
+{
+    253.16,256.68
+     continue to see your physical therapists for the full protocol and treatment.
+},
+{
+    256.68,260.72
+     Please consult with your physical therapists if you have increased pain or
+},
+{
+    260.72,263.0
+     have any other questions.
+},
+{
+    263.0,266.08
+     Phase two, Exercise 1.
+},
+{
+    266.08,271.04
+     This exercise is performed standing with your back against the wall and feet position at
+},
+{
+    271.04,274.36
+     least one foot away from the wall.
+},
+{
+    274.36,279.28
+     Slowly slide down the wall so your knees are bent to about 45 degrees.
+},
+{
+    279.28,281.76
+     Then slide back up.
+},
+{
+    281.76,286.64
+     Keep knees in line with your feet and hips, not allowing them to touch as you lower down or push up. Keep knees in line with your feet and hips, not allowing them to touch as you lower
+},
+{
+    286.64,296.64
+     down or push up. Stay within a pain-free range. Repeat this exercise 10 times. Perform 3 sets.
+},
+{
+    310.2,313.98
+     Exercise number two. You will need a towel that is folded for this exercise.
+},
+{
+    313.98,318.48
+     Place the towel in between the wall and your uninvolved knee.
+},
+{
+    318.48,323.24
+     Press the side of the uninvolved leg into the towel.
+},
+{
+    323.24,328.3
+     Bend your in-bob knee slightly and squeeze buttocks. Hold up to
+},
+{
+    328.3,335.26
+     five seconds, repeat ten times, perform three sets. This exercise should be felt
+},
+{
+    335.26,339.06
+     on the standing leg's glutes.
+},
+{
+    346.44,353.08
+     Exercise number three. Standing in front of a step, lift involved leg onto step and slowly step up.
+},
+{
+    353.08,359.32
+     To step down, you will lower uninvolved leg first and slowly descend step.
+},
+{
+    359.32,365.4
+     Make sure you keep knees in line with your feet and hips.
+},
+{
+    365.4,377.36
+     Do not let the knee move in towards the other knee while stepping.
+},
+{
+    377.36,380.48
+     Repeat this exercise ten times.
+},
+{
+    380.48,387.44
+     Perform three sets.
+},
+{
+    387.44,389.52
+     Exercise number four.
+},
+{
+    389.52,397.28
+     While standing with feet together, tie band around knees.
+},
+{
+    397.28,402.6
+     Sit back in a slight squat position and take a step out to the side.
+},
+{
+    402.6,406.08
+     Do not allow your feet to touch as you step.
+},
+{
+    406.08,410.16
+     Make sure your knees are aligned and that they do not pass your toes as you
+},
+{
+    410.16,411.42
+     move.
+},
+{
+    411.42,413.8
+     Take 15 steps out to the side.
+},
+{
+    413.8,415.3
+     Repeat three times.
+},
+{
+    432.6,437.58
+     Please consult with your physical therapist prior to advancing the Phase 3. Phase 3 continues with the same goals and exercises as Phase 1 and 2, but with the added
+},
+{
+    437.58,443.04
+     goals of functional retraining, progression from single plane towards multi-planar, closed
+},
+{
+    443.04,448.98
+     chain exercises, plyometric exercises, as well as increasing resistant training and
+},
+{
+    448.98,451.44
+     beginning and running progression.
+},
+{
+    451.44,454.84
+     The following are examples of exercises for phase three.
+},
+{
+    454.84,457.64
+     You should continue to see your physical therapist for the full
+},
+{
+    457.64,459.48
+     protocol and treatment.
+},
+{
+    459.48,462.78
+     Please consult with your physical therapist if you have increased pain or
+},
+{
+    462.78,470.0
+     have any other questions. Phase 3 Exercise 1
+},
+{
+    470.0,474.0
+     Step forward with involved leg into a lunge position.
+},
+{
+    474.0,480.0
+     Keep knee in line with your toes without letting the knee move inwards or outwards.
+},
+{
+    480.0,487.0
+     Do not let your knee go forward past your toes. Repeat 10 times.
+},
+{
+    487.0,492.84
+     Next, lunge in a forward diagonal location.
+},
+{
+    492.84,498.28
+     Repeat 10 times.
+},
+{
+    498.28,503.04
+     Then perform lunge directly to the side.
+},
+{
+    503.04,506.96
+     Repeat 10 times.
+},
+{
+    506.96,523.4
+     Do three sets of this cycle.
+},
+{
+    523.4,525.44
+     Exercise 2.
+},
+{
+    525.44,527.76
+     Start with your feet hip-width apart.
+},
+{
+    527.76,531.38
+     Squat down while reaching arms backwards.
+},
+{
+    531.38,536.84
+     Jump forward over line and then jump backwards over line to starting position.
+},
+{
+    536.84,542.32
+     Focus on a soft landing and do not let your knees go inwards towards each other or allow
+},
+{
+    542.32,548.44
+     your knees to pass your toes when landing or jumping.
+},
+{
+    548.44,552.96
+     Repeat side to side.
+},
+{
+    552.96,556.0
+     Repeat this exercise 10 times.
+},
+{
+    556.0,557.36
+     Perform 3 sets.
+},

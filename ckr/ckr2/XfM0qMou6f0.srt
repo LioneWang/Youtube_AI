@@ -1,0 +1,200 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    8.0,10.0
+     Hi, I'm Bob Schrupp physical therapist.
+},
+{
+    10.0,11.0
+     Brad Heineck physical therapist.
+},
+{
+    11.0,13.0
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    13.0,15.0
+     In our opinion, of course, Bob.
+},
+{
+    15.0,19.0
+     So Brad, today we're going to talk about going up and down stairs with crutches,
+},
+{
+    19.0,21.0
+     but you're not allowed to put any weight on one of the legs.
+},
+{
+    21.0,29.04
+     Right, so here my left leg is marked with this white band representing the one I cannot put weight on, do a little toe touch and sometimes they don't even
+},
+{
+    29.04,33.36
+     allow that so I'm going to hold it up and how do you get up and down steps. Now if you have
+},
+{
+    34.08,37.84
+     one rail or two rails or no rails it makes a difference we're going to go through it with,
+},
+{
+    37.84,42.88
+     if you have one rail and I'm going to do one rail on my right side. Okay so I'm going to get out of
+},
+{
+    42.88,47.0
+     the way Brad. Yep so point out anything I miss. If you got a rail
+},
+{
+    47.0,52.26
+     then you're going to take advantage of it. You can do it two
+},
+{
+    52.26,55.9
+     different ways. You can put the crutches together with your grip right there.
+},
+{
+    55.9,63.0
+     Grab here and we're just gonna hop up then follow with the crutch come on in.
+},
+{
+    63.0,65.44
+     We're gonna hop up here
+},
+{
+    69.84,71.44
+     And there we go. So once you get to the top and you would need to go back down
+},
+{
+    73.44,74.52
+     Let's say that rail doesn't exist
+},
+{
+    78.92,83.2
+     And I'm gonna show you the other option you can do with the crutch if you don't want to do it like this because it takes A big grip here you can do the tee option so we go like this
+},
+{
+    84.0,90.08
+     grab here, and now this is really important right here.
+},
+{
+    90.08,91.32
+     This is for safety.
+},
+{
+    91.32,94.52
+     You must go down here and get a firm grip on that step.
+},
+{
+    94.52,97.08
+     Not close to the edge, but right in the center.
+},
+{
+    97.08,101.46
+     Grab here and you have a good stable base with your arms and down you go.
+},
+{
+    101.46,103.06
+     It's really not hard.
+},
+{
+    103.06,106.0
+     Now here when the handrail stops and there's nothing to grab here
+},
+{
+    106.12,110.22
+     that's when you kind of have to go at an angle and that's where this becomes a problem.
+},
+{
+    110.56,116.68
+     Then you may have to go back to the standard way and you have to kind of think that out before just by looking at
+},
+{
+    116.96,122.32
+     what you have. So in most cases I would say this is gonna probably be the method of choice. Right, yeah.
+},
+{
+    122.52,127.24
+     You know if you can't grab, you know, you're gonna have to learn that and then down we go
+},
+{
+    127.76,133.08
+     Okay, the other alternative Brad would be to have someone take one of the crutches down for you or up with you
+},
+{
+    133.08,139.26
+     If you're with somebody. Now if there are no rails and you just have stairs you still can do it
+},
+{
+    139.26,144.2
+     You have to be a little more balanced. You've got to be a good athlete here. Right. Yeah, it's a little harder
+},
+{
+    144.8,146.42
+     Because then we're gonna go like this
+},
+{
+    147.56,151.54
+     And you know if you're strong and you got good balance, it's really not too hard
+},
+{
+    151.54,156.1
+     It could be a dangerous maneuver if you're not really good at this. Exactly
+},
+{
+    156.92,159.16
+     Again going down really important
+},
+{
+    161.96,164.52
+     Center of the stairs, not the edge
+},
+{
+    164.48,164.84
+     Both crutches go first. Center of the stairs. Yep, you know not the edge
+},
+{
+    171.56,172.32
+     So you're not gonna fall. Right over here up in front of the drops like that. Exactly. Really important. Take your time
+},
+{
+    178.16,183.34
+     Down like this. Get yourself stable. There you go. And down. And down like that. Now Bob Let's just show them some of that profile. All right. Because my right side is my best side for the film
+},
+{
+    183.34,185.0
+     There really is no good side Brad.
+},
+{
+    185.0,187.0
+     I gotta tell you. Sure, okay
+},
+{
+    188.08,192.68
+     I'm just gonna show them this way because it doesn't matter. We're gonna grab here up
+},
+{
+    194.44,197.2
+     Up see the foot leaves and then the cane
+},
+{
+    197.64,201.04
+     The opposite on the way down. Oh crutch, sorry Bob
+},
+{
+    201.88,206.68
+     Sometimes I my own crutch and that's the problem with a crutch is sometimes I get out of the way
+},
+{
+    207.18,209.56
+     And that's where another person helping is
+},
+{
+    210.56,217.16
+     Helpful, and then when it gets better you can just walk around like this Bob, wonderful, you'd be a good therapist like us
+},
+{
+    217.64,219.64
+     Alright, thanks for watching
+},

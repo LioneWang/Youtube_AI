@@ -1,0 +1,160 @@
+{
+    0.0,7.62
+     Today I'm going to teach you about diaphragmatic breathing.
+},
+{
+    7.62,12.8
+     This is a great technique used for relaxation as well as for pain management.
+},
+{
+    12.8,13.8
+     Start lying down.
+},
+{
+    13.8,18.08
+     You want your knees bent with your feet firmly on the table or on the floor.
+},
+{
+    18.08,20.88
+     What you're going to do is you're going to take one hand and you're going to place it
+},
+{
+    20.88,21.88
+     on your chest.
+},
+{
+    21.88,29.72
+     One hand you're going to place it on your chest, one hand you're going to place on your stomach. What you're then going to do is take a deep breath in through your nose and exhale out
+},
+{
+    29.72,32.36
+     through your mouth.
+},
+{
+    32.36,49.42
+     I want you to do that about three times. At this point I want you to think which hand or hands is moving.
+},
+{
+    49.42,53.7
+     You should feel that your stomach is moving when you take a deep breath in through your
+},
+{
+    53.7,54.7
+     nose.
+},
+{
+    54.7,60.02
+     However, if you feel that both hands or just your chest is moving, that means that you
+},
+{
+    60.02,67.04
+     are using your neck muscles and other muscles to help with the breathing process versus using your diaphragm.
+},
+{
+    67.04,71.56
+     So now what I want you to do is I want you to think about when you take a deep breath
+},
+{
+    71.56,75.56
+     in that you are getting all the air going in through your stomach.
+},
+{
+    75.56,77.84
+     So I want you to visualize it as you go.
+},
+{
+    77.84,80.28
+     You're taking a deep breath in through your nose.
+},
+{
+    80.28,86.2
+     It's coming down past the back of your throat, into your chest and down into your stomach,
+},
+{
+    86.2,89.0
+     and expanding your stomach.
+},
+{
+    89.0,93.88
+     At this point I want you to think about letting that air come out of your stomach, back up
+},
+{
+    93.88,98.16
+     into your chest, into the back of your throat, and exhale through your mouth.
+},
+{
+    98.16,138.86
+     And it should look like this. Notice again that it's only my stomach moving, not my chest. So once you've mastered the lying down diaphragmatic breathing technique, the next progression is
+},
+{
+    138.86,139.86
+     sitting up.
+},
+{
+    139.86,143.3
+     Here you have to work against gravity to hold yourself upright.
+},
+{
+    143.3,147.44
+     What you want to make sure is that your feet are firmly planted on the floor, sitting nice and tall.
+},
+{
+    147.44,150.8
+     What you're going to do is take one hand, place it on your chest, one hand on your
+},
+{
+    150.8,155.48
+     stomach. As you breathe in, again you should feel your stomach expanding and
+},
+{
+    155.48,160.82
+     as you exhale your stomach should be deflating. So again, taking three deep
+},
+{
+    160.82,171.84
+     breaths, I just want you to think which hand or hands is moving.
+},
+{
+    174.28,174.64
+     As you can see, only my chest is rising.
+},
+{
+    178.44,182.56
+     So again, what we want to do, and I even have people close their eyes to visualize this, you're going to take that deep breath in through your nose,
+},
+{
+    183.0,185.16
+     make it all the way down into your belly,
+},
+{
+    185.16,188.06
+     make your belly expand, deflate your belly,
+},
+{
+    188.06,189.66
+     and exhale through your mouth.
+},
+{
+    199.84,201.64
+     And that is diaphragmatic breathing.
+},
+{
+    202.6,203.8
+     Now that you know the technique,
+},
+{
+    203.8,205.52
+     this is a great thing that you can do when you're at
+},
+{
+    205.52,207.68
+     the office, driving in your car.
+},
+{
+    207.68,212.16
+     Anytime you're in a stressful situation, it'll help relax everything and just get your diaphragm
+},
+{
+    212.16,215.04
+     to work a little bit harder in breathing versus your neck muscles.
+},

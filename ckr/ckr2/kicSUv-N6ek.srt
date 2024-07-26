@@ -1,0 +1,272 @@
+{
+    0.0,7.6
+     Bob and Brad the two most famous physical therapists on the internet
+},
+{
+    9.32,11.48
+     Hi, I'm Bob Schrupp physical therapist
+},
+{
+    11.48,13.16
+     Brad Heineck physical therapist
+},
+{
+    13.16,15.32
+     Together we are the most famous physical therapists on the internet
+},
+{
+    15.32,16.52
+     In our opinion of course Bob
+},
+{
+    16.52,19.84
+     Brad there's a lot of people out there you have tennis elbow and it's just not getting better
+},
+{
+    19.84,20.34
+     Right
+},
+{
+    20.34,25.04
+     And there may be a reason for that there may be it may not be the typical
+},
+{
+    29.84,30.0
+     Tennis elbow what it may be instead is there may be something going on in the elbow itself
+},
+{
+    32.6,37.24
+     Instead of the muscles in the joint in the joint Sure, and what would they call this is pseudo tennis joint or false
+},
+{
+    37.76,44.36
+     Tennis joint because it's really not tennis joint or tennis elbow. Oh tennis tennis elbow. Sorry. Good point. I caught him again
+},
+{
+    44.36,45.48
+     You caught me, all right
+},
+{
+    45.48,51.56
+     one of the signs that it might be pseudo tennis elbow is that it
+},
+{
+    51.56,55.08
+     actually your elbow doesn't straighten out all the way, so if you
+},
+{
+    55.08,59.16
+     compare the two one might be a little, the one that is a problem one, the one
+},
+{
+    59.16,62.68
+     that's giving you pain actually might be bent a little bit, let's do this from a
+},
+{
+    62.68,65.36
+     side, so if you're looking at it here
+},
+{
+    65.36,69.48
+     You can see this one straight and this one be as straight as you can get it
+},
+{
+    69.48,72.92
+     But it's clearly not fully extended. Right, okay
+},
+{
+    73.12,77.04
+     If that's the case then these are some of the exercises you want to try now you can try these
+},
+{
+    77.6,82.44
+     Anyway, even if you just have regular tennis elbow and you're not sure if this is it because it certainly won't hurt
+},
+{
+    82.68,84.68
+     So the first one is
+},
+{
+    85.32,89.48
+     I'm gonna show you the one that I think is most effective. You're gonna put your hand on a table
+},
+{
+    90.04,92.44
+     So you're gonna put the hand this way so the
+},
+{
+    93.0,98.36
+     Forearm is facing forward and the hand is facing back. His fingers are wrapped around. Yeah
+},
+{
+    99.4,101.66
+     Oh, why don't you get with us here?
+},
+{
+    103.12,110.62
+     You can see this okay just in the corner of the she is good Bob. Okay next so you're gonna be like this
+},
+{
+    110.62,112.62
+     I'm gonna get rid of my tie
+},
+{
+    112.72,114.08
+     So
+},
+{
+    114.08,118.82
+     Wait a minute that might cover my microphone. Oh Bob let's just get on with the exercise
+},
+{
+    118.82,122.68
+     I want to be in a good position here. Okay. Yeah, we don't want to miss anything
+},
+{
+    122.68,129.52
+     So you're gonna put this here, the elbow is not straightening all the way, you're gonna take your hand on the lower part of the bone
+},
+{
+    129.52,134.48
+     here and you're gonna push it this way. So you're below the elbow joint coming this direction.
+},
+{
+    134.48,139.52
+     Yeah pushing, I'm putting pressure on, pressure off and while I'm putting the pressure on I'm
+},
+{
+    139.52,145.1
+     trying to straighten the elbow a little bit. So I'm pushing this way and I'm trying to straighten the elbow at the same time
+},
+{
+    145.1,148.72
+     Okay, so pressure on pressure off
+},
+{
+    149.24,151.04
+     pressure on
+},
+{
+    151.04,153.84
+     Pressure off. Let's do it on the side view so they're clear
+},
+{
+    154.32,159.32
+     Pressure on pressure off and what if they experience pain with this Bob?
+},
+{
+    159.44,162.72
+     You should yeah, I would back off then right
+},
+{
+    163.04,167.2
+     You really don't want to increase pain with that at all. If there's any sharp pain for sure
+},
+{
+    167.2,171.96
+     You just stop it's not the right thing to do. One that's probably a little simpler to do it try would be
+},
+{
+    171.96,175.6
+     What you can do is just take your hand you're gonna pull it into full flexion
+},
+{
+    175.6,179.16
+     We call it bending here and you're gonna first turn it this way
+},
+{
+    180.08,181.88
+     Which is actually
+},
+{
+    181.88,183.88
+     That's pronation
+},
+{
+    183.88,187.64
+     Supination. Oh, yeah, you're right, supination.
+},
+{
+    187.64,194.04
+     They don't care anyway. So you're gonna take it and you're gonna turn the wrist and you're gonna bend it. Pressure on, pressure off.
+},
+{
+    194.04,201.08
+     So you can see my palm is going towards you. Now if you're confused about which way to turn it, don't worry because you have to do it
+},
+{
+    201.08,207.8
+     both ways. You have to do the other way too. Turn it as far as you can that way In the other direction. That's pronation
+},
+{
+    208.8,213.5
+     So in other words we're turning it this way as far as we can and bending it and
+},
+{
+    213.84,218.62
+     We're turning it this way as far as we can and bending it this way this way
+},
+{
+    219.56,224.24
+     Okay, ten times each way and then see did it straighten out a little more. Sure
+},
+{
+    224.6,226.72
+     If you've made progress if it goes straighter
+},
+{
+    226.72,230.5
+     Then you'll keep going after that and repeat that how many times?
+},
+{
+    230.5,235.2
+     10 times and you can do it every hour Brad. Okay. I mean with all these you can do every hour.
+},
+{
+    235.2,237.78
+     So they're not gonna create any pain you're gonna have
+},
+{
+    238.62,240.34
+     extension more more
+},
+{
+    240.34,242.94
+     Extension you're hoping to get extended if there's a little
+},
+{
+    243.28,245.72
+     Something floating around in that elbow giving you the pain
+},
+{
+    245.72,250.2
+     And I definitely have seen this in patients. I definitely have had people who have had this
+},
+{
+    250.72,257.0
+     The other one that's real simple to do is actually you're gonna turn the wrist this way and then you're just gonna let it drop
+},
+{
+    258.2,259.72
+     Here
+},
+{
+    259.72,269.42
+     Drop that simple. How many times? I do it ten times also. And again and you're hoping that it's gonna kind of put itself in place
+},
+{
+    269.42,277.34
+     Right, just by the drop. So it's just a very like relax all the muscles are just like Jello and gravity take over
+},
+{
+    277.34,289.84
+     Yep, it's a McKenzie technique. Easy. Alright give those a try let us know in the comments below if you haven't any success And also if you have any other ideas for videos we're always open to it and then comment about Bob's tie
+},
+{
+    289.84,291.84
+     See if you like it. Oh, yeah
+},
+{
+    291.88,294.96
+     We better grow now Bob. I'm starting to regress
+},

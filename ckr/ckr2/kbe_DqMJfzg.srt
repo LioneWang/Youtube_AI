@@ -1,0 +1,612 @@
+{
+    0.0,8.24
+     What's up guys?
+},
+{
+    8.24,10.68
+     Jeff Cavaliere, ATHLEANX.COM.
+},
+{
+    10.68,12.4
+     Let's talk today about knee pain.
+},
+{
+    12.4,17.44
+     If you've been lifting for any length of time, likely you've had some sort of knee pain or
+},
+{
+    17.44,20.44
+     might have knee pain in the future if you're not doing the right things.
+},
+{
+    20.44,23.6
+     Guys, knee pain can debilitate your leg workouts.
+},
+{
+    23.6,27.92
+     I know I've suffered from it and I know what it can do to your legs when you're trying
+},
+{
+    27.92,30.04
+     to squat and especially squat heavy.
+},
+{
+    30.04,33.28
+     So what I want to do today is first of all cover a couple of the reasons what might be
+},
+{
+    33.28,36.68
+     causing your knee pain because that's going to be important to understand the difference
+},
+{
+    36.68,40.68
+     and then show you one that I think is really common especially for guys that train and
+},
+{
+    40.68,41.68
+     lift weights.
+},
+{
+    41.68,45.44
+     So if we look here we've got our boy Raymond and we've got our skeleton.
+},
+{
+    45.44,50.28
+     So what you'll see is that in the knee, we've got a lot of different sources of pain.
+},
+{
+    50.28,55.44
+     Now you guys have probably heard about ACL pain and MCL pain and LCL, right?
+},
+{
+    55.44,58.88
+     We're talking about tears really because those are ligaments that get injured during sports
+},
+{
+    58.88,59.88
+     most often.
+},
+{
+    59.88,65.08
+     Those are the ACL and PCL are inside the knee, the LCL and MCL are going to be on the inside
+},
+{
+    65.08,67.52
+     and outside of the knee.
+},
+{
+    67.52,73.08
+     And basically that's just one source of injury, but we've also got osteoarthritic changes
+},
+{
+    73.08,77.6
+     that can happen where you actually get degenerative changes on the bone, the bone and bone area
+},
+{
+    77.6,83.64
+     or on the underside of the patella here that grinds up against the femur.
+},
+{
+    83.64,85.52
+     We can talk about that in a second.
+},
+{
+    85.52,87.2
+     We also have meniscus issues.
+},
+{
+    87.2,91.16
+     If you guys talk about that, it's the cushion between the two bones here, the tibia and
+},
+{
+    91.16,96.72
+     the femur that gives us that space between the joint that can wear down or tear.
+},
+{
+    96.72,101.76
+     But I find that the most common injury that we get when we train our inflammatory conditions
+},
+{
+    101.76,105.32
+     from overuse of the patella tendon.
+},
+{
+    105.32,108.32
+     So patella tendon, this is what you're seeing right here, okay?
+},
+{
+    108.32,114.76
+     And what it does is it runs over the patella here, it holds it in place, and you can get
+},
+{
+    114.76,119.8
+     inflammation of this a lot of times causing patella femoral issues, we've heard that
+},
+{
+    119.8,126.96
+     before, and it impacts the tracking of the patella when your knee goes into flexion and
+},
+{
+    126.96,127.96
+     extension.
+},
+{
+    127.96,133.8
+     So, as we flex the knee and extend the knee, you want normal mechanics of the patella so
+},
+{
+    133.8,136.8
+     you get this glide and it glides right in this groove right here.
+},
+{
+    136.8,140.92
+     You can see that it's supposed to glide right in this groove, but what will happen is it
+},
+{
+    140.92,143.2
+     starts to get out of position.
+},
+{
+    143.2,144.4
+     Well guess what?
+},
+{
+    144.4,147.18
+     This isn't a knee issue. I talked about guess what? This isn't a knee issue. I've
+},
+{
+    147.18,151.48
+     talked about this before. This is not a knee issue. The knee is a train and this is its
+},
+{
+    151.48,157.72
+     track here and here. So guess what happens when the track gets twisted? The knee in
+},
+{
+    157.72,162.42
+     the train goes flying off the track. So when you start looking and focusing all your efforts
+},
+{
+    162.42,168.4
+     on the knee pain and trying to cure the patella femoral issues or trying to cure your patella tendinitis, and you're
+},
+{
+    168.4,171.72
+     not paying any attention to the track, you're way off track.
+},
+{
+    171.72,175.64
+     So, what you want to do is you want to start looking for the source and the cause of your
+},
+{
+    175.64,180.52
+     knee pain because most often, 99% of the time, the source of that is going to be somewhere
+},
+{
+    180.52,181.52
+     else.
+},
+{
+    181.52,185.28
+     And when we look at this, it's either going to be the track at the bottom, which
+},
+{
+    185.28,189.52
+     is going to be controlled by your ankle and foot, or the track at the top, which is going
+},
+{
+    189.52,192.6
+     to be controlled by the muscles in your head.
+},
+{
+    192.6,197.48
+     So if you look at what goes on here, if you're somebody that has flat feet, again, one of
+},
+{
+    197.48,198.48
+     my biggest issues.
+},
+{
+    198.48,202.56
+     If you have flat feet, your foot will collapse down and in, okay?
+},
+{
+    202.56,209.88
+     There's no arch, so the arch comes down and in. That takes the tibia here with it, into internal rotation. Well this stays
+},
+{
+    209.88,215.52
+     here, this gets twisted in, now you've got a twisted track. So now this thing
+},
+{
+    215.52,221.48
+     tries to move on this twisted track, you can see it's off the track already. It's
+},
+{
+    221.48,227.2
+     actually being pulled in, you can see. So it's off the track, that's not going to move smoothly as we do this.
+},
+{
+    227.2,232.08
+     And with every rep of your squat with a flat foot, that patella is banging up against
+},
+{
+    232.08,233.32
+     the side of the track.
+},
+{
+    233.32,234.52
+     Guess what happens?
+},
+{
+    234.52,235.6
+     Inflammation.
+},
+{
+    235.6,238.58
+     You can get inflammation on the underside of the patella, you can get inflammation up
+},
+{
+    238.58,239.58
+     through the tendon.
+},
+{
+    239.58,241.6
+     We have issues though, okay?
+},
+{
+    241.6,246.12
+     So now, up at the hip, more common, because you can fix this, you can use an orthotic
+},
+{
+    246.12,251.48
+     down here to try to boost up your arch so you can sort of fix the mechanics and reestablish
+},
+{
+    251.48,252.84
+     your straight track.
+},
+{
+    252.84,255.44
+     But up here guys, this is the big issue.
+},
+{
+    255.44,257.84
+     Most guys have weak underdeveloped hips.
+},
+{
+    257.84,260.12
+     We talked about that a lot too.
+},
+{
+    260.12,264.76
+     If your hip is underdeveloped and it can't control the internal or external rotation
+},
+{
+    264.76,267.32
+     here of your femur, the same thing is going to happen.
+},
+{
+    267.32,272.2
+     This can be all online, but if this gets pulled down and in, you've got an issue.
+},
+{
+    272.2,277.76
+     If this gets pulled out too much because of tightness into your hip, you've got an issue.
+},
+{
+    277.76,282.64
+     But again, I find the biggest issue here is glute medius weakness, and that's something
+},
+{
+    282.64,284.36
+     that we could actually address too.
+},
+{
+    284.36,288.48
+     So I wanted to show you one of the ways that you can address that and even test yourself
+},
+{
+    288.48,289.48
+     and see.
+},
+{
+    289.48,292.6
+     The easiest test and I know it's going to sound embarrassing, especially coming from
+},
+{
+    292.6,297.72
+     a strength coach, but lay on your side and do the Jane Fonda leg raise up and down to
+},
+{
+    297.72,298.72
+     the side.
+},
+{
+    298.72,300.44
+     Do about 50 of them.
+},
+{
+    300.44,305.88
+     Do 50 of them and let me know in this video below if it burns like hell because I guarantee
+},
+{
+    305.88,311.68
+     if you have weak glute medias you're going to feel a real burn that might feel pretty
+},
+{
+    311.68,316.56
+     damn intense and you might be squatting 350-400 pounds it might still feel like it really
+},
+{
+    316.56,317.56
+     burns.
+},
+{
+    317.56,319.96
+     So if that happens to you you've got to get that stronger.
+},
+{
+    319.96,325.6
+     So one of the ways that we do that is with a glute medius hip bump. And it's really pretty simple.
+},
+{
+    325.6,330.32
+     What you're trying to do is you're trying to allow your body to drop.
+},
+{
+    330.32,335.52
+     In PET we call this the tremdellum beryxiae, where it just drops down to the side.
+},
+{
+    335.52,339.6
+     Because you're letting go of the muscles over here that keep you upright.
+},
+{
+    339.6,344.2
+     So here, in order to get it back, we have to contract our glute medius, which is going
+},
+{
+    344.2,345.12
+     to pull our pelvis back and have to contract our glute medius which is going to pull our
+},
+{
+    345.12,348.16
+     pelvis back and over to the side over here.
+},
+{
+    348.16,353.68
+     So what we're doing is we're doing a closed chain hip abduction.
+},
+{
+    353.68,357.18
+     We know hip abduction if we're looking at the right leg is just lifting our leg out
+},
+{
+    357.18,358.68
+     to the side like that.
+},
+{
+    358.68,363.64
+     If we were to try to do that in a closed chain with our foot connected to the ground this
+},
+{
+    363.64,364.64
+     is what it would look like.
+},
+{
+    364.64,369.16
+     I'm basically letting the leg go further away from my midline as I raise my midline to
+},
+{
+    369.16,370.16
+     the right.
+},
+{
+    370.16,374.76
+     So just after doing this a little bit, I can really feel a burn in that left side glute
+},
+{
+    374.76,375.76
+     medius.
+},
+{
+    375.76,377.16
+     Maybe it's not enough for you.
+},
+{
+    377.16,383.56
+     All you got to do is attach a band, get inside of it, and here put it around your hips.
+},
+{
+    383.56,384.72
+     Do the same thing.
+},
+{
+    384.72,385.68
+     Get up on your left leg.
+},
+{
+    385.68,392.36
+     If you're trying to work the left hip, you get up on the left leg and you face the hip
+},
+{
+    392.36,397.0
+     that you're working inside towards the source of the band, the point of attachment.
+},
+{
+    397.0,398.28
+     You let yourself drop.
+},
+{
+    398.28,399.28
+     Just get really lazy.
+},
+{
+    399.28,400.76
+     Let your hips drop.
+},
+{
+    400.76,404.24
+     From here, you squeeze it straight over to the side.
+},
+{
+    404.24,405.6
+     Let it drop. Squeeze your hips straight to the side. Let it drop.
+},
+{
+    405.6,407.32
+     Squeeze your hips straight over the side.
+},
+{
+    407.32,408.32
+     This is not an ankle move.
+},
+{
+    408.32,409.84
+     This is not a knee move.
+},
+{
+    409.84,410.84
+     This is a hip move.
+},
+{
+    410.84,412.64
+     All your focus should be right here.
+},
+{
+    412.64,413.8
+     Let it drop.
+},
+{
+    413.8,414.8
+     Squeeze your hip.
+},
+{
+    414.8,415.8
+     Lateral.
+},
+{
+    415.8,416.8
+     Straight over to the side.
+},
+{
+    416.8,418.92
+     Hold it for a second and then come down.
+},
+{
+    418.92,425.32
+     I can already again feel this burning and obviously working a weak area.
+},
+{
+    425.32,430.1
+     We had some top major league athletes that had extremely weak hips and you would be surprised
+},
+{
+    430.1,432.3
+     because they were strong everywhere else.
+},
+{
+    432.3,436.76
+     This can cause knee pain, this can cause chronic knee pain, inflammation and everything else
+},
+{
+    436.76,438.04
+     that it is you're feeling.
+},
+{
+    438.04,442.1
+     So just because it's small and it seems like kind of a girly exercise, it doesn't mean
+},
+{
+    442.1,445.38
+     that it's not worthwhile and something you should do.
+},
+{
+    445.38,446.86
+     So guys, again, knee pain.
+},
+{
+    446.86,448.5
+     There are take home messages here.
+},
+{
+    448.5,450.46
+     There's a lot of different kinds of knee pain.
+},
+{
+    450.46,454.74
+     As a trainer, I see guys working out a lot of times, they're dealing with a lot of the
+},
+{
+    454.74,459.06
+     chronic inflammatory conditions, mostly of the tendons, the patellar tendon, namely.
+},
+{
+    459.06,461.34
+     You can fix it, but you've got to look other places.
+},
+{
+    461.34,462.5
+     You can't look right at the knee.
+},
+{
+    462.5,463.5
+     You've got to look up and down.
+},
+{
+    463.5,466.96
+     Down at your ankle, up at your hip, find out what the cause is.
+},
+{
+    466.96,471.48
+     If it persists and you are training with much more than knee pain, it might be time guys
+},
+{
+    471.48,475.0
+     that you have to start looking into other solutions.
+},
+{
+    475.0,478.4
+     We've created the ATHLEAN Mechanics Joint Supplement for that very reason.
+},
+{
+    478.4,480.48
+     I realize how many guys train in pain.
+},
+{
+    480.48,485.8
+     Every time I put up one of these videos, there's 50 other requests for shoulders, elbows, wrists,
+},
+{
+    485.8,486.8
+     neck.
+},
+{
+    486.8,488.32
+     People are dealing with pain.
+},
+{
+    488.32,490.48
+     We can fix that, but you've got to look in the right places.
+},
+{
+    490.48,496.08
+     And if you have to, guys, you can take, again, find ATHLEANRX, Mechanics over at ATHLEANRX.com.
+},
+{
+    496.08,500.0
+     Meantime, if you found this helpful, leave a thumbs up below and a comment.
+},
+{
+    500.0,502.96
+     Again, I'll make more of these videos as you demand them.
+},
+{
+    502.96,504.48
+     So just let me know what it is you want to see.
+},
+{
+    504.48,506.6
+     All right, guys. I'll see you guys back here again soon.
+},

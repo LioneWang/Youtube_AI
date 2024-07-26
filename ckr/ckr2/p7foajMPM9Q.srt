@@ -1,0 +1,136 @@
+{
+    0.0,2.0
+     Dwi'n ddweud yma, mae'n ddweud yma.
+},
+{
+    2.0,4.0
+     Mae'n ddweud yma.
+},
+{
+    4.0,6.0
+     Mae'n ddweud yma.
+},
+{
+    6.0,8.0
+     Mae'n ddweud yma.
+},
+{
+    8.0,10.0
+     Mae'n ddweud yma.
+},
+{
+    10.0,12.0
+     Mae'n ddweud yma.
+},
+{
+    12.0,14.0
+     Mae'n ddweud yma.
+},
+{
+    14.0,16.0
+     Mae'n ddweud yma.
+},
+{
+    16.0,18.0
+     Mae'n ddweud yma.
+},
+{
+    18.0,20.0
+     Mae'n ddweud yma.
+},
+{
+    20.0,22.0
+     Mae'n ddweud yma.
+},
+{
+    22.0,24.0
+     Mae'n ddweud yma.
+},
+{
+    24.0,25.6
+     Mae'n ddweud yma.wy'n gwybod yn ymwneud yn y gwahanol,
+},
+{
+    25.6,27.4
+     yn y swym yn y cwestiwn, rwy'n gwybod yn ymwneud.
+},
+{
+    27.4,28.8
+     Mae'r bobl yn ymwneud yn ymwneud,
+},
+{
+    28.8,30.6
+     rwy'n gwybod yn ymwneud yn ymwneud,
+},
+{
+    30.6,32.2
+     rwy'n gwybod yn ymwneud.
+},
+{
+    32.2,34.6
+     Rwy'n gwybod yn ymwneud,
+},
+{
+    34.6,37.4
+     ac rwy'n gwybod yn ymwneud yn ymwneud.
+},
+{
+    37.4,38.6
+     Rwy'n gwybod yn ymwneud,
+},
+{
+    38.6,39.6
+     ac mae'n gwybod yn ymwneud,
+},
+{
+    39.6,40.6
+     mae'n gwybod yn ymwneud yn ymwneud.
+},
+{
+    40.6,41.8
+     Mae'n gwybod yn ymwneud yn ymwneud.
+},
+{
+    41.8,43.0
+     Rwy'n gwybod yn ymwneud.
+},
+{
+    43.8,44.8
+     Rwy'n gwybod yn ymwneud,
+},
+{
+    44.8,68.6
+     mae'n gwybod yn ymwyf wedi'i gydag i'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o overweight, great, you know, muscle. I was becoming more and more tired, sort of had freaked down to the Crohn's disease
+},
+{
+    68.6,75.0
+     and the infusions and I was getting a lot of aching bones and things, but again I just
+},
+{
+    75.0,78.0
+     put all this down to what I was going through at the time.
+},
+{
+    78.8,88.0
+     I was on the beach in my bathing costume, I noticed little bruises on my legs and I thought that's hot and I thought, oh, my arms as well.
+},
+{
+    88.0,93.0
+     I had been feeling tired. I put that down to a hot summer and the wedding coming.
+},
+{
+    93.0,99.0
+     By five o'clock I collapsed into my bed exhausted, just from standing up all day.
+},
+{
+    99.0,103.0
+     And my neck hurt and I could not understand. I couldn't get to sleep
+},
+{
+    103.0,107.68
+     and so the next day I was even more exhausted could not understand it and I thought maybe I've
+},
+{
+    107.68,None
+     got virus you
+},

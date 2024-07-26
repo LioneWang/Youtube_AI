@@ -1,0 +1,124 @@
+{
+    0.0,5.24
+     Hi, I'm Dr. Elizabeth Manajias. I am a physiatrist and acupuncturist at the
+},
+{
+    5.24,9.92
+     Hospital for Special Surgery. Thank you for joining me today. I hope you are all
+},
+{
+    9.92,14.24
+     staying safe and healthy. I'd like to share a few tips to help alleviate neck
+},
+{
+    14.24,18.48
+     tension and promote relaxation through acupressure techniques that you can do
+},
+{
+    18.48,24.4
+     at home. The first point is called GDB 20 or gallbladder 20. The best way to find
+},
+{
+    24.4,25.92
+     this point is to position
+},
+{
+    25.92,31.64
+     the thumbs at the base of your skull. You'll find two small bony bumps, one on each side,
+},
+{
+    31.64,37.2
+     left and right. Move right beneath those bony bumps to find an area that is soft and perhaps
+},
+{
+    37.2,46.68
+     a little tender. You can use your other fingers to massage your skull while you are also massaging below these bony areas. Massage in small circular
+},
+{
+    46.68,54.48
+     motions for 2 to 3 minutes. The next point is called your G.B. or gallbladder 21 point.
+},
+{
+    54.48,58.8
+     It is located midway between the base of your neck and your shoulder in a muscle called your
+},
+{
+    58.8,65.36
+     trapezius. You can use 2 to 3 fingers to apply firm pressure and small circular motions to your
+},
+{
+    65.36,68.0
+     trapezius muscle.
+},
+{
+    68.0,72.1
+     Again for two to three minutes.
+},
+{
+    72.1,76.0
+     You can do the same thing to the other side.
+},
+{
+    76.0,80.24
+     Small circular motions for two to three minutes.
+},
+{
+    80.24,87.04
+     Another great point for neck tension, headaches, upper back tension is called your large intestine
+},
+{
+    87.04,89.92
+     four point or your LI four point.
+},
+{
+    89.92,93.16
+     This point should be avoided if you are pregnant, however.
+},
+{
+    93.16,100.88
+     It is located between your thumb and your index finger in the muscle belly that is soft
+},
+{
+    100.88,103.36
+     and perhaps also tender.
+},
+{
+    103.36,106.92
+     You can apply small circular motions for two to
+},
+{
+    106.92,113.28
+     three minutes and then you can switch to the other side again for two to three
+},
+{
+    113.28,119.72
+     minutes small circular motions with enough pressure to find an area that is
+},
+{
+    119.72,128.46
+     slightly tender to touch. Another great point for neck pain is your small intestine three
+},
+{
+    128.46,135.86
+     point. If you make a fist and just step off the outer edge of the bone in your
+},
+{
+    135.86,149.12
+     hand you'll find a meaty area in the muscle and you can apply firm pressure, two to three minutes, small circular motions.
+},
+{
+    149.12,151.64
+     And same thing on the other side.
+},
+{
+    151.64,159.68
+     Step off the bone on the outer edge of the hand into a soft, meaty area of the muscle.
+},
+{
+    159.68,167.6
+     Small circular motions for two to three minutes. That's all I have for you today. Thank you so much
+},
+{
+    167.6,168.92
+     for listening and stay well.
+},

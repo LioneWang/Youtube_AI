@@ -1,0 +1,188 @@
+{
+    0.0,6.0
+     How to provide rescue breathing and chest compressions in an overdose situation.
+},
+{
+    6.0,15.0
+     Helping a person breathe by doing rescue breaths and chest compressions is important to keep the brain alive during an overdose.
+},
+{
+    15.0,23.0
+     These steps may also be taken if you have given naloxone to a person who is overdosed and are waiting for the medication to take effect.
+},
+{
+    23.0,25.0
+     These are the signs you should look for
+},
+{
+    25.0,29.0
+     before beginning rescue breathing and chest compressions.
+},
+{
+    31.0,34.0
+     The person is unconscious and not waking up.
+},
+{
+    34.0,37.0
+     They don't respond to shouting or rubbing knuckles on the breast bone
+},
+{
+    37.0,40.0
+     or between their upper lip and nose.
+},
+{
+    40.0,42.0
+     They are not breathing normally.
+},
+{
+    42.0,48.28
+     To begin rescue breathing, if the person is not breathing, follow these instructions.
+},
+{
+    48.28,52.98
+     Open the person's airway by placing one hand on the forehead and the other hand on the bony
+},
+{
+    52.98,54.68
+     part of their chin.
+},
+{
+    54.68,60.2
+     Gently tilt the head backward, slightly lift the chin.
+},
+{
+    60.2,62.72
+     Make sure their airway is clear.
+},
+{
+    62.72,66.68
+     Pinch the person's nose shut and cover their mouth with yours.
+},
+{
+    66.68,69.28
+     Take a regular, not a deep breath.
+},
+{
+    70.24,73.12
+     Give one rescue breath for one second.
+},
+{
+    73.96,76.68
+     Give a second rescue breath for one second.
+},
+{
+    78.48,80.36
+     You will know you have given enough air
+},
+{
+    80.36,82.72
+     when you see the person's chest begin to rise
+},
+{
+    82.72,84.72
+     with the breath you give.
+},
+{
+    84.72,88.0
+     As soon as you see chest movement, stop that breath.
+},
+{
+    88.0,92.0
+     Be careful not to give too much air.
+},
+{
+    92.0,96.0
+     If the person's chest doesn't rise on the first breath,
+},
+{
+    96.0,100.0
+     try repositioning the head or the airway and trying another breath.
+},
+{
+    100.0,104.0
+     To give chest compressions, follow these instructions.
+},
+{
+    104.0,109.0
+     Once you have given two rescue breaths, do 30 chest compressions.
+},
+{
+    109.0,115.0
+     Here's how. Place the heel of one hand on the center of the person's chest.
+},
+{
+    115.0,117.0
+     This is the lower half of the sternum.
+},
+{
+    117.0,124.0
+     Place the heel of the other hand on top of the first hand so that the hands are overlapped and parallel.
+},
+{
+    124.0,126.96
+     Push hard and fast, two inches
+},
+{
+    126.96,133.04
+     deep for anyone over the age of one. Allow the chest to fully return to normal position after each
+},
+{
+    133.04,149.26
+     compression. For every two rescue breaths, give 30 chest compressions. Within the space of a minute, you should give between 100 and 120 compressions.
+},
+{
+    149.26,157.56
+     For guidance, try to imagine giving compressions to a normal beat of row, row, row your boat.
+},
+{
+    157.56,160.68
+     Keep doing rescue breathing and chest compressions.
+},
+{
+    160.68,164.6
+     Stop if the person begins to breathe normally on their own.
+},
+{
+    164.6,167.0
+     They regain consciousness or wake up.
+},
+{
+    167.0,170.0
+     You are exhausted and can't continue.
+},
+{
+    170.0,175.0
+     EMS, police or other trained first responders arrive and take over care.
+},
+{
+    175.0,181.0
+     Although the risk is low, mouth-to-mouth rescue can transmit infectious diseases.
+},
+{
+    181.0,184.0
+     Consider your own safety before providing assistance.
+},
+{
+    184.0,189.0
+     Devices such as a pocket mask or face shield are designed to protect you while you deliver
+},
+{
+    189.0,196.0
+     rescue breathing and should be used according to the manufacturer's recommendations.
+},
+{
+    196.0,201.0
+     The Good Samaritan Law provides some legal protections to anyone who gives naloxone
+},
+{
+    201.0,205.0
+     and calls 911 in an overdose situation.
+},
+{
+    205.0,211.2
+     For more information or to obtain CPR training, visit the American Heart Association's website
+},
+{
+    211.2,212.72
+     at heart.org.
+},

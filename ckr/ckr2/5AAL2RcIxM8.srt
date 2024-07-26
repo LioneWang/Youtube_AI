@@ -1,0 +1,1084 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.04,12.92
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.92,14.08
+     Brad Heineck, physical therapist.
+},
+{
+    14.08,15.6
+     Together we are the most famous physical therapists
+},
+{
+    15.6,16.44
+     on the internet.
+},
+{
+    16.44,17.84
+     In our opinion, of course, Bob.
+},
+{
+    17.84,19.82
+     Today we're gonna talk about how to stop neck
+},
+{
+    19.82,22.32
+     and back pain at your desk,
+},
+{
+    22.32,24.96
+     plus getting perfect posture at the same time.
+},
+{
+    24.96,25.42
+     Right. And not only at your desk, plus getting perfect posture at the same time.
+},
+{
+    25.42,28.82
+     And not only at your desk, but as it kind of carries on
+},
+{
+    28.82,30.22
+     for the rest of your life.
+},
+{
+    30.22,31.38
+     And the rest of your day.
+},
+{
+    31.38,32.82
+     The rest of your day, exactly.
+},
+{
+    32.82,34.14
+     All right, if you're new to our channel,
+},
+{
+    34.14,35.66
+     please take a second to subscribe to us.
+},
+{
+    35.66,37.18
+     We provide videos on how to stay healthy,
+},
+{
+    37.18,39.66
+     fit, pain-free, and we upload every day.
+},
+{
+    39.66,42.14
+     Also, go to bobandbrad.com,
+},
+{
+    42.14,43.26
+     go to the giveaway section,
+},
+{
+    43.26,45.4
+     because we're always having a giveaway contest.
+},
+{
+    45.4,48.24
+     This week we're giving away a couple of bouya sticks.
+},
+{
+    48.24,51.04
+     Oh, you can't go wrong with the bouya stick.
+},
+{
+    51.04,52.0
+     There we go.
+},
+{
+    52.0,54.12
+     Yeah, and we're actually gonna use it today
+},
+{
+    54.12,55.32
+     in one of our exercises.
+},
+{
+    55.32,56.16
+     Yes.
+},
+{
+    56.16,57.36
+     So you'll see what we mean.
+},
+{
+    57.36,59.72
+     You can find it on Facebook, Bob and Brad.
+},
+{
+    59.72,61.56
+     Or if you want a short version of us,
+},
+{
+    61.56,63.24
+     go to Twitter or Instagram,
+},
+{
+    63.24,65.04
+     60 seconds of Bob and Brad a Day.
+},
+{
+    65.04,66.2
+     There you go, say no more.
+},
+{
+    66.2,67.8
+     How can your day go wrong when you get that?
+},
+{
+    67.8,69.16
+     Exactly, Bob.
+},
+{
+    69.16,70.0
+     Okay.
+},
+{
+    70.0,74.92
+     All right, so Bob, so many of us work at a desk for a living
+},
+{
+    74.92,77.68
+     or a good part of the day or sit in the car,
+},
+{
+    77.68,79.68
+     all these seated pastures.
+},
+{
+    79.68,81.32
+     Even just sit and watch TV.
+},
+{
+    81.32,82.44
+     Right, right.
+},
+{
+    82.44,86.0
+     And I believe, you know, it affects your posture.
+},
+{
+    86.0,86.84
+     Your posture.
+},
+{
+    86.84,87.84
+     It absolutely does.
+},
+{
+    87.84,89.8
+     It affects your neck, your shoulder, your back,
+},
+{
+    89.8,91.8
+     creating pain.
+},
+{
+    91.8,92.64
+     Yeah.
+},
+{
+    92.64,94.88
+     Pain that seemingly comes from nowhere,
+},
+{
+    94.88,98.32
+     but it's there and it's real and how to reverse it.
+},
+{
+    98.32,101.28
+     So actually, a good friend of mine,
+},
+{
+    101.28,103.8
+     is in this situation, just retired,
+},
+{
+    103.8,106.48
+     working at a desk for the good part of her life
+},
+{
+    106.48,108.84
+     and she's concerned about her posture
+},
+{
+    108.84,110.92
+     as well as some of these aches and pains.
+},
+{
+    110.92,112.48
+     So this is for Eugene.
+},
+{
+    112.48,113.32
+     We're gonna-
+},
+{
+    113.32,114.64
+     I was gonna say, did you back out on saying her name?
+},
+{
+    114.64,115.48
+     I thought originally-
+},
+{
+    115.48,117.16
+     Yeah, no, I'm gonna say her name.
+},
+{
+    117.16,118.24
+     She gets upset with me.
+},
+{
+    118.24,119.72
+     That's the way it's gonna be.
+},
+{
+    119.72,121.68
+     I think we're all surprised that Brad has a friend.
+},
+{
+    121.68,124.36
+     Well, you know, it happens.
+},
+{
+    124.36,125.26
+     It happens.
+},
+{
+    125.26,130.16
+     So what we need to do is, first of all, look at posture
+},
+{
+    130.16,131.84
+     and we're gonna start from the-
+},
+{
+    131.84,134.2
+     So this is a daily routine that she can do.
+},
+{
+    134.2,136.34
+     Yep, and you know, I already saw her,
+},
+{
+    136.34,137.84
+     we worked her a third and I said,
+},
+{
+    137.84,140.56
+     I'm gonna make a video for you so you can see these exercises
+},
+{
+    140.56,142.0
+     instead of my scribbling on the paper.
+},
+{
+    142.0,142.84
+     Gotcha.
+},
+{
+    142.84,144.48
+     Because I didn't draw any pictures.
+},
+{
+    144.48,146.5
+     This always works better anyways.
+},
+{
+    146.5,150.28
+     So yeah, we're gonna do these two to three times per day.
+},
+{
+    150.28,151.8
+     Although we're gonna talk about some of them
+},
+{
+    151.8,153.04
+     that might be too aggressive
+},
+{
+    153.04,154.96
+     and you may only wanna start one time a day
+},
+{
+    154.96,156.6
+     and build up two or three times a day.
+},
+{
+    156.6,157.92
+     And I would say some of the other ones
+},
+{
+    157.92,159.44
+     you could do more than two or three times a day.
+},
+{
+    159.44,160.28
+     Exactly.
+},
+{
+    160.28,162.68
+     So it's gonna be, depending on your situation
+},
+{
+    162.68,163.52
+     and how they feel.
+},
+{
+    163.52,164.84
+     So we're starting to babble now, Bob.
+},
+{
+    164.84,166.48
+     No, we're okay. Let's get the first one. So we're starting to babble now, Bob. Now, okay, let's get the first one.
+},
+{
+    166.48,168.52
+     So we're gonna start from the neck and work down.
+},
+{
+    168.52,169.36
+     Sure.
+},
+{
+    169.36,172.08
+     Okay, so, you can, these are best,
+},
+{
+    172.08,173.04
+     you can do these standing,
+},
+{
+    173.04,174.56
+     but they're best done in a chair.
+},
+{
+    174.56,177.44
+     And you know, how many times do we have to go over
+},
+{
+    177.44,178.28
+     the chin tuck?
+},
+{
+    178.28,179.12
+     Right.
+},
+{
+    179.12,179.94
+     And we're gonna continue to do it
+},
+{
+    179.94,181.16
+     for another 20 years.
+},
+{
+    181.16,183.64
+     That's right, until you're sick of them, to the point.
+},
+{
+    183.64,187.52
+     Get yourself in a good posture and do the chin tuck like this.
+},
+{
+    187.52,189.76
+     It stretches those muscles back here and there.
+},
+{
+    189.76,192.08
+     So those of you who are new to our channel,
+},
+{
+    192.08,195.08
+     your posture is quite often one of the problems
+},
+{
+    195.08,196.84
+     is the forward head posture.
+},
+{
+    196.84,199.76
+     And that not only corrects it and stretches it,
+},
+{
+    199.76,201.2
+     but it's a reminder.
+},
+{
+    201.2,203.4
+     You'll be working at the desk and all of a sudden you go,
+},
+{
+    203.4,204.92
+     oh, I need to do some chin tucks.
+},
+{
+    204.92,207.44
+     And you'll find out, yeah, my head was forward.
+},
+{
+    207.44,211.56
+     So it's like, and remember, you're going straight back.
+},
+{
+    211.56,213.28
+     You're not going up, you're not going down.
+},
+{
+    213.28,214.76
+     You're just going straight back.
+},
+{
+    214.76,217.4
+     And I like to give a little over pressure sometimes.
+},
+{
+    217.4,219.56
+     Especially if I'm getting a little pain back here,
+},
+{
+    219.56,222.48
+     or neck headaches.
+},
+{
+    222.48,225.0
+     I like to go ahead and do a little over pressure.
+},
+{
+    225.36,227.08
+     Pretty much we beat it to death.
+},
+{
+    227.08,227.92
+     Beat that to death.
+},
+{
+    227.92,230.16
+     All right, do that five to 10 repetitions.
+},
+{
+    230.16,232.28
+     I'm gonna go over to the shoulders
+},
+{
+    232.28,233.8
+     and there's a few options for this.
+},
+{
+    233.8,235.38
+     So it's nice in a chair.
+},
+{
+    235.38,237.2
+     Now this is where Jean we were talking,
+},
+{
+    237.2,238.96
+     I didn't have a chair like this,
+},
+{
+    238.96,240.96
+     but a nice office chair, I think you have one.
+},
+{
+    240.96,244.6
+     And you can do the W stretch like this is one
+},
+{
+    244.6,246.6
+     and pressure on, pressure on. Remember, you have one. And you can do the W stretch like this is one. And pressure on, pressure on.
+},
+{
+    246.6,248.84
+     Remember, you have to breathe and relax
+},
+{
+    248.84,251.6
+     with all these five to 10 of these.
+},
+{
+    251.6,252.84
+     Okay.
+},
+{
+    252.84,253.92
+     Now the other thing you can do,
+},
+{
+    253.92,255.24
+     just we show the ball one.
+},
+{
+    255.24,257.0
+     This is a bonus.
+},
+{
+    257.0,258.08
+     This is a bonus one.
+},
+{
+    258.08,260.76
+     If you happen to have a squishy ball around this one,
+},
+{
+    260.76,262.72
+     it just feels a little bit better
+},
+{
+    262.72,264.6
+     when you get it right between your shoulder blades
+},
+{
+    264.6,267.14
+     and move it up and down as you want
+},
+{
+    267.14,269.9
+     and you get a little more exaggeration.
+},
+{
+    269.9,272.18
+     It's nice about it, you can hit the exact area
+},
+{
+    272.18,273.02
+     that you want to.
+},
+{
+    273.02,276.42
+     We gotta give kudos to our cameraman.
+},
+{
+    276.42,277.58
+     Mike came up with it.
+},
+{
+    277.58,278.66
+     He's exactly right.
+},
+{
+    278.66,280.46
+     We'll have to call it the, I don't know,
+},
+{
+    280.46,283.26
+     Mike ball or whatever, what do you want, Mike?
+},
+{
+    283.26,284.34
+     I don't know.
+},
+{
+    284.34,285.92
+     All right, next one.
+},
+{
+    285.92,288.44
+     Now, this is a real nice one, and this one,
+},
+{
+    289.88,291.08
+     really good for neck pain.
+},
+{
+    291.08,294.76
+     Yeah, and if you have that neck pain that radiates down
+},
+{
+    294.76,298.04
+     into the shoulders, get a towel roll.
+},
+{
+    298.04,299.44
+     You can do it with auto towel roll,
+},
+{
+    299.44,302.0
+     but a lot of people find starting out with a towel roll
+},
+{
+    302.0,302.96
+     really is more comfortable.
+},
+{
+    302.96,306.88
+     Look at these glasses off, my gosh. Better put them up on the cupboard
+},
+{
+    306.88,308.84
+     I'll sit on them otherwise.
+},
+{
+    308.84,313.84
+     Down low on the neck, shoulders back, breathe,
+},
+{
+    313.84,317.72
+     and just let your neck go back and stretch.
+},
+{
+    317.72,318.56
+     Can you hear me?
+},
+{
+    318.56,321.08
+     My guess is kind of messing with my microphone.
+},
+{
+    321.08,321.92
+     There you go.
+},
+{
+    321.92,323.6
+     You know, if you want to go up like this,
+},
+{
+    323.6,325.32
+     that can feel better too.
+},
+{
+    325.32,327.0
+     But you're not gonna go back and hold it
+},
+{
+    327.0,328.36
+     for five or 10 seconds.
+},
+{
+    328.36,332.04
+     All you need to do is go back and stretch and relax
+},
+{
+    332.04,333.08
+     and come forward.
+},
+{
+    333.08,336.92
+     If you do get dizzy with this, you're not gonna do it.
+},
+{
+    336.92,338.28
+     Jean did have a little issue with that,
+},
+{
+    338.28,339.72
+     but it wasn't, it was pretty minor.
+},
+{
+    339.72,342.24
+     Don't go as far back for one thing to try it
+},
+{
+    342.24,343.88
+     and see if you get less dizzy.
+},
+{
+    343.88,345.8
+     You may have a little vertigo that you may have to get
+},
+{
+    345.8,347.48
+     taken care of.
+},
+{
+    347.48,349.92
+     Next thing we're gonna do is stand up
+},
+{
+    349.92,352.26
+     and we are gonna use the Buya Stick for this.
+},
+{
+    352.26,354.96
+     You don't have to have a Buya Stick if you just have
+},
+{
+    354.96,358.04
+     a stick of some sorts about five feet long
+},
+{
+    358.04,361.0
+     and we're gonna go up like this,
+},
+{
+    361.0,363.48
+     take a deep breath in and exhale
+},
+{
+    363.48,366.04
+     and go down behind your back like this.
+},
+{
+    366.04,368.44
+     And there's different ways you can put your arms.
+},
+{
+    368.44,370.28
+     There's no definite way to do it,
+},
+{
+    370.28,373.14
+     but you're gonna feel a stretch across here
+},
+{
+    373.14,373.98
+     in that chest.
+},
+{
+    373.98,375.02
+     You're gonna stick your chest out
+},
+{
+    375.02,377.64
+     and then arch your back
+},
+{
+    377.64,379.04
+     and you can work that.
+},
+{
+    379.04,382.28
+     And you go up and you can do like five of these.
+},
+{
+    382.28,384.56
+     If it feels good to hold for a little bit longer,
+},
+{
+    384.56,385.68
+     feel free to do that. You could do a little rotation these. If it feels good to hold for a little bit longer, feel free to do that.
+},
+{
+    385.68,388.12
+     You could do a little rotation if you'd like to.
+},
+{
+    388.12,390.52
+     But all this is just working that shoulder.
+},
+{
+    390.52,392.4
+     I even like to do shintucks with these.
+},
+{
+    392.4,393.4
+     Oh, sure.
+},
+{
+    393.4,394.44
+     Do it at the same time.
+},
+{
+    394.44,395.52
+     Yeah, it's a double.
+},
+{
+    395.52,396.36
+     It's a bonus.
+},
+{
+    396.36,397.84
+     And you're working this upper back.
+},
+{
+    397.84,399.56
+     Yeah, so.
+},
+{
+    400.52,402.52
+     Getting two birds with one booyah.
+},
+{
+    402.52,404.52
+     Yeah, and don't forget this one.
+},
+{
+    404.52,405.36
+     Oh yeah. Where you put it here. Now this one too,ah. Yeah, and don't forget this one. Oh yeah.
+},
+{
+    405.36,406.2
+     Where you put it here.
+},
+{
+    406.2,409.36
+     Now this one too, you can go up and down.
+},
+{
+    409.36,412.2
+     And this is where it has this nice to have something
+},
+{
+    412.2,414.28
+     that's slippery, that's why the booyah stick is nice.
+},
+{
+    414.28,415.56
+     It slides on it.
+},
+{
+    415.56,420.48
+     Oh, and then also myzoldulul extension for the low back.
+},
+{
+    420.48,422.6
+     Like that, there you go.
+},
+{
+    422.6,424.76
+     Five to 10 repetitions or if it,
+},
+{
+    424.76,426.4
+     these are ones you could do all the time.
+},
+{
+    426.4,429.96
+     That one really kind of emphasizes the mid-back,
+},
+{
+    429.96,430.92
+     a thoracic area.
+},
+{
+    430.92,432.44
+     Right, precisely.
+},
+{
+    432.44,433.28
+     You know.
+},
+{
+    433.28,434.4
+     This next one is for the low back.
+},
+{
+    434.4,435.88
+     Right, so we started at the neck,
+},
+{
+    435.88,437.92
+     we did the thoracic, shoulders,
+},
+{
+    437.92,439.64
+     and now we're at the low back.
+},
+{
+    439.64,441.0
+     I don't wanna hold onto that Brad.
+},
+{
+    441.0,442.18
+     Oh, sure.
+},
+{
+    442.18,444.68
+     Oh, all right, the low back.
+},
+{
+    444.68,446.92
+     And this is something, it sounds like Jean,
+},
+{
+    446.92,449.44
+     you may need to go into slowly.
+},
+{
+    449.44,451.36
+     If you've ever done these before,
+},
+{
+    451.36,453.52
+     what I have found, what you're doing is press ups.
+},
+{
+    453.52,455.32
+     You put your hands, but only see your shoulders.
+},
+{
+    455.32,458.28
+     And what I find people that are maybe a little older
+},
+{
+    458.28,459.68
+     and they haven't done these,
+},
+{
+    459.68,460.84
+     is they actually push up like this
+},
+{
+    460.84,462.56
+     and their whole body goes up with it.
+},
+{
+    462.56,463.4
+     Yeah.
+},
+{
+    463.4,464.24
+     Because they're so tight.
+},
+{
+    464.24,465.56
+     It's no good. There's no movement.
+},
+{
+    465.56,468.52
+     So I just have them do like baby,
+},
+{
+    468.52,470.56
+     you call them baby press ups, right?
+},
+{
+    470.56,473.64
+     Baby press ups and have them work into it.
+},
+{
+    473.64,476.88
+     You might do this, you know, direction for a week or so,
+},
+{
+    476.88,479.36
+     you know, just due to the baby ones.
+},
+{
+    479.36,481.8
+     And then eventually you want to get up to the point
+},
+{
+    481.8,483.68
+     where you get up all the way to the top.
+},
+{
+    483.68,487.54
+     But the whole time, remember the pelvis stays on the mat.
+},
+{
+    487.54,489.26
+     That's the key point.
+},
+{
+    489.26,491.46
+     You may not get this high.
+},
+{
+    491.46,492.7
+     You may never get this high.
+},
+{
+    492.7,494.78
+     Bob's been doing this for a long time.
+},
+{
+    494.78,496.78
+     I've been doing them since I was young.
+},
+{
+    496.78,499.54
+     So I maintain.
+},
+{
+    499.54,500.38
+     Right.
+},
+{
+    500.38,503.18
+     So if you get up to this height even, that's really good.
+},
+{
+    503.18,506.88
+     And with these 10, no more than 10 is needed.
+},
+{
+    506.88,508.92
+     Five to 10 is good.
+},
+{
+    508.92,510.92
+     And if you got shoulder problems
+},
+{
+    510.92,512.92
+     and that does irritate your shoulder,
+},
+{
+    512.92,514.96
+     then that's an issue.
+},
+{
+    514.96,516.88
+     You can't do it.
+},
+{
+    516.88,518.2
+     You can do the standing ones possibly.
+},
+{
+    518.2,519.84
+     You have to maybe do the standing ones.
+},
+{
+    519.84,520.68
+     Exactly.
+},
+{
+    520.68,522.04
+     So there's always an option.
+},
+{
+    522.04,524.76
+     So for anybody who has these issues,
+},
+{
+    524.76,526.28
+     it's gonna help your posture,
+},
+{
+    526.28,528.26
+     it's gonna help the pain,
+},
+{
+    528.26,530.22
+     and it's gonna change your life
+},
+{
+    530.22,531.06
+     is what it's gonna do.
+},
+{
+    531.06,532.26
+     Do you think there's anybody else out there
+},
+{
+    532.26,533.9
+     willing to be your friend?
+},
+{
+    533.9,536.02
+     Yeah, yeah, I'm gonna find one today.
+},
+{
+    536.02,537.4
+     All right.
+},
+{
+    537.4,None
+     Good luck to you, Brad. you
+},

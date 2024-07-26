@@ -1,0 +1,576 @@
+{
+    0.0,4.44
+     Hi, I'm Dr. Adam Fields. I'm so glad you're here. We're talking about you
+},
+{
+    4.44,8.36
+     station tube dysfunction. I've been getting calls and emails. I've been
+},
+{
+    8.36,14.46
+     getting people flying in to get treated, people driving great distances, and I want
+},
+{
+    14.46,17.64
+     to give you some more tools. I want to give you some tools that you can use at
+},
+{
+    17.64,22.1
+     home and also I want to share with you what I do in my office if that if need
+},
+{
+    22.1,25.84
+     be. So you know I've been getting questions. Let's go over some of them.
+},
+{
+    25.84,26.68
+     I got it.
+},
+{
+    26.68,28.2
+     Wendy sent me a beautiful email.
+},
+{
+    28.2,31.68
+     Oh my gosh, she said, I came across some of your helpful
+},
+{
+    31.68,34.8
+     YouTube videos as I was searching out of sheer frustration.
+},
+{
+    34.8,37.08
+     And I know that's a lot of you out there.
+},
+{
+    37.08,38.76
+     Your ears are going through it.
+},
+{
+    38.76,41.52
+     You're trying to accommodate to them.
+},
+{
+    41.52,44.4
+     You go up into altitude and they're getting tight.
+},
+{
+    44.4,49.3
+     My ear has been plugged for 18 months or after a bad infection. That sounds dire,
+},
+{
+    49.3,54.66
+     but I've had some people come into my office after 30 years of a plugged ear
+},
+{
+    54.66,60.5
+     and get unplugged. Nothing has relieved it and the ENT put a tube in a
+},
+{
+    60.5,64.58
+     diagnostic tool. He said it would provide instant relief and it hasn't worked. It has
+},
+{
+    64.58,68.84
+     been a week and I am miserable. My ear is plugged, there's a dull ache and I
+},
+{
+    68.84,75.28
+     feel like I'm in an echo chamber and I can hear my heart beating in my ear. I went back
+},
+{
+    75.28,79.84
+     and they asked if I wanted it removed. I had no idea what to say and they advised me to
+},
+{
+    79.84,84.56
+     wait another week. I'm getting no relief at all. They told me next steps are different
+},
+{
+    84.56,85.36
+     drugs. A lot of you are here right now because you don't want drugs. I'm getting no relief at all. They told me next steps are different drugs.
+},
+{
+    85.36,89.6
+     A lot of you are here right now because you don't want drugs. I don't want to try a bunch of drugs
+},
+{
+    89.6,95.52
+     and they are offering no other ideas. I have to find some relief. I realize that you're in California
+},
+{
+    95.52,100.8
+     and I have no need and you have no need to respond to me but I'm feeling quite desperate.
+},
+{
+    100.8,105.52
+     With our medical system it took me nine months to see an ENT and getting another
+},
+{
+    105.52,111.24
+     opinion, especially during COVID will be next to impossible. I'm wondering if you would be
+},
+{
+    111.24,116.44
+     able to give me any thoughts or guidance. So this is it. I want to give you guys guidance.
+},
+{
+    116.44,123.44
+     Number one, one of the things that I do that is just amazing, the Muncie technique. So
+},
+{
+    123.44,127.0
+     in the in here, this is a schematic here. This is the opening
+},
+{
+    127.0,132.7
+     for your use station tube right here. It goes from your middle ear right to here. A lot
+},
+{
+    132.7,137.82
+     of you have tight throats, a lot of you have mucus and inflammation that's gone that way
+},
+{
+    137.82,149.02
+     for a long period of time. That mucus can build up on the outside of your station tube, it can get hardened even, it can even grow micro blood vessels
+},
+{
+    149.02,152.78
+     and coat the outside of this thing and inhibit
+},
+{
+    152.78,156.06
+     that flow, that emptying, right?
+},
+{
+    156.06,159.7
+     So one of the things I do is called the Muncie Technique and I go into the mouth
+},
+{
+    159.7,166.52
+     and I massage there and it can be a number of days to have it done but we get it to
+},
+{
+    166.52,170.28
+     free up and people, oh when they're doing it sometimes they can hear a little
+},
+{
+    170.28,176.24
+     sound in there and it's wonderful. The first thing I do before though doing this
+},
+{
+    176.24,180.48
+     I make sure people are on a low inflammation diet and one of those things
+},
+{
+    180.48,184.8
+     are I get rid of gluten, sugar and dairy. You guys if you're eating a bunch of
+},
+{
+    184.8,187.64
+     sugar and you're eating a bunch of pasta and bread
+},
+{
+    187.64,192.76
+     and things like that and you want to get well in those years, it's going to be tough.
+},
+{
+    192.76,197.36
+     This is what we call, this isn't a sickness or a problem, this is called a health opportunity,
+},
+{
+    197.36,198.36
+     right?
+},
+{
+    198.36,203.48
+     This is your body knocking on the door going, I've got to get healthier, please help me.
+},
+{
+    203.48,206.76
+     And one of those things is low inflammation diet.
+},
+{
+    206.76,208.26
+     Get rid of the sugar.
+},
+{
+    208.26,210.16
+     It's evil.
+},
+{
+    210.16,213.88
+     Also to decrease that inflammation, I have people do probiotics.
+},
+{
+    213.88,216.24
+     I put them on a very specific plan.
+},
+{
+    216.24,218.44
+     I use a company called Microbiome Labs.
+},
+{
+    218.44,221.24
+     They have, go on my website, check it out.
+},
+{
+    221.24,222.24
+     It's very good.
+},
+{
+    222.24,230.32
+     If you want information on it, I can help you. They're spores because normal probiotics, they don't make it through the 1.5 to 3.5
+},
+{
+    230.32,234.6
+     pH of the stomach and populate in the small and large intestines where they're supposed
+},
+{
+    234.6,240.52
+     to. They actually, it gets, they get killed, right? And these are spores, they're naturally
+},
+{
+    240.52,248.66
+     encapsulated, they get past that gut and they open up with something called quorum sensing and they start doing their things. They're regulators,
+},
+{
+    248.66,253.56
+     they increase the good, decrease the bad and help balance things out. So anyway,
+},
+{
+    253.56,259.08
+     low inflammation diet, the Muncie technique, these are really good
+},
+{
+    259.08,262.8
+     techniques. I feel my ears are filled with fluid whenever I drink something
+},
+{
+    262.8,265.2
+     cold. I also feel clicks and often in my ears, filled with fluid. Whenever I drink something cold, I also feel clicks,
+},
+{
+    265.2,268.08
+     and often in my ears, mostly difficult to sleep at night,
+},
+{
+    268.08,270.96
+     getting pressure, like pain in my ears.
+},
+{
+    270.96,274.0
+     Sometimes I also feel my ears clogged.
+},
+{
+    274.0,275.8
+     Are these symptoms of ears clogged?
+},
+{
+    275.8,278.88
+     Sounds like they're symptoms of ear clogged to me.
+},
+{
+    278.88,282.52
+     However, why is that clogging happening?
+},
+{
+    282.52,287.36
+     Sometimes the mucosal linings can be inflamed and stuck and close that thing down.
+},
+{
+    287.88,292.46
+     So besides those two things that I just gave you the Muncie and the low inflammation diet,
+},
+{
+    293.08,297.72
+     regular chiropractic care, the nerves that go to the Eustachian tubes,
+},
+{
+    297.88,302.8
+     stimulate muscles like the tensor villi palletini muscle, that wave-like contraction that
+},
+{
+    303.16,305.42
+     empties out the Eustachian tube.
+},
+{
+    305.42,309.62
+     So chiropractic care or corrective care like I do is very good.
+},
+{
+    309.62,316.1
+     The pedabond technique, also the chiropractic biophysics technique, these are what I consider
+},
+{
+    316.1,319.02
+     very, very high-end chiropractic care.
+},
+{
+    319.02,321.14
+     What else can you do?
+},
+{
+    321.14,324.18
+     I like something called oil pulling.
+},
+{
+    324.18,326.68
+     I found some results with that.
+},
+{
+    326.68,329.44
+     These are things I often, I'll help people do them like they're going to fly in and
+},
+{
+    329.44,333.3
+     I'll say okay do these things, do the get on the low inflammation diet, get on the oil
+},
+{
+    333.3,338.92
+     pulling, some other things before you come so you can maybe not have to take the trip.
+},
+{
+    338.92,346.76
+     The oil pulling, you get a heaping tablespoon of coconut oil, put it in your mouth, and just swish it around.
+},
+{
+    346.76,350.28
+     Go take a walk or something so you don't have to be around people and talk because you won't
+},
+{
+    350.28,351.6
+     be able to talk.
+},
+{
+    351.6,357.56
+     And what you'll find is after about 15 minutes, you'll feel like this clump of mucus come
+},
+{
+    357.56,359.88
+     down in the back of the throat.
+},
+{
+    359.88,363.36
+     And you'll have to swallow it because it's way back there, but just swallow it.
+},
+{
+    363.36,367.9
+     And then once you get to the 20 minutes, spit the oil out, wash your mouth out, that oil is now just full
+},
+{
+    367.9,375.9
+     of gunk. And oftentimes or sometimes actually you can get some results that way also. So
+},
+{
+    375.9,382.5
+     what else? I do something called endonasal cranial adjusting in my office. A lot of people
+},
+{
+    382.5,390.82
+     have asked me about it. The skull bones can go out of alignment. There are 22 bones that fit together like pieces in a jigsaw
+},
+{
+    390.82,397.48
+     puzzle and it could be boxing, it could be a punch, it could be dehydration, hunching.
+},
+{
+    397.48,406.44
+     These skull bones can actually lose that perfect alignment and that can affect the back of the throat, it can affect the nose, it can
+},
+{
+    406.44,412.2
+     affect fluid flow dynamics and I actually do a technique where I put a balloon in
+},
+{
+    412.2,417.84
+     the nose with a toothpick and go into certain parts of the nose and actually
+},
+{
+    417.84,428.0
+     adjust those skull bones and I've had a lot of people's ears open up that way also, or even a combination of the two.
+},
+{
+    428.0,433.0
+     I also use laser in the office, which can decrease inflammation there, help people with,
+},
+{
+    433.0,438.0
+     I've had great results with tinnitus. There's something else I want to share with you.
+},
+{
+    438.0,448.28
+     One of the ways that I found out about a lot of this stuff is I actually redid a couple of houses and was living there because we couldn't afford to go and live somewhere
+},
+{
+    448.28,452.8
+     else where we were redoing the houses and I got some fungus in my nose and I
+},
+{
+    452.8,459.44
+     went to so many different places I did the diet thing I did my cranial
+},
+{
+    459.44,469.3
+     adjustments I did as much as I could and I still had this problem and I went to a friend friend of mine who's a dentist and I went to also another one who's a naturopath
+},
+{
+    469.3,471.02
+     that use ozone.
+},
+{
+    471.02,472.32
+     And ozone is very toxic.
+},
+{
+    472.32,473.32
+     It's O3, right?
+},
+{
+    473.32,475.84
+     You don't want to breathe this stuff in.
+},
+{
+    475.84,481.0
+     But if you can take a big breath in, it's called an ozone nasal insufflation.
+},
+{
+    481.0,485.86
+     You take a big breath in and you put about 40 ml into your nose and you hold it for about
+},
+{
+    485.86,489.84
+     30 seconds and it burns if you've got fungus up there.
+},
+{
+    489.84,494.16
+     And then you breathe out of your nose, run away from that area because you don't want
+},
+{
+    494.16,496.72
+     to inhale it into your lungs.
+},
+{
+    496.72,503.6
+     And I had this burning, I did it three days and this, after years of fungus in my nose,
+},
+{
+    503.6,506.84
+     zero sugar diet, etc., this thing opened up
+},
+{
+    506.84,509.76
+     and has been clear and absolutely wonderful.
+},
+{
+    509.76,511.96
+     So I recommend that to you.
+},
+{
+    511.96,513.48
+     I recommend that to a lot of people.
+},
+{
+    513.48,519.0
+     I mean, there's more questions here and there's more people that have called, texted, you
+},
+{
+    519.0,522.32
+     name it, they're getting ahold of me.
+},
+{
+    522.32,527.0
+     And these are wonderful things that are going to help you. I like the laser, I like
+},
+{
+    527.0,532.84
+     the oil pulling, the ozone, the endonasal cranial adjusting, the low inflammation diet
+},
+{
+    532.84,540.64
+     is a must and the Muncie technique. So find someone in your area that does these things
+},
+{
+    540.64,547.84
+     or just start doing them one at a time and continue with the exercises. We've got to get the back of that throat opened up.
+},
+{
+    547.84,549.6
+     We've got a massage out here.
+},
+{
+    549.6,554.12
+     We're going to be coming out with some more videos, one that's specifically for tinnitus
+},
+{
+    554.12,557.56
+     or tinnitus, whichever you like to say, tomato, tomato.
+},
+{
+    557.56,558.88
+     But I'm with you.
+},
+{
+    558.88,560.04
+     I'm with you on this.
+},
+{
+    560.04,563.12
+     I know this is just challenging.
+},
+{
+    563.12,565.84
+     I've had desperate people, oh, my ears,
+},
+{
+    565.84,568.26
+     oh, I'm ringing, that kind of thing.
+},
+{
+    568.26,571.4
+     But I think these are some really good tools
+},
+{
+    571.4,573.4
+     that you can start to use.
+},
+{
+    573.4,575.48
+     Thank you for tuning in.
+},
+{
+    575.48,578.18
+     If you like this stuff, please post it on social media.
+},
+{
+    578.18,579.12
+     Tell your story.
+},
+{
+    579.12,580.36
+     People need to hear it,
+},
+{
+    580.36,582.24
+     because there's more people suffering out there.
+},
+{
+    582.24,587.3
+     And my goal is for us not to need some healthcare system.
+},
+{
+    588.14,591.76
+     My goal is for us to be able to be more and more self-sustained,
+},
+{
+    591.76,595.66
+     to take care of ourselves, to be the captain of our ship,
+},
+{
+    595.66,598.68
+     to really take a hold of our health.
+},
+{
+    599.78,600.62
+     Go get them.
+},

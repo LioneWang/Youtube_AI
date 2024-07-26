@@ -1,0 +1,232 @@
+{
+    0.0,7.72
+     This is your home oxygen tank.
+},
+{
+    7.72,12.6
+     Keep the oxygen tank in its provided carrier and make sure it's in a stable position at
+},
+{
+    12.6,15.8
+     all times.
+},
+{
+    15.8,18.04
+     Don't leave the tank standing up.
+},
+{
+    18.04,20.6
+     This is the on-off valve.
+},
+{
+    20.6,24.8
+     This is a regulator that attaches onto the oxygen tank.
+},
+{
+    24.8,28.0
+     This gauge shows how much oxygen is left in the tank.
+},
+{
+    28.0,31.0
+     Green is full and red is empty.
+},
+{
+    31.0,37.0
+     This control lets you adjust the flow of oxygen to the prescribed liters per minute.
+},
+{
+    37.0,42.0
+     This oxygen outlet is where you connect the nasal cannula.
+},
+{
+    42.0,47.2
+     This is a cylinder wrench. You will use it to open and close the valve
+},
+{
+    47.2,50.16
+     and tighten the regulator.
+},
+{
+    50.16,52.76
+     Turn on the tank by turning the valve on top
+},
+{
+    52.76,55.76
+     to the left with the cylinder wrench.
+},
+{
+    55.76,60.04
+     Watch to see that dial moves up.
+},
+{
+    60.04,63.12
+     Turn the control to the prescribed oxygen flow
+},
+{
+    63.12,66.54
+     and be sure to listen and feel for the oxygen flow
+},
+{
+    66.54,68.82
+     before attaching the nasal cannula.
+},
+{
+    70.02,72.18
+     When putting on the nasal cannula,
+},
+{
+    72.18,75.84
+     make sure the two prongs are pointing down, not up,
+},
+{
+    75.84,77.68
+     and never cut these prongs.
+},
+{
+    78.64,81.18
+     You can put it behind the ears and tighten it
+},
+{
+    81.18,84.9
+     under the chin or behind the head,
+},
+{
+    84.9,88.0
+     whichever is more comfortable for your child.
+},
+{
+    88.0,91.0
+     You may also get pieces of tape that look like this
+},
+{
+    91.0,94.5
+     to help secure the cannula to your baby's face.
+},
+{
+    94.5,97.0
+     When you're not using the oxygen tank,
+},
+{
+    97.0,100.5
+     turn off the oxygen flow and turn off the tank
+},
+{
+    100.5,106.0
+     by turning the valve on top back to the right with the cylinder wrench.
+},
+{
+    106.0,112.48
+     Turn on the control and let the oxygen run so the dial returns to zero.
+},
+{
+    112.48,118.08
+     When your oxygen tank is empty, you will need to put the regulator on a new oxygen tank.
+},
+{
+    118.08,121.76
+     Turn the T-handle to remove the regulator.
+},
+{
+    121.76,126.36
+     These two pins on the regulator must line up with the holes on the oxygen tank.
+},
+{
+    126.36,132.72
+     This washer goes in the middle of the pins. Your oxygen company will give you extra washers.
+},
+{
+    132.72,139.84
+     Put the regulator on the new oxygen tank. Line the pins on the regulator up with the holes
+},
+{
+    139.84,146.16
+     on the tank and then tighten it with the T-handle. Use the cylinder wrench to turn the valve on.
+},
+{
+    147.36,154.24
+     If you feel or hear a leak, try to re-tighten or replace the regulator. Call your oxygen company
+},
+{
+    154.24,161.04
+     if you think the regulator is broken. On your way home, don't smoke in the car and keep one window
+},
+{
+    161.04,166.32
+     partially open. Keep the oxygen tank secure by laying it on its side
+},
+{
+    166.32,168.6
+     where it can't roll around.
+},
+{
+    168.6,172.44
+     Use a restraining device such as a seatbelt or soft clothing,
+},
+{
+    172.44,175.64
+     blankets, or towels to secure the tank on the floor
+},
+{
+    175.64,178.84
+     behind seats to prevent rolling.
+},
+{
+    178.84,182.52
+     When you get home, call your oxygen company right away
+},
+{
+    182.52,185.36
+     so they can bring you more oxygen tanks.
+},
+{
+    190.0,190.56
+     Make sure the oxygen tanks are secure in their provided carriers at all times.
+},
+{
+    194.16,194.96
+     Do not leave them in an area where they can be easily knocked over.
+},
+{
+    200.88,207.0
+     Don't store your oxygen tanks in a small storage area such as a closet or the trunk of a car because any oxygen that leaks out of the tank can create a fire hazard.
+},
+{
+    207.0,213.24
+     Oxygen is not flammable. However, oxygen will cause anything that is burning to burn hotter
+},
+{
+    213.24,220.44
+     and faster. No smoking in the same room or car as your oxygen equipment. Your home care
+},
+{
+    220.44,225.92
+     company will give you no smoking signs to place on your door.
+},
+{
+    225.92,232.04
+     Don't use any friction toys or gadgets that could cause a spark around oxygen.
+},
+{
+    232.04,236.94
+     Don't use oil-based creams and lotions like petroleum jelly on your skin.
+},
+{
+    236.94,239.96
+     Use water-based creams and lotions instead.
+},
+{
+    239.96,246.4
+     If your child is using lip moisturizer, check the ingredients for any of the listed materials.
+},
+{
+    246.4,252.72
+     Keep the oxygen tanks and tubing at least 10 feet away from any source of heat.
+},
+{
+    252.72,259.88
+     Keep oxygen equipment away from flammable materials such as grease, oil, aerosols, paints,
+},
+{
+    259.88,266.8
+     gasoline or solvents. If you have any questions, please contact your oxygen supply company.
+},

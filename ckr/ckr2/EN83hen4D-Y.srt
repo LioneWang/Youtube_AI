@@ -1,0 +1,328 @@
+{
+    0.0,2.0
+     I'm allergic to nuts.
+},
+{
+    2.0,4.0
+     I can eat squabberries.
+},
+{
+    4.0,6.0
+     Milk doesn't like me.
+},
+{
+    6.0,8.0
+     Mommy says I got an allergy.
+},
+{
+    8.0,9.0
+     I get all red and bumpy.
+},
+{
+    9.0,11.0
+     My eyes get puffy like this.
+},
+{
+    11.0,13.0
+     I don't breathe so good.
+},
+{
+    13.0,15.0
+     My tongue gets itchy.
+},
+{
+    15.0,17.0
+     It made me really scared.
+},
+{
+    17.0,21.0
+     This, this, this is my EpiPen.
+},
+{
+    21.0,22.0
+     EpiPen.
+},
+{
+    22.0,23.0
+     EpiPen.
+},
+{
+    23.0,24.0
+     My EpiPen.
+},
+{
+    24.0,26.0
+     Take it out of the case and pop off the cap.
+},
+{
+    26.0,27.52
+     Make a fist like this.
+},
+{
+    27.52,28.32
+     Like this.
+},
+{
+    28.32,30.16
+     Kids like me can sit on laps.
+},
+{
+    30.16,32.16
+     Beard can sit or lie down.
+},
+{
+    32.16,34.48
+     Here's a spot, just hold my legs still.
+},
+{
+    34.48,35.76
+     Press, click and hold.
+},
+{
+    35.76,37.2
+     Be sure to hear the click.
+},
+{
+    37.2,39.12
+     Hold it there for 10 seconds.
+},
+{
+    39.12,41.28
+     That's 10 seconds.
+},
+{
+    41.28,43.2
+     Always have an extra EpiPen ready
+},
+{
+    43.2,44.96
+     because the medicine can wear off.
+},
+{
+    44.96,45.28
+     Then call 911. Easy white. 10 seconds. Always have an extra EpiPen ready because the medicine can wear off.
+},
+{
+    45.28,46.28
+     Then call 911.
+},
+{
+    46.28,47.28
+     Easy.
+},
+{
+    47.28,48.28
+     White.
+},
+{
+    48.28,55.44
+     Today, doctors are seeing more and more children with allergies, especially food allergies.
+},
+{
+    55.44,60.4
+     In a room of 20 kids, one or more of them will have allergies.
+},
+{
+    60.4,70.0
+     While most allergic reactions result in merely uncomfortable symptoms, some anaphylactic reactions may be more serious and even life-threatening.
+},
+{
+    70.0,77.0
+     About 150 children and young adults die from food allergies every year in the United States.
+},
+{
+    77.0,87.0
+     Due to the unpredictable nature of allergic reactions, over 2.4 million epinephrine auto-injectors, such as this, are currently being prescribed.
+},
+{
+    87.0,94.0
+     EpiPens deliver medicine quickly and effectively, but they only work if there is somebody around
+},
+{
+    94.0,101.0
+     who knows where the pen is, when to use it, how to use it, and will actually do it.
+},
+{
+    101.0,106.24
+     Times when you need to use an EpiPen can be stressful. It may even be life-threatening.
+},
+{
+    106.24,111.36
+     So it is important to have a plan of action so you can calmly react to the situation.
+},
+{
+    112.08,117.44
+     Knowing when to use a NEPI pen can be easy. If a child eats something their allergic to
+},
+{
+    117.44,126.36
+     has hives and is wheezing, give the shot. Sometimes, however, symptoms may not be as obvious. So if you are in doubt, always
+},
+{
+    126.36,131.32
+     give the shot. You may not even have known what the child has eaten. But if you do suspect
+},
+{
+    131.32,137.2
+     an allergic reaction or a child is demonstrating two or more symptoms, don't wait. The longer
+},
+{
+    137.2,141.96
+     you wait to administer an EpiPen, the harder it is to stop an allergic reaction, mild or
+},
+{
+    141.96,147.84
+     severe. And allergic reactions can change from mild to fatal quickly.
+},
+{
+    147.84,151.46
+     No child has ever died or has had serious problems
+},
+{
+    151.46,153.36
+     from a standard dose of epinephrine.
+},
+{
+    153.36,156.82
+     To protect the child in your life, be prepared.
+},
+{
+    156.82,160.0
+     Memorize these steps and practice them.
+},
+{
+    160.0,162.34
+     Review each child's action plan.
+},
+{
+    162.34,165.06
+     Know where each child's epiPen is located.
+},
+{
+    166.12,168.12
+     Epi equals 911.
+},
+{
+    168.12,170.24
+     If you get it, call it.
+},
+{
+    170.24,172.58
+     Take the EpiPen out of its case.
+},
+{
+    172.58,175.24
+     Hold it in a firm fist grip.
+},
+{
+    175.24,176.84
+     Remove the cap.
+},
+{
+    176.84,180.08
+     Make sure the child is sitting or lying down.
+},
+{
+    180.08,182.44
+     Identify the big muscle in the thigh.
+},
+{
+    182.44,185.36
+     Hold the leg and the child steadily.
+},
+{
+    185.36,188.24
+     Press the orange part firmly against the thigh
+},
+{
+    188.24,189.76
+     so that it clicks.
+},
+{
+    189.76,190.84
+     Stay there.
+},
+{
+    190.84,192.12
+     Don't bounce.
+},
+{
+    192.12,194.08
+     Hold for 10 seconds.
+},
+{
+    194.08,196.44
+     Press, click, and hold.
+},
+{
+    196.44,198.8
+     Some of you may have an epinephrine injector
+},
+{
+    198.8,200.32
+     that looks like this.
+},
+{
+    200.32,202.6
+     This training device has yellow caps,
+},
+{
+    202.6,204.76
+     but yours may have a different color.
+},
+{
+    204.76,208.84
+     This has the same medicine as the EpiPen, the same kind of spring-loaded needle,
+},
+{
+    208.84,212.0
+     and is used for exactly the same reasons.
+},
+{
+    212.0,215.0
+     This injector has two safety caps.
+},
+{
+    215.0,217.0
+     Hold the injector in a fiscret.
+},
+{
+    217.0,220.0
+     Don't put your thumb on either end.
+},
+{
+    220.0,222.0
+     Remove both safety caps.
+},
+{
+    222.0,224.0
+     The red end is the action end.
+},
+{
+    224.0,225.1
+     That's where the needle
+},
+{
+    225.1,229.98
+     comes out. Remember, red to the leg. The red end should not touch anything else.
+},
+{
+    229.98,237.06
+     Again, make sure the child is sitting or lying down and hold for 10 seconds. For
+},
+{
+    237.06,241.96
+     this device, the needle will remain exposed after use. Please put it down
+},
+{
+    241.96,246.16
+     carefully or put it back in the case. And if you haven't
+},
+{
+    246.16,252.56
+     done so already, call 911. As with any emergency medication or device, please be
+},
+{
+    252.56,256.52
+     familiar with it before you need to use it.
+},

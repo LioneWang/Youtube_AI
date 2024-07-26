@@ -1,0 +1,184 @@
+{
+    0.0,8.26
+     Today's topic is broken finger. A broken finger is a common injury, often caused by a trauma
+},
+{
+    8.26,14.94
+     to the fingers. The fingers are the most frequently fractured part of the hand. They are made
+},
+{
+    14.94,26.44
+     up of ligaments, tendons, and bones. The fingers are capable of fine, coordinated motions. They let us touch, grasp, and interact with
+},
+{
+    26.44,33.28
+     our environment. Any sort of trauma to the hand can disrupt these coordinated motions,
+},
+{
+    33.28,40.08
+     and cause tremendous impacts on very normal activities, such as lacing the shoes, typing,
+},
+{
+    40.08,42.2
+     eating.
+},
+{
+    42.2,47.04
+     Because the fingers are used for many daily activities, they are at higher risk
+},
+{
+    47.04,51.88
+     than any other part of the body for traumatic injury.
+},
+{
+    51.88,57.74
+     Broken fingers account for up to 10% of all broken bones. It can be hard sometimes to
+},
+{
+    57.74,67.28
+     tell if a finger is broken, sprained, or dislocated. So any suspicious injury to the fingers should be evaluated by a physician.
+},
+{
+    68.32,74.56
+     A delayed diagnosis can lead to a worse long-term outcome, such as chronic deformity of a finger.
+},
+{
+    76.56,81.84
+     Causes. The main cause of a broken finger is a traumatic injury to the fingers.
+},
+{
+    87.0,95.16
+     a traumatic injury to the fingers. Trauma can occur from playing sports, punching something, falls, a workplace injury, or in other accidents. A broken finger can result from abnormal bone
+},
+{
+    95.16,101.68
+     within the fingers. This type of fracture is referred to as a pathologic fracture, and
+},
+{
+    101.68,105.56
+     it results from having a condition that causes weakening of the bone, leading
+},
+{
+    105.56,109.44
+     to susceptibility to fracture.
+},
+{
+    109.44,114.84
+     Common causes include osteoporosis, tumors, and infection.
+},
+{
+    114.84,119.48
+     A broken finger can also be caused by an overuse of the fingers.
+},
+{
+    119.48,120.56
+     Symptoms
+},
+{
+    120.56,122.52
+     Swelling of the finger
+},
+{
+    122.52,124.76
+     Bruising of the finger
+},
+{
+    124.76,126.44
+     Pain when touching the bone Deformity of the finger, bruising of the finger, pain when touching the bone,
+},
+{
+    126.44,133.0
+     deformity of the finger, difficulty bending the finger, numbness in finger,
+},
+{
+    133.0,141.56
+     in severe cases, an exposure of the broken bones. Diagnosis and treatment. The
+},
+{
+    141.56,146.8
+     primary tool to make a diagnosis is an x-ray. The x-ray is an
+},
+{
+    146.8,150.2
+     imaging test which can be used to evaluate the position of the broken
+},
+{
+    150.2,155.76
+     finger bones. It can also be helpful to ensure no damage to the tendon or any
+},
+{
+    155.76,161.0
+     other injury that could alter the treatment recommendations. Treatment.
+},
+{
+    161.0,165.48
+     Treatment options depend on the type of fracture and the individual bones
+},
+{
+    165.48,171.64
+     or bone in the fingers that are broken. If the fracture is stable, treatment may be
+},
+{
+    171.64,177.4
+     as simple as splinting one finger to another by taping them together. The splint is left
+},
+{
+    177.4,182.2
+     in place for about four weeks, followed by an additional two weeks of limiting finger
+},
+{
+    182.2,189.0
+     use. If the fracture is unstable, the injured finger will need to be immobilized.
+},
+{
+    189.0,194.0
+     The simplest way is to apply a splint after realigning the fractured fragments.
+},
+{
+    194.0,199.0
+     If this does not help with stability, a surgical procedure may be needed.
+},
+{
+    199.0,204.0
+     Surgical immobilization ranges from pinning the fractures with small wires
+},
+{
+    204.0,205.72
+     to open procedures with plate
+},
+{
+    205.72,208.12
+     and screws.
+},
+{
+    208.12,215.08
+     On your way to the hospital or clinic, you can do the following to help your finger.
+},
+{
+    215.08,220.44
+     Apply ice wrapped in a cloth to the injured finger to help reduce swelling and pain.
+},
+{
+    220.44,224.16
+     Do not apply ice directly to the skin.
+},
+{
+    224.16,227.0
+     Remove all jewelry or rings from the affected finger.
+},
+{
+    228.0,232.5
+     Make a temporary splint by putting a pen or lollipop stick next to the finger
+},
+{
+    232.5,236.5
+     and wrapping something around the stick and finger to hold it in place.
+},
+{
+    237.0,248.6
+     Keep the affected fingers elevated. Thank you for watching our video. Please do not forget to like and share the video. Also,
+},
+{
+    248.6,252.0
+     please subscribe to the channel to stay updated on our latest videos.
+},

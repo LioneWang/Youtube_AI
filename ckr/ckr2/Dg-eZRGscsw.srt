@@ -1,0 +1,404 @@
+{
+    0.0,10.0
+     Let's see what's on that other thing there.
+},
+{
+    10.0,11.0
+     Go!
+},
+{
+    11.0,12.0
+     Oh, help!
+},
+{
+    12.0,13.0
+     Buddy!
+},
+{
+    13.0,14.0
+     Oh!
+},
+{
+    14.0,15.0
+     Oh, that hurts.
+},
+{
+    15.0,16.0
+     Help is wrong with me.
+},
+{
+    16.0,17.0
+     Please somebody go help me.
+},
+{
+    17.0,18.0
+     Help me, help me, please.
+},
+{
+    18.0,19.0
+     Help me, help me.
+},
+{
+    19.0,20.0
+     Help me, help me.
+},
+{
+    20.0,21.0
+     Help me, help me.
+},
+{
+    21.0,22.0
+     Help me, help me.
+},
+{
+    22.0,23.0
+     Help me, help me.
+},
+{
+    23.0,24.0
+     Help me, help me.
+},
+{
+    24.0,30.0
+     Help me, help me. Help me, help me. Help me, help me. Help me, help me. Help me, that hurts. Help is wrong with me, please. Somebody call. Help me, help me, please.
+},
+{
+    30.0,33.0
+     Hey Carol. I heard you yell out for some help.
+},
+{
+    33.0,38.0
+     So listen, can you tell me what's going on?
+},
+{
+    38.0,40.0
+     I don't feel good. You don't feel good?
+},
+{
+    40.0,45.0
+     No, my head hurts, my neck. I just, oh, I don't feel good.
+},
+{
+    45.36,47.6
+     See, remote down here, did you drop it?
+},
+{
+    47.6,50.2
+     Yeah, I was trying to change the channel.
+},
+{
+    51.32,53.08
+     Can you do something for me?
+},
+{
+    53.08,54.0
+     Right.
+},
+{
+    54.0,56.64
+     Can you smile at me a second?
+},
+{
+    56.64,58.56
+     A big smile.
+},
+{
+    58.56,59.76
+     Okay, good.
+},
+{
+    59.76,62.28
+     Listen, I'm gonna hold your arms up here a moment.
+},
+{
+    62.28,64.2
+     I don't want you to let them drop.
+},
+{
+    64.2,65.76
+     Just hold them both even. Okay, good, you can rest your arms up here a moment. I don't want you to let them drop. Just hold them both even.
+},
+{
+    67.12,67.94
+     Okay, good.
+},
+{
+    67.94,69.84
+     You can rest your arms again.
+},
+{
+    69.84,74.54
+     Can you say, I love my husband more than anybody.
+},
+{
+    76.88,78.72
+     I love, okay, good.
+},
+{
+    78.72,79.54
+     That's good.
+},
+{
+    79.54,80.38
+     That's good.
+},
+{
+    81.82,84.62
+     What time do you think this started?
+},
+{
+    84.62,86.0
+     Was it...
+},
+{
+    86.0,90.0
+     Was it recently?
+},
+{
+    90.0,93.0
+     Was it a long time ago?
+},
+{
+    93.0,97.0
+     Just nod your head up or down if it is recently.
+},
+{
+    97.0,101.0
+     Okay. Carol, I don't want to alarm you,
+},
+{
+    101.0,105.52
+     but I think you're showing enough symptoms that we should suspect
+},
+{
+    105.52,110.94
+     something serious and we should call for help and get an ambulance on the way.
+},
+{
+    110.94,115.66
+     The hospital can certainly help you, but you're having enough signs and symptoms that I'm concerned
+},
+{
+    115.66,121.16
+     it could be a stroke, not that I'm for sure, but I know that at the hospital they can take
+},
+{
+    121.16,124.24
+     better care of you there than here in your home.
+},
+{
+    124.24,128.84
+     Listen, I think we're going to give the ambulance a call and then if it's
+},
+{
+    128.84,134.22
+     nothing you've bought yourself some peace of mind, okay? Okay. And I'm not
+},
+{
+    134.22,138.36
+     gonna leave you either. I'm gonna stay right here so don't worry about that.
+},
+{
+    138.36,144.96
+     Now let's take a closer look at what a stroke is, how the signs and symptoms
+},
+{
+    144.96,146.6
+     help indicate to us that
+},
+{
+    146.6,152.24
+     it's an emergency, and then what to do in case we recognize those signs and symptoms.
+},
+{
+    152.24,157.12
+     So a stroke has been said to be like a heart attack, but in the brain.
+},
+{
+    157.12,162.12
+     And the reason that analogy works is because we know more about what causes strokes.
+},
+{
+    162.12,166.36
+     And most of the time, and in many cases, the reason they're having a stroke
+},
+{
+    166.36,169.28
+     is very similar to the reasons we have a heart attack.
+},
+{
+    169.28,173.96
+     Something has dislodged and blocked a vessel in the brain
+},
+{
+    173.96,178.16
+     and is now starving that brain tissue of oxygenated blood,
+},
+{
+    178.16,181.24
+     which is now beginning to show effects neurologically
+},
+{
+    181.24,183.24
+     in the patient's body.
+},
+{
+    183.24,186.12
+     Now, it can also be caused from a breakage
+},
+{
+    186.12,188.16
+     or a bursting of the blood vessel.
+},
+{
+    188.16,191.7
+     A hemorrhagic stroke is normally caused from an aneurysm
+},
+{
+    191.7,194.06
+     and is treated differently than we treat strokes
+},
+{
+    194.06,198.02
+     from a blockage of a blood clot or a fatty clot.
+},
+{
+    198.02,200.02
+     Let's talk about FAST.
+},
+{
+    200.02,203.44
+     The acronym FAST is a way for us to be able
+},
+{
+    203.44,206.96
+     to check systematically if a patient is showing enough signs
+},
+{
+    206.96,209.12
+     and symptoms that we should be concerned
+},
+{
+    209.12,211.24
+     that they might be suffering from a stroke
+},
+{
+    211.24,213.72
+     and then activate emergency medical services.
+},
+{
+    213.72,216.0
+     So let's break those out for a moment.
+},
+{
+    216.0,218.4
+     F stands for facial droop.
+},
+{
+    218.4,222.44
+     One of the ways to see this when it's maybe not real drastic
+},
+{
+    222.44,226.88
+     is to have the patient smile at you. When they smile,
+},
+{
+    226.88,232.68
+     does one corner of the mouth hang lower than the other? Then we move to A, which stands
+},
+{
+    232.68,239.76
+     for arm. Arm is when we raise both patients' arms out in front of them, and the same side
+},
+{
+    239.76,245.12
+     that they have facial droop, the arm lists and kind of floats away from the other arm.
+},
+{
+    245.12,248.2
+     They're not able to hold it up like they can the first arm, the arm that's not
+},
+{
+    248.2,254.96
+     affected. Then we talk about S. S stands for slurred speech. To get them to say
+},
+{
+    254.96,257.92
+     something to you, because they're probably very panicked at this point, I
+},
+{
+    257.92,262.8
+     like to give them a humorous sentence to say back to me or maybe something about
+},
+{
+    262.8,265.24
+     themselves or their date of birth.
+},
+{
+    265.24,270.88
+     If they seem to be slurring their speech, then that falls into that category of S for
+},
+{
+    270.88,272.34
+     the stroke symptoms.
+},
+{
+    272.34,276.7
+     And then lastly, T. T stands for time.
+},
+{
+    276.7,279.14
+     What time did the symptoms begin?
+},
+{
+    279.14,283.04
+     The reason that this is important and why we'd want to write this down and make sure we tell
+},
+{
+    283.04,287.72
+     the responding emergency medical services is because time is of the essence if
+},
+{
+    287.72,291.9
+     we're going to try to recirculate oxygenated blood back to that brain
+},
+{
+    291.9,297.64
+     tissue and help this patient recover with as little long-lasting damage as
+},
+{
+    297.64,302.84
+     possible. So if the patient starts to show those signs and symptoms under the
+},
+{
+    302.84,305.96
+     fast acronym we know that it's important
+},
+{
+    305.96,307.92
+     for us to reassure the patient
+},
+{
+    307.92,309.88
+     that we're gonna take good care of them.
+},
+{
+    309.88,312.04
+     We're not going to desert them,
+},
+{
+    312.04,314.56
+     but we're going to activate 911
+},
+{
+    314.56,316.48
+     or the emergency medical services
+},
+{
+    316.48,319.68
+     so that we can expedite the treatment of this patient
+},
+{
+    319.68,323.12
+     and help them regain as much quality of life as possible.
+},

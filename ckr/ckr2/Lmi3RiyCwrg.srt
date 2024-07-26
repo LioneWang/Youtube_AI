@@ -1,0 +1,1352 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.16,12.96
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.96,13.8
+     Brad Heineck, physical therapist.
+},
+{
+    13.8,15.48
+     And we are the most famous physical therapists
+},
+{
+    15.48,16.32
+     on the internet.
+},
+{
+    16.32,17.64
+     In our opinion, of course, Bob.
+},
+{
+    17.64,18.84
+     I'm gonna keep you on task, Brad.
+},
+{
+    18.84,20.5
+     Today we're talking about tight, pure,
+},
+{
+    20.5,23.24
+     pharma syndrome, pinched nerve relief.
+},
+{
+    23.24,26.54
+     We're gonna show you five at home treatments to fix.
+},
+{
+    26.54,27.6
+     That's right, Bob.
+},
+{
+    27.6,30.66
+     One through five, they may not all work for you,
+},
+{
+    30.66,33.2
+     but for certain, you're gonna find at least 50%.
+},
+{
+    33.2,35.84
+     Find out which one does and stick with that one.
+},
+{
+    35.84,36.88
+     By the way, if you're new to our channel,
+},
+{
+    36.88,38.44
+     please take a second to subscribe to us.
+},
+{
+    38.44,40.96
+     We provide videos on how to stay healthy, fit, pin free,
+},
+{
+    40.96,42.48
+     and we upload every day.
+},
+{
+    42.48,43.52
+     Also, if you get a chance,
+},
+{
+    43.52,44.36
+     what's the giveaway, Mike?
+},
+{
+    44.36,45.44
+     Is it the mattress? Oh! If you get a chance, what's the giveaway Mike, is it the mattress?
+},
+{
+    45.44,46.28
+     Oh!
+},
+{
+    46.28,47.92
+     If you get a chance, go to bobandbrad.com,
+},
+{
+    47.92,48.88
+     go to the giveaway section
+},
+{
+    48.88,51.52
+     because we are giving away a fricking mattress.
+},
+{
+    51.52,53.92
+     Oh, Bob, it's a family show, remember?
+},
+{
+    53.92,55.56
+     But they are beautiful mattresses.
+},
+{
+    55.56,57.44
+     A fantastic Bob, they are a beautiful high end.
+},
+{
+    57.44,59.24
+     Sleep-o-bation mattress.
+},
+{
+    59.24,60.84
+     Also a couple of pillows.
+},
+{
+    60.84,62.24
+     Oh, good.
+},
+{
+    62.24,63.72
+     You'll find it on Facebook also,
+},
+{
+    63.72,65.9
+     it'll be pinned at the top of the page to give away.
+},
+{
+    65.9,67.88
+     Go to Twitter, Instagram, or TikTok
+},
+{
+    67.88,71.96
+     if you're looking for a 60 second version of Bob and Bradaday.
+},
+{
+    71.96,73.8
+     Pure form of syndrome, Bob.
+},
+{
+    73.8,75.32
+     What are we talking about?
+},
+{
+    75.32,79.96
+     We're talking about a problem that starts in the buttocks.
+},
+{
+    79.96,81.76
+     And that's where the pure formus muscle is.
+},
+{
+    81.76,83.48
+     That's how it gets its name.
+},
+{
+    83.48,89.48
+     It also has pain in the butt and oftentimes similar to sciatica or sciatica symptoms,
+},
+{
+    89.48,91.64
+     pain, numbness, tingling can go down your leg
+},
+{
+    91.64,94.4
+     all the way to your foot from the piriformis muscle.
+},
+{
+    94.4,96.2
+     And this last little over a week,
+},
+{
+    96.2,99.0
+     we did a video on how to diagnose it.
+},
+{
+    99.0,100.16
+     I mean, three signs of it.
+},
+{
+    100.16,101.0
+     Right.
+},
+{
+    101.0,101.84
+     Not really how to diagnose it,
+},
+{
+    101.84,103.96
+     but you know, possibly that you have it.
+},
+{
+    103.96,104.96
+     Right, exactly.
+},
+{
+    104.96,106.32
+     So this is kind of a follow up,
+},
+{
+    106.32,107.76
+     and that's what we said on that video.
+},
+{
+    107.76,109.6
+     You're gonna show where the piriformis is.
+},
+{
+    109.6,112.86
+     It's gonna be important for doing the treatments today
+},
+{
+    112.86,113.96
+     to know where it's at.
+},
+{
+    113.96,116.44
+     Yeah, it really does help to get that down pat.
+},
+{
+    116.44,119.76
+     If you look at the skeleton of Sam here,
+},
+{
+    119.76,123.0
+     he's been a real cooperative this week.
+},
+{
+    123.0,124.8
+     We've got the green represents
+},
+{
+    124.8,126.72
+     where the piriformis muscle is.
+},
+{
+    126.72,128.56
+     Now remember the piriformis muscle
+},
+{
+    128.56,130.84
+     is kind of a small muscle.
+},
+{
+    130.84,133.28
+     It just works with the hip
+},
+{
+    133.28,135.44
+     and it goes right across this area.
+},
+{
+    135.44,138.2
+     If you look at this yellow tubing we have here,
+},
+{
+    138.2,142.44
+     that actually represents the sciatic nerve.
+},
+{
+    142.44,145.46
+     That's the nerve that we're talking about being pinched.
+},
+{
+    145.46,149.18
+     When that muscle tightens up, it can pinch the muscle
+},
+{
+    149.18,152.72
+     and anything distal or down the leg
+},
+{
+    152.72,155.62
+     can create those pain, numbness, tingling symptoms
+},
+{
+    155.62,158.68
+     and also pain in the buttocks itself.
+},
+{
+    158.68,159.52
+     What do you say?
+},
+{
+    159.52,161.84
+     No, I'm just, I'm looking for the sciatic notch
+},
+{
+    161.84,163.7
+     because it needs to go through the sciatic notch.
+},
+{
+    163.7,165.16
+     Well, yeah, it's underneath the muscle.
+},
+{
+    165.16,166.88
+     Yeah, okay, got it, okay.
+},
+{
+    166.88,168.2
+     Now he's getting technical.
+},
+{
+    168.2,170.48
+     Yeah, well, no, I just moved the nerve out of the way.
+},
+{
+    170.48,172.2
+     There we go, wait, that one won't get pinched.
+},
+{
+    172.2,173.04
+     Yeah.
+},
+{
+    173.04,173.88
+     Okay, let's-
+},
+{
+    173.88,175.88
+     All right, let's get started with the treatment, Brad.
+},
+{
+    177.36,180.16
+     So, one thing I did want to mention,
+},
+{
+    180.16,182.8
+     that nerve is actually kind of buried
+},
+{
+    182.8,185.36
+     underneath the gluteus maximus muscle
+},
+{
+    185.36,186.64
+     as well as a little bit of the-
+},
+{
+    186.64,187.8
+     Yeah, so it's deep.
+},
+{
+    187.8,189.4
+     Yeah, it's deep and it, you know,
+},
+{
+    189.4,191.08
+     and that's gonna come up in just a little bit
+},
+{
+    191.08,192.4
+     that information will be helpful.
+},
+{
+    192.4,193.44
+     Yeah, glute maximus, that's gotta be
+},
+{
+    193.44,194.88
+     the biggest muscle in the body, right?
+},
+{
+    194.88,195.72
+     I mean, why are you having to-
+},
+{
+    195.72,196.56
+     Yeah, typically it is.
+},
+{
+    196.56,199.16
+     You know, it may vary from person to person,
+},
+{
+    199.16,200.92
+     but it's right up in there.
+},
+{
+    200.92,203.88
+     So, if you do want, now, we talked about
+},
+{
+    203.88,205.4
+     the muscle being tight
+},
+{
+    205.4,208.48
+     and it can actually, what's the term we use
+},
+{
+    208.48,210.56
+     for tight muscles Bob?
+},
+{
+    210.56,212.0
+     Contracture?
+},
+{
+    212.0,214.08
+     What are you looking for?
+},
+{
+    214.08,214.92
+     I don't come.
+},
+{
+    214.92,218.12
+     Anyways, we get a tight muscle, a knot.
+},
+{
+    218.12,219.24
+     It's like a knot in that muscle.
+},
+{
+    219.24,220.76
+     We need to loosen that up.
+},
+{
+    220.76,225.0
+     Oftentimes people say heat, maybe heat's gonna help,
+},
+{
+    225.28,229.0
+     which is true, but remember the piriformis is a deep muscle.
+},
+{
+    229.0,232.0
+     So if you wanna heat the piriformis muscle,
+},
+{
+    232.0,233.52
+     you're gonna have to go with something deep.
+},
+{
+    233.52,235.2
+     You can do it with ultrasound,
+},
+{
+    235.2,237.44
+     but typically that's only found in the therapy
+},
+{
+    237.44,239.2
+     or a chiropractic office.
+},
+{
+    239.2,241.72
+     Or you can go to far infrared heat,
+},
+{
+    241.72,244.0
+     which you can buy and it's-
+},
+{
+    244.0,244.84
+     Purchase on your own.
+},
+{
+    244.84,246.12
+     You can purchase on your own.
+},
+{
+    246.12,247.16
+     And we do have that.
+},
+{
+    247.16,249.64
+     If you wanna do that option,
+},
+{
+    249.64,251.84
+     we've been using this for years.
+},
+{
+    251.84,252.68
+     Right.
+},
+{
+    252.68,254.48
+     Personally as well as with patients.
+},
+{
+    254.48,256.84
+     It's the Thermotex Far Infrared.
+},
+{
+    256.84,258.04
+     Yep, heating system.
+},
+{
+    258.04,261.92
+     And normal heat will just penetrate a few centimeters.
+},
+{
+    261.92,262.76
+     Skin deep.
+},
+{
+    262.76,263.76
+     Not a few centimeters.
+},
+{
+    263.76,264.6
+     Feel millimeters.
+},
+{
+    264.6,266.04
+     Millimeters, right. Where this will actually penetrate 2. Skin deep. Not a few centimeters, feel millimeters. Millimeters, right.
+},
+{
+    266.04,269.8
+     Where this will actually penetrate 2.36 inches.
+},
+{
+    269.8,272.0
+     2.36 inches, think about that.
+},
+{
+    272.0,273.56
+     How much more deeper that is.
+},
+{
+    273.56,276.24
+     That's why Brad and I like to use it on our back all the time.
+},
+{
+    276.24,277.4
+     Right, right, so.
+},
+{
+    277.4,280.08
+     As far as the piriformis, this will get down.
+},
+{
+    280.08,280.92
+     Right.
+},
+{
+    280.92,282.16
+     You know, it's gonna get much deeper,
+},
+{
+    282.16,283.76
+     much more chance of success.
+},
+{
+    283.76,286.96
+     You'll need to, you know, be on it for 30 to 45 minutes.
+},
+{
+    286.96,289.2
+     It's very comfortable, very well built.
+},
+{
+    289.2,293.08
+     You wouldn't have to sit on, you could lie on your good side
+},
+{
+    293.08,294.72
+     and just drape it over there.
+},
+{
+    294.72,296.64
+     And it would work out really well.
+},
+{
+    296.64,297.52
+     We'll put a link below.
+},
+{
+    297.52,301.72
+     We actually get a significant discount if you use our link.
+},
+{
+    301.72,302.8
+     These are pricey.
+},
+{
+    302.8,305.52
+     I've gotta warn you, but they're worth it. Okay, let's move on, Brad. Then you're gonna, if you do our link. These are pricey. I've got to warn you, but they're worth it.
+},
+{
+    305.52,307.04
+     Okay, let's move on, Brad.
+},
+{
+    307.04,309.76
+     Then you're gonna, if you do have this option,
+},
+{
+    309.76,311.64
+     you're gonna heat it first,
+},
+{
+    311.64,314.16
+     then go on to these next options.
+},
+{
+    314.16,317.16
+     You'll just have better success with a warm muscle.
+},
+{
+    317.16,320.32
+     It's got better circulation, et cetera.
+},
+{
+    320.32,322.24
+     This next one is very simple.
+},
+{
+    322.24,323.64
+     It's just stretch.
+},
+{
+    323.64,325.0
+     We call it, in the therapy world,
+},
+{
+    325.0,326.8
+     we call it the fair FAIR.
+},
+{
+    326.8,328.82
+     You wanna do it?
+},
+{
+    328.82,329.66
+     No, you go ahead.
+},
+{
+    329.66,330.5
+     Oh, okay.
+},
+{
+    330.5,331.56
+     Yeah, don't work better with the stripes.
+},
+{
+    331.56,332.4
+     I think that's all right.
+},
+{
+    332.4,334.68
+     So you lay down, you can do this on your bed,
+},
+{
+    334.68,337.64
+     on the floor, whatever you're comfortable with.
+},
+{
+    337.64,340.48
+     And let's say piriformis right here,
+},
+{
+    340.48,341.74
+     that's the one that's acting up.
+},
+{
+    341.74,344.68
+     I'm gonna bring the knee up, grab it here,
+},
+{
+    344.68,346.92
+     and kinda pull it over
+},
+{
+    346.92,348.68
+     towards the opposite shoulder.
+},
+{
+    348.68,350.4
+     And that's gonna put a stretch.
+},
+{
+    350.4,353.32
+     Now don't get too aggressive on this particularly
+},
+{
+    353.32,356.92
+     if you notice in an acute phase it was pretty sensitive.
+},
+{
+    356.92,359.92
+     So you can hold and relax.
+},
+{
+    359.92,361.54
+     If you wanna do a sustained hold,
+},
+{
+    361.54,363.08
+     you feel like you're getting better results.
+},
+{
+    363.08,366.32
+     You can do that up to 30 seconds.
+},
+{
+    366.32,370.2
+     I often have my patients do the hold and relax,
+},
+{
+    370.2,371.56
+     but either way, you know.
+},
+{
+    371.56,372.92
+     Kind of pressure on, pressure on.
+},
+{
+    372.92,373.76
+     Exactly.
+},
+{
+    373.76,374.6
+     I often like.
+},
+{
+    374.6,376.4
+     Do what works for you.
+},
+{
+    376.4,380.4
+     The next one, take the other knee and go up like this.
+},
+{
+    381.2,383.96
+     I call this the figure four.
+},
+{
+    383.96,386.62
+     And I do because if you look at it from this angle,
+},
+{
+    386.62,387.58
+     it looks like a four.
+},
+{
+    387.58,388.5
+     Exactly.
+},
+{
+    388.5,390.02
+     Ellie, it does to me.
+},
+{
+    390.02,394.38
+     And then here, we can push like this.
+},
+{
+    394.38,396.78
+     Now, how do you have, do you do this one like this, Bob?
+},
+{
+    396.78,398.38
+     Or do you add a little tweak to it?
+},
+{
+    398.38,401.34
+     I usually, well, sometimes you can bring the other knee up.
+},
+{
+    401.34,402.5
+     That's usually what I do.
+},
+{
+    402.5,403.34
+     Yeah, there you go.
+},
+{
+    403.34,404.9
+     That's what I do.
+},
+{
+    404.9,406.4
+     And up like this.
+},
+{
+    406.4,409.28
+     And this one, if you're a little older
+},
+{
+    409.28,410.76
+     or if you have tight hips,
+},
+{
+    410.76,412.8
+     those people may have a little challenge.
+},
+{
+    412.8,414.36
+     It may be tough to do that.
+},
+{
+    414.36,416.2
+     So younger people typically.
+},
+{
+    416.2,418.08
+     For those, it might be enough
+},
+{
+    418.08,419.36
+     just to put the foot up there.
+},
+{
+    419.36,420.92
+     I mean, the ankle up there.
+},
+{
+    420.92,422.8
+     I mean, it might be enough stretch already.
+},
+{
+    422.8,425.32
+     And the same thing, pressure on, pressure off,
+},
+{
+    425.32,427.92
+     five to 10 repetitions as tolerated.
+},
+{
+    427.92,429.68
+     Again, see what works for you
+},
+{
+    429.68,432.68
+     if it gives you increased pain, we don't wanna do it.
+},
+{
+    432.68,433.92
+     Yep, exactly.
+},
+{
+    433.92,435.4
+     You don't wanna enter the pain cave
+},
+{
+    435.4,437.2
+     like I saw in that one book.
+},
+{
+    437.2,438.32
+     Oh, the pain cave.
+},
+{
+    438.32,439.52
+     Yeah, stay out of the pain cave.
+},
+{
+    439.52,441.74
+     You can look at the entrance of it,
+},
+{
+    441.74,443.24
+     but don't go into it.
+},
+{
+    443.24,445.54
+     I've heard the pain box.
+},
+{
+    445.54,446.38
+     Oh, heavy roll.
+},
+{
+    446.38,447.22
+     Oh, there's a hurt box.
+},
+{
+    447.22,448.54
+     Anyway, that's another story.
+},
+{
+    448.54,449.54
+     Six inch roller.
+},
+{
+    449.54,451.58
+     Now this is something some people,
+},
+{
+    451.58,454.82
+     these are getting quite popular in the last few years.
+},
+{
+    454.82,458.18
+     And it's for a good reason because they work well.
+},
+{
+    458.18,459.14
+     This is a short one.
+},
+{
+    459.14,460.62
+     You can have the three foot long ones,
+},
+{
+    460.62,463.98
+     whatever, six inch diameter is pretty common.
+},
+{
+    463.98,466.5
+     This particular one is a bonus
+},
+{
+    466.5,469.04
+     because it actually vibrates.
+},
+{
+    469.04,472.08
+     And that gets to that muscle even more aggressively.
+},
+{
+    472.08,473.76
+     You don't have to have one that vibrates.
+},
+{
+    473.76,475.96
+     You can just use a regular one.
+},
+{
+    475.96,478.88
+     And then you're just gonna work on it here.
+},
+{
+    478.88,482.6
+     And you'll change the position as you'll feel.
+},
+{
+    482.6,485.08
+     You'll feel when you get on that knot,
+},
+{
+    485.08,488.08
+     that piriformis knot that I was talking about earlier.
+},
+{
+    488.08,489.84
+     Again, you can take weight off the area
+},
+{
+    489.84,492.8
+     by taking more weight on your arms or legs.
+},
+{
+    492.8,495.96
+     But I am a big fan of the foam roller, vibrating foam.
+},
+{
+    495.96,497.0
+     I use it every morning.
+},
+{
+    497.0,500.28
+     I use it on my hips, on the front of my hips.
+},
+{
+    500.28,502.72
+     And it just seems to do a better job
+},
+{
+    502.72,504.88
+     than a regular roller in my line.
+},
+{
+    504.88,506.92
+     Yeah, it does. And this one's not too expensive.
+},
+{
+    506.92,507.76
+     No, it's not.
+},
+{
+    507.76,510.88
+     It used to be, I mean, the one I have was given to us.
+},
+{
+    510.88,512.76
+     It was like a $200 roller.
+},
+{
+    512.76,514.52
+     And it's the same as this one, which is,
+},
+{
+    514.52,516.76
+     I don't remember if you remember?
+},
+{
+    516.76,517.6
+     Around 40.
+},
+{
+    517.6,518.6
+     Yeah, it's a bargain.
+},
+{
+    518.6,521.04
+     So, yeah, yeah, this feels,
+},
+{
+    521.04,523.72
+     this is, they're a wonderful product.
+},
+{
+    523.72,526.72
+     And let's go on, you don't have to have a foam roller.
+},
+{
+    526.72,529.64
+     You don't have the foam roller if you want it.
+},
+{
+    529.64,530.76
+     You can just use a tennis ball.
+},
+{
+    530.76,531.88
+     The old tennis ball.
+},
+{
+    531.88,533.96
+     Now this is a little more aggressive
+},
+{
+    533.96,537.28
+     because it's more pressure on a smaller area.
+},
+{
+    537.28,539.04
+     You're not gonna be able to do this.
+},
+{
+    539.04,540.44
+     Bob, you just walk in front of me.
+},
+{
+    540.44,541.28
+     I know.
+},
+{
+    541.28,542.12
+     He doesn't care.
+},
+{
+    542.12,542.96
+     I know.
+},
+{
+    542.96,543.8
+     I know respect.
+},
+{
+    543.8,544.64
+     I know.
+},
+{
+    544.64,547.92
+     Look, Rodney Danger feels, oh, do not do this on a mattress.
+},
+{
+    547.92,549.36
+     It won't work, it'll squish into it.
+},
+{
+    549.36,552.4
+     You need to go on a carpeted floor is probably the best.
+},
+{
+    552.4,554.12
+     I'm not gonna jump down on the floor to do it.
+},
+{
+    554.12,555.56
+     It's gonna be pretty aggressive.
+},
+{
+    555.56,556.4
+     Yeah.
+},
+{
+    556.4,558.36
+     You got a really good, happy control on.
+},
+{
+    558.36,560.4
+     Oh, it is.
+},
+{
+    560.4,562.66
+     Definitely, but you can certainly do this
+},
+{
+    562.66,564.8
+     as long as you can control the force
+},
+{
+    564.8,567.46
+     and weight with your arms and your legs.
+},
+{
+    567.46,569.94
+     What I have found Brad, the thing that has helped
+},
+{
+    569.94,571.58
+     most of my peer-reformed patients
+},
+{
+    571.58,573.5
+     has been some type of massage like that.
+},
+{
+    573.5,576.86
+     Whether it's foam roller, whether it's tennis ball,
+},
+{
+    576.86,581.3
+     whether it's like a, this is a run-fall massage.
+},
+{
+    581.3,583.34
+     Right, because you're probably not gonna get
+},
+{
+    583.34,585.4
+     someone at home to give you a massage, but you can do this by yourself, or not gonna get someone at home to give you a massage,
+},
+{
+    585.4,587.76
+     but you can do this by yourself,
+},
+{
+    587.76,589.64
+     or you can get someone at home to help you as well.
+},
+{
+    589.64,591.08
+     Go ahead Bob, show how it works.
+},
+{
+    591.08,592.6
+     Yeah.
+},
+{
+    592.6,594.4
+     So this is the renfo massage gun.
+},
+{
+    594.4,597.4
+     This one's actually an adjustable one, just kinda cool.
+},
+{
+    597.4,600.56
+     So this head actually adjusts into five positions,
+},
+{
+    600.56,603.04
+     I believe, is it five micers or is it six?
+},
+{
+    603.04,603.88
+     I think it's five.
+},
+{
+    603.88,604.88
+     This one's on there?
+},
+{
+    605.98,606.94
+     Doesn't say to me. You used to five, Mike, or is it six? I think it's five. It says on there. It doesn't say to me.
+},
+{
+    606.94,609.48
+     You used to know, Bob, but ever since you got
+},
+{
+    609.48,611.34
+     almost 60 years old, you can't remember anything.
+},
+{
+    611.34,612.26
+     Yeah, that's right.
+},
+{
+    614.3,616.02
+     On the side?
+},
+{
+    616.02,617.34
+     Don't worry about it.
+},
+{
+    617.34,619.18
+     It's a five or six, it doesn't matter.
+},
+{
+    619.18,621.94
+     Anyway, this thing does the work for you.
+},
+{
+    621.94,623.26
+     You don't have to move around.
+},
+{
+    623.26,625.28
+     I can get right into the area here.
+},
+{
+    627.68,630.36
+     Brad, you look like you're disapproving.
+},
+{
+    630.36,631.44
+     I don't know what they're thinking,
+},
+{
+    631.44,632.4
+     but it looks kind of weird.
+},
+{
+    632.4,634.0
+     But where we are, it works.
+},
+{
+    634.0,636.52
+     You know, if it does the job, it does the job.
+},
+{
+    636.52,638.08
+     The thing is, these massage guns,
+},
+{
+    638.08,640.92
+     they really have a lot of travel,
+},
+{
+    640.92,643.4
+     travel, translation, they really,
+},
+{
+    643.4,644.4
+     I call it travel.
+},
+{
+    644.4,646.08
+     It travels back and forth.
+},
+{
+    646.08,648.6
+     Yeah, you can see it really works.
+},
+{
+    648.6,649.92
+     The muscles really get steeped.
+},
+{
+    649.92,651.52
+     The nice thing about this is you can use it
+},
+{
+    651.52,654.0
+     on a lot of other muscle groups throughout the body.
+},
+{
+    654.0,655.72
+     As a matter of fact, I was just doing my hamstring
+},
+{
+    655.72,657.24
+     with it before the video.
+},
+{
+    657.24,658.96
+     I don't know, Mike's talking about the speed
+},
+{
+    658.96,661.12
+     because it's got the speed on there,
+},
+{
+    661.12,663.6
+     four different speeds, but there's no on the side.
+},
+{
+    663.6,667.08
+     Do you see on the side that there's an adjustment for the... You can't see from there, the four different speeds, but there's no on the side. You see on the side that there's an adjustment for the...
+},
+{
+    667.08,668.56
+     You can't see from there, Mike.
+},
+{
+    668.56,669.4
+     You're not that...
+},
+{
+    672.96,673.8
+     Doesn't say how...
+},
+{
+    673.8,674.64
+     Oh yeah.
+},
+{
+    674.64,675.46
+     Oh, there it is.
+},
+{
+    675.46,676.3
+     There's the numbers.
+},
+{
+    676.3,677.16
+     Yep, five.
+},
+{
+    677.16,677.98
+     Oh God, we got a few...
+},
+{
+    677.98,678.82
+     You're right.
+},
+{
+    678.82,680.24
+     Mike's right for once.
+},
+{
+    680.24,681.32
+     There's five.
+},
+{
+    681.32,683.28
+     Well, we've boarded these people enough, Bob.
+},
+{
+    683.28,None
+     Thanks everybody for watching.
+},

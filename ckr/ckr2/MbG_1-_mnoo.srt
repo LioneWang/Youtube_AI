@@ -1,0 +1,340 @@
+{
+    0.0,7.0
+     Hey everyone, it's Sarah with RegisteredNursesRN.com and we're going to talk about rolling veins.
+},
+{
+    7.0,11.2
+     Have you ever heard the term that someone used whenever they missed an IV and they said,
+},
+{
+    11.2,15.44
+     oh, the vein rolled or someone asked you, did the vein roll and you're like, what are
+},
+{
+    15.44,16.44
+     they talking about?
+},
+{
+    16.44,20.44
+     Well, I remember wondering, what in the world was a rolling vein whenever I was a nursing
+},
+{
+    20.44,21.44
+     student?
+},
+{
+    21.44,24.4
+     And after I became a nurse, no one really told me what it was.
+},
+{
+    24.4,28.94
+     I figured it out for myself because I think a lot of people don't know what the term rolling veins
+},
+{
+    28.94,35.94
+     means. What it means whenever a vein rolls is whenever you go to insert into the skin
+},
+{
+    35.94,41.62
+     into the vein, you see it. The vein just moves to the side. And here in a second, I want
+},
+{
+    41.62,45.36
+     to show you what it looks like when a vein rolls.
+},
+{
+    45.36,49.64
+     And I'm going to show you how to tell if you have a rolling vein because some veins are
+},
+{
+    49.64,53.04
+     a little bit more susceptible to rolling than other veins.
+},
+{
+    53.04,57.6
+     And what you can do to stabilize the vein so it doesn't roll on you because you can
+},
+{
+    57.6,59.56
+     prevent this from happening.
+},
+{
+    59.56,64.08
+     So things that cause a vein to roll.
+},
+{
+    64.08,66.72
+     One thing is excessive skin.
+},
+{
+    66.72,71.4
+     If you have a patient who's had a lot of weight loss or they're elderly, they have a lot of
+},
+{
+    71.4,77.96
+     saggy skin, that can cause a vein to roll because you see the vein, it's nice, it's plump, you've
+},
+{
+    77.96,84.44
+     put on your tourniquet, but if you have excess skin hanging down, it's going to cause, once
+},
+{
+    84.44,86.16
+     you go in, that skin to move that vein and it's going to cause once you go in that skin to move
+},
+{
+    86.16,89.6
+     that vein and it's going to roll away from you.
+},
+{
+    89.6,94.8
+     Another thing is that some veins that are found in the hand on your forearm or your
+},
+{
+    94.8,99.6
+     anti-cubital area, which is the AC area, like to roll.
+},
+{
+    99.6,104.2
+     If you're not stabilizing the vein, keeping the patient making a fist or keeping the arm
+},
+{
+    104.2,105.6
+     straight, it will roll.
+},
+{
+    106.64,110.32
+     Patients who move whenever you poke them with the needle, because getting poked with the needle
+},
+{
+    110.32,114.88
+     hurts, so whenever you go to poke them with the needle and they move, it can cause the vein to move.
+},
+{
+    115.6,121.12
+     And another reason is not stabilizing the vein. Even though if the vein doesn't look like it's
+},
+{
+    121.12,128.38
+     going to roll or it's not a rolling vein, It's always a great idea that you stabilize the vein and I'll show you how to do that.
+},
+{
+    128.38,134.68
+     So first let's talk about and let me show you how to tell if a vein will roll.
+},
+{
+    134.68,139.08
+     Here I wanted to demonstrate for you what it looks like and how to tell if a vein will
+},
+{
+    139.08,140.08
+     roll.
+},
+{
+    140.08,143.52
+     The best way to assess if the vein that you're going to use is going to roll is to touch
+},
+{
+    143.52,145.64
+     it and to see.
+},
+{
+    145.64,149.16
+     So right here, if I was going to draw blood or start an IV on this patient, I would use
+},
+{
+    149.16,150.16
+     this vein.
+},
+{
+    150.16,153.44
+     It is beautiful, it's big, it's engorged, it's great.
+},
+{
+    153.44,154.52
+     But let's see if it rolls.
+},
+{
+    154.52,158.96
+     So what you do is just take your index finger and just gently move it and watch how I do
+},
+{
+    158.96,159.96
+     that.
+},
+{
+    159.96,163.68
+     See how that rolls to the side?
+},
+{
+    163.68,166.32
+     If when you go in with a needle, what's going to happen, if
+},
+{
+    166.32,170.56
+     you're not stabilizing this vein, it's just going to go to the side. And that's what
+},
+{
+    170.56,175.28
+     it means rolling vein. Another analogy I like to think of with a rolling vein, think of
+},
+{
+    175.28,179.12
+     if you're a fisherman and you're going out fishing and you have your worm and you're
+},
+{
+    179.12,183.28
+     needing to put that worm on the hook. The worm's wiggling and you're trying to hook
+},
+{
+    183.28,187.2
+     it. And if you don't stabilize that worm, you're not going to be able to hook it. And it's the
+},
+{
+    187.2,191.96
+     same concept when trying to get a needle into a vein. If you're not
+},
+{
+    191.96,196.04
+     stabilizing this it's just going to roll to the side. So let me show you some
+},
+{
+    196.04,201.4
+     ways on how to stabilize the vein. First one thing you can do is you can hold
+},
+{
+    201.4,205.28
+     above the insertion point where you're going to go in at.
+},
+{
+    205.28,208.96
+     So say you're going to go in right here.
+},
+{
+    208.96,214.44
+     What you need to do is just hold above the insertion point and sort of press down a
+},
+{
+    214.44,218.52
+     little bit and then just pull back and see that keeps that vein nice and stable and it's
+},
+{
+    218.52,219.52
+     really not moving.
+},
+{
+    219.52,223.48
+     So whenever we go in with our needle, it's going to stay straight.
+},
+{
+    223.48,227.92
+     Another thing you can do is you can hold the skin taut, but watch out for that because
+},
+{
+    227.92,232.4
+     see if I hold it too taut, notice how that vein disappears and it goes flat.
+},
+{
+    232.4,233.4
+     Not good.
+},
+{
+    233.4,235.12
+     So you want to, you can hold it taut.
+},
+{
+    235.12,239.92
+     Holding it taut is best for people who have that excess skin that we were talking about.
+},
+{
+    239.92,242.88
+     At the beginning you could just take it and just pull it back.
+},
+{
+    242.88,248.72
+     If you need help, always get someone to help you. Many times I've had people help me when doing this and the
+},
+{
+    248.72,253.88
+     best thing to do another way you can stabilize a vein is have the patient make
+},
+{
+    253.88,259.76
+     a fist. So make a fist for me and just the contraction of the fist and holding
+},
+{
+    259.76,264.04
+     that down will hold the vein steady so you don't have to hold it on. So anytime
+},
+{
+    264.04,269.38
+     you're starting an IV in the hand and the vein is going to roll, have the person
+},
+{
+    269.38,272.36
+     make a fist because that will keep the vein nice and straight.
+},
+{
+    272.36,274.96
+     Now let me show you a little bit with an AC vein.
+},
+{
+    274.96,279.96
+     Okay, I quickly wanted to cover the anti-cubital veins because a lot of times these veins are
+},
+{
+    279.96,285.4
+     so good to draw and start IVs on because they're naturally big, but a lot of times
+},
+{
+    285.4,288.4
+     new beginners, they have problems with these veins rolling.
+},
+{
+    288.4,293.6
+     And one tip I want to give you to prevent missing a vein in the AC is always have your
+},
+{
+    293.6,296.84
+     patient bend their elbow out just like that.
+},
+{
+    296.84,300.12
+     Have them straighten that out because it'll keep these veins nice and straight.
+},
+{
+    300.12,303.88
+     If it's bent like that, whenever you go in, the vein might roll.
+},
+{
+    303.88,309.44
+     So just a quick tip, have them extend that arm out and it'll stabilize the vein.
+},
+{
+    309.44,313.28
+     And again, you can hold at the insertion point or hold the skin time.
+},
+{
+    313.28,316.08
+     But I wanted to share that with you real fast.
+},
+{
+    316.08,322.12
+     Okay, so that is how you stabilize a vein that rolls and what a rolling vein is.
+},
+{
+    322.12,324.08
+     I hope this video helped you out.
+},
+{
+    324.08,327.88
+     Be sure to check out my other videos on hand veins, how to start an IV, and things like
+},
+{
+    327.88,331.68
+     that for tips for drawing blood or starting IVs. And thank you so much for
+},
+{
+    331.68,335.76
+     watching and please subscribe to this YouTube channel.
+},

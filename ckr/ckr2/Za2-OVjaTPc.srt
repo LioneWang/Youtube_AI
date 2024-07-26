@@ -1,0 +1,284 @@
+{
+    0.0,18.84
+     Hello, my name is Sarah.
+},
+{
+    18.84,21.96
+     I'm the lead physical therapist at Barnes-Jewish Hospital.
+},
+{
+    21.96,25.52
+     In this video, we will show the proper way to fit and use crutches.
+},
+{
+    25.52,30.4
+     Please talk with your health care team to determine whether or not crutches are the best choice for you.
+},
+{
+    36.96,40.4
+     Your doctor may have given you weight-bearing restrictions on your leg,
+},
+{
+    40.4,44.4
+     which tells you how much weight you can put through your leg. If you are weight-bearing as
+},
+{
+    44.4,47.6
+     tolerated, that means you can put as much weight through your
+},
+{
+    47.6,50.0
+     leg as is comfortable.
+},
+{
+    50.0,54.88
+     Putting weight through your leg should not significantly increase or cause you pain.
+},
+{
+    54.88,58.76
+     If you are partial weight bearing, then you can put some weight, but not all, through
+},
+{
+    58.76,60.04
+     your leg.
+},
+{
+    60.04,63.96
+     You should push through your hands on the crutches to keep the full weight off of your
+},
+{
+    63.96,65.86
+     leg.
+},
+{
+    69.28,72.52
+     If you are toe touch or foot flat weight bearing, then you may simply rest your foot on the floor.
+},
+{
+    72.52,75.9
+     Imagine there's an egg or a cracker under your foot
+},
+{
+    75.9,77.66
+     that you don't want to crush.
+},
+{
+    77.66,80.14
+     It's important to know that toe touch weight bearing
+},
+{
+    80.14,83.9
+     does not mean that only your toe can touch the ground.
+},
+{
+    83.9,90.16
+     It is important to allow your entire foot to rest flat on the ground.
+},
+{
+    90.16,93.92
+     If you are non-weightbearing then you can't put any weight through your foot.
+},
+{
+    93.92,98.08
+     You should push through your hands on the crutches to keep the weight off of your
+},
+{
+    98.08,101.52
+     foot as you walk. You should be able to walk without your
+},
+{
+    101.52,108.4
+     foot touching the ground. No matter what your weightbe restrictions are, make sure that you never lean on the
+},
+{
+    108.4,110.12
+     tops of your crutches.
+},
+{
+    110.12,114.28
+     You can hurt a nerve causing numbness and tingling in your arm.
+},
+{
+    114.28,127.0
+     Put all of your weight through your hands, not your armpits. Stay in tall with your shoes on. Make sure your shoes have low heels and good support.
+},
+{
+    131.16,137.84
+     Put the crutches under your arms. Relax your arms and let them hang down over the crutches.
+},
+{
+    137.84,143.24
+     There should be a 2 inch space between your armpit and the top of the crutch. With your
+},
+{
+    143.24,147.8
+     hands hanging relaxed, the hand grips should be at the level of your wrist.
+},
+{
+    147.8,160.6
+     When holding the hand grips, your elbows should be bent slightly to about 30 degrees.
+},
+{
+    160.6,167.0
+     To stand up, hold both crutches by the hand grips in one hand and push up with the other hand on the chair.
+},
+{
+    167.0,170.0
+     Then put one crutch under each arm.
+},
+{
+    171.0,177.0
+     To sit down, place both crutches in one hand, holding the hand grips together,
+},
+{
+    177.0,182.0
+     and reach for the chair with your other hand to lower yourself slowly.
+},
+{
+    188.8,193.4
+     yourself slowly. To take a step, squeeze the crutches between your upper arms and ribs.
+},
+{
+    193.4,197.04
+     Put the weight through your hands, not your armpits.
+},
+{
+    197.04,199.26
+     Move the crutches forward.
+},
+{
+    199.26,204.4
+     Move your injured leg forward and put your foot even with the crutches.
+},
+{
+    204.4,205.6
+     Put as much weight as you are
+},
+{
+    205.6,209.9
+     allowed on the injured leg. Taking the rest of the weight through your arms and
+},
+{
+    209.9,216.32
+     hands. Step past with your stronger leg. In summary, move the crutches first, your
+},
+{
+    216.32,221.2
+     injured leg next, and then your stronger leg.
+},
+{
+    232.6,236.24
+     To go upstairs with a handrail, place one crutch under one arm and use the handrail with the other arm for support.
+},
+{
+    236.24,242.68
+     Step up with the stronger leg, then the injured leg, and lastly, bring up the crutch.
+},
+{
+    242.68,245.04
+     Always make sure the crutch tip is completely on the
+},
+{
+    245.04,250.28
+     stair. If you do not have a handrail be very careful as you could lose your
+},
+{
+    250.28,255.36
+     balance. Have someone help you or avoid the stairs until you are stronger. Place
+},
+{
+    255.36,262.2
+     one crutch under each arm. Step up with the stronger leg then bring the injured
+},
+{
+    262.2,268.16
+     leg and your crutches up together. To go downstairs
+},
+{
+    268.16,273.44
+     with a handrail, place one crutch under one arm and use the handrail with the
+},
+{
+    273.44,279.48
+     other arm for support. Lower the crutch down to the step below and move your
+},
+{
+    279.48,286.24
+     injured leg down and then bring your stronger leg down. Always make sure the crutch tip
+},
+{
+    286.24,292.72
+     is completely on the stair. If you do not have a handrail, be very careful as you
+},
+{
+    292.72,297.4
+     can lose your balance. Have someone help you or avoid the stairs until you are
+},
+{
+    297.4,303.48
+     stronger. Place one crutch under each arm. Step down with your crutches and your
+},
+{
+    303.48,306.06
+     injured leg together, then bring your
+},
+{
+    306.06,309.16
+     stronger leg down.
+},
+{
+    313.92,319.94
+     If you do not feel steady on crutches, a walker is another option. The walker does
+},
+{
+    319.94,331.68
+     offer more stability. If you need to go up one step with a walker, you should do this backwards.
+},
+{
+    331.68,336.76
+     Going down one step, you should go forwards, leading with your walker and your injured
+},
+{
+    336.76,337.76
+     leg.
+},
+{
+    337.76,351.78
+     More than one step is not safe with a walker. Be sure to sit for a few minutes before standing while sitting review the process for the safe
+},
+{
+    351.78,357.8
+     use of crutches. Once you are standing be sure that you are stable before you start moving.
+},
+{
+    357.8,365.96
+     If at any time you do not feel stable you should stop and sit down on a safe surface.
+},
+{
+    365.96,370.68
+     In conclusion, be sure to check with your health care team to determine whether or not
+},
+{
+    370.68,374.04
+     crutches are the safest choice for your situation.
+},
+{
+    374.04,378.4
+     Be sure that your environment is also safe for the use of crutches.
+},
+{
+    378.4,381.44
+     This means that your environment should be free of clutter.
+},
+{
+    381.44,390.28
+     There should be no throw rugs or loose edges on carpeting, and absolutely do not use crutches on wet surfaces. If you have any questions or
+},
+{
+    390.28,394.42
+     you have any difficulty using crutches, please discuss these with your health
+},
+{
+    394.42,398.28
+     care team. Thank you for watching.
+},

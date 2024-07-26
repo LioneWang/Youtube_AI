@@ -1,0 +1,152 @@
+{
+    0.0,4.56
+     Hello there, I'm Dr. Bridget Keener. I'm an optometrist at the Mayo Clinic in Jacksonville,
+},
+{
+    4.56,10.4
+     Florida. Today we're going to talk about how to properly instill eyedrops. Putting in eyedrops is
+},
+{
+    10.4,15.52
+     an important part of the treatment of many ocular conditions. The most important thing is that you're
+},
+{
+    15.52,21.28
+     able to put them in safely and accurately. To begin, always read the instructions from your
+},
+{
+    21.28,25.0
+     eye care provider. Some eye drops have special instructions
+},
+{
+    25.0,31.5
+     such as shake well before putting the drop in. Also, be sure to always wash your hands
+},
+{
+    31.5,37.8
+     before instilling eye drops. In order to prevent contamination of the bottle, go in to remove
+},
+{
+    37.8,47.32
+     the cap and place it on a clean towel. Next, be sure that you're seated comfortably and place your chin upward so that the surface
+},
+{
+    47.32,50.74
+     of your eye is parallel to the floor.
+},
+{
+    50.74,56.86
+     Look up and with two fingers pull down gently on your lower eyelid.
+},
+{
+    56.86,60.86
+     Squeeze the bottle and instill one eye drop.
+},
+{
+    60.86,68.08
+     Close your eyes and gently wipe away the excess with a clean tissue. Okay great.
+},
+{
+    68.08,72.16
+     Now let's say you don't have someone to help you at home. We'll review the same
+},
+{
+    72.16,77.36
+     process if you're doing this on your own. Assume the same position placing the
+},
+{
+    77.36,81.76
+     bottle in your dominant hand and using your two fingers of the non-dominant
+},
+{
+    81.76,90.52
+     hand to pull down your lower eyelid. Tilt your chin up, placing your head parallel to the floor, using your non-dominant hand,
+},
+{
+    90.52,96.78
+     pull down gently on your lower eyelid, raise the bottle, and squeeze gently, and stealing
+},
+{
+    96.78,100.72
+     one eye drop.
+},
+{
+    100.72,101.72
+     Great job!
+},
+{
+    101.72,107.0
+     Notice how he made sure to keep it a safe distance from his eye so as not to contaminate the bottle.
+},
+{
+    107.0,112.0
+     Some patients report that it's difficult to feel when the eye drop lands in the eye.
+},
+{
+    112.0,115.0
+     To make sure you've done so, I recommend refrigerating the drop.
+},
+{
+    115.0,119.0
+     It's easier to feel a cold drop landing on the surface of your eye.
+},
+{
+    119.0,125.12
+     Before doing so, make sure to check with your eye doctor to be sure it's safe to refrigerate your eye drops.
+},
+{
+    130.16,135.6
+     Some patients wear contact lenses as well. If you're a contact lens wear, be sure to remove your contact lens before instilling the eye drop. Prescription eye drops are not intended to be used
+},
+{
+    135.6,141.52
+     with contact lenses. Before resuming contact lens wear, double check with your eye doctor to make
+},
+{
+    141.52,148.58
+     sure it's okay. After surgery and in other cases, you may have to use multiple eye drops.
+},
+{
+    148.58,154.2
+     In order to do so, you want to allow an adequate amount of time for each drop to be absorbed
+},
+{
+    154.2,156.08
+     before instilling the next.
+},
+{
+    156.08,160.08
+     I recommend waiting about 10 minutes in between drops.
+},
+{
+    160.08,166.2
+     Lastly, your eye doctor may recommend something called punctal occlusion.
+},
+{
+    166.2,170.6
+     This is a technique that allows the drop to sit on the surface of the eye and prevents
+},
+{
+    170.6,172.6
+     systemic absorption.
+},
+{
+    172.6,178.78
+     In order to demonstrate punctal occlusion, you'll put the eye drop in as previously demonstrated
+},
+{
+    178.78,187.4
+     and you'll gently apply pressure to the nasal puncta, like so. Stay in this position for approximately five minutes
+},
+{
+    187.4,193.36
+     to allow the drop to be absorbed. I think that's all of our tips for today. Do you have any
+},
+{
+    193.36,200.24
+     other questions? Okay, thank you so much for your time. If you have any further questions,
+},
+{
+    200.24,205.48
+     feel free to check out our website at www.mayoclinic.org. Thank you.
+},

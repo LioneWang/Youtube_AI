@@ -1,0 +1,1104 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    12.04,13.84
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.84,14.96
+     Brad Heineck, physical therapist.
+},
+{
+    14.96,16.36
+     Together we're the most famous physical therapists
+},
+{
+    16.36,17.2
+     on the internet.
+},
+{
+    17.2,18.28
+     In our opinion, of course, Bob.
+},
+{
+    18.28,20.76
+     Today we're gonna talk about how to heal trigger finger
+},
+{
+    20.76,23.24
+     with four exercises that work.
+},
+{
+    23.24,25.76
+     We should really put at the end of that real patient, Brad.
+},
+{
+    25.76,26.6
+     Real patient.
+},
+{
+    26.6,27.96
+     Because we have a real patient, right?
+},
+{
+    27.96,30.24
+     Well, some people would consider me real.
+},
+{
+    30.24,31.28
+     Okay.
+},
+{
+    31.28,32.36
+     Not everyone.
+},
+{
+    32.36,35.24
+     One way or another, these exercises are real nice
+},
+{
+    35.24,36.92
+     and I'm excited to talk about this.
+},
+{
+    36.92,37.76
+     They've been helping you, right?
+},
+{
+    37.76,38.6
+     Yes.
+},
+{
+    38.6,39.84
+     Okay, by the way, if you're new to our channel,
+},
+{
+    39.84,41.24
+     please take a second to subscribe to us.
+},
+{
+    41.24,42.64
+     We provide videos on stay healthy,
+},
+{
+    42.64,44.44
+     fit pain-free and upload every day.
+},
+{
+    44.44,46.72
+     Also go to our social media sites and also go to website to us. We provide videos on stay healthy, pay pain-free and upload every day. Also go to our social media sites
+},
+{
+    46.72,49.32
+     and also go to website bobandbrad.com
+},
+{
+    49.32,50.96
+     because we're always giving something away.
+},
+{
+    50.96,52.96
+     We're on a one day hiatus
+},
+{
+    52.96,55.68
+     because we just finished something that given away
+},
+{
+    55.68,56.96
+     to massage.
+},
+{
+    56.96,59.44
+     But tomorrow we're gonna be giving away a massage gun
+},
+{
+    59.44,60.28
+     on Sunday.
+},
+{
+    60.28,61.12
+     Oh, that, yeah.
+},
+{
+    61.12,61.96
+     Yeah, the high end one.
+},
+{
+    61.96,63.68
+     Yeah, that really nice one.
+},
+{
+    63.68,65.68
+     You can also go to Bob and Brad on Facebook.
+},
+{
+    65.68,68.44
+     It'll be pinned to the top of the page to contest.
+},
+{
+    68.44,69.56
+     If you want a short version of us,
+},
+{
+    69.56,70.76
+     go to Twitter and Instagram,
+},
+{
+    70.76,72.08
+     60 second version of our program.
+},
+{
+    72.08,73.24
+     Make sure you smile.
+},
+{
+    73.24,74.08
+     Oh, smile.
+},
+{
+    74.08,75.72
+     Yeah, my wife said we should smile more.
+},
+{
+    75.72,76.76
+     Yeah, that's right.
+},
+{
+    76.76,78.72
+     Anyways, trigger finger,
+},
+{
+    78.72,80.96
+     I think most, not everyone knows what it is,
+},
+{
+    80.96,82.84
+     but if you have it, you probably do.
+},
+{
+    82.84,85.96
+     It's when, it's usually one of the fingers,
+},
+{
+    85.96,88.44
+     the thumb doesn't get it too often.
+},
+{
+    88.44,90.64
+     It's when you bend your finger down
+},
+{
+    90.64,93.36
+     and you feel a click and it gets stuck down there.
+},
+{
+    93.36,94.88
+     And then to get it on it,
+},
+{
+    94.88,97.12
+     it's usually pain is associated with it
+},
+{
+    97.12,99.72
+     and it clicks open and then it's there.
+},
+{
+    99.72,102.12
+     It's typically worse in the morning, getting out of bed.
+},
+{
+    102.12,103.08
+     It's more painful.
+},
+{
+    103.08,105.48
+     I've experienced this over the last month or so.
+},
+{
+    105.48,107.16
+     You're saying you have trigger finger, Brad.
+},
+{
+    107.16,108.88
+     Right, it's getting much better now.
+},
+{
+    108.88,111.32
+     As a matter of fact, I was hoping I could-
+},
+{
+    111.32,112.16
+     Make a click?
+},
+{
+    112.16,113.48
+     Yeah.
+},
+{
+    113.48,115.16
+     But you're curing it.
+},
+{
+    115.16,118.08
+     Thursday, it was doing this and I just hit it really hard
+},
+{
+    118.08,120.12
+     because I wanted to make sure what I said worked
+},
+{
+    120.12,120.92
+     and it's working.
+},
+{
+    120.92,122.92
+     I mean, it's almost gone.
+},
+{
+    122.92,124.12
+     Anyways, you know what?
+},
+{
+    124.12,126.32
+     If you have that trigger finger,
+},
+{
+    126.32,128.52
+     causes of trigger finger,
+},
+{
+    128.52,130.7
+     they really don't understand it fully,
+},
+{
+    130.7,131.8
+     but it's typically,
+},
+{
+    131.8,134.32
+     it happens a lot with people with rheumatoid arthritis.
+},
+{
+    134.32,135.16
+     Definitely I've seen with rheumatoid arthritis.
+},
+{
+    135.16,137.16
+     Just osteoarthritis.
+},
+{
+    137.16,138.88
+     People have a lot of repetitive motion
+},
+{
+    138.88,141.8
+     with their daily job or at home.
+},
+{
+    141.8,142.64
+     But again.
+},
+{
+    142.64,144.2
+     You're like trimming the bushes, you know,
+},
+{
+    144.2,145.96
+     or something. Sure, right.
+},
+{
+    145.96,146.8
+     Yep.
+},
+{
+    146.8,148.0
+     And it's not an electric one,
+},
+{
+    148.0,149.4
+     you're doing the squeeze on it.
+},
+{
+    149.4,151.64
+     Right, or if you do a lot of gripping at work,
+},
+{
+    151.64,153.96
+     the job I used to work before, I had a lot of that.
+},
+{
+    153.96,155.0
+     Sure.
+},
+{
+    155.0,157.28
+     Which may indicate why you have it now.
+},
+{
+    157.28,158.64
+     Well, that was 20 years ago.
+},
+{
+    158.64,159.64
+     Yeah, you know.
+},
+{
+    160.64,161.72
+     Delayed onset.
+},
+{
+    161.72,162.56
+     Right.
+},
+{
+    162.56,164.32
+     Anyways, we'll go on to that.
+},
+{
+    164.32,167.28
+     They talk about the reason it happens is
+},
+{
+    167.28,171.12
+     the muscle is down in here, your flexor muscles,
+},
+{
+    171.12,172.76
+     that flex your fingers are here
+},
+{
+    172.76,175.32
+     and the tendon's run up to your carpal tunnel
+},
+{
+    175.32,176.56
+     and into each finger.
+},
+{
+    176.56,178.04
+     And if you do this with your thumb
+},
+{
+    178.04,180.76
+     and you just relax your hand and you push on there,
+},
+{
+    180.76,183.16
+     your fingers will flex because you're tightening
+},
+{
+    183.16,190.16
+     those tendons and the tendons go through each finger has what they call a pulley and that tendon goes
+},
+{
+    190.16,193.74
+     through that pulley and that's where it gets hung up on which is at the base of
+},
+{
+    193.74,197.22
+     the finger. So I got a little demonstration here that would be fun to show people.
+},
+{
+    197.22,200.72
+     I think it's worthwhile showing this because it's gonna help you when you
+},
+{
+    200.72,204.56
+     treat it. Right. You know understanding why you're doing what you're doing. So
+},
+{
+    204.56,206.96
+     when we do this on a normal hand,
+},
+{
+    206.96,209.96
+     the tendon is going through the pulley like this.
+},
+{
+    209.96,213.04
+     Nice and smooth, no problems.
+},
+{
+    213.04,215.6
+     Now, when you get some scar tissue,
+},
+{
+    215.6,219.2
+     or whatever it is that makes that tendon not go through,
+},
+{
+    219.2,221.0
+     it's like this knot right here.
+},
+{
+    221.0,223.1
+     And it gets hung up in there,
+},
+{
+    223.1,224.36
+     and you get it to go through,
+},
+{
+    224.36,225.52
+     and then when you try to open it, it gets hung up in there and you get it to go through and then we try to
+},
+{
+    225.52,230.72
+     open it, it gets hung up typically a little more and you pull it and it pops through and
+},
+{
+    230.72,236.2
+     then it's smooth here but when you get to that one point every time that knot or that scar
+},
+{
+    236.2,241.12
+     tissue gets to that point, it hangs up. So what we want to do is eliminate that scar tissue.
+},
+{
+    241.12,245.06
+     Yeah, we want to break that scar tissue up so you have a smooth sailing all the way through.
+},
+{
+    245.06,247.56
+     There you go, and that's what we're gonna show you.
+},
+{
+    248.86,250.38
+     All right, Bob, should we show them?
+},
+{
+    250.38,251.22
+     Let's show them.
+},
+{
+    251.22,252.06
+     Okay, four steps.
+},
+{
+    252.06,254.94
+     First one is just working that hand
+},
+{
+    254.94,257.26
+     and getting it moving throughout the day
+},
+{
+    257.26,258.14
+     is gonna be helpful.
+},
+{
+    258.14,259.22
+     Typically in the morning,
+},
+{
+    259.22,262.1
+     it's gonna be more painful, do what you can.
+},
+{
+    262.1,264.82
+     If you can pop through that painful spot
+},
+{
+    264.82,266.2
+     and it'll put up and pop through it,
+},
+{
+    266.2,268.18
+     you can do that if it's too painful.
+},
+{
+    268.18,271.04
+     Just do range of motion in the pain-free range.
+},
+{
+    271.04,272.2
+     Yeah, don't get it fired up.
+},
+{
+    272.2,273.04
+     Right.
+},
+{
+    273.04,275.32
+     I mean, but you wanna mention, Brad,
+},
+{
+    275.32,278.76
+     that sometimes you'll find the tender spot down here
+},
+{
+    278.76,280.24
+     and you can actually hold onto that
+},
+{
+    280.24,281.08
+     while you're doing range.
+},
+{
+    281.08,282.72
+     I was gonna tell him that later.
+},
+{
+    282.72,284.08
+     Oh, okay, sorry, I jumped in.
+},
+{
+    284.08,285.4
+     We're gonna get back to that.
+},
+{
+    285.4,287.56
+     So active range of motion first and do that,
+},
+{
+    287.56,291.34
+     you know, 10, 20 repetitions in the pain-free range.
+},
+{
+    291.34,295.4
+     And then also range the finger out to the end range.
+},
+{
+    295.4,298.88
+     Okay, so mine was my middle finger or the third digit.
+},
+{
+    298.88,302.42
+     So when you open it up, push just that finger,
+},
+{
+    302.42,303.72
+     that's the end range.
+},
+{
+    303.72,307.84
+     Stretch it that way, five to 10 repetitions.
+},
+{
+    307.84,309.04
+     And then go the other way.
+},
+{
+    309.04,311.64
+     You're gonna have to go through the trigger part
+},
+{
+    311.64,313.4
+     and then push it down.
+},
+{
+    313.4,315.8
+     This way is a more painful side.
+},
+{
+    315.8,318.4
+     If it's really flared up, a week ago I wouldn't be able
+},
+{
+    318.4,320.8
+     to do this without saying bad words.
+},
+{
+    320.8,322.92
+     I can do it now and it's comfortable.
+},
+{
+    322.92,324.88
+     But I have been doing this as well.
+},
+{
+    324.88,326.98
+     And you can do that two to three times per day.
+},
+{
+    326.98,329.22
+     You're not gonna wanna do that all the time.
+},
+{
+    329.22,331.2
+     Because it's just too aggressive.
+},
+{
+    331.2,333.76
+     Now I think this is the real.
+},
+{
+    333.76,335.48
+     This is the one that's gonna make the big difference.
+},
+{
+    335.48,336.32
+     Right.
+},
+{
+    336.32,338.0
+     And this is, I'll show you what I've done
+},
+{
+    338.0,340.32
+     and then you can show that bonus one.
+},
+{
+    340.32,343.14
+     Is you're gonna find where that pulley is
+},
+{
+    343.14,344.74
+     and it's gonna be the tender spot
+},
+{
+    344.74,346.56
+     right at the base of the finger.
+},
+{
+    346.56,348.68
+     So is that the base of the finger?
+},
+{
+    348.68,349.64
+     Yeah, I'm doing it this way
+},
+{
+    349.64,351.6
+     because it's actually the finger that I've worked on.
+},
+{
+    351.6,353.8
+     And what I did is I used my thumb here
+},
+{
+    353.8,356.76
+     and I take my hand and hold on the back
+},
+{
+    356.76,358.8
+     and then I would use this thumb and then I would,
+},
+{
+    358.8,360.28
+     I actually, instead of,
+},
+{
+    360.28,362.52
+     we talked about cross friction going across,
+},
+{
+    362.52,363.56
+     I did all directions.
+},
+{
+    363.56,365.48
+     Yeah, and that's what I would recommend too.
+},
+{
+    365.48,367.56
+     Go absolutely in all directions.
+},
+{
+    367.56,368.76
+     This is really incredible
+},
+{
+    368.76,370.96
+     because I'm pushing pretty hard with all much pain.
+},
+{
+    370.96,373.76
+     And just three or four days ago when I started this,
+},
+{
+    373.76,375.16
+     this was not comfortable.
+},
+{
+    375.16,377.56
+     Yeah, you wanna find the tender spot basically.
+},
+{
+    377.56,382.44
+     And you start off, initially, you have to do it lightly.
+},
+{
+    382.44,384.4
+     And then over time, you can work into
+},
+{
+    384.4,385.38
+     being more aggressive.
+},
+{
+    385.38,386.66
+     Right.
+},
+{
+    386.66,389.34
+     If your trigger finger is really flared up the beginning
+},
+{
+    389.34,392.18
+     with and this really hurts, just don't do it.
+},
+{
+    392.18,395.42
+     You may want to put a cold pack on it,
+},
+{
+    395.42,397.96
+     maybe do some ibuprofen if that works for you.
+},
+{
+    398.84,402.18
+     But as this improves, I am just happy or happy
+},
+{
+    402.18,405.1
+     that I can work this and it's wonderful, Bob.
+},
+{
+    405.1,407.08
+     Yeah, so what I was mentioning before is
+},
+{
+    407.08,410.08
+     that you can actually find that tender spot sometimes
+},
+{
+    410.08,413.72
+     and then do range and it just seems like it helps
+},
+{
+    413.72,416.78
+     guide that pulley through the system there.
+},
+{
+    416.78,419.32
+     So if you do this and it triggers and it clicks,
+},
+{
+    419.32,423.0
+     if you push on it and then as a result of that pressure,
+},
+{
+    423.0,424.84
+     you can go through the range of motion.
+},
+{
+    424.84,426.84
+     See if you can, see if it makes it better.
+},
+{
+    426.84,428.72
+     If it doesn't, it's not worthwhile doing.
+},
+{
+    428.72,429.66
+     But if it does.
+},
+{
+    429.66,431.16
+     It does, that's the way to do it.
+},
+{
+    431.16,432.96
+     Yep, work that as well.
+},
+{
+    432.96,434.76
+     Remember, get that knot out of there
+},
+{
+    434.76,436.0
+     and get it smooth again.
+},
+{
+    436.86,437.96
+     Oh, the next thing,
+},
+{
+    437.96,439.68
+     and this is probably not as important,
+},
+{
+    439.68,440.68
+     but it is nice.
+},
+{
+    440.68,442.68
+     You want to do with the green one?
+},
+{
+    442.68,443.8
+     You got a rubber band.
+},
+{
+    443.8,446.0
+     You could just pull out a rubber band out of your
+},
+{
+    446.0,447.44
+     junk drawer at home if you have one
+},
+{
+    447.44,449.16
+     and you simply open up
+},
+{
+    449.16,452.24
+     and that's going to strengthen the opposite muscle group
+},
+{
+    452.24,455.36
+     which can get weak because you're not using that finger
+},
+{
+    456.52,458.28
+     and helps range out the hand
+},
+{
+    458.28,461.48
+     and do 10 to 15 of these once or twice a day.
+},
+{
+    461.48,464.84
+     So Brad, aren't you going to mention the apple cider
+},
+{
+    464.84,465.68
+     or not?
+},
+{
+    465.68,468.2
+     Well, I wasn't going to on this one, but we could.
+},
+{
+    468.2,470.96
+     I think it had, you know, it seems like it had
+},
+{
+    470.96,474.24
+     an anti-inflammatory effect on your finger.
+},
+{
+    474.24,475.52
+     There's a little longer story to this.
+},
+{
+    475.52,477.84
+     My both hands were very tight in the morning,
+},
+{
+    477.84,479.48
+     painful, arthritic tight.
+},
+{
+    479.48,480.88
+     Ow, especially this hand,
+},
+{
+    480.88,483.68
+     and this finger was by far the worst.
+},
+{
+    483.68,484.88
+     In about three and a half weeks,
+},
+{
+    484.88,488.2
+     so I started drinking two tablespoons of apple cider,
+},
+{
+    488.2,489.76
+     because we did some research on it.
+},
+{
+    489.76,490.88
+     Apple cider vinegar.
+},
+{
+    490.88,492.16
+     There we go, with the mother.
+},
+{
+    492.16,493.16
+     With the mother, right.
+},
+{
+    493.16,494.84
+     We've got a video on it.
+},
+{
+    494.84,498.72
+     Every day, I drink it, mix it with water, drink it.
+},
+{
+    498.72,502.2
+     And now I get up, my hands aren't tight anymore.
+},
+{
+    502.2,504.64
+     And how long had your fingers been that way?
+},
+{
+    504.64,505.46
+     Two years. Two years.
+},
+{
+    505.46,506.3
+     Two years.
+},
+{
+    506.3,508.74
+     And so this is the only thing you changed
+},
+{
+    508.74,511.06
+     is you started drinking apple cider vinegar
+},
+{
+    511.06,512.26
+     and all of a sudden it went away.
+},
+{
+    512.26,513.18
+     Right.
+},
+{
+    513.18,515.74
+     And it's actually, I'd say 90%
+},
+{
+    515.74,517.02
+     90% better.
+},
+{
+    517.02,520.38
+     It's not 100, but this finger was by far the worst,
+},
+{
+    520.38,521.6
+     the trigger finger one.
+},
+{
+    521.6,524.86
+     And now that one was 50% a week ago.
+},
+{
+    524.86,526.88
+     Since I've been doing this, I would say that's what-
+},
+{
+    526.88,528.12
+     It's gonna be brand new.
+},
+{
+    528.12,529.82
+     Yeah, which is really important to me
+},
+{
+    529.82,532.16
+     because I really enjoy my off time.
+},
+{
+    532.16,535.32
+     I really like to do things that I work with my hands.
+},
+{
+    535.32,537.92
+     Exactly, it really limits you in life.
+},
+{
+    537.92,539.84
+     Yeah, it was gonna change my whole life.
+},
+{
+    539.84,541.4
+     I was getting kind of depressed about it.
+},
+{
+    541.4,543.0
+     Now I'm starting to feel pretty good about it.
+},
+{
+    543.0,543.92
+     Life is good.
+},
+{
+    543.92,546.8
+     Apple cider vinegar, I wouldn't take it if you have reflux.
+},
+{
+    546.8,547.64
+     Oh yeah.
+},
+{
+    547.64,549.68
+     That's gonna make things worse, let me tell you.
+},
+{
+    549.68,552.16
+     If you've got any medications you're taking,
+},
+{
+    552.16,554.08
+     any things like that, you better check it with your doctor.
+},
+{
+    554.08,554.92
+     Yes, for sure.
+},
+{
+    554.92,556.6
+     So, by the way, if you're,
+},
+{
+    556.6,557.68
+     oh yes.
+},
+{
+    557.68,558.84
+     We can fix just about anything.
+},
+{
+    558.84,560.28
+     Except for a broken heart.
+},
+{
+    560.28,561.24
+     There you go.
+},
+{
+    561.24,562.18
+     But we'll work on it.
+},
+{
+    562.18,563.02
+     Yep, overtime.
+},
+{
+    563.02,565.32
+     We're gonna put overtime this week on it.
+},
+{
+    565.32,566.16
+     I'm not gonna.
+},
+{
+    566.16,567.0
+     I am.
+},
+{
+    567.0,567.84
+     I'm taking a break.
+},
+{
+    567.84,568.84
+     All right, thanks for watching.
+},

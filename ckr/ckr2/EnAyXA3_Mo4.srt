@@ -1,0 +1,1020 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    10.8,13.2
+     Hi folks, I'm Mike Enos, physical therapist assistant.
+},
+{
+    13.2,15.0
+     Brad Heineck, physical therapist.
+},
+{
+    15.0,17.2
+     I have to get assistant out, you know, it's a little harder.
+},
+{
+    17.2,19.7
+     We're the most famous physical therapist team on the internet.
+},
+{
+    19.7,21.6
+     In our opinion, of course, Mike.
+},
+{
+    21.6,23.6
+     If you're new to the channel, please like, share, subscribe.
+},
+{
+    23.6,27.08
+     Make sure to check us out on all our social media platforms.
+},
+{
+    27.08,30.2
+     Before we go any farther, we must disclaim that
+},
+{
+    30.2,31.6
+     Bob's got the day off today.
+},
+{
+    31.6,34.2
+     We're happy to have, and very well,
+},
+{
+    35.2,37.72
+     just, we feel, we feel appalled.
+},
+{
+    37.72,39.2
+     You're billing this up.
+},
+{
+    39.2,40.16
+     Appalled?
+},
+{
+    40.16,41.28
+     No, I'm just kidding.
+},
+{
+    41.28,42.84
+     We're happy to have Mike with us.
+},
+{
+    42.84,44.56
+     Okay, and?
+},
+{
+    44.56,46.5
+     Check us out on all our social media platforms
+},
+{
+    46.5,48.04
+     for a 60 second version of us.
+},
+{
+    48.04,49.92
+     Check us out on Instagram and Twitter.
+},
+{
+    49.92,51.24
+     You can go to bombbred.com
+},
+{
+    51.24,53.16
+     and check out our giveaway for the week.
+},
+{
+    53.16,54.88
+     You can also go to the top of Facebook.
+},
+{
+    54.88,56.2
+     It is pinned to the top.
+},
+{
+    56.2,58.28
+     And what is it this week?
+},
+{
+    58.28,60.6
+     The Sleep Ovation Mattress.
+},
+{
+    60.6,63.0
+     This is a wonderful giveaway.
+},
+{
+    63.0,65.64
+     Both Mike and I sleep on a sleep-ovation mattress
+},
+{
+    65.64,67.48
+     and we absolutely love them.
+},
+{
+    67.48,69.0
+     It's changed our sleeping habits.
+},
+{
+    69.0,69.84
+     I do, they're great.
+},
+{
+    69.84,72.4
+     We're giving away a mattress and a pillow.
+},
+{
+    72.4,73.86
+     Are we giving away a pillow?
+},
+{
+    73.86,74.76
+     Okay, we are now.
+},
+{
+    74.76,78.0
+     All right, so very good.
+},
+{
+    78.0,79.68
+     Ah, today's video.
+},
+{
+    79.68,81.2
+     Did you already see it?
+},
+{
+    81.2,82.04
+     Yep.
+},
+{
+    82.04,82.88
+     Wow, okay.
+},
+{
+    82.88,84.7
+     Fixed round in hunchback pasture.
+},
+{
+    84.7,88.28
+     Change your life in seven minutes per day.
+},
+{
+    88.28,89.4
+     Yes, seven minutes.
+},
+{
+    89.4,90.6
+     Seven minutes.
+},
+{
+    90.6,92.32
+     So let's talk about posture, mate.
+},
+{
+    92.32,97.32
+     So posture, posture, posture, poor posture.
+},
+{
+    97.84,100.92
+     Leads to neck pain, back pain, shoulder pain,
+},
+{
+    100.92,102.36
+     everything when you're like this.
+},
+{
+    102.36,104.76
+     You can't breathe as well, your lungs aren't open
+},
+{
+    104.76,106.12
+     and you kind of look like you're not approachable if you're out and about. If you're like this, you can't breathe as well, your lungs aren't open, and you kind of look like
+},
+{
+    106.12,108.14
+     you're not approachable if you're out and about.
+},
+{
+    108.14,109.6
+     If you're kind of looking like this all day,
+},
+{
+    109.6,110.88
+     no one wants to come say hi to you.
+},
+{
+    110.88,113.56
+     So sit upright, look up.
+},
+{
+    113.56,116.8
+     Definitely changes your life in so many respects.
+},
+{
+    116.8,118.7
+     So how are we gonna do this?
+},
+{
+    118.7,120.68
+     How can we do this in seven minutes per day?
+},
+{
+    120.68,121.88
+     We're gonna show you right now.
+},
+{
+    121.88,124.56
+     It starts in bed, actually.
+},
+{
+    124.56,125.64
+     When you get up in the morning,
+},
+{
+    125.64,127.52
+     you wanna start thinking about it.
+},
+{
+    127.52,129.36
+     Actually before and when you go to bed.
+},
+{
+    129.36,130.4
+     Why don't you lay down, Mike?
+},
+{
+    130.4,135.4
+     So, when you're laying in bed, lie in bed.
+},
+{
+    136.44,141.16
+     See, Liz, she gave me that look like you caught it.
+},
+{
+    141.16,143.0
+     If your pillow, and you lay in your,
+},
+{
+    143.0,146.24
+     lie in your back, if your pillow is too thick,
+},
+{
+    146.24,149.24
+     your head, this is a thick pillow, we doubled it up.
+},
+{
+    149.24,151.08
+     Some people may do that.
+},
+{
+    151.08,153.2
+     That's gonna start that poor posture,
+},
+{
+    153.2,155.0
+     that hunchback right there.
+},
+{
+    155.0,158.2
+     Particularly if, now, I don't do this,
+},
+{
+    158.2,160.48
+     but my T-U test is,
+},
+{
+    160.48,163.08
+     people in bed with a cell phone.
+},
+{
+    163.08,164.64
+     Oh, just like this?
+},
+{
+    164.64,165.64
+     Yes, now.
+},
+{
+    165.64,168.08
+     My girlfriend does this on the couch while the TV's on.
+},
+{
+    168.08,170.64
+     With maybe the head up on those,
+},
+{
+    170.64,172.92
+     and you must say something about her posture, right?
+},
+{
+    172.92,175.44
+     Get your head down, it's gonna give you the hunchback.
+},
+{
+    175.44,178.72
+     You think so, but the girlfriend's don't always listen.
+},
+{
+    178.72,179.88
+     Hope she's not watching.
+},
+{
+    179.88,181.04
+     Nope.
+},
+{
+    181.04,183.6
+     Okay, so change the posture.
+},
+{
+    183.6,185.32
+     Or if you're watching TV in bed,
+},
+{
+    185.32,189.2
+     we don't wanna have that head forward for prolonged time.
+},
+{
+    189.2,191.16
+     Thin pillow, okay?
+},
+{
+    192.2,195.3
+     Now you go through the night with good posture.
+},
+{
+    195.3,198.32
+     The bed, if you have a wore out bed
+},
+{
+    198.32,201.12
+     that kinda have the hole in the middle, you know,
+},
+{
+    201.12,202.76
+     that's gonna cause a problem.
+},
+{
+    202.76,203.76
+     If you can't afford a new one.
+},
+{
+    203.76,205.6
+     Hole in the middle, you mean like a slump?
+},
+{
+    205.6,206.94
+     Right, exactly.
+},
+{
+    206.94,207.78
+     Sultry and bad.
+},
+{
+    207.78,210.12
+     If you have a hole in your bed, you really have a problem.
+},
+{
+    210.12,213.04
+     Well, you never know what happens in some people's beds.
+},
+{
+    213.04,215.56
+     So anyways, let's go on to the family show.
+},
+{
+    215.56,217.6
+     If you do have that wore out mattress
+},
+{
+    217.6,220.12
+     and you can't afford one, you can sign up for the giveaway.
+},
+{
+    220.12,222.22
+     You might win the sleep evasion, that's good.
+},
+{
+    222.22,224.2
+     But one thing that Bob and I have said
+},
+{
+    224.2,225.68
+     to our patients over the years,
+},
+{
+    225.68,228.56
+     if you won a cheap solution,
+},
+{
+    228.56,229.6
+     and Bob actually did this,
+},
+{
+    229.6,233.48
+     is take a piece of plywood and slip it underneath
+},
+{
+    233.48,235.76
+     the mattress between the mattress and the box spring,
+},
+{
+    235.76,237.36
+     and that can help firm it up,
+},
+{
+    237.36,240.08
+     and that may give you a quick, fixed solution.
+},
+{
+    240.08,241.12
+     Yeah.
+},
+{
+    241.12,242.84
+     Do you have any other?
+},
+{
+    242.84,245.12
+     I actually had too firm of a mattress before.
+},
+{
+    245.12,246.24
+     That was my problem.
+},
+{
+    246.24,248.16
+     So I couldn't sleep on my back.
+},
+{
+    248.16,250.12
+     So actually getting the sleep-ovation mattress
+},
+{
+    250.12,250.96
+     really helped that.
+},
+{
+    250.96,251.8
+     Like I could sleep on my back.
+},
+{
+    251.8,252.64
+     Now it's really great.
+},
+{
+    252.64,253.46
+     Yep.
+},
+{
+    253.46,254.3
+     And actually the same with me.
+},
+{
+    254.3,258.32
+     It feels so much better with my back on that mattress.
+},
+{
+    258.32,260.66
+     So now when you get up in the morning,
+},
+{
+    260.66,261.72
+     we're going to phase two.
+},
+{
+    261.72,265.04
+     Let's talk about what you do before you get out of bed.
+},
+{
+    265.04,266.36
+     Lace that back down.
+},
+{
+    266.36,267.2
+     Before I get out of bed.
+},
+{
+    267.2,268.2
+     Before, yep.
+},
+{
+    268.2,270.56
+     Take the pillow, get rid of it.
+},
+{
+    270.56,274.08
+     Now, heads back, you can start some chin tucks.
+},
+{
+    274.08,276.88
+     And I'm gonna show you what Mike is gonna do
+},
+{
+    276.88,281.08
+     from this position if you were looking down from the ceiling.
+},
+{
+    281.08,282.16
+     He's doing some chin tucks.
+},
+{
+    282.16,285.8
+     We're gonna add in the famous W stretch.
+},
+{
+    285.8,289.6
+     Okay, so he's gonna think about pushing his shoulders
+},
+{
+    289.6,292.24
+     down into the mattress, trying to get the hands back
+},
+{
+    292.24,295.82
+     and chin back and take a deep breath each time you do it.
+},
+{
+    296.8,297.64
+     Fill up those lungs.
+},
+{
+    297.64,300.08
+     It's gonna help wake you up, get you stretched out.
+},
+{
+    300.08,301.92
+     It's a good way to start the morning getting out of bed.
+},
+{
+    301.92,303.48
+     I feel like I need to be on after I keep doing these.
+},
+{
+    303.48,305.6
+     Yeah, you're waking up. I guess. Five to 10 of those is a great way to get the morning getting out of bed. I feel like I need to be on it before I keep doing these. Yeah, you're waking up.
+},
+{
+    305.6,306.44
+     I guess.
+},
+{
+    306.44,308.52
+     Five to 10 of those is a great way to get going.
+},
+{
+    308.52,309.44
+     How you feeling, Mike?
+},
+{
+    309.44,310.28
+     Like I'm awake.
+},
+{
+    310.28,312.84
+     Yeah, okay, then you can get out of bed.
+},
+{
+    312.84,314.6
+     I can get up now.
+},
+{
+    314.6,318.04
+     All right, now the next thing you can do
+},
+{
+    318.04,321.36
+     is we're going to become very good friends with the wall
+},
+{
+    321.36,324.04
+     for all of these, most of these stretches.
+},
+{
+    324.04,325.44
+     Simply lean back against the wall, shoulders back, head touching the wall for all these, most of these stretches. Simply lean back against
+},
+{
+    325.44,331.96
+     the wall, shoulders back, head touching the wall. Now if you've got pretty, a slumped
+},
+{
+    331.96,336.36
+     hunchback, that's possible. You can't even get your head to the wall. So the goal is
+},
+{
+    336.36,341.56
+     to see if you can get your head to the wall. The wall gives you perfect posture. Touching
+},
+{
+    341.56,342.56
+     here, here, here.
+},
+{
+    342.56,346.08
+     Three points of contact and then do some W's.
+},
+{
+    346.08,348.08
+     W's, a W stands for?
+},
+{
+    348.08,348.9
+     Winning.
+},
+{
+    348.9,349.74
+     Winning.
+},
+{
+    349.74,350.84
+     You're winning if you're doing these.
+},
+{
+    350.84,352.04
+     Or Wisconsin.
+},
+{
+    352.04,353.38
+     Whenona.
+},
+{
+    353.38,355.4
+     Whenona, whatever.
+},
+{
+    355.4,358.44
+     Do your W's and you can do five to 10 of those.
+},
+{
+    358.44,360.52
+     And then the next thing, if this is real easy
+},
+{
+    360.52,363.04
+     and you wanna do even a little more aggressive,
+},
+{
+    363.04,365.28
+     posture stretches, do the wall angels
+},
+{
+    365.92,369.6
+     Now I've got tight shoulders. I can't do these very well at all. Let's see how you can do them.
+},
+{
+    369.6,373.04
+     I'm not gonna do these. You got tight shoulders too. That's from doing a lot of bench presses,
+},
+{
+    373.04,381.76
+     isn't it? There that's it. Yep and down. Oh it's hard down. Yeah. So my butt's touching the wall,
+},
+{
+    381.76,386.0
+     my shoulder blades are touching the wall, my head's touching the wall. Your feet can be out in on special.
+},
+{
+    386.0,388.16
+     That'd be really awkward actually.
+},
+{
+    388.16,389.08
+     This is hard.
+},
+{
+    389.08,392.12
+     It is hard, but it really works a postural muscle.
+},
+{
+    392.12,394.64
+     So it wakes them up and it gives your body
+},
+{
+    394.64,397.4
+     a good indication of where it's supposed to be.
+},
+{
+    397.4,400.12
+     All right, now the next thing.
+},
+{
+    400.12,402.6
+     Next thing to do is when you are looking at yourself
+},
+{
+    402.6,405.2
+     on standing or sitting,
+},
+{
+    410.72,415.84
+     don't go like this and stare down into it. That's just bad posture. Bring the phone to you. Use your little T-Rex arms. Bring it here. Have a nice visual. I have my neck and a neutral spine,
+},
+{
+    415.84,427.24
+     so I'm not too flexed over. And it's a half good posture. As well as the computer workstation. If you're screen, you gotta particularly laptop.
+},
+{
+    427.24,429.28
+     You know, they're low.
+},
+{
+    429.28,432.32
+     Get that laptop up on some books or a box
+},
+{
+    432.32,435.32
+     or go out and buy an actual screen riser
+},
+{
+    435.32,436.52
+     that you can adjust.
+},
+{
+    436.52,439.0
+     Standing desk, any of the, any of these things work?
+},
+{
+    439.0,440.0
+     Same with TVs too.
+},
+{
+    440.0,442.12
+     Get your TV at a decent position.
+},
+{
+    442.12,443.28
+     Most people do.
+},
+{
+    443.28,445.96
+     Well nowadays that you can actually put them on the wall.
+},
+{
+    445.96,448.52
+     Back in the old days when they were tubes, you know.
+},
+{
+    448.52,449.52
+     Yeah, they're on the floor.
+},
+{
+    449.52,450.36
+     I remember that.
+},
+{
+    450.36,452.52
+     I was a kid, he was at the two box down on the floor.
+},
+{
+    452.52,454.22
+     Yeah, the old age difference.
+},
+{
+    454.22,455.06
+     Quite a thing, you know,
+},
+{
+    455.06,457.08
+     we don't have that age commonality.
+},
+{
+    457.08,458.04
+     So this is good.
+},
+{
+    458.04,461.8
+     You know, you can relate to the younger generation.
+},
+{
+    461.8,466.48
+     All right, and the next thing, and last but not least.
+},
+{
+    466.48,469.32
+     This is the seated W's or hallelujahs.
+},
+{
+    469.32,470.52
+     What are the W's again?
+},
+{
+    470.52,472.88
+     Just a seated position.
+},
+{
+    472.88,473.72
+     If you can't do this,
+},
+{
+    473.72,475.68
+     you can always just squeeze your shoulder blades back.
+},
+{
+    475.68,478.28
+     If you have shoulder issues and you can't bring it up here,
+},
+{
+    478.28,480.12
+     you can just do shoulder squeezes.
+},
+{
+    481.0,484.28
+     And an alternative is the hallelujahs.
+},
+{
+    484.28,486.08
+     Bob's famous Hallelujah.
+},
+{
+    486.08,487.24
+     You know, I was thinking about this
+},
+{
+    487.24,488.72
+     when I was doing this video
+},
+{
+    488.72,491.36
+     and I didn't know how to spell Hallelujah.
+},
+{
+    491.36,492.68
+     Hallelujah.
+},
+{
+    492.68,493.52
+     It is kinda hard to spell.
+},
+{
+    493.52,494.56
+     I Googled it, yeah.
+},
+{
+    494.56,496.88
+     And all of a sudden this song came up
+},
+{
+    496.88,500.4
+     and these seven people were singing the Shrek song.
+},
+{
+    500.4,501.32
+     You know, it was wonderful.
+},
+{
+    501.32,504.0
+     I was feeling so good doing the stretch.
+},
+{
+    504.0,505.36
+     The Shrek song.
+},
+{
+    505.36,506.48
+     Didn't you ever see the movie Shrek?
+},
+{
+    506.48,508.32
+     Yeah, I don't remember the song in there.
+},
+{
+    508.32,509.4
+     Yeah, Liz does.
+},
+{
+    509.4,510.96
+     Well, of course, why don't you should watch it again.
+},
+{
+    510.96,512.18
+     You can also do, you know,
+},
+{
+    512.18,514.52
+     every time your football team scores a touchdown,
+},
+{
+    514.52,516.2
+     just do the touchdown dance too.
+},
+{
+    516.2,517.04
+     Yeah.
+},
+{
+    517.04,517.88
+     Well, not touchdown.
+},
+{
+    517.88,519.24
+     The Packers have really been doing a lot of these.
+},
+{
+    519.24,520.8
+     The Vikings don't have so many of those.
+},
+{
+    520.8,522.4
+     We won last week.
+},
+{
+    522.4,523.24
+     Oh, good.
+},
+{
+    523.24,524.08
+     All right.
+},
+{
+    524.08,524.92
+     I'm happy to hear that.
+},
+{
+    524.92,525.92
+     So very good.
+},
+{
+    525.92,528.66
+     It's always good to have fun with your exercises.
+},
+{
+    528.66,531.08
+     Get your posture, get your cheer up.
+},
+{
+    531.08,532.76
+     The social life starts to get better.
+},
+{
+    532.76,535.76
+     You can see we're starting to talk, have some fun here.
+},
+{
+    535.76,538.0
+     Always better with good posture.
+},
+{
+    538.0,540.96
+     You're gonna get a better job, faster job.
+},
+{
+    540.96,544.48
+     I got this job just for my posture.
+},
+{
+    544.48,546.6
+     Well, yeah, you think that Bob would have heard you
+},
+{
+    546.6,547.88
+     if you came in looking like this?
+},
+{
+    547.88,550.2
+     I'll slumped over the first day.
+},
+{
+    550.2,553.64
+     Only seven minutes of your day can be all throughout the day
+},
+{
+    553.64,555.4
+     or all at once, choose what you want.
+},
+{
+    555.4,559.0
+     Once again, let's see how this goes between us.
+},
+{
+    559.0,560.96
+     We can fix just about anything.
+},
+{
+    560.96,562.72
+     Except for a broken heart.
+},
+{
+    562.72,563.84
+     But we're working on it.
+},
+{
+    563.84,565.52
+     Could you fix that in seven minutes?
+},
+{
+    565.52,570.32
+     Well yeah that'd be another story but see now we got someone younger in here. At least the posture
+},
+{
+    570.32,576.72
+     opens up your thoracic area and your heart can pump easier. Something. Well you gave it a shot.
+},
+{
+    576.72,None
+     Yeah. Take care. Bye. you
+},

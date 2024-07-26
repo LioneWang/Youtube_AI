@@ -1,0 +1,236 @@
+{
+    0.0,16.4
+     Hello, my name's Daughter Gill. I've been asked to do some lung function testing on yourself
+},
+{
+    16.4,19.36
+     today, some spirometry. Have you had that done before?
+},
+{
+    19.36,20.36
+     I know.
+},
+{
+    20.36,23.96
+     Super. So before we start that, can I confirm your name and date of birth please?
+},
+{
+    23.96,27.0
+     Yeah, but I've been taughtth December 4th December 96th.
+},
+{
+    27.0,34.0
+     Super. So what long-function testing means is we're going to get you to use this device,
+},
+{
+    34.0,39.0
+     we're going to get you to take a full breath in all the way to the bottom of your lungs, as it were,
+},
+{
+    39.0,45.68
+     and then breathe out as hard and as fast as you can, and we're going to see how well your lungs are working. OK? Yeah.
+},
+{
+    45.68,50.2
+     So we need to cover a few safety questions before we can actually do the test.
+},
+{
+    50.2,52.68
+     Have you had a cough at the moment? No.
+},
+{
+    52.68,55.24
+     Have you had any recent chest infections? No.
+},
+{
+    55.24,60.28
+     OK. And have you ever had problems with your eyes and needed surgery on them?
+},
+{
+    60.28,61.28
+     No.
+},
+{
+    61.28,64.52
+     And have you had any chest or abdominal surgery? No.
+},
+{
+    64.52,66.0
+     Thank you. Some other
+},
+{
+    66.0,71.0
+     less common ones? Have you ever had a blood clots at all? No. Okay and have you
+},
+{
+    71.0,75.66
+     ever had a lung collapse? No. Okay and just for the data I want to put it in do you
+},
+{
+    75.66,80.76
+     smoke at all? No. Super. Okay in that case we should be able to go ahead and do the
+},
+{
+    80.76,85.74
+     test. So we've got a brand new mouthpiece for yourself and what we need
+},
+{
+    85.74,89.44
+     to do first, we're just going to get you to step over to the side here and we're going
+},
+{
+    89.44,94.6
+     to check your vital statistics. So we're going to check your height and weight if you could.
+},
+{
+    94.6,107.0
+     So let's go this way. And then step onto the scales. Super. Okay, that's grand. And if we just move over to get your height.
+},
+{
+    107.0,110.0
+     So if you come back against here for me.
+},
+{
+    111.0,113.0
+     And then come away please.
+},
+{
+    114.0,118.0
+     OK, so we'll call that 166 bang on.
+},
+{
+    119.0,121.0
+     Right, we've got those.
+},
+{
+    121.0,124.0
+     So let's put that into the system for you.
+},
+{
+    124.0,128.0
+     So we load up for the spirometry, which is what we're testing.
+},
+{
+    128.4,133.8
+     And your female, your Caucasian, we've got your height as 166.
+},
+{
+    134.24,136.88
+     And we have your weight as 81 kilos.
+},
+{
+    137.28,140.2
+     And your age, as we know, is 24. Perfect.
+},
+{
+    140.48,142.08
+     That's all set.
+},
+{
+    142.08,145.04
+     Now, in terms of doing the test, I'm going to have to ask you to wear
+},
+{
+    145.04,149.4
+     this nose peg so that the air is only coming out of your mouth. So I'll ask
+},
+{
+    149.4,155.04
+     you to put that on in a moment. We've got a brand new mouthpiece for you with
+},
+{
+    155.04,160.12
+     new bacterial seal and we're going to put that in there. When you do take this
+},
+{
+    160.12,165.52
+     I want you to hold it in your hands like so, sitting up nice and straight with your legs
+},
+{
+    165.52,171.88
+     uncrossed and it's full breath all the way in, all the way out of your lungs and we'll
+},
+{
+    171.88,176.4
+     follow the graph as we're doing it. We're going to do that three times to make sure
+},
+{
+    176.4,193.08
+     that everything, we get the correct data. Okay, so if I give you that And put those piece on excellent and then sit up nice and straight deep breath in and harden fast as you can
+},
+{
+    196.32,202.52
+     That was excellent, okay, so we're going to do the best of three so if you can do the same again, please
+},
+{
+    213.52,225.0
+     best of three so if you can do the same again please. Excellent. Okay and the final one for our three. Okay that was the best of all three, terrific.
+},
+{
+    226.32,229.52
+     So, if we take that from you, okay,
+},
+{
+    229.52,233.8
+     and we'll get you to bin that shortly.
+},
+{
+    233.8,237.32
+     So put that there, take this over to the side.
+},
+{
+    238.28,242.08
+     Right, so let's have a look at those results.
+},
+{
+    242.08,247.0
+     So we can see here your FEV1 is 14% higher than normal so
+},
+{
+    247.0,253.08
+     that's how much you can breathe out in one second. We've got your FEVC so that's
+},
+{
+    253.08,259.08
+     a 4% more than normal so that's how much air you can hold and this is able to
+},
+{
+    259.08,264.36
+     calculate your lung age that's under 25 which the machine is agreeing with. We've
+},
+{
+    264.36,265.92
+     got normal spirometry.
+},
+{
+    265.92,268.96
+     You've done a good blow and the BTS criteria.
+},
+{
+    268.96,272.72
+     So some of the respiratory specialists have this criteria.
+},
+{
+    272.72,275.28
+     That's all normal and is excellent.
+},
+{
+    275.28,277.32
+     So we've given you a clean bill of health
+},
+{
+    277.32,279.48
+     with regard to your lungs.
+},
+{
+    279.48,281.24
+     Do you have any questions for me at the moment?
+},
+{
+    281.24,282.08
+     No.
+},
+{
+    282.08,287.0
+     Super, well, thank you for your time.
+},

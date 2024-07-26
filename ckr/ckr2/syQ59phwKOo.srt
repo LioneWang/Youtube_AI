@@ -1,0 +1,220 @@
+{
+    0.0,13.32
+     If we want to talk about health issues in California, then skin cancer needs to be right
+},
+{
+    13.32,14.72
+     at the top.
+},
+{
+    14.72,20.32
+     More than 8,000 new cases of melanoma, which is the most deadly form of skin cancer, will
+},
+{
+    20.32,23.24
+     be diagnosed here in California this year.
+},
+{
+    23.24,25.48
+     We're seeing an alarming trend.
+},
+{
+    25.48,28.16
+     More and more young women are being diagnosed
+},
+{
+    28.16,30.8
+     with more advanced stages of melanoma.
+},
+{
+    30.8,33.2
+     We're also seeing something else that's unusual.
+},
+{
+    33.2,35.8
+     We're now seeing more melanoma on the breast,
+},
+{
+    35.8,37.6
+     the trunk, and the groin.
+},
+{
+    37.6,40.24
+     And those are areas that aren't typically exposed
+},
+{
+    40.24,41.2
+     to sunlight.
+},
+{
+    41.2,43.28
+     So what's the culprit?
+},
+{
+    43.28,46.2
+     Most likely it's the tanning bed. So as a
+},
+{
+    46.2,50.8
+     dermatologist I would like to tell you what I think is important to know about
+},
+{
+    50.8,57.52
+     ultraviolet or UV radiation. There are two main types of ultraviolet rays. UVB is
+},
+{
+    57.52,62.88
+     the burning ray. That's easy to remember. That's the ray that causes sunburn on a
+},
+{
+    62.88,69.0
+     sunny day. UVA is a longer wavelength ray and it is the aging ray.
+},
+{
+    69.0,73.0
+     It goes through clouds, so that's what causes sunburn on a cloudy day.
+},
+{
+    73.0,78.0
+     Because it's a longer wavelength, it also penetrates the skin a little bit more deeply
+},
+{
+    78.0,81.0
+     and is responsible for photoaging.
+},
+{
+    81.0,86.68
+     Now, when UVB and UVA radiation accumulates in the skin, that's where we
+},
+{
+    86.68,91.92
+     get into trouble. It all happens at the DNA level. DNA is made of various
+},
+{
+    91.92,97.52
+     proteins. They're the building blocks of life, but UVA and UVB rays damage a
+},
+{
+    97.52,103.16
+     specific protein in your DNA. This damaged protein is responsible for tanning
+},
+{
+    103.16,108.56
+     your skin and it's the same protein that transforms a cell into producing skin cancer.
+},
+{
+    109.76,115.2
+     So now we know. Potentially life-threatening DNA damage can happen just when we tan our skin.
+},
+{
+    115.76,118.8
+     You don't even need to get a burn to increase your risk of skin cancer.
+},
+{
+    119.44,123.76
+     That's why I tell my patients that there is no such thing as a safe tan.
+},
+{
+    123.76,127.32
+     So what can you do today to help prevent skin cancer?
+},
+{
+    127.32,129.44
+     Well, the first thing you can do is stay out of the tanning
+},
+{
+    129.44,130.72
+     booth.
+},
+{
+    130.72,134.4
+     If you want a tan, spray it on or rub it on.
+},
+{
+    134.4,137.48
+     This is safe.
+},
+{
+    137.48,140.12
+     Tip number two, block it out.
+},
+{
+    140.12,144.0
+     This is a shot glass full of my SPF 30 plus sunscreen.
+},
+{
+    144.0,148.0
+     And this is how much you need to use 15 minutes before you go out in the sun
+},
+{
+    148.0,150.56
+     and every two hours that you are in the sun.
+},
+{
+    150.56,154.16
+     This is the same amount that you need to use after swimming and sweating.
+},
+{
+    155.68,158.56
+     Now that we have sunscreen on, it's time to cover up.
+},
+{
+    158.56,163.2
+     Here is my BroadBrim Sun Hat, my sunshirt with its tightly woven fabric.
+},
+{
+    163.2,165.68
+     This is my swim shirt and I always
+},
+{
+    165.68,168.72
+     remember my SPF 20 protective lip balm.
+},
+{
+    168.72,172.16
+     I keep this stuff handy so that I can grab it when I'm on the go.
+},
+{
+    172.16,174.88
+     Tip number three, time your exposure.
+},
+{
+    174.88,179.52
+     Did you know that the sun's rays are most intense between the hours of 10 and 2?
+},
+{
+    179.52,187.94
+     So if you're out in the sun at that time, find a tree or an umbrella or a pop-up, seek some shade, just knowing where the sun is
+},
+{
+    187.94,190.76
+     and acting responsibly can greatly reduce your risk
+},
+{
+    190.76,192.16
+     of skin cancer.
+},
+{
+    192.16,195.6
+     Remember, there will be over 8,000 new cases
+},
+{
+    195.6,198.44
+     of melanoma diagnosed at the state of California this year
+},
+{
+    198.44,201.08
+     and I don't want you to be one of them.
+},
+{
+    201.08,202.6
+     As far as fashion is concerned,
+},
+{
+    202.6,206.08
+     well, they're saying pale is the new tan anyway.
+},
+{
+    206.08,209.96
+     So with that in mind, have a SunSafe Day.
+},

@@ -1,0 +1,108 @@
+{
+    0.0,11.1
+     Place ear splints assembly against user's head behind ear.
+},
+{
+    11.1,15.78
+     Adjust the ear splints assembly so that the ear is within any closing points.
+},
+{
+    15.78,20.1
+     Ear splints are designed to fit almost any size or shape of the human ear.
+},
+{
+    20.1,23.78
+     If the ear protrudes assembly, simply adjust accordingly.
+},
+{
+    23.78,25.6
+     Take both jars of impression material
+},
+{
+    25.6,27.34
+     and the one teaspoon measuring spoon
+},
+{
+    27.34,30.4
+     and measure out one and a half teaspoons of catalyst
+},
+{
+    30.4,31.76
+     and of base.
+},
+{
+    32.76,34.72
+     Make sure to level off measuring spoon
+},
+{
+    34.72,37.08
+     to ensure proper amount.
+},
+{
+    37.08,40.54
+     Be careful not to contaminate between base and catalyst.
+},
+{
+    43.56,47.0
+     Knead the two parts together with clean hands until uniform in color.
+},
+{
+    56.0,61.0
+     Once the materials are mixed together, roll out into the shape of a rope approximately 3 to 4 inches long.
+},
+{
+    65.0,71.0
+     three to four inches long. Lay out and press impression material into the inner tray of the ear splint's assembly.
+},
+{
+    71.0,82.0
+     Press down around edges so that the impression material is about half the height of the inner tray's sidewalls.
+},
+{
+    82.0,87.0
+     Reposition the assembly with impression material back against the user's head.
+},
+{
+    87.0,93.0
+     While gently pushing forward on the assembly, press the ear into the impression material.
+},
+{
+    93.0,101.0
+     Once satisfied, make sure the assembly can close and then hold in place for approximately 5 minutes for the inner impression to set.
+},
+{
+    107.28,112.0
+     to set. To make the outer ear impression, repeat the steps of mixing 1.5 teaspoons of catalyst
+},
+{
+    112.0,116.24
+     and 1.5 teaspoons of baste and knead into a ball.
+},
+{
+    116.24,119.92
+     With the ear splint's assembly and the inner impression in place between the user's head
+},
+{
+    119.92,135.56
+     and ear, gently push the impression material along those portions of the ear where the support is desired, such as the outer perimeter of the outwardly facing surfaces.
+},
+{
+    135.56,140.22
+     While the impression material is still malleable, close the assembly to obtain an impression
+},
+{
+    140.22,145.3
+     of the ear. Hold firmly in place with hands until set, approximately five minutes.
+},
+{
+    145.3,150.9
+     Open the ear splint assembly once the impression has had time to set. Remove,
+},
+{
+    150.9,155.78
+     inspect, and replace to ensure proper fit.
+},
+{
+    161.42,165.0
+     Use the ear splint's headband to hold in place.
+},

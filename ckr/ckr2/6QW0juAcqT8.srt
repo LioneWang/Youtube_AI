@@ -1,0 +1,40 @@
+{
+    0.0,5.68
+     To successfully reduce gum swelling, brush your teeth regularly using circular motions.
+},
+{
+    5.68,9.6
+     Make sure to floss your teeth at least once a day to get rid of plaque
+},
+{
+    9.6,13.92
+     and gargle with a saltwater solution to kill unwanted bacteria.
+},
+{
+    13.92,19.84
+     If you need immediate relief, try placing a hot compress over your mouth to soothe gum pain
+},
+{
+    19.84,23.12
+     or use a cold compress to bring the swelling down.
+},
+{
+    23.12,26.18
+     Drink plenty of water to keep your mouth clean
+},
+{
+    26.18,29.0
+     and stay away from gum irritants like tobacco,
+},
+{
+    29.0,31.36
+     alcohol, and harsh mouthwash.
+},
+{
+    31.36,34.36
+     For tips from our reviewer on preventing gum swelling,
+},
+{
+    34.36,35.2
+     scroll down.
+},

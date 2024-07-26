@@ -1,0 +1,492 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    10.0,12.0
+     Hi, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.0,13.0
+     Brad, how do you do physical therapists?
+},
+{
+    13.0,15.0
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    15.0,17.0
+     I think your mic's working, Bob.
+},
+{
+    17.0,18.0
+     Enthusiasm, Bob.
+},
+{
+    18.0,23.0
+     Okay, today we're going to go over the best TMJ treatment you can do yourself.
+},
+{
+    23.0,29.8
+     Now, there's a lot of treatments that can be done, but this is the best one you can do yourself. TMJ, temporal mandibular or, well
+},
+{
+    29.8,36.56
+     actually you could call it TMJ, the mouth joint. No, temporal mandibular joint. Right.
+},
+{
+    36.56,43.6
+     And it's actually temporal mandibular disorders. Right. The joint is Alas, poor York, I knew
+},
+{
+    43.6,46.68
+     him Horatio. That's a little culture here Brad.
+},
+{
+    46.68,47.68
+     Let's get on with it.
+},
+{
+    47.68,49.56
+     All right Brad the joint is right here.
+},
+{
+    49.56,51.56
+     So right there.
+},
+{
+    51.56,54.48
+     Yeah you don't have your pointer today. Or do you?
+},
+{
+    54.48,55.48
+     Well yeah.
+},
+{
+    55.48,60.64
+     Okay well point right where it is and I'm going to actually pull this off.
+},
+{
+    60.64,61.64
+     Focus it in.
+},
+{
+    61.64,63.4
+     You can see the joint there. Got it Lonnie?
+},
+{
+    63.4,65.0
+     Dislocated and together.
+},
+{
+    65.0,66.0
+     Yep.
+},
+{
+    66.0,71.0
+     Alright, now when you're having TMJ problems, it's either that joint that's giving you trouble
+},
+{
+    71.0,73.8
+     or the muscles around the joint.
+},
+{
+    73.8,74.8
+     The ones that make it function.
+},
+{
+    74.8,77.04
+     Yep, the ones that close the jaw.
+},
+{
+    77.04,80.12
+     The one is the masseter, which is right here.
+},
+{
+    80.12,81.32
+     And the other one is the temporalis.
+},
+{
+    81.32,82.72
+     And this is actually a good picture.
+},
+{
+    82.72,88.52
+     You want to hold that together. So, Masider and Temporalis.
+},
+{
+    88.52,90.44
+     And you might even want to look at the fibers of that,
+},
+{
+    90.44,92.04
+     how the fibers are running.
+},
+{
+    92.04,93.48
+     Because we're going to be showing you
+},
+{
+    93.48,95.64
+     how to do your own massage to these.
+},
+{
+    95.64,98.12
+     And you want to go across the fibers at one point.
+},
+{
+    98.12,100.72
+     We're going to show you how to make circular massage
+},
+{
+    100.72,101.84
+     across the fibers.
+},
+{
+    101.84,103.44
+     Looks like one of those fans, you know?
+},
+{
+    103.44,104.16
+     Yeah, it does.
+},
+{
+    104.16,105.6
+     Looks like a little Japanese fan.
+},
+{
+    105.6,111.28
+     So, all right, let's go ahead and start Brad. Very good. You're going to go ahead and do the
+},
+{
+    111.28,116.9
+     massage. Yeah, so this is you're going to have pain here, maybe problems opening and closing your
+},
+{
+    116.9,120.12
+     jaws with the symptoms. Yeah, you have tension. A lot of times people are grinding their teeth at
+},
+{
+    120.12,125.12
+     night. Sure. Bruxism. You know, you wake up, you have little bits of teeth in your mouth. No.
+},
+{
+    125.12,126.16
+     OK.
+},
+{
+    126.16,130.0
+     All right, so a lot of times people get ear aches,
+},
+{
+    130.0,132.48
+     and they think that it's ear infection even.
+},
+{
+    132.48,133.76
+     So it's from the joint.
+},
+{
+    133.76,137.72
+     Popping joint, clicking, making noises, headaches.
+},
+{
+    137.72,138.2
+     Sure.
+},
+{
+    138.2,140.52
+     So all right, the first one we're going to start off with
+},
+{
+    140.52,143.2
+     is almost more of a myofascial technique, Brad.
+},
+{
+    143.2,144.84
+     So you're going to put your hands,
+},
+{
+    144.84,149.84
+     and your fingers should have enough oil on it that you don't really need to use any
+},
+{
+    149.84,154.48
+     oil. You're going to start on the bottom of the massager here. You're going to push in
+},
+{
+    154.48,159.16
+     and then while you're pushing in you're just going to let it roll up towards the top. So
+},
+{
+    159.16,163.32
+     it should be right on the muscle here. Right on the mandible here on the jaw and going
+},
+{
+    163.32,165.68
+     right up. Yeah, it feels good.
+},
+{
+    165.68,170.0
+     If you're eating chicken, you'll have plenty of grease on your fingers to do this.
+},
+{
+    170.0,171.0
+     All right.
+},
+{
+    171.0,173.92
+     And then now we're going to go up into the Temporalis.
+},
+{
+    173.92,174.92
+     Brad, yep.
+},
+{
+    174.92,175.92
+     The same thing.
+},
+{
+    175.92,178.76
+     You're just going to push in and push up.
+},
+{
+    178.76,179.76
+     Feels good.
+},
+{
+    179.76,180.76
+     Yep.
+},
+{
+    180.76,181.76
+     This isn't going to hurt for everybody even if you're having headaches.
+},
+{
+    181.76,182.76
+     It's good.
+},
+{
+    182.76,183.76
+     Yeah, it's going to be good for headaches.
+},
+{
+    183.76,185.8
+     Get those pain here for headaches.
+},
+{
+    185.8,189.68
+     This is one of those treatments that you really can't go wrong with.
+},
+{
+    189.68,192.08
+     If it doesn't help your pain here.
+},
+{
+    192.08,194.08
+     Right, there's nothing harmful here.
+},
+{
+    194.08,196.32
+     There's nothing good about this.
+},
+{
+    196.32,199.92
+     Alright, the next one Brad, just going to go ahead and using these three fingertips,
+},
+{
+    199.92,202.76
+     you're going to go right straight down like this.
+},
+{
+    202.76,211.44
+     And again, don't get into your cheek. We're back here. So we remember it's back. Yeah, the zygomatic arch wasn't that there you go
+},
+{
+    211.44,213.28
+     from your anatomy
+},
+{
+    213.28,214.52
+     So
+},
+{
+    214.52,217.32
+     Okay, the same with this one you're gonna. Just push up rad then
+},
+{
+    218.76,224.48
+     Okay, you can feel you know what to get used to the feeling underneath the skin where you're on the muscle
+},
+{
+    224.56,226.96
+     You know you should be able to do this.
+},
+{
+    226.96,227.96
+     Right.
+},
+{
+    227.96,230.2
+     Alright, the next one you're going to do Brad is you're actually going to do circles
+},
+{
+    230.2,231.2
+     now.
+},
+{
+    231.2,233.16
+     Now you can do it with the three fingertips, you can do it with your knuckles.
+},
+{
+    233.16,234.16
+     Okay.
+},
+{
+    234.16,237.92
+     And you're going to go like this, across the muscle like this.
+},
+{
+    237.92,239.92
+     Making circles, going across the muscle.
+},
+{
+    239.92,242.48
+     Remember, we're trying to go across those fibers.
+},
+{
+    242.48,245.92
+     You know, the fibers, we're going to cross them. And across the, we're going to go up those fibers. You know the fibers we're going to cross them across deep
+},
+{
+    245.92,249.06
+     We're gonna go up here and hit those up here cross the fibers
+},
+{
+    251.24,253.24
+     You seen any of this Lonnie I
+},
+{
+    254.16,260.92
+     Like this actually really relaxing very soon. All right the last set that you're gonna do Brad is you're actually gonna hold open
+},
+{
+    260.92,273.56
+     Hold open your jaw and then you can do the same massage. You can do the circle. I can't understand you Bob. So actually hold it open.
+},
+{
+    273.56,277.76
+     Is the jaw supposed to be loose then? Yeah. So you're trying to keep the muscles
+},
+{
+    277.76,289.36
+     relaxed. Yeah. Okay. That's different. Definitely different. And then you can also work it up in the temporalis.
+},
+{
+    289.36,291.92
+     I think you've got an idea.
+},
+{
+    291.92,293.84
+     So seriously this can actually help.
+},
+{
+    293.84,297.36
+     You can do 30 to 60 seconds each side.
+},
+{
+    297.36,298.68
+     You can do them together obviously.
+},
+{
+    298.68,299.68
+     Sure.
+},
+{
+    299.68,302.96
+     30 to 60 seconds on each muscle.
+},
+{
+    302.96,305.36
+     And you could even do this a couple times a day, Brad.
+},
+{
+    305.36,308.0
+     There's just really nothing negative about doing it.
+},
+{
+    308.0,310.0
+     Right, I think if you get positive results,
+},
+{
+    310.0,311.16
+     you can do it as needed.
+},
+{
+    311.16,313.56
+     Now, we're also gonna do another video
+},
+{
+    313.56,315.76
+     on the top three exercises you should do.
+},
+{
+    315.76,317.92
+     Now, these exercises are not gonna give you
+},
+{
+    317.92,319.88
+     immediate relief by any means.
+},
+{
+    319.88,321.04
+     They're for the long haul.
+},
+{
+    321.04,322.84
+     They're trying to prevent these muscles
+},
+{
+    322.84,324.2
+     from giving you trouble in the future.
+},
+{
+    324.2,325.24
+     There's a whole bunch of things about TMJ, They're for the long haul. They're trying to prevent these muscles from giving you trouble in the future. Sure.
+},
+{
+    325.24,330.72
+     There's a whole bunch of things about TMJ, posture that come into play and those exercises
+},
+{
+    330.72,332.36
+     are going to help you so.
+},
+{
+    332.36,334.6
+     When I get that one down, I'm going to link it to this one.
+},
+{
+    334.6,335.6
+     Okay.
+},
+{
+    335.6,336.6
+     Good idea.
+},
+{
+    336.6,337.6
+     So we'll see you at the end.
+},
+{
+    337.6,338.6
+     All right.
+},
+{
+    338.6,339.6
+     Thanks for watching.
+},
+{
+    339.6,339.8
+     Excellent.
+},

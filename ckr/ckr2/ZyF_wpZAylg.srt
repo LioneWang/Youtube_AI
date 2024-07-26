@@ -1,0 +1,156 @@
+{
+    0.0,5.98
+     Alright, now let's cover infant rescue breathing.
+},
+{
+    5.98,10.9
+     This is going to be used when you have a baby who is not breathing or not breathing normally,
+},
+{
+    10.9,13.24
+     but they do have a brachial pulse.
+},
+{
+    13.24,16.28
+     Now, in this scenario, we've assessed the scene.
+},
+{
+    16.28,17.28
+     The scene is safe.
+},
+{
+    17.28,18.28
+     Our gloves are on.
+},
+{
+    18.28,19.68
+     Our CPR shield is available.
+},
+{
+    19.68,22.4
+     We check to see if the baby is responsive.
+},
+{
+    22.4,23.4
+     They're not responsive.
+},
+{
+    23.4,25.0
+     We can see that they're not breathing.
+},
+{
+    25.0,28.84
+     We activate the emergency medical services or call a code.
+},
+{
+    28.84,32.32
+     We check a break-yell pulse for no more than 10 seconds.
+},
+{
+    32.32,36.2
+     I do feel a pulse easily in the break-yell artery
+},
+{
+    36.2,39.96
+     but the baby's still not breathing. So I'm going to begin rescue breathing.
+},
+{
+    39.96,43.28
+     I'm going to cover the mouth and the nose of the baby
+},
+{
+    43.28,50.54
+     with a mask, sealing all the way around, tilting the head back into a neutral position, giving one breath every three seconds
+},
+{
+    50.54,53.54
+     for about two minutes.
+},
+{
+    53.54,60.54
+     Checking for chest rise and fall, and readjusting the head until you get good air into the lungs,
+},
+{
+    60.54,63.4
+     getting a good chest rise and fall.
+},
+{
+    63.4,66.86
+     After two minutes, I'm going to reassess the brachial artery.
+},
+{
+    66.86,70.74
+     If I do not feel a pulse, I'm going to move right into CPR.
+},
+{
+    70.74,75.18
+     If I feel a pulse but there's still no breathing, continue rescue breathing one breath every
+},
+{
+    75.18,77.46
+     three seconds for two minutes.
+},
+{
+    77.46,79.82
+     After two minutes, reassess the pulse.
+},
+{
+    79.82,87.0
+     We're only going to stop rescue breathing and checking pulses when an AED arrives and we hook them up to the AED
+},
+{
+    87.0,91.16
+     when they're pulse-less and or when EMS
+},
+{
+    91.16,93.16
+     or the next level of care arrives.
+},
+{
+    93.16,96.84
+     Baby, baby, are you all right?
+},
+{
+    96.84,97.68
+     Are you okay?
+},
+{
+    97.68,98.96
+     There's no response.
+},
+{
+    98.96,100.68
+     They don't appear to be breathing.
+},
+{
+    100.68,102.56
+     Go activate the emergency medical services
+},
+{
+    102.56,104.46
+     or call 911 or call a code.
+},
+{
+    107.0,140.28
+     Checking to break your pulse. Yep, minutes, then check a pulse.
+},
+{
+    140.28,145.6
+     If the pulse is still present, but the baby's not breathing, I'll continue rescue breathing
+},
+{
+    145.6,148.34
+     one breath every three seconds for another two minutes.
+},
+{
+    148.34,153.76
+     If the pulse is gone and the baby's not breathing, I'm going to start CPR.
+},
+{
+    153.76,159.44
+     I'll do this until an AED arrives in the pulseless baby or until emergency medical services arrive
+},
+{
+    159.44,160.0
+     and takes over.
+},

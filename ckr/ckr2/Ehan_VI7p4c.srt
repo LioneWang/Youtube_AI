@@ -1,0 +1,848 @@
+{
+    0.0,4.0
+     What's up guys? Hey, Jared Bechstrand here, doctor of physical therapy, tonentitan.com,
+},
+{
+    4.0,8.16
+     talking all about ankle sprains today and specifically about seven things that you need
+},
+{
+    8.16,13.84
+     to be doing after your ankle sprain in order to rehab that injury effectively. Let's get into it right now.
+},
+{
+    22.88,26.04
+     All right, you guys. Hey, thank you so much for joining me today right here on Tone and
+},
+{
+    26.04,27.04
+     Titan.
+},
+{
+    27.04,28.88
+     I'm excited to talk about some of this with you guys.
+},
+{
+    28.88,31.56
+     Share a little bit of what I know and I hope to be able to help you out of some of the
+},
+{
+    31.56,33.14
+     pain that you're experiencing.
+},
+{
+    33.14,37.04
+     More importantly than that, I hope to be able to give you some tips that are going to help
+},
+{
+    37.04,38.88
+     you to avoid this injury in the future.
+},
+{
+    38.88,42.24
+     These ankle sprains kind of become a recurring thing.
+},
+{
+    42.24,48.96
+     Let's try to avoid that as much as possible by helping you to rehab it the right way. As always, if you find the information that I share
+},
+{
+    48.96,52.96
+     useful, go ahead and hit that thumbs up button down below. And of course, if you haven't done so
+},
+{
+    52.96,57.36
+     already, I'd love to see you here more regularly. That red box right down in the corner, click on
+},
+{
+    57.36,61.76
+     that to subscribe to Tonentight and right here on YouTube. Okay, so let's talk about ankle sprains.
+},
+{
+    61.76,71.8
+     So first of all, I assume if you're here, if you're watching this video You have probably sprained your ankle and you're interested in some exercises that you can do to help rehab it and to help recover
+},
+{
+    72.2,77.32
+     First things first leave me in a comment down below how you sprained your ankle. I'd like to hear that story
+},
+{
+    77.32,81.84
+     I do have to say with this video as I started to prepare for this video
+},
+{
+    81.84,85.52
+     I learned very quickly that there's just an incredible
+},
+{
+    85.52,90.24
+     amount of knowledge. There's an incredible number of things that I wanted to share with you guys
+},
+{
+    90.24,95.6
+     that you're going to benefit from. What I decided to do is break this up into two videos. So with
+},
+{
+    95.6,101.84
+     this video, this is going to be for your acute ankle sprain, meaning it recently happened within
+},
+{
+    101.84,105.4
+     the last maybe week or two weeks. Still super painful.
+},
+{
+    105.4,107.3
+     You're not walking on it very well.
+},
+{
+    107.3,112.2
+     Those are the types of things that I wanted to help you guys out with with this video.
+},
+{
+    112.2,116.7
+     However, if it's been more than two weeks or if you're already walking on it,
+},
+{
+    116.7,118.7
+     if it's like a little bit of some nagging pain,
+},
+{
+    118.7,120.2
+     if you're not quite running yet,
+},
+{
+    120.2,123.1
+     you want to kind of get back to the higher level activities.
+},
+{
+    123.1,125.76
+     These might be a little bit too simple for you.
+},
+{
+    125.92,130.24
+     That being said, I've also got another video that I'm working on that I have
+},
+{
+    130.24,133.16
+     shot that's going to be for you.
+},
+{
+    133.16,137.6
+     That's going to be the best exercises for ankle strength and ankle stability
+},
+{
+    137.72,140.04
+     to help you to return to some of those higher level activities.
+},
+{
+    140.04,142.64
+     What I want you to do, if you're interested in that one, check the
+},
+{
+    142.64,144.48
+     description down below.
+},
+{
+    144.56,148.68
+     I've linked that video down there. I'm also going to float it right up here right now.
+},
+{
+    148.68,152.36
+     Click on that link. That will take you to some of those higher level activities. But
+},
+{
+    152.36,157.88
+     for now, let's show you how to rehabilitate these acute ankle injuries.
+},
+{
+    157.88,163.96
+     So when we talk about ankle sprains, greater than 70% of those actually happen to the outside
+},
+{
+    163.96,165.0
+     of the foot.
+},
+{
+    165.0,167.4
+     I've drawn in the three ligaments that are responsible
+},
+{
+    167.4,170.16
+     for the integrity on that lateral side of your foot.
+},
+{
+    170.16,172.54
+     Now, the majority of these ankle sprains happen
+},
+{
+    172.54,174.3
+     when we roll our foot inwards.
+},
+{
+    174.3,177.28
+     Your foot basically inverts, comes to the inside,
+},
+{
+    177.28,179.54
+     and it stretches those ligaments out.
+},
+{
+    179.54,182.3
+     Most of the time, it's this guy right here in the front.
+},
+{
+    182.3,187.8
+     It's this ATFL that's been injured. And so that the one you know just kind of keep that in mind. The
+},
+{
+    187.8,192.72
+     majority of ankle sprains happen to that guy right there on the outside. That
+},
+{
+    192.72,197.0
+     being said also just remember to quick caveat to this. Make sure that if you do
+},
+{
+    197.0,200.46
+     have an ankle sprain just go get that checked out by your doctor first. You
+},
+{
+    200.46,203.68
+     don't want to be aggressively rehabbing it. You don't want to be doing a lot of
+},
+{
+    203.68,206.08
+     these exercises if it is broken.
+},
+{
+    206.08,207.96
+     Make sure that you go and get it checked out.
+},
+{
+    207.96,209.16
+     Make sure that it's not broken.
+},
+{
+    209.16,210.96
+     If it's not broken, feel free to jump in
+},
+{
+    210.96,213.34
+     and start some of these exercises.
+},
+{
+    213.34,215.68
+     So the first thing that I like to talk about is
+},
+{
+    215.68,217.62
+     we've got to get rid of the inflammation
+},
+{
+    217.62,219.32
+     and swelling in that joint.
+},
+{
+    219.32,221.2
+     If you guys have followed me for any amount of time,
+},
+{
+    221.2,222.92
+     you know I love the acronym rice.
+},
+{
+    222.92,229.96
+     Rice stands for rest, ice, compression, and elevation. Rest, don't use it. If it hurts, don't do it.
+},
+{
+    229.96,235.42
+     Ice, strap an ice pack on there regularly. I say 20 minutes on, 20 minutes off. Do
+},
+{
+    235.42,240.04
+     that four, five, six times a day. Compression is another great thing that
+},
+{
+    240.04,245.4
+     you can do for it. What I recommend to people is they do sell some really good braces.
+},
+{
+    245.4,248.0
+     This is actually the brace that I used
+},
+{
+    248.0,250.88
+     after I sprained my ankle.
+},
+{
+    250.88,253.0
+     And the reason that I like this is because
+},
+{
+    253.0,254.68
+     it's got these straps on it.
+},
+{
+    254.68,256.48
+     Basically what we're gonna do is we're gonna do up
+},
+{
+    256.48,258.52
+     the laces right here in the front,
+},
+{
+    258.52,260.32
+     and that can come all the way up.
+},
+{
+    260.32,262.16
+     But then the reason why I like this one
+},
+{
+    262.16,263.64
+     is it's got these straps on it.
+},
+{
+    263.64,267.88
+     So you're gonna come down and around and up on that side down
+},
+{
+    268.68,271.0
+     Make sure it's all straight. There we go
+},
+{
+    271.96,279.34
+     down and around and up on that side and then this one comes around the front to just kind of lock everything in place now
+},
+{
+    279.72,282.4
+     Obviously, I would since cinch that up tighter
+},
+{
+    282.4,285.56
+     I would have a sock on underneath this,
+},
+{
+    285.56,288.56
+     but that's just gonna help to keep things locked into place.
+},
+{
+    288.56,290.56
+     We're not gonna get a ton of motion out of that,
+},
+{
+    290.56,293.0
+     but it's a great way that you can add some compression
+},
+{
+    293.0,295.76
+     to that whole system also to help to work
+},
+{
+    295.76,296.96
+     some of that swelling out.
+},
+{
+    296.96,299.0
+     Check the link down below if you're interested
+},
+{
+    299.0,301.48
+     in picking up a brace like this one.
+},
+{
+    301.48,302.56
+     We'll get you hooked up.
+},
+{
+    302.56,305.28
+     Okay, and then finally the last thing that we're gonna do,
+},
+{
+    305.28,307.32
+     the E is elevation.
+},
+{
+    307.32,310.68
+     Again, just using a means to use gravity
+},
+{
+    310.68,312.16
+     to get some of that swelling out of there.
+},
+{
+    312.16,315.2
+     So rice is the first thing that I want you to remember.
+},
+{
+    315.2,316.64
+     The next thing that you need to be doing
+},
+{
+    316.64,319.72
+     is some gentle, what we call cross-friction massage.
+},
+{
+    319.72,323.8
+     So keep in mind the orientation of this ligament right here.
+},
+{
+    323.8,324.64
+     What I would have you do
+},
+{
+    324.64,326.86
+     is just put a little lotion in that area and then you're just
+},
+{
+    326.86,329.7
+     going to work that spot over back and forth.
+},
+{
+    329.7,333.94
+     It's going to be a little tender to the touch at first, but the more that you work that
+},
+{
+    333.94,337.88
+     over, the more basically the goal is twofold with this.
+},
+{
+    337.88,340.74
+     We want to work some of the scar tissue out of it.
+},
+{
+    340.74,344.5
+     Ligaments are super hard to heal because they have a really poor blood supply to them.
+},
+{
+    344.5,347.76
+     So this is a great way to promote blood flow into that area.
+},
+{
+    347.76,352.86
+     So some cross-friction massage for about two to three minutes a couple of times a day is
+},
+{
+    352.86,354.72
+     going to be really good for it also.
+},
+{
+    354.72,356.52
+     Okay, let's get into some exercises.
+},
+{
+    356.52,358.04
+     Let's get into some stretches.
+},
+{
+    358.04,363.64
+     The first thing that I like to show people is a seated calf stretch.
+},
+{
+    363.64,366.84
+     Now you can do this one, so I tell people,
+},
+{
+    366.84,370.98
+     grab a towel or a sheet or a belt works well,
+},
+{
+    370.98,372.4
+     and simply what you're going to do
+},
+{
+    372.4,374.72
+     is loop that around the top of your foot,
+},
+{
+    374.72,378.6
+     and then you're going to use the ends of the towel
+},
+{
+    378.6,381.36
+     or whatever you're using to just kind of pull up towards you,
+},
+{
+    381.36,383.46
+     just give it a little gentle pressure,
+},
+{
+    383.46,384.92
+     just as much as you can tolerate.
+},
+{
+    384.92,385.04
+     I don't want a ton of pain with this. If it is too painful, you, just give it a little gentle pressure, just as much as you can tolerate.
+},
+{
+    385.04,387.0
+     I don't want a ton of pain with this.
+},
+{
+    387.0,391.06
+     If it is too painful, you might be doing it a little bit too early.
+},
+{
+    391.06,395.1
+     Just a great way to start to work some passive motion into that ankle.
+},
+{
+    395.1,398.6
+     So what I tell people is hold for about 20 seconds and then let it go, and then you're
+},
+{
+    398.6,399.92
+     going to repeat that three times.
+},
+{
+    399.92,403.64
+     So three times, 20 second holds with the towel stretch, and then you're going to do that
+},
+{
+    403.64,405.2
+     one two to three times a day.
+},
+{
+    405.2,407.88
+     So that would be what we call passive range of motion.
+},
+{
+    407.88,409.88
+     We also want to start to work in
+},
+{
+    409.88,411.84
+     what we'd call active range of motion.
+},
+{
+    411.84,413.8
+     My favorite way to do that is with
+},
+{
+    413.8,415.84
+     what we'd call ankle ABCs.
+},
+{
+    415.84,418.4
+     Make sure that you guys can see what I'm doing here.
+},
+{
+    418.4,420.64
+     Seated with your foot unsupported,
+},
+{
+    420.64,422.32
+     and then just what I tell people is pretend
+},
+{
+    422.32,424.28
+     like your big toe is a big marker,
+},
+{
+    424.28,428.64
+     and then you're just tell people is pretend like your big toe is a big marker and then you're just going to do capital A, capital B and you're going to run through
+},
+{
+    428.64,434.56
+     the ABCs. That's going to literally hit every possible end range of motion in your ankle.
+},
+{
+    434.56,440.2
+     It's just a much more efficient way of doing it. Do as many as you can tolerate. If you
+},
+{
+    440.2,445.12
+     can get through the entire alphabet once, that's great. If you can do the entire alphabet a couple three times a day,
+},
+{
+    445.36,448.44
+     that's going to be even better for it. So ankle ABCs.
+},
+{
+    449.8,452.72
+     And finally, just a couple of exercises in weight bearing.
+},
+{
+    452.72,456.16
+     The first thing we need to do is get you used to weight bearing on it again.
+},
+{
+    456.52,459.26
+     And so let's say it's this left side that I've injured.
+},
+{
+    459.26,462.0
+     You're probably spending a lot of time hopping around on your right side,
+},
+{
+    462.02,464.06
+     not wanting to put any weight on the left.
+},
+{
+    464.32,467.6
+     What you can do is start by just putting that foot down.
+},
+{
+    467.6,469.4
+     You'll see that I'm still pretty loaded here
+},
+{
+    469.4,470.44
+     on the right side.
+},
+{
+    470.44,473.92
+     But then all I'm going to do is practice shifting my weight
+},
+{
+    473.92,476.6
+     onto that left side, holding it there
+},
+{
+    476.6,478.52
+     for extending periods of time,
+},
+{
+    478.52,480.72
+     and then shifting back onto the right.
+},
+{
+    480.72,482.24
+     When you do get used to it,
+},
+{
+    482.24,483.76
+     when you can put the majority of weight
+},
+{
+    483.76,490.0
+     on that injured side, what you can do is then start to lift up the other leg just to get that leg used
+},
+{
+    490.0,495.24
+     to weight bearing 100% of your weight instead of 50% of your weight. As soon as we've got
+},
+{
+    495.24,500.84
+     that weight shift down, what you can start to do is some mini squats is a great functional
+},
+{
+    500.84,508.84
+     exercise weight bearing. So I'm 50% weight-bearing on each foot and then I'm just really simple gonna unlock my knees and then stand right back up.
+},
+{
+    508.84,513.72
+     Unlock my knees and then stand right back up. Again, assuming it's this left side
+},
+{
+    513.72,517.96
+     that's injured, what we're doing here is just working in some weight-bearing
+},
+{
+    517.96,522.44
+     motion. So what I tell people is shoot for about 30 reps. If 30 reps feels good,
+},
+{
+    522.44,525.8
+     get up to 60, even 90 reps. A lot of times in the clinic,
+},
+{
+    525.8,527.32
+     I'll just set a timer for people.
+},
+{
+    527.32,529.8
+     I'll just set like a two or three minute timer
+},
+{
+    529.8,532.84
+     and just have them work on these gentle mini squats
+},
+{
+    532.84,534.68
+     is what we call those.
+},
+{
+    534.68,537.6
+     Next, let's get an even more significant angle
+},
+{
+    537.6,541.48
+     into that calf with a gastrocnemius and soleus stretch.
+},
+{
+    542.24,544.88
+     I'm gonna show you right here on my treatment table.
+},
+{
+    544.88,545.0
+     You can also do this up against the wall if going to show you right here on my treatment table. You can
+},
+{
+    545.0,550.64
+     also do this up against the wall if you have a wall right here. I'm still assuming that
+},
+{
+    550.64,555.36
+     it's this left one that's injured. What you're going to do is get into this position with
+},
+{
+    555.36,560.08
+     my knees straight with my foot flat on the floor. And then all I want to do is shift
+},
+{
+    560.08,566.32
+     my weight onto this right foot. Don't go so far that that heel comes up. The goal is to keep your
+},
+{
+    566.32,571.36
+     heel down to introduce more of a stretch to the back of your ankle. So we're going to get into
+},
+{
+    571.36,575.76
+     this stretch position. You're going to feel it. Well, if you've got the acute ankle sprain,
+},
+{
+    575.76,579.44
+     you're going to feel it in your ankle. But then you're also going to feel it up in your calf and
+},
+{
+    579.44,586.52
+     maybe behind your knee a little bit. Shift forward into that stretch position, hold it for 20 seconds,
+},
+{
+    586.52,588.16
+     and then repeat that three times.
+},
+{
+    588.16,590.68
+     So three times, 20 second holds.
+},
+{
+    590.68,592.88
+     That stretches out your gastrocnemius.
+},
+{
+    592.88,594.94
+     The other one that you can do is if I were to get
+},
+{
+    594.94,597.7
+     into this position and then just unlock my knee,
+},
+{
+    597.7,599.96
+     so now you'll see that my left leg is bent,
+},
+{
+    599.96,602.74
+     that stretches a different muscle in your calf.
+},
+{
+    602.74,604.94
+     It's important to keep both of those stretched out.
+},
+{
+    604.94,608.76
+     So that soleus stretch is what we'd call this one,
+},
+{
+    608.76,612.38
+     three times 20 second holds with that one as well.
+},
+{
+    612.38,614.44
+     As your tolerance to activity increases,
+},
+{
+    614.44,616.56
+     we start, want to start to introduce
+},
+{
+    616.56,618.7
+     more strength training exercises.
+},
+{
+    618.7,620.64
+     So heel raises really simple.
+},
+{
+    620.64,623.9
+     I'm flat on the floor and then I'm just gonna raise up
+},
+{
+    623.9,626.56
+     onto my toes and then right back down.
+},
+{
+    626.56,632.28
+     So about 30 reps of this, but again don't feel limited to 30. If you can get 40, 50, 60 of these,
+},
+{
+    632.28,638.44
+     feel free to do that. Start conservatively, maybe start with 30 and then progress up from there.
+},
+{
+    638.44,642.36
+     As soon as you feel like, okay, that's feeling strong, I can take this to the next level.
+},
+{
+    642.36,645.12
+     Jump on a stair. Well, Don't jump on a stair.
+},
+{
+    645.12,650.24
+     But you're going to stand on the edge of a stair and now just let your heels fall below
+},
+{
+    650.24,654.72
+     the level of the stair and then use your calf muscles to get up onto your toes.
+},
+{
+    654.72,658.32
+     Let your heels fall all the way down below the level of the stair and then use your
+},
+{
+    658.32,660.76
+     calf muscles to raise up on your toes.
+},
+{
+    660.76,664.2
+     What you're doing there is just introducing more range of motion.
+},
+{
+    664.2,665.36
+     So from here, I'm going
+},
+{
+    665.36,671.84
+     from basically a 90 degree bend and up, whereas right over here, I can get into more or deeper
+},
+{
+    671.84,675.84
+     than 90 degrees to raise myself up from there.
+},
+{
+    675.84,679.12
+     Hey, thanks so much again for watching. If you haven't done so already, this is the
+},
+{
+    679.12,683.0
+     button right down here to subscribe to Tone and Titan, hit that circle to never miss a
+},
+{
+    683.0,688.56
+     new video from me. Here's phase two, that's that ankle strength and stability rehab video I told you about
+},
+{
+    688.56,689.56
+     down there.
+},
+{
+    689.56,691.52
+     That's one more that you guys might enjoy.
+},
+{
+    691.52,694.08
+     Thanks again for watching and we'll see you next time here on Tonentitin.
+},

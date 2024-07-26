@@ -1,0 +1,1368 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.68,8.02
+     on the internet.
+},
+{
+    9.72,11.44
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    11.44,12.56
+     Brad Heineck, physical therapist.
+},
+{
+    12.56,14.16
+     Because we are the most famous physical therapists
+},
+{
+    14.16,15.0
+     on the internet.
+},
+{
+    15.0,16.0
+     In our opinion, of course, Bob.
+},
+{
+    16.0,18.06
+     We're gonna show you how to heal tennis elbow
+},
+{
+    18.06,19.64
+     with self massage.
+},
+{
+    19.64,23.88
+     So tennis elbow is also known as lateral epicondylitis.
+},
+{
+    23.88,24.72
+     Quite a mouthful, Brad.
+},
+{
+    24.72,26.72
+     Yeah, tennis elbows are easier to say. Right, so as lateral epicondylitis. Quite a mouthful. Tennis elbow is easier to say.
+},
+{
+    26.72,29.22
+     Right, so the lateral epicondyle,
+},
+{
+    29.22,31.26
+     that's that little bump you got here.
+},
+{
+    31.26,33.54
+     You got, you know, if you look at the bottom here,
+},
+{
+    33.54,37.46
+     you got the elbow and then you got two bumps on either side.
+},
+{
+    37.46,39.38
+     This is the bump that's on the outside of the arm
+},
+{
+    39.38,42.5
+     as your palms facing flat up towards the ceiling.
+},
+{
+    42.5,45.16
+     So what do you have here?
+},
+{
+    45.16,48.48
+     Is you have a bunch of muscles here that come along here,
+},
+{
+    48.48,51.24
+     narrow up to a tendon and attach to that bone.
+},
+{
+    51.24,52.36
+     Right there.
+},
+{
+    52.36,56.46
+     So if you overuse this muscle,
+},
+{
+    56.46,58.08
+     and there's also some restrictions
+},
+{
+    58.08,60.6
+     that possibly could cause this that we're gonna talk about,
+},
+{
+    60.6,64.2
+     you can get increased soreness and actually some micro tears.
+},
+{
+    64.2,66.44
+     Sure. Tendon or in the muscle itself.
+},
+{
+    66.44,67.8
+     So tiny little tears.
+},
+{
+    67.8,68.64
+     Tiny little tears.
+},
+{
+    68.64,71.96
+     So what we're gonna show you first is the massage.
+},
+{
+    71.96,74.16
+     Then we're gonna show you some exercises you can do
+},
+{
+    74.16,77.4
+     at the end and we'll tell you why you wanna do those
+},
+{
+    77.4,79.92
+     cause they can help prevent it from coming on again
+},
+{
+    79.92,82.24
+     or for it to continue to happen.
+},
+{
+    82.24,83.84
+     Right, you have some good prevention.
+},
+{
+    83.84,85.48
+     Probably need a pillow again, don't we, Brad?
+},
+{
+    85.48,87.56
+     Yeah, let's do that.
+},
+{
+    87.56,90.28
+     Let's first, we're gonna talk about
+},
+{
+    90.28,92.68
+     massage right on the tendon itself.
+},
+{
+    93.76,97.84
+     So you'll find, it's tendon, you've had this, Brad.
+},
+{
+    97.84,99.28
+     Oh yeah, a number of times.
+},
+{
+    99.28,101.68
+     So here's the bump.
+},
+{
+    101.68,103.36
+     Usually it's right off the bump.
+},
+{
+    103.36,104.2
+     Yep.
+},
+{
+    104.2,105.64
+     Towards the hand. And you right off the bump. Yep. Towards the hand.
+},
+{
+    105.64,107.96
+     And you'll find the tender spot there
+},
+{
+    107.96,110.18
+     and just slightly go over it to start.
+},
+{
+    110.18,112.44
+     I put finger over top of finger.
+},
+{
+    112.44,113.8
+     Give me a little leverage.
+},
+{
+    113.8,116.56
+     Now if it's flared up, I know from experience
+},
+{
+    116.56,118.68
+     it doesn't take much, it's very tender.
+},
+{
+    118.68,120.2
+     And then you don't wanna go over it.
+},
+{
+    120.2,122.64
+     If it really hurts, you're gonna go away from it
+},
+{
+    122.64,124.0
+     more towards the muscle.
+},
+{
+    124.0,124.84
+     Right.
+},
+{
+    124.84,125.72
+     And work away from it. And the muscle and work away from it
+},
+{
+    125.72,127.96
+     and then you work your way towards it as it improves.
+},
+{
+    127.96,129.28
+     That might take a few days.
+},
+{
+    129.28,130.88
+     This is a bad day to be doing this Brad,
+},
+{
+    130.88,131.88
+     with your finger.
+},
+{
+    131.88,134.84
+     Oh, actually, actually, it's kind of healed up.
+},
+{
+    134.84,136.0
+     I won't take that off.
+},
+{
+    136.0,141.0
+     All right, so anyway, what the cue here is really looking for
+},
+{
+    141.28,144.76
+     is after 30 seconds, if the pain is getting worse,
+},
+{
+    144.76,146.08
+     it's too early for this.
+},
+{
+    146.08,148.72
+     You're just not allowed to do that yet.
+},
+{
+    148.72,153.88
+     So if it is fine after 30 seconds, it gets numb
+},
+{
+    153.88,157.4
+     or it's starting to plateau, you can keep doing it.
+},
+{
+    157.4,160.6
+     In fact, you could do this for up to 15 minutes,
+},
+{
+    160.6,162.24
+     which most of you will not be able to do
+},
+{
+    162.24,163.12
+     because it's just too long,
+},
+{
+    163.12,169.18
+     but you could do it, spread it throughout the day. Another alternative to this spread would be just doing,
+},
+{
+    169.18,171.66
+     this is a McKenzie method here.
+},
+{
+    171.66,174.02
+     You actually just put pressure on the tendon
+},
+{
+    174.02,176.34
+     and go like this, lift the wrist up.
+},
+{
+    176.34,180.18
+     And that's just starting to put some stress on that tendon
+},
+{
+    180.18,183.9
+     without putting so much that increases the pain.
+},
+{
+    183.9,186.4
+     So it should feel a little bit better with the pressure on?
+},
+{
+    186.4,188.96
+     It should feel better, it shouldn't make it worse.
+},
+{
+    188.96,191.36
+     And it definitely should make it worse.
+},
+{
+    191.36,192.2
+     Sure.
+},
+{
+    192.2,194.52
+     It could be plateaued or the same.
+},
+{
+    194.52,198.16
+     But if you're too tender to do massage, start with that first.
+},
+{
+    198.16,199.0
+     Sure, that makes sense.
+},
+{
+    199.0,202.48
+     Go to the massage, and eventually the massage you can do
+},
+{
+    202.48,206.74
+     probably every other day for 15 minutes, or like I said, three times a day
+},
+{
+    206.74,207.98
+     for five minutes.
+},
+{
+    207.98,210.38
+     Brad, do you wanna show how to use a massage gun with your-
+},
+{
+    210.38,211.22
+     Sure.
+},
+{
+    211.22,214.5
+     Yeah, so if you happen to have a massage gun,
+},
+{
+    214.5,216.82
+     you know, one of these big ones is not gonna work.
+},
+{
+    216.82,217.66
+     Yeah, that's too much.
+},
+{
+    217.66,218.54
+     That's way too much.
+},
+{
+    218.54,221.66
+     This one might, but a smaller one,
+},
+{
+    221.66,222.94
+     this one may-
+},
+{
+    222.94,224.86
+     Yeah, that's a handheld massager.
+},
+{
+    224.86,227.1
+     Or, you know, this size really works well
+},
+{
+    227.1,228.2
+     for this particular injury.
+},
+{
+    228.2,229.56
+     That's the Q2.
+},
+{
+    229.56,230.48
+     Yep.
+},
+{
+    230.48,232.96
+     And we actually have a video,
+},
+{
+    232.96,235.24
+     and we'll mention this at the end too,
+},
+{
+    235.24,239.2
+     how to choose the correct massage gun for your pain,
+},
+{
+    239.2,242.56
+     or for pain reduction, or for healing,
+},
+{
+    242.56,244.64
+     or for muscle recovery.
+},
+{
+    244.64,245.48
+     Right.
+},
+{
+    245.48,248.84
+     So, with this, you know, you're not gonna get
+},
+{
+    248.84,249.88
+     and go straight in and out.
+},
+{
+    249.88,252.48
+     Now these travel in and out.
+},
+{
+    252.48,253.44
+     Yeah, they percuss.
+},
+{
+    253.44,254.28
+     Yep.
+},
+{
+    254.28,256.32
+     Oh, that would really hurt on us.
+},
+{
+    256.32,257.16
+     Flare it up.
+},
+{
+    257.16,258.12
+     So you're gonna actually go down.
+},
+{
+    258.12,260.16
+     I would start more in the muscle belly
+},
+{
+    260.16,262.48
+     and not straight down in, but at an angle.
+},
+{
+    262.48,265.92
+     So we got going across the fibers, which run this way.
+},
+{
+    265.92,267.72
+     And then you can work that.
+},
+{
+    267.72,269.36
+     And you may find some of these muscles
+},
+{
+    269.36,271.94
+     actually get knotted up as a result of this injury.
+},
+{
+    271.94,274.26
+     So you want to get those knots out.
+},
+{
+    274.26,276.16
+     And, you know, after the longer you do it,
+},
+{
+    276.16,278.4
+     you should feel those knots relaxed and release,
+},
+{
+    278.4,281.5
+     we call it, and work your way closer
+},
+{
+    281.5,283.82
+     to where the injury is at tendon.
+},
+{
+    283.82,285.22
+     But it shouldn't get to the point
+},
+{
+    285.22,286.98
+     where you're feeling owl pain.
+},
+{
+    286.98,288.98
+     You know, it should feel like, oh, it's feeling good.
+},
+{
+    288.98,289.82
+     It's feeling relaxed.
+},
+{
+    289.82,290.98
+     Kind of a feeling good pain.
+},
+{
+    290.98,291.82
+     Yep.
+},
+{
+    291.82,292.66
+     Yeah.
+},
+{
+    292.66,295.82
+     And that's, you know, pretty much in all cases here,
+},
+{
+    295.82,299.22
+     you're gonna wanna work on that extensor wad, they call it.
+},
+{
+    299.22,300.06
+     Yeah.
+},
+{
+    300.06,301.46
+     That's a wad of muscles there.
+},
+{
+    301.46,302.3
+     Yeah.
+},
+{
+    302.3,303.94
+     Because they could be tight,
+},
+{
+    303.94,304.78
+     and if they're tight,
+},
+{
+    304.78,306.64
+     they're gonna pull harder on the tendon.
+},
+{
+    306.64,307.72
+     So.
+},
+{
+    307.72,309.76
+     Now this gun you could use,
+},
+{
+    309.76,313.32
+     but boy, I really think this one would be better.
+},
+{
+    313.32,315.28
+     Yeah, and even the different heads,
+},
+{
+    315.28,316.48
+     I don't think would work on that.
+},
+{
+    316.48,319.52
+     I mean, in that case, it is one of the,
+},
+{
+    319.52,322.8
+     you know, you certainly could use it on the muscle belly.
+},
+{
+    322.8,323.64
+     Sure. This one.
+},
+{
+    323.64,324.52
+     Yeah, right.
+},
+{
+    324.52,326.52
+     But on the tendon, I think it'd be too much.
+},
+{
+    326.52,328.64
+     Yeah, not working up there.
+},
+{
+    328.64,333.16
+     So again, make sure you do the muscle belly.
+},
+{
+    333.16,335.04
+     That's gonna loosen up the muscle itself.
+},
+{
+    335.04,338.12
+     And then if you can, go over the tendon itself,
+},
+{
+    338.12,340.6
+     and that'll start to heal it up, get more blood flow to it,
+},
+{
+    340.6,342.04
+     and also break up the scar too.
+},
+{
+    342.04,344.4
+     Right, even without an injury,
+},
+{
+    344.4,346.44
+     that just, it feels good right now, Bob.
+},
+{
+    346.44,348.68
+     You can just tell you've relaxed things.
+},
+{
+    348.68,350.6
+     All right, I'm gonna show you a couple of exercises
+},
+{
+    350.6,351.48
+     that you can do now,
+},
+{
+    351.48,355.3
+     because for what we're finding is that with a lot of people,
+},
+{
+    355.3,358.28
+     they're lacking internal rotation at the shoulder.
+},
+{
+    358.28,359.12
+     Sure.
+},
+{
+    359.12,360.72
+     And so like if you're playing tennis
+},
+{
+    360.72,362.92
+     and you're doing a backhand
+},
+{
+    362.92,365.96
+     and you don't have enough internal rotation,
+},
+{
+    365.96,368.08
+     you're gonna make up that somehow
+},
+{
+    368.08,371.32
+     by working the wrist harder and the extensors harder.
+},
+{
+    371.32,372.72
+     So you're compensating.
+},
+{
+    372.72,373.76
+     You're compensating.
+},
+{
+    373.76,377.48
+     So you wanna restore that internal rotation.
+},
+{
+    378.44,381.12
+     Brad's gonna first show it, there was a strap,
+},
+{
+    381.12,384.08
+     and then if you wanna show it with the Booyah stick too,
+},
+{
+    384.08,384.92
+     Brad.
+},
+{
+    384.92,385.24
+     So let's say I'm right-handed, so it'd be my right hand more than likely. and then if you want to show it with the bullion stick too Brad. So.
+},
+{
+    385.24,387.48
+     Oh, so let's say I'm right handed.
+},
+{
+    387.48,389.8
+     So it'd be my right hand more than likely
+},
+{
+    389.8,392.04
+     would have that tennis elbow on.
+},
+{
+    392.04,394.0
+     I'm not going to play tennis with the
+},
+{
+    394.0,395.92
+     my non-dominant side.
+},
+{
+    395.92,397.68
+     Now you can do this with a belt.
+},
+{
+    397.68,399.44
+     You can just take the loop of the belt
+},
+{
+    399.44,402.28
+     or you can take a strap, a stretch out strap
+},
+{
+    403.16,405.32
+     and see how he's working,
+},
+{
+    405.32,408.2
+     that's actually internally rotating that shoulder.
+},
+{
+    408.2,411.92
+     And it's always interesting to compare one side to another.
+},
+{
+    411.92,415.68
+     Like you may find that your involved side
+},
+{
+    415.68,418.6
+     can only go up this high, whereas uninvolved side
+},
+{
+    418.6,419.44
+     can go up that high.
+},
+{
+    419.44,421.16
+     And that's an indicator right there that, yeah,
+},
+{
+    421.16,423.48
+     you're locking internal rotation.
+},
+{
+    423.48,425.4
+     Or you might be lacking on both sides.
+},
+{
+    425.4,428.04
+     So you just go pressure on and pressure off
+},
+{
+    428.04,429.36
+     or just go up and hold it.
+},
+{
+    429.36,430.72
+     But you should not be doing this
+},
+{
+    430.72,432.84
+     where it creates any sharp pain anywhere.
+},
+{
+    432.84,434.44
+     It should just feel like a stretch,
+},
+{
+    434.44,435.88
+     a little stretch pain is okay.
+},
+{
+    435.88,438.44
+     I would also recommend that if you have osteoporosis
+},
+{
+    438.44,440.84
+     or brittle bones, I wouldn't be doing any of these.
+},
+{
+    440.84,442.32
+     Or hypermobile joints.
+},
+{
+    442.32,443.16
+     Or hypermobile joints.
+},
+{
+    443.16,445.0
+     We don't want to have a dislocation actually. Right, so you can, for all of these. Or hypermobile joints. Hypermobile joints, right. We don't want to have a dislocation actually.
+},
+{
+    445.0,448.88
+     Right, so you can, for all of these,
+},
+{
+    448.88,451.6
+     I would put out that warning for all of these exercises.
+},
+{
+    451.6,452.64
+     Sure.
+},
+{
+    452.64,454.08
+     Should we show them with the stick?
+},
+{
+    454.08,455.6
+     This is what I do.
+},
+{
+    455.6,457.4
+     And this is what I did.
+},
+{
+    457.4,460.0
+     Because this made a huge difference for us with it.
+},
+{
+    460.0,463.48
+     Brad and I both had an impingement on our shoulder.
+},
+{
+    463.48,466.88
+     So the palm goes out here.
+},
+{
+    466.88,468.28
+     The painful arm.
+},
+{
+    468.28,469.72
+     Well, let's keep it the righty.
+},
+{
+    469.72,471.68
+     Cause this would be the painful one.
+},
+{
+    471.68,475.56
+     Painful arm, the palm goes out and low.
+},
+{
+    475.56,477.96
+     So the back of your hand would be up against your butt
+},
+{
+    477.96,479.8
+     and you gotta grab it there.
+},
+{
+    479.8,482.92
+     And the palm on the top is facing the head.
+},
+{
+    482.92,483.76
+     Yep.
+},
+{
+    485.04,486.76
+     Or a head.
+},
+{
+    486.76,488.16
+     And then you just work it up.
+},
+{
+    488.16,489.56
+     You can work on internal rotation,
+},
+{
+    489.56,491.92
+     just like you were with the strap.
+},
+{
+    491.92,493.32
+     So we're using the Booyah Stick,
+},
+{
+    493.32,494.76
+     which were really well for this,
+},
+{
+    494.76,496.08
+     but you don't have to have one.
+},
+{
+    496.08,499.6
+     You can use a piece of dialing or a handle from a.
+},
+{
+    499.6,500.44
+     A PVC by.
+},
+{
+    500.44,502.68
+     Yep, from a, you know, a broom.
+},
+{
+    502.68,503.52
+     A broomstick.
+},
+{
+    503.52,504.84
+     Yeah, but it needs to be smooth
+},
+{
+    504.84,506.96
+     because it slides on your clothing really well.
+},
+{
+    506.96,508.52
+     You would want to do this on bare skin
+},
+{
+    508.52,511.68
+     because it'll stick and that will be very good.
+},
+{
+    511.68,513.56
+     And then we go to the chicken wing.
+},
+{
+    513.56,514.4
+     Yep.
+},
+{
+    514.4,517.44
+     So on this, I don't go way up.
+},
+{
+    517.44,519.4
+     It's already tight, all the tissues are tight.
+},
+{
+    519.4,521.16
+     So I keep it down here.
+},
+{
+    521.16,522.0
+     And then I-
+},
+{
+    522.0,523.32
+     He's leveraging it back.
+},
+{
+    523.32,526.6
+     It's really cranking on that internal rotation.
+},
+{
+    526.6,528.8
+     Again, no pain though, no sharp pain.
+},
+{
+    528.8,530.4
+     Just a stretch feeling.
+},
+{
+    530.4,531.24
+     I don't know.
+},
+{
+    531.24,532.56
+     I think there's a couple of reasons
+},
+{
+    532.56,533.66
+     why this works so well.
+},
+{
+    533.66,536.24
+     I think it also kind of puts the scapula up in the right.
+},
+{
+    536.24,537.08
+     Sure.
+},
+{
+    537.08,537.92
+     But I don't know.
+},
+{
+    537.92,538.74
+     Yeah.
+},
+{
+    538.74,540.1
+     Well, what do I know?
+},
+{
+    540.1,540.94
+     All right.
+},
+{
+    540.94,541.78
+     I think you're right Bob though.
+},
+{
+    541.78,544.68
+     I just know I've been doing my left one a lot lately
+},
+{
+    544.68,545.98
+     and I neglected my right because I don't have the know I've been doing my left one a lot lately and I neglected my right
+},
+{
+    545.98,547.08
+     because I don't have the problem here.
+},
+{
+    547.08,549.08
+     And now my left one's so loose
+},
+{
+    549.08,550.92
+     that I've got to catch up on my right.
+},
+{
+    550.92,553.92
+     All right, the other thing is,
+},
+{
+    553.92,557.28
+     if you're lacking pronation,
+},
+{
+    557.28,559.4
+     or I'm sorry, pronation or supination,
+},
+{
+    559.4,561.36
+     you can check this out real easy too, Brad.
+},
+{
+    561.36,563.16
+     You put elbows into your side
+},
+{
+    563.16,566.04
+     and you might even take a ruler to go across the show
+},
+{
+    566.04,567.92
+     because your hand might go like that
+},
+{
+    567.92,570.52
+     but the wrist doesn't get a little flat.
+},
+{
+    570.52,572.26
+     You wanna get them almost flat.
+},
+{
+    573.32,576.28
+     And that'd be both ways, this way and this way.
+},
+{
+    576.28,578.6
+     If they aren't and they're lacking,
+},
+{
+    578.6,581.32
+     again, your muscles gotta make the difference there
+},
+{
+    581.32,582.72
+     and they're gonna be working harder.
+},
+{
+    582.72,584.6
+     So it's a real easy stretch to do.
+},
+{
+    584.6,586.48
+     First one, all you do is bend your elbow
+},
+{
+    586.48,588.28
+     all the way up to flexion.
+},
+{
+    588.28,592.84
+     And then you're gonna stretch it into pronation
+},
+{
+    593.76,596.08
+     and you're gonna stretch it into supination.
+},
+{
+    597.04,597.96
+     10 times.
+},
+{
+    597.96,599.56
+     You don't have to remember what's pronation.
+},
+{
+    599.56,600.4
+     You know what I'm saying?
+},
+{
+    600.4,601.92
+     You don't have to just turn it both ways.
+},
+{
+    601.92,602.76
+     Yeah.
+},
+{
+    602.76,605.4
+     Turn the faucet on, turn the faucet off, both ways.
+},
+{
+    605.4,607.44
+     So you're trying to, you're not grabbing the skin.
+},
+{
+    607.44,609.8
+     You actually want to kind of good grip
+},
+{
+    609.8,611.12
+     so you're grabbing the bone.
+},
+{
+    611.12,614.32
+     Yep, and just gently apply the pressure,
+},
+{
+    614.32,617.22
+     but over time, hopefully you're gonna increase the motion.
+},
+{
+    617.22,618.72
+     I'm gonna show one more, Brad.
+},
+{
+    618.72,619.56
+     With this?
+},
+{
+    619.56,620.4
+     The stool.
+},
+{
+    620.4,621.4
+     Oh yeah, this one.
+},
+{
+    621.4,624.6
+     Yeah, so this is one, it's actually,
+},
+{
+    624.6,625.96
+     Mulligan kind of did this,
+},
+{
+    625.96,628.52
+     McKenzie did this, these are therapist's terms
+},
+{
+    628.52,630.08
+     that people would understand.
+},
+{
+    630.08,631.48
+     So you're gonna take your hand,
+},
+{
+    631.48,635.6
+     you're gonna actually point the fingers toward yourself.
+},
+{
+    635.6,637.86
+     So you're kind of doing a contortionist here.
+},
+{
+    637.86,640.56
+     You take the crook of your elbow,
+},
+{
+    640.56,643.6
+     go right below the bump here, and you push it.
+},
+{
+    643.6,646.12
+     You're gonna actually push this bone out that way,
+},
+{
+    646.12,647.58
+     out to the side.
+},
+{
+    647.58,651.0
+     One, two, you can do it 10 times.
+},
+{
+    651.0,651.84
+     Three.
+},
+{
+    653.16,655.32
+     Now believe it or not, that actually,
+},
+{
+    655.32,658.16
+     I've had, I had a tennis pro that,
+},
+{
+    658.16,660.32
+     not test pro, a golf pro that actually,
+},
+{
+    660.32,661.4
+     this took it away for,
+},
+{
+    661.4,663.6
+     and she had had it for a long time.
+},
+{
+    663.6,665.16
+     And that shouldn't create pain, right?
+},
+{
+    665.16,666.0
+     No, no.
+},
+{
+    666.0,667.8
+     It should just feel like pain-free.
+},
+{
+    667.8,668.64
+     So.
+},
+{
+    668.64,669.76
+     Well, your wrists are really,
+},
+{
+    669.76,672.04
+     I can't believe how much you can extend your wrist.
+},
+{
+    672.04,673.72
+     Well, no, my wrists are tight.
+},
+{
+    673.72,676.8
+     No wonder I can't do push-ups without, I mean.
+},
+{
+    676.8,677.64
+     Oh, you're pretty close.
+},
+{
+    677.64,678.48
+     Oh yeah.
+},
+{
+    678.48,679.92
+     Boy, it's really pulling here though.
+},
+{
+    679.92,680.76
+     I don't have to work on.
+},
+{
+    680.76,682.6
+     You're gonna start working on it, you're using a massage gun.
+},
+{
+    682.6,683.44
+     Yeah.
+},
+{
+    683.44,685.8
+     So, all right, thanks everybody for watching.
+},
+{
+    685.8,687.6
+     Let's mention the program though, Brad.
+},
+{
+    687.6,688.96
+     Oh, yes.
+},
+{
+    688.96,693.56
+     These videos are part of a series of videos on massage.
+},
+{
+    693.56,696.44
+     And if you go to thebobandbrad.com,
+},
+{
+    696.44,698.16
+     go to the program section,
+},
+{
+    698.16,701.6
+     you'll find the entire program on massage.
+},
+{
+    701.6,703.52
+     And it goes over every body part.
+},
+{
+    703.52,707.68
+     Right, yep, so you pick out the body part you want to massage,
+},
+{
+    707.68,709.52
+     you'll see the title is very clear.
+},
+{
+    709.52,711.68
+     Look at that video, get the information
+},
+{
+    711.68,714.76
+     and the big bonus is there's a PDF printout
+},
+{
+    714.76,717.9
+     which gives a review of the video so you can print it out.
+},
+{
+    717.9,720.84
+     You don't have to keep going back to the video
+},
+{
+    720.84,723.48
+     and the beauty of it is all for free.
+},
+{
+    723.48,726.88
+     We don't ask for email or anything. It just is our gift.
+},

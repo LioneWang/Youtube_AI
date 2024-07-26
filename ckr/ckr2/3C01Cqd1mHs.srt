@@ -1,0 +1,116 @@
+{
+    0.0,7.12
+     So let me show you how to use your quick relief inhaler with use in a spacer.
+},
+{
+    7.12,12.4
+     A spacer is important to use so more medication reaches your lungs to get better relief and
+},
+{
+    12.4,14.24
+     less side effects.
+},
+{
+    14.24,19.72
+     Commonly used quick relief inhalers are ProWare, Prevental, Ventilin and Zolvenex.
+},
+{
+    19.72,23.3
+     Your quick relief inhaler works quickly by opening your airways.
+},
+{
+    23.3,28.22
+     This can help with chest tightness, shortness of breath, coughing and wheezing for up to four to six hours.
+},
+{
+    28.22,33.26
+     If your inhaler is new, it must be primed before first use in periods of
+},
+{
+    33.26,37.92
+     non-use. To prime your inhaler, remove your cap and check for foreign objects.
+},
+{
+    37.92,42.92
+     Shake your inhaler for 10 seconds and spray away from your face, repeating as
+},
+{
+    42.92,48.28
+     many times as recommended. Then shake your inhaler for 10 seconds and place into the spacer.
+},
+{
+    48.28,53.2
+     Exhale your air all the way, place the spacer in your mouth with closed in your
+},
+{
+    53.2,54.12
+     lips gently.
+},
+{
+    54.12,57.64
+     Spray your inhaler, breathe all the way in slowly,
+},
+{
+    57.64,62.64
+     hold your breath for 10 seconds and exhale. Repeat as many times as ordered by
+},
+{
+    62.64,63.56
+     your doctor.
+},
+{
+    63.56,67.64
+     If you do not have a spacer or you choose not to use one,
+},
+{
+    67.64,70.04
+     you'll need to prime your inhaler as needed.
+},
+{
+    70.04,72.36
+     Shake your inhaler for 10 seconds.
+},
+{
+    72.36,74.08
+     Exhale your air all the way.
+},
+{
+    74.08,75.84
+     Then place your inhaler in your mouth
+},
+{
+    75.84,77.88
+     with closing your lips gently.
+},
+{
+    77.88,79.12
+     Start to breathe in.
+},
+{
+    79.12,82.28
+     Spray your inhaler with continue to breathe all the way in.
+},
+{
+    82.28,84.44
+     Hold your breath for 10 seconds.
+},
+{
+    84.44,90.32
+     Then exhale, repeat as ordered by your doctor. Remember each inhaler in each spacer
+},
+{
+    90.32,94.76
+     follows its own recommendations for care and use. Do not take more doses than
+},
+{
+    94.76,99.04
+     recommended by your doctor. If you feel that you need to take more contact your
+},
+{
+    99.04,103.96
+     doctor and always remember take your inhaler and your spacer with you in case
+},
+{
+    103.96,None
+     you need it.
+},

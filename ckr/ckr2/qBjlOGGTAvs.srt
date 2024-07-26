@@ -1,0 +1,184 @@
+{
+    0.0,6.02
+     Dermatologists and experts in terms of treating skin cancers and we treat all expects of the
+},
+{
+    6.02,12.64
+     skin not only skin cancers but we'll be able to pick up or do a skin check which will help
+},
+{
+    12.64,15.76
+     them pick up their skin cancers early.
+},
+{
+    15.76,22.24
+     More than 77,000 non-melanoma skin cancers are picked up in Western Australia each year
+},
+{
+    22.24,25.0
+     and we see over a thousand melanomas.
+},
+{
+    25.0,37.0
+     Non-melanoma skin cancers are not deadly but they can pose real problems, particularly around important structures like the eyes, the nose, the lips and the ears.
+},
+{
+    37.0,45.34
+     Melanomas are very common in Western Australia and we probably have the second highest rate out of Queensland and
+},
+{
+    45.34,52.1
+     melanomas are very preventable if it's detected or picked up early. So once it's picked up
+},
+{
+    52.1,58.34
+     it's removed and the majority of melanomas we now see in Western Australia are thin
+},
+{
+    58.34,87.84
+     melanomas and so it's important that patients or the general public notice any changes in Mae'r bwysig yn fawr i'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfnod o'r cyfn or if you can't see them, get a mirror to check on those spots or get your partner to
+},
+{
+    87.84,93.6
+     look at those spots. And if you notice anything which looks unusual or is changing or bleed
+},
+{
+    93.6,101.72
+     or is painful, then it's important to alert your GP who can then do either biopsy or refer
+},
+{
+    101.72,110.0
+     them along to a dermatologist. We've got a patient here, Ken, who I'm going to examine for any suspicious skin spots.
+},
+{
+    110.0,116.2
+     So usually I look at the tops of the fingers and hands first and we see if there's any
+},
+{
+    116.2,117.64
+     abnormalities there.
+},
+{
+    117.64,124.36
+     As you can see, he's got some pigment lesions which are typical from sun exposures, some
+},
+{
+    124.36,126.26
+     solar lentigo pigment to Cibric curatoses. lesions which are typical from sun exposures, some solar lantago, pigmentus,
+},
+{
+    126.26,130.98
+     cibric curatoses. These are benign but obviously we're looking for other spots
+},
+{
+    130.98,152.0
+     which might be suspicious areas, so under the armpits and on the sides of the Good, and then we'll move on to his shoulders, neck, scalp, and face.
+},
+{
+    152.0,158.0
+     I might just get you to sit up slowly Ken, or just have a look at the top of the head.
+},
+{
+    161.0,167.0
+     Behind the ears and the ears of silk on the back.
+},
+{
+    172.0,181.0
+     I'd obviously look in the groin area but principally I like to concentrate on where he's got sun exposure
+},
+{
+    181.0,187.0
+     mainly the face, forearms, neck and the legs.
+},
+{
+    187.0,198.0
+     Good, and I might get you to turn over onto your tummy and we'll have a look at your back
+},
+{
+    198.0,210.52
+     of the legs. You can see there's lots of dark, what we call pigment and cybertosis here, which are
+},
+{
+    210.52,216.64
+     quite benign, but he's had a few scars here which possibly suggest that he's had a few
+},
+{
+    216.64,218.12
+     spots cut out before.
+},
+{
+    218.12,225.64
+     You can see a very dark, irregular spot here, and what we tend to do is get a domatoscope which is a magnifier to
+},
+{
+    225.64,227.88
+     look under which magnifies the
+},
+{
+    227.88,231.0
+     pigmented area and that tells us whether
+},
+{
+    231.0,233.4
+     that could well be a melanoma but that
+},
+{
+    233.4,236.44
+     looks quite fine. Solar keratosis are
+},
+{
+    236.44,238.96
+     very common they're the precursor
+},
+{
+    238.96,242.4
+     features of skin cancers they're really
+},
+{
+    242.4,244.84
+     a sign that people have had excess sun
+},
+{
+    244.84,246.36
+     exposure over the
+},
+{
+    246.36,254.36
+     years and some solar keratoses may progress into skin cancers. Very few do but it is important
+},
+{
+    254.36,262.28
+     that you don't ignore solar keratoses, particularly ones which do become tender or bleed or become
+},
+{
+    262.28,265.68
+     uncomfortable because that could be a sign that they become
+},
+{
+    265.68,271.44
+     squamous cell carcinoma. So, solicuritosis is an early sign of
+},
+{
+    271.44,277.92
+     sun exposure and it's an excessive sun exposure particularly and could be a
+},
+{
+    277.92,283.32
+     feature of people predisposed to skin cancers. A few patients do ignore their
+},
+{
+    283.32,285.64
+     spots until it becomes too late.
+},
+{
+    285.64,293.04
+     I think skin cancers are very treatable if seen too early. And most skin cancers in Australia
+},
+{
+    293.04,303.04
+     are cured if the spot which turned out to be skin cancer is seen and managed by a doctor
+},
+{
+    303.04,None
+     early on rather than ignored. Once they are ignored then there's a chance that they become a'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ddau'r ffordd o'r bod. you
+},

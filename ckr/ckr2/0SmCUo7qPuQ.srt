@@ -1,0 +1,240 @@
+{
+    0.0,19.3
+     Now let's cover child CPR.
+},
+{
+    19.3,22.8
+     A few things we should be thinking about when we're talking about child CPR.
+},
+{
+    22.8,25.04
+     The guidelines help us understand the child
+},
+{
+    25.04,33.28
+     range is between year one and their first signs of puberty. There is this age just like 14, but you
+},
+{
+    33.28,38.64
+     know there's a lot of ambiguity between when does a child become an adult and when is an adult the
+},
+{
+    38.64,47.08
+     size of a child. I personally like to go by the size of the patient. And in this case, he is clearly somewhere
+},
+{
+    47.08,49.48
+     between the ages of one and 12,
+},
+{
+    49.48,52.16
+     which is well within our safety range of a child.
+},
+{
+    52.16,55.92
+     And we're gonna use that as our guideline for doing CPR.
+},
+{
+    55.92,58.16
+     Secondly, when we do the depth of the compression
+},
+{
+    58.16,62.42
+     on a child, it's one third the depth of the chest.
+},
+{
+    62.42,64.12
+     So just something to keep in mind here
+},
+{
+    64.12,65.12
+     as we're doing CPR
+},
+{
+    65.12,70.16
+     for the child. Now in this situation we had a player on the soccer field and they
+},
+{
+    70.16,75.2
+     suddenly collapsed. We don't know why. And so we're going to assess them but we
+},
+{
+    75.2,79.28
+     also need to think about where they electrocuted. They step on a bare
+},
+{
+    79.28,83.36
+     wire. Was there a snake? I mean who knows? We're just gonna look for anything. So
+},
+{
+    83.36,85.0
+     insure scene is safe.
+},
+{
+    85.0,88.4
+     My gloves are on, my CPR shield is available,
+},
+{
+    88.4,91.0
+     so now I'm safe to rescue.
+},
+{
+    91.0,93.28
+     Now we're also gonna be talking about
+},
+{
+    93.28,95.36
+     what the first step is.
+},
+{
+    95.36,97.0
+     Hand on the forehead to remind me
+},
+{
+    97.0,99.32
+     not to move their head or neck excessively
+},
+{
+    99.32,101.2
+     as I tap on the collarbone.
+},
+{
+    101.2,102.36
+     Hey buddy, are you all right?
+},
+{
+    102.36,103.58
+     Are you okay?
+},
+{
+    103.58,106.16
+     This player does not respond.
+},
+{
+    106.16,108.84
+     Once there is no response to my taps and shouts,
+},
+{
+    108.84,111.84
+     and I notice that they are not breathing normally,
+},
+{
+    111.84,114.52
+     it's automatically gonna be a 911 call.
+},
+{
+    114.52,116.86
+     You in the plaid shirt, go call 911 and come back.
+},
+{
+    116.86,117.7
+     I might need your help.
+},
+{
+    117.7,120.52
+     And if you could find an AED, bring an AED with you.
+},
+{
+    120.52,124.2
+     If I don't have anybody to go call 911 or get an AED,
+},
+{
+    124.2,126.36
+     I'm gonna dial 911 on my cell phone
+},
+{
+    126.36,131.32
+     and I'm going to put it on speakerphone so that dispatchers can help coach me through this scene.
+},
+{
+    131.32,136.8
+     Now we get right into our action. I'm going to place in this case for the size of the patient
+},
+{
+    136.8,144.2
+     one palm of one hand. If this was a large child or at the upper end of the child becoming an adult,
+},
+{
+    144.2,145.04
+     we would treat them as an adult, we would
+},
+{
+    145.04,149.72
+     treat them as an adult with two hand CPR. But this child is adequate with one.
+},
+{
+    149.72,154.4
+     I'm going to place the palm of my hand on the center of his chest on the lower
+},
+{
+    154.4,158.44
+     third of his sternum between the breasts. I'm now going to start my
+},
+{
+    158.44,163.4
+     compressions to one third the depth of the chest in depth and at a rate of
+},
+{
+    163.4,166.4
+     between a hundred and a hundred and 120 times per minute.
+},
+{
+    166.4,168.06
+     That's at least two a second.
+},
+{
+    168.06,169.32
+     Here we go.
+},
+{
+    169.32,172.64
+     One and two and three and four and five and six and seven
+},
+{
+    172.64,177.52
+     and eight and nine and 10, 11 and 12, 13, 14, 15, 16, 17,
+},
+{
+    177.52,182.52
+     18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+},
+{
+    184.2,186.84
+     I'm gonna now give a head tilt chin lift,
+},
+{
+    186.84,189.24
+     get my mask and shield with the one-way valve,
+},
+{
+    189.24,191.96
+     pinch the nose, and open the mouth.
+},
+{
+    191.96,194.04
+     I'm gonna give my two rescue breaths.
+},
+{
+    198.84,200.52
+     Two rescue breaths go in,
+},
+{
+    200.52,202.62
+     I go back into my compressions.
+},
+{
+    202.62,204.84
+     One and two and three and four and five,
+},
+{
+    204.84,210.96
+     26, 27, 28, 29, 30. I now give my two more rescue breaths and I'm going to do this 30
+},
+{
+    210.96,218.48
+     compression to two rescue breaths until help arrives, EMS arrives, and AED arrives, or my
+},
+{
+    218.48,222.08
+     patient actually revives, starts breathing and moving on their own.
+},

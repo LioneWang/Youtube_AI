@@ -1,0 +1,296 @@
+{
+    0.0,7.36
+     Head to toe assessment. Always perform the following steps to ensure patient
+},
+{
+    7.36,18.76
+     safety. Perform hand hygiene. Provide patient privacy. Introduce yourself. Use
+},
+{
+    18.76,29.32
+     two patient identifiers. Verify allergy status. Perform environmental safety check. Ensure proper body mechanics.
+},
+{
+    29.32,35.56
+     Gather all supplies. Provide patient education.
+},
+{
+    35.56,47.0
+     Assess level of consciousness. Overall demeanor. Communication and speech, and pain level.
+},
+{
+    47.0,51.0
+     Head and neck.
+},
+{
+    51.0,56.0
+     Inspect head for bumps if needed.
+},
+{
+    56.0,62.0
+     Check hair distribution, infestations and skin integrity.
+},
+{
+    62.0,72.08
+     Inspect ears for drainage, placement, tenderness, and any abnormalities.
+},
+{
+    72.08,79.08
+     Inspect face, check for symmetry, facial droop, color, is it pale or flushed, or have signs
+},
+{
+    79.08,81.08
+     of jaundice.
+},
+{
+    81.08,89.0
+     Inspect eyes for redness and or discharge. Note if the patient wears contacts or glasses and inspect for sclera,
+},
+{
+    89.0,93.0
+     extra-ocular movements, pupil size and perla.
+},
+{
+    93.0,100.0
+     Inspect nose for overall condition, any drainage and patency if applicable.
+},
+{
+    101.0,109.46
+     Inspect mouth and gums for moisture, cracked lips, bleeding gums and swollen tongue.
+},
+{
+    109.46,111.06
+     Can patient swallow?
+},
+{
+    111.06,112.62
+     Do they wear dentures?
+},
+{
+    112.62,114.82
+     Does the tongue move appropriately?
+},
+{
+    114.82,117.66
+     Does their breath have odor?
+},
+{
+    117.66,129.6
+     Inspect neck, swollen lymph nodes, note size and location if present and inspect for JVD, Goiter, and deviated trachea.
+},
+{
+    129.6,135.72
+     Palpate head or neck if obvious abnormality is present.
+},
+{
+    135.72,142.24
+     Ask patient about facial sensation, ability to smell, difficulty seeing, blurred vision,
+},
+{
+    142.24,145.0
+     double vision, and HOH.
+},
+{
+    146.56,147.4
+     Skin.
+},
+{
+    149.56,151.88
+     Inspect, skin for breakdown.
+},
+{
+    153.72,156.34
+     Note location and descriptors if present.
+},
+{
+    158.6,163.6
+     Inspect color, cyanotic, bruising, pale, jaundice.
+},
+{
+    164.88,167.04
+     Palpate skin for temperature.
+},
+{
+    167.04,168.92
+     Use dorsal part of hand.
+},
+{
+    168.92,173.8
+     Is it cool, clammy, hot, or dry?
+},
+{
+    173.8,175.04
+     Palpate, turgor.
+},
+{
+    178.32,180.6
+     Upper extremities.
+},
+{
+    180.6,182.72
+     Inspect for R-O-M.
+},
+{
+    182.72,187.28
+     Symmetry of extremities, able to perform ADLs. Can shoulders raise
+},
+{
+    187.28,192.52
+     and lower? Are the joints stiff or swollen? Are the nails pink and is no
+},
+{
+    192.52,198.36
+     clubbing noted? Palpate IV site for tenderness and warmth if applicable.
+},
+{
+    198.36,206.08
+     Palpate radial, brachial, ulnar is Bilaterally and Check for Deficit.
+},
+{
+    208.0,210.64
+     Test, Muscle Strength in Hands.
+},
+{
+    216.48,218.72
+     Test Capillary Refill in Fingers, Brisk, Plus 1, Plus 2, etc.
+},
+{
+    220.4,222.72
+     Thorax, Heart and Lungs.
+},
+{
+    229.72,239.44
+     Inspect Thorax, Chest Cavity for Symmetry, surgery scars, inspiration and expiration, and use of accessory muscles. Palpate chest wall for tenderness, if indicated.
+},
+{
+    239.44,252.28
+     Oscultate, heart sounds apical, PMI. Oscultate anterior lung fields in six places, including laterals.
+},
+{
+    252.28,255.64
+     Ask patient about tobacco use or other substances.
+},
+{
+    255.64,262.44
+     Does the patient have any respiratory conditions, cough, mucus production, and use of O2?
+},
+{
+    262.44,272.12
+     Vac of O2. Vac. Inspect position of spine, bruising, scarring, and skin breakdown includes the coccyx.
+},
+{
+    272.12,285.6
+     Palpate back for tenderness, places, including bases. Avoid bone.
+},
+{
+    292.1,293.1
+     Abdomen
+},
+{
+    297.4,300.0
+     Inspect abdomen for bulging masses,
+},
+{
+    300.0,305.2
+     distention, bruising, tubes or drains, and scars.
+},
+{
+    305.2,308.26
+     Oscultate bow sounds in four quadrants.
+},
+{
+    308.26,313.28
+     Start in RLQ for hypo, hyper, or normal.
+},
+{
+    313.28,330.32
+     Percuss abdominal quadrants for masses or tenderness have indicated.
+},
+{
+    330.32,336.2
+     Ask patient about presence of nausea, vomiting, difficulty eating, and last BM.
+},
+{
+    336.2,339.12
+     Was it normal for patient?
+},
+{
+    339.12,346.68
+     Inspect perennial area for skin breakdown, presence of Foley catheter, and overall cleanliness.
+},
+{
+    346.68,352.28
+     Ask patient about any presence of pain with urination, blood in urine, dark colored urine,
+},
+{
+    352.28,358.28
+     foul odor, frequency, and hesitation or burning with urination.
+},
+{
+    358.28,361.52
+     Lower extremities.
+},
+{
+    361.52,369.6
+     Inspect legs for symmetry, R-O-M, muscle strength, hips for stiffness and or pain, skin for color,
+},
+{
+    369.6,376.08
+     temp, bruising, skin breakdown, and hair distribution.
+},
+{
+    376.08,381.4
+     Inspect calves for heat, redness and swelling.
+},
+{
+    381.4,388.0
+     Inspect feet, overall condition, bony prominences for skin breakdown, nails.
+},
+{
+    388.0,392.0
+     Palpate edema
+},
+{
+    392.0,400.0
+     Palpate dorsalis pedis, post tibial, and if needed, popliteal pulses bilaterally.
+},
+{
+    400.0,406.0
+     Palpate capillary refill in toes, brisk, plus one, plus two, etc.
+},
+{
+    408.0,415.0
+     Ask patients' ability to ambulate, if they use assistive devices, and if there are any difficulties with gait.
+},
+{
+    415.0,417.0
+     Romberg test, if indicated.
+},
+{
+    417.0,419.0
+     Safety Risks
+},
+{
+    419.0,425.28
+     Ask patient about any suicidal ideations. Do you have a plan to hurt yourself or others?
+},
+{
+    425.28,429.04
+     Fall risk. Complete fall assessment as indicated.
+},
+{
+    429.04,436.72
+     Abuse. Ask history of abuse. Do you feel safe here or at home?
+},
+{
+    436.72,441.2
+     Safety. Return bed to lowest height with breaks
+},
+{
+    441.2,447.88
+     locked and appropriate side rails up. And call light, bell in reach.
+},
+{
+    447.88,467.0
+     Wash hands per CDC guidelines. Thanks for watching!
+},

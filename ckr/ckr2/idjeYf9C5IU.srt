@@ -1,0 +1,100 @@
+{
+    0.0,4.0
+     using a nebulizer.
+},
+{
+    4.0,7.0
+     This device is called a nebulizer.
+},
+{
+    7.0,9.0
+     Medication is placed inside the nebulizer.
+},
+{
+    9.0,14.0
+     The airflow from the air compressor turns the medication into a mist that isn't held.
+},
+{
+    14.0,18.0
+     There are many types of nebulizer in air compressor units.
+},
+{
+    18.0,22.0
+     Before you prepare a nebulizer treatment, wash your hands.
+},
+{
+    22.0,24.0
+     Use a clean nebulizer.
+},
+{
+    24.0,27.3
+     Place the medication inside clean nebulizer. Place the medication inside the
+},
+{
+    27.3,35.34
+     nebulizer. Connect the tubing from the nebulizer to your air compressor. Put the
+},
+{
+    35.34,41.3
+     nebulizer lid back on. Attach a mouthpiece or a mask to the nebulizer. A
+},
+{
+    41.3,45.52
+     mask is generally used for a child five and under. Older
+},
+{
+    45.52,51.48
+     children usually use a mouthpiece. Turn the compressor on and make sure the
+},
+{
+    51.48,56.16
+     nebulizer is misting. If using a mouthpiece, put the mouthpiece between your
+},
+{
+    56.16,60.96
+     teeth and close your lips around it. Hold the nebulizer in an upright position.
+},
+{
+    60.96,65.84
+     Gently breathe in and out while the medication mists.
+},
+{
+    80.48,90.24
+     If you're using a mask, place the mask on the nebulizer and over the person's nose and mouth.
+},
+{
+    90.24,93.96
+     Hold the nebulizer in an upright position.
+},
+{
+    93.96,98.76
+     Gently watch them breathe in and out while the medication mists.
+},
+{
+    98.76,105.52
+     Occasionally tapping the sides of the nebulizer will help the medication drop down to where
+},
+{
+    105.52,107.04
+     it can be missed.
+},
+{
+    107.04,111.06
+     Continue breathing in and out until the nebulizer starts to sputter.
+},
+{
+    111.06,113.96
+     This means most of the medication is gone.
+},
+{
+    113.96,118.08
+     It is important to clean and dry the nebulizer unit correctly.
+},
+{
+    118.08,122.88
+     Follow the manufacturer's instructions for care and cleaning the nebulizer equipment.
+},
+{
+    122.88,126.0
+     Make sure the nebulizer is completely dry before storing it.
+},

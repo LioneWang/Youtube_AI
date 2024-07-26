@@ -1,0 +1,336 @@
+{
+    0.0,2.04
+     So the eye dominance test.
+},
+{
+    2.04,5.56
+     Well, in this video, we're going to show you how to test eye dominance so that you can
+},
+{
+    5.56,8.16
+     tell if you're left eye dominant or right eye dominant.
+},
+{
+    8.16,9.64
+     So let's take a look.
+},
+{
+    9.64,10.64
+     Hey, everyone.
+},
+{
+    10.64,19.68
+     This is Dr. Joe Allen here from Dr. Eye Health.
+},
+{
+    19.68,22.64
+     The channel helps with the eyes, vision, and finding the best vision product.
+},
+{
+    22.64,27.36
+     So if you're new to the channel, be sure to subscribe so you don't miss any of my future videos. Also, at any point throughout
+},
+{
+    27.36,31.12
+     the video, you can check out the show notes and links below for further information about everything
+},
+{
+    31.12,36.08
+     that I go over. Otherwise, let's talk about eye dominance. So knowing eye dominance can be a really
+},
+{
+    36.08,40.64
+     important thing to know. I know for myself being an eye doctor, I need to know the eye dominance of
+},
+{
+    40.64,46.66
+     my patients in order to fit specialty contact lenses for mono vision as well as getting people ready for cataract surgery or
+},
+{
+    46.82,54.28
+     Even lazik eye surgery, but for just about everybody else knowing eye dominance can play a critical role for a lot of different activities
+},
+{
+    54.64,60.4
+     If you're somebody who wants to know eye dominance for shooting whether you're shooting a rifle or a shotgun
+},
+{
+    60.4,64.14
+     This can be really important, especially if you are cross-eye dominant
+},
+{
+    64.2,64.6
+     shotgun, this can be really important, especially if you are cross-eye dominant.
+},
+{
+    68.32,68.4
+     Also, if you are somebody who maybe wants to know eye dominance for archery,
+},
+{
+    71.12,71.22
+     or if you want to know eye dominance for pool or billiards,
+},
+{
+    73.0,73.04
+     this also can play a critical role.
+},
+{
+    76.72,77.0
+     Even photographers will shoot better if they know their eye dominance.
+},
+{
+    79.12,79.14
+     Now let's go over a couple of different ways where you can find out,
+},
+{
+    81.04,81.28
+     are you left eye dominant or right eye dominant?
+},
+{
+    84.56,89.28
+     So my favorite way to test eye dominance is using a distant object. So wherever you are just look in the distance find something that you can focus on. Here in the clinic as an
+},
+{
+    89.28,93.44
+     example we're going to go ahead and use the eyeball in the eye clinic logo. So while you're
+},
+{
+    93.44,97.76
+     focusing on that distant object with both eyes open you're going to go ahead and make your hands
+},
+{
+    97.76,102.24
+     into a big triangle like you're going to catch a football. You're going to extend your arms and try
+},
+{
+    102.24,105.84
+     to get that triangle to be right over that distant object.
+},
+{
+    105.84,113.34
+     Then you're going to go ahead and make that triangle smaller and smaller over that distant object until you can just barely focus that object right in the middle.
+},
+{
+    113.34,119.06
+     While keeping that object focused in the middle of the triangle, you can either choose to close one eye, kind of like here.
+},
+{
+    119.06,125.92
+     I can close my right eye and while closing that eye, if you can still see the object, then the open eye is your dominant eye.
+},
+{
+    125.92,130.04
+     If you end up closing your dominant eye during this test, you'll actually see that the object
+},
+{
+    130.04,133.84
+     is no longer centered in the middle of the triangle, it's going to be off-center.
+},
+{
+    133.84,136.56
+     Another variation of the same method that I like a little bit more because it's a little
+},
+{
+    136.56,140.72
+     bit fun, and if you're someone who can't close your eyes individually, then it's going
+},
+{
+    140.72,142.44
+     to work a little bit easier.
+},
+{
+    142.44,147.2
+     Still keep that object in the middle of the triangle, but then slowly bring your arms back,
+},
+{
+    147.2,148.56
+     keeping your eyes open,
+},
+{
+    148.56,151.44
+     and threading that object through the triangle.
+},
+{
+    151.44,154.08
+     Eventually you'll end up threading that distant object
+},
+{
+    154.08,157.36
+     right up to the eye that you're more eye-dominant in.
+},
+{
+    157.36,159.28
+     Another way you can test eye-dominance
+},
+{
+    159.28,161.84
+     is using a plus magnifying lens.
+},
+{
+    161.84,166.86
+     And as long as both eyes are actually corrected at four distance, your doctor can use these
+},
+{
+    166.86,171.04
+     plus lenses to hold it over just one eye at a time while both eyes are open.
+},
+{
+    171.04,174.86
+     The eye that's more significantly blurred is the eye that is dominant.
+},
+{
+    174.86,178.9
+     So for me, if I cover my right eye here with the plus lens, I can still see out of my left
+},
+{
+    178.9,181.66
+     eye really well so things are still relatively clear.
+},
+{
+    181.66,187.88
+     But if I cover and plus and blur out my left eye, then no, things are really blurry and it's more difficult to see.
+},
+{
+    187.88,191.24
+     There's one other method using your thumb, where you basically find that same distant
+},
+{
+    191.24,193.6
+     object and try to eclipse it with your thumb.
+},
+{
+    193.6,194.6
+     Again, both eyes open.
+},
+{
+    194.6,195.88
+     It's kind of the same principle.
+},
+{
+    195.88,200.84
+     You either close or cover one eye, and the eye that can still eclipse the object, that's
+},
+{
+    200.84,202.5
+     the eye, that's dominant.
+},
+{
+    202.5,209.24
+     Most people who are right-handed are usually right-eyed dominant as well, just like left-handed people are usually left-eyed dominant as
+},
+{
+    209.24,213.24
+     well. I'm left-eyed dominant. And that's kind of strange that I'm left-eyed dominant
+},
+{
+    213.24,217.92
+     because I'm also right-handed. We call that cross-eye dominance. And for a lot of activities
+},
+{
+    217.92,222.64
+     in sports, this can make things difficult. I find archery to be very difficult for me
+},
+{
+    222.64,226.36
+     because I can't really focus with my right eye as well as my left eye.
+},
+{
+    226.6,233.76
+     However, there has been some arguments that athletes who are cross-eye dominant have an advantage in that they can actually focus on the ball or the target
+},
+{
+    233.84,240.36
+     easier with their opposite eye because their whole bodies are usually turned toward the opposite team. As in baseball,
+},
+{
+    240.36,244.04
+     you have your body turned toward the pitcher and you're watching the ball come toward you.
+},
+{
+    244.2,248.92
+     However, they've done statistical analysis and found that that's not necessarily true.
+},
+{
+    248.92,251.44
+     But is it possible to not have a dominant eye?
+},
+{
+    251.44,252.72
+     The answer is yes.
+},
+{
+    252.72,254.96
+     Some people actually don't have a dominant eye.
+},
+{
+    254.96,257.6
+     Both eyes work relatively really well together.
+},
+{
+    257.6,260.8
+     However, that's pretty rare and uncommon to see.
+},
+{
+    260.8,264.36
+     You can go ahead and test these methods out for yourself and go ahead and comment in the
+},
+{
+    264.36,267.0
+     section below, let us know which eye dominant you are.
+},
+{
+    267.0,270.2
+     Are you a left eye dominant, right eye dominant, or maybe neither?
+},
+{
+    270.2,271.52
+     Go ahead and comment in the section below.
+},
+{
+    271.52,273.0
+     Alright everyone, thanks so much for watching.
+},
+{
+    273.0,274.0
+     Hopefully you found this video helpful.
+},
+{
+    274.0,276.0
+     Give me a big thumbs up if you liked it.
+},
+{
+    276.0,277.0
+     Subscribe if you're new to the channel.
+},
+{
+    277.0,280.04
+     And if you'd like to see other cool videos from Dr. Eye Health, just click or tap the
+},
+{
+    280.04,283.64
+     screen up here to the side, or go ahead and click or tap the screen down over here.
+},
+{
+    283.64,285.16
+     Otherwise again, this is Dr. Joe Allen here
+},
+{
+    285.16,286.06
+     from Dr. Eye Health.
+},
+{
+    286.06,287.84
+     The channel helps you with the eyes, vision,
+},
+{
+    287.84,289.68
+     and finding the best vision products.
+},
+{
+    289.68,290.7
+     Keep an eye on it.
+},
+{
+    290.7,291.9
+     We'll talk to you soon.
+},

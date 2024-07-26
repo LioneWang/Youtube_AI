@@ -1,0 +1,1156 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.46,13.4
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.4,14.24
+     Brad Heineck, physical therapist.
+},
+{
+    14.24,16.4
+     We're the most famous physical therapists on the internet.
+},
+{
+    16.4,17.8
+     In our opinion, of course, Bob.
+},
+{
+    17.8,22.28
+     Today our title is Extreme Hip Pain Gone Instantly.
+},
+{
+    22.28,24.36
+     Boy, that's asking a lot, Brad.
+},
+{
+    24.36,27.36
+     Right, that's a mouthful and we're gonna get into it
+},
+{
+    27.36,31.5
+     and that's a relatively simple treatment, if you will.
+},
+{
+    31.5,32.76
+     But before we go on.
+},
+{
+    32.76,33.88
+     If you are new to our channel,
+},
+{
+    33.88,35.38
+     please take a second to subscribe to us.
+},
+{
+    35.38,36.76
+     We provide videos on how to stay healthy,
+},
+{
+    36.76,38.68
+     fit pain free and we upload every day.
+},
+{
+    38.68,40.8
+     Also, you're gonna wanna get in on this.
+},
+{
+    40.8,43.32
+     Join our social media channels
+},
+{
+    43.32,45.2
+     and we're always doing a giveaway.
+},
+{
+    45.2,47.96
+     And today we're giving away something really cool.
+},
+{
+    47.96,50.52
+     Go to bobandbrad.com, giveaway section
+},
+{
+    50.52,52.16
+     or go to Bob and Brad,
+},
+{
+    52.16,54.28
+     pinned to the top of the page on Facebook.
+},
+{
+    54.28,55.76
+     It's also in our description below.
+},
+{
+    55.76,58.08
+     Right today, what we're giving away
+},
+{
+    58.08,60.6
+     is the Renfold foot massager.
+},
+{
+    60.6,63.44
+     So this thing is really, this device is really cool.
+},
+{
+    63.44,65.28
+     So you can stick your feet in these.
+},
+{
+    65.28,67.32
+     Brad's gonna demonstrate here.
+},
+{
+    67.32,69.48
+     I'm not gonna hand them, I'm not gonna put my feet in there.
+},
+{
+    69.48,71.84
+     Yeah, and it's got different settings.
+},
+{
+    71.84,75.16
+     They'll give compression and it'll also kind of roll
+},
+{
+    75.16,76.32
+     on the bottom of your foot.
+},
+{
+    76.32,78.24
+     Right, it's got little massage balls in there.
+},
+{
+    78.24,83.24
+     And to me, like the highest setting is just barely tolerable.
+},
+{
+    83.64,84.88
+     Some younger people probably think,
+},
+{
+    84.88,86.6
+     well, I think, oh, that's perfect.
+},
+{
+    86.6,88.48
+     But so it's got something for everybody.
+},
+{
+    88.48,91.28
+     So our patients love it.
+},
+{
+    91.28,92.32
+     What about the hip, Bob?
+},
+{
+    92.32,94.0
+     Oh, let's get to the hip now.
+},
+{
+    94.0,94.96
+     I'm hip, I'm hip.
+},
+{
+    94.96,97.28
+     So extreme hip pain, you know,
+},
+{
+    97.28,100.24
+     we've dealt, Bob, and I've dealt with hip pain,
+},
+{
+    100.24,102.48
+     well, personally myself, but with patients all the time.
+},
+{
+    102.48,103.68
+     I've had it myself too.
+},
+{
+    103.68,104.68
+     Sure.
+},
+{
+    104.68,106.28
+     And I did some of these, Brad, by the way.
+},
+{
+    106.28,108.32
+     Yeah, this is something we do in the clinic
+},
+{
+    108.32,111.32
+     on a regular basis for some of the hip pain.
+},
+{
+    111.32,112.76
+     Now we're gonna look at the hip first.
+},
+{
+    112.76,114.92
+     Here we got Sam.
+},
+{
+    114.92,117.16
+     And if we look at the hip joint,
+},
+{
+    117.16,120.48
+     here we have the ball and the socket.
+},
+{
+    120.48,121.92
+     We don't have metal pieces in there,
+},
+{
+    121.92,123.76
+     at least most of us don't, hopefully.
+},
+{
+    123.76,126.4
+     But there is some connective tissue in the capsule
+},
+{
+    126.4,128.8
+     and a number of other soft tissues.
+},
+{
+    128.8,130.24
+     That's what the brown represents.
+},
+{
+    130.24,131.56
+     What we call the capsule.
+},
+{
+    131.56,133.12
+     It's this tough ligamentous stuff
+},
+{
+    133.12,135.08
+     that helps hold the hip in place.
+},
+{
+    135.08,136.08
+     Exactly.
+},
+{
+    136.08,138.44
+     So there's potential there for that to get pinched.
+},
+{
+    138.44,139.28
+     Yes.
+},
+{
+    139.28,140.48
+     There's other tissues in there.
+},
+{
+    140.48,141.52
+     I'm not gonna go too long.
+},
+{
+    141.52,143.12
+     They could get pinched in the hip.
+},
+{
+    143.12,144.68
+     That can cause severe pain.
+},
+{
+    144.68,147.34
+     Also, and most commonly, it's arthritis.
+},
+{
+    147.34,149.66
+     Right, or the labrum part of it can break off.
+},
+{
+    149.66,150.5
+     There you go.
+},
+{
+    150.5,153.34
+     Yeah, that's another part of the cartilage in there.
+},
+{
+    153.34,155.22
+     But what we're going to do now,
+},
+{
+    155.22,158.3
+     if the hip pain is consistently with weight bearing,
+},
+{
+    158.3,160.7
+     when you walk, when you put weight through the joint,
+},
+{
+    160.7,164.54
+     which is very common, if we, oh, can you see that?
+},
+{
+    164.54,166.36
+     Liz, can we zoom in? Excellent work. So, we got, we have the joint, which is very common. If we, oh, can you see that? Liz, can we zoom in?
+},
+{
+    166.36,167.76
+     Excellent work.
+},
+{
+    167.76,171.28
+     So, we got the ball and then we have it in the socket.
+},
+{
+    171.28,173.32
+     So what I'm gonna do, if it's with weight bearing,
+},
+{
+    173.32,175.0
+     that means weight's going through the femur,
+},
+{
+    175.0,177.92
+     pushing the ball into the socket, which is normal.
+},
+{
+    177.92,180.44
+     But if there's pain associated with that,
+},
+{
+    180.44,182.88
+     oftentimes if we go the opposite direction
+},
+{
+    182.88,185.4
+     and pull and separate it, that can relieve the pain instantly. And that's where we go the opposite direction and pull and separate it,
+},
+{
+    185.4,187.76
+     that can relieve the pain instantly.
+},
+{
+    187.76,189.08
+     And that's where we got the title from
+},
+{
+    189.08,190.64
+     because you do that and the person says,
+},
+{
+    190.64,192.6
+     oh my goodness, that feels better.
+},
+{
+    192.6,194.6
+     You're on to something and you're gonna work with that.
+},
+{
+    194.6,196.52
+     It's a sign of what's going on a little bit too.
+},
+{
+    196.52,197.36
+     Right.
+},
+{
+    197.36,198.44
+     There's something in the joint itself
+},
+{
+    198.44,200.16
+     that's giving you trouble.
+},
+{
+    200.16,202.56
+     So, and I mentioned this is relatively easy
+},
+{
+    202.56,203.76
+     and to do this, we're gonna,
+},
+{
+    203.76,205.72
+     Liz volunteered to be our,
+},
+{
+    205.72,206.56
+     our,
+},
+{
+    206.56,208.44
+     I would say two of them are easy.
+},
+{
+    208.44,210.8
+     One of them is, you'd probably need a therapist.
+},
+{
+    210.8,212.4
+     Yeah, probably for the clinic.
+},
+{
+    212.4,213.74
+     But we'll show you a little bit of that.
+},
+{
+    213.74,214.72
+     Yeah, we'll show it to you anyway.
+},
+{
+    214.72,215.56
+     You bet.
+},
+{
+    215.56,217.6
+     We'll give you the whole smear.
+},
+{
+    219.0,220.88
+     All right, we're gonna switch places.
+},
+{
+    221.96,225.0
+     Okay, now I would expect you'll see the camera shaking
+},
+{
+    225.8,227.6
+     and everything else going on with Bob Bacter,
+},
+{
+    227.6,228.64
+     but just be patient.
+},
+{
+    228.64,230.6
+     Everything will work out.
+},
+{
+    230.6,232.54
+     A rookie, I already shook it.
+},
+{
+    232.54,235.72
+     Okay, now Liz isn't mic'd up, so she may talk,
+},
+{
+    235.72,236.64
+     but you may not hear it.
+},
+{
+    236.64,238.0
+     It's not that we don't want to hear it,
+},
+{
+    238.0,240.8
+     but for this purpose, this is okay.
+},
+{
+    242.0,242.84
+     Are you ready, Bob?
+},
+{
+    242.84,244.0
+     I'm ready, let's roll it.
+},
+{
+    244.0,246.2
+     Okay, so, you know, with the person laying down,
+},
+{
+    246.2,247.96
+     you could do it on the floor, it's kind of hard.
+},
+{
+    247.96,250.92
+     On a bed, it works as a best place, just like this.
+},
+{
+    250.92,252.68
+     Liz will be completely relaxed.
+},
+{
+    252.68,254.64
+     Her right hip is the one with pain.
+},
+{
+    254.64,256.64
+     When she walks on it, it goes up and down steps
+},
+{
+    256.64,258.28
+     usually because that's sharp pain.
+},
+{
+    258.28,261.8
+     Simply what you're gonna do is have the person relax
+},
+{
+    261.8,264.6
+     and grab the ankle and I'll just kind of wiggle the leg
+},
+{
+    264.6,265.04
+     a little bit
+},
+{
+    265.04,267.32
+     to make sure they're relaxed and not tense.
+},
+{
+    267.32,271.0
+     And then gently pull this direction
+},
+{
+    271.0,272.8
+     so we're putting traction on it.
+},
+{
+    272.8,274.0
+     So, and I'll do this and say,
+},
+{
+    274.0,275.84
+     how does that feel with a little pressure?
+},
+{
+    275.84,277.12
+     I mean, just a little bit.
+},
+{
+    277.12,279.84
+     And if the person says, oh, that feels kind of good,
+},
+{
+    279.84,282.08
+     then I'll pull a little bit more.
+},
+{
+    282.08,283.78
+     And if that feels better,
+},
+{
+    283.78,286.86
+     I'm never gonna get to the point where I'm pulling aggressively.
+},
+{
+    287.98,288.82
+     And I-
+},
+{
+    288.82,290.52
+     I wanna make sure that people know too,
+},
+{
+    290.52,292.82
+     you would never do this with a total hip replacement.
+},
+{
+    292.82,293.66
+     Right, right.
+},
+{
+    293.66,296.56
+     This is someone, you wouldn't have arthritis
+},
+{
+    296.56,297.78
+     on a total hip, so I, yeah,
+},
+{
+    297.78,299.78
+     if it was a total hip, it's time to go to the doctor.
+},
+{
+    299.78,300.62
+     Right, right.
+},
+{
+    300.62,302.18
+     And they get the orthopedic surgeon to look at it,
+},
+{
+    302.18,303.98
+     they'll probably take X-rays and whatnot.
+},
+{
+    303.98,305.24
+     So I'll do that.
+},
+{
+    305.24,308.4
+     Sometimes I'll pull on it, but it really won't respond well.
+},
+{
+    308.4,311.92
+     So then I'll take the toes or the leg
+},
+{
+    311.92,314.72
+     and internally rotate it slightly, just a little bit,
+},
+{
+    314.72,317.96
+     not gonna twist hard, just a little bit till it stops.
+},
+{
+    317.96,321.02
+     And then I'll pull again and see how it responds there.
+},
+{
+    321.02,322.6
+     And then I may go the other direction,
+},
+{
+    322.6,325.44
+     because sometimes one direction,
+},
+{
+    325.44,328.08
+     either inward or outward, can make a big difference
+},
+{
+    328.08,329.56
+     on the reduction in pain.
+},
+{
+    329.56,334.2
+     Yes, it can reproduce, oh no, take away the pain
+},
+{
+    334.2,335.2
+     is what I'm trying to say.
+},
+{
+    335.2,336.36
+     Abolish it, Bob.
+},
+{
+    336.36,337.68
+     Abolish it, how's that work?
+},
+{
+    337.68,339.92
+     And if none of those work, then I'll do this
+},
+{
+    339.92,343.88
+     and I'll abduct or go out to the side a little bit
+},
+{
+    343.88,346.56
+     and then I'll put a little traction on it
+},
+{
+    346.56,350.68
+     and also I can rotate outward or inward gently.
+},
+{
+    350.68,352.44
+     And oh, this is gentle.
+},
+{
+    352.44,353.8
+     You do not need to pull hard.
+},
+{
+    353.8,356.0
+     If it's gonna work, it's gonna work really well
+},
+{
+    356.0,358.2
+     and the person will say, oh, that feels good.
+},
+{
+    358.2,360.52
+     And then I've done it where I've just held people there
+},
+{
+    360.52,363.0
+     for 30 seconds until I get too tired
+},
+{
+    363.0,365.88
+     and then I'll relax and it can be real beneficial.
+},
+{
+    365.88,368.64
+     If that works and the person's time to go home
+},
+{
+    368.64,370.64
+     and they don't have anybody at home
+},
+{
+    370.64,374.08
+     that can reproduce the treatment,
+},
+{
+    374.08,376.46
+     I'll have the person, why don't you get up Liz.
+},
+{
+    377.82,380.92
+     If they have a stairway or a stool at home.
+},
+{
+    382.6,385.8
+     Now Liz, we're gonna say it's her left hip fur,
+},
+{
+    385.8,387.08
+     so you can see it, yep.
+},
+{
+    387.08,390.04
+     Liz, I want you to stand here with your sore leg.
+},
+{
+    390.04,392.68
+     You're gonna stand up on your step
+},
+{
+    392.68,394.0
+     and hold onto the braille,
+},
+{
+    394.0,395.32
+     or here we got the bouillou stick
+},
+{
+    395.32,397.64
+     just because it's here and it works well.
+},
+{
+    397.64,400.36
+     And really relax this leg, okay?
+},
+{
+    400.36,402.44
+     And once you get it to relax, that's the traction,
+},
+{
+    402.44,404.56
+     the weight of your leg is the traction, like me pulling.
+},
+{
+    404.56,407.58
+     And then you're gonna swing it forward and backwards gently.
+},
+{
+    407.58,409.96
+     This is like the pendulum exercise for the shoulders,
+},
+{
+    409.96,411.34
+     almost identical.
+},
+{
+    411.34,415.62
+     Now you can put an ankle weight on if it feels better.
+},
+{
+    415.62,417.26
+     And that's what Liz has in place right there.
+},
+{
+    417.26,418.1
+     That's what this orange is.
+},
+{
+    418.1,420.18
+     Now a lot of people don't have an ankle weight,
+},
+{
+    420.18,422.64
+     but if you happen to live in a northern climate like we do,
+},
+{
+    422.64,425.36
+     you can just put a pair of winter boots on.
+},
+{
+    425.36,426.76
+     They weigh about a pound or two.
+},
+{
+    426.76,430.16
+     Or steel toe boots if someone has some steel toe boots.
+},
+{
+    430.16,431.52
+     Anything gets away.
+},
+{
+    431.52,433.56
+     And the idea is to relax that leg
+},
+{
+    433.56,435.64
+     and just swing it forward and backwards.
+},
+{
+    435.64,436.64
+     There you go.
+},
+{
+    436.64,437.88
+     How does that feel Liz?
+},
+{
+    437.88,439.16
+     She says it's incredible.
+},
+{
+    439.16,442.6
+     So Liz could have Wesley hang on to the leg there.
+},
+{
+    442.6,445.12
+     So she's got a little three year old.
+},
+{
+    445.12,446.92
+     Oh yeah, yeah, that would be good.
+},
+{
+    446.92,448.88
+     You know how they hold onto your legs
+},
+{
+    448.88,449.92
+     when you try to walk?
+},
+{
+    449.92,453.48
+     Now, we did mention there was gonna be a third way,
+},
+{
+    453.48,455.82
+     but probably for the therapist to do.
+},
+{
+    456.72,461.4
+     And it works best on a plant that's the right height.
+},
+{
+    461.4,463.68
+     And if you have an adjustable one, it works better.
+},
+{
+    463.68,465.4
+     But we'll show you one of our tricks.
+},
+{
+    465.4,467.24
+     So why don't you bring that knee up.
+},
+{
+    467.24,469.4
+     And actually when I was in PT school,
+},
+{
+    469.4,471.76
+     this is one of the first treatments I did on a real patient.
+},
+{
+    471.76,473.6
+     She had severe arthritis in her hip.
+},
+{
+    473.6,475.84
+     She was young, she was like 40 years old.
+},
+{
+    475.84,477.4
+     Brad, you probably want to use a towel too.
+},
+{
+    477.4,478.44
+     Yeah, we've got it right here.
+},
+{
+    478.44,479.28
+     Don't worry, Bob.
+},
+{
+    479.28,481.68
+     All right, you had me worried there.
+},
+{
+    481.68,485.92
+     So he's putting the towel around his waist
+},
+{
+    485.92,487.92
+     and around Liz's thigh.
+},
+{
+    487.92,491.72
+     Okay, so Liz is gonna put the towel where it belongs.
+},
+{
+    491.72,494.04
+     So we got around her femur, okay?
+},
+{
+    494.04,496.0
+     And what I'm gonna do is I'm gonna hold her knee
+},
+{
+    496.0,498.88
+     and bring this up to 90 degrees and she's relaxed.
+},
+{
+    498.88,500.64
+     You feel comfortable?
+},
+{
+    500.64,503.52
+     This is kind of hard to see, but it's around my waist
+},
+{
+    503.52,506.3
+     and I'm gonna push outwards with my waist
+},
+{
+    506.3,508.34
+     while I stabilize her knee.
+},
+{
+    508.34,510.9
+     And that's gonna put traction instead of
+},
+{
+    510.9,512.42
+     in the sagittal plane,
+},
+{
+    512.42,515.5
+     it's gonna go in a lateral plane or abduct it.
+},
+{
+    515.5,516.78
+     And can you feel that lose?
+},
+{
+    516.78,518.04
+     Does that feel good?
+},
+{
+    518.04,519.82
+     Yeah, she thumbs up.
+},
+{
+    519.82,521.98
+     This does typically feel good,
+},
+{
+    521.98,523.94
+     whether you got a good hip or a bad hip,
+},
+{
+    523.94,526.0
+     because we're just gently stretching it.
+},
+{
+    526.0,528.64
+     And I'll stretch this way, and I'll may hold it
+},
+{
+    528.64,530.12
+     as long as it feels good.
+},
+{
+    530.12,533.0
+     If the person says, oh, that feels good, I'll hold it.
+},
+{
+    533.0,535.96
+     Usually as long as I can, which is 30 seconds a minute,
+},
+{
+    535.96,538.08
+     and I'll need a little break and move.
+},
+{
+    538.08,540.8
+     Sometimes I may go to this angle or straight,
+},
+{
+    540.8,542.2
+     and I'll work whichever works good.
+},
+{
+    542.2,545.68
+     Sometimes I'll move it gently if it feels good
+},
+{
+    545.68,547.0
+     so we get some motion.
+},
+{
+    547.0,549.68
+     Now we mentioned if there's a pinched tissue
+},
+{
+    549.68,551.7
+     or the capsule might be pinched in there,
+},
+{
+    551.7,554.04
+     if we can get it out of there and unpinched
+},
+{
+    554.04,556.48
+     and we can move it so it stays out,
+},
+{
+    556.48,559.4
+     then you're successful and you'll be able to walk around
+},
+{
+    559.4,561.8
+     and you'll, you know, as a therapist you feel like,
+},
+{
+    561.8,562.92
+     and the patient loves you
+},
+{
+    562.92,565.92
+     because he just cured their extremely sore hip.
+},
+{
+    565.92,568.52
+     So this doesn't work in all the hips, of course,
+},
+{
+    568.52,570.68
+     but it's easy to do, especially the traction
+},
+{
+    570.68,574.72
+     and the standing, and there's no negative effects to it.
+},
+{
+    574.72,575.56
+     So.
+},
+{
+    575.56,577.36
+     Yeah, I was actually able to do this to myself.
+},
+{
+    577.36,580.04
+     I took a belt and I put it around a stable object.
+},
+{
+    580.04,581.68
+     It was actually a weight bench.
+},
+{
+    581.68,582.52
+     Oh, really?
+},
+{
+    582.52,585.6
+     And then I just, I scooted myself away from it.
+},
+{
+    585.6,586.44
+     Oh okay.
+},
+{
+    586.44,588.2
+     And then, yeah, and it actually took away my hip pain.
+},
+{
+    588.2,589.56
+     I was having troubles in that.
+},
+{
+    589.56,590.4
+     Excellent.
+},
+{
+    590.4,591.22
+     Yeah, so.
+},
+{
+    591.22,592.06
+     I'd like to see a video of that.
+},
+{
+    592.06,593.82
+     Yeah, yeah, yeah.
+},
+{
+    593.82,595.4
+     Again, that's a lot more technical.
+},
+{
+    595.4,598.56
+     I wouldn't expect people to try that one.
+},
+{
+    598.56,602.16
+     I mean, you could mention it to a trainer or a therapist
+},
+{
+    602.16,603.0
+     and see if they could.
+},
+{
+    603.0,603.84
+     Right, so it's a little experience.
+},
+{
+    603.84,604.68
+     Right, right.
+},
+{
+    604.68,608.92
+     And then the enemy and working with people. So, I don't know Bob, if this has anything to do with,
+},
+{
+    609.44,610.28
+     you know.
+},
+{
+    610.28,611.12
+     We can fix just about anything.
+},
+{
+    611.12,611.96
+     Except for.
+},
+{
+    611.96,612.8
+     A broken heart.
+},
+{
+    612.8,614.24
+     What do you say Liz?
+},
+{
+    614.24,616.0
+     Yeah, she's showing the heart.
+},
+{
+    616.0,None
+     All right. you
+},

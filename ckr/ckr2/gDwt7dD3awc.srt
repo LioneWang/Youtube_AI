@@ -1,0 +1,168 @@
+{
+    0.0,12.88
+     A heart attack happens when the supply of blood to the heart muscle is suddenly blocked,
+},
+{
+    12.88,14.88
+     usually by a blood clot.
+},
+{
+    14.88,20.0
+     Lots of people make a full recovery but there's a serious risk that the heart might stop beating
+},
+{
+    20.0,22.44
+     called a cardiac arrest.
+},
+{
+    22.44,25.2
+     It's vital that you help someone who's having a heart attack
+},
+{
+    25.2,31.44
+     and call 999 or woman 2 for emergency help straight away. People who suffer from angina
+},
+{
+    31.44,37.12
+     are at increased risk of having a heart attack. Angina is chest pain, often described as a
+},
+{
+    37.12,42.64
+     heaviness or a squeezing pain in the chest. The pain should ease within a few minutes if the
+},
+{
+    42.64,45.16
+     person rests straight away and takes
+},
+{
+    45.16,47.72
+     their angina medication.
+},
+{
+    47.72,54.88
+     If the pain does not settle, it is safer to presume it is a heart attack.
+},
+{
+    54.88,59.08
+     If you think someone is having a heart attack, then make sure some of the following signs
+},
+{
+    59.08,60.08
+     are.
+},
+{
+    60.08,66.44
+     Pain in the chest which could spread to the jaw, neck or arms. Breathlessness.
+},
+{
+    66.44,70.92
+     Discomfort in the stomach, similar to severe indigestion.
+},
+{
+    70.92,72.48
+     Collapsing without warning.
+},
+{
+    72.48,76.2
+     They may suddenly feel faint or dizzy.
+},
+{
+    76.2,79.88
+     They may experience a feeling of impending doom.
+},
+{
+    79.88,83.12
+     Peel skin with blueness at the lips.
+},
+{
+    83.12,87.0
+     They may have a rapid, weak or irregular pulse, sweating,
+},
+{
+    87.0,93.4
+     or be gasping for air. If you do come across someone with these symptoms, call 999 or Woman
+},
+{
+    93.4,99.44
+     to immediately and say you think they are having a heart attack.
+},
+{
+    99.44,104.0
+     After you've made the call, help move them into a comfortable position to help ease the
+},
+{
+    104.0,106.04
+     strain on the heart. The
+},
+{
+    106.04,111.24
+     best type of position is sitting on the floor with their head and shoulders supported and
+},
+{
+    111.24,120.72
+     the knees bent. Place cushions behind them and under their knees.
+},
+{
+    120.72,127.76
+     Then if you can, and if they're not allergic, give them an aspirin tablet 300 mg and tell
+},
+{
+    127.76,130.88
+     them to chew it slowly.
+},
+{
+    130.88,135.52
+     Aspirin should not be given to someone under the age of 16.
+},
+{
+    135.52,140.32
+     If they have angioma medication, you can help them to take it.
+},
+{
+    140.32,142.44
+     Encourage them to rest.
+},
+{
+    142.44,146.16
+     While you wait for help to arrive, monitor their breathing, pulse,
+},
+{
+    146.16,152.8
+     and level of response. Try to stay calm to avoid unnecessary stress. If they become unresponsive
+},
+{
+    152.8,159.68
+     at any time, open the airway, check their breathing, and prepare a treat and unresponsive casually.
+},
+{
+    160.24,166.72
+     You may need to do CPR. So remember, if you think someone is having a heart attack,
+},
+{
+    167.28,170.6
+     call 999 or 112 immediately,
+},
+{
+    171.24,174.88
+     help move them into a comfortable position and encourage them to rest.
+},
+{
+    176.16,182.8
+     Give them 300 mg of aspirin to chew and help them with their angelic medication if they have some.
+},
+{
+    183.6,186.0
+     While you wait for help, keep checking their
+},
+{
+    186.0,193.04
+     breathing, pulse and level of response. And that's how we help someone who may be having a heart attack.
+},
+{
+    195.04,200.0
+     If this video has been helpful to you, help support St John Ambulance by going to
+},
+{
+    218.0,None
+     sja.org.uk forward slash donate.
+},

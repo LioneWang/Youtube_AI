@@ -1,0 +1,172 @@
+{
+    0.0,6.16
+     Our message is to those people that work in industrial settings where they would be at
+},
+{
+    6.16,11.76
+     risk of their limb being entrapped, farmers in the agricultural setting, and dialysis
+},
+{
+    11.76,19.12
+     patients should all consider having access, ready access to a tourniquet.
+},
+{
+    19.12,26.2
+     The first person we teach to put a tourniquet on is the individual putting it on themselves.
+},
+{
+    26.2,32.96
+     And if you do not have that tourniquet on your person, then you may not be able to get
+},
+{
+    32.96,33.96
+     to it.
+},
+{
+    33.96,39.12
+     Certainly, this is a big push in law enforcement.
+},
+{
+    39.12,44.72
+     All of the law enforcement officers should be being trained, should be personally wearing,
+},
+{
+    44.72,45.16
+     is what I call
+},
+{
+    45.16,48.68
+     it, wearing a tourniquet, much the same as you would wear a belt.
+},
+{
+    48.68,53.4
+     What you have to have is a wound that would be amenable to the placement of a tourniquet.
+},
+{
+    53.4,58.54
+     If the wound is too high up on the body, then there's no way to get the tourniquet between
+},
+{
+    58.54,61.68
+     where the wound is and the heart.
+},
+{
+    61.68,65.22
+     So if the wound is here in the forearm, you can put a tourniquet on above
+},
+{
+    65.22,72.72
+     that level or even higher up if you want to. And these tourniquets are manufactured specifically
+},
+{
+    72.72,76.88
+     for hemorrhage control purposes, have been tested, and they are endorsed by the Committee
+},
+{
+    76.88,80.92
+     on Tactical Combat Casualty Care. There are a lot of counterfeit tourniquets out there
+},
+{
+    80.92,85.28
+     that don't really work very well at all, and we don't want to use those kinds of tourniquets out there that don't really work very well at all and we don't
+},
+{
+    85.28,89.72
+     want to use those kinds of tourniquets in this situation. So what we'll do is
+},
+{
+    89.72,95.16
+     we'll place this tourniquet around the limb, loosen up this Velcro strap here,
+},
+{
+    95.16,101.36
+     tighten this down as best we can above the level of the wound, okay, then we're
+},
+{
+    101.36,107.28
+     going to secure this Velcro on here like so and then just like the old Boy Scout
+},
+{
+    107.28,116.0
+     Windlass and Kravart, we're going to turn this windlass until the bleeding stops and we feel
+},
+{
+    116.0,124.16
+     that there's no pulse distal to that tourniquet. And then we'll secure this in place and then
+},
+{
+    124.16,126.16
+     we'll monitor this wound to make
+},
+{
+    126.16,130.56
+     sure that as the patient improves and the blood pressure goes up that she
+},
+{
+    130.56,135.4
+     doesn't start to rebleed. We're not going to leave this on for hours and hours.
+},
+{
+    135.4,140.04
+     We're going to rush this patient to definitive care at a trauma center and
+},
+{
+    140.04,147.2
+     we'll get control over that bleeding, get rid of the tourniquet, and then restore perfusion to the hand.
+},
+{
+    147.2,149.8
+     But right now, there's no blood flow getting in down here
+},
+{
+    149.8,151.44
+     because we have this tightened up.
+},
+{
+    151.44,154.88
+     So the rule that we use for taking the tourniquet down
+},
+{
+    154.88,157.4
+     is at the definitive care site.
+},
+{
+    157.4,158.88
+     Don't take it down beforehand.
+},
+{
+    159.8,162.96
+     We use tourniquets every day in operating rooms
+},
+{
+    162.96,165.28
+     for orthopedic procedures for hours
+},
+{
+    165.28,166.28
+     at a time.
+},
+{
+    166.28,172.48
+     On our military experience and now our civilian experience would demonstrate to us that several
+},
+{
+    172.48,179.56
+     hours of use of a tourniquet to control hemorrhage does not result in significant complications.
+},
+{
+    179.56,184.36
+     And our experience with that is we've now got more than 100 patients treated by Gold
+},
+{
+    184.36,186.32
+     Cross and Mayo One with the
+},
+{
+    186.32,194.72
+     use of extremity tourniquets and they carry with them a greater than 95 percent success rate in
+},
+{
+    194.72,196.08
+     stopping bleeding.
+},

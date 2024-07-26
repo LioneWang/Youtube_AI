@@ -1,0 +1,52 @@
+{
+    0.0,18.0
+     Prepare your kit. You will need a meter, testrips, a finger pricker or a lancing device, a lancet,
+},
+{
+    18.0,27.92
+     cotton wool and a monitoring diary to record the results. Step one, wash your hands first.
+},
+{
+    27.92,32.4
+     Make sure your hands are thoroughly dry before starting the test.
+},
+{
+    32.4,39.4
+     Load a new lancet into the finger breaker or lancing device.
+},
+{
+    49.0,74.1
+     It snaps in there. Load a test strip into the blood glucose meter. This one switches on as you put the test drip in. Prick your finger at the sides
+},
+{
+    74.1,93.4
+     as it's less painful than at the tip or at the pad, so prick it on the sides, just here. Give a little squeeze. Not too hard. If you need to squeeze too hard,
+},
+{
+    93.4,108.6
+     then take another test and prick your finger again. Just check the machine is on before you put the blood onto the strip. The result should appear
+},
+{
+    108.6,114.76
+     within a few seconds. There we go, it's a little bit low, 3.6, I'll need to treat that
+},
+{
+    114.76,121.12
+     with some glucose tablets. Just clean your finger, clean the blood off the fingers, remove
+},
+{
+    121.12,128.16
+     the test strip which can be thrown away and make sure that the the
+},
+{
+    128.16,133.6
+     lancet in the machine is disposed of in the sharp spin.
+},
+{
+    141.08,150.0
+     Finally, record your results in a blog Lucas monitoring diary as I have here.
+},
+{
+    150.0,None
+     That's 3.6 and that's after lunch.
+},

@@ -1,0 +1,724 @@
+{
+    0.0,5.48
+     Hey everyone, it's Sarah with RegisterNurseryN.com and in this video I'm going to go over some
+},
+{
+    5.48,8.52
+     tips for drawing blood.
+},
+{
+    8.52,14.12
+     As a nursing student, nurse, or even a phlebotomist, you will have to draw blood.
+},
+{
+    14.12,16.72
+     As a nursing student, you'll be learning how to draw blood.
+},
+{
+    16.72,22.64
+     So, in this video, I'm going to talk about why we draw blood in the healthcare field,
+},
+{
+    22.64,26.08
+     give you some tips on how to do this, like setting
+},
+{
+    26.08,30.56
+     up your materials, whether to use butterflies or straight needles.
+},
+{
+    30.56,34.2
+     And I'm going to go over the best spots for drawing blood.
+},
+{
+    34.2,39.8
+     And I'm actually going to show you on a person the veins that tend to be the best for drawing
+},
+{
+    39.8,45.32
+     and where you can actually see those and give you the proper names of those veins.
+},
+{
+    45.32,50.72
+     Then lastly, I'm going to cover some troubleshooting because sometimes whenever you're drawing blood,
+},
+{
+    50.72,54.36
+     the blood will quit coming out into your tube.
+},
+{
+    54.36,55.72
+     What should you do?
+},
+{
+    55.72,58.88
+     And talk to you about some things that sometimes happen.
+},
+{
+    58.88,62.84
+     So first let's talk about why we draw blood.
+},
+{
+    62.84,67.76
+     Okay, in the healthcare field doctors it is like standard protocol.
+},
+{
+    67.76,71.34
+     Every time a patient comes in, even if you go to the clinic, your doctor is going to
+},
+{
+    71.34,77.32
+     order blood work. Blood work tells me tells us so much about a patient's status. For instance,
+},
+{
+    77.32,87.8
+     it tells us their electrolyte status, how's their sodium, their potassium, their calcium. It tells us if they have a certain disease.
+},
+{
+    87.8,95.32
+     It also tells us if we can check their drug level, say they've came in and we think that
+},
+{
+    95.32,100.72
+     they've maybe taken too much of their antidepressant by accident called lithium or something like
+},
+{
+    100.72,105.52
+     that, we can see, check that drug level. So it tells us so much about a patient.
+},
+{
+    105.52,110.4
+     So it's really important that as a nursing student, a nurse or phlebotomist, that we know how to do
+},
+{
+    110.4,118.56
+     this efficiently. So let's go over some tips. Okay, the very first thing that I always had issues with
+},
+{
+    118.56,127.56
+     at first was getting the right tubes for what the doctor ordered. For instance, each tube has certain additives
+},
+{
+    127.56,133.6
+     or maybe no additives in it that certain labs go into. And a lot of hospitals or clinics
+},
+{
+    133.6,140.32
+     wherever you work will have a chart that will tell you what each ordered thing by the doctor
+},
+{
+    140.32,150.32
+     goes into. For instance, at most facilities a CBC, which is a complete blood count, will go in a purple tube or your co-ag, your coagulants will go like
+},
+{
+    150.32,155.16
+     PT, INRs will go in a blue tube. So you always want to make sure that you're
+},
+{
+    155.16,160.48
+     getting the right tubes before you go draw blood because you don't want to be
+},
+{
+    160.48,165.92
+     in there, you work so hard to get that vein, you hit that vein, you drew your
+},
+{
+    165.92,171.08
+     blood in your nice little tubes and then you send it to the lab and lab calls you and says,
+},
+{
+    171.08,173.76
+     you sent us the wrong tubes for what the doctor ordered.
+},
+{
+    173.76,174.76
+     This isn't going to work.
+},
+{
+    174.76,177.12
+     You're going to have to draw the blood again because you don't want to go to that patient.
+},
+{
+    177.12,178.92
+     Oh, I'm going to draw your blood again because I messed up.
+},
+{
+    178.92,179.92
+     It makes you look bad.
+},
+{
+    179.92,182.36
+     So always make sure you're getting those right tubes.
+},
+{
+    182.36,187.8
+     Okay, next, whenever you're first starting out, make sure that you are getting familiar
+},
+{
+    187.8,189.52
+     with your equipment.
+},
+{
+    189.52,190.72
+     Every place is set up differently.
+},
+{
+    190.72,191.72
+     They have different equipment.
+},
+{
+    191.72,197.44
+     But generally, you have your selection on what you can use needle-wise.
+},
+{
+    197.44,201.64
+     I like to use butterfly needles, which I'll show you what one looks like here in a second,
+},
+{
+    201.64,210.6
+     versus the straight. The butterfly needles, it's like the needle and it has two wings, one on each side, and
+},
+{
+    210.6,215.16
+     you can grip that as you go in to stick the patient's vein.
+},
+{
+    215.16,220.24
+     What's really great about the butterfly, the wings are great, but is that whenever you
+},
+{
+    220.24,226.56
+     actually hit that vein, you see a little flash of blood and you know that you're in there.
+},
+{
+    226.56,231.36
+     Whenever I have you straight needles, you don't know if you hit the vein. Only how you know is when
+},
+{
+    231.36,237.04
+     you pop the tube on the vacutainer and blood starts coming out. So I really recommend if you were
+},
+{
+    237.04,242.64
+     first starting out that you start with these butterfly needles. And here is a picture of a
+},
+{
+    242.64,245.58
+     butterfly needle, the first what you you'll see. Then you're
+},
+{
+    245.58,250.52
+     going to see another picture of someone actually drawing blood on a patient and they're using
+},
+{
+    250.52,255.66
+     the straight needle. Also note in that picture how there's a vacutainer attached to that
+},
+{
+    255.66,275.64
+     needle and then you have the tube which is collecting the blood. Okay, next, I wanted you to pay attention to that vacutainer in the previous picture
+},
+{
+    275.64,281.08
+     because whenever you're getting familiar with this, you need to know how to properly
+},
+{
+    281.08,286.36
+     screw on the vacutainer to the tubing of the needle.
+},
+{
+    286.36,290.26
+     As with the butterfly, if you notice that you have the butterfly needle, then you have
+},
+{
+    290.26,292.2
+     this long piece of tubing.
+},
+{
+    292.2,295.44
+     That's where your vacutainer will screw on to.
+},
+{
+    295.44,300.0
+     The vacutainer, actually, what's in it, it looks like this little rubber part, but whenever
+},
+{
+    300.0,305.98
+     you pop that tube onto the vacutainer, there's a needle that goes down into that tube.
+},
+{
+    305.98,311.9
+     That section from the tube causes the blood to fill into the tube.
+},
+{
+    311.9,315.26
+     Get familiar with how to hook that up and set it up.
+},
+{
+    315.26,317.94
+     Also be sure you're grabbing the right supplies.
+},
+{
+    317.94,324.7
+     You'll want to take alcohol prep, some gauze with you, a tourniquet, and your right tubes,
+},
+{
+    324.7,327.16
+     and get the appropriate needle size.
+},
+{
+    327.16,333.36
+     You can pick anywhere from a 22, maybe a 23 to an 18 gauge whenever you're drawing blood.
+},
+{
+    333.36,337.94
+     I generally, whenever I'm drawing blood, I like to pick a larger needle if I have lots
+},
+{
+    337.94,344.36
+     of tubes to draw because sometimes if you use a smaller bore needle, the needle will
+},
+{
+    344.36,346.9
+     actually claw it off with the blood
+},
+{
+    346.9,349.14
+     and then you'll have to re-stick the patient.
+},
+{
+    349.14,352.44
+     So it's at your discretion with what you wanna use.
+},
+{
+    352.44,355.64
+     Okay, let's talk about the best spots for drawing blood.
+},
+{
+    355.64,356.86
+     Whenever you're drawing blood,
+},
+{
+    356.86,360.7
+     I like to go by feeling instead of seeing the vein.
+},
+{
+    360.7,362.22
+     In order to feel a vein,
+},
+{
+    362.22,364.14
+     I really recommend if you're new with this,
+},
+{
+    364.14,369.68
+     that you feel the veins on yourself or another person with great veins. Take your index finger and
+},
+{
+    369.68,375.04
+     just find veins in the bend of the arm or in the hand. The bend of the arm is the best
+},
+{
+    375.04,379.56
+     because you have some really good juicy veins there, which I'll go over here in a second.
+},
+{
+    379.56,384.0
+     And you will get what a vein feels like because once you understand what a vein feels like,
+},
+{
+    384.0,388.72
+     you can tell that it feels completely different than a tendon, a muscle, or a nerve. Because whenever
+},
+{
+    388.72,395.64
+     I was first starting out, that was my thing. I was like, am I feeling a muscle or a tendon?
+},
+{
+    395.64,400.36
+     Is that a vein? So I went home, I practiced. I practiced on my husband just feeling veins,
+},
+{
+    400.36,405.76
+     and you just know. It just has a certain springy,, spongy feel to it and you know it's a vein.
+},
+{
+    414.66,415.4
+     Okay, first let's talk about the AC area, which is called the anticoagulant fossa area, which is the inner elbow.
+},
+{
+    420.8,426.32
+     Now, there's three veins that are really great on this area, and it's this area right here. And here in a second, you're going to see me feeling on a person those veins.
+},
+{
+    426.32,430.72
+     But first, let's go over those veins real fast. My favorite vein that I absolutely love and most
+},
+{
+    430.72,438.88
+     phlebotomists and nurses who draw blood love is the Media Cubital vein. It is the vein right here
+},
+{
+    438.88,445.76
+     in the middle. You'll see it here in a second. Then also in this this area you have the basilic and the cephalic veins. Those are the
+},
+{
+    445.76,452.32
+     best for getting blood. So let's watch that video real fast of me showing you about those veins.
+},
+{
+    452.32,457.2
+     Okay. I'm going to show you real fast some popular spots that people use when drawing blood
+},
+{
+    457.2,461.36
+     in the arm. The number one spot that most nurses in phlebotomists look is in the
+},
+{
+    461.36,470.16
+     anti-cubital area. This is known as the AC region. It's the inner part of the elbow. And the first vein that most people look for is the media cubital. And it is
+},
+{
+    470.16,475.28
+     this vein right here that you see. Notice it's in the middle of these veins located over here. This
+},
+{
+    475.28,480.96
+     is a very popular spot. This is what I always go for first. Now, if I can't find it, I'll also look
+},
+{
+    480.96,486.48
+     over here in this vein. This is called the bacillic vein. It starts up in this area of
+},
+{
+    486.48,492.8
+     the arm and branches off into these accessory veins. That's another popular spot. And then another
+},
+{
+    492.8,498.4
+     spot is also called the cephalic vein. It starts up here and branches down and this is that vein
+},
+{
+    498.4,503.84
+     that you see right here. So those are the three biggest spots that most people use when drawing
+},
+{
+    503.84,505.46
+     blood or even starting IVs.
+},
+{
+    505.46,508.06
+     So, let's go over the veins in the hand.
+},
+{
+    508.06,512.66
+     Okay, the next spot that we tend to look at is the top of the hands.
+},
+{
+    512.66,516.98
+     And we usually access the dorsal venous network of veins.
+},
+{
+    516.98,521.0
+     And here in a second, you're going to see a video of what those veins look like whenever
+},
+{
+    521.0,523.1
+     they're engorged up at the top.
+},
+{
+    523.1,525.68
+     Keep in mind, in some patients, these veins are not ideal because they're engorged up at the top. Keep in mind in some patients these veins are
+},
+{
+    525.68,533.2
+     not ideal because they're really pencil thin and they tend to blow and they're really fragile.
+},
+{
+    533.2,539.44
+     But here is a video of someone who has really great veins in their hand. Okay, real fast. I'm
+},
+{
+    539.44,545.36
+     going to show you the hand veins. Some people have great hand veins and some people's hand veins are flat
+},
+{
+    545.36,550.76
+     and you really can't see them. Now here on this hand vein, on this hand you see all these
+},
+{
+    550.76,557.6
+     veins. These are called the dorsal venous network. It's just a network of veins. Typically people
+},
+{
+    557.6,563.52
+     will have different sizes and different locations of veins. But the tip whenever you're using
+},
+{
+    563.52,565.36
+     these veins, they really like to roll
+},
+{
+    565.36,566.36
+     like this.
+},
+{
+    566.36,570.56
+     So always get the person to make a fist, make it a little like fist for me, and see how
+},
+{
+    570.56,575.2
+     it's straightened that vein out, and it'll keep it from rolling whenever you go to stick
+},
+{
+    575.2,578.04
+     it for drawing blood, and that'll help you out.
+},
+{
+    578.04,583.64
+     So always first look in your anti-cubital area, and then look in your hand area.
+},
+{
+    583.64,585.76
+     So that is just a little bit about the hand veins.
+},
+{
+    585.76,589.84
+     Okay, some things you want to keep in mind whenever you're using either the AC or the
+},
+{
+    589.84,592.36
+     hand veins is preventing a vein from rolling.
+},
+{
+    592.36,597.34
+     That's one thing that really frustrates us whenever we're trying to draw blood as we
+},
+{
+    597.34,598.34
+     go in.
+},
+{
+    598.34,602.84
+     We fill the vein and we see it and then it just rolls to the side once the needle penetrates
+},
+{
+    602.84,603.84
+     the skin.
+},
+{
+    603.84,606.28
+     So some tips on how to prevent that.
+},
+{
+    606.28,608.12
+     I made a whole video on that.
+},
+{
+    608.12,612.64
+     You can see those videos down in the description on teaching you how to prevent a rolling vein.
+},
+{
+    612.64,614.2
+     I really go in depth with that.
+},
+{
+    614.2,616.44
+     But just some side notes.
+},
+{
+    616.44,620.52
+     If you're going in the AC and the veins are rolling, extend your arm out.
+},
+{
+    620.52,623.52
+     Have the patient extend their arm out.
+},
+{
+    623.52,626.86
+     And that will just keep the veins nice and straight because when you bend it
+},
+{
+    626.86,630.14
+     Bend the arm and you're trying to go in with the needle the veins more likely to roll
+},
+{
+    630.14,632.14
+     So have them straighten the arm out
+},
+{
+    632.58,636.02
+     Next if you're going in the hand because those hand veins like to roll
+},
+{
+    636.66,640.7
+     Have them make a fist and that will stabilize the vein for you
+},
+{
+    640.7,644.9
+     and another thing as a side note if you have a
+},
+{
+    641.6,647.04
+     vein for you. And another thing as a side note, if you have a patient who comes in and those veins are
+},
+{
+    647.04,652.04
+     already engorged, meaning that they're already puffed up and they don't need technically
+},
+{
+    652.04,656.96
+     a tourniquet, don't use a tourniquet because too much pressure on that vein may cause it
+},
+{
+    656.96,659.48
+     to blow and then you'll have to stick them again.
+},
+{
+    659.48,663.76
+     So if you already see the vein and it's already engorged, don't put a tourniquet on.
+},
+{
+    663.76,665.4
+     You really don't need one.
+},
+{
+    665.4,668.08
+     Okay, let's talk about some troubleshooting.
+},
+{
+    668.08,671.38
+     Sometimes whenever you go in and you're drawing blood,
+},
+{
+    671.38,675.12
+     you hit the vein and you pop your tube on
+},
+{
+    675.12,676.38
+     and you get some blood.
+},
+{
+    676.38,680.64
+     And then all of a sudden it quits flowing blood.
+},
+{
+    680.64,683.12
+     Usually this is what's happened.
+},
+{
+    683.12,685.32
+     Either your needle has clotted off. Now if this is like your second or third or fourth tube, that's probably what's happened. Either your needle has clotted off.
+},
+{
+    685.32,689.6
+     Now, if this is like your second or third or fourth tube, that's probably what's happened.
+},
+{
+    689.6,693.44
+     Maybe you didn't use a larger size needle and the blood has just collected in there and
+},
+{
+    693.44,695.2
+     clotted off.
+},
+{
+    695.2,697.88
+     Or you're up against a valve.
+},
+{
+    697.88,702.24
+     In those videos I was talking to you about, I've talked about valves, so you'll understand
+},
+{
+    702.24,703.24
+     what those are.
+},
+{
+    703.24,708.48
+     But sometimes what happens is whenever you have a vein that bifurcates or branches off
+},
+{
+    708.48,713.6
+     and you stick the needle in, sometimes you hit this valve and it will cause blood to
+},
+{
+    713.6,716.8
+     quick come pulling into your tube.
+},
+{
+    716.8,722.4
+     And what I usually do, it works really great, is if that happens to you, just barely slide
+},
+{
+    722.4,723.4
+     the needle.
+},
+{
+    723.4,729.8
+     Don't pull it out of the skin, but barely just move the needle out around in the skin. And usually that will have your blood start
+},
+{
+    729.8,736.12
+     coming back. But sometimes that happens. And also, if you say that, another thing that
+},
+{
+    736.12,741.48
+     happens is that you get a flash, you know you're in the vein, you pop your tube on,
+},
+{
+    741.48,745.04
+     and nothing's coming out at all. but you know you're in the vein.
+},
+{
+    745.04,750.44
+     Usually what's happened is that either your tube is bad, maybe it was a bad tube, because
+},
+{
+    750.44,754.04
+     sometimes that's happened to me and I popped on another tube that I had with me and it
+},
+{
+    754.04,755.8
+     drew perfectly.
+},
+{
+    755.8,762.52
+     So either you had a bad tube or you really needed to use a tourniquet in this situation
+},
+{
+    762.52,765.44
+     because the tourniquet causes so much pressure and causes
+},
+{
+    765.44,770.72
+     that blood to jet out and you don't have enough force on that vein to allow the blood to come.
+},
+{
+    770.72,775.68
+     So as another side note, if you didn't use a tourniquet, don't expect the blood to just really
+},
+{
+    775.68,779.2
+     jet out because you don't have that pressure on it. It will more just come out slowly.
+},
+{
+    780.4,785.44
+     So those are things that could happen while you're drawing blood and just help you troubleshoot,
+},
+{
+    785.44,789.52
+     hopefully to prevent you from having to remove the needle and have to stick them again.
+},
+{
+    789.52,792.4
+     So, those are some tips on how to draw blood.
+},
+{
+    792.4,796.68
+     Please check out my other videos on how to start IVs and how to find veins.
+},
+{
+    796.68,799.96
+     And thank you so much for watching and please consider subscribing to this YouTube channel.
+},

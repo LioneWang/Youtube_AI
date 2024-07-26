@@ -1,0 +1,72 @@
+{
+    0.0,20.32
+     Hey everybody, it's Doctor Jo.
+},
+{
+    20.32,22.96
+     Since most people aren't going to be able to go down the steps like that if they have
+},
+{
+    22.96,28.64
+     an injury to one of their legs, I'm going to show you how to go up and down the steps the safe way if you're
+},
+{
+    28.64,33.84
+     injured. So we have several sayings to help us remember how to go up and down the steps in the
+},
+{
+    33.84,39.44
+     therapy world. I like to always tell people go up with the good down with the bad. You might also
+},
+{
+    39.44,45.52
+     hear good things go to heaven bad things go to hell. And so what you're going to do is you want, when
+},
+{
+    45.52,52.24
+     you're going up, the good's going to go up first. So if my left side is injured, I'm going to step
+},
+{
+    52.24,59.04
+     up with my right because it's powering it up and I don't have to use that left side as much. Powering
+},
+{
+    59.04,66.0
+     up, powering up. Then you want to go down with your bad. So my left side is the bad one
+},
+{
+    66.24,68.88
+     I'm gonna bring it down first and
+},
+{
+    69.56,74.66
+     Then my right is gonna come and that is because the foot that's on the top of the step
+},
+{
+    74.66,79.52
+     Is gonna be the one doing the work. So that scares people a lot, but this one's doing the work
+},
+{
+    79.52,82.38
+     So you want the good one on top the down one?
+},
+{
+    82.96,87.0
+     Bad one going down. So there you go, just like that.
+},
+{
+    87.0,98.0
+     All right, there you have it, going up with the good. Going down with the bad.
+},
+{
+    99.0,102.88
+     If you have any questions, please leave them in the comment section. And if you'd
+},
+{
+    102.88,106.04
+     like to check out some more videos, go to AskDrJo.com.
+},
+{
+    106.04,114.6
+     And remember, be safe, have fun, and I hope you feel better soon.
+},

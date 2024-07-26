@@ -1,0 +1,532 @@
+{
+    0.0,9.48
+     What's up guys? Jared Bechstrand here, Doctor of Physical Therapy, Tonya Titan and today
+},
+{
+    9.48,14.24
+     is all about shoulder pain, specifically shoulder impingement pain. We're going to talk about
+},
+{
+    14.24,18.28
+     what it is, why you get it and then I want to show you about four simple exercises that
+},
+{
+    18.28,22.92
+     you can do at home to help eliminate this common condition. Now your shoulder is actually
+},
+{
+    22.92,28.4
+     your most mobile joint in the body because of the ball and socket anatomical arrangement. Basically what
+},
+{
+    28.4,32.36
+     happens is you get the ball or the head of the humerus, the arm bone, that sits
+},
+{
+    32.36,36.72
+     right up in the socket or the shoulder blade and that is where all this motion
+},
+{
+    36.72,41.24
+     can occur. Now under normal conditions the head of the humerus or that ball
+},
+{
+    41.24,50.0
+     sits squarely right in the middle of the socket. However, what can happen is that there can be some migration to that ball.
+},
+{
+    50.0,54.64
+     And basically the space that we're looking at is right here underneath the shoulder blade.
+},
+{
+    54.64,57.6
+     You'll see that this is looking at the side of the shoulder right here.
+},
+{
+    57.6,60.8
+     It's got this roof that sits right on the top of it.
+},
+{
+    60.8,65.6
+     There should be some space under that roof for everything to move freely. However,
+},
+{
+    65.6,71.04
+     under certain conditions and under impingement-like conditions, the head of that humerus can actually
+},
+{
+    71.04,77.28
+     migrate up and to cause some impingement or some pinching pain on this tendon right up here. This
+},
+{
+    77.28,81.6
+     is called your supraspinatus muscle. The tendon goes right through that space. If there's some
+},
+{
+    81.6,85.76
+     migration to the humerus, that can cause impingement on the
+},
+{
+    85.76,92.0
+     top of that tendon. This can lead to irritation, inflammation, and eventually even breakdown of
+},
+{
+    92.0,98.0
+     that tendon, which would cause a rotator cuff tear. So how can you tell if this is your particular
+},
+{
+    98.0,102.48
+     problem? What I want to do is run you through two simple tests that you can do right now to see if
+},
+{
+    102.48,109.08
+     your shoulder pain is actually coming from impingement. Bring your arm up into this position with the thumb up, then you're going
+},
+{
+    109.08,114.12
+     to take it out about 30 degrees to the side. Now what I want you to do is rotate your thumb
+},
+{
+    114.12,119.16
+     down. Now that might cause some pain in your shoulder just to get it into this position.
+},
+{
+    119.16,123.48
+     That would be a positive test. Yes, you do have some impingement going on. If this is
+},
+{
+    123.48,126.84
+     pain free, what you can do with your other hand is push down a little bit,
+},
+{
+    126.84,128.2
+     so I'm pushing down right here.
+},
+{
+    128.2,130.56
+     I'm resisting that motion with my arm.
+},
+{
+    130.56,136.32
+     If that reproduces your pain, that would also be considered a positive test for an impingement
+},
+{
+    136.32,137.32
+     problem.
+},
+{
+    137.32,141.92
+     Test number two would bring your painful arm up into this position about shoulder height
+},
+{
+    141.92,144.16
+     with my elbow bent to 90 degrees.
+},
+{
+    144.16,146.6
+     With my other hand, I'm going to grab my elbow
+},
+{
+    146.6,149.68
+     and then with this elbow, push down on my hand.
+},
+{
+    149.68,152.0
+     And so with my left hand, I'm going to grab my right elbow.
+},
+{
+    152.0,154.44
+     With my left elbow, I'm going to push down
+},
+{
+    154.44,156.04
+     on the back of my right hand
+},
+{
+    156.04,158.74
+     to internally rotate it into this position.
+},
+{
+    158.74,160.44
+     If that reproduces your pain,
+},
+{
+    160.44,161.88
+     that would be another indication
+},
+{
+    161.88,163.96
+     that you do have impingement going on
+},
+{
+    163.96,168.96
+     and that you should benefit from the exercises in this video. Now that we've determined that impingement is
+},
+{
+    168.96,173.6
+     actually causing your shoulder pain, what do we do about it? Well, what we need to do is show you
+},
+{
+    173.6,178.56
+     some stretches to create more space in this area right here. We actually do that with some
+},
+{
+    178.56,183.44
+     inferior capsule stretches or some stretches to kind of your armpit area. And then we also need
+},
+{
+    183.44,185.12
+     to strengthen the rotator cuff.
+},
+{
+    185.12,187.92
+     That is what is going to cause the head of that humerus
+},
+{
+    187.92,192.16
+     to sit squarely in that socket and keep it there during motion.
+},
+{
+    192.16,194.16
+     So those are the two things that I want to show you right now.
+},
+{
+    194.16,196.96
+     We're going to do some inferior shoulder capsule stretches.
+},
+{
+    196.96,199.04
+     We're going to do some rotator cuff strengthening.
+},
+{
+    199.04,201.52
+     Hopefully by the end of this video you start to feel better.
+},
+{
+    203.04,209.36
+     Now this first stretch for your shoulder and pinching pain simply involves a chair or you can also do it at a counter or at a
+},
+{
+    209.36,213.52
+     table just a nice firm surface that you can put your hand up. With your painful
+},
+{
+    213.52,216.92
+     arm you're going to put that right on the chair and then get into I like to
+},
+{
+    216.92,221.52
+     stagger my feet in this position right here. I'm going to push down on the back
+},
+{
+    221.52,232.0
+     of that chair so apply just a little downward pressure with your arm as you hinge at your hips and lower your chest for your torso down as low as you can. Now if it's
+},
+{
+    232.0,237.84
+     really painful you might not be able to get that low. I don't necessarily want you to push into pain
+},
+{
+    237.84,243.92
+     but you can go down as low as you can right to that pain point. The goal is to feel a nice stretch
+},
+{
+    243.92,245.16
+     in your armpit kind of
+},
+{
+    245.16,249.48
+     bottom of your shoulder area. I would then have you hold that for 20 seconds and
+},
+{
+    249.48,256.44
+     then repeat that up to three times. Now the next step to that would be a kneeling
+},
+{
+    256.44,260.68
+     inferior capsule stretch. This is the one that I personally prefer when my
+},
+{
+    260.68,264.4
+     shoulder gets tight. I tend to find the most relief from this one, but it does
+},
+{
+    264.4,268.24
+     require you to kneel down and a little more knee range of motion.
+},
+{
+    268.24,271.32
+     So if you can tolerate that, this is the stretch that I like.
+},
+{
+    271.32,276.88
+     You're going to get down onto all fours and then kind of sit down onto your heels.
+},
+{
+    276.88,281.96
+     Now, if it was my right arm that was painful, what I would do is reach across my body, so
+},
+{
+    281.96,285.72
+     my right arm to my left side with my palm up with my
+},
+{
+    285.72,291.08
+     left hand and then going to grab right at my wrist and then sit right down into
+},
+{
+    291.08,297.16
+     that stretch position so I'm trying to sit down onto my heels while my left hand
+},
+{
+    297.16,302.12
+     secures my right arm over my head and what you're gonna fill with this is
+},
+{
+    302.12,306.72
+     again just a really great stretch to that inferior capsule area.
+},
+{
+    306.72,310.36
+     You should feel that stretch right through your armpit.
+},
+{
+    310.36,315.04
+     Because your arm is externally rotated like this, a lot of times that gets that tendon
+},
+{
+    315.04,318.88
+     out of the way so that impingement pain isn't too severe.
+},
+{
+    318.88,323.84
+     But again, what I want you to do is go down as low as your pain will allow.
+},
+{
+    323.84,325.52
+     The goal is to feel that stretch through
+},
+{
+    325.52,330.08
+     your armpit without the pain on the top of your shoulder. You would then hold that for 20 seconds
+},
+{
+    330.08,334.4
+     and you would repeat that three times. Now bonus exercise and I'm going to throw in one quick
+},
+{
+    334.4,339.52
+     bonus. It's another one of my favorites. If you have access to a pull-up bar that's also a great
+},
+{
+    339.52,348.68
+     way to stretch out this inferior capsule or the bottom part of your shoulder. Simply hang from your pull at bar with your toes lightly on the ground until you get a
+},
+{
+    348.68,353.28
+     nice good stretch in through that armpit area. Once again, I don't want it to hurt
+},
+{
+    353.28,356.56
+     the top of your shoulder. I want you to feel it pull through the bottom of your
+},
+{
+    356.56,360.52
+     shoulder. This method is certainly a little more aggressive, but if you can
+},
+{
+    360.52,366.44
+     tolerate it, also incredibly effective. Now that we have that shoulder nice and stretched out,
+},
+{
+    366.44,369.28
+     let me show you how to strengthen your rotator cuff.
+},
+{
+    369.28,372.2
+     The two exercises that I love to do that at home
+},
+{
+    372.2,373.76
+     with no equipment required
+},
+{
+    373.76,376.88
+     are going to be a progression from scapular pinches
+},
+{
+    376.88,378.28
+     into some wall angels.
+},
+{
+    378.28,379.8
+     So let's show you how to do those.
+},
+{
+    379.8,382.64
+     What I want you to do is come and back up to a wall.
+},
+{
+    382.64,384.56
+     I've got my hips, my shoulder blades,
+},
+{
+    384.56,386.84
+     and the back of my head up against the wall.
+},
+{
+    386.84,388.24
+     So I'm in this really good posture.
+},
+{
+    388.24,392.16
+     What I want you to do is tuck your shoulder blades together, so kind of pull them down
+},
+{
+    392.16,393.16
+     and back.
+},
+{
+    393.16,398.2
+     Now the area on our hands that I'm worried about is the top of your fist, this spot right
+},
+{
+    398.2,399.2
+     here.
+},
+{
+    399.2,401.32
+     Okay, that's our target, that's what we're after.
+},
+{
+    401.32,403.24
+     So get into that really good posture.
+},
+{
+    403.24,408.72
+     My elbows are going to stay at 90 degrees, and my goal is I want to rotate at my shoulders
+},
+{
+    408.72,414.36
+     until that part of my hands touch the wall. Hold one two and then come right
+},
+{
+    414.36,418.68
+     back down. The primary mistake that I see people make with this is that they
+},
+{
+    418.68,422.12
+     straighten their elbow out so the straighter your elbow the easier this
+},
+{
+    422.12,428.48
+     is going to be. I want you to keep that elbow tucked in and right at a 90 degree angle while you're doing
+},
+{
+    428.48,429.48
+     this exercise.
+},
+{
+    429.48,432.8
+     And then try not to let your elbows come out in front of your body.
+},
+{
+    432.8,436.96
+     So try to keep your elbows tucked back as you're rotating through your shoulders just
+},
+{
+    436.96,440.92
+     to get that top part of your hand right back to the wall.
+},
+{
+    440.92,445.68
+     What I want you to do is shoot for about 10 to 15 repetitions of these scapular
+},
+{
+    445.68,450.48
+     pinches and then repeat that three times. Now as we're doing these scap pinches, the
+},
+{
+    450.48,454.88
+     shoulder is in a very safe position because we're keeping it down, we're keeping basically
+},
+{
+    454.88,460.28
+     the elbow below the shoulder. The goal would be to progress this with some wall angels.
+},
+{
+    460.28,464.6
+     Wall angels look like this. The set-ups feel the same. We're going to do a scap pinch back
+},
+{
+    464.6,465.12
+     until I get my hands to the wall. Now what're going to do a scab, pinch back until I get
+},
+{
+    465.12,470.0
+     my hands to the wall. Now what I want to do is keep my hands in contact with the wall as I start
+},
+{
+    470.0,476.96
+     to slide my hands up and overhead. So go as high as pain will allow and then come right back down
+},
+{
+    476.96,481.76
+     and then return to that starting position. So we're going to pinch back and my hands are in
+},
+{
+    481.76,487.5
+     contact with the wall and I'm going to slide up as high as I can and then right back down.
+},
+{
+    487.5,489.26
+     Again, should be pain free.
+},
+{
+    489.26,493.2
+     We've got the arm in this externally rotated position and we've done a lot to free up some
+},
+{
+    493.2,495.42
+     space for that impingement.
+},
+{
+    495.42,499.66
+     But what you should notice is as you keep doing these, you're going to be able to get
+},
+{
+    499.66,504.06
+     higher and higher up the wall without that pain response.
+},
+{
+    504.06,505.52
+     That's because those external
+},
+{
+    505.52,509.6
+     rotators are firing, keeping that head of the humerus or that ball
+},
+{
+    509.6,514.8
+     right in that proper position as you're doing this exercise. The goal here would
+},
+{
+    514.8,520.04
+     be 10 to 15 repetitions repeated three times. If you need more great advice on
+},
+{
+    520.04,523.56
+     that painful shoulder, I hope you check out this video right here. That one's
+},
+{
+    523.56,526.62
+     really going to help you out. Also, if you haven't subscribed to Tone and Titan yet,
+},
+{
+    526.62,530.02
+     hit the circle button right here to do that. I'd love to see you back for future
+},
+{
+    530.02,534.78
+     videos. Until next time, see you again on Tone and Titan.
+},

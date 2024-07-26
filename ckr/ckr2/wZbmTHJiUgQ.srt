@@ -1,0 +1,56 @@
+{
+    0.0,17.6
+     Enter carefully, minimizing the movement of the water around the casualty.
+},
+{
+    17.6,21.0
+     Conduct a vice grip.
+},
+{
+    21.0,27.24
+     Once the casualty is faced up check for breathing. Bring the casualty towards the
+},
+{
+    27.24,32.44
+     edge and conduct a trapezius grip. Ensure the casualty's head is placed securely
+},
+{
+    32.44,41.44
+     between the forearms. Support the casualty's hips. The lifeguard may find it
+},
+{
+    41.44,45.0
+     easier to be sitting on a buoyant aid like a rescue tube.
+},
+{
+    55.0,154.52
+     With direction from other lifeguards, knife the spinal board under the board to assist if needed. The chest strap should be below the armp of the pelvis and over the wrists. not tighten on the stomach as this may cause vomiting.
+},
+{
+    154.52,173.44
+     The thigh strap should be over the lower half of the calf.
+},
+{
+    173.44,219.16
+     Working back up towards the head, re from the trapezius grip. Place the speed blocks in the tracks on the board.
+},
+{
+    219.16,225.68
+     With even pressure bring these towards the casualties head and lock them in place. The lifeguard can
+},
+{
+    225.68,228.52
+     now hold the board.
+},
+{
+    235.72,261.6
+     The lifeguard then to the feet.
+},
+{
+    261.6,267.0
+     Lift the casualties head onto pool deck.
+},
+{
+    267.0,None
+     With minimal disturbance to the casualties continue to move the casualties onto pool deck. you
+},

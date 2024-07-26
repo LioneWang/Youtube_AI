@@ -1,0 +1,192 @@
+{
+    0.0,6.84
+     Hello, my name is Young Kwok and I'm a primary care internist and a recreational runner at
+},
+{
+    6.84,8.76
+     the University of Michigan.
+},
+{
+    8.76,15.16
+     This is Anthony Pariano who is a marathon runner and also coach of the Huron High School
+},
+{
+    15.16,17.04
+     Cross Country Team.
+},
+{
+    17.04,21.12
+     We are here today to talk to you about knee pain.
+},
+{
+    21.12,25.32
+     Specifically we want to talk to you about knee pain on the side of the knee
+},
+{
+    25.32,31.92
+     or lateral knee pain on the outside of the knee. Now the first thing to figure
+},
+{
+    31.92,36.68
+     out when you're dealing with lateral knee pain is whether it's above or below
+},
+{
+    36.68,43.68
+     the joint line. The knee is a hinge joint where the thigh bone meets the leg bone
+},
+{
+    43.68,46.8
+     and the joint line is where the two bones
+},
+{
+    46.8,48.4
+     actually meet.
+},
+{
+    48.4,53.16
+     So let me demonstrate that on Coach Pariano.
+},
+{
+    53.16,58.96
+     So the way you can tell where the joint line is is here is the kneecap and right near the
+},
+{
+    58.96,63.96
+     bottom of the kneecap is where the bones meet if you're in this seated position and that's
+},
+{
+    63.96,65.0
+     where the joint meet if you're in this seated position, and that's where the joint line is.
+},
+{
+    65.0,72.0
+     Now, if you're having pain above the joint line on the outside of the knee, by far the most common cause of that
+},
+{
+    72.0,79.0
+     is going to be iliotibial band friction syndrome, which I'm sure many runners have heard of.
+},
+{
+    79.0,86.4
+     The iliotibial band is a thick fibrous band that runs from the hip or ilium all the way
+},
+{
+    86.4,92.7
+     down the side down to the leg bone or tibia, hence it's called the iliotibial band, and
+},
+{
+    92.7,99.52
+     as it goes over this region here, it tends to rub on the thigh bone, the bottom part
+},
+{
+    99.52,107.04
+     of the thigh bone called the femur, and cause friction and cause pain in this particular spot.
+},
+{
+    107.04,112.92
+     If a runner develops this during a run, the best thing to do is stretch this for the iliotubial
+},
+{
+    112.92,119.0
+     band so that it's not as tight and it does not cause as much rubbing.
+},
+{
+    119.0,126.32
+     But today we are going to focus on cause of joint pain below the knee joint, especially in this particular
+},
+{
+    126.32,128.34
+     spot here.
+},
+{
+    128.34,133.4
+     This is one area that really hasn't been commented on much, but I do believe is a common cause
+},
+{
+    133.4,135.58
+     of knee pain in runners.
+},
+{
+    135.58,141.84
+     This particular spot is significant because this is where the big muscle in the leg, called
+},
+{
+    141.84,147.2
+     the tibialis anterior muscle attaches and this muscle is responsible
+},
+{
+    147.2,153.12
+     for flexing the ankle upward. And you can see the muscle contracting as the ankle is
+},
+{
+    153.12,160.48
+     flexed upward. This is very similar in structure and function to the muscle in the forearm
+},
+{
+    160.48,168.32
+     here, which can cause tennis elbow if the forearm is overused.
+},
+{
+    168.32,175.4
+     During the typical course of a run, this muscle contracts thousands of times and can develop
+},
+{
+    175.4,179.68
+     tendonitis below the knee joint or in this spot.
+},
+{
+    179.68,188.7
+     Now if you are a runner and you have developed pain in this spot below the knee joint, I have adapted a very successful exercise
+},
+{
+    188.7,192.1
+     that was adapted for tennis elbow to treat tendonitis
+},
+{
+    192.1,196.7
+     in this particular spot. And Coach Pariano will kindly demonstrate that exercise.
+},
+{
+    196.7,200.26
+     It involves three simple steps. Any
+},
+{
+    200.26,204.14
+     elastic band is useful for this exercise.
+},
+{
+    204.14,210.0
+     First, cross your injured leg over, as Coach Pariano is doing, and place the elastic band
+},
+{
+    210.0,212.6
+     over the ball of the foot, that's step one.
+},
+{
+    212.6,218.08
+     And then under tension, straighten the leg with the ankle bent backwards, that's step
+},
+{
+    218.08,219.08
+     two.
+},
+{
+    219.08,222.92
+     And finally, step three is push down on the gas pedal.
+},
+{
+    222.92,225.92
+     And then repeat those three steps 15 times,
+},
+{
+    225.92,229.76
+     three times a day. And I have found that this
+},
+{
+    229.76,233.96
+     was very effective in getting rid of this particular tendonitis
+},
+{
+    233.96,235.88
+     or pain below the knee joint.
+},

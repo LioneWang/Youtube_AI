@@ -1,0 +1,196 @@
+{
+    0.0,7.62
+     Bob and Brad the two most famous physical therapists on the internet
+},
+{
+    9.6,11.6
+     Hi, I'm Bob Schrupp physical therapist
+},
+{
+    11.6,12.92
+     Brad Heineck physical therapist
+},
+{
+    12.92,15.08
+     Together we are the most famous physical therapists on the internet
+},
+{
+    15.08,16.36
+     Wow, in our opinion Bob
+},
+{
+    16.36,21.28
+     Brad today we thought we'd show you a simple test you can do to determine whether or not you might have a herniated disc
+},
+{
+    21.52,26.96
+     It's certainly gonna tell you whether or not you're getting some stress on the nerve root coming out of your back, so real
+},
+{
+    26.96,30.64
+     simple let's go ahead and jump right into it, now you're gonna need help with
+},
+{
+    30.64,35.0
+     this though, you're gonna need a wife, a spouse, or someone, a friend,
+},
+{
+    35.0,40.64
+     someone to you take off the street to help you out here, so Brad's having
+},
+{
+    40.64,48.62
+     pain and he's having pain down the right leg, okay and you're wondering is it coming from a herniated disc? Very simple
+},
+{
+    48.62,53.0
+     You're gonna do what was called a straight leg raise. There's a French name for it too, but you don't need to know that
+},
+{
+    53.0,57.76
+     No, we're not gonna. So what you're gonna do is you're gonna have the toe straight up and you're gonna go ahead and lift it up
+},
+{
+    57.76,59.76
+     Now this is you're doing the lifting
+},
+{
+    60.28,62.76
+     Brad's not doing the lifting. I'm relaxed. You're relaxed
+},
+{
+    63.0,66.24
+     Completely relaxed. Now if he has a herniated disc quite often
+},
+{
+    66.24,70.62
+     What I've seen Brad and I'm sure you have too, they start feeling it almost immediately
+},
+{
+    71.0,74.96
+     Right at 30 degrees here already. If he starts feeling at that point
+},
+{
+    75.24,80.52
+     It's a fairly highly positive sign that you have some encroachment on the nerve
+},
+{
+    80.52,86.24
+     Right. It might be a herniated disc, it might be the foramen, something. Now you can go up higher
+},
+{
+    86.24,93.44
+     and if it is hurting down there by this time it might be too painful. Right, you might not even be
+},
+{
+    93.44,98.24
+     able to go this high, some people may be able to go this high and start to feel it here, that's fine
+},
+{
+    98.24,104.88
+     because even at less than 60 degrees or 70 degrees it's still more likely to be a herniated disc. Now
+},
+{
+    104.88,109.2
+     what you can do, now you want to distinguish between this and just plain old stretching
+},
+{
+    109.4,112.68
+     People are gonna feel stretching with this too, right could be hamstrings
+},
+{
+    112.68,116.46
+     Yeah, is it getting worse in the back is it getting worse down the leg is it going into the foot
+},
+{
+    116.46,118.8
+     The numbness and tingling is it getting worse
+},
+{
+    119.08,124.3
+     But you go up this far and then you can even back off a little bit and then you can go ahead and bend the
+},
+{
+    125.3,128.06
+     And then you can even back off a little bit and then you can go ahead and bend the foot forward like this If that makes it worse, it's a good sign
+},
+{
+    128.06,133.34
+     It's the nerve being encroached upon and one thing like when Bob was doing that go ahead
+},
+{
+    133.34,137.6
+     Let's say I feel a little pain here and when he does that oh it hurts more
+},
+{
+    137.6,143.24
+     But it's in the calf right then you don't know but if you do that and it hurts up here
+},
+{
+    143.58,150.4
+     Then you're almost certain here or even in the thigh, but it's gonna stretch the calf. So again you
+},
+{
+    150.4,154.64
+     just start off very simply you bring it up start to feel pain already good sign
+},
+{
+    154.64,160.64
+     it might be a herniated disc, go up here still feeling pain you can go up as high
+},
+{
+    160.64,164.62
+     as you go and then back off a little bit and then bend the foot forward and if
+},
+{
+    164.62,165.96
+     that increases the pain
+},
+{
+    166.96,168.48
+     Especially in the thigh or back
+},
+{
+    168.48,172.48
+     Likelihood to be a herniated disc, right and you want to do it on both sides, right
+},
+{
+    172.48,176.32
+     Yeah, do a comparative, yeah do a comparison and if he finds out this one
+},
+{
+    176.32,179.76
+     Yeah, no pain no problem and that's often a good indication
+},
+{
+    180.28,183.28
+     Gold standard of tests anybody can do it. I think
+},
+{
+    184.16,190.0
+     Yeah It definitely takes some practice to get better at it but you can play around with it and
+},
+{
+    190.0,192.0
+     if it's a bad one you'll see.
+},
+{
+    192.0,195.0
+     Yeah and then you can go to your doctor and take it from there.
+},
+{
+    195.0,198.0
+     Right, you can say I did the straight leg raise on myself and it's positive.
+},
+{
+    198.0,199.0
+     That's right.
+},
+{
+    199.0,201.0
+     The doctor rolls eyes.
+},
+{
+    201.0,203.0
+     Thanks for watching.
+},

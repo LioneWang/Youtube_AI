@@ -1,0 +1,236 @@
+{
+    0.0,3.6
+     Rwy'n gweithio i chi'n gweithio'r ffordd o'r ffordd.
+},
+{
+    3.6,6.24
+     Rwy'n gweithio'r ffordd o'r ffordd,
+},
+{
+    6.24,8.24
+     ydych chi'n gweithio'r ffordd o'r ffordd,
+},
+{
+    8.24,27.0
+     oedd yna'r ffordd o'r ffordd o'r ffordd o'r ffordd. O'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r pen yn ysgolwyr. Mae'r pen yn ysgolwyr yn ysgolwyr, i'w ddweud yn ysgolwyr.
+},
+{
+    27.0,32.0
+     Mae'r pen yn ysgolwyr yn Echow, ac mae'n ddweud yn ysgolwyr.
+},
+{
+    32.0,35.0
+     Mae'r pen yn ynwys, ac mae'n lefami'r pen.
+},
+{
+    37.0,39.0
+     Felly, mae'r pen yn ysgolwyr.
+},
+{
+    39.0,42.0
+     Mae'n ddweud yn ysgolwyr yn ysgolwyr.
+},
+{
+    42.0,46.0
+     Mae'r pen yn ysgol y pen. Mae'r pen yn ddweud y pen.
+},
+{
+    46.0,48.0
+     Mae'r pen yn ddweud y pen.
+},
+{
+    48.0,50.0
+     Mae'n ddweud y pen.
+},
+{
+    50.0,52.0
+     Mae'n ddweud y pen.
+},
+{
+    52.0,54.0
+     Mae'n ddweud y pen.
+},
+{
+    54.0,56.0
+     Mae'n ddweud y pen.
+},
+{
+    56.0,58.0
+     Mae'n ddweud y pen.
+},
+{
+    58.0,60.0
+     Mae'n ddweud y pen.
+},
+{
+    60.0,62.0
+     Mae'n ddweud y pen.
+},
+{
+    62.0,64.0
+     Mae'n ddweud y pen.
+},
+{
+    64.0,65.4
+     Mae'n ddweud y pen. Mae'n ddiddordeb yn ei ddiddordeb, ac mae'r ddiddordeb yn ei ddiddordeb yn ymddiadau
+},
+{
+    65.4,85.6
+     o'r ddiddordeb yn ymddiadau, mae'n ddiddordeb yn y pen. Felly, mae'r ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn y pen, felly mae'n ddiddordeb yn ymgyrch, mae'r ffordd yn ymddiol yn y bryd.
+},
+{
+    85.6,89.6
+     Felly, yn ymddiol, mae'n cael ei wneud i'ch gweithio'r gweithio'r gweithio.
+},
+{
+    89.6,91.8
+     Felly, mae'n gweithio'r gweithio'r gweithio'n gweithio.
+},
+{
+    91.8,105.2
+     Felly, mae'n gweithio'r gweithio, mae'n gweithio'r gweithio'r gweithio'r gweithio. Mae'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweith, ac mae oedd yn cael ei gweithio ar y tîm hefyd.
+},
+{
+    105.2,109.76
+     Yn ystod yma yn y 4mm ystod, ac rwy'n gweithio.
+},
+{
+    109.76,112.8
+     Rwy'n gweithio ar y ddechrau,
+},
+{
+    114.4,120.56
+     ac mae'n ddweudio ac yn ddweudio ar y ddweudio ar y ddweudio.
+},
+{
+    120.56,125.0
+     Dweudio arall, fel y galluch chi'n gwybod i'r ffordd.
+},
+{
+    128.0,129.0
+     Rwy'n gweithio'r llyfr o'r llyddiol.
+},
+{
+    133.0,136.0
+     A ddyn nhw'n gweithio'r llyddiol.
+},
+{
+    141.0,142.0
+     Felly mae'r ffordd o'r ffordd o'r ffordd, mae'n rhaid i'w ffordd o'r ffordd o'r ffordd o'r llyfr.
+},
+{
+    167.2,170.4
+     Mae'n gweithio'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r ffordd o'r llwyll. Mae'n ddweud y llwyll yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymdill yn ymddiwch i ddweud o'r unig. A ddweud o'r ddweud, mae'n ddweud o'r clwys. Mae'r clwys yn ymddiwch i ddweud o'r unig.
+},
+{
+    170.6,173.2
+     Felly, mae'n ddweud o'r ddweud o'r 4 clwys,
+},
+{
+    173.2,176.2
+     o'r ddweud o'r unig o'r llwyff.
+},
+{
+    178.6,179.8
+     Mae'n ddweud o'r 4.
+},
+{
+    180.0,182.4
+     Fy o'r ddweud o'r llwyff,
+},
+{
+    182.4,184.6
+     mae'n ddweud o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    182.52,184.92
+     Felly, mae'r cwyl yn ddod o'r llwy, mae'n gwybod i'r ddod o'r llwy.
+},
+{
+    186.0,246.5
+     Mae'n gwybod i'r ddod o'r llwy o'r llwy o'r llwy o'r llwy. Felly, mae'n gwybod i'r ddod o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r ddweud. Mae'r ddweud o'r ddrch yn ymgyrch yn y cyfnodd y cyfnodd cyfnodd yn fwy o'r ddweud, ac y ddweud yn fwy o'r ddweud.
+},
+{
+    246.5,251.7
+     Felly, mae'n ddweud y gallwn y gallwn y ddweud, mae'n ddweud i'w ddweud y ddweud.
+},
+{
+    251.7,266.0
+     Felly, rwy'n gweithio'r ddweud y cyfnodd cyfnodd. Felly, ydych chi'n gweithio'r pen, mae'n rhaid i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w d Felly, rwy'n gweithio'n dylwch unig yma.
+},
+{
+    266.0,268.0
+     Rwy'n gweithio'n gweithio'n gweithio
+},
+{
+    268.0,270.0
+     yng Nghymru o'r technic yng Nghymru,
+},
+{
+    270.0,272.0
+     oedd yna'r gweithio'n gweithio
+},
+{
+    272.0,286.4
+     a'r gweithio'n gweithio, oherwydd y gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio yn y 90-gweithio. A ddyn nhw'n ddweud i'r rhan o'r rhan,
+},
+{
+    286.4,306.5
+     ddweud i'r rhan o'r rhan o'r pen a'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o'r rhan o'r rhan o'rhan o'r gweithio, rwy'n cael ei ddweud o'r gweithio.
+},
+{
+    306.5,308.5
+     Ac mae'n ddweud o'r ddweud o'r ddweud.
+},
+{
+    308.5,312.0
+     Yn ymdweud y gweithio, rwy'n cael ei ddweud o'r gweithio,
+},
+{
+    312.0,316.0
+     rwy'n cael ei ddweud o'r gweithio, rwy'n cael ei ddweud o'r gweithio.
+},
+{
+    316.0,319.5
+     Rwy'n cael ei ddweud o'r gweithio, rwy'n cael ei ddweud o'r gweithio.
+},
+{
+    319.5,323.0
+     Yn ystod, rwy'n cael ei ddweud o'r gweithio,
+},
+{
+    323.0,326.9
+     ac yn fawr, rwy'n cael ei ddweud o'r gweithio, a'r ddweud o'dweud y cyfnod plast ac yn fawr, ddweud i'r ddweud ar y pen a ddweud.
+},
+{
+    330.1,334.1
+     Ac mae'r ddweud yn ddweud yn y cwm ychydig.
+},
+{
+    336.4,342.9
+     Dwi'n ddweud ar y pen, ac mae'n ddweud ar y pen.
+},
+{
+    343.06,348.02
+     ac mae'r insulin yn ymdweud. Mae'r penderfysau yn ymdweud o'r ffordd.
+},
+{
+    348.02,352.02
+     Mae'r penderfysau yn ymdweud o'r ddweud.
+},
+{
+    352.02,356.02
+     Felly, mae'r penderfysau yn ymdweud, ac mae'n dweud i'r ddweud.
+},
+{
+    356.02,361.02
+     Mae'n ddweud i'r unig o'r ddweud o'r ddweud,
+},
+{
+    361.02,367.0
+     ac mae'n ddweud o'r ddweud o'r ddweud o'r ddweud o'r cyfnod o'r cyfnod o'r ddweud. Felly, mae'n ddweud o'r ddweud o'r ddweud,
+},
+{
+    367.0,370.0
+     ddyn nhw'n ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud.
+},

@@ -1,0 +1,888 @@
+{
+    0.0,7.0
+     What are you still doing?
+},
+{
+    7.0,12.0
+     Go away!
+},
+{
+    12.0,15.0
+     Go away!
+},
+{
+    15.0,17.4
+     Greetings everyone.
+},
+{
+    17.4,21.2
+     What do you do when someone suddenly collapses in front of you?
+},
+{
+    21.2,23.24
+     It could be a loved one, you know.
+},
+{
+    23.24,24.24
+     Well, guess what?
+},
+{
+    24.24,25.84
+     Today we're going to learn all about
+},
+{
+    25.84,32.16
+     cardiopulmonary resuscitation and learn how to use the automated external defibrillator.
+},
+{
+    32.88,40.08
+     Everyone can do it if you dare. And you could save the life of someone whose heart suddenly stops,
+},
+{
+    40.08,55.0
+     also known as a cardiac arrest.
+},
+{
+    56.0,59.0
+     Thank you.
+},
+{
+    61.0,63.0
+     I'm sure.
+},
+{
+    64.0,65.0
+     Thank you. Taxi! Ya. Terima kasih.
+},
+{
+    67.0,68.0
+     Taxi!
+},
+{
+    70.0,71.0
+     Taxi!
+},
+{
+    72.0,74.0
+     Takut, takut! Biar saya pergi ke sini dan pergi.
+},
+{
+    74.0,75.0
+     Takut!
+},
+{
+    75.0,76.0
+     Jangan tahu saya ada masalah.
+},
+{
+    86.0,90.0
+     Semua orang, awak baru menunjukkan keadaan hadiah. Woo! Woo! Woo! Everyone, you just witnessed a cardiac arrest.
+},
+{
+    90.0,92.0
+     My heart just stopped.
+},
+{
+    94.0,97.0
+     Woah, so unhelpful these people.
+},
+{
+    97.0,99.0
+     Take selfies some more, you know?
+},
+{
+    99.0,101.0
+     Look, children!
+},
+{
+    101.0,103.0
+     Can you move a little faster please?
+},
+{
+    103.0,105.0
+     I'll die in a few minutes if you don't help me. Hurry up! Okay, first, check if you're in a safe location.你不可以走得太快我会在这里等一会儿你不可以帮我我会上车
+},
+{
+    105.0,106.0
+    好 首先
+},
+{
+    106.0,107.8
+    看看你如果在安全位置
+},
+{
+    107.8,109.6
+    像在中间的路上
+},
+{
+    109.6,110.8
+    看着安全
+},
+{
+    110.8,111.8
+    没有危险
+},
+{
+    111.8,113.2
+    看看你的责任
+},
+{
+    113.2,115.0
+    保证我不在乎
+},
+{
+    115.0,116.4
+    先生 先生
+},
+{
+    116.4,117.4
+    你没事吧
+},
+{
+    117.4,119.2
+    你觉得我没事吗
+},
+{
+    119.8,121.2
+    接下来 请你帮忙
+},
+{
+    121.2,122.6
+    因为你必须要等我
+},
+{
+    122.6,124.0
+    你帮忙吧 我会帮忙的
+},
+{
+    124.0,125.2
+    好先生 请你打电�助因为你必须要接受我的你去帮助 我还在书里好
+},
+{
+    126.4,128.72
+    先生 请求你打电话给Anemilo
+},
+{
+    128.72,129.6
+    你在说什么
+},
+{
+    129.6,130.84
+    叔叔 快帮他
+},
+{
+    130.84,131.96
+    不要
+},
+{
+    132.32,133.4
+    车场谢谢
+},
+{
+    133.4,135.08
+    我要赶快去车场
+},
+{
+    135.08,137.8
+    快玩笑 这个时候还去车场
+},
+{
+    137.8,140.32
+    请求您 请求您打电话给Anemilo
+},
+{
+    140.32,141.04
+    好
+},
+{
+    141.04,143.48
+    好 现在给个AED
+},
+{
+    145.0,147.0
+    你不知道哪个女人是AED. Awak tahu mana panggil AED?
+},
+{
+    147.0,148.0
+     Tolonglah, lepaskan.
+},
+{
+    148.0,150.0
+     Punggung telefon di mode pembicara.
+},
+{
+    150.0,153.0
+     Ingat untuk tinggal di dalam.
+},
+{
+    154.0,156.0
+     Ini kelas 9.05.
+},
+{
+    156.0,157.0
+     Stiles Anjir Zarina bercakap.
+},
+{
+    157.0,158.0
+     Jangan panik.
+},
+{
+    158.0,159.0
+     Dia mahu berbual.
+},
+{
+    159.0,160.0
+     Makan kelas medik yang dikongsi.
+},
+{
+    160.0,161.0
+     Saya akan beritahu awak apa yang perlu dibuat.
+},
+{
+    161.0,162.0
+     Saya tahu kalau pesakit berbual.
+},
+{
+    165.0,166.0
+     Dia masih berbentuk.
+},
+{
+    167.0,169.0
+     Saya perlukan awak untuk membuat CPR sekarang.
+},
+{
+    169.0,172.0
+     Saya perlukan awak untuk memasuk pembentangan di tengah-tengahnya.
+},
+{
+    173.0,174.0
+     Berhenti tangan dan albang awak.
+},
+{
+    174.0,176.0
+     Kita perlu mempunyai kaki yang mudah dan cepat.
+},
+{
+    176.0,177.0
+     5 cm.
+},
+{
+    177.0,178.0
+     Kita akan mulakan sekarang.
+},
+{
+    178.0,179.0
+     1, 2, pergi.
+},
+{
+    180.0,183.0
+     1, 2, 3, 4, 5, 6, 7, 8.
+},
+{
+    183.0,184.0
+     Pusat mudah.
+},
+{
+    184.0,185.2
+     Pusat mudah. Jangan risaukan saya membuat wipi. 3, 4, 5, 6, 7, 8. Bergerak, bergerak cepat.
+},
+{
+    185.2,186.44
+     Jangan risaukan saya memasak wip saya.
+},
+{
+    186.44,187.72
+     3, 4, 5, 6, 7, 8.
+},
+{
+    187.72,190.96
+     Bergerak cepat. Jangan risaukan saya memasak wipnya.
+},
+{
+    190.96,191.84
+     Terima kasih.
+},
+{
+    191.84,193.08
+     Kamu boleh memasak wip.
+},
+{
+    193.08,195.92
+     3, 4, 5, 6, 7, 8.
+},
+{
+    195.92,197.64
+     Ya, ini adalah adil.
+},
+{
+    197.64,198.84
+     Ini adalah masa.
+},
+{
+    201.32,204.0
+     Saya perlu kamu masukkan wip di adil
+},
+{
+    204.0,246.0
+     dan dengar instruksi, okey? Analyzing heart rhythm. Do not touch the patient. Shock advised. Charging. Clear. Klaver! Deliver shock now.
+},
+{
+    246.0,248.0
+     Shock delivered.
+},
+{
+    248.0,250.0
+     Ada apa-apa lagi yang akan terlibat?
+},
+{
+    250.0,252.0
+     Tak, dia tak berjalan-jalan.
+},
+{
+    252.0,254.0
+     Saya butuh awak masih berlaku dengan CPR
+},
+{
+    254.0,256.0
+     sehingga ambulance yang datang.
+},
+{
+    256.0,260.0
+     2, 3, 4, 5, 6, 7, 8, 9, 10.
+},
+{
+    260.0,273.0
+     Bagus. Awak telah berakukan kerja yang sangat baik.
+},
+{
+    276.0,279.0
+     Terima kasih, Ambulance datang dengan cepat. Terima kasih, semua. Mereka terlalu cepat juga.
+},
+{
+    279.0,282.0
+     Tapi jika tidak, untuk jawapan kebebasan yang ini,
+},
+{
+    282.0,285.28
+     teman-teman saya akan mati sekarang.
+},
+{
+    286.32,288.88
+     Okey, jadi anda lihat, kita harus bergerak dengan cepat dalam keadaan.
+},
+{
+    288.88,291.52
+     Jadi, bergerak dan berada di sana untuk membantu menyelamatkan hidup.
+},
+{
+    291.52,293.44
+     Kerana kaki yang mencari berat,
+},
+{
+    293.44,294.72
+     menunggu seorang orang tidak.
+},
+{
+    295.28,296.48
+     Biar saya tunjukkan kaki yang panjang.
+},
+{
+    302.48,306.0
+     Ketua kaki yang panjang menangekutusan kaki yang teruk adalah Kekutusan kaki yang teruk adalah
+},
+{
+    306.0,308.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    308.0,310.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    310.0,312.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    312.0,314.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    314.0,316.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    316.0,318.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    318.0,320.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    320.0,322.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    322.0,324.0
+     Kekutusan kaki yang teruk adalah
+},
+{
+    324.0,327.68
+     Kekutusan kaki yang teruk adalah Kekutusan kaki yang teruk adalah...dan keadaan kardia seperti yang anda baru nampak.
+},
+{
+    328.68,330.52
+     Ketuaan kardia.
+},
+{
+    331.76,335.16
+     Ketuaan kardia berlalu.
+},
+{
+    336.84,336.92
+     Tidak ada keadaan kardia yang menarik.
+},
+{
+    338.48,340.08
+     Jadi apa yang akan berlaku?
+},
+{
+    341.08,344.16
+     Di-lawan.
+},
+{
+    347.0,352.0
+     Hanya sebab anda tidak percaya bagaimana penting dan penting ini......di sini ada beberapa orang yang dengan pengalaman pertama... dialogue. Just in case you don't believe how serious and important this is, here are a few people with first-hand experience saving lives or escaped death.
+},
+{
+    352.0,356.0
+     Just because someone died and reacted immediately.
+},
+{
+    364.0,366.0
+     Saya berada di salah satu ronde saya hari itu. Dan ia berlaku di Perlawan Beach.
+},
+{
+    366.0,368.0
+     Jadi salah satu mereka berlaku untuk berlaku.
+},
+{
+    368.0,371.0
+     Jadi saya periksa dan percaya bahawa dia tidak mempunyai panggilan
+},
+{
+    371.0,373.0
+     dan tidak berbual.
+},
+{
+    373.0,377.0
+     Jadi kemudian kembali dengan cepat dan kami menerima CPR
+},
+{
+    377.0,379.0
+     semasa saya menggunakan AED pada dia.
+},
+{
+    379.0,382.0
+     Dia bermain pet di atas kawasan.
+},
+{
+    382.0,384.0
+     Dia berlaku dengan kawasan.
+},
+{
+    384.0,386.0
+     Dia berlaku dengan kawasan. Dia berlaku dengan kawasan. dan tak berbual. Jadi, kemudian kembali ke atas, dan kami menerima CPR
+},
+{
+    386.0,388.0
+     semasa saya menggunakan AED di dia.
+},
+{
+    388.0,391.0
+     Dia bermain pad di lokasi
+},
+{
+    391.0,394.0
+     dan kami dapat permainan dari AED
+},
+{
+    394.0,396.0
+     dengan keberanian yang panjang.
+},
+{
+    396.0,398.0
+     Kemudian ia dipercaya dan keadaan
+},
+{
+    398.0,400.0
+     sebenarnya benar-benar dikepung.
+},
+{
+    400.0,402.0
+     Saya teruskan dengan CPR
+},
+{
+    402.0,406.0
+     dan masin kami tidak mempercaya. Kemudian itu menghidupi kami tidak berjaya.
+},
+{
+    406.0,409.0
+     Dan Yazid merangkau bahawa ada jalan yang besar.
+},
+{
+    409.0,411.0
+     Jadi kami sangat gembira.
+},
+{
+    411.0,412.0
+     Kita berhenti CPR,
+},
+{
+    412.0,414.0
+     memasukkan keadaan keadaan kembali
+},
+{
+    414.0,417.0
+     semasa menunggu para medik yang akan berjalan.
+},
+{
+    417.0,420.0
+     Saya berkumpul di sekelilingan Kuala Lumpur.
+},
+{
+    420.0,422.0
+     Sudahnya saya pergi keadaan,
+},
+{
+    422.0,424.0
+     keadaan takut dan terlalu terlambat.
+},
+{
+    424.0,445.0
+     Saya sebenarnya berkumpul dengan keluarga saya. Sudah tentu saya menangis dan terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu tidak berat berat. Jadi saya beritahu mereka, kita perlu memulakan CPR.
+},
+{
+    445.0,448.0
+     Dan kami tanya orang lain,
+},
+{
+    448.0,450.0
+     tolong pergi ke tempat yang terkenal,
+},
+{
+    450.0,452.0
+     di mana mungkin ada AAD,
+},
+{
+    452.0,454.0
+     cuba mencari dan mencari AAD.
+},
+{
+    454.0,457.0
+     Dan pada masa yang nanti, kita hanya membawa CPR di sini,
+},
+{
+    457.0,460.0
+     sehingga para maklumat dapat membuat kejadian mereka masuk.
+},
+{
+    460.0,463.0
+     Dan pada masa yang terkenal, apabila ambulans berjaya,
+},
+{
+    463.0,465.0
+     mereka membawa AAD mereka, beri saya rasa satu atau dua kejadian. Dan kemudian, Encik Ong ada pakaian. Pada masa yang berlaku, ia menyebabkan A&ED mereka
+},
+{
+    465.0,467.0
+     dan beri saya satu atau dua keguguran.
+},
+{
+    467.0,470.0
+     Dan kemudian, Encik Ong mempunyai pembentangan.
+},
+{
+    470.0,473.0
+     Saya mempunyai peluang yang 5% yang selamat.
+},
+{
+    473.0,476.0
+     CPR adalah anak selamat.
+},
+{
+    476.0,478.0
+     Dan ia penting
+},
+{
+    478.0,481.0
+     semasa situasi kemerlukan.
+},
+{
+    481.0,484.0
+     Setiap kedengaran,
+},
+{
+    484.0,487.0
+     ia penting untuk menyelamatkan hidup orangsaya berkongsi dalam hidup seorang.
+},
+{
+    487.0,489.0
+     CPR selamatkan hidup saya.
+},
+{
+    489.0,492.0
+     Saya ingin berkata terima kasih kepada doktor.
+},
+{
+    498.0,501.0
+     Saya menghubungkan panggilan dari suatu kawan saya...
+},
+{
+    501.0,504.0
+    ...kenal bahawa golf itu telah diselamatkan ke pula 12 tahun.
+},
+{
+    504.0,526.0
+     Saya perlu keluar dengan keadaan pertama dan AAD....saya berkata golfer yang terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu terlalu. Saya tak tahu apa yang berlaku. Saya tahu apa yang berlaku.
+},
+{
+    526.0,528.0
+     Saya tahu apa yang berlaku.
+},
+{
+    528.0,530.0
+     Saya tahu apa yang berlaku.
+},
+{
+    530.0,532.0
+     Saya tahu apa yang berlaku.
+},
+{
+    532.0,534.0
+     Saya tahu apa yang berlaku.
+},
+{
+    534.0,536.0
+     Saya tahu apa yang berlaku.
+},
+{
+    536.0,538.0
+     Saya tahu apa yang berlaku.
+},
+{
+    538.0,540.0
+     Saya tahu apa yang berlaku.
+},
+{
+    540.0,542.0
+     Saya tahu apa yang berlaku.
+},
+{
+    542.0,544.0
+     Saya tahu apa yang berlaku.
+},
+{
+    544.0,546.0
+     Saya tahu apa yang berlaku. Saya tahu apa yang berlaku....tidak dapat membantu kemas perhatian untuk mengambil kembali......dan juga, tidak mempunyai kecuali.
+},
+{
+    546.0,550.0
+     Tapi pada hari ini, tidak ada kesilapan untuk menjelaskan kehidupan seorang.
+},
+{
+    551.0,557.0
+     Saya akan kata, ya, kerana saya pun 12 tahun, saya bukan expert di CPR...
+},
+{
+    557.0,560.0
+    ...tapi saya akan menjelaskan kelasan dan saya akan mencari...
+},
+{
+    560.0,564.0
+    ...saya akan mencari, ya, sebab semua orang boleh melakukan.
+},
+{
+    564.0,568.0
+     Apabila kita melakukan hal yang baik, dengan imbasan yang baik,...
+},
+{
+    569.0,572.0
+    ...tidak ada yang akan menyebabkan anda.
+},
+{
+    572.0,575.0
+     Yang teruk adalah, sesiapa pun boleh melakukan CPR.
+},
+{
+    575.0,577.0
+     Anda tidak perlu membutuhkan ketua.
+},
+{
+    577.0,580.0
+     Semua ketua yang anda ada, anda akan membawa dengan mereka.
+},
+{
+    580.0,581.0
+     Mereka di sini.
+},
+{
+    581.0,585.0
+     Jadi sesiapa pun boleh belajar dan semua orang harus belajar. Mereka harus berjaya. They are here. So anyone can learn it and everyone should learn it.
+},
+{
+    585.0,587.0
+     You know, they have to save the line.
+},
+{
+    588.0,593.0
+     Push hard, push fast, get an AED, and stay on the line until the ambulance arrives.
+},
+{
+    602.0,603.0
+     Sekarang untuk kembali cepat.
+},
+{
+    604.0,607.0
+     Jika orang itu kecil, takut dan tidak berbual,
+},
+{
+    607.0,609.0
+     tinggal berjalan.
+},
+{
+    610.0,612.0
+     Periksa bahagian.
+},
+{
+    612.0,614.0
+     Periksa bahagian untuk kita.
+},
+{
+    614.0,615.0
+     Awak okey?
+},
+{
+    617.0,619.0
+     Periksa bahagian ini.
+},
+{
+    619.0,622.0
+     Telefon 995 untuk ambulans.
+},
+{
+    622.0,624.0
+     Periksa dan AED.
+},
+{
+    624.0,625.12
+     Periksa bahagian ini. Periksa bahagian ini. Are you okay? Shout out these phrases.
+},
+{
+    627.32,628.48
+     Call 995 for ambulance.
+},
+{
+    630.48,631.4
+     Get an AED.
+},
+{
+    633.96,636.16
+     You can find AEDs at these locations.
+},
+{
+    639.72,640.6
+     Stay on the line. A medical dispatcher will instruct you.
+},
+{
+    642.88,649.0
+     So listen and listen carefully. Jadi dengar dan dengar dengan kaya.
+},
+{
+    651.0,661.0
+     Periksa untuk berbual.
+},
+{
+    662.0,665.0
+     Mulai CPR. Interlock tangan, posisi dan bergerak.
+},
+{
+    667.0,669.0
+     Bergerak 5cm ke bawah.
+},
+{
+    669.0,671.0
+     Hati dan cepat.
+},
+{
+    671.0,673.0
+     Teruskan bergerak dan tinggal di dalam.
+},
+{
+    680.0,684.0
+     Pemanggil AED atau dapat seseorang mencari yang paling kecil.
+},
+{
+    684.0,688.0
+     Pemanggil AED menc seseorang mencari yang paling kecil. Pemanggil AED mencari yang paling kecil, tapi anda boleh melakukan.
+},
+{
+    688.0,692.0
+     Ini adalah perubahan yang dapat membawa kembali elektrik untuk membebaskan kaki
+},
+{
+    692.0,694.0
+     dan memperbaiki kemungkinan kemampuan.
+},
+{
+    694.0,698.0
+     Satu-satunya, tukar AED.
+},
+{
+    698.0,700.0
+     Pada kaki yang dihidupi.
+},
+{
+    700.0,704.0
+     Pada kaki yang dihidupi di tengah kaki di atas kaki di bawah nipu.
+},
+{
+    704.0,709.0
+     Pada kaki yang lain di bawah nipu yang lain dan ke kaki yang di belakang.
+},
+{
+    709.0,713.0
+     Pada dua, ikut instruksi yang diberikan oleh AED.
+},
+{
+    715.0,719.0
+     Pada tiga, menangis botak kekejuan.
+},
+{
+    733.36,740.2
+     If the victim is not coming round, continue to push hard and fast while you wait for the ambulance to arrive.
+},
+{
+    740.2,747.72
+     So I suppose you're tougher and more daring now.
+},
+{
+    751.92,752.76
+     So next time someone collapses in front of you, what should you do?
+},
+{
+    755.92,756.8
+     Call 995, stay on the line.
+},
+{
+    758.64,759.76
+     Push hard and push fast.
+},
+{
+    764.0,764.72
+     You said A-E-D and dead.
+},
+{
+    804.0,None
+     Exactly. Goodbye. Music
+},

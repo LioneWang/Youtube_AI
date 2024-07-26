@@ -1,0 +1,112 @@
+{
+    0.0,15.08
+     In this video, you are going to learn how to use a defibrillator in the event of someone
+},
+{
+    15.08,30.5
+     suffering a cardiac arrest. If the person does not respond to you when you speak to them whilst holding their hand
+},
+{
+    30.5,35.56
+     and gently shaking their shoulders, call for help if you're alone and lay them on their
+},
+{
+    35.56,36.56
+     back.
+},
+{
+    36.56,40.48
+     Check their breathing by placing one hand on their forehead and the fingers of the other
+},
+{
+    40.48,43.88
+     hand under the tip of their chin.
+},
+{
+    43.88,49.76
+     Carefully tilt their head backwards and lift their chin so as to fully open their airways.
+},
+{
+    49.76,55.12
+     If you see or hear no respiratory movements, nor feel any breath in your cheek, then the
+},
+{
+    55.12,58.52
+     casualty is not breathing.
+},
+{
+    58.52,60.54
+     Call the emergency services.
+},
+{
+    60.54,63.76
+     Ask someone else present at the scene to bring in defibrillator.
+},
+{
+    63.76,68.6
+     While awaiting the emergency services, expose the casualty's chest and begin chest compressions
+},
+{
+    68.6,72.6
+     by pressing down on the centre of their chest at a rate of 2 per second.
+},
+{
+    72.6,79.0
+     If you're alone, do not perform any chest compressions, but go and find a defibrillator if there is one nearby.
+},
+{
+    82.6,87.24
+     Once the defibrillator has been brought to the casualty, turn it on and follow the instructions
+},
+{
+    87.24,90.52
+     that it gives, or that come with it.
+},
+{
+    90.52,95.04
+     Take out the electrode paddles from their packaging, remove their protective film and
+},
+{
+    95.04,100.44
+     place each electrode as illustrated in the diagram, included on the packaging or on the
+},
+{
+    100.44,119.6
+     electrode itself.
+},
+{
+    122.36,124.12
+     Make sure that nobody is in contact with the casualty while the defibrillator's analyzing
+},
+{
+    124.12,129.44
+     the casualty's heart rhythm. Follow the instructions of the device which will indicate whether you should
+},
+{
+    129.44,138.44
+     administer a shock or continue with chest compressions. Continue in this way until the emergency services
+},
+{
+    138.44,146.08
+     can take over or until the casualty begins breathing normally again.
+},
+{
+    150.08,154.8
+     This device can even be used on children and infants. Normally with a special adapter or using pediatric electrodes.
+},
+{
+    154.8,158.28
+     If the absence of these adapters or special electrodes,
+},
+{
+    158.28,160.64
+     an adult defibrillator can be used.
+},
+{
+    160.64,162.72
+     Place one electrode on the chest
+},
+{
+    162.72,165.0
+     and the other on the back at the level of the chest.
+},

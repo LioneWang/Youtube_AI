@@ -1,0 +1,252 @@
+{
+    0.0,6.4
+     Hello, my name is Joaquin Sanchez and I am one of the Solder Resolutions at Mayo Clinic.
+},
+{
+    6.4,14.4
+     Today, I would like to talk to you about rotator cafters, one of the most common reasons for shoulder pain.
+},
+{
+    14.4,25.72
+     The rotator calf is a group of muscles and tendons essential for the coordination and power of the shoulder joint. Problems occur when part of a rotator calf becomes
+},
+{
+    25.72,31.88
+     irritated or damaged as a result of injury, overuse or simply wear and tear
+},
+{
+    31.88,38.52
+     over time. This can result in pain, weakness and reduced range of motion.
+},
+{
+    38.52,43.48
+     Thirst affecting the full thickness of the rotator calf are typically visible on
+},
+{
+    43.48,46.36
+     an MRI. If you are suffering with the symptoms of a rotator cuff are typically visible on an MRI.
+},
+{
+    46.36,50.36
+     If you are suffering with the symptoms of a rotator cuff, discussing your options with
+},
+{
+    50.36,53.26
+     a shoulder surgeon is recommended.
+},
+{
+    53.26,59.0
+     In some circumstances, waiting too long can lead to muscle retraction and weakening beyond
+},
+{
+    59.0,60.0
+     repair.
+},
+{
+    60.0,64.04
+     The good news is that some individuals with a rotator cuff tear can feel improvements
+},
+{
+    64.04,68.0
+     in pain, motion and strength without surgery.
+},
+{
+    69.0,75.0
+     One corticosteroid injection can serve as a jump start by alleviating inflammation.
+},
+{
+    76.0,81.0
+     However, too many steroid injections must be avoided, since they weaken the tendon and bone structure,
+},
+{
+    82.0,86.92
+     increasing the chances of failure if surgery becomes necessary.
+},
+{
+    86.92,92.2
+     A physical therapy program focused on calf strengthening has the highest chance of success.
+},
+{
+    92.2,97.76
+     If you want to remember one exercise to keep your rotator calf healthy, elastic band strengthening
+},
+{
+    97.76,102.08
+     in internal and external rotation will help you the most.
+},
+{
+    102.08,109.42
+     Hold a towel or magazine under your armpit to block dealt with contraction. Then use elastic bands to strengthen the calf muscles,
+},
+{
+    109.42,116.66
+     pulling inwards for a few sets, then outwards using a door knob. Many individuals
+},
+{
+    116.66,121.5
+     cannot overcome the symptoms of a torn rotator calf and end up needing surgery.
+},
+{
+    121.5,127.5
+     The most common procedure consists of using a thread-like material called suture
+},
+{
+    127.5,130.0
+     to repair the rotator cuff to bone.
+},
+{
+    130.0,136.0
+     Rotator cuff repair can be performed arthroscopically through small puncture wounds.
+},
+{
+    136.0,141.0
+     Arthroscopic cuff repair has emerged as a major advance in shoulder surgery.
+},
+{
+    141.0,145.46
+     It is accurate, minimally invasive, much less painful and
+},
+{
+    145.46,150.24
+     cosmetically appealing. A camera is introduced through a puncture wound to
+},
+{
+    150.24,154.68
+     visualize during surgery. The repair is performed by placing anchors in the bone,
+},
+{
+    154.68,159.58
+     passing switches to the tendon and securing the switches to the bone.
+},
+{
+    159.58,163.82
+     Incention of the camera through a small puncture wound allows excellent
+},
+{
+    163.82,169.5
+     visualization. Instruments are used to pass switchers from the bone anchors through the tendon.
+},
+{
+    169.5,174.9
+     The repair is completed by further securing the switchers and tendon to bone.
+},
+{
+    174.9,180.9
+     The completed repair is shown to demonstrate secure fixation of the torn tendons to bone.
+},
+{
+    180.9,186.66
+     Most patients do not need to stay in the hospital after surgery. Protecting
+},
+{
+    186.66,192.2
+     the repair for a few weeks after surgery by use of a shoulder sling facilitates healing.
+},
+{
+    192.2,197.72
+     Several amounts of therapy are required to completely restore motion, strength and function.
+},
+{
+    197.72,203.84
+     Many patients feel the shoulder function is restored to normal. Unfortunately, in some
+},
+{
+    203.84,206.6
+     patients the extent of tendon damage is such that
+},
+{
+    206.6,211.36
+     tendon repair is no longer an option. At Mayo Clinic, two other surgical solutions
+},
+{
+    211.36,216.16
+     are considered in these circumstances. If the joint itself is not severely
+},
+{
+    216.16,220.84
+     damaged, tendon transfers can be very successful. One or more tendons are
+},
+{
+    220.84,226.68
+     surgically moved to the areas of rhodiotorcaf damage and compensate for their function.
+},
+{
+    226.68,231.08
+     There are multiple tendon transfers that can be considered and it is important to select
+},
+{
+    231.08,234.88
+     the transfer that is best for each patient.
+},
+{
+    234.88,238.76
+     Long-standing rhodiotorcafters will eventually lead to arthritis.
+},
+{
+    238.76,243.96
+     Reverse joint replacement is the best solution for this combination of arthritis and a damaged
+},
+{
+    243.96,245.84
+     rhodiotorcaf. the best solution for this combination of arthritis and a damaged rotator cuff.
+},
+{
+    245.84,250.64
+     In a reversed joint replacement, the ball and socket structure is reversed.
+},
+{
+    250.64,256.7
+     An artificial hemisphere is fixed to the socket and an artificial stem with a concave opening
+},
+{
+    256.7,259.48
+     is placed inside the bone in the arm.
+},
+{
+    259.48,265.0
+     This change in geometry empowers the deltoid muscle and compensates for the rotator cuff.
+},
+{
+    265.0,269.52
+     Recovery is actually very fast with only two or three weeks of immobilization.
+},
+{
+    269.52,273.64
+     Remember to have your rotator cuff checked by a solder surgeon if you experience sudden
+},
+{
+    273.64,278.32
+     loss of solder motion after an injury, or if you have been experiencing dull ache for
+},
+{
+    278.32,279.32
+     months.
+},
+{
+    279.32,283.28
+     If your cuff is found to be torn, you may be recommended to consider one injection on
+},
+{
+    283.28,289.88
+     physical therapy, or you may be best to proceed with arthroscopic calf repair right away.
+},
+{
+    289.88,294.8
+     If the amount of tendon damage is beyond repair, tendon transfers and reverse arthroplasty
+},
+{
+    294.8,297.4
+     are successful solutions for many patients.
+},
+{
+    297.4,301.36
+     As you can see, there are many surgical solutions for calf tears who will help you select the
+},
+{
+    301.36,303.52
+     one that is best for you.
+},
+{
+    303.52,None
+     Thank you very much for listening. και εγώ θα σας βοηθήσω ένα που είναι καλύτερο για σας. Ευχαριστώ πολύ για την ακόμα.
+},

@@ -1,0 +1,108 @@
+{
+    46.0,48.0
+     Yn ymddiwch, yw'r lling yn ddod y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gyfer y cyfnod ar gy ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud yn yn ddweud, ddim ddweud o'r ardal. Felly ddim ddweud o'r ardal. Felly ddim ddweud o'r bandage triangol,
+},
+{
+    48.0,51.0
+     a ddweud o'r ardal i'r ardal
+},
+{
+    51.0,53.0
+     i'r ddweud o'r ddweud.
+},
+{
+    53.0,56.0
+     Felly ddim ddweud o'r ddweud o'r ddweud.
+},
+{
+    56.0,66.24
+     Felly ddim ddweud o'r ddweud o'r ddweud o'r ddweud. Felly ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud, rwy'n ddweud ymlaen, i'r ddweud ymlaen, ddweud ymlaen, i'r ddweud ymlaen, i'r ddweud ymlaen, i'r ddweud ymlaen.
+},
+{
+    68.24,69.76
+     Rwy'n ddweud ymlaen.
+},
+{
+    76.32,78.32
+     A ddweud y cwarniaeth ar y ddweud.
+},
+{
+    81.36,83.56
+     A ddweud y ddweud y ddweud ymlaen yn ddweud.
+},
+{
+    83.56,85.5
+     Ddweud y ddweud y ddweud yn ddweud yn ddweud. Dwi'n ddweud i'r ddweud.
+},
+{
+    86.5,89.6
+     Yn y ddweud yw'r ddweud, rwy'n ddweud
+},
+{
+    89.6,91.6
+     fel y ddweud yn ddweud i'r ddweud,
+},
+{
+    91.6,93.6
+     ac yn ddweud yn ddweud yn ddweud ar y ddweud.
+},
+{
+    96.6,98.6
+     A oes y ddweud yn ysgol,
+},
+{
+    98.6,101.1
+     yna'r ddweud i'r ddweud i'r ddweud i'r ddweud.
+},
+{
+    101.1,102.6
+     Rwy'n ddweud i'r ddweud i'r ddweud i'r ddweud.
+},
+{
+    102.6,104.6
+     A'r ddweud i'r ddweud i'r ddweud i'r ddweud.
+},
+{
+    104.6,106.52
+     Rwy'n ddweud i'r ddweud i'r ddweud i'r ddweud. Yn ddweud i'r ddweud i'r ddweud yma. Rwy'n ddweud ddweud i'r ddweud. A'r ddweud o'r ddweud yn y ddweud. Rwy'n ddweud i'r bandage triangularu,
+},
+{
+    106.52,108.52
+     ddweud ddweud i'r ddweud.
+},
+{
+    108.52,110.52
+     Rwy'n ddweud i'r ddweud i'r ddweud.
+},
+{
+    110.52,112.02
+     Rwy'n ddweud i'r ddweud.
+},
+{
+    112.02,114.02
+     Rwy'n ddweud i'r ddweud,
+},
+{
+    114.02,115.52
+     ddweud i'r ddweud,
+},
+{
+    115.52,117.52
+     a ddweud i'r ddweud i'r ddweud.
+},
+{
+    127.0,131.0
+     A ddweud i'r ddweud i'r ddweud. Yn y bydd yma, rwy'n meddwl i'r ddweud,
+},
+{
+    131.0,134.0
+     rwy'n meddwl i'r ddweud, i'r ddweud i'r ddweud i'r ddweud,
+},
+{
+    134.0,138.0
+     ac yn ddweud yn ddweud i'r ddweud.
+},
+{
+    138.0,167.44
+     Yn ymddi'r cychwyn, rwy'n meddwl i'r ddweud i'r ddweud, mae'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio''n dwy cyfnod. Rwy'n meddwl ychydig i'w wneud ychydig i'w wneud y cendifuol a'r ddweud i'w ddweud.
+},

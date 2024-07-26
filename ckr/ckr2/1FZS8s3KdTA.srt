@@ -1,0 +1,120 @@
+{
+    0.0,10.0
+     If you do this, you breathe this, and you're at risk for silicosis.
+},
+{
+    14.0,21.0
+     Most of my patients diagnosed with silicosis can link back chronic lung disease back to an exposure that they had at work.
+},
+{
+    22.16,25.44
+     they had at work. Silica is a form of quartz that is found naturally
+},
+{
+    25.44,30.68
+     in almost all rock, sand, soil, brick, and concrete products.
+},
+{
+    30.68,33.48
+     Exposure to fine silica is a serious threat
+},
+{
+    33.48,36.6
+     to nearly 2 million US workers.
+},
+{
+    36.6,40.68
+     Any job that includes crushing and drilling rock or concrete,
+},
+{
+    40.68,44.8
+     masonry or concrete work, mining, tunneling, demolition,
+},
+{
+    44.8,48.64
+     or sandblasting can lead to exposure.
+},
+{
+    48.64,54.8
+     Exposure to silica can lead to silicosis, a type of pulmonary fibrosis characterized
+},
+{
+    54.8,59.12
+     by scarring of the lungs that makes it difficult to breathe.
+},
+{
+    59.12,64.72
+     Many of my patients initially experience an irritating cough, excess mucus, and have difficulty
+},
+{
+    64.72,68.16
+     breathing.
+},
+{
+    68.16,73.52
+     As the disease progresses, symptoms can get more serious.
+},
+{
+    73.52,77.2
+     Silicosis can be progressive, disabling, and sometimes fatal.
+},
+{
+    77.2,81.28
+     It also increases your risk for developing other lung diseases, such as lung cancer,
+},
+{
+    81.28,83.76
+     tuberculosis, and COPD.
+},
+{
+    83.76,87.12
+     The good news is that this disease is completely prevented.
+},
+{
+    89.12,91.48
+     Your employer, by law, must protect you
+},
+{
+    91.48,94.48
+     from being exposed to too much silica.
+},
+{
+    94.48,96.08
+     To protect your lung health,
+},
+{
+    96.08,99.04
+     you and your colleagues must use engineered controls,
+},
+{
+    99.04,102.72
+     like eliminating the hazard through dust collection or water,
+},
+{
+    102.72,105.78
+     and employing good work practices such as
+},
+{
+    105.78,109.16
+     applying sweeping compound before sweeping up dust.
+},
+{
+    109.16,114.64
+     And if those steps don't keep silica dust leveled slow enough, your employer must provide
+},
+{
+    114.64,118.1
+     you with a respirator, so be sure to use it.
+},
+{
+    118.1,123.4
+     The American Lung Association has Silicosis resources available on diagnostic tests, treatment
+},
+{
+    123.4,125.06
+     options and access to support
+},
+{
+    125.06,130.86
+     groups. For more information on silicosis visit lung.org.
+},

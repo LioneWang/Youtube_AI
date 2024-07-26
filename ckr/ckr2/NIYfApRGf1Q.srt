@@ -1,0 +1,356 @@
+{
+    0.0,5.2
+     Hi everybody, this is Dr. Tahir again at Family Pediatrics. Thank you so much for joining us today.
+},
+{
+    5.2,8.84
+     We have cute little Holden and Katie and we have Phil with us today and
+},
+{
+    9.68,12.72
+     Holden came in today with ear pain and he has an ear infection.
+},
+{
+    13.48,18.24
+     With the type of ear infection that he has, I'll need to give him some antibiotics and some pain medicine.
+},
+{
+    18.48,26.56
+     But along with that, I want to teach you a special massage technique that will help drain the fluid inside his ear into his
+},
+{
+    26.56,31.36
+     throat. There's a small tube that we have that connects the ear to the back of the throat. It's
+},
+{
+    31.36,38.16
+     called the Eustachian tube. And that you can get clogged sometimes. And that can also make the fluid
+},
+{
+    38.16,46.44
+     build up in our ear. Okay, so the massage technique I'll show you, it's kind of a technique to help pump that tube a little bit,
+},
+{
+    46.44,49.08
+     to hopefully help that drain a little better.
+},
+{
+    49.08,52.48
+     Along with using the antibiotics or any decongestants
+},
+{
+    52.48,55.4
+     that he may be using, that massage technique
+},
+{
+    55.4,57.44
+     may also help to decrease some of that fluid
+},
+{
+    57.44,58.64
+     and pressure inside.
+},
+{
+    58.64,59.64
+     Sounds good?
+},
+{
+    59.64,61.32
+     All right, so what you'll want to do
+},
+{
+    61.32,64.36
+     is for doing the little massage technique,
+},
+{
+    64.36,67.32
+     you want to use some kind of an oil for him.
+},
+{
+    67.32,73.36
+     The easiest one to use is simple plain organic olive oil, extra virgin olive oil.
+},
+{
+    73.36,76.36
+     Same exact oil that we eat and cook with.
+},
+{
+    76.36,79.16
+     Okay, so you know it's safe to use on his skin also.
+},
+{
+    79.16,85.64
+     So I have some of that here and I'm going to bring that over and put a little bit on my finger okay.
+},
+{
+    91.84,99.0
+     Alright, Holden are you ready? Isn't this fun? Are you excited? Holden is super
+},
+{
+    99.0,103.28
+     excited too. So what you'll do is use a little bit of oil and here I'm just
+},
+{
+    103.28,105.24
+     gonna put this on a little cotton ball but at home you is use a little bit of oil. And here I'm just going to put this on a little cotton ball.
+},
+{
+    105.24,110.88
+     But at home, you can use a little bowl or disposable cup
+},
+{
+    110.88,112.16
+     or something like that.
+},
+{
+    112.16,116.88
+     I'm just going to put this here so that I can motion my thumb
+},
+{
+    116.88,117.84
+     with this.
+},
+{
+    117.84,119.88
+     I'm not going to put my thumb on there or in there,
+},
+{
+    119.88,121.28
+     so it stays clean.
+},
+{
+    121.28,121.8
+     All right.
+},
+{
+    121.8,123.12
+     So what you'll want to do is you'll
+},
+{
+    123.12,125.88
+     want to use your thumb for the massage.
+},
+{
+    125.88,129.28
+     And you notice there's not too much oil on my finger.
+},
+{
+    129.28,131.8
+     If you look at my finger close up,
+},
+{
+    131.8,134.52
+     there's hardly much oil there.
+},
+{
+    134.52,135.84
+     You don't need dripping oil.
+},
+{
+    135.84,140.24
+     You just need a little oil so your finger slides on his skin
+},
+{
+    140.24,143.76
+     and it doesn't create heat and friction.
+},
+{
+    143.76,145.04
+     And that's all you're doing.
+},
+{
+    145.04,146.08
+     I'm gonna put a little more,
+},
+{
+    146.08,149.4
+     because my fingers are a little dry, I think, there.
+},
+{
+    150.84,154.08
+     All right, so what you'll wanna do is,
+},
+{
+    155.04,156.28
+     hold it, honey, can you move your head
+},
+{
+    156.28,157.96
+     just like that for me, sweetheart?
+},
+{
+    157.96,158.96
+     Perfect.
+},
+{
+    158.96,161.72
+     So it's this ear that we're looking at.
+},
+{
+    161.72,164.76
+     And what you wanna do is feel right behind his ear,
+},
+{
+    164.76,165.64
+     and you'll feel a bone
+},
+{
+    165.64,172.08
+     right back over here. Go ahead and feel that. And also feel his jaw right over here. That's
+},
+{
+    172.08,178.08
+     his jaw bone. Now he's got a couple of different kinds of ear infections going on. He's got
+},
+{
+    178.08,182.64
+     the outer ear infection going on which is more painful. And the middle ear infection
+},
+{
+    182.64,185.58
+     going on. Most kids have only one type but
+},
+{
+    185.58,190.08
+     he has both. So we're going to be very gentle with him so we don't cause him any discomfort.
+},
+{
+    190.08,194.04
+     Okay sweetheart, go like this for me. What you'll be doing is you'll be using your thumb,
+},
+{
+    194.04,201.76
+     starting from up here on top of his ear and right behind his ear and you're going to gently
+},
+{
+    201.76,206.0
+     press down and pull your thumb down and kind of go
+},
+{
+    206.0,210.56
+     around his lower jaw that's his lower jaw and that's the bone so you're not
+},
+{
+    210.56,214.0
+     gonna press on the bone that's not gonna do any good but it's in between this
+},
+{
+    214.0,217.56
+     bone and the lower jaw so it's like a little groove that you'll put your thumb
+},
+{
+    217.56,222.44
+     into and gently move your thumb down like that just about you don't have to go
+},
+{
+    222.44,228.64
+     all the way further down just in that direction. I'm going to do this five times five or ten times and then
+},
+{
+    228.64,234.08
+     repeat that a few times a day. Just like that okay. For him we're being very
+},
+{
+    234.08,240.12
+     gentle. If kids have an outer ear infection like he does it maybe that it
+},
+{
+    240.12,242.76
+     doesn't help with the outer ear infection it's more for middle ear
+},
+{
+    242.76,245.4
+     infection. It just so happens he's got both,
+},
+{
+    245.4,246.84
+     but this is for middle ear infection.
+},
+{
+    246.84,249.52
+     That's what helps the draining like that.
+},
+{
+    249.52,251.24
+     All right.
+},
+{
+    251.24,254.76
+     Does it feel okay, sweetheart?
+},
+{
+    254.76,256.16
+     OK, do you want to try that?
+},
+{
+    256.16,258.12
+     And just see if you can get the one up.
+},
+{
+    258.12,262.8
+     See, make sure you get to the right part of the groove
+},
+{
+    262.8,266.32
+     and that it's in between the bony areas, not on top of the bones.
+},
+{
+    267.44,274.24
+     And so it's, yeah, and it's perfect to be right behind them just like you're sitting.
+},
+{
+    274.96,277.2
+     And that's a perfect position too.
+},
+{
+    279.92,284.08
+     Good. So you're straight ahead of this bone and behind the lower jaw.
+},
+{
+    284.3,286.3
+     good so you stay ahead of this bone and behind the lower jaw.
+},
+{
+    287.4,287.8
+     Just like that, okay?
+},
+{
+    291.4,293.9
+     And just gentle with him because he's got the outer infection too, so it may be more tender for him, but he's doing well.
+},
+{
+    293.9,295.9
+     So go ahead and try that about 10 times.
+},
+{
+    296.3,297.7
+     Do that about three times a day.
+},
+{
+    298.2,303.1
+     And that helps the drainage so you're doing something along with all the medications that we have to use.
+},
+{
+    303.1,303.7
+     Sounds good?
+},
+{
+    304.3,305.04
+     Wonderful. Any
+},
+{
+    305.04,310.96
+     questions you guys? Wonderful. You're very welcome. Hope it feels good. Hope it gets better for you
+},
+{
+    310.96,316.24
+     very soon and if there's any problems just give me a call. Alright so I hope you guys enjoyed that
+},
+{
+    316.24,321.76
+     and have a new technique to try for your children if they're suffering from an ear infection and
+},
+{
+    321.76,None
+     I'll talk to you guys later.
+},

@@ -1,0 +1,764 @@
+{
+    0.0,3.0
+     There's like an audience, they're not used to an audience!
+},
+{
+    6.0,11.0
+     Hey everyone, it's Jessica with Montana Family Pharmacies and today I'm here with Josh, our pharmacist,
+},
+{
+    11.0,14.0
+     and then Summer, who's a paramedic with Columbus Fire and Rescue,
+},
+{
+    14.0,18.0
+     and we are going to be talking about how to use an AED.
+},
+{
+    18.0,31.0
+     And so Summer is going to demonstrate on Josh how to use an AED. It's gonna be fun! First thing we're gonna talk about is how to recognize when somebody might be having a cardiac event or a cardiac arrest.
+},
+{
+    31.0,35.0
+     So, first thing you're gonna want to do is check for responsiveness.
+},
+{
+    35.0,40.0
+     So, approach somebody who's down or not awake and you're gonna want to tap and shout.
+},
+{
+    40.0,44.0
+     Hey sir, are you okay? Hey wake up? Kind of give them a little shake.
+},
+{
+    44.0,48.6
+     If there's no response, the next thing you're gonna want to do is check for their breathing. So look at their chest,
+},
+{
+    48.6,53.84
+     look at their stomach. If they're not breathing normally or only gasping, it's time to grab the
+},
+{
+    53.84,59.68
+     AED. You'll want to start impressions. We'll go over that here in a little bit, but you're gonna
+},
+{
+    59.68,64.7
+     want to send somebody to grab that AED. They're pretty simple to operate. I know they can be
+},
+{
+    64.7,66.0
+     kind of loud and intimidating, but trust me, they walk you through step AED. They're pretty simple to operate. I know they can be kind of loud and intimidating,
+},
+{
+    66.0,68.08
+     but trust me, they walk you through step by step.
+},
+{
+    68.08,68.92
+     Makes it pretty easy.
+},
+{
+    68.92,71.0
+     So, first thing you wanna know to do
+},
+{
+    71.0,73.52
+     is open up the lid and turn it on.
+},
+{
+    73.52,74.76
+     You'll hear it kind of power up.
+},
+{
+    74.76,76.44
+     There'll be a lot of beeps.
+},
+{
+    76.44,81.12
+     While that's going, you're gonna wanna grab your handy patches.
+},
+{
+    81.12,85.0
+     Josh has been kind enough to volunteer for this.
+},
+{
+    85.0,89.0
+     There's going to be two pads and on them they typically have pictures of where they go.
+},
+{
+    89.0,93.0
+     So pretty full proof. One goes kind of on the top right shoulder.
+},
+{
+    93.0,98.0
+     Stick that on pretty good. And the second one goes down on the left.
+},
+{
+    98.0,100.0
+     You'll want to remove all clothing and put it directly on the skin.
+},
+{
+    100.0,102.0
+     Wow wow!
+},
+{
+    104.0,112.56
+     You plug your pads in and the next thing you're going to want to do, if you can hear that,
+},
+{
+    112.56,113.56
+     it says push analyze.
+},
+{
+    113.56,118.0
+     So you'll push the analyze button there on every knee across the board and then make
+},
+{
+    118.0,120.0
+     sure nobody's touching your patient.
+},
+{
+    120.0,128.0
+     This thing's going to analyze the rhythm and see if we need to deliver a shock or not. So here we need to deliver a shock.
+},
+{
+    128.0,132.0
+     This is it charging. It takes forever.
+},
+{
+    132.0,136.0
+     Just wait. Make sure nobody is touching your patient.
+},
+{
+    136.0,140.0
+     And it's going to tell you to shock.
+},
+{
+    140.0,146.0
+     So you'll hit the big red shock button, again make sure nobody's touching your patient,
+},
+{
+    146.0,148.56
+     and then your AED will tell you to start CPR.
+},
+{
+    148.56,154.36
+     So it'll just continue this cycle until help arrives, or there's no shockable rhythm detected.
+},
+{
+    154.36,159.04
+     So if there is no shockable rhythm, it'll tell you no shock advised, and you'll just
+},
+{
+    159.04,161.32
+     go right back into CPR.
+},
+{
+    161.32,164.44
+     When they, when you shock them, do they jump?
+},
+{
+    164.44,167.64
+     They do. They do. do yeah that's why they do
+},
+{
+    167.64,171.16
+     yep it just contracts every single muscle and they'll twitch and they'll
+},
+{
+    171.16,176.68
+     jerk and it's a little scary but the shock is super important. What if I
+},
+{
+    176.68,181.52
+     accidentally had my elbow touching you and you didn't realize it? I've heard
+},
+{
+    181.52,187.0
+     stories both ways like I said I've seen people get zapped and then I've heard people that stand there and touch and it doesn't.
+},
+{
+    187.0,191.0
+     As long as you're not in between the electrical current. So I'm just too chicken.
+},
+{
+    191.0,198.0
+     I don't want to be anywhere near that thing when it goes off because like I said, these ones deliver 360 joules of electricity.
+},
+{
+    198.0,201.0
+     So a little more than grabbing an electric fence.
+},
+{
+    201.0,204.0
+     Or AEDs are found in a bunch of places now.
+},
+{
+    204.0,209.84
+     Yes. So like schools, hospitals, businesses, supermarkets,
+},
+{
+    209.84,212.04
+     pharmacies, I mean, they're all over the place.
+},
+{
+    212.04,213.96
+     They're super accessible nowadays.
+},
+{
+    213.96,217.36
+     Gyms, typically I know all the schools around here
+},
+{
+    217.36,219.96
+     have them in their gyms, stuff like that.
+},
+{
+    219.96,221.48
+     So it's partly advisable if you do
+},
+{
+    221.48,224.4
+     see somebody who is unconscious and unresponsive
+},
+{
+    224.4,245.0
+     to first ask around to the people who are like in charge of that facility where if they have an AED in where it is and then that would, what would you recommend while you're waiting? designate someone to call 911, make sure it's specific, assign that to one person
+},
+{
+    245.0,250.0
+     or else typically people stand around and go, oh they'll do it, I don't have to get involved.
+},
+{
+    250.0,255.0
+     So have someone call 911 and someone get the APD and then you just start CPR while you're getting it.
+},
+{
+    255.0,257.0
+     Okay, alright.
+},
+{
+    257.0,265.0
+     So as far as initiating CPR, what do you do when you find an unresponsive patient?
+},
+{
+    265.0,270.0
+     First things you're checking for and then positions and things like that.
+},
+{
+    270.0,275.0
+     Yep, you'll want to be on a nice flat surface, like a ground or something like that.
+},
+{
+    275.0,280.0
+     If they're sitting or anything like that, you want to make sure you get them laying flat.
+},
+{
+    280.0,285.0
+     And then if you've determined that there's a need for CPR, just proper hand placement,
+},
+{
+    285.0,288.44
+     which is going to be kind of just the flat part of your surface, right, in the dead center
+},
+{
+    288.44,291.76
+     of their chest, right, about where the nipple line will be.
+},
+{
+    291.76,295.88
+     So put the palm of your hand, other hand on top, and then just start compressing.
+},
+{
+    295.88,299.72
+     Not going to push on your chest because that will hurt, but you want to push at a rate
+},
+{
+    299.72,305.28
+     of at least 100 a minute and a depth of at least two inches, which is quite a bit.
+},
+{
+    305.28,307.04
+     It looks pretty brutal,
+},
+{
+    307.04,309.48
+     but just keep thinking to yourself,
+},
+{
+    309.48,310.4
+     the heart's not beating,
+},
+{
+    310.4,312.0
+     so why us compressing the chest,
+},
+{
+    312.0,313.52
+     but beating that heart forward?
+},
+{
+    313.52,315.06
+     Yeah, but just that proper hand placement,
+},
+{
+    315.06,316.16
+     make sure you're not too low
+},
+{
+    316.16,317.8
+     or otherwise you're just compressing the stomach,
+},
+{
+    317.8,318.8
+     and if you're up too high,
+},
+{
+    318.8,320.8
+     you're gonna be in those major bone structures.
+},
+{
+    320.8,323.76
+     Keep in mind, you are gonna break ribs.
+},
+{
+    323.76,327.84
+     You're gonna break all that cartilage away from the sternum. You might break the sternum, you're going to
+},
+{
+    327.84,332.12
+     hear it, you're going to feel it. We always kind of say if you are breaking
+},
+{
+    332.12,335.24
+     ribs you're doing a rect. So just be prepared for that. That's not something
+},
+{
+    335.24,338.4
+     they really talk about. I think it kind of intimidates people. They don't want to hurt
+},
+{
+    338.4,343.12
+     their stomach. But it's their best chance to survive while getting good solid
+},
+{
+    343.12,346.0
+     compressions. Like another one bites the dust, you know?
+},
+{
+    346.0,347.44
+     Oh yeah, yeah.
+},
+{
+    347.44,350.08
+     Staying alive by the Bee Gees is about 100 a minute.
+},
+{
+    350.08,352.72
+     Another one bites the dust clean.
+},
+{
+    352.72,353.72
+     That's another one.
+},
+{
+    353.72,356.2
+     The Star Wars, for people that like that,
+},
+{
+    356.2,359.72
+     the In-Tree song or whatever, that's about 110,
+},
+{
+    359.72,361.24
+     so that's perfect.
+},
+{
+    361.24,363.56
+     But just try not to go way too fast
+},
+{
+    363.56,364.84
+     and then at least stop.
+},
+{
+    364.84,366.9
+     So on this guy what
+},
+{
+    366.9,371.08
+     you want to do to find your spot again big flat part of your hand right in
+},
+{
+    371.08,373.96
+     dead center of their chest between the nipple line I try to line up my little
+},
+{
+    373.96,386.52
+     finger with it and then you want to get nice over the top of them and just start So you can hear the click on these guys.
+},
+{
+    386.52,391.0
+     That just means you're going fast enough.
+},
+{
+    391.0,395.68
+     Obviously the larger the chest on a larger person is going to take a lot more energy.
+},
+{
+    395.68,399.08
+     But even again on those smaller frail people you want to make sure you're going at least
+},
+{
+    399.08,400.08
+     two inches.
+},
+{
+    400.08,401.08
+     A hundred a minute.
+},
+{
+    401.08,402.08
+     Turn your AED on.
+},
+{
+    402.08,405.04
+     They have a timer built in and they'll cycle like I
+},
+{
+    405.04,410.04
+     said through that analyze rhythm shock advice every two minutes so hopefully by
+},
+{
+    410.04,417.96
+     that first cycle helps on the way or very close. CPR is pretty tiring. So when I see here that you have the
+},
+{
+    417.96,425.88
+     the breathing mask, can we maybe go over the proper use of that, maybe the application of that, and if or when breathing is necessary.
+},
+{
+    425.88,429.12
+     Yes, so if you don't have a pocket mask
+},
+{
+    429.12,430.8
+     or you're not comfortable using it,
+},
+{
+    430.8,433.88
+     we teach people a lot of what's called hands-only CPR,
+},
+{
+    433.88,435.24
+     which is what we just demonstrated.
+},
+{
+    435.24,438.04
+     It's just the compressions on the breathing.
+},
+{
+    438.04,439.76
+     A lot of people are comfortable
+},
+{
+    439.76,441.32
+     or they're kind of grossed out by it.
+},
+{
+    441.32,443.32
+     If you don't have a mask,
+},
+{
+    443.32,445.28
+     so if you don't have the ability to do the breathing or not comfortable, it's not a huge deal if you don't have a mask. So if you don't have the ability to do the breathing
+},
+{
+    445.28,447.76
+     or not comfortable, it's not a huge deal
+},
+{
+    447.76,448.92
+     if you don't do it.
+},
+{
+    449.88,451.6
+     But a lot of times these pocket masks,
+},
+{
+    451.6,453.2
+     they're white or they're yellow.
+},
+{
+    454.88,457.44
+     We talked earlier, a lot of times they come in the AED,
+},
+{
+    457.44,460.88
+     but super simple, they come kind of,
+},
+{
+    460.88,463.08
+     I should have demonstrated that better.
+},
+{
+    463.08,465.48
+     They come folded up like this you just pop it out
+},
+{
+    466.24,468.24
+     There's a one-way valve on these things
+},
+{
+    471.84,475.64
+     Folds out so just kind of look like that as you can see it's kind of shaped like a face
+},
+{
+    475.76,479.8
+     It even has handy dandy little directions on there as to which way to put it
+},
+{
+    479.96,483.76
+     So for these it's very simple. You just put the pointed end over someone's nose
+},
+{
+    484.36,489.94
+     You just want to tip their head back a little bit kind of make sure you have a seal by just pushing straight down on it
+},
+{
+    489.94,491.94
+     And then you'll give two breaths
+},
+{
+    491.94,495.94
+     It really doesn't take a lot of air. You just want to make sure you can see some chest rise
+},
+{
+    496.38,502.14
+     Give them two quick breaths and then right back into CPR. So if you're not able to get the breath in
+},
+{
+    502.7,504.7
+     What's kind of some keys to reposition?
+},
+{
+    505.0,510.72
+     If you're not able to get the breath in, what's some keys to repositioning? If you can, a lot of times when we are laying flat, our heads are pushed down, which closes
+},
+{
+    510.72,511.72
+     off the airway.
+},
+{
+    511.72,516.52
+     So if you have to tip that head back a little further, or just readjust that mask and really
+},
+{
+    516.52,519.52
+     try to get a good seal on it, push down.
+},
+{
+    519.52,521.12
+     You've got to push down kind of hard.
+},
+{
+    521.12,525.36
+     But again, you're not causing pain, you're not causing any discomfort,
+},
+{
+    525.36,528.92
+     so just gotta do what you gotta do to get that breath in.
+},
+{
+    528.92,531.04
+     And if you can't get a seal or you can't get it,
+},
+{
+    531.04,531.88
+     don't worry about it,
+},
+{
+    531.88,534.52
+     just go right back into your proportions.
+},
+{
+    534.52,537.68
+     The ratio for compressions to breaths is 30 and two.
+},
+{
+    537.68,540.96
+     It's that way across the board now with whatever age
+},
+{
+    540.96,542.04
+     you have to do this for.
+},
+{
+    542.04,546.4
+     So you'll do 30 compressions, two breaths, until that AED
+},
+{
+    546.4,550.5
+     tells you to reanalyze. If you don't have an AED available or if it's taking an
+},
+{
+    550.5,554.48
+     extended time to get it, just keep doing 30 to 2 until it shows up or help arrives.
+},
+{
+    554.48,559.44
+     For children, it's a little... the compression to breath ratio is exactly the
+},
+{
+    559.44,562.96
+     same. The hand placement is exactly the same. The only thing is instead of using
+},
+{
+    562.96,568.68
+     those two hands, you'll use one. They're a lot smaller, a lot easier to compress. They're a little more
+},
+{
+    568.68,573.6
+     flexible in the chest cavity with all that cartilage. So one hand, again, you can do it
+},
+{
+    573.6,578.64
+     either this way or this way. I recommend this way. It's a little bit easier to handle. And
+},
+{
+    578.64,586.16
+     then just one hand compress again about two inches for choking for both adults or children. If you have someone that's choking,
+},
+{
+    586.6,592.58
+     if they're still awake and they can cough, encourage them to cough first because our bodies are much better than we ever are
+},
+{
+    592.66,597.64
+     clearing their own problems. So encourage them to cough, but if they can't relieve the obstruction and they go unresponsive,
+},
+{
+    597.84,609.32
+     just start CPR. A lot of times doing those compressions will dislodge whatever's stuck in their trachea hopefully but if not choking unfortunately leads to cardiac arrest most of the time
+},
+{
+    609.32,613.32
+     so that CPR is going to be the best thing for them if you've got a restriction.
+},
+{
+    613.32,615.82
+     With infants are they still recommended if you can?
+},
+{
+    615.82,616.82
+     If you can.
+},
+{
+    616.82,620.32
+     As long as they're still responsive.
+},
+{
+    620.32,624.0
+     Yep, you'll hold them, cradle their head in your hand, give them those five back thrusts
+},
+{
+    624.0,629.68
+     or back slaps and then flip them over and do five chest thrusts with two fingers.
+},
+{
+    629.68,633.18
+     If they go unresponsive again, you'll just start those compressions with the two fingers
+},
+{
+    633.18,637.68
+     in the center for those infants and hopefully have it removed.
+},
+{
+    637.68,642.38
+     It's always good just to have a little refresher, especially if you have young ones in the house
+},
+{
+    642.38,647.0
+     or you just never know when this information can come in handy and be useful.
+},
+{
+    647.0,653.0
+     You don't want to panic in a situation, always try to remain calm and just do what you can.
+},
+{
+    653.0,660.0
+     If you're interested in learning more about CPR first aid, I encourage you to contact your local fire department or ambulance service.
+},
+{
+    660.0,666.0
+     Most of them will offer classes at your convenience. I know up here we do a monthly.
+},
+{
+    666.0,669.5
+     So get a hold of those guys, get a CPR certification even.
+},
+{
+    669.5,671.5
+     Hopefully you never have to use it, but if you do,
+},
+{
+    671.5,677.0
+     you've got that education and that knowledge to jump in and act when a situation arises.
+},
+{
+    677.0,684.5
+     Okay, thanks to Summer and Josh for demonstrating how to use an AED and CPR today.
+},
+{
+    684.5,685.0
+     Just to reiterate, when you're going to use an AED and CPR today.
+},
+{
+    685.0,691.0
+     Just to reiterate, when you're going to use an AED, it's not going to shock you.
+},
+{
+    691.0,694.0
+     It takes you step by step through the process, so don't be afraid of it.
+},
+{
+    694.0,696.0
+     That's something that Summers said.
+},
+{
+    696.0,698.0
+     Sometimes people are afraid to use them, but don't be afraid of it.
+},
+{
+    698.0,700.0
+     You're not going to inadvertently shock somebody.
+},
+{
+    700.0,703.0
+     It will tell you when that person needs it and everything.
+},
+{
+    703.0,706.2
+     So thanks again for showing us.
+},
+{
+    706.2,710.8
+     And for more information on CPR and AEDs, you can visit American Heart Association's
+},
+{
+    710.8,711.8
+     website.
+},
+{
+    711.8,715.36
+     If you found this information useful, please share it with your friends.
+},
+{
+    715.36,718.52
+     If you have any other questions, you can certainly talk to your local pharmacist,
+},
+{
+    718.52,722.08
+     which you can find your local pharmacy at MontanaFamilyPharmacies.com.
+},

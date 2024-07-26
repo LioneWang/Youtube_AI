@@ -1,0 +1,208 @@
+{
+    0.0,5.0
+     Yn ymwneud y fideo gyda'r ddweud y ddweud ymwyngau cyfnodol o'r oesidon.
+},
+{
+    5.0,9.0
+     Mae'n cyfnodol i'r ddweud o'r oesidon ymwneud,
+},
+{
+    9.0,12.0
+     ac mae'n ddweud o'r oesidon ymwneud.
+},
+{
+    12.0,16.0
+     Y ddweud o'r oesidon yn cael cael canul,
+},
+{
+    16.0,19.0
+     ysgol ffaith, ysgol bantur,
+},
+{
+    19.0,21.0
+     ac ysgol reserfawr.
+},
+{
+    21.0,23.0
+     Yn y prysgwch,
+},
+{
+    23.0,24.0
+     yw'r ddweud,
+},
+{
+    24.0,30.0
+     yw'r oesidon yn cael cael cael canul, yw'r oesidon yn cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael cael As with any procedure, introduce yourself, correctly identify your patient, explain what you're going to do and gain consent.
+},
+{
+    30.0,40.0
+     If a patient is showing signs of respiratory distress, we can check how well they are oxygenated blood using a device called a pulse oximeter.
+},
+{
+    40.0,48.0
+     This is a non-invasive way of measuring the SPO2, which is the oxygen saturation of arterial blood. Mae'r cwmhysgau o'r ddweud o'r spio 2, sy'n ddweud o'r bwysig o'r blod ar artyry.
+},
+{
+    48.0,70.0
+     Mae'r ddweud yn y ddweud o'r ddweud o'r ddweud. Mae'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddwe yw'r spio-2 yn ymweld.
+},
+{
+    75.0,80.0
+     Spio-2 yn ymweld yn ymweld yn ymweld yn ymweld yn ymweld yw ym 94% a 100%. Yn ymweld y spio-2 yn ymweld yn ymweld, yw'r hynny'n ddod y byddai'r hypoxyc,
+},
+{
+    80.0,87.0
+     ac yn ymweld yn ymweld yn ystod o'r oesod. Mae'r cyfnodd yn ystod o'r oesod,
+},
+{
+    87.0,91.0
+     mae'n gwneud o'r cyfnodd ar gyfer 94% a 98%.
+},
+{
+    92.0,96.0
+     Ond, ychydig, mae'r cyfnodd yn ddweud o'r risg o'r ffordd yw'r risbwyr,
+},
+{
+    96.0,98.0
+     mae'r cyfnodd ar gyfer COPD.
+},
+{
+    98.0,147.0
+     Mae'n gwneud o' ar gyfer ar gyfer ar gyfer Mae'r cyfnodd yn ymddangos i'r ffordd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cyfnodd yma ar y cy llwyffau yn cael eu cyfnod o'r llwyffau o'r llwyffau,
+},
+{
+    147.0,150.0
+     ac yn ddod o'r llwyffau'r cilindr.
+},
+{
+    150.0,155.0
+     Felly, yn ymddiad, y llwyffau'r cyfnod o'r llwyffau yn cael eu cyfnod o'r llwyffau.
+},
+{
+    155.0,159.0
+     Felly, yn ymddiad, mae'n cyfnod o'r llwyffau yn cael eu cyfnod o'r llwyffau.
+},
+{
+    159.0,162.0
+     Mae'n cael eu cyfnod o'r llwyffau yn cael eu cyfnod o'r llwyffau,
+},
+{
+    162.0,164.0
+     yn ymddiad o'r llwyffau.
+},
+{
+    164.0,165.96
+     Mae'r ddweud o'r llwyffau yn ymddiwch ymddiwch ymddiwch ymddiwch,
+},
+{
+    165.96,168.52
+     ond yn ymddiwch, y ddweud o'r boll o'r marca,
+},
+{
+    168.52,171.88
+     yn ymddiwch y flw rath o'r mnwys.
+},
+{
+    171.88,186.24
+     Yn ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch, ond ymddiwch yn ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddiwch ymddibl yn ymddiadol ar y cyfnod. Felly, y cael cael cael i 2-6 litr per sefydliad,
+},
+{
+    186.24,191.08
+     mae'n gweithio i'r FIO2 o'r 24-50%.
+},
+{
+    191.08,193.0
+     Yn ymddiadol y cael cael i,
+},
+{
+    193.0,195.76
+     mae'n ddweud i'r cyfnodd ac yn ymddiadol.
+},
+{
+    195.76,197.56
+     Felly mae'n ddweud i'r cyfnodd yn ymddiadol,
+},
+{
+    197.56,199.28
+     yn ymddiadol, sy'n ddweud i'r cyfnodd,
+},
+{
+    199.28,201.64
+     sy'n ddweud i'r cyfnodd ac yn ymddiadol.
+},
+{
+    201.64,203.76
+     Mae'n ddweud i'r cyfnodd yn ymddiadol,
+},
+{
+    203.76,225.84
+     ac mae'r cyfnodd yn ymddiadol yn ymddiadol. Ond, mae'n ddweud i'r cyfnodd yn ymud i gael. Mae'n dweud i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'r rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'rhaid i'r bwysig yn ystod yn ymddiol, ond mae'n ddwy'r bwysig yn ymddiol yn ymddiol.
+},
+{
+    225.84,327.5
+     Mae'r ffasig cyfnodd. If a ffasig o'r ffasig o'r ffasig yw'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r ffasig o'r cyfnodd yw'r cyfnodd a'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'r cyfnodd yw'rch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn while some ABG is obtained. If the patient continues to deteriorate or has arrived in a critical condition,
+},
+{
+    327.5,332.5
+     a non-rebreathing mask is used to deliver high concentrations of oxygen to the patient.
+},
+{
+    333.34,336.84
+     This has an attached reservoir bag and one-way valves
+},
+{
+    336.84,341.34
+     which allow oxygen concentrations of 60-80% to be achieved.
+},
+{
+    342.14,349.0
+     Once again, the oxygen is connected up and the flow rate is adjusted to between 12 and 15 litres per minute. o'r ddweud. Rwy'n dweud, y bwysig yn ymddiwch i'r ddweud ac y floriad yn ymddiwch i'r 12-15 litr o'r ddweud.
+},
+{
+    351.5,354.0
+     Y fawr ddweud y ffaith yma i'r bwysig
+},
+{
+    354.0,357.0
+     yn ymddiwch i'r bwysig i'r bwysig i'r bwysig.
+},
+{
+    387.0,390.0
+     Mae'r bwysig yn ymddiwch i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r bwysig i'r fath o'r fath o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud chi'n gwybod y gallu'r ysgolwydd yn ymddych chi'n gwybod y gallu'r ysgolwydd yn ymddych chi'n gwybod.
+},
+{
+    393.0,394.0
+     Yn ymddych chi'n gwybod yw'r drwg ac yn ymddych chi'n gwybod.
+},
+{
+    395.0,396.0
+     Mae'n mynd i'n ddweud.
+},
+{
+    399.0,400.0
+     Yn ymddych chi'n gwybod yw'r ysgolwydd, mae'n ddweud yn ymddych chi'n gwybod.
+},
+{
+    404.0,410.56
+     Yn ymddych chi'n gwybod yw'r drwg, mae'n mynd i'n gwybod y o'r llwyddiad, mae'n gweithio'n ddragofn amser, y llwyddiad ar gyfer, y llwyddiad, y ddau,
+},
+{
+    410.56,412.56
+     ac y ddweud.
+},
+{
+    412.56,415.56
+     Felly, mae'n ddweud o'r ddweud.
+},
+{
+    415.56,418.56
+     Mae'r oesidio yn ychydig yn cael ei gwybod.
+},
+{
+    418.56,430.24
+     Mae'r oesidio yn ychydig yn ychydig yn ychydig yn ychydig yn y chydig yn y llwyddiad. oxygen up or down to maintain the target oxygen saturations. If the patient remains stable on minimal oxygen therapy, consider discontinuation.
+},
+{
+    430.24,433.56
+     If you'd like more information, please see the BTS guidelines.
+},

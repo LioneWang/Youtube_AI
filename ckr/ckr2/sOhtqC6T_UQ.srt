@@ -1,0 +1,248 @@
+{
+    0.0,8.0
+     Hi, my name is Miles.
+},
+{
+    8.0,10.32
+     Welcome to Best Practice Medicine TV.
+},
+{
+    10.32,15.24
+     Today we're going to be talking about extremity splinting, specifically shoulder mobilization
+},
+{
+    15.24,33.46
+     using the sling and swath method. Extramity splinting is an important skill for all EMS providers, especially those working
+},
+{
+    33.46,39.28
+     in the backcountry setting such as wilderness first responders or ski patrollers.
+},
+{
+    39.28,43.0
+     Effective immobilization will reduce patient pain and decrease the chance of additional
+},
+{
+    43.0,44.6
+     injury during transport.
+},
+{
+    44.6,48.8
+     The sling and swath is used to immobilize injuries of the shoulder and upper and lower
+},
+{
+    48.8,54.16
+     arm in order to take weight off the affected tissues and neighboring anatomy.
+},
+{
+    54.16,59.46
+     The standard sling and swath is built using two triangular bandages or cravats and consists
+},
+{
+    59.46,60.46
+     of two parts.
+},
+{
+    60.46,65.0
+     A sling, which serves to take the weight of the injured extremity off of the shoulder joint
+},
+{
+    65.0,70.0
+     and a swath which binds the injured extremity of the patient's body further stabilizing it.
+},
+{
+    70.0,76.0
+     As with any extremity splinting, the first step is to manually stabilize the injured extremity.
+},
+{
+    76.0,78.0
+     Can you hold your arm there for me?
+},
+{
+    78.0,80.0
+     And to obtain an initial set of CSMs.
+},
+{
+    80.0,84.0
+     Checking for a pulse, sensation, what finger am I touching?
+},
+{
+    84.0,85.6
+     My thumb. Can you wiggle them for me?
+},
+{
+    85.6,90.88
+     Awesome. To construct your sling, first you need to make a pocket by tying a knot
+},
+{
+    90.88,96.84
+     in the right angle of the corner of your triangular bandage. The size of knot you
+},
+{
+    96.84,101.92
+     tie is determined by the length of the patient's forearm. A longer forearm will
+},
+{
+    101.92,107.0
+     require a smaller knot and a shorter forearm will require a longer knot.
+},
+{
+    108.0,118.0
+     The corner of the triangular bandage that's resting against the patient's body should go straight up to the shoulder that sits above the hand of the injured extremity.
+},
+{
+    118.0,124.0
+     This will form a suspension line and help adequately support the extremity.
+},
+{
+    127.0,133.8
+     form a suspension line and help adequately support the extremity. The side further away from the patient's body is wrapped up over the opposite shoulder,
+},
+{
+    133.8,143.08
+     minding the pocket, and effective, even tensioning of the splitting material all the way across.
+},
+{
+    143.08,145.0
+     Once the splitting material is properly positioned,
+},
+{
+    145.0,148.0
+     prepare to tie a knot around the patient's back.
+},
+{
+    148.0,150.0
+     Before you finish your knot,
+},
+{
+    150.0,153.0
+     pull up on the splitting material
+},
+{
+    153.0,157.0
+     in order to effectively take the weight off the extremity.
+},
+{
+    157.0,159.0
+     You don't want to displace the shoulder
+},
+{
+    159.0,162.0
+     so much that it causes the patient unnecessary pain,
+},
+{
+    162.0,165.3
+     but by pulling a little extra tension will
+},
+{
+    165.3,168.7
+     account for slippage in the knot and stretching and sagging of the material.
+},
+{
+    168.7,174.26
+     It's best to warn your patient that this step might hurt a little bit, but it'll
+},
+{
+    174.26,179.82
+     make them feel better, increase their comfort right away. Once the sling has
+},
+{
+    179.82,183.1
+     been applied, the next step is to immobilize the extremity of the patient's
+},
+{
+    183.1,185.0
+     body using a swath.
+},
+{
+    185.0,189.0
+     Surface area is your friend here, so a wider swath is better.
+},
+{
+    189.0,199.0
+     Position the swath material over the patient's arm and prepare to make a knot at the patient's back.
+},
+{
+    199.0,205.4
+     Before you tie your knot, ask the patient to take a deep breath for you to make sure you don't restrict their breathing.
+},
+{
+    205.4,208.6
+     Take deep breath, hold it, awesome.
+},
+{
+    208.6,214.16
+     Okay, you can let it out.
+},
+{
+    214.16,220.28
+     After the swath is tied, dress it to make sure it's effectively immobilizing the extremity
+},
+{
+    220.28,228.46
+     to the patient's body.
+},
+{
+    228.46,234.64
+     Wide coverage over the elbow and the hand, leaving the narrow parts on the patient's
+},
+{
+    234.64,239.0
+     back where it's less sensitive and less likely to bite in.
+},
+{
+    239.0,243.94
+     When practicing, test the effectiveness of your swath by asking your helper to bend over
+},
+{
+    243.94,246.24
+     forward and see if his arm swings
+},
+{
+    246.24,251.36
+     away from his body. Feel like you're swinging away? Nope, I'm pretty secure. Tight in there? Yep.
+},
+{
+    255.28,260.0
+     In order to be effective, a sling and swath should keep the patient's extremity immobilized
+},
+{
+    260.0,265.04
+     without dislodging, shifting or sagging, despite bumping, jostling or bouncing.
+},
+{
+    272.48,278.56
+     After splinting the extremity, recheck the patient's circulation, sensation and motion in the injured extremity.
+},
+{
+    282.88,285.4
+     Ready to pulse? We'll finger my touch in.
+},
+{
+    285.4,286.4
+     My thumb.
+},
+{
+    286.4,287.4
+     We'll give them for me.
+},
+{
+    287.4,288.4
+     Great.
+},
+{
+    288.4,293.16
+     Thank you for joining us on this beautiful Montana day.
+},
+{
+    293.16,297.24
+     I hope you learned something that was informational and useful to your clinical practice.
+},
+{
+    297.24,300.76
+     Tune in next time for more educational content from BPM TV.
+},
+{
+    300.76,None
+     And as always, thanks for watching.
+},

@@ -1,0 +1,72 @@
+{
+    26.84,29.84
+     Yn ymddiwch, mae'r cyfnodd yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol yn ymddiadol and that you don't go rushing in and get yourself hurt. And it must be safe for you, the casualty, the casualty's family, bystanders, and emergency services, who are you gonna call to help you?
+},
+{
+    31.32,35.28
+     So this is a child, he's under eight, but over one.
+},
+{
+    37.12,39.56
+     We check for breathing like before, tip his head back,
+},
+{
+    39.56,41.04
+     hold the bony part of his chin,
+},
+{
+    41.04,43.36
+     balance yourself on your elbow,
+},
+{
+    43.36,45.68
+     look, listen, feel for 10 seconds,
+},
+{
+    45.68,50.12
+     see his chest rising, see his belly rising, feeling breathing on your cheek, hearing breathing
+},
+{
+    50.12,56.4
+     in your ear. So we've not got that in this case. So we're going to do five rescue breaths
+},
+{
+    56.4,63.84
+     first. The likelihood is it's airway and lungs, not heart related, so we're going to re-oxygenate
+},
+{
+    63.84,68.48
+     his blood. So we're going to tip his head back, pinch his nose, cover his mouth with mine,
+},
+{
+    68.48,73.6
+     looking down the length of his chest, I'm going to give him five breaths.
+},
+{
+    76.76,81.64
+     As soon as I see the movement in his chest, I'm going to stop blowing, otherwise I
+},
+{
+    81.64,90.0
+     can over inflate his lungs. So now to do compressions on a child, I can use the heel of my hand or I can use the bar where my fingers join.
+},
+{
+    90.0,99.0
+     I get my shoulders above the centre of his chest, the heel of my hand on the centre of his chest and my fingers level with his armpit like before
+},
+{
+    99.0,103.0
+     and 30 compressions looking for that profusion.
+},
+{
+    103.0,106.0
+     looking for that profusion.
+},
+{
+    108.0,112.0
+     So after 30 compressions, a head tilt, a tin lift again, pinch his nose and two breaths this time.
+},
+{
+    116.0,119.0
+     And then carry on until a qualified helper arrives.
+},

@@ -1,0 +1,52 @@
+{
+    30.0,47.0
+     Hi, mae'n cael ei wneud i'w cwmwyntio i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau i'w gweithio'r fforddau ac yn helpu'r ddweud ymlaen nhw'n ddweud yn y cwm. Yn ystod, ymlaen nhw'n ddweud ymlaen nhw'n ddweud ymlaen nhw'n ddweud ymlaen nhw'n ddweud. Yn ystod, ymlaen nhw'n ddweud ymlaen nhw'n ddweud ymlaen nhw'n ddweud ymlaen nhw'n ddweud. Yn ystod, ymlaen nhw'n ddweud ymlaen nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'n ddweud nhw'nmdweud yw'r amser yn ymdweud yw'r ystod, ac mae'n ddweud ymdweud.
+},
+{
+    47.0,53.0
+     Yn ymdweud yw'r ystod, mae'n dweud yw'r ysgrifennu'n gwybod yn fwy o'r ysgrifennu a'r ysgrifennu'n gwybod
+},
+{
+    53.0,57.0
+     ac mae'n ddweud ymdweud yw'r ardal a'n ddweud yw'r ysgrifennu.
+},
+{
+    57.0,86.4
+     Mae'n ddweud yw'r ysgrifennu'n gwybod, mae'n ddweud yw'r ardal a'r gwaith yn'r argynwyr a'r gwaith yn ymdweud o'r ysgol. Yn ymdweud yma, yw'r cyffredin, yw'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'r cyffredin o'rch yn ddwy'r ardal yn y ddwy'r ardal.
+},
+{
+    86.4,90.2
+     Yn ystod, mae'n ddwy'r ardal yn y ddwy'r ardal yn y ddwy'r gweithio'r
+},
+{
+    90.2,96.2
+     ddwy'r ardal, yn y ddwy'r ardal, yn y ddwy'r gweithio, yn y ddwy'r gweithio'r
+},
+{
+    96.2,105.04
+     ddwy'r gweithio'r ddwy. Rwy'n ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddwy'r gweithio'r ddweud o'r ddweud.
+},
+{
+    108.24,108.8
+     Felly yma'r dros eich cyfnod, mae'n cyfnod ymwybod.
+},
+{
+    112.8,114.8
+     Mae'r ddweud yma yn ymweld y ddweud yma'r ddweud yma'r ddweud yma'r ddweud yma'r ddweud ac yma'r ddweud yma'r ddweud.
+},
+{
+    115.44,118.56
+     Yn ystod, y dyfodd y gallwn i'r ddweud, mae'n ddweud yma'r ddweud
+},
+{
+    118.56,121.2
+     i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud.
+},
+{
+    121.76,124.76
+     A'r ddweud, mae'n ddweud i'r ddweud i'r ddweud i'r ddweud.
+},
+{
+    None,None
+     ffordd o'r cyfnod. A oeddaeth y byddai'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau i'r lluniau
+},

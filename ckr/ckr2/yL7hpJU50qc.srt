@@ -1,0 +1,340 @@
+{
+    0.0,7.64
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    10.04,15.32
+     Hi, I'm Bob Schrupp physical therapist, Brad Heineck physical therapist, together we are the most famous physical therapists on the internet
+},
+{
+    15.4,21.72
+     In our opinion Bob. All right Brad are your shoulders uneven? Is one higher? Come on give me a give me a yeah
+},
+{
+    21.72,25.94
+     Is one higher than the other? You know, why would that be and how do you fix it?
+},
+{
+    25.94,26.24
+     Sure
+},
+{
+    26.24,31.12
+     So first off it could be structural and if it's structural there's nothing much you can do about it by structural
+},
+{
+    31.12,34.28
+     I mean, let's say one of your legs is longer than the other and
+},
+{
+    34.64,41.4
+     The way we measure legs to tell whether or not one leg is longer than the other you're gonna stick your hand right here above your pelvis
+},
+{
+    41.92,43.92
+     Yeah, let's get Leopold out
+},
+{
+    44.92,46.84
+     I don't know where Leopold came from. It's
+},
+{
+    46.84,52.6
+     Napoleon Done. Napoleon. So what I'm doing is I'm putting my hands right here on my pelvis.
+},
+{
+    52.6,58.72
+     I'm sticking them in here. If one is higher, one it could be the pelvis could be rotated.
+},
+{
+    58.72,64.56
+     Sure. But two the leg could be longer on that side. So if it's higher on one side,
+},
+{
+    64.56,66.68
+     that's going to make your shoulder higher on the other side
+},
+{
+    66.92,72.54
+     The other thing is if you actually have a scoliosis, so if you have a curved spine
+},
+{
+    73.68,80.14
+     You know and we say curved, we mean curved from the side and off to the side like this
+},
+{
+    80.4,84.82
+     Yeah, that's going to make one shoulder higher than the other, so you know I
+},
+{
+    84.86,85.64
+     Yeah, that's gonna make one shoulder higher than the other. So you know I
+},
+{
+    90.62,98.2
+     Would I would guess that most of you know if you have a scoliosis or not they do the testing in school Right, so it's not any of those things. This is what you're gonna want to do instead if your dominant shoulder is higher
+},
+{
+    98.6,100.72
+     So if you're right-handed and it's higher
+},
+{
+    100.96,105.0
+     It's more than likely that your trapezius and maybe a levata scapular.
+},
+{
+    105.0,109.0
+     Two muscles here have gotten tightened and that's maybe from overuse.
+},
+{
+    109.0,116.0
+     If you carry a bag all the time, which I do, on my right side and you know all day long,
+},
+{
+    116.0,127.6
+     that muscle might tighten up on you. If you use your phone on the right side all the time and you're like this or if you have your old style phones
+},
+{
+    127.6,131.04
+     and yeah, that can be olden days.
+},
+{
+    131.04,132.04
+     Back in the olden days.
+},
+{
+    132.04,135.34
+     So any of this can cause this muscle to tighten up.
+},
+{
+    135.34,137.72
+     Sometimes it just gets a little over tense.
+},
+{
+    137.72,142.52
+     So and with those you can just do squeeze up and then relax.
+},
+{
+    142.52,143.52
+     Squeeze up and then relax.
+},
+{
+    143.52,146.0
+     But can you show a stretch for the trap sure?
+},
+{
+    146.0,149.76
+     You can put your your hand there and just lean over here
+},
+{
+    150.0,155.6
+     If you have something to hold on to down here, you can just gently lean this way and you'll get a little more of a stretch
+},
+{
+    157.0,159.0
+     And you can work that muscle too
+},
+{
+    160.76,162.76
+     That feels kind of good
+},
+{
+    163.48,166.26
+     That's a good idea. I'm gonna see my wife will do this for me
+},
+{
+    166.66,171.4
+     And sometimes you can actually do it just a little bit of pull. Yeah, don't get aggressive
+},
+{
+    171.4,176.18
+     Because it's again you could actually tear that muscle if you get too aggressive with it
+},
+{
+    176.18,180.02
+     So one thing that I wanted to bring up we talked about this before is I
+},
+{
+    180.52,185.8
+     remember when I was in school we talked about a study that they looked at people's shoulders levels and
+},
+{
+    186.24,193.46
+     The vast majority of people if the dominant side if you're right-handed chances are that shoulder is usually a little lower
+},
+{
+    194.16,196.0
+     And that's what we're going to talk about next
+},
+{
+    196.0,201.48
+     This is what we think is the more common thing you're going to find is that your dominant shoulder is lower
+},
+{
+    201.48,204.52
+     And why is that? Well, there could be two reasons
+},
+{
+    204.74,210.44
+     dominant shoulder is lower and why is that? Well there could be two reasons, predominant reasons, one is that's the shoulder you use a mouse with and the
+},
+{
+    210.44,215.54
+     second thing that's the arm that you write with and when you write and you
+},
+{
+    215.54,218.64
+     work and you're always using that right arm, now this is I'm gonna see if you can
+},
+{
+    218.64,223.94
+     see this or not Brad, what happens over time is the muscles that hold the
+},
+{
+    223.94,226.92
+     shoulder blade back can get stretched out
+},
+{
+    226.92,232.0
+     Right, so what happens they start to collapse and they can actually you can actually get this winging
+},
+{
+    232.0,236.92
+     Oh look at that Bob's got a good shoulder to wing you can really see that wing. That is neat Bob
+},
+{
+    236.92,240.9
+     That doesn't hurt does it? No, that's not a good thing to have actually right and after a while
+},
+{
+    241.2,246.58
+     If that shoulder blade is not holding the shoulder up like it should be you can get impingement
+},
+{
+    246.58,249.2
+     You can get shoulder pain, so this is not a good thing
+},
+{
+    249.2,254.14
+     You want a correctness if this is half. One thing is if you're using a mouse
+},
+{
+    254.84,256.4
+     Now I'll show it from this angle
+},
+{
+    256.4,260.96
+     You don't want to have the mouse forward like this where you have to reach forward. You want to have this shoulder
+},
+{
+    261.48,267.76
+     Completely vertical, they call it a neutral position. Yeah, so the mouse is way down here.
+},
+{
+    267.76,271.48
+     Sometimes people even put it on a chair right next to them.
+},
+{
+    271.48,274.4
+     Or on a lap tray right by them or something.
+},
+{
+    274.4,276.0
+     So the mouse can be here.
+},
+{
+    276.0,277.28
+     Same with writing.
+},
+{
+    277.28,280.0
+     You don't want to be writing way forward like this.
+},
+{
+    280.0,282.64
+     You want to go ahead and put it back in the right position.
+},
+{
+    282.64,283.72
+     It's all about posture.
+},
+{
+    283.72,287.72
+     Simple exercise you can do is you can do shoulder squeezes.
+},
+{
+    287.72,290.48
+     You can just go ahead and squeeze those shoulder blades together.
+},
+{
+    290.48,293.44
+     We even talk about having, when you squeeze them together,
+},
+{
+    293.44,297.04
+     try to picture that you're trying to put them down in your pockets.
+},
+{
+    297.04,301.12
+     Your scapula, shoulder blades going down into your back pockets.
+},
+{
+    301.12,305.2
+     Okay, now what's nice about this one Brad you can do it you can do this every hour.
+},
+{
+    305.2,309.64
+     Every time you think about it it's going to put you in better posture and it's going to start
+},
+{
+    309.64,314.12
+     strengthening that shoulder blades. Starting to form habits. Right, if you want to get a little
+},
+{
+    314.12,319.48
+     more aggressive and actually we do a lot of these this is very common. You're going to get a
+},
+{
+    319.48,326.48
+     thorough tubing or some type of stretch tubing here. You're gonna hook it up onto a door. Are you holding on really well Bob?
+},
+{
+    326.48,331.16
+     I'm supposed to be the door. So I'm gonna go ahead and just I'm doing something
+},
+{
+    331.16,334.72
+     I'm squeezing my shoulder blades together as I'm bringing my hands back like this
+},
+{
+    335.2,338.04
+     Works out really well. You can do some you know
+},
+{
+    338.04,343.14
+     I do a whole routine where I go up I go down and then I even do these
+},
+{
+    343.14,345.76
+     Sure, we've done these on many videos but
+},
+{
+    345.76,351.76
+     again works well. Go down again once Bob. Like this? Yeah, should I let go?
+},
+{
+    351.76,357.12
+     That would get me speaking a little higher tones I guess. But all right so get
+},
+{
+    357.12,361.36
+     rid of that dominant shoulder especially if it's lower you want to get
+},
+{
+    361.36,364.12
+     rid of that so that you're not having shoulder problems in the future. Right
+},
+{
+    364.12,369.76
+     it's all about that shoulder girdle and that posture. Okay, thanks for watching comment below.
+},

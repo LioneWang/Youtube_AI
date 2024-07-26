@@ -1,0 +1,280 @@
+{
+    0.0,33.44
+     Now let's cover the highly effective and very important skill called conscious adult choking.
+},
+{
+    33.44,38.06
+     Now in this scenario we have someone who was eating at a table, they began to choke, we
+},
+{
+    38.06,42.08
+     know they were choking because they could not cough, they could not breathe, they could
+},
+{
+    42.08,43.52
+     not speak.
+},
+{
+    43.52,45.68
+     This is a full obstruction and it needs help if
+},
+{
+    45.68,51.2
+     it's going to come out in most cases. If it's easy to activate the emergency response team or call
+},
+{
+    51.2,57.92
+     911, great. But if not, we can wait until the patient goes unresponsive before we actually take the
+},
+{
+    57.92,63.12
+     time to call 911 or activate a code. But in this case, we're going to come up to the person, we're
+},
+{
+    63.12,69.92
+     going to look them in the eyes, are you choking? They nod yes. I know how to help you, may I help you? They
+},
+{
+    69.92,75.04
+     give me permission to help them, they're still conscious, and so we want to get that permission
+},
+{
+    75.04,80.32
+     from the patient if at all possible. Now I'm going to elevate their elbows, I'm going to
+},
+{
+    80.32,85.16
+     find the belly button. The belly button is my landmark
+},
+{
+    85.16,87.12
+     so that I can tuck my thumb in
+},
+{
+    87.12,90.32
+     and put the fist just above the belly button
+},
+{
+    90.32,92.1
+     on their abdomen.
+},
+{
+    92.1,94.46
+     I wanna stay below the xiphoid process,
+},
+{
+    94.46,96.48
+     which is approximately right here.
+},
+{
+    96.48,98.6
+     I wanna stay just above the belly button
+},
+{
+    98.6,102.04
+     because this is where I find the diaphragmatic region.
+},
+{
+    102.04,103.64
+     This is exactly what I want
+},
+{
+    103.64,105.78
+     so that I can bring that diaphragm
+},
+{
+    105.78,111.92
+     up and in while I compress the lower lobes of the lungs, shoot the air up the trachea,
+},
+{
+    111.92,116.78
+     popping that object out, and it's effective the majority of the time. So I'm going to
+},
+{
+    116.78,121.36
+     take that hand, keep my elbows out so I'm not on their ribs anymore than I have to be,
+},
+{
+    121.36,132.36
+     and I'm going to start with my inward and upward thrusts. And I'm going to do these thrusts until either the object comes out or the person goes unresponsive.
+},
+{
+    132.36,134.94
+     In this case, the object did come out.
+},
+{
+    134.94,138.4
+     He began breathing, coughing, clearing his own airway.
+},
+{
+    138.4,141.36
+     I simply re-encourage him that he's doing fine.
+},
+{
+    141.36,144.72
+     If he feels like sitting down, we can have him sit down.
+},
+{
+    144.72,145.4
+     And if we
+},
+{
+    145.4,151.0
+     had not already called 911, now would be the time to call 911 or call a code if they go
+},
+{
+    151.0,156.98
+     unresponsive. If we've already called 911, keep them coming. It's fine. Even though the
+},
+{
+    156.98,162.0
+     object came out, it's always a good idea to have EMS stay on the way so that if this person
+},
+{
+    162.0,166.28
+     opts not to go in, they can be checked out by the EMS professionals.
+},
+{
+    166.28,167.68
+     They're gonna check airway,
+},
+{
+    167.68,169.24
+     they're gonna check some lung sounds
+},
+{
+    169.24,171.16
+     to make sure there's no partial obstruction,
+},
+{
+    171.16,173.0
+     and they're probably gonna do a quick assessment
+},
+{
+    173.0,175.04
+     to make sure there's no internal bleeding
+},
+{
+    175.04,176.8
+     from the abdominal thrusts.
+},
+{
+    176.8,180.12
+     So if the individual does not opt to have
+},
+{
+    180.12,184.36
+     that done to them or the EMS providers do not come,
+},
+{
+    184.36,187.92
+     I always like to encourage them to go to their own practitioner and just be
+},
+{
+    187.92,190.8
+     looked over and made sure that everything is okay.
+},
+{
+    190.8,195.36
+     Keep in mind that if this person were not to have this successful
+},
+{
+    195.36,198.96
+     removal of the obstruction, they would probably go unresponsive
+},
+{
+    198.96,202.64
+     in a short amount of time and it's then that we would assist them to the ground
+},
+{
+    202.64,206.62
+     carefully and begin the skill of unconscious adult choking.
+},
+{
+    208.24,210.24
+     Now we're going to talk about the special
+},
+{
+    210.38,212.84
+     considerations as it relates to a pregnant woman.
+},
+{
+    212.96,220.2
+     You know when we're doing this life-saving skill of trying to remove the obstruction from the airway and the person is pregnant,
+},
+{
+    220.2,225.5
+     we need to understand that we're dealing with two patients. Save mom, save baby.
+},
+{
+    225.5,227.9
+     So it's important that we're aggressive in our treatment,
+},
+{
+    227.9,229.4
+     but there's a special way to do it
+},
+{
+    229.4,231.9
+     so that we don't injure the baby in the process.
+},
+{
+    231.9,235.8
+     Let's take a look at how we do that right now.
+},
+{
+    235.8,238.6
+     When we have the person in front of us,
+},
+{
+    238.6,241.5
+     we know the baby is here in the normal location
+},
+{
+    241.5,243.6
+     where we would do abdominal thrusts.
+},
+{
+    243.6,246.32
+     So we're going to avoid the area altogether
+},
+{
+    246.32,249.44
+     by forming the fist and going under the breast
+},
+{
+    249.44,251.64
+     with that fist on the sternum.
+},
+{
+    251.64,253.32
+     We're then going to take the opposite hand,
+},
+{
+    253.32,257.88
+     go under the breast, and onto that fist that's on the sternum.
+},
+{
+    257.88,261.52
+     We're now going to do inward thrusts, inward deep thrusts.
+},
+{
+    261.52,264.04
+     And we're going to continue to do those compressions
+},
+{
+    264.04,267.92
+     until the object comes out and the person begins to breathe normally again.
+},
+{
+    268.48,273.28
+     If they doesn't come out, they're going to go unconscious. When they go unconscious,
+},
+{
+    273.28,278.8
+     we're going to activate 911 and then we're going to start doing our unconscious choking victim
+},
+{
+    278.8,282.4
+     compressions as we learned in the other segment.
+},

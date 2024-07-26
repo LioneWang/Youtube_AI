@@ -1,0 +1,372 @@
+{
+    0.0,5.6
+     Welcome back everyone. Today I'm going to show you some stretches you can do for the
+},
+{
+    5.6,10.8
+     hamstrings that can allow you to reduce the stiffness and tightness in the hamstrings.
+},
+{
+    10.8,14.56
+     The hamstrings can cause a bit of pain in the lower back, in the hip, and even down into
+},
+{
+    14.56,19.44
+     the leg as well. So these stretches definitely help you for lower back pain and even knee
+},
+{
+    19.44,28.16
+     pain and hip pain. I hope these stretches help you as much as they help me and my patients.
+},
+{
+    28.16,33.2
+     Strap stretch. Sit on the floor with your legs in front of you, place a bout or a strap
+},
+{
+    33.2,38.24
+     around the ball of your foot. Now, as you lay back down, keep the tension of the strap
+},
+{
+    38.24,43.16
+     so you don't lose the placement on the ball of your foot. The ideal flexibility that most
+},
+{
+    43.16,46.68
+     people should aim for is to have about 90 degrees of hip
+},
+{
+    46.68,49.48
+     flexion with your legs straight.
+},
+{
+    49.48,53.92
+     If you can't pull your legs this far, just pull it to the point of stretch.
+},
+{
+    53.92,57.76
+     If you feel like your hamstrings are too tight, you can add a little bit of a bend in the
+},
+{
+    57.76,58.76
+     knee.
+},
+{
+    58.76,63.12
+     Don't force the stretch if you can't do it, otherwise you might hurt yourself.
+},
+{
+    63.12,65.16
+     Take a deep breath in and as
+},
+{
+    65.16,71.34
+     you exhale gently draw the leg towards your torso and hold in for an easy stretch
+},
+{
+    71.34,78.04
+     for 20 to 30 seconds. Hold this stretch at approximately 50 to 60% stretch
+},
+{
+    78.04,83.4
+     capacity. Now from this position push your foot against the belt or strap that
+},
+{
+    83.4,88.08
+     you're using as if you were trying to lower the leg towards the ground.
+},
+{
+    88.08,90.4
+     But resist this by holding tight to the strap
+},
+{
+    90.4,91.92
+     or belt that you're holding
+},
+{
+    91.92,94.74
+     and not allowing the leg to go anywhere.
+},
+{
+    94.74,98.14
+     This creates an isometric contraction in the hamstrings.
+},
+{
+    98.14,100.86
+     Hold this for about six to eight seconds
+},
+{
+    100.86,106.6
+     and apply about 30 to 40% of force against the strap. Once six to eight
+},
+{
+    106.6,112.92
+     seconds is over, take a deep breath in and as you exhale take the leg back into
+},
+{
+    112.92,118.56
+     stretch again and hold it for about 20 to 30 seconds. Then relax for 30 seconds
+},
+{
+    118.56,128.88
+     and repeat this five to six times on each leg. In this video your will increase, and if you weren't able to touch your toes,
+},
+{
+    128.88,134.28
+     I wouldn't be surprised if you were able to touch your toes after doing the PNF stretches
+},
+{
+    134.28,136.04
+     in this video.
+},
+{
+    136.04,141.08
+     If your goal was to be able to touch your toes, I highly recommend doing these PNF stretches
+},
+{
+    141.08,144.44
+     for at least 3 to 4 days a week.
+},
+{
+    144.44,147.24
+     Your resting range of motion will slowly increase
+},
+{
+    147.24,149.44
+     to the point that you'll be able to touch your toes
+},
+{
+    149.44,151.02
+     whenever you feel like it.
+},
+{
+    151.02,152.92
+     If you're really serious about this,
+},
+{
+    152.92,155.66
+     please do it three to four days a week
+},
+{
+    155.66,157.92
+     and do it for the next 12 weeks.
+},
+{
+    157.92,161.16
+     A research paper was published in 2014
+},
+{
+    161.16,163.28
+     on the different effects of PNF stretching
+},
+{
+    163.28,165.8
+     versus passive stretching. It was found that
+},
+{
+    165.8,171.36
+     rapid muscle activation capabilities were maintained if you did PNF stretching over
+},
+{
+    171.36,177.2
+     passive stretching, which is crucial to maintain dynamic joint stability.
+},
+{
+    177.2,181.56
+     Passive stretching is pretty much traditional stretching where you pretty much hold your
+},
+{
+    181.56,186.2
+     joints in the end ranges of motion and hold it for a certain amount of time.
+},
+{
+    186.2,192.16
+     However, if you suffer from poor joint stability or do a lot of agility training such as sports,
+},
+{
+    192.16,195.28
+     PNF stretching might be a lot more beneficial for you.
+},
+{
+    195.28,198.02
+     Standing hamstring stretches.
+},
+{
+    198.02,203.2
+     This is a great way you can still do the PNF stretches without getting onto the floor,
+},
+{
+    203.2,205.04
+     especially if you have trouble getting up
+},
+{
+    205.04,206.68
+     and down from the floor.
+},
+{
+    206.68,213.0
+     Just find a stool or chair that you can place your heel on it, whilst keeping your leg straight
+},
+{
+    213.0,214.56
+     and your knee extended.
+},
+{
+    214.56,219.9
+     To really target the hamstring muscles, please anteriorly tilt your hips by rotating your
+},
+{
+    219.9,221.08
+     hips forward.
+},
+{
+    221.08,225.2
+     This places your hamstrings in an elongated position by pulling the hamstrings
+},
+{
+    225.2,230.8
+     into a pre-stretched position. Now lean your body forward without hunching your back by
+},
+{
+    230.8,236.32
+     holding up your chest as much as possible. This will help target the hamstrings a lot
+},
+{
+    236.32,241.94
+     better. I like to gently rest my hands slightly above my knee to promote my leg to stay in
+},
+{
+    241.94,245.34
+     a straight position and my knee in extension. After
+},
+{
+    245.34,250.42
+     holding this stretch for about 20 to 30 seconds at approximately 50-60% capacity,
+},
+{
+    250.42,255.14
+     I want you to press your heel back onto the chair or bench for about 6 to 8
+},
+{
+    255.14,261.62
+     seconds and apply about 30 to 40% force against the chair or bench with your
+},
+{
+    261.62,268.96
+     heel. Once 6 to 8 seconds is over, you can go back to the point of stretch and hold it again
+},
+{
+    268.96,274.8
+     for about 20 to 30 seconds at about 50 to 60% capacity of stretch.
+},
+{
+    274.8,279.44
+     When you are doing this stretch, please keep your shoulders square on whilst facing the
+},
+{
+    279.44,281.36
+     leg that you're stretching.
+},
+{
+    281.36,285.36
+     Sometimes when the stretch is too intense, you may twist your body and
+},
+{
+    285.36,288.88
+     one of the shoulders will be closer to the leg that you're stretching compared to the
+},
+{
+    288.88,295.52
+     other. This will create an uneven stretch and you won't be getting a good stretch in
+},
+{
+    295.52,301.48
+     your hamstrings. Once you've done stretching on one leg, don't forget to repeat the process
+},
+{
+    301.48,304.32
+     5-6 times on each leg.
+},
+{
+    304.32,306.32
+     Once again guys, thanks for watching.
+},
+{
+    306.32,309.0
+     I really want you to join my VIP Facebook group.
+},
+{
+    309.0,310.12
+     I want to build a community there
+},
+{
+    310.12,311.56
+     where you can ask questions
+},
+{
+    311.56,314.04
+     and I'll try my best to answer them as soon as possible.
+},
+{
+    314.04,316.04
+     There'll be other professionals in that group as well
+},
+{
+    316.04,317.28
+     that could help you out.
+},
+{
+    317.28,320.28
+     I'll put a link in the description box below.
+},
+{
+    320.28,321.88
+     Now if you found this video helpful
+},
+{
+    321.88,324.28
+     and you've been spending a lot of time sitting at a desk
+},
+{
+    324.28,325.04
+     or being on driving for long lot of time sitting at a desk or
+},
+{
+    330.4,336.72
+     being on driving for a long periods of time, love myself, there could be a chance that a lot of your hip pain and lower back pain is caused by sitting for long periods of time. So check out my Fix Your
+},
+{
+    336.72,342.72
+     Sitting Pain video. That video would definitely help you out. Now if you do have tight hips or
+},
+{
+    342.72,345.36
+     pain in the front of the hips or you have poor range of
+},
+{
+    345.36,351.16
+     motions in your hip mobility, I highly recommend you check out my hip opener video.
+},
+{
+    351.16,355.64
+     That video would definitely help you out to reduce lower back pain, hip pain, and also
+},
+{
+    355.64,361.68
+     change the dynamics of the way you sit and lift and reduce any chances of injuries in
+},
+{
+    361.68,362.68
+     the future.
+},
+{
+    362.68,365.64
+     Remember to support my channel, hit subscribe, hit like,
+},
+{
+    365.64,367.2
+     comment below if you have any questions,
+},
+{
+    367.2,370.36
+     and I'll see you guys in the next one.
+},

@@ -1,0 +1,144 @@
+{
+    0.0,5.32
+     Hello my friend, does it feel someone is trying to tear your arm off your shoulder?
+},
+{
+    5.32,10.2
+     Is your pain so severe that you only had enough energy to click this video?
+},
+{
+    10.2,14.2
+     If you have a pinched nerve in your shoulder, you are not alone.
+},
+{
+    14.2,18.4
+     Our friend Masuma has also asked for a solution for this.
+},
+{
+    19.24,23.72
+     Imagine how much better you will feel knowing that you can keep your arm.
+},
+{
+    24.0,25.64
+     Let's get started.
+},
+{
+    25.64,28.84
+     With your hands underneath your arm and massage it outward.
+},
+{
+    28.84,33.56
+     One, two, three, four, five.
+},
+{
+    33.56,38.06
+     One, two, three, four, five.
+},
+{
+    38.06,39.2
+     On the top of your shoulder.
+},
+{
+    39.2,42.68
+     One, two, three, four.
+},
+{
+    42.68,49.28
+     Massage as strong as you can. Don't worry. Four, five. Stay in this
+},
+{
+    49.28,78.18
+     position. Hands up and shake it. Sideway one, two, three, four. Shake your hand from the wrist as fast as you can. 3, 4, 5 on top 1, 2, 3, 4, 5, 1, 2, 3, 4, 5. Place your
+},
+{
+    78.18,90.0
+     hand at the bottom of the shoulder and shake it forward and backward 1 two three four for the fastest progress please follow my pace
+},
+{
+    90.64,105.0
+     three four five now rotate it inward one, three, four, five.
+},
+{
+    110.4,115.4
+     And extend your arms, one, two, three, four.
+},
+{
+    117.6,121.32
+     Make sure you stretch your arms all the way out.
+},
+{
+    121.32,131.36
+     Two, three, four, five. Hold it for five seconds. One, two, three, four,
+},
+{
+    131.36,138.12
+     five and drop your hands down. Both hands in this position and rotate the arms to
+},
+{
+    138.12,148.2
+     the back. One, two, three, four. As you rotate, please make a large circular motion.
+},
+{
+    148.2,152.12
+     Three, four, five.
+},
+{
+    152.12,155.0
+     Both hands in this position and shake it.
+},
+{
+    155.0,160.0
+     Sideway one, two, three, four.
+},
+{
+    161.04,165.0
+     Shake your hand from the wrist as fast as you can.
+},
+{
+    165.0,168.52
+     Three, four, five.
+},
+{
+    168.52,170.28
+     Stretch all the way back.
+},
+{
+    170.28,175.28
+     One, two, three, four.
+},
+{
+    176.8,179.8
+     Make sure you stretch to the tension point.
+},
+{
+    180.72,185.0
+     Two, three, four, five.
+},
+{
+    186.24,188.44
+     Extend your arms all the way back
+},
+{
+    188.44,190.68
+     and hold it for five seconds.
+},
+{
+    190.68,194.92
+     One, don't worry, bring your arms all the way back.
+},
+{
+    194.92,199.92
+     Five and relax and drop your hands down.
+},
+{
+    199.96,202.24
+     Don't forget to get your free case study
+},
+{
+    202.24,205.64
+     on how I breathe better and get rid of congestion. Click here. Jangan lupa untuk mendapatkan penjualan peraturan. Untuk bagaimana saya lebih berat dan memperkenalkan peraturan.
+},
+{
+    206.14,206.86
+     Klik di sini.
+},

@@ -1,0 +1,116 @@
+{
+    0.0,18.0
+     Hello, I'm examining my patient's neck as a part of a thyroid examination.
+},
+{
+    18.0,23.0
+     Between your doctor visits, you can check your thyroid at home by performing a simple
+},
+{
+    23.0,26.64
+     neck check. To do this, all you need
+},
+{
+    26.64,36.56
+     is a glass of water and a mirror. Can you take a sip of water? What you see is the thyroid
+},
+{
+    36.56,43.52
+     going up and then down. The more you do this at home, the more familiar you will get with
+},
+{
+    43.52,45.68
+     what you're seeing, which is the
+},
+{
+    45.68,49.16
+     movement of the thyroid and what it looks like.
+},
+{
+    49.16,53.48
+     Contact your doctor if you see changes in shape or size.
+},
+{
+    53.48,58.72
+     My patients often ask me to describe the thyroid and what it does.
+},
+{
+    58.72,62.8
+     The thyroid is a small gland found at the base of the neck.
+},
+{
+    62.8,66.36
+     It sits in front of the bin pipe and is made up of
+},
+{
+    66.36,73.36
+     two sections, one to the left and one to the right, joined in the middle by a little tissue.
+},
+{
+    73.36,80.64
+     Think of the gland as being made up of two lima beans, one on each side. It kind of looks
+},
+{
+    80.64,87.88
+     like a butterfly wing. It's very light and only weighs about an ounce or two.
+},
+{
+    87.88,91.72
+     The thyroid is a very important part of the endocrine system.
+},
+{
+    91.72,95.16
+     It controls the organ systems of your body.
+},
+{
+    95.16,100.4
+     It produces hormones that are released from the gland and travel through the bloodstream
+},
+{
+    100.4,102.48
+     to all of your body cells.
+},
+{
+    102.48,107.28
+     When your thyroid is not healthy, you develop symptoms such as fatigue,
+},
+{
+    107.28,110.44
+     weight gain or weight loss, even depression.
+},
+{
+    111.48,113.56
+     Because these symptoms can be caused
+},
+{
+    113.56,116.32
+     by other diseases and disorders,
+},
+{
+    116.32,119.56
+     it's important to discuss them with your doctor
+},
+{
+    119.56,122.88
+     so you can get to the bottom of why you're not well.
+},
+{
+    122.88,126.0
+     Sexual dysfunction, menstrual disorders, and
+},
+{
+    126.0,132.52
+     infertility also are symptoms of thyroid disease. As a matter of fact, it is very important
+},
+{
+    132.52,137.44
+     to screen for thyroid disorders if you're planning to have a baby. This message is for
+},
+{
+    137.44,148.0
+     everyone. When you go to the doctor, insist on having your neck examined and having a TSH screening test.
+},
+{
+    148.0,151.0
+     Thank you for choosing St. Peter's.
+},

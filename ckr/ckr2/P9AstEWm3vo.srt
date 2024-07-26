@@ -1,0 +1,456 @@
+{
+    0.0,4.52
+     Hello friends, welcome to the YouTube show HealthCube, the health awareness show where
+},
+{
+    4.52,8.56
+     our mission is to motivate you to look at the brighter side of your health and take
+},
+{
+    8.56,10.52
+     a proactive stance towards it.
+},
+{
+    10.52,16.36
+     Now if you remember my previous video where I interviewed Dr. Natraj Achim who is the
+},
+{
+    16.36,21.68
+     best orthopedic surgeon I know personally in orthopedics especially knee and shoulder
+},
+{
+    21.68,22.68
+     care.
+},
+{
+    22.68,25.22
+     Now he gave lots of insight on how knee pain
+},
+{
+    25.22,30.2
+     can be prevented especially in the case of osteoarthritis and he very precisely
+},
+{
+    30.2,35.0
+     emphasized that exercise plays a huge role in prevention of knee
+},
+{
+    35.0,40.88
+     osteoarthritis. So in today's video we are going to cover some of the exercises
+},
+{
+    40.88,45.24
+     that can help you in preventing knee osteoarthritis getting worse.
+},
+{
+    45.24,50.2
+     This exercises are for the people who are in early stages of osteoarthritis who are more
+},
+{
+    50.2,54.64
+     prone to develop some severe osteoarthritis changes in future.
+},
+{
+    54.64,59.68
+     You might have some minimal level of cartilage damage which can be easily prevented by strengthening
+},
+{
+    59.68,65.86
+     your muscles and stretching your muscles as strengthened muscles muscles act as a shock absorb to your
+},
+{
+    65.86,66.86
+     joint.
+},
+{
+    66.86,68.46
+     So what are these exercises?
+},
+{
+    68.46,83.68
+     Let's have a look.
+},
+{
+    83.68,87.24
+     It is better to start off with stretching exercises.
+},
+{
+    87.24,91.8
+     The first stretch what you are seeing in this video is a calf stretch.
+},
+{
+    91.8,94.12
+     Here the calf muscles are being stretched.
+},
+{
+    94.12,101.16
+     All you need to do is sit with the legs straight and try to touch your great toe with the hand.
+},
+{
+    101.16,105.72
+     Here you will feel a pull around the calf region.
+},
+{
+    105.72,112.56
+     Do 3 repetitions for each leg while holding it for 30 counts.
+},
+{
+    112.56,117.56
+     If you find the previous method difficult, you can take the help of a Thera band, a belt
+},
+{
+    117.56,121.64
+     or even a basic towel or wetsuit roll.
+},
+{
+    121.64,127.36
+     Just place your foot on the TheraBand as shown in the screen above and then try
+},
+{
+    127.36,133.76
+     to pull your foot towards yourself while holding this for 30 seconds. As you hold and then
+},
+{
+    133.76,143.68
+     release it will lead to the stretching of the calf region.
+},
+{
+    143.68,147.12
+     Here we are doing the stretching of the ilio tibial band.
+},
+{
+    147.12,151.92
+     This is a structure that lies on the side of our thigh region.
+},
+{
+    151.92,158.24
+     You need to put your leg on the theraband or any belt that you are using and then keeping
+},
+{
+    158.24,163.2
+     the knee straight move the leg towards the internal direction.
+},
+{
+    163.2,165.84
+     You need to hold each position for 30 counts
+},
+{
+    165.84,173.72
+     and for each leg you can do three repetitions. And don't forget to do this
+},
+{
+    173.72,179.0
+     exercise for both the legs since mostly whenever we have pain in one side of the
+},
+{
+    179.0,182.92
+     leg we tend to put more pressure on the other side leading to more tightness and
+},
+{
+    182.92,191.44
+     stiffness on the other side muscles as well. Hence it is advisable that whenever you have got knee pain, why do exercises do ensure
+},
+{
+    191.44,199.84
+     you do this flexibility exercises for both the legs. The next exercise or stretching is the
+},
+{
+    199.84,210.52
+     stretching of your front thigh muscles also called as the quadricep muscle. All you need to do is lie down on your tummy on the floor and then try to bend your legs
+},
+{
+    210.52,215.2
+     from the knee and then try to touch your heels to the hips.
+},
+{
+    215.2,219.64
+     Again you need to hold the position for 30 pounds and then relax and you can do this
+},
+{
+    219.64,222.36
+     exercise for 3 reputations.
+},
+{
+    222.36,226.96
+     Now comes the tall of strengthening exercises and the first exercise
+},
+{
+    226.96,232.52
+     of that is called as pelvic bridging. Lie down completely on the floor with the knees
+},
+{
+    232.52,239.04
+     bent, hands on side and putting pressure on your legs and hands try to lift up your pelvis
+},
+{
+    239.04,245.76
+     or your stomach. Hold this position for 10 repetitions or 10 counts and then relax.
+},
+{
+    245.76,249.52
+     For the next exercise, lie down on one side position.
+},
+{
+    249.52,255.88
+     Rest your head with the help of your hand and then with the knees bent, try to move both
+},
+{
+    255.88,258.32
+     the legs away from each other.
+},
+{
+    258.32,267.84
+     This leads to the strengthening of your thigh as well as hip muscles. You need to do this movement for 10 counts
+},
+{
+    267.84,273.04
+     and then switch over to another side and perform the same movement for another
+},
+{
+    273.04,279.24
+     10 counts. The next exercise focuses on improving the strength of your hip
+},
+{
+    279.24,288.0
+     muscles also called as the gluteal muscles. You need to take a help of a small stool, rest your leg over it and then doing
+},
+{
+    289.12,290.14
+     repeated
+},
+{
+    290.14,292.14
+     raising and coming down.
+},
+{
+    292.14,295.34
+     This is also called a step up and step down exercise.
+},
+{
+    295.4,302.02
+     The only thing that you need to take care while doing this exercise is when you are trying to raise up
+},
+{
+    302.22,306.56
+     to ensure your knee doesn't go beyond the foot.
+},
+{
+    306.56,312.0
+     The knee should be always there on the level of your foot.
+},
+{
+    312.0,316.6
+     Then only your gluteal muscles or else the hip muscles will walk.
+},
+{
+    316.6,320.48
+     Here also the same principle applies.
+},
+{
+    320.48,322.88
+     Do exercise for both the legs.
+},
+{
+    322.88,325.64
+     Don't leave it only for the painful leg. Since it will improve the strength of both the legs. Don't leave it only for the painful leg.
+},
+{
+    325.64,328.88
+     Since it will improve the strength of both the legs equally.
+},
+{
+    328.88,335.44
+     Another thing you need to do 10 repetitions for both the legs while performing this exercise.
+},
+{
+    335.44,345.2
+     The next exercise is called as lunges. This exercise is a little tricky and can be difficult for some people.
+},
+{
+    345.2,349.6
+     So if you find this exercise difficult, you can skip this.
+},
+{
+    349.6,355.6
+     The right way of doing this exercise is ensuring that one leg is forward and another leg is
+},
+{
+    355.6,356.6
+     backward.
+},
+{
+    356.6,361.36
+     While doing this, you need to bend both the legs from the knee.
+},
+{
+    361.36,366.24
+     The thing that you need to take care here is the front leg should be
+},
+{
+    366.24,372.68
+     on the level of your foot while bending. If your knee is bending forward, this is not
+},
+{
+    372.68,378.64
+     a correct movement. If you face any difficulty in understanding the right movement pattern,
+},
+{
+    378.64,385.52
+     what you can do is keep a stool between your leg and then try to bend both the knee. Here the ideal
+},
+{
+    385.52,391.04
+     position is where your backside of knee is touching this tool. While you are able
+},
+{
+    391.04,397.96
+     to do this your knee the front knee will not bend much and will appropriately do
+},
+{
+    397.96,408.76
+     the right move. The next exercise is a sit-up. Here you need to take care again is you don't have to sit
+},
+{
+    408.76,415.2
+     completely on the chair but you have to just touch your hips and then get up. While bending
+},
+{
+    415.2,428.08
+     your knee again here what you need to take care is that your knee doesn't go beyond your foot. The knee and the foot should be at the same level when the knees are bending.
+},
+{
+    429.68,438.48
+     If you are not able to touch a loaf chair, you can even raise the height of the chair while placing a pillow or something else.
+},
+{
+    438.96,443.76
+     Here again, you need to ensure you do this exercise for 10 repetitions.
+},
+{
+    443.92,448.72
+     you need to ensure you do this exercise for 10 repetitions.
+},
+{
+    456.8,468.0
+     Another exercise is hip raise. You need to sit on a flat chair or a stool and then try to raise your leg from the hips and hold this for 10 counts and then come down. You can do 10 repetitions for both the legs.
+},
+{
+    470.84,476.64
+     This one is to improve the strength of your quadriceps also called as the front
+},
+{
+    476.64,482.16
+     thigh muscle. The exercise is pretty simple. Just sit on a chair or else a
+},
+{
+    482.16,488.08
+     stool. Lift your legs from the knee, hold it straight for 10 counts
+},
+{
+    488.08,495.44
+     or a strength second hold and then come down. Do this for 10 repetitions each for both the legs.
+},
+{
+    497.6,506.44
+     This next one is called as one leg stance. This exercise in particular is to improve the coordination and the stability and the
+},
+{
+    506.44,508.96
+     balancing of the leg.
+},
+{
+    508.96,515.12
+     This basically improves the strength of the knee as it focuses on improving the ability
+},
+{
+    515.12,521.28
+     of the knee as well as the surrounding muscles to withhold the instable position.
+},
+{
+    521.28,526.56
+     Here you just need to stand on one leg and if you feel that
+},
+{
+    526.56,531.24
+     this movement in particular is very easy to do you can increase the complexity
+},
+{
+    531.24,537.44
+     of this exercise by trying to raise your heel up and down while trying to balance
+},
+{
+    537.44,543.32
+     yourself on one leg. Again here you need to focus on both the legs equally. That
+},
+{
+    543.32,546.16
+     means do this exercise for both the legs.
+},
+{
+    546.16,550.0
+     For each leg you can do 5 reputations.
+},
+{
+    551.0,553.0
+     Once you are done with this movement,
+},
+{
+    553.0,556.6
+     now it's time to do some movement for your hip joint.
+},
+{
+    556.6,559.92
+     These are some free activities that will help you
+},
+{
+    559.92,562.4
+     in maintaining a good range of motion.
+},
+{
+    562.4,567.28
+     You need to swing your leg like a pendulum in front and back
+},
+{
+    567.28,573.76
+     direction. Again principle stays the same. You need to do this exercise for both the legs.
+},
+{
+    575.28,582.16
+     You have to do the stand repetition each for both the legs. To increase the complexity of the exercise
+},
+{
+    582.16,585.6
+     you can add some weights to it.
+},
+{
+    585.6,591.92
+     And the last exercise is the heel raise exercise. Here you need to raise the heel of both the
+},
+{
+    591.92,599.28
+     legs together. The expected amount of repetitions that you need to do here is 10 repetitions.
+},
+{
+    599.28,603.56
+     You can exceed this up to 15 to 20 repetitions as per your convenience.
+},
+{
+    603.56,607.76
+     So friends these were some of the exercises that can help you out in preventing your knee
+},
+{
+    607.76,613.68
+     pain. I hope you find these exercises useful. To ensure if you like this video, like it.
+},
+{
+    613.68,618.96
+     Share it with your friends and family whom you feel this video would be helpful. And
+},
+{
+    618.96,623.48
+     don't forget to subscribe to my channel since I would be uploading similar kind of videos
+},
+{
+    623.48,627.44
+     very consistently. On that note, see you on another video. Bye-bye.
+},

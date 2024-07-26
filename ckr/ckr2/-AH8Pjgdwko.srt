@@ -1,0 +1,1852 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.04,12.92
+     Howdy folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.92,14.12
+     Brad Heineck, physical therapist.
+},
+{
+    14.12,15.84
+     Together we are the most famous physical therapists
+},
+{
+    15.84,16.68
+     on the internet.
+},
+{
+    16.68,17.88
+     In our opinion, of course, Bob.
+},
+{
+    17.88,18.72
+     Don, right, we are.
+},
+{
+    18.72,20.76
+     After tea, we're gonna talk about
+},
+{
+    20.76,24.76
+     after carpal tunnel surgery, best exercises,
+},
+{
+    25.0,26.12
+     to restore maximal function, strength and pain. about after carpal tunnel surgery, best exercises
+},
+{
+    29.8,32.48
+     to restore maximal function, strength and pain. Bob, this is for my wife who just had surgery
+},
+{
+    32.48,34.96
+     and my good buddy Bruce also had surgery
+},
+{
+    34.96,36.4
+     within the same week.
+},
+{
+    36.4,37.6
+     I did research on this.
+},
+{
+    37.6,40.72
+     This is the best comprehensive YouTube
+},
+{
+    40.72,43.2
+     carpal tunnel surgery is.
+},
+{
+    43.2,44.2
+     There it is.
+},
+{
+    44.2,45.04
+     I had to. In your opinion. In is. I had you, I mean.
+},
+{
+    45.04,45.86
+     In your opinion.
+},
+{
+    45.86,47.56
+     In my opinion, of course, but yeah.
+},
+{
+    47.56,48.4
+     Anyways.
+},
+{
+    48.4,49.88
+     When you're doing it for a spouse and a buddy,
+},
+{
+    49.88,51.84
+     you want to make sure that it's comprehensive.
+},
+{
+    51.84,53.84
+     Absolutely, because I want things to go good at home.
+},
+{
+    53.84,55.36
+     By the way, if you're new to our channel,
+},
+{
+    55.36,57.32
+     please take a second to subscribe to us.
+},
+{
+    57.32,59.04
+     We provide videos on how to see healthy,
+},
+{
+    59.04,61.2
+     fit, pain-free, and we upload every day.
+},
+{
+    61.2,63.72
+     Also go to BobandBrad.com, go to the giveaway section.
+},
+{
+    63.72,65.06
+     We're always giving something away.
+},
+{
+    65.06,66.72
+     This week we're giving away,
+},
+{
+    66.72,69.42
+     well it's your selection of books.
+},
+{
+    69.42,72.02
+     So we're showing a couple of the books here,
+},
+{
+    72.02,73.94
+     but you're gonna be talking about these in the video.
+},
+{
+    73.94,77.02
+     But you can go to Lotus Publishing.
+},
+{
+    77.02,79.74
+     And you can see the list of books they have.
+},
+{
+    79.74,81.82
+     They have some really neat books.
+},
+{
+    81.82,84.5
+     So more kind of medically related.
+},
+{
+    84.5,86.04
+     Yeah, to help you out. Yeah, to help you out.
+},
+{
+    86.04,86.88
+     Yeah, to help you out.
+},
+{
+    86.88,89.48
+     Go to Facebook, it'll be pinned to the top of the page,
+},
+{
+    89.48,91.72
+     to the contest, go to Twitter, Instagram, TikTok,
+},
+{
+    91.72,93.88
+     if you want a six tick conversion of our program.
+},
+{
+    93.88,95.92
+     And we have what Brad?
+},
+{
+    95.92,98.56
+     Podcast is out there now.
+},
+{
+    98.56,101.0
+     All right, so here we go.
+},
+{
+    101.0,103.68
+     What we wanna do is have Sam give us a little hand
+},
+{
+    103.68,105.48
+     and showing a little bit of an ad. Give us a hand, huh? Here you go, what we wanna do is have Sam give us a little hand and showing a little bit of an ad.
+},
+{
+    105.48,106.64
+     Give us a hand, huh?
+},
+{
+    106.64,108.0
+     Here you go.
+},
+{
+    108.0,113.0
+     Now, this is a little model that Bob and I have contrived.
+},
+{
+    115.84,116.68
+     I'll get that.
+},
+{
+    116.68,117.52
+     You wanna get that?
+},
+{
+    117.52,121.44
+     Yep, so what we have here is in the carpal tunnel,
+},
+{
+    121.44,124.92
+     which is right here formed, yep.
+},
+{
+    124.92,125.76
+     There you go.
+},
+{
+    125.76,128.2
+     We take off all the skin and all the tissue.
+},
+{
+    128.2,131.96
+     Right between the two meaty parts of the hand.
+},
+{
+    131.96,136.96
+     And in that tunnel, you have nine tendons and a median nerve.
+},
+{
+    137.24,139.48
+     So a lot of structures are going through.
+},
+{
+    139.48,140.32
+     Right.
+},
+{
+    140.32,142.52
+     It needs a fair amount of space,
+},
+{
+    142.52,144.68
+     and sometimes that space gets compromised.
+},
+{
+    144.68,146.6
+     Yeah, what happens is there's a,
+},
+{
+    146.6,151.12
+     the carpal ligament goes over this and with those tendons.
+},
+{
+    151.12,153.36
+     And now when you move your fingers like this,
+},
+{
+    153.36,155.96
+     those tendons actually slide up and down
+},
+{
+    155.96,157.52
+     in that carpal space.
+},
+{
+    157.52,160.48
+     And if it gets tight for whatever reason,
+},
+{
+    160.48,163.4
+     the nerve gets pinched, pain, numbness, tingling,
+},
+{
+    163.4,166.28
+     all those symptoms you've already familiar with.
+},
+{
+    166.28,169.64
+     And what happens is the surgeon comes in
+},
+{
+    169.64,171.68
+     or with a pair of scissors like this
+},
+{
+    171.68,176.0
+     and he cuts that retinaculum or that ligament
+},
+{
+    176.0,178.72
+     and opens up that space and all of a sudden,
+},
+{
+    178.72,180.48
+     yay, the nerve is not pinched,
+},
+{
+    180.48,182.44
+     no more pain, numbness, tingling,
+},
+{
+    182.44,184.44
+     life is much better for your hand.
+},
+{
+    184.44,185.92
+     They actually use the scissors?
+},
+{
+    185.92,188.76
+     Wow, it might be a little more.
+},
+{
+    188.76,190.9
+     A scalpel probably.
+},
+{
+    190.9,194.16
+     Actually, they do it with a little scope too.
+},
+{
+    194.16,195.28
+     There's two different procedures.
+},
+{
+    195.28,196.36
+     I'm not gonna get into it.
+},
+{
+    196.36,197.56
+     However, your surgeon does it,
+},
+{
+    197.56,199.36
+     I'm sure he or she is an excellent job.
+},
+{
+    199.36,201.16
+     I'm sure it's not very evasive.
+},
+{
+    201.16,202.92
+     20 minutes is all my wife.
+},
+{
+    202.92,205.0
+     She went in there, $18,000.
+},
+{
+    205.0,206.52
+     Well, that was a retail price.
+},
+{
+    206.52,208.6
+     I don't know, our insurance covered a lot of it.
+},
+{
+    208.6,211.96
+     We saw, I mean, I saw this surgery being done
+},
+{
+    211.96,215.52
+     and they did it on someone who was getting a hip replacement.
+},
+{
+    215.52,217.72
+     They went and did this surgery real quick.
+},
+{
+    217.72,218.92
+     Probably threw that in for nothing.
+},
+{
+    218.92,220.56
+     Yep, yeah, right.
+},
+{
+    220.56,221.4
+     Anyways-
+},
+{
+    221.4,222.6
+     I wanna get to free.
+},
+{
+    222.6,224.36
+     What I really wanna talk about here
+},
+{
+    224.36,228.6
+     is when we have nine tendons and your median nerve
+},
+{
+    228.6,232.08
+     and we get rid of the ligament or open it up.
+},
+{
+    232.08,232.92
+     Right in the aculum.
+},
+{
+    232.92,233.76
+     Right in the acum...
+},
+{
+    233.76,236.4
+     What happens is scar tissue, your body wants to heal.
+},
+{
+    236.4,238.28
+     So scar tissue is going to form over that.
+},
+{
+    238.28,241.2
+     And if you didn't move your fingers, your hand or wrist
+},
+{
+    241.2,243.2
+     and kept it still for a couple of weeks,
+},
+{
+    243.2,244.8
+     you're going to have a tight wrist,
+},
+{
+    244.8,246.36
+     things are going gonna be snug.
+},
+{
+    246.36,248.4
+     It's probably gonna be painful and not functional.
+},
+{
+    248.4,251.4
+     I had a patient that did that, she kept her hand still.
+},
+{
+    251.4,252.8
+     And we broke through everything,
+},
+{
+    252.8,254.76
+     but it was a lot more work than if you start.
+},
+{
+    254.76,256.08
+     Right, start from the get go.
+},
+{
+    256.08,257.92
+     Start doing the exercises very quickly.
+},
+{
+    257.92,259.08
+     So again, these tendons,
+},
+{
+    259.08,262.72
+     which is represented by the green ropes here,
+},
+{
+    262.72,264.92
+     they all attach to fingers
+},
+{
+    264.92,266.92
+     and they make the fingers move
+},
+{
+    266.92,269.72
+     and so they go right through like a pulley system almost.
+},
+{
+    269.72,272.2
+     Exactly right, it's very mechanical.
+},
+{
+    272.2,274.04
+     That's why I guess I can understand.
+},
+{
+    274.04,274.88
+     Relate to it, yeah.
+},
+{
+    274.88,275.72
+     Relate to it.
+},
+{
+    275.72,277.52
+     There's one tendon that goes up into the thumb
+},
+{
+    277.52,278.72
+     that does this.
+},
+{
+    278.72,281.16
+     So we'll show you that exercise too.
+},
+{
+    281.16,282.0
+     All right.
+},
+{
+    282.0,282.84
+     You won't ignore anybody.
+},
+{
+    282.84,283.68
+     There you go.
+},
+{
+    283.68,285.28
+     So this'll be helpful, I think,
+},
+{
+    285.28,288.12
+     so you can relate to the rest of the video.
+},
+{
+    288.12,289.16
+     Sam, you're done.
+},
+{
+    289.16,290.72
+     You're retired for the day.
+},
+{
+    290.72,292.4
+     You're out of here.
+},
+{
+    292.4,293.24
+     I'll get Sam.
+},
+{
+    293.24,294.08
+     Are you gonna get Sam?
+},
+{
+    294.08,295.68
+     I got him right over here.
+},
+{
+    295.68,297.96
+     Okay, now the next thing.
+},
+{
+    297.96,302.36
+     So right after surgery, unless your surgeon tells you
+},
+{
+    302.36,304.92
+     otherwise, but typically they'll say, you know,
+},
+{
+    304.92,307.2
+     go on, you can start moving your fingers
+},
+{
+    307.2,309.74
+     and get moving, you'll have a bandage or not bandage,
+},
+{
+    309.74,311.04
+     but wrap around there.
+},
+{
+    311.04,313.2
+     And typically allows motion.
+},
+{
+    313.2,316.8
+     So you can start these exercises right away.
+},
+{
+    316.8,319.36
+     As long as it's not, if it creates any sharp pain,
+},
+{
+    319.36,321.46
+     you know, wait, give it some time.
+},
+{
+    321.46,323.24
+     But typically within the next day or two,
+},
+{
+    323.24,326.56
+     you'll be doing these without much problem at all.
+},
+{
+    326.56,330.24
+     So now this is from the Mayo Clinic that you learned.
+},
+{
+    330.24,331.7
+     They used to call it the six pack
+},
+{
+    331.7,333.16
+     when I worked at the Mayo Clinic.
+},
+{
+    333.16,335.76
+     It really sounds like a Wisconsin.
+},
+{
+    335.76,338.16
+     A drinking game in Wisconsin.
+},
+{
+    338.16,340.16
+     But it's a six exercise.
+},
+{
+    340.16,341.12
+     Six exercises.
+},
+{
+    341.12,344.12
+     So you start off, you can do the tabletop
+},
+{
+    344.12,345.56
+     and then go up to the hook.
+},
+{
+    345.56,346.4
+     Like this, yeah.
+},
+{
+    346.4,351.12
+     Yep, tabletop, hook, tabletop, hook.
+},
+{
+    351.12,353.84
+     My buddy Bruce will relate to the six pack thing.
+},
+{
+    353.84,354.68
+     There we go.
+},
+{
+    354.68,355.8
+     Well, when we were younger,
+},
+{
+    355.8,357.52
+     I've known him since we were in college.
+},
+{
+    357.52,361.0
+     So he probably had a six pack done before breakfast.
+},
+{
+    361.0,365.48
+     So all right, now we're gonna do 10 times each one.
+},
+{
+    365.48,367.32
+     And if it starts increasing your pain,
+},
+{
+    367.32,370.52
+     maybe back off, maybe do a few less for the first time.
+},
+{
+    370.52,372.76
+     Then we're gonna do a full fist.
+},
+{
+    372.76,374.44
+     Oh, we gotta remember the thumb.
+},
+{
+    374.44,375.48
+     Yeah, we'll do the thumb too.
+},
+{
+    375.48,376.84
+     Okay, I'm just jumping around.
+},
+{
+    376.84,377.68
+     All right, good.
+},
+{
+    377.68,378.68
+     Full fist.
+},
+{
+    378.68,381.08
+     Not a tight fist though.
+},
+{
+    381.08,383.4
+     Just a loose fist for now.
+},
+{
+    383.4,384.6
+     That tight stuff will come later
+},
+{
+    384.6,386.42
+     after it heals a little better.
+},
+{
+    386.42,389.32
+     All right, then we're gonna do some flexion
+},
+{
+    389.32,390.68
+     where you're just going like this.
+},
+{
+    390.68,393.2
+     You're flexing the thumb across like this.
+},
+{
+    395.26,396.66
+     You do that 10 times.
+},
+{
+    398.16,401.64
+     But you also wanna do some circumduction we call it.
+},
+{
+    401.64,405.56
+     So we're actually, the joint is rotating.
+},
+{
+    405.56,406.68
+     It's a rotating joint.
+},
+{
+    406.68,408.76
+     So you can go to each of the fingers if you want.
+},
+{
+    408.76,412.28
+     You can go to each finger and rotate towards it.
+},
+{
+    412.28,413.12
+     Yep.
+},
+{
+    416.4,417.24
+     And then?
+},
+{
+    417.24,418.84
+     And then you've got full extension,
+},
+{
+    418.84,420.96
+     which you were doing already with the thumb.
+},
+{
+    420.96,423.08
+     But some people do this curl too, Brad.
+},
+{
+    423.08,425.0
+     They don't curl all the way.
+},
+{
+    425.0,426.8
+     You know, this is all the way,
+},
+{
+    426.8,429.36
+     they just curl the second knuckle there
+},
+{
+    429.36,431.44
+     and the first knuckle there.
+},
+{
+    431.44,434.12
+     You know, this may not be in the six pack routine,
+},
+{
+    434.12,435.48
+     but I'm gonna suggest,
+},
+{
+    435.48,438.32
+     add a little stretch to the full extension.
+},
+{
+    438.32,440.48
+     Particularly if you're active person
+},
+{
+    440.48,442.2
+     and you do a lot of work with your hands.
+},
+{
+    442.2,443.6
+     Are you doing the thumb later?
+},
+{
+    443.6,444.44
+     Nope.
+},
+{
+    444.44,446.92
+     Okay, you can hook the thumb and bring it back a little bit,
+},
+{
+    446.92,447.76
+     stretch it out.
+},
+{
+    449.12,449.96
+     Okay.
+},
+{
+    449.96,450.8
+     All right.
+},
+{
+    450.8,452.44
+     And you're gonna do that as long as it's tolerated
+},
+{
+    452.44,456.4
+     10 times all that and do it two or three times a day.
+},
+{
+    456.4,459.12
+     Then once you go back in five to seven days,
+},
+{
+    459.12,461.32
+     they'll take that off and look at things,
+},
+{
+    461.32,464.2
+     make sure there's no infection on the incision.
+},
+{
+    464.2,467.56
+     Then they'll schedule a time to get the stitches out.
+},
+{
+    467.56,471.0
+     After the stitches are, you continue to do those exercises
+},
+{
+    471.0,473.12
+     as that time goes on.
+},
+{
+    473.12,476.6
+     Bob, do you wanna take a second to get that nerve out of there?
+},
+{
+    476.6,477.44
+     Sure.
+},
+{
+    478.68,483.68
+     There's gonna be scar tissue forming at the incision.
+},
+{
+    484.28,489.3
+     And when the stitches are stapled, stitches are out.
+},
+{
+    490.12,491.84
+     What's gonna happen is a doctor will say,
+},
+{
+    491.84,494.26
+     now you can use water, soap and water on it.
+},
+{
+    494.26,497.62
+     At that point, as long as it's all sealed up,
+},
+{
+    497.62,500.7
+     you can put your thumb on there right over that incision
+},
+{
+    500.7,502.98
+     and push into the skin a little bit
+},
+{
+    502.98,504.24
+     and make some circles,
+},
+{
+    504.24,507.52
+     or you can go right to left, forward and backwards.
+},
+{
+    507.52,509.16
+     I like circles.
+},
+{
+    509.16,511.96
+     And if it's painful, it's too early.
+},
+{
+    511.96,513.52
+     Yeah, and you can gauge by,
+},
+{
+    513.52,515.04
+     because you're applying the pressure,
+},
+{
+    515.04,516.6
+     you know what you can tolerate.
+},
+{
+    516.6,520.44
+     Yeah, so you're squeezing like this, making those circles.
+},
+{
+    520.44,523.52
+     And what you're doing is you're breaking up the scar tissue
+},
+{
+    523.52,525.68
+     at the skin level and just under the skin.
+},
+{
+    525.68,529.66
+     It makes it look better and it's gonna be more pliable,
+},
+{
+    529.66,532.52
+     quicker and eliminates problems down the road.
+},
+{
+    532.52,534.2
+     The blood flow is gonna increase
+},
+{
+    534.2,537.24
+     and you really wanna go as deep as tolerated.
+},
+{
+    537.24,538.84
+     So, I mean, if it doesn't hurt,
+},
+{
+    538.84,542.0
+     go ahead and push harder and see what it can tolerate.
+},
+{
+    542.0,544.44
+     And you can see, you're gonna push in fairly hard
+},
+{
+    544.44,545.52
+     if it's not painful.
+},
+{
+    545.52,547.48
+     It should feel kind of a good, you know, like,
+},
+{
+    547.48,548.96
+     oh, it's feeling good.
+},
+{
+    548.96,550.72
+     My wife said exactly the same thing.
+},
+{
+    550.72,553.12
+     She said, yeah, that kind of feels good.
+},
+{
+    553.12,555.44
+     And then I said, go a little harder and then.
+},
+{
+    555.44,556.72
+     So, her stitches are?
+},
+{
+    556.72,557.6
+     Yeah, yeah, yeah.
+},
+{
+    557.6,558.76
+     We're done with this phase.
+},
+{
+    558.76,559.6
+     She's pretty much done.
+},
+{
+    559.6,561.32
+     Did they talk about putting like vitamin E on her?
+},
+{
+    561.32,564.4
+     You know, she asked me about that and I said,
+},
+{
+    564.4,566.36
+     it looks so good. I wasn't too concerned about it.
+},
+{
+    566.36,568.24
+     Yeah, you can ask the doctor or-
+},
+{
+    568.24,569.96
+     Right, ask your doctor.
+},
+{
+    569.96,571.68
+     This can flatten out a scar too,
+},
+{
+    571.68,573.02
+     like if the scars turn,
+},
+{
+    573.02,574.28
+     it's trying to go over roll.
+},
+{
+    574.28,576.12
+     Yeah, sometimes they're like a little ropey.
+},
+{
+    576.12,577.48
+     And don't get too concerned,
+},
+{
+    577.48,579.96
+     because if you do this, it'll go away.
+},
+{
+    579.96,581.88
+     Then the other thing you can do is just put pressure
+},
+{
+    581.88,585.64
+     straight down and then open and close your fingers. Yeah, good one. And that gets, it's kind of like some of the other thing you can do is just put pressure straight down and then open and close your fingers.
+},
+{
+    585.64,586.48
+     Yeah, good one.
+},
+{
+    586.48,588.48
+     And that gets, it's kind of like some of the other
+},
+{
+    588.48,589.32
+     techniques that we use.
+},
+{
+    589.32,590.16
+     I can't see.
+},
+{
+    590.16,592.84
+     So you're putting pressure right on the tendons
+},
+{
+    592.84,595.88
+     and then yeah, opening and closing while the pressure's
+},
+{
+    595.88,596.72
+     on there.
+},
+{
+    596.72,598.48
+     Yeah, if you think about when you watch Sam there,
+},
+{
+    598.48,599.84
+     when we had that model, that's-
+},
+{
+    599.84,602.8
+     Yeah, you're actually working on scar tissue
+},
+{
+    602.8,603.64
+     a little bit that way too.
+},
+{
+    603.64,604.56
+     Yeah, exactly.
+},
+{
+    604.56,607.44
+     Making sure everything is gonna be very efficient
+},
+{
+    607.44,610.88
+     and doable after you get completely done.
+},
+{
+    610.88,613.56
+     Now, the next thing is that nerve.
+},
+{
+    613.56,616.12
+     Now that nerve, we need to stretch it
+},
+{
+    616.12,617.2
+     and it's a very special way.
+},
+{
+    617.2,620.4
+     It's pretty simple and I'm gonna show you this.
+},
+{
+    620.4,622.44
+     You don't have to have a string like this.
+},
+{
+    622.44,625.42
+     This is demonstrative, demonstrative. Demonstrative.
+},
+{
+    625.42,627.2
+     Demonstrative.
+},
+{
+    627.2,630.82
+     So this represents the nerve going through that tunnel
+},
+{
+    630.82,633.64
+     and it actually comes up to the back of your neck, right?
+},
+{
+    633.64,635.1
+     About in this area.
+},
+{
+    635.1,638.0
+     Now, you put your arm out like this.
+},
+{
+    638.0,639.0
+     You got me Liz?
+},
+{
+    639.0,641.4
+     We're trying to floss the nerve basically.
+},
+{
+    641.4,642.56
+     Pull them up.
+},
+{
+    642.56,645.12
+     Now, if I bring my head this way,
+},
+{
+    645.12,649.44
+     that pulls the string and the wrist goes up this way.
+},
+{
+    649.44,652.36
+     Now I'm gonna take my wrist, I'm gonna straighten it out
+},
+{
+    652.36,655.58
+     and that pulls the string and pulls my neck that way.
+},
+{
+    655.58,658.0
+     So if you understand, the neck goes this way,
+},
+{
+    658.0,661.16
+     as the palm goes down, when the palm comes up,
+},
+{
+    661.16,663.82
+     the head and neck go the opposite way,
+},
+{
+    663.82,667.2
+     so it becomes a chain reaction.
+},
+{
+    667.2,669.0
+     And if you look really closely,
+},
+{
+    672.4,673.94
+     can you zoom in on that?
+},
+{
+    676.64,681.64
+     So you can see that string going back and forth
+},
+{
+    681.76,682.58
+     right across there.
+},
+{
+    682.58,684.28
+     And that's what's going on with that nerve
+},
+{
+    684.28,685.44
+     and that carpal tunnel.
+},
+{
+    685.44,687.84
+     It's making sure no scar tissue.
+},
+{
+    687.84,690.64
+     Cause if you get scar tissue on a nerve and it locks it down,
+},
+{
+    690.64,691.76
+     it's not going to be fun.
+},
+{
+    691.76,692.6
+     We want that.
+},
+{
+    692.6,694.24
+     And it's going to be a problem.
+},
+{
+    694.24,696.48
+     And you're wondering why I had a surgery
+},
+{
+    696.48,697.44
+     and it didn't get better.
+},
+{
+    697.44,698.28
+     Right.
+},
+{
+    698.28,700.92
+     But you know, with that model, you can see that.
+},
+{
+    700.92,703.56
+     Oh, what's the tape yet?
+},
+{
+    703.56,706.24
+     If you go like this, that's stretching the nerve. If you go like this, that's stretching the nerve. So you don't want to do it at the same time see that. Oh, what's the fun? You can tape yet. If you go like this, that's stretching the nerve.
+},
+{
+    706.24,707.8
+     If you go like this, that's stretching the nerve.
+},
+{
+    707.8,709.68
+     So you don't want to do it at the same time like that.
+},
+{
+    709.68,711.56
+     You want to go up, coordinate it.
+},
+{
+    711.56,712.4
+     Keep it together.
+},
+{
+    712.4,713.64
+     Yeah, keep it together.
+},
+{
+    713.64,716.52
+     So this is probably a couple of weeks after surgery by now.
+},
+{
+    716.52,718.12
+     As things are going along again,
+},
+{
+    718.12,721.08
+     it shall be feeling good, no sharp pain, no.
+},
+{
+    721.08,722.56
+     Do that 10 times?
+},
+{
+    722.56,725.24
+     Yeah, 10 times, two, three times a day.
+},
+{
+    725.24,728.32
+     And if you're not having any problems with,
+},
+{
+    728.32,730.96
+     I don't think you have to continue to do that long term.
+},
+{
+    730.96,733.16
+     It just breaks it loose and you'll be fine.
+},
+{
+    733.16,734.0
+     And by this-
+},
+{
+    734.0,736.44
+     So I'm gonna show them without the rope on it.
+},
+{
+    736.44,737.28
+     Okay, yep.
+},
+{
+    737.28,740.4
+     Okay, so I'm going like this, I'm going like this.
+},
+{
+    740.4,741.56
+     Elbow straight.
+},
+{
+    741.56,744.16
+     Yep, and even back a little bit sometimes.
+},
+{
+    744.16,746.16
+     This way. All right, that's the a little bit sometimes. Yep, this way.
+},
+{
+    748.96,750.52
+     All right, that's the way you're gonna wanna do it 10 times if it makes the pain worse stop.
+},
+{
+    750.52,751.88
+     That's exactly right.
+},
+{
+    751.88,754.12
+     Now, then it's time to get it stronger
+},
+{
+    754.12,757.16
+     because after surgery, you had that hand
+},
+{
+    757.16,760.08
+     not moving very much, not doing much activity.
+},
+{
+    760.08,763.04
+     Those muscles weaken up fairly quickly.
+},
+{
+    763.04,764.56
+     And you wanna get strength back.
+},
+{
+    764.56,766.72
+     We got some options here.
+},
+{
+    766.72,770.84
+     I like to just start out with a squishy ball like this.
+},
+{
+    770.84,772.88
+     It's something that you can squish.
+},
+{
+    772.88,774.76
+     And everything doesn't work together
+},
+{
+    774.76,775.92
+     because in real life,
+},
+{
+    775.92,777.92
+     you usually don't squeeze everything together.
+},
+{
+    777.92,779.52
+     Sometimes you do with a pair of players.
+},
+{
+    779.52,781.28
+     And I know Bruce works in the shop a lot.
+},
+{
+    781.28,783.6
+     So, but this is a good way to start.
+},
+{
+    783.6,785.08
+     Working on individual fingers basically.
+},
+{
+    785.08,787.2
+     Yeah, get some mobility.
+},
+{
+    788.26,789.1
+     I like this one.
+},
+{
+    789.1,791.32
+     Let's say I got, I think I had a dollar store.
+},
+{
+    791.32,793.92
+     It's kind of fun, it lights up so it's a little entertaining.
+},
+{
+    793.92,795.56
+     And it's got these little spikes on it.
+},
+{
+    795.56,799.48
+     That can actually kind of desensitize over that scar tissue
+},
+{
+    799.48,801.44
+     and it's squishy and it's a little harder.
+},
+{
+    801.44,803.16
+     So you're ready to go to the next phase.
+},
+{
+    803.16,804.44
+     And you're just gonna work on this,
+},
+{
+    804.44,807.18
+     your thumb, your fingers, you know, for a minute or two,
+},
+{
+    807.18,809.58
+     you'll feel fatigue and then give it a rest.
+},
+{
+    809.58,812.16
+     Do that two or three times a day.
+},
+{
+    812.16,813.84
+     And here, you know, here's enough,
+},
+{
+    813.84,815.8
+     this ball is actually even more firm,
+},
+{
+    815.8,819.6
+     so as you get stronger, you go to a firmer ball,
+},
+{
+    819.6,822.76
+     and you might say, what about those grippy things, you know?
+},
+{
+    822.76,825.28
+     So yeah, we got some grippy things right here.
+},
+{
+    825.28,826.96
+     You can do this as well.
+},
+{
+    826.96,828.76
+     These are adjustable to spring.
+},
+{
+    828.76,830.16
+     These are really nice.
+},
+{
+    830.16,831.8
+     Are we gonna have these in the link below?
+},
+{
+    831.8,833.96
+     Yeah, well, I don't know.
+},
+{
+    833.96,834.92
+     Well, I just found these.
+},
+{
+    834.92,836.0
+     We're gonna do something.
+},
+{
+    836.0,837.48
+     And they still have a cone around them as well.
+},
+{
+    837.48,838.32
+     Did you see that?
+},
+{
+    838.32,839.16
+     Yes, I did.
+},
+{
+    839.16,841.4
+     So it counts for you, you don't have to count.
+},
+{
+    841.4,843.8
+     You know, you might get to 15 and be fatigued.
+},
+{
+    843.8,846.56
+     And then a week later, you might find you get to 35
+},
+{
+    846.56,848.2
+     and you don't even have to do the effort of counting.
+},
+{
+    848.2,851.16
+     You can set resistance between 10 pounds and 130 pounds.
+},
+{
+    851.16,852.0
+     Wow.
+},
+{
+    852.0,853.52
+     Yeah, they're deluxe.
+},
+{
+    853.52,858.52
+     That's a nice, whether they're at KDG hand grip strength.
+},
+{
+    858.76,859.88
+     Yeah. Yeah, they're a good deal.
+},
+{
+    859.88,860.72
+     I ordered them.
+},
+{
+    860.72,861.54
+     You did?
+},
+{
+    861.54,862.38
+     Yeah, where'd you find them?
+},
+{
+    862.38,864.24
+     They ranked 12, just on Amazon.
+},
+{
+    864.24,865.0
+     Excellent job. This is just on Amazon. So.
+},
+{
+    865.0,866.04
+     Excellent job.
+},
+{
+    866.04,868.76
+     This is the deluxe grip strength.
+},
+{
+    868.76,871.08
+     You do not have to go to this level.
+},
+{
+    871.08,871.92
+     If you don't want to.
+},
+{
+    871.92,872.76
+     That's gonna be,
+},
+{
+    872.76,873.8
+     if you really want to build up your forearms too.
+},
+{
+    873.8,874.64
+     Yeah.
+},
+{
+    874.64,875.48
+     Forearms.
+},
+{
+    875.48,876.32
+     And it really,
+},
+{
+    876.32,877.48
+     you'll see why it really does well
+},
+{
+    877.48,879.56
+     with the range of motion too.
+},
+{
+    879.56,880.4
+     You could,
+},
+{
+    880.4,881.24
+     you can do this with a,
+},
+{
+    881.24,883.52
+     we don't have a dumbbell around here, do we?
+},
+{
+    883.52,884.8
+     This works better than a dumbbell,
+},
+{
+    884.8,889.0
+     but you go like this and these are stretchy bands.
+},
+{
+    889.0,890.2
+     You put them around your feet.
+},
+{
+    890.2,891.96
+     There's probably start off with only one band.
+},
+{
+    891.96,892.8
+     Yep.
+},
+{
+    892.8,895.0
+     You may go like this, you know,
+},
+{
+    895.0,897.48
+     and you could only go like Bob said to one band
+},
+{
+    897.48,898.56
+     depending on.
+},
+{
+    898.56,899.68
+     Right on strong.
+},
+{
+    899.68,904.08
+     I'm gonna start like this and rest on your.
+},
+{
+    904.08,907.2
+     The forearms are supported by your thighs. Yep. Just like this and rest on your- The forearm is supported by your thighs.
+},
+{
+    907.2,908.68
+     Yep, just like this.
+},
+{
+    908.68,911.6
+     And you can, if you imagine that carpal tunnel right there,
+},
+{
+    911.6,913.82
+     imagine those tendons and that nerve going through there,
+},
+{
+    913.82,915.84
+     we're stretching it out.
+},
+{
+    915.84,918.2
+     And cause those tendons go all the way to the tips
+},
+{
+    918.2,920.72
+     of your fingers on four of them.
+},
+{
+    920.72,922.96
+     And then you're gonna go up and you get the wrist
+},
+{
+    922.96,925.76
+     full flexion all the way down
+},
+{
+    925.76,927.76
+     and you do this 10 to 15 times.
+},
+{
+    927.76,931.4
+     If you've got little arthritic joints in your wrist
+},
+{
+    931.4,932.84
+     and your fingers like I do,
+},
+{
+    932.84,936.3
+     it's pretty, mine's pretty not severe at all
+},
+{
+    936.3,939.88
+     but this definitely helps and it's gonna keep me moving
+},
+{
+    939.88,943.24
+     as I approach that big six zero.
+},
+{
+    943.24,944.08
+     So.
+},
+{
+    944.08,945.64
+     Yeah, the stronger you keep the joints,
+},
+{
+    945.64,946.96
+     less pain they'll have.
+},
+{
+    946.96,948.04
+     Yeah.
+},
+{
+    948.04,951.32
+     And by this time, you're pretty active,
+},
+{
+    951.32,954.28
+     you're back to doing most all your activities.
+},
+{
+    954.28,956.36
+     It does that way, you can also go extension.
+},
+{
+    956.36,957.2
+     Oh, thanks Bob.
+},
+{
+    957.2,958.04
+     Just show that real quick.
+},
+{
+    958.04,959.24
+     Yeah, that is a.
+},
+{
+    959.24,960.88
+     Cause that's a big one part of grip.
+},
+{
+    960.88,961.72
+     Yeah.
+},
+{
+    961.72,962.56
+     Is you gotta extend.
+},
+{
+    962.56,965.64
+     When you grab something, your wrist extends naturally.
+},
+{
+    965.64,968.4
+     So the stronger your extension is,
+},
+{
+    968.4,970.12
+     usually the stronger your grip is.
+},
+{
+    970.12,972.52
+     Yeah, you know, that one I kind of forget about it.
+},
+{
+    972.52,973.36
+     It's good thing that you're really.
+},
+{
+    973.36,975.68
+     Yeah, I think that's the most important one.
+},
+{
+    975.68,978.12
+     Yeah, I don't because I like doing this one.
+},
+{
+    978.12,980.64
+     It feels so good, but I should do this one
+},
+{
+    980.64,983.16
+     because then I have to change the loops and,
+},
+{
+    983.16,985.42
+     you know, Bob, there's only so much that I can do.
+},
+{
+    985.42,987.8
+     I know there's only so much time in the day.
+},
+{
+    987.8,990.2
+     People are all tuned out by now, they're getting bored.
+},
+{
+    990.2,993.16
+     So anyways, take care and good luck with those risks.
+},
+{
+    993.16,None
+     Have fun. you
+},

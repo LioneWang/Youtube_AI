@@ -1,0 +1,1448 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.32,13.04
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.04,14.36
+     Brad Heineck, physical therapist.
+},
+{
+    14.36,16.04
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.04,17.36
+     In our opinion, of course, Bob.
+},
+{
+    17.36,18.2
+     Buttoned up.
+},
+{
+    18.2,19.04
+     Yeah.
+},
+{
+    19.04,21.08
+     By the way, let's talk about what we're gonna talk about
+},
+{
+    21.08,21.92
+     today.
+},
+{
+    21.92,24.96
+     Today we're talking about easy fix for neck and upper back pain.
+},
+{
+    24.96,26.8
+     These are secrets from physical therapists because we are physical therapists. And we're gonna talk about today, today we're talking about an easy fix for neck and upper back pain. These are secrets from physical therapists,
+},
+{
+    26.8,28.0
+     because we are physical therapists.
+},
+{
+    28.0,28.92
+     And we're gonna share them.
+},
+{
+    28.92,30.24
+     That's why we have this channel.
+},
+{
+    30.24,32.68
+     Yeah, and this is actually for my niece.
+},
+{
+    32.68,33.68
+     I'm not gonna say her name.
+},
+{
+    33.68,36.6
+     I'm not sure she wants to be named on film or not.
+},
+{
+    36.6,39.16
+     Well, some people are sensitive to that.
+},
+{
+    39.16,41.0
+     So they don't wanna be associated with this.
+},
+{
+    41.0,42.96
+     Especially if it's you saying it.
+},
+{
+    42.96,44.04
+     Especially if it's me saying it.
+},
+{
+    44.04,48.0
+     She's a college volleyball player and very talented.
+},
+{
+    48.0,50.96
+     She just had a killer first year as a freshman
+},
+{
+    50.96,52.8
+     and at a D1 college.
+},
+{
+    52.8,53.64
+     So really?
+},
+{
+    53.64,55.4
+     She's not a minor volleyball here.
+},
+{
+    55.4,56.4
+     It's kind of like a job.
+},
+{
+    56.4,57.8
+     And plus she's smart too.
+},
+{
+    57.8,60.08
+     She was just accepted into a nursing program.
+},
+{
+    60.08,61.48
+     So this is really cool.
+},
+{
+    61.48,63.92
+     But she's been having some neck pain.
+},
+{
+    63.92,65.42
+     Let me show you on you, Brad.
+},
+{
+    65.42,68.98
+     Yeah, she's been having pain right up in this area here
+},
+{
+    68.98,71.14
+     and into here and up into the neck.
+},
+{
+    71.14,74.54
+     And she's getting headaches when she's playing volleyball.
+},
+{
+    74.54,76.7
+     Now, if you know anything about volleyball,
+},
+{
+    76.7,78.66
+     a lot of times you're in this position there, right?
+},
+{
+    78.66,80.66
+     That athletic stance, so to speak.
+},
+{
+    80.66,82.26
+     That leg stance and getting ready.
+},
+{
+    82.26,84.18
+     And we're gonna talk about why that,
+},
+{
+    84.18,86.6
+     I think, is playing a role in her pain.
+},
+{
+    86.6,88.0
+     So if you're new to our channel,
+},
+{
+    88.0,89.52
+     please take a second to subscribe to us.
+},
+{
+    89.52,92.6
+     We provide videos on to stay healthy, fit, fit,
+},
+{
+    92.6,93.92
+     and pain-free.
+},
+{
+    93.92,95.56
+     By the way, you're also gonna join us
+},
+{
+    95.56,96.88
+     because we're always giving away something
+},
+{
+    96.88,98.28
+     on our social media channels.
+},
+{
+    98.28,99.12
+     There you go.
+},
+{
+    99.12,102.28
+     So join us on bobandbrad.com.
+},
+{
+    102.28,104.04
+     The giveaway section,
+},
+{
+    104.04,105.64
+     we're not giving away anything today,
+},
+{
+    105.64,106.76
+     but we're starting tomorrow.
+},
+{
+    106.76,109.2
+     Yeah, it's the giveaway.
+},
+{
+    109.2,110.56
+     We don't have it here, do we?
+},
+{
+    110.56,111.6
+     The weighted blanket.
+},
+{
+    111.6,113.76
+     Oh, it's right there, the dozylogy.
+},
+{
+    113.76,115.36
+     Yeah, so it's a cool blanket.
+},
+{
+    115.36,116.48
+     You can use it.
+},
+{
+    116.48,121.0
+     It's like 15 pounds, but it helps decrease stress levels.
+},
+{
+    121.0,122.0
+     Right, right.
+},
+{
+    122.0,123.68
+     So, do you buy that, Brad?
+},
+{
+    123.68,124.52
+     Yeah.
+},
+{
+    124.52,125.36
+     Yeah, the research has proven it. Right, we gotta get on with, right. So. Do you buy that Brad? Yeah. Yeah, the research has proven it.
+},
+{
+    125.36,126.56
+     Right, we gotta get on with the show.
+},
+{
+    126.56,127.68
+     Okay.
+},
+{
+    127.68,131.3
+     So, my niece, when I was taking a look at her,
+},
+{
+    131.3,132.84
+     I had her do this.
+},
+{
+    132.84,134.36
+     I had her bring her head back.
+},
+{
+    134.36,137.36
+     And I saw there was plenty of movement in the neck,
+},
+{
+    137.36,139.9
+     but there was no motion in the,
+},
+{
+    139.9,143.04
+     what I would say, the upper back right in here.
+},
+{
+    143.04,144.68
+     So.
+},
+{
+    144.68,146.16
+     Kind of like bumping into. I think you go back here. So, yeah. I'm bumping into.
+},
+{
+    146.16,147.0
+     I think you go back here.
+},
+{
+    147.0,147.84
+     Okay, okay.
+},
+{
+    147.84,149.2
+     So if I'm like this, Brad,
+},
+{
+    149.2,151.04
+     bring your head back once here.
+},
+{
+    151.04,152.28
+     You want me to go normally?
+},
+{
+    152.28,153.24
+     Yeah, like that.
+},
+{
+    153.24,157.6
+     See, she had no motion where my hand is.
+},
+{
+    157.6,159.76
+     So when she goes back, go back, Brad.
+},
+{
+    159.76,162.2
+     I can see motion there.
+},
+{
+    162.2,165.0
+     So you're actually, she's actually fixated right here,
+},
+{
+    165.0,166.48
+     really tight.
+},
+{
+    166.48,169.72
+     And what happens now, when she's in this position
+},
+{
+    169.72,172.8
+     with volleyball, that movement's gotta come from somewhere.
+},
+{
+    172.8,177.2
+     So she's hyper moving, hyper mobile in this area.
+},
+{
+    177.2,178.92
+     And that's causing the headaches,
+},
+{
+    178.92,181.04
+     because she said, yeah, right in the suboccipital area,
+},
+{
+    181.04,182.36
+     she's getting headaches.
+},
+{
+    182.36,184.12
+     So instead of getting some motion here,
+},
+{
+    184.12,185.88
+     she's getting it all up in here.
+},
+{
+    185.88,187.44
+     So we gotta loosen this up.
+},
+{
+    187.44,189.44
+     That's step number one.
+},
+{
+    189.44,193.12
+     And luckily there's easy ways to do this.
+},
+{
+    193.12,195.72
+     So one thing you just need is a tennis ball
+},
+{
+    195.72,197.28
+     and probably a towel,
+},
+{
+    197.28,199.44
+     because the towel kind of helps take away
+},
+{
+    199.44,200.6
+     the sharp edge to it.
+},
+{
+    200.6,203.72
+     So it's a ball, how can be a sharp edge Bob?
+},
+{
+    203.72,205.28
+     Well, not a, well, you know, okay, now you got me stumbling here. So it's a ball. How can it be a sharp edge, Bob? Well, not a sh, well, you know,
+},
+{
+    205.28,206.12
+     the, okay.
+},
+{
+    206.12,207.88
+     Now you got me stumbling here.
+},
+{
+    207.88,209.68
+     Turn around again, Brad.
+},
+{
+    209.68,212.5
+     So we're going to hit these areas right here.
+},
+{
+    212.5,214.94
+     We're going to hit right here,
+},
+{
+    216.28,220.72
+     there, there, there, or always on the side of the spine.
+},
+{
+    220.72,222.4
+     I think it's more comfortable.
+},
+{
+    222.4,223.68
+     And you might even go down here.
+},
+{
+    223.68,224.64
+     So there's six areas.
+},
+{
+    224.64,228.68
+     One, two, three, four, five, six.
+},
+{
+    228.72,230.48
+     Now Brad, do you mind being the subject here?
+},
+{
+    230.48,233.96
+     Oh no, I mean, you could go with just the ball.
+},
+{
+    233.96,235.64
+     If you could go with just the ball.
+},
+{
+    235.64,236.76
+     Probably pretty aggressive at first.
+},
+{
+    236.76,239.04
+     My guess is yeah, it would be too much for you.
+},
+{
+    239.04,241.32
+     For some people, they might even have to put a pillow
+},
+{
+    241.32,242.16
+     underneath there.
+},
+{
+    242.16,243.0
+     For sure.
+},
+{
+    243.0,243.84
+     If they're just starting off.
+},
+{
+    243.84,245.86
+     So I'm gonna put it on the first spot there Brad.
+},
+{
+    245.86,246.9
+     Yep.
+},
+{
+    246.9,247.82
+     Okay.
+},
+{
+    247.82,249.98
+     So what I want you to do Brad is put your arms up.
+},
+{
+    249.98,251.18
+     Yep, overhead like this.
+},
+{
+    251.18,253.02
+     I just felt a crack.
+},
+{
+    253.02,254.06
+     Don't crack, yep.
+},
+{
+    254.06,256.02
+     Oh yeah, I could see where just the ball
+},
+{
+    256.02,256.98
+     would be a little aggressive.
+},
+{
+    256.98,257.82
+     Right.
+},
+{
+    257.82,259.26
+     Unless you really like that.
+},
+{
+    259.26,260.62
+     It is surprising, isn't it?
+},
+{
+    260.62,262.74
+     Now you already go over to the position two yet?
+},
+{
+    262.74,264.66
+     Well, I would say for each position,
+},
+{
+    264.66,266.56
+     you wanna go for about 20 seconds,
+},
+{
+    266.56,270.28
+     take some deep breaths and have your arms overhead.
+},
+{
+    270.28,272.68
+     Yep. And even try to put your elbows on the ground.
+},
+{
+    272.68,276.36
+     Wow. You know, my shoulders, but this would help you Brad.
+},
+{
+    276.36,277.92
+     Oh yeah. I'm trying to help you Brad.
+},
+{
+    277.92,279.56
+     I know I really shouldn't do this every day.
+},
+{
+    279.56,282.68
+     I just, I'm having fun with my other exercises.
+},
+{
+    282.68,285.52
+     Okay. Why don't you go, do you want to go to the other side?
+},
+{
+    285.52,288.28
+     Sure, all right, well, go right over to the other side.
+},
+{
+    288.28,290.36
+     So I'm just below the neck,
+},
+{
+    290.36,293.36
+     kind of upper shoulder blade area, if you want.
+},
+{
+    293.36,295.44
+     And that, oh yeah, that, oh.
+},
+{
+    295.44,298.36
+     You know, this side is not as sensitive as the right.
+},
+{
+    298.36,300.88
+     Now you can see Brad is actually lifting his butt up,
+},
+{
+    300.88,301.72
+     which is fine,
+},
+{
+    301.72,303.68
+     because he's trying to actually put a little more pressure
+},
+{
+    303.68,304.64
+     on there, aren't you, right?
+},
+{
+    304.64,305.44
+     Yes. And with some people, they won't have to actually put a little more pressure on there, aren't you, right? Yes.
+},
+{
+    305.44,307.28
+     And with some people, they won't have to do that.
+},
+{
+    307.28,309.44
+     And some people will be way plenty
+},
+{
+    309.44,311.52
+     or even too much to start off with.
+},
+{
+    311.52,314.3
+     Actually, just from here to here's one big step.
+},
+{
+    314.3,317.02
+     And then this is even more, and then you start moving.
+},
+{
+    317.02,318.92
+     Yeah, with some people,
+},
+{
+    318.92,321.28
+     they may even have to have a pillow underneath their head.
+},
+{
+    321.28,322.12
+     Sure.
+},
+{
+    322.12,324.88
+     And they may have to have a pillow over the ball itself.
+},
+{
+    324.88,325.66
+     Yeah. It's gonna depend on how fixated you are or how tight that is. underneath their head. Sure. And they may have to have a pillow over the ball itself.
+},
+{
+    325.66,328.6
+     It's gonna depend on how fixated you are
+},
+{
+    328.6,329.76
+     or how tight that is.
+},
+{
+    329.76,331.16
+     I'm going to position three Bob.
+},
+{
+    331.16,333.76
+     So Brad is moving down, moving down the spine.
+},
+{
+    333.76,336.36
+     So I'm on the right side, down about three,
+},
+{
+    336.36,338.28
+     four inches from that position.
+},
+{
+    338.28,339.12
+     Right.
+},
+{
+    339.12,341.64
+     So he's gonna hit all six positions
+},
+{
+    341.64,342.8
+     for at least 30 seconds.
+},
+{
+    342.8,344.52
+     You can go longer if you want.
+},
+{
+    344.52,347.12
+     So it's very quick. it doesn't take that long,
+},
+{
+    347.12,349.72
+     but I'd like to see you doing it at least twice a day.
+},
+{
+    349.72,353.52
+     You could do it more, you can do it every hour if you want.
+},
+{
+    353.52,357.72
+     I think you'll find out over time that this works better
+},
+{
+    357.72,359.92
+     than receiving manipulation or something
+},
+{
+    359.92,361.6
+     because it's giving you prolonged stretches
+},
+{
+    361.6,364.12
+     to these ligaments that are tight.
+},
+{
+    364.12,366.16
+     So, and after a while, you start to see
+},
+{
+    366.16,367.52
+     that you'll have more motion there.
+},
+{
+    367.52,368.88
+     It'll feel better.
+},
+{
+    368.88,369.72
+     Yeah.
+},
+{
+    369.72,370.56
+     So.
+},
+{
+    370.56,372.96
+     Oh, I can feel I'm already loosening up.
+},
+{
+    372.96,373.92
+     You're in control.
+},
+{
+    373.92,376.0
+     It's always, you're more relaxed
+},
+{
+    376.0,380.64
+     when you're in control of the mold versus someone.
+},
+{
+    380.64,382.36
+     Right, someone pushing on you.
+},
+{
+    382.36,384.48
+     And, you know, I've been doing this,
+},
+{
+    384.48,386.56
+     I've been actually using a different device,
+},
+{
+    386.56,389.0
+     but man that has made a difference in my running.
+},
+{
+    389.0,391.16
+     Cause I just, it brings my shoulders back
+},
+{
+    391.16,393.2
+     and I'm in so much better posture when I'm running.
+},
+{
+    393.2,394.04
+     So.
+},
+{
+    394.04,396.32
+     I can believe this is getting those,
+},
+{
+    396.32,399.52
+     where the ribs connect up to the vertebrae as well,
+},
+{
+    399.52,400.36
+     loosening those joints.
+},
+{
+    400.36,401.68
+     That's a good point Brad.
+},
+{
+    401.68,403.2
+     All right Brad, if you don't mind,
+},
+{
+    403.2,404.68
+     we're gonna move on to something else now.
+},
+{
+    404.68,405.84
+     I know you look comfortable there,
+},
+{
+    405.84,408.08
+     but we're gonna move this over.
+},
+{
+    408.96,411.36
+     I'm just gonna bring the chair into play here.
+},
+{
+    412.44,415.16
+     So one of them that you can do throughout the day
+},
+{
+    416.84,420.16
+     is actually, you just take a little ball like this,
+},
+{
+    420.16,421.4
+     an air filled ball.
+},
+{
+    421.4,422.64
+     This one's a little flatter.
+},
+{
+    422.64,423.48
+     That's fine.
+},
+{
+    423.48,425.84
+     You can, it doesn't have to be completely flat like this,
+},
+{
+    425.84,428.16
+     but it seems to work a little better with that.
+},
+{
+    428.16,430.0
+     Yeah, that's a little more flat, but it's okay.
+},
+{
+    430.0,432.68
+     But yeah, if they're full and they're relatively firm
+},
+{
+    432.68,435.0
+     and hard, that usually not quite so good.
+},
+{
+    435.0,436.72
+     So what you're gonna do is you're gonna put that
+},
+{
+    436.72,438.4
+     in your mid back here,
+},
+{
+    438.4,441.28
+     and you're gonna do what we call hallelujah stretches.
+},
+{
+    441.28,443.08
+     Hallelujah.
+},
+{
+    443.08,444.92
+     So what's nice about this one is,
+},
+{
+    444.92,445.88
+     it's one you can do throughout the day when you're in a chair. So it's nice about this one is it's one you can do
+},
+{
+    445.88,448.0
+     throughout the day when you're in a chair.
+},
+{
+    448.0,449.8
+     So it's just real simple to do.
+},
+{
+    449.8,452.56
+     And it's gonna stretch all that area out.
+},
+{
+    452.56,454.4
+     And you can move it up and down to two,
+},
+{
+    454.4,456.04
+     again to different levels.
+},
+{
+    456.04,457.4
+     I'm actually running out of chair here.
+},
+{
+    457.4,459.16
+     Yeah, well Bob's pretty tall in the torso.
+},
+{
+    459.16,460.0
+     I'm pretty tall.
+},
+{
+    460.0,462.56
+     So yeah, if you have a higher chair,
+},
+{
+    462.56,464.32
+     you can get that area up in there
+},
+{
+    464.32,465.96
+     where it's actually giving you some trouble. Yeah. Yeah. You could have someone higher chair, you can get that area up in there, which is actually giving me some trouble.
+},
+{
+    465.96,466.8
+     Yeah.
+},
+{
+    466.8,467.64
+     Yeah.
+},
+{
+    467.64,469.04
+     You could have someone just hold it like that.
+},
+{
+    469.04,470.36
+     Yeah.
+},
+{
+    470.36,471.6
+     And it can go lower.
+},
+{
+    472.56,473.6
+     And that's what's nice about it.
+},
+{
+    473.6,475.8
+     Again, you can get all those different areas.
+},
+{
+    475.8,477.4
+     Again, bringing the arms back,
+},
+{
+    477.4,479.2
+     making him put the hands behind the neck like this
+},
+{
+    479.2,481.04
+     and stretch back like this.
+},
+{
+    481.04,482.52
+     It's a good reminder.
+},
+{
+    482.52,484.32
+     This is the one that, you know,
+},
+{
+    484.32,486.04
+     is kind of a maintenance one
+},
+{
+    486.04,487.24
+     that you do throughout the day
+},
+{
+    487.24,489.92
+     to prevent you from getting in that tight position.
+},
+{
+    489.92,491.96
+     And with all of these, even one laying down,
+},
+{
+    491.96,493.96
+     make sure you relax, breathe,
+},
+{
+    493.96,496.16
+     take some deep breaths in, exhale.
+},
+{
+    496.16,499.08
+     That really makes a significant difference.
+},
+{
+    499.08,501.8
+     All right, then I'm gonna show you one strengthening technique
+},
+{
+    501.8,504.24
+     that you can do without the gym.
+},
+{
+    504.24,505.64
+     And Brad's gonna show you
+},
+{
+    505.64,509.0
+     how to do one with a gym setting.
+},
+{
+    509.0,510.88
+     One is I'm just gonna have you do,
+},
+{
+    511.92,514.92
+     squeeze your shoulder blades together throughout the day.
+},
+{
+    514.92,515.76
+     Just like that.
+},
+{
+    515.76,517.48
+     And that's just gonna help teach those muscles
+},
+{
+    517.48,518.84
+     to get back into where they should be.
+},
+{
+    518.84,520.72
+     Can you see his shirt rain clean up there, Liz?
+},
+{
+    520.72,522.6
+     Cause that's what we was trying to do.
+},
+{
+    522.6,524.88
+     Get those shoulder blades to touch.
+},
+{
+    524.88,528.92
+     And you can just count to five, one, two, three, four, five.
+},
+{
+    528.92,530.64
+     One, two, three, four, five.
+},
+{
+    530.64,532.4
+     If you wonder why you're doing this,
+},
+{
+    532.4,534.56
+     you can actually do a chin tuck while you do it.
+},
+{
+    534.56,535.76
+     Oh yeah, yep.
+},
+{
+    535.76,539.24
+     A chin tuck is you're backing your neck up basically like this.
+},
+{
+    539.24,540.96
+     You're not bending down, you're not going up,
+},
+{
+    540.96,542.4
+     you're just going back like this.
+},
+{
+    542.4,544.52
+     Like someone's gonna throw a pie in your face.
+},
+{
+    544.52,547.16
+     So a chin tuck, squeeze the shoulders together.
+},
+{
+    548.0,550.72
+     Chin tuck, squeeze the shoulder blades together.
+},
+{
+    550.72,552.36
+     I'm not sure we might have mentioned this one
+},
+{
+    552.36,553.4
+     on some other videos.
+},
+{
+    553.4,557.2
+     Oh yeah, a few thousand times, but that's important.
+},
+{
+    557.2,559.84
+     I don't think she's been watching our videos, Brad.
+},
+{
+    559.84,562.24
+     All right, Brad's gonna show you a strengthening exercise
+},
+{
+    562.24,563.64
+     that you can actually do at the gym,
+},
+{
+    563.64,566.04
+     with probably be with a set of cables, right?
+},
+{
+    566.04,566.88
+     Or, I mean, I think.
+},
+{
+    566.88,569.04
+     Yeah, if you're at a gym, the cables,
+},
+{
+    569.04,571.16
+     they may have some of these bands around.
+},
+{
+    571.16,572.68
+     And at a gym, I've done these right,
+},
+{
+    572.68,575.64
+     just wrap it around one of those steel uprights
+},
+{
+    575.64,577.52
+     for the bench press or whatever.
+},
+{
+    577.52,580.24
+     We use the wall anchor just because it works really well.
+},
+{
+    580.24,583.44
+     Just snap it on there, and if I could hold on.
+},
+{
+    583.44,585.64
+     Now, so now we're just going to,
+},
+{
+    585.64,586.92
+     and you can do this at different levels.
+},
+{
+    586.92,590.44
+     You may come down here, hands to the hips or below,
+},
+{
+    590.44,592.72
+     but the same idea, if you look at my shoulders.
+},
+{
+    592.72,594.98
+     Again, he's squeezing those shoulder blades together,
+},
+{
+    594.98,597.06
+     getting some motion in here.
+},
+{
+    597.06,599.2
+     This is all gonna help your posture,
+},
+{
+    599.2,602.28
+     and it's gonna help you so that when you're in volleyball,
+},
+{
+    602.28,605.84
+     you got the musculature to keep you in good position.
+},
+{
+    606.72,607.56
+     So.
+},
+{
+    607.56,609.04
+     I'm thinking, she's in volleyball,
+},
+{
+    609.04,611.72
+     she could do, you know, work on that spike thing too.
+},
+{
+    611.72,612.56
+     That's right.
+},
+{
+    612.56,615.04
+     I mean, that's not gonna help what we're talking about,
+},
+{
+    615.04,617.68
+     but it'll give her some resistance training.
+},
+{
+    617.68,619.16
+     We're always adding little tips here
+},
+{
+    619.16,620.16
+     and benefits aren't we, Brad?
+},
+{
+    620.16,621.0
+     You better believe it.
+},
+{
+    621.0,623.08
+     Okay, the last thing I wanna mention is
+},
+{
+    623.08,626.28
+     you really gotta do something about the laptop issue.
+},
+{
+    626.28,627.44
+     Yep, that's true.
+},
+{
+    628.44,631.0
+     Yeah, if you're, and we're seeing this,
+},
+{
+    631.0,632.44
+     I'm not trying to single you out
+},
+{
+    632.44,634.2
+     because believe me, Brad and I are seeing this
+},
+{
+    634.2,635.76
+     as an epidemic basically.
+},
+{
+    635.76,637.6
+     Oh yeah, we could write a book on it.
+},
+{
+    637.6,639.08
+     Yeah, we're seeing people,
+},
+{
+    639.08,641.8
+     and this is what they're like all day long.
+},
+{
+    641.8,644.92
+     They're laying in their beds or they're at a desk.
+},
+{
+    644.92,647.12
+     And even if you're like right here,
+},
+{
+    647.12,650.48
+     you put it on a desk, you're like this to use the keyboard
+},
+{
+    650.48,652.28
+     and then you want, because you want your arms
+},
+{
+    652.28,654.64
+     kind of level here.
+},
+{
+    654.64,657.96
+     But then you gotta go like this in order to see the screen.
+},
+{
+    657.96,661.64
+     So yeah, so what we, this should be,
+},
+{
+    661.64,664.0
+     right, this is where the screen should be.
+},
+{
+    664.0,665.04
+     This is where the screen should be
+},
+{
+    665.04,666.6
+     and you're saying you're kidding me.
+},
+{
+    666.6,667.6
+     How am I gonna do that?
+},
+{
+    667.6,669.68
+     Well, you almost have to get a separate keyboard.
+},
+{
+    669.68,671.88
+     Obviously it wouldn't look like this.
+},
+{
+    671.88,673.16
+     But it's from the 30s.
+},
+{
+    673.16,675.52
+     Yeah, but you're getting a wireless.
+},
+{
+    675.52,678.72
+     A little wireless keyboard that you would use like this
+},
+{
+    678.72,681.52
+     and you'd have a stand to set this up on.
+},
+{
+    681.52,684.68
+     So that this is really high because I'm really tall.
+},
+{
+    684.68,686.48
+     So it wouldn't be as high for you,
+},
+{
+    686.48,688.4
+     but you really can't be like this
+},
+{
+    688.4,690.16
+     for prolonged periods of time.
+},
+{
+    690.16,692.0
+     You don't want to take your phone
+},
+{
+    692.0,693.56
+     and have it down like this either.
+},
+{
+    693.56,694.6
+     You want to bring it up to you.
+},
+{
+    694.6,697.44
+     They call it the dinosaur arms.
+},
+{
+    697.44,699.68
+     Tireonosaurus Rex.
+},
+{
+    699.68,701.0
+     Yeah, the Rex guy up.
+},
+{
+    701.0,704.0
+     By the way, that's a joke about me and the family, by the way.
+},
+{
+    704.0,706.18
+     Well, for being tall, I have short arms.
+},
+{
+    706.18,707.68
+     So my little nephews always come up to me
+},
+{
+    707.68,710.88
+     and they always go, Uncle Robert, Uncle Robert.
+},
+{
+    710.88,712.0
+     I can't just imagine.
+},
+{
+    712.0,713.34
+     They enjoy it.
+},
+{
+    713.34,714.32
+     We better get on with this show.
+},
+{
+    714.32,715.28
+     All right, so anyway, yeah,
+},
+{
+    715.28,717.48
+     you wanna keep everything up here.
+},
+{
+    717.48,718.4
+     You gotta avoid that.
+},
+{
+    718.4,720.4
+     You gotta think about that throughout the day
+},
+{
+    720.4,721.76
+     when you're working on things.
+},
+{
+    721.76,723.08
+     All right, we're gonna say goodbye, Brad,
+},
+{
+    723.08,724.24
+     because I see we're coming up on our channel.
+},
+{
+    724.24,725.5
+     Oh yeah, we're on a schedule.
+},
+{
+    725.5,726.34
+     So long.
+},
+{
+    726.34,727.18
+     Good luck.
+},

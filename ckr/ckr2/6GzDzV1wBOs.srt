@@ -1,0 +1,992 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    8.0,13.2
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.2,14.2
+     Brad Heineck, physical therapist.
+},
+{
+    14.2,16.2
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.2,17.2
+     In our opinion, of course, Bob.
+},
+{
+    17.2,20.34
+     Today, Brad, we're going to talk about hip pain and hip arthritis.
+},
+{
+    20.34,22.28
+     Stop pain with simple exercises.
+},
+{
+    22.28,23.28
+     Right.
+},
+{
+    23.28,25.12
+     A lot of times times simple is better.
+},
+{
+    25.12,26.76
+     You don't have to get too complex with this
+},
+{
+    26.76,28.76
+     and sometimes you may avoid surgery
+},
+{
+    28.76,30.2
+     even if you do something with exercise.
+},
+{
+    30.2,33.16
+     Exactly, if you've got nothing to lose.
+},
+{
+    33.16,35.24
+     I wanna talk about this little bit Bob
+},
+{
+    35.24,37.68
+     and this is something a lot of our people,
+},
+{
+    37.68,39.6
+     our patients as well as our viewers
+},
+{
+    39.6,42.28
+     I'm sure experienced this with hip or knee pain
+},
+{
+    42.28,46.38
+     particularly they go in, they get x-rays and the doctor
+},
+{
+    46.38,50.14
+     looks at us and says, my goodness, you've got arthritis in your joints. As a matter
+},
+{
+    50.14,54.02
+     of fact, you've got arthritis on both hips and it looks like your right hip is a lot
+},
+{
+    54.02,60.86
+     worse than your left and then the patient will say, well, but my left hip hurts more
+},
+{
+    60.86,61.86
+     than my right hip.
+},
+{
+    61.86,65.32
+     You hear this all the time. It could be hips or knees.
+},
+{
+    65.32,66.56
+     I see that all the time.
+},
+{
+    66.56,68.2
+     They'll say, in fact, they'll go in
+},
+{
+    68.2,70.04
+     for knee replacement surgery and they'll say,
+},
+{
+    70.04,72.52
+     well, actually it looks like the other one's worse.
+},
+{
+    72.52,75.48
+     But they end up doing the one that hurts the most.
+},
+{
+    75.48,76.32
+     Right.
+},
+{
+    76.32,77.16
+     Generally.
+},
+{
+    77.16,78.76
+     I get people asking, well, what should I do?
+},
+{
+    78.76,81.4
+     And so then it all boils down to this adage
+},
+{
+    81.4,82.56
+     in the medical community.
+},
+{
+    82.56,85.84
+     Do you treat the x-rays or treat the patient?
+},
+{
+    85.84,87.16
+     Because the patients say,
+},
+{
+    87.16,89.88
+     I want the painful knee operate on the X-rays,
+},
+{
+    89.88,92.08
+     might say, oh, this looks worse.
+},
+{
+    92.08,93.84
+     In therapy, we don't have this issue.
+},
+{
+    93.84,95.88
+     We always go after the painful side.
+},
+{
+    95.88,97.2
+     Absolutely.
+},
+{
+    97.2,100.28
+     And quite often, sometimes when you take the pain away
+},
+{
+    100.28,102.2
+     from one side, it maybe even improves a little bit
+},
+{
+    102.2,104.16
+     on the other side because you're not limping so much.
+},
+{
+    104.16,105.06
+     Right, no. Your mechanics or your gait mechanics improve. It makes everything better. away from one side, it maybe even improves a little bit on the other side because you're not limping so much. Right.
+},
+{
+    105.06,108.82
+     No, your mechanics or your gait mechanics and tool, it makes everything better.
+},
+{
+    108.82,111.74
+     By the way, if you're new to our channel, please take a second to subscribe to us.
+},
+{
+    111.74,114.82
+     We provide videos on how to stay healthy, fit, pain-free, and we upload every day.
+},
+{
+    114.82,120.22
+     Also, you want to go and join us on our social media channels or go to bobandbrad.com and
+},
+{
+    120.22,121.58
+     go to the giveaway section.
+},
+{
+    121.58,123.22
+     We're always giving something away.
+},
+{
+    123.22,124.3
+     What are we giving away right now?
+},
+{
+    124.3,126.4
+     We don't know because this is a future video. Oh, that's right. But there's going to be, just click on the giveaway section, we're always giving something away. What are we giving away right now? We don't know, because this is a future video.
+},
+{
+    126.4,127.36
+     Oh, that's right.
+},
+{
+    127.36,129.2
+     But there's gonna be, just click on the giveaway section.
+},
+{
+    129.2,130.04
+     There's something cool.
+},
+{
+    130.04,133.52
+     We give away mattresses and massagers and stuff like that.
+},
+{
+    133.52,137.04
+     Go also go to Bob and Brad on Facebook.
+},
+{
+    137.04,137.88
+     There you go.
+},
+{
+    137.88,139.2
+     Pin to the top of the page.
+},
+{
+    139.2,141.88
+     Okay, so we already went through the scenario,
+},
+{
+    141.88,143.88
+     went through half of our video before the intro.
+},
+{
+    143.88,144.72
+     Yeah, that's right.
+},
+{
+    144.72,146.98
+     Okay, so we're gonna talk about how do you treat it.
+},
+{
+    146.98,150.0
+     Let's say your right hip is very painful.
+},
+{
+    150.0,151.52
+     And particularly when you walk on it,
+},
+{
+    151.52,153.36
+     very common with arthritis.
+},
+{
+    153.36,156.82
+     Now this is something a lot of people do not wanna do,
+},
+{
+    156.82,159.08
+     but just take some stress off the hip
+},
+{
+    159.08,161.88
+     when you walk by using a cane.
+},
+{
+    161.88,163.6
+     Yeah, absolutely.
+},
+{
+    163.6,169.56
+     I find with some people that, cause arthritis tends to flare up and it tends to calm down a lot of times by using
+},
+{
+    169.96,177.52
+     The cane it tends to calm down faster because you're taking weight off. It's not an irritated right and so you can
+},
+{
+    177.76,179.84
+     So we're not telling you that you're gonna use it permanently
+},
+{
+    179.84,184.56
+     Right, and we're not even saying that you have to do it everywhere if you don't feel like you want to do it in public
+},
+{
+    185.08,187.86
+     Dude, just do it in your home for a while limp instead
+},
+{
+    187.86,192.88
+     Yeah, limp instead which people think they look better when they're they're lumping then using a cane
+},
+{
+    192.88,199.1
+     Right, so if you got you know get a cane you adjusted so it's but at risk level and you're standing tall if it's your right hip
+},
+{
+    199.1,200.94
+     You use it in your left hand
+},
+{
+    200.94,206.0
+     That's one thing that a lot of people get confused. And just walk normal when the right leg is forward,
+},
+{
+    206.0,209.16
+     the cane goes down, taking weight off the painful hip.
+},
+{
+    209.16,211.76
+     We have some videos on how to walk with a cane,
+},
+{
+    211.76,213.3
+     how to adjust and walk with it.
+},
+{
+    213.3,214.4
+     You can look at those.
+},
+{
+    214.4,217.32
+     We wanna do a few more other options here.
+},
+{
+    217.32,221.2
+     The other one is a little pendulum exercise
+},
+{
+    221.2,223.54
+     or a kind of traction on the hip.
+},
+{
+    223.54,225.18
+     So you go up to your stairway,
+},
+{
+    225.18,226.02
+     we don't have a stairway here.
+},
+{
+    226.02,227.88
+     Yeah, this is a great way to start getting some movement
+},
+{
+    227.88,231.24
+     in the hip without hurting.
+},
+{
+    231.24,232.08
+     Right.
+},
+{
+    232.08,235.1
+     So my right side is the painful hip.
+},
+{
+    235.1,236.32
+     So I'm gonna go up with my left.
+},
+{
+    236.32,238.66
+     You're gonna have to, you hang on to the handrail.
+},
+{
+    238.66,241.34
+     In this case, I'm gonna use the bouillousteck for balance
+},
+{
+    241.34,244.96
+     because you need something for balance for most people.
+},
+{
+    244.96,245.0
+     Now I'm gonna let this leg, the sore leg, and bull your stick for balance because you need something for balance for most people.
+},
+{
+    245.0,249.04
+     Now I'm going to let this leg, the sore leg, completely relax.
+},
+{
+    249.04,254.24
+     All the muscles are jello and I'm just going to gently swing it forward and backwards.
+},
+{
+    254.24,259.04
+     And the reason why that hip to relax is the weight of your leg through relaxed muscles
+},
+{
+    259.04,265.72
+     is going to distract or pull the joint apart slightly so you don't have that bone on bone.
+},
+{
+    265.72,266.76
+     A little bit traction.
+},
+{
+    266.76,269.0
+     Right, you get a snowbill fluid.
+},
+{
+    269.0,270.44
+     If that's working out good,
+},
+{
+    270.44,273.4
+     you may want to put a little weight on.
+},
+{
+    273.4,275.32
+     You can use that ankle weight.
+},
+{
+    275.32,278.64
+     Now I've had people just put their winter boots on
+},
+{
+    278.64,279.48
+     up here in the north.
+},
+{
+    279.48,280.32
+     That's a good idea.
+},
+{
+    280.32,283.76
+     You know, a boot usually weighs a pound or two at least.
+},
+{
+    283.76,285.4
+     And you don't have to go out and buy anything.
+},
+{
+    285.4,289.48
+     And then your hip doesn't know if you got a boot down or an ankle weight.
+},
+{
+    289.48,290.48
+     And you do the same thing.
+},
+{
+    290.48,292.8
+     You're going to swing it for a minute or two.
+},
+{
+    292.8,295.12
+     And I find people have success with that.
+},
+{
+    295.12,298.0
+     It's pretty much a temporary thing, but it reduces things.
+},
+{
+    298.0,299.0
+     It's a good way to treat it.
+},
+{
+    299.0,302.64
+     Safety first, and it starts getting some movement in the hip, which you may not have had for
+},
+{
+    302.64,304.32
+     a while because it's been sore.
+},
+{
+    304.32,305.52
+     Right.
+},
+{
+    305.52,307.84
+     Now Bob, let's go on to the next one.
+},
+{
+    307.84,309.72
+     Along with pain in the hip,
+},
+{
+    309.72,310.88
+     particularly with arthritis,
+},
+{
+    310.88,313.6
+     usually there's a loss of range of motion.
+},
+{
+    313.6,315.48
+     Right, you can concur.
+},
+{
+    315.48,316.32
+     Right.
+},
+{
+    316.32,317.96
+     If you happen at the same time, I should say.
+},
+{
+    317.96,320.12
+     And if you can regain that range of motion
+},
+{
+    320.12,320.96
+     in the hip joint,
+},
+{
+    320.96,323.08
+     that can also make you feel better.
+},
+{
+    323.08,325.36
+     It's amazing to me that even if you regain
+},
+{
+    325.36,327.16
+     a little bit of the motion, a lot of times
+},
+{
+    327.16,329.48
+     it knocks the pain down at the same time.
+},
+{
+    329.48,332.92
+     So it really pays to do these stretches.
+},
+{
+    332.92,334.0
+     So let's show them.
+},
+{
+    334.0,335.04
+     Okay, which one do you want to do?
+},
+{
+    335.04,337.2
+     Well, I'll launch it, just, you're gonna have to.
+},
+{
+    337.2,338.76
+     No, I'm gonna get on the way.
+},
+{
+    338.76,339.6
+     Yeah.
+},
+{
+    339.6,340.44
+     You know, this is nice.
+},
+{
+    340.44,341.28
+     You can do this on a laying in bed,
+},
+{
+    341.28,342.36
+     and that's what we recommend.
+},
+{
+    342.36,343.2
+     Wake up and...
+},
+{
+    343.2,344.16
+     You could do it on the floor,
+},
+{
+    344.16,345.56
+     but then you gotta get on the floor. It works just as good in bed. That's what I recommend. Wake up and you could do it on the floor But then you got to get on the floor works
+},
+{
+    345.56,353.64
+     This is good in bed and you know simply lay like this and then you're going to see how far you can bring your knee up and
+},
+{
+    354.56,358.28
+     To your chest now if you can bring this knee all the way up like this
+},
+{
+    358.28,364.8
+     And this one you get about this far and all sudden oh it hurts or there's a we call a hard infill
+},
+{
+    364.8,366.68
+     Doesn't want to go any further.
+},
+{
+    366.68,368.4
+     That's the knee or that's the hip
+},
+{
+    368.4,370.0
+     you're going to want to work on.
+},
+{
+    370.0,372.0
+     So I'm going to do it with the right hip.
+},
+{
+    372.0,374.44
+     Let's say this one goes way up to here
+},
+{
+    374.44,376.4
+     and this one stops here and it's tight.
+},
+{
+    376.4,379.08
+     It's a little painful, but if you stretch on it,
+},
+{
+    379.08,380.12
+     hold and relax.
+},
+{
+    380.12,381.64
+     And after about 10 repetitions,
+},
+{
+    381.64,384.56
+     you notice the hip is starting to go up further
+},
+{
+    384.56,385.0
+     similar to the other leg. Then you're going to want to do that stretch, you know, at least once a day. and after about 10 repetitions you notice the hip is starting to go up further similar
+},
+{
+    385.0,389.96
+     to the other leg, then you're going to want to do that stretch at least once a day, but
+},
+{
+    389.96,394.24
+     I'm going to suggest two or three times a day, assuming it doesn't get real sore from
+},
+{
+    394.24,395.24
+     the stretch.
+},
+{
+    395.24,398.72
+     The first couple of times you stretch it, you may want to give it a weight to one next
+},
+{
+    398.72,399.72
+     day.
+},
+{
+    399.72,401.68
+     And I wouldn't expect that it would react that fast.
+},
+{
+    401.68,405.3
+     It may take weeks or even months before you start to equal
+},
+{
+    405.3,410.98
+     the other one again. That's a tough, fibrous material that is holding the hip together
+},
+{
+    410.98,415.94
+     in the socket, holding the hip in the socket, so it's not always that easy to stretch.
+},
+{
+    415.94,420.5
+     And so along with that one, you may want to check what we call the external rotation of
+},
+{
+    420.5,425.38
+     the hip. And I'm going to go this way so you can see what I'm doing. So with this leg
+},
+{
+    425.38,431.76
+     I'm gonna go over the top of the knee like this and I'm gonna let the knee drop this way.
+},
+{
+    432.2,435.44
+     So you can see this I can go this far and
+},
+{
+    436.76,440.96
+     the hip that has the pain may only go this far as
+},
+{
+    441.68,447.08
+     Opposed to like this like the other leg. So here all we do is gently
+},
+{
+    447.08,453.44
+     push the knee and relax. Pressure on, pressure off and if it feels good to keep
+},
+{
+    453.44,458.04
+     the pressure on you may use that option and hold it 15 to 30 seconds and not
+},
+{
+    458.04,462.84
+     do it as many repetitions. And but don't one or one thing you don't want to do is
+},
+{
+    462.84,465.04
+     is spend 20 minutes stretching your hip
+},
+{
+    465.12,470.32
+     10 repetitions on and off or three times 30 to 60 or 30
+},
+{
+    470.72,476.08
+     15 to 30 seconds is probably a good place and what's nice about that one you actually can do that one seated to
+},
+{
+    476.08,481.26
+     All right, that's gonna actually show how to do hip flexion the other way to you can actually just cross the knee
+},
+{
+    482.12,485.68
+     Cross the ankle over the opposite knee and you go
+},
+{
+    485.68,489.32
+     ahead and just push down like this and give it a bit of a stretch. A lot of
+},
+{
+    489.32,493.48
+     people tell me that a lot of patients that I have that hip hip arthritis, they
+},
+{
+    493.48,497.32
+     can't even get that leg up there. Yeah. I mean that's that's how tight it's become.
+},
+{
+    497.32,500.64
+     Sure. So they might have to even start with the knee down like this a little
+},
+{
+    500.64,505.96
+     lower and press it down but they they know right away what I'm talking about because
+},
+{
+    505.96,509.32
+     like I said they can maybe get the one up there but the other one I can't even get that
+},
+{
+    509.32,513.92
+     up there. So it's a great stretch. You're going to show a hip flexor.
+},
+{
+    513.92,518.52
+     Well before I go to that I just want to mention if taking a warm shower or you know a hot
+},
+{
+    518.52,525.44
+     pad helps. One thing because a hip has got a lot of muscle around it and on the individual there may be other soft tissue kind of
+},
+{
+    526.36,532.46
+     Padding that area sure so you want to one option that you could do is get a
+},
+{
+    533.32,538.28
+     Hot pad that goes in real deep right to do that. You're gonna need an ultra
+},
+{
+    539.56,543.92
+     Infrared infrared that all right, but here we put that there and
+},
+{
+    545.84,546.84
+     infrared, not all the way, but here we put that there and you know Bob is gonna show how deep it is.
+},
+{
+    546.84,550.48
+     I'm gonna show you how this, I always use a demonstration, so this is a thermotex
+},
+{
+    550.48,552.88
+     infrared pad, heating pad.
+},
+{
+    552.88,559.04
+     Now normal heating pads only go skin deep, they just barely penetrate the surface, a
+},
+{
+    559.04,560.38
+     couple millimeters.
+},
+{
+    560.38,563.96
+     This is how far the thermotex goes, 2.36 inches.
+},
+{
+    563.96,571.72
+     So what you can see here, what a big difference that that is that can start to go into the joint itself if I look at mr. Skeleton here mr. Sam
+},
+{
+    573.44,574.68
+     If I'm going through here
+},
+{
+    574.68,578.48
+     You can see how that can start getting into the joint itself where this one
+},
+{
+    578.48,582.2
+     Just is gonna heat up the outer surface and really not do much of anything
+},
+{
+    582.2,586.44
+     so and then you would do that the hot pack for you know
+},
+{
+    586.88,590.48
+     You can go up to 45 minutes with these and do the stretch afterwards
+},
+{
+    590.48,593.88
+     You're probably gonna find the stretch goes much better. That's right warm it up
+},
+{
+    593.88,597.56
+     And you know brand I just use this on a regular basis for our backs
+},
+{
+    597.56,600.52
+     We put them in our chair and we we leave against them
+},
+{
+    600.52,602.88
+     So I'm a thermotext has been really good to us
+},
+{
+    602.88,608.56
+     They have a really great discount for the people our subscribers, right? So we'll put a link below so you can check it out.
+},
+{
+    609.84,613.92
+     The next one now, this is where people are probably more mobile. They got hip pain
+},
+{
+    614.8,619.92
+     and they got fairly good balance. You can go up to a stairwell or in this case a stool,
+},
+{
+    619.92,624.48
+     but I'm going to stretch my right hip. So I'm going to come up to here and I'm going to go like
+},
+{
+    624.48,627.0
+     this and what's going on is my hip is flexing.
+},
+{
+    627.0,632.0
+     See how my knee is coming towards my chest. So that's a lot of hip flexion and it drops in.
+},
+{
+    632.0,635.0
+     You know, this has got to assume you have a good knee too.
+},
+{
+    635.0,639.0
+     But it will stretch your knee if you need some working on that. You get two joints at one.
+},
+{
+    639.0,647.04
+     The stairs work great for the spread. Because I've had even really quite elderly people able to do this one cause they start off on the first step.
+},
+{
+    647.04,649.8
+     They start there and a lot of times there's two railings.
+},
+{
+    649.8,652.48
+     So they have to hang on to.
+},
+{
+    652.48,654.6
+     And I have found most people can do that.
+},
+{
+    654.6,657.36
+     If they climb stairs, they can usually do this stretch.
+},
+{
+    657.36,659.24
+     Yep, as long as there's hand railings.
+},
+{
+    659.24,661.16
+     So it's a fantastic stretch to do.
+},
+{
+    661.16,663.0
+     Now I do mine way up like this.
+},
+{
+    663.0,664.88
+     Cause I'm younger and I'm,
+},
+{
+    664.88,667.7
+     but it really helps, I've got a side joint from so
+},
+{
+    667.7,671.66
+     You know, this is not only just doing the hip. It could be you know working other muscles
+},
+{
+    671.66,675.14
+     Well, what's nice is actually stretching the hip flexure on the opposite side, right?
+},
+{
+    675.14,677.54
+     So you're actually getting two stretches in one here
+},
+{
+    680.54,686.2
+     Which also helps hip pain so yeah, you're getting a double bonus or a great stretch to do.
+},
+{
+    686.2,687.2
+     My mic's falling off.
+},
+{
+    687.2,689.0
+     I don't know if people could hear me.
+},
+{
+    689.0,690.0
+     Oh, wow.
+},
+{
+    690.0,691.0
+     That's all right.
+},
+{
+    691.0,692.0
+     Sorry about that.
+},
+{
+    692.0,693.0
+     My mic's in the air.
+},
+{
+    693.0,694.0
+     My hands are good.
+},
+{
+    694.0,695.0
+     We're good.
+},
+{
+    695.0,696.0
+     All right.
+},
+{
+    696.0,698.0
+     Well, Brad, remember we can fix just about anything.
+},
+{
+    698.0,699.0
+     Except for broken hearts.
+},
+{
+    699.0,700.0
+     But we're working on that.
+},
+{
+    700.0,702.0
+     Yeah, well, we'll figure it out someday.
+},
+{
+    702.0,703.0
+     We'll persist.
+},
+{
+    703.0,704.0
+     All right.
+},
+{
+    704.0,None
+     Thanks for watching.
+},

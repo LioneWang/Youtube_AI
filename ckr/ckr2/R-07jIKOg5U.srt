@@ -1,0 +1,264 @@
+{
+    0.0,7.72
+     Aloha everyone. Today we're talking about blocked tear ducts and blocked tear ducts happen and adults and kids
+},
+{
+    7.72,13.0
+     are gonna talk about babies today because I'm a pediatric ophthalmologist and that's what I do.
+},
+{
+    13.64,15.72
+     So a blocked tear duct, what is it?
+},
+{
+    16.04,21.66
+     That is when you bring your newborn baby home and you notice that their eyes are tearing,
+},
+{
+    21.66,29.92
+     they are swollen shut, there's so much gunk in the eyes and it's constantly running tears down their face. That is a blocked tear
+},
+{
+    29.92,34.32
+     duct and all it is is an extra little piece of membrane, a little tissue that
+},
+{
+    34.32,39.48
+     just didn't open up when the babies were born. Happens in about 5% of newborns so
+},
+{
+    39.48,44.84
+     it's super common. Actually all three of my kids had it and in itself it is not
+},
+{
+    44.84,45.56
+     worrisome.
+},
+{
+    45.56,47.56
+     It doesn't cause any vision damage.
+},
+{
+    47.56,50.72
+     But the thing is you want to make sure that that's actually what it is.
+},
+{
+    50.72,56.6
+     There are a lot of things that can cause tearing, redness, discharge, which are serious.
+},
+{
+    56.6,61.2
+     So you always want to get your baby checked out by a pediatric ophthalmologist or your
+},
+{
+    61.2,64.88
+     pediatrician to make sure that there's not anything more serious going on.
+},
+{
+    64.88,68.02
+     But let's say your pediatrician or your pediatric ophthalmologist did diagnose
+},
+{
+    68.02,74.32
+     your baby with a blocked tear duct. Now what? First, how do you clean it? Eyes are
+},
+{
+    74.32,78.0
+     swollen shut. You want to just be as gentle as possible of course with newborn
+},
+{
+    78.0,82.48
+     skin. So just some cotton tips, you know, some little, you can use little q-tips,
+},
+{
+    82.48,86.6
+     little cotton balls, wet it with warm water,
+},
+{
+    86.6,89.56
+     and just really gently clean the eyelets open,
+},
+{
+    89.56,92.42
+     little washcloth is fine too.
+},
+{
+    92.42,94.48
+     Then the most important thing that you can do
+},
+{
+    94.48,96.52
+     is something called craigler massage.
+},
+{
+    96.52,98.16
+     And what craigler massage is,
+},
+{
+    98.16,101.62
+     is it's a way of increasing the pressure
+},
+{
+    101.62,103.6
+     in the nasal lacrimal system.
+},
+{
+    103.6,106.46
+     You know, where your tears drain in this inner corner,
+},
+{
+    106.46,109.54
+     there's a little hole in the top and bottom called the puncta.
+},
+{
+    109.54,111.18
+     And they go down into your nose
+},
+{
+    111.18,112.38
+     and that's where your tears drain.
+},
+{
+    112.38,114.84
+     So that's why you get a runny nose when you cry.
+},
+{
+    114.84,117.1
+     So in these babies, they've got that little,
+},
+{
+    117.1,120.18
+     like a blocked tear duct is all it is, is like a clogged drain.
+},
+{
+    120.18,122.3
+     So the tears are overflowing,
+},
+{
+    122.3,123.78
+     like a clogged drain through the front.
+},
+{
+    123.78,128.72
+     So we wanna open up that passageway and the massage by actually doing it properly
+},
+{
+    128.72,132.52
+     creates this pressure that kind of sucks everything in and helps open the
+},
+{
+    132.52,137.24
+     passageway up. So you want to do it three types a day, five times each time. So what
+},
+{
+    137.24,140.84
+     you're doing is you're going to push right in the inner corner of the nose
+},
+{
+    140.84,149.24
+     that bony prominence and then you're going to roll your finger down all the way towards your nose. Now unfortunately I've seen a lot of videos
+},
+{
+    149.24,154.0
+     and a lot of blog posts demonstrating the technique of massage for black tear
+},
+{
+    154.0,158.4
+     ducts and and it's incorrect. You're not like rolling your finger all around here
+},
+{
+    158.4,161.92
+     that's not what we're doing. We are actually just really simply applying
+},
+{
+    161.92,168.88
+     pressure and then rolling your finger down. It's not like a massaging motion of the actual hole right there. That's not
+},
+{
+    168.88,174.28
+     it. So you want to do that five times three times a day. The other thing you
+},
+{
+    174.28,177.12
+     know your pediatrician or your pediatric ophthalmologist might recommend
+},
+{
+    177.12,180.76
+     antibiotic ointment. If there's a lot of gunk and there's a lot of crusting and
+},
+{
+    180.76,186.0
+     the baby just can't even open their eyes. Breast milk has also been shown to be effective.
+},
+{
+    186.0,187.92
+     There's a lot of great immunoglobulins.
+},
+{
+    187.92,193.32
+     I actually did that for my kids and I found it even more effective than using the antibiotic
+},
+{
+    193.32,195.0
+     ointment truth be told.
+},
+{
+    195.0,199.72
+     So these are the techniques you want to do for how to actually perform blocked tear duct
+},
+{
+    199.72,200.72
+     effectively.
+},
+{
+    200.72,207.08
+     I'm sorry, cryglar massage, how to perform craigler massage effectively to improve
+},
+{
+    207.08,208.52
+     your baby's symptoms.
+},
+{
+    208.52,214.84
+     95% of the time these blocked tear ducts resolve spontaneously, find themselves with this massage.
+},
+{
+    214.84,216.88
+     If you do the massage, it really will help.
+},
+{
+    216.88,222.96
+     5% of the time we actually have to take a baby to surgery and insert these tiny little
+},
+{
+    222.96,227.24
+     metal tubes through the hole all the way down into the nose to
+},
+{
+    227.24,230.0
+     puncture the membrane open.
+},
+{
+    230.0,234.16
+     But if you do the massage most of the time it is going to help so it's really important
+},
+{
+    234.16,235.16
+     you know the proper technique.
+},
+{
+    235.16,237.08
+     So if you like this video please comment below.
+},
+{
+    237.08,239.46
+     If you have any questions I'm happy to answer.
+},
+{
+    239.46,242.32
+     Please let me know if there are other topics that you want addressed.
+},
+{
+    242.32,246.52
+     I'd love to hear from you guys and like the channel.
+},

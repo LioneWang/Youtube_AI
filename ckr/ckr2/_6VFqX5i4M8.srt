@@ -1,0 +1,476 @@
+{
+    0.0,4.14
+     Hello everyone. Now you probably didn't wake up this morning thinking that you
+},
+{
+    4.14,8.3
+     would need to know how to use a bullet wound first aid kit. But
+},
+{
+    8.3,12.06
+     unfortunately as we have seen with story after story across our country
+},
+{
+    12.06,16.9
+     having that knowledge and the tools could be life saving in a crisis. Michael
+},
+{
+    16.9,19.94
+     Dow is joining us today with that information. Michael, thank you so much
+},
+{
+    19.94,23.1
+     for coming back. Thanks for having me. Now we're talking about these bullet
+},
+{
+    23.1,26.32
+     wound first aid kits and why is this so important for us
+},
+{
+    26.32,27.64
+     to be talking about this?
+},
+{
+    27.64,31.84
+     Well, the National Library of Medicine says that
+},
+{
+    31.84,33.8
+     the amount of blood in the body is dependent
+},
+{
+    33.8,34.96
+     on someone's size and weight.
+},
+{
+    34.96,37.4
+     So a male that weighs in their 150s
+},
+{
+    37.4,40.4
+     only has about a gallon and a half of blood.
+},
+{
+    40.4,47.12
+     So here's an example of basically the maximum amount of blood that you can lose before you
+},
+{
+    47.12,49.72
+     get in serious trouble and you go into shock.
+},
+{
+    49.72,51.8
+     Which is not very much.
+},
+{
+    51.8,57.42
+     So having one of these and the time that we're saving with one of these is definitely crucial.
+},
+{
+    57.42,60.76
+     And I know you're going to show us here in just a few moments kind of how to use one of
+},
+{
+    60.76,65.2
+     these first aid kits, but would you still suggest somebody to still learn CPR
+},
+{
+    65.2,71.12
+     in first aid? Yes, definitely. Even though every kid comes with its own instruction sheet, everyone
+},
+{
+    71.12,75.92
+     should still have Red Cross first aid CPR training. Well, I love that today we're going to actually
+},
+{
+    75.92,79.76
+     see what's inside the kit and you're going to kind of walk us through kind of like a mock what you
+},
+{
+    79.76,83.92
+     would do with the kid if something happened. And my co-host Alex, of course, is going to come
+},
+{
+    83.92,85.0
+     and help us with this. Alex, you're going to basically going to be like something happened. And my co-host Alex, of course, is gonna come and help us with this.
+},
+{
+    85.0,87.84
+     Alex, you're gonna basically going to be a victim.
+},
+{
+    87.84,89.08
+     That's right.
+},
+{
+    89.08,90.8
+     You never know when tragedy is gonna strike,
+},
+{
+    90.8,92.16
+     but luckily we have this kit.
+},
+{
+    92.16,93.48
+     Okay.
+},
+{
+    93.48,95.88
+     So Michael, we're gonna basically simulate
+},
+{
+    95.88,97.56
+     that if he had an injury on his leg, correct?
+},
+{
+    97.56,98.92
+     Yes, on his lower leg.
+},
+{
+    98.92,103.84
+     So first, we're gonna get out the gloves
+},
+{
+    103.84,107.24
+     because you might be doing this on a stranger.
+},
+{
+    107.24,108.56
+     And you don't know.
+},
+{
+    108.56,111.12
+     And it's special about these gloves that you're taking out?
+},
+{
+    111.12,114.92
+     Well they're sterile and they're nitrile gloves.
+},
+{
+    114.92,120.48
+     And the reason why they're nitrile gloves is because of some people do have the latex
+},
+{
+    120.48,122.12
+     allergies.
+},
+{
+    122.12,126.8
+     So you know, we're just trying to prevent any other medical complications
+},
+{
+    126.8,130.96
+     from this kit. So, that's the purpose of the nitrile gloves.
+},
+{
+    130.96,134.68
+     Alright, so we put our gloves on first, like you said, that we may be dealing with the
+},
+{
+    134.68,139.08
+     blood of someone we're not familiar with. So we want to keep ourselves safe as well.
+},
+{
+    139.08,147.84
+     Okay. So, Alex, here I'm about to cut your pants to get to the wound. Here I see it on your leg here.
+},
+{
+    147.84,150.0
+     And these scissors are in the kit,
+},
+{
+    150.0,151.7
+     so we see that it can get through jeans
+},
+{
+    151.7,154.76
+     or any other material we may have to get through in order
+},
+{
+    154.76,155.76
+     to get to the wound.
+},
+{
+    155.76,159.2
+     Yes, and they are EMS shears so that you don't have to worry
+},
+{
+    159.2,162.36
+     about jabbing the person's leg.
+},
+{
+    162.36,166.08
+     So here we're going to take out the clotting sponge.
+},
+{
+    166.08,168.88
+     And Alex, if you can stand up and sit up
+},
+{
+    168.88,171.28
+     and put this on the wound right there.
+},
+{
+    171.28,172.12
+     Hold it in place.
+},
+{
+    172.12,174.08
+     And how does the clotting sponge work, Michael?
+},
+{
+    174.08,179.08
+     It starts a cascade of changes in proteins in the blood
+},
+{
+    179.86,184.86
+     that ends up causing, or protein called fibrin,
+},
+{
+    190.0,192.76
+     to lay down in strips. And here we go.
+},
+{
+    192.76,197.36
+     When the idea here too is that if someone is not fatally wounded yet, they can assist
+},
+{
+    197.36,198.36
+     you by holding this.
+},
+{
+    198.36,200.28
+     Yes, yes.
+},
+{
+    200.28,205.7
+     And I do notice, Michael, that we have two clotting sponges and two dressings in the kit.
+},
+{
+    205.7,208.1
+     Why is that for multiple injuries?
+},
+{
+    208.1,213.18
+     Well, with bullet wounds, what some people don't think about
+},
+{
+    213.18,216.54
+     is that there's going to be an entrance and an exit wound.
+},
+{
+    216.54,219.68
+     Oh, okay. So that's why we have two of each.
+},
+{
+    219.68,222.92
+     Yes. And so here, I'm gonna tie the knot
+},
+{
+    222.92,227.32
+     on top of the wound to keep that pressure there.
+},
+{
+    227.32,232.06
+     So now we're going to take out the second clotting sponge and we're going to simulate
+},
+{
+    232.06,234.08
+     that the exit wound was right there.
+},
+{
+    234.08,240.32
+     If Alex, if you can hold that in place, I'll get that next one out.
+},
+{
+    240.32,248.48
+     And now while we're doing both the entry and the exit wound, I know, Michael, if the clotting and the dressing,
+},
+{
+    248.48,251.2
+     we need something beyond that, still inside the kit,
+},
+{
+    251.2,252.48
+     we have a tourniquet, correct?
+},
+{
+    252.48,253.44
+     Yes.
+},
+{
+    253.44,257.12
+     Now, I know you specifically chose a specific kind of tourniquet
+},
+{
+    257.12,257.52
+     for this.
+},
+{
+    257.52,258.32
+     Why was that?
+},
+{
+    259.52,263.6
+     You'll see in just a little bit, it's got a very long cord
+},
+{
+    264.0,265.74
+     and just a little bit, it's got a very long cord
+},
+{
+    270.74,275.18
+     and it's for, frankly, obese individuals
+},
+{
+    279.34,281.5
+     that have very large thighs. You're gonna wanna have a tourniquet
+},
+{
+    281.5,283.42
+     that will go around the whole thigh.
+},
+{
+    283.42,287.24
+     Okay, so now we've got the kit.
+},
+{
+    288.32,289.76
+     They're on the wound.
+},
+{
+    289.76,291.56
+     No stabs hurt inside the kit,
+},
+{
+    291.56,293.28
+     but this is elevating the leg.
+},
+{
+    293.28,296.24
+     Okay, so right across CPR first aid training,
+},
+{
+    296.24,299.08
+     it says that for a limb, you're gonna elevate it
+},
+{
+    299.08,302.2
+     above the level of the heart to help gravity
+},
+{
+    302.2,303.8
+     lessen the amount of blood loss.
+},
+{
+    303.8,308.12
+     You're gonna put pressure on the wound, which we've already done by tying the nut
+},
+{
+    308.12,311.04
+     on top of the clotting sponge.
+},
+{
+    311.04,316.14
+     And now we're elevating the wound with whatever we can find in the environment.
+},
+{
+    316.14,321.6
+     And if you still see that there's a lot of blood coming out, you're going to do a pressure
+},
+{
+    321.6,322.6
+     point.
+},
+{
+    322.6,328.52
+     And there is a picture on my instruction sheet about the different pressure points and here
+},
+{
+    328.52,332.52
+     it's going to be right underneath the knee. So. And Michael while we're also
+},
+{
+    332.52,335.88
+     doing this before we run out of time if somebody has one of these I know we have
+},
+{
+    335.88,339.08
+     multiple different kits that we can purchase but where's a good place to
+},
+{
+    339.08,343.88
+     keep one once we have it at home? Frankly you can keep it anywhere in your
+},
+{
+    343.88,347.04
+     backpack if you're a student at school,
+},
+{
+    347.04,351.68
+     at work, in your desk, in the car.
+},
+{
+    351.68,354.64
+     OK, so now we're going to simulate
+},
+{
+    354.64,358.08
+     that the blood loss is not stopping.
+},
+{
+    358.08,363.12
+     So we're going to put this string in the hole there.
+},
+{
+    363.12,365.0
+     We're not going to really tie it as tight as we would
+},
+{
+    365.0,367.0
+     to not hurt you like here.
+},
+{
+    367.0,370.0
+     But you're going to tie it as tight as you can.
+},
+{
+    370.0,373.0
+     Well Michael, I know all of this information is inside the kit.
+},
+{
+    373.0,376.0
+     Like we said, we do still recommend that people, you know,
+},
+{
+    376.0,378.0
+     get first aid training and everything that comes along with this.
+},
+{
+    378.0,382.0
+     But we can see how easy it was to use this and kind of follow those steps.
+},
+{
+    382.0,384.0
+     And I want to thank you so much for coming and showing us.
+},
+{
+    384.0,388.4
+     And thank you, Alex, for being our helper and victim for today.
+},
+{
+    388.4,389.84
+     All right, you guys at home right now,
+},
+{
+    389.84,392.96
+     you can actually get 13% off all items.
+},
+{
+    392.96,397.7
+     If you go to www.dce.life.
+},
+{
+    397.7,402.84
+     And if you have any questions, give them a call at 520-861-3394.
+},

@@ -1,0 +1,396 @@
+{
+    0.0,9.56
+     Hi, I'm Gina Solomon.
+},
+{
+    9.56,13.84
+     I am the Trauma Program Manager here at Gwinnett Medical Center.
+},
+{
+    13.84,17.72
+     Uncontrolled life-threatening hemorrhage is one of the leading causes of preventable death
+},
+{
+    17.72,19.8
+     after traumatic injury.
+},
+{
+    19.8,24.84
+     Gwinnett Medical Center is partnering with the National Stop the Bleak campaign to provide
+},
+{
+    24.84,28.2
+     training to bystanders on how to control this life-threatening
+},
+{
+    28.2,33.08
+     hemorrhage. Everyone should know how to identify life-threatening bleeding and
+},
+{
+    33.08,37.16
+     know how to take the appropriate steps to control the bleeding until help
+},
+{
+    37.16,41.56
+     arrives. There are a couple of primary principles to controlling life-threatening
+},
+{
+    41.56,45.52
+     hemorrhage. First off is to ensure your own safety.
+},
+{
+    45.52,48.04
+     It's very important that you make sure you are safe
+},
+{
+    48.04,51.64
+     before you render aid to anyone else.
+},
+{
+    51.64,53.24
+     The second principle is what we call
+},
+{
+    53.24,55.52
+     the ABCs of bleeding control.
+},
+{
+    55.52,58.48
+     A, alert, you wanna call 911.
+},
+{
+    58.48,61.52
+     B, bleeding, be able to identify
+},
+{
+    61.52,62.84
+     the life-threatening bleeding.
+},
+{
+    62.84,64.52
+     And C, compress.
+},
+{
+    64.52,68.12
+     And there's three ways that you can compress the bleeding and we're going to go into detail
+},
+{
+    68.12,70.22
+     about each one of those.
+},
+{
+    70.22,73.16
+     The first principle of the ABC is A, alert.
+},
+{
+    73.16,74.36
+     Call 911.
+},
+{
+    74.36,79.24
+     It is really important that you get the pre-hospital providers en route to take over care while
+},
+{
+    79.24,82.6
+     you render A. B is bleeding.
+},
+{
+    82.6,85.44
+     Being able to identify what is life-threatening bleeding.
+},
+{
+    85.44,88.48
+     If you see bleeding spurting from a wound,
+},
+{
+    88.48,92.52
+     pouring from a wound, clothes that are soaked in blood,
+},
+{
+    92.52,95.76
+     you have bandages that are soaked in blood.
+},
+{
+    95.76,98.68
+     If the person is missing all or part of a limb,
+},
+{
+    98.68,102.52
+     an arm or a leg, or the person is becoming dizzy
+},
+{
+    102.52,106.66
+     or unconscious, those are all signs of life-threatening bleeding.
+},
+{
+    106.66,111.8
+     Wounds that can lead to death from bleeding are often located in the arms and legs,
+},
+{
+    111.8,117.3
+     torso junctional, which is the armpits, the groin, or the neck,
+},
+{
+    117.3,121.0
+     or the chest and the abdomen, or internal bleeding.
+},
+{
+    121.0,130.64
+     Unfortunately with internal bleeding, bystanders cannot really impact those injuries and they need quick access to a trauma center. And then see
+},
+{
+    130.64,138.04
+     compress. There are three ways to compress. First is just holding pressure. It is
+},
+{
+    138.04,142.44
+     really important that if you have access to gloves, you want to put those on
+},
+{
+    142.44,150.56
+     before you render any care. If you can protect yourself from blood-borne pathogens, this is an important safety step. So you'll want
+},
+{
+    150.56,157.56
+     to put your gloves on. And then if you have access to gauze, that is great. But if you
+},
+{
+    160.34,169.08
+     do not, any clean cloth will work. If you have a clean towel, a t-shirt, whatever you may have handy will work just as well.
+},
+{
+    169.08,175.52
+     You want to take the gauze or the clean cloth and fold it and place it directly over the
+},
+{
+    175.52,176.64
+     wound.
+},
+{
+    176.64,182.36
+     You want to put the heel of one hand on the cloth, the heel of your other hand on top of
+},
+{
+    182.36,187.04
+     your first hand and lean in and put as much pressure on the wound as you
+},
+{
+    187.04,193.76
+     can. You want to stay this way until help arrives. Do not peek, you don't want to look, you just want
+},
+{
+    193.76,198.4
+     to hold pressure until the pre-hospital personnel can arrive and take over care.
+},
+{
+    200.56,205.8
+     The second principle of compress is tourniquets. Tourniquets are used when you have life-threatening
+},
+{
+    205.8,212.8
+     bleeding to an arm or a leg. If you have access to a bleeding control kit, they will have
+},
+{
+    212.8,217.92
+     tourniquets in them. This is what's known as a cat tourniquet and is the most common
+},
+{
+    217.92,228.88
+     tourniquet that is placed in those kits. It is a Velcro band, so you just want to unfold the band and take the circle and place it
+},
+{
+    228.88,232.56
+     on the limb over the site of the bleeding.
+},
+{
+    232.56,238.04
+     It's really important that you go above the wound and you also want to go above a knee
+},
+{
+    238.04,239.4
+     or an elbow.
+},
+{
+    239.4,245.92
+     It is okay to put it on top of clothing, just make sure there's nothing bulky in a pocket like keys or such
+},
+{
+    245.92,248.12
+     that would impact the tension
+},
+{
+    248.12,250.08
+     that we're gonna place on the tourniquet.
+},
+{
+    251.08,254.12
+     You want to take the Velcro strap
+},
+{
+    254.12,256.44
+     and tighten it down on the limb.
+},
+{
+    258.52,260.46
+     It just has to be snug.
+},
+{
+    261.36,263.68
+     You are then gonna notice there is a rod
+},
+{
+    263.68,265.16
+     that is attached to the tourniquet.
+},
+{
+    265.16,270.68
+     Once you have the Velcro strap snug on the limb you want to turn the rod as
+},
+{
+    270.68,277.0
+     tight as you can. You're going to twist until you cannot twist anymore and it is
+},
+{
+    277.0,285.56
+     very tight. Once you can no longer tighten the rod, you're going to place it in the C-clip to hold the
+},
+{
+    285.56,288.2
+     rod in place.
+},
+{
+    288.2,293.92
+     You then can take what's left of the strap and place it on top of the rod through the
+},
+{
+    293.92,295.44
+     strap.
+},
+{
+    295.44,302.76
+     Many of the tourniquets will have another Velcro strap that you can place over the C-clamp.
+},
+{
+    302.76,308.0
+     Tourniquets are very painful and it's okay to tell the injured person that this is going to hurt.
+},
+{
+    308.0,309.9
+     You do not want to loosen it.
+},
+{
+    309.9,315.0
+     You want to leave it as is until the pre-hospital providers take over care.
+},
+{
+    315.0,318.4
+     They can give the person pain medicine to help with the pain,
+},
+{
+    318.4,323.3
+     but it is normal for them to feel significant pain after the turnip kit has been placed.
+},
+{
+    323.3,326.6
+     The third principle to compress is wound packing.
+},
+{
+    326.6,329.36
+     Again, if you have access to gauze, that is great,
+},
+{
+    329.36,332.04
+     but if you do not, any clean cloth t-shirt
+},
+{
+    332.04,333.44
+     can be used as well.
+},
+{
+    335.12,338.48
+     What we're gonna do here is actually insert the gauze
+},
+{
+    339.38,342.64
+     or the clean cloth into the wound to stop bleeding.
+},
+{
+    343.96,347.1
+     So you want to take the end of the gauze or cloth
+},
+{
+    347.1,348.98
+     and actually pack the wound.
+},
+{
+    348.98,352.98
+     You want to use your fingers to place the gauze tightly
+},
+{
+    352.98,358.1
+     and as deeply into the wound as you possibly can.
+},
+{
+    358.1,359.7
+     And you're going to continue to pack
+},
+{
+    359.7,363.3
+     until you cannot get any more gauze or cloth into the wound.
+},
+{
+    365.96,369.58
+     Once you have packed it as tightly as you can,
+},
+{
+    369.58,372.06
+     you then want to compress with pressure.
+},
+{
+    372.06,374.98
+     So you want to put what's left of your gauze or t-shirt
+},
+{
+    374.98,378.54
+     on top of the wound, apply the heel of your hand,
+},
+{
+    378.54,380.38
+     the heel of your other hand on top of that
+},
+{
+    380.38,383.26
+     and lean and apply direct pressure.
+},
+{
+    383.26,385.68
+     Again, you do not want to let off of the pressure
+},
+{
+    385.68,389.28
+     until the pre-hospital personnel arrive to take over care.
+},
+{
+    389.28,391.12
+     Bystanders can make a huge impact
+},
+{
+    391.12,392.28
+     with life-threatening bleeding
+},
+{
+    392.28,395.12
+     until first responders can arrive.
+},
+{
+    395.12,397.16
+     The only thing more tragic than a death
+},
+{
+    397.16,399.12
+     is a death that can be prevented.
+},
+{
+    399.12,399.96
+     Thank you.
+},

@@ -1,0 +1,176 @@
+{
+    0.0,23.04
+     Hi, I'm Dr. Matthew Bose and welcome to our video series.
+},
+{
+    23.04,29.0
+     Proper therapy exercises are important for recovery from most orthopedic conditions. I've designed this series
+},
+{
+    29.0,33.0
+     to provide you with up-to-date therapy regimens that you can access at home, in
+},
+{
+    33.0,37.94
+     the gym, or on the road. I hope you find these videos helpful and best of luck in
+},
+{
+    37.94,40.36
+     your recovery.
+},
+{
+    50.52,55.36
+     It's important to start off with light stretching. Here we're stretching up overhead doing what's called a wall slide.
+},
+{
+    55.36,60.72
+     Use your non-operative arm to raise the operative arm, stabilizing it against the wall, or let
+},
+{
+    60.72,66.12
+     your fingers walk up the wall until you feel a gentle stretch. As your
+},
+{
+    66.12,70.84
+     motion improves you can kneel into the wall to get those last little bits of
+},
+{
+    70.84,76.32
+     motion up overhead. Stretching can also be done at this point if it's more
+},
+{
+    76.32,87.8
+     comfortable using table slides. Lean into the stretch. hold it for approximately 20 to 30 seconds relax and
+},
+{
+    87.8,90.16
+     repeat.
+},
+{
+    102.2,110.5
+     This can also be done stretching out to the side with your elbow facing the table and
+},
+{
+    110.5,129.96
+     your shoulder facing that way, leaning over to the side, let your arms stretch out. A post or a wall or a doorway is used to do rotation stretches.
+},
+{
+    129.96,132.68
+     The hand is fixed up against the wall.
+},
+{
+    132.68,156.26
+     The elbow is fixed part of the shoulder.
+},
+{
+    156.26,158.72
+     Early strengthening are done with resistance bands.
+},
+{
+    158.72,165.1
+     These come in multiple colors which give different resistance strengths. You can buy a set of these
+},
+{
+    165.1,172.3
+     easily at a sporting goods store or online. Start with the lightest band and
+},
+{
+    172.3,177.46
+     progress over approximately one to two week interval. Resistance can also be
+},
+{
+    177.46,188.72
+     altered by increasing or decreasing the stretch in the band, stepping closer or further away from its point of fixation.
+},
+{
+    191.28,193.6
+     Gentle strengthening has started with therabands.
+},
+{
+    196.88,207.8
+     Fix the theraband under your foot and lift up in front of your body and then 45 degrees out to the side, alternating these movements.
+},
+{
+    207.8,212.8
+     Tension in the band can be adjusted by length of the band.
+},
+{
+    212.8,218.08
+     Lift your arms smoothly and evenly, controlled manner up to but not above shoulder level,
+},
+{
+    218.08,231.68
+     and hold that position for a two count. Keep your elbow against your side.
+},
+{
+    231.68,247.0
+     Rotate from your stomach out to the side to strengthen an external rotation. Hold the final position for one or two counts.
+},
+{
+    254.28,259.88
+     To strengthen the back part of the shoulder, start with your arm out fully extended and
+},
+{
+    259.88,264.96
+     then bring your elbow back just to the side of your body.
+},
+{
+    264.96,266.48
+     Slow and controlled. Hold the
+},
+{
+    266.48,271.64
+     final position. Try not to bring your elbow back much further than the plane
+},
+{
+    271.64,278.12
+     of your body. Do shrugs.
+},
+{
+    278.4,283.88
+     Raise your shoulder blades on both sides. Hold in the fully elevated position for
+},
+{
+    283.88,287.0
+     a one-to to two count.
+},
+{
+    291.4,297.24
+     Scapular strengthening is done by doing retraction exercises as shown here. Try and pinch the
+},
+{
+    297.24,304.24
+     shoulder blades together, bringing your elbows back, pinching the shoulder blades and holding
+},
+{
+    307.0,308.0
+     bringing your elbows back, pinching the shoulder blades and holding for a two to three count.
+},
+{
+    312.0,318.0
+     This begins to strengthen the muscles around your shoulder blade.
+},
+{
+    323.0,326.0
+     With your hands stabilized on the table, rotate your torso forward. try and feel your shoulder blade rotating
+},
+{
+    326.0,332.24
+     forward on your rib cage by activating the muscles around the shoulder blade.
+},
+{
+    334.4,336.88
+     Hold in that stretch position for a two count.
+},
+{
+    340.72,344.8
+     Retraction exercises are also performed with the hand stable,
+},
+{
+    347.0,350.74
+     Retraction exercises are also performed with the hand stable. Slowly pulling that shoulder girdle back.
+},
+{
+    350.74,367.0
+     Feel the shoulder blade move on the rib cage. Thank you.
+},
