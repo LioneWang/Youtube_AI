@@ -8,6 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import math
+
 # 定义文件路径和目录
 train_file = 'train.json'
 subtitle_dir = 'ckr2'  # 修改为实际字幕文件夹名
@@ -141,20 +142,17 @@ current_question = None
 current_prediction = []
 current_subtitles = []
 
-
 def format_time(seconds):
     """将秒数转换为分钟:秒格式"""
     minutes = int(seconds // 60)
     seconds = int(seconds % 60)
     return f"{minutes:02}:{seconds:02}"
 
-
 def count_sentences(text):
     """计算文本中的句子数量"""
     # 定义句子的分隔符
     sentence_endings = re.compile(r'[,.!?]')
     return len(sentence_endings.findall(text))
-
 
 def calculate_iou(true_start, true_end, pred_start, pred_end):
     """计算真实值和预测值的 IOU"""
@@ -164,110 +162,25 @@ def calculate_iou(true_start, true_end, pred_start, pred_end):
     union = max(true_end, pred_end) - min(true_start, pred_start)
     return intersection / union if union > 0 else 0
 
-
 # 用于跟踪 IOU 的总和和计数
 iou_total = 0
 iou_count = 0
 
-for batch in test_loader:
-    input_ids = batch['input_ids'].to(device)
-    question = batch['question'][0]
-    subtitles = batch['subtitles']
+def process_prediction(current_question, current_prediction, current_subtitles):
+    if not current_question:
+        return
 
-    with torch.no_grad():
-        preds = model.generate(input_ids,
-                               num_beams=5,  # 使用 beam search 来增加生成的多样性
-                               no_repeat_ngram_size=2,  # 防止重复的 n-gram
-                               max_length=512,  # 生成文本的最大长度
-                               min_length=100,  # 生成文本的最小长度
-                               length_penalty=1.0,  # 长度惩罚
-                               early_stopping=True)  # 提前停止
-
-        decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
-
-    if current_question is None:
-        current_question = question
-        current_subtitles = subtitles
-
-    if question == current_question:
-        # 追加预测结果
-        current_prediction.extend(decoded_preds)
-    else:
-        # 输出之前的问题的结果
-        merged_prediction = " ".join(current_prediction).replace(' .', '.').strip()
-
-        # 计算预测结果中的句子数量
-        num_sentences = count_sentences(merged_prediction)
-
-        example = next(item for item in train_data if item['question'] == current_question)
-        two_thirds = (1 / 2) * num_sentences
-        result = math.ceil(two_thirds)
-        # 找出与预测答案最相似的前三个字幕片段
-        top_n_subtitles = find_top_n_similar_subtitles(merged_prediction, current_subtitles,
-                                                       top_n=result or 3)  # 至少选取3个
-
-        if top_n_subtitles:
-            # 排序三句字幕片段的时间戳
-            top_n_subtitles.sort(key=lambda sub: sub[0])  # 按起始时间排序
-
-            # 合并内容
-            merged_content = ''
-            try:
-                # 确保 sub[2] 是字幕内容字符串
-                merged_content = ' '.join(sub[2] for sub in top_n_subtitles if isinstance(sub[2], str))
-            except TypeError as e:
-                print(f"Error: The elements in top_n_subtitles are not as expected: {e}")
-                print("top_n_subtitles:", top_n_subtitles)
-                merged_content = 'Error processing subtitles.'
-
-            # 确定最终的起始和终止时间
-            start_time = float(top_n_subtitles[0][0])
-            end_time = float(top_n_subtitles[-1][1])
-
-            # 提取时间并格式化
-            true_start = example['answer_start_second']
-            true_end = example['answer_end_second']
-            formatted_true_start = format_time(true_start)
-            formatted_true_end = format_time(true_end)
-            formatted_pred_start = format_time(start_time)
-            formatted_pred_end = format_time(end_time)
-
-            # 计算 IOU
-            iou = calculate_iou(true_start, true_end, start_time, end_time)
-
-            # 更新 IOU 总和和计数
-            iou_total += float(iou)
-            iou_count += 1
-
-            # 计算当前平均 IOU
-            average_iou = iou_total / iou_count if iou_count > 0 else 0
-
-            print(f"问题: {current_question}")
-            print(f"真实答案: {formatted_true_start} - {formatted_true_end}")
-            print(f"预测答案: {merged_prediction}")
-            print(f"预测结果中的句子数量: {num_sentences} {result}")
-            print(f"最相似的字幕时间: {formatted_pred_start} - {formatted_pred_end}")
-            print(f"IOU: {float(iou):.2f}")
-            print(f"当前平均 IOU: {average_iou:.2f}")
-            print("-" * 50)
-
-        # 重置当前问题和预测结果
-        current_question = question
-        current_prediction = decoded_preds
-        current_subtitles = subtitles
-
-# 处理最后一个问题
-if current_question is not None:
     merged_prediction = " ".join(current_prediction).replace(' .', '.').strip()
 
     # 计算预测结果中的句子数量
     num_sentences = count_sentences(merged_prediction)
 
     example = next(item for item in train_data if item['question'] == current_question)
+    two_thirds = (1 / 2) * num_sentences
+    result = math.ceil(two_thirds)
 
     # 找出与预测答案最相似的前三个字幕片段
-    top_n_subtitles = find_top_n_similar_subtitles(merged_prediction, current_subtitles,
-                                                   top_n=num_sentences or 3)  # 至少选取3个
+    top_n_subtitles = find_top_n_similar_subtitles(merged_prediction, current_subtitles, top_n=result or 3)  # 至少选取3个
 
     if top_n_subtitles:
         # 排序三句字幕片段的时间戳
@@ -299,6 +212,7 @@ if current_question is not None:
         iou = calculate_iou(true_start, true_end, start_time, end_time)
 
         # 更新 IOU 总和和计数
+        global iou_total, iou_count
         iou_total += float(iou)
         iou_count += 1
 
@@ -313,3 +227,39 @@ if current_question is not None:
         print(f"IOU: {float(iou):.2f}")
         print(f"当前平均 IOU: {average_iou:.2f}")
         print("-" * 50)
+
+# 处理每个批次的数据
+for batch in test_loader:
+    input_ids = batch['input_ids'].to(device)
+    question = batch['question'][0]
+    subtitles = batch['subtitles']
+
+    with torch.no_grad():
+        preds = model.generate(input_ids,
+                               num_beams=5,  # 使用 beam search 来增加生成的多样性
+                               no_repeat_ngram_size=2,  # 防止重复的 n-gram
+                               max_length=512,  # 生成文本的最大长度
+                               min_length=100,  # 生成文本的最小长度
+                               length_penalty=1.0,  # 长度惩罚
+                               early_stopping=True)  # 提前停止
+
+        decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
+
+    if current_question is None:
+        current_question = question
+        current_subtitles = subtitles
+
+    if question == current_question:
+        # 追加预测结果
+        current_prediction.extend(decoded_preds)
+    else:
+        # 处理之前的问题的预测结果
+        process_prediction(current_question, current_prediction, current_subtitles)
+
+        # 重置当前问题和预测结果
+        current_question = question
+        current_prediction = decoded_preds
+        current_subtitles = subtitles
+
+# 处理最后一个问题
+process_prediction(current_question, current_prediction, current_subtitles)
