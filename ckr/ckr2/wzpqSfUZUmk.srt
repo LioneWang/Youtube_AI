@@ -1,0 +1,340 @@
+{
+    0.0,7.18
+     Hi everybody, I'm Dr. Joe Nemeth. I'm a periodontist in Southfield, Michigan and I wanted to talk
+},
+{
+    7.18,15.04
+     a little bit today about swollen gums. What can cause swollen gums? Well, the most common
+},
+{
+    15.04,22.76
+     cause of swollen gums is gum disease, gingivitis or periodontitis, which is really bacteria
+},
+{
+    22.76,26.84
+     that cause an infection in the gums and that infection
+},
+{
+    26.84,33.64
+     causes the gums to swell. Another cause can be ill-fitting or poor-fitting
+},
+{
+    33.64,39.28
+     dentures or appliances like partial dentures. Those partial dentures or
+},
+{
+    39.28,43.64
+     those appliances can be actually irritating the gum tissue depending on
+},
+{
+    43.64,47.0
+     how they fit and how they're touching the tissue.
+},
+{
+    47.0,55.0
+     And they can irritate the tissue and cause swelling. Also medications, particularly high blood pressure medication,
+},
+{
+    55.0,66.8
+     very commonly can cause enlarged or swollen gum tissue. Sometimes an individual could be sensitive to certain toothpaste or the component in certain toothpaste.
+},
+{
+    66.8,73.3
+     That sometimes can be irritating or set off enlargement or swelling of the gum tissue.
+},
+{
+    73.3,86.36
+     Another cause could be food particles, particularly popcorn kernels or something like that that get under the gum tissue can cause irritation, not just irritation and swelling, but they actually can cause bone destruction
+},
+{
+    86.36,90.48
+     once that swelling and irritation gets started under there.
+},
+{
+    90.48,93.88
+     Smoking or vaping can irritate the tissue.
+},
+{
+    93.88,97.64
+     What happens is the nicotine from the tobacco product
+},
+{
+    97.64,101.2
+     actually reduces the blood supply to the gum tissue,
+},
+{
+    101.2,103.8
+     making it more susceptible to bone destruction
+},
+{
+    103.8,105.44
+     and gum disease and can also contribute to swollen or infected gum tissue, making it more susceptible to bone destruction and gum disease and can
+},
+{
+    105.44,109.22
+     also contribute to swollen or infected gum tissue.
+},
+{
+    109.22,114.78
+     So the most important thing is really not brushing or cleaning your teeth or flossing
+},
+{
+    114.78,116.22
+     properly.
+},
+{
+    116.22,123.02
+     Generally is a primary cause of gum swelling or periodontal disease.
+},
+{
+    123.02,125.72
+     So let's talk about some of the things that you can do to
+},
+{
+    126.28,131.16
+     stop, prevent, or minimize or reduce the swollen gum tissue.
+},
+{
+    131.16,138.16
+     Well, the first thing is flossing, thoroughly brushing, thoroughly. If you do that, that will go a long way
+},
+{
+    138.48,140.48
+     towards reducing the problem.
+},
+{
+    140.74,146.16
+     Also, a too soft toothbrush. You know, soft toothbrushes are good and that's what we
+},
+{
+    146.16,151.6
+     recommend, particularly if you have gum recession, but sometimes if the toothbrush is too soft,
+},
+{
+    151.6,157.52
+     the tissue doesn't receive the stimulation that it should. And without that stimulation,
+},
+{
+    157.52,163.12
+     it's not as healthy as it can be. And so sometimes going to a slightly firmer brush actually
+},
+{
+    163.12,167.34
+     can be helpful. So the use of a water pick or water irrigating device,
+},
+{
+    167.34,169.12
+     I use it twice a day myself.
+},
+{
+    169.12,171.46
+     I think that's enormously helpful.
+},
+{
+    171.46,173.8
+     And I think using it on the highest pressure,
+},
+{
+    173.8,175.74
+     getting it up to the highest pressure
+},
+{
+    175.74,177.3
+     is really the way to go,
+},
+{
+    177.3,179.42
+     starting off on low and over a period of time,
+},
+{
+    179.42,181.02
+     building up to the highest pressure.
+},
+{
+    181.02,183.18
+     Also, let's talk about medication.
+},
+{
+    183.18,185.56
+     As I mentioned, certain medications
+},
+{
+    185.56,190.4
+     for high blood pressure particularly, you know, we see high, we see swollen gum tissue
+},
+{
+    190.4,197.72
+     in these people and switching those medications to non-calcium channel blockers. If that can
+},
+{
+    197.72,202.28
+     be done, which frequently it can, can help a lot. As long as you keep your blood pressure
+},
+{
+    202.28,210.12
+     under control, I think it could be very valuable to switch blood pressure medications to something that's not a calcium channel
+},
+{
+    210.12,216.12
+     blocker. If you may be allergic to certain toothpaste, you can try switching toothpaste
+},
+{
+    216.12,227.1
+     or using no toothpaste at all. Actually, I do not use toothpaste myself. Toothpaste for the most part is really not necessary
+},
+{
+    227.1,231.7
+     in most individuals and I generally don't use toothpaste.
+},
+{
+    231.7,235.86
+     In fact, sometimes toothpaste can actually cause abrasion
+},
+{
+    235.86,240.86
+     or erosion of the enamel surface and cause notching
+},
+{
+    241.0,242.94
+     and contribute to recession.
+},
+{
+    242.94,245.6
+     But you might try switching toothpaste,
+},
+{
+    245.6,247.0
+     and if you still have a problem,
+},
+{
+    247.0,249.2
+     you could try using no toothpaste at all.
+},
+{
+    249.2,250.9
+     Make sure you get your teeth cleaned.
+},
+{
+    250.9,254.28
+     A thorough dental cleaning will go a long way
+},
+{
+    254.28,256.84
+     towards reducing swollen gum tissue.
+},
+{
+    256.84,261.54
+     So avoid tobacco products, smoking,
+},
+{
+    261.54,264.12
+     cigar smoking, pipe smoking,
+},
+{
+    264.12,268.16
+     particularly snooze or chewing tobacco, which can really
+},
+{
+    268.16,270.28
+     cause damage to the gum tissue.
+},
+{
+    270.28,274.8
+     I've seen precancerous lesions related to chewing tobacco.
+},
+{
+    274.8,280.4
+     Avoid eating popcorn if you're having problems with food getting trapped under your gums,
+},
+{
+    280.4,282.8
+     particularly popcorn.
+},
+{
+    282.8,285.48
+     Sometimes if your teeth aren't tight together, you have open
+},
+{
+    285.48,290.04
+     contacts as they call it. Food can get jammed down in there, in which case you
+},
+{
+    290.04,295.28
+     might need a filling to close that open contact. As I said, one of the most common
+},
+{
+    295.28,299.16
+     and probably the most common cause of swollen gum tissue is periodontal
+},
+{
+    299.16,304.72
+     disease or periodontitis. That can be treated. We use a laser, it's not painful,
+},
+{
+    304.72,306.88
+     it's very effective in destroying
+},
+{
+    306.88,311.92
+     the bacteria that cause that swollen gum tissue and teaching you how to take care of your mouth so
+},
+{
+    311.92,316.8
+     that that disease does not recur and get your mouth healthy and teach you how to take care of
+},
+{
+    316.8,323.12
+     your mouth so it doesn't come back again. At any rate, swollen gums are almost always a sign of an
+},
+{
+    323.12,326.64
+     unhealthy situation for various reasons.
+},
+{
+    326.64,331.6
+     And remember, if your mouth's not healthy, you are not going to be as healthy as you could be.
+},
+{
+    331.6,335.28
+     So if you have a healthier mouth, you are going to have a healthier body.
+},
+{
+    335.28,339.84
+     If you have swollen gums, look into it, see if you can figure out.
+},
+{
+    339.84,344.16
+     See your dentist. They can help you. We're here to help you.
+},
+{
+    344.16,345.98
+     We'd love to hear from you.
+},
+{
+    345.98,348.34
+     Subscribe to our YouTube channel.
+},
+{
+    348.34,349.34
+     We love you.
+},
+{
+    349.34,350.34
+     We want to take care of you.
+},
+{
+    350.34,353.26
+     We want you to be in the best health you possibly can be.
+},
+{
+    353.26,355.22
+     Hey, have a great day.
+},
+{
+    355.22,357.3
+     Restore your smile and your health.
+},
+{
+    357.3,361.02
+     Visit DrNemith.com to schedule your appointment today.
+},

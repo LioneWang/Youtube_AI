@@ -1,0 +1,328 @@
+{
+    0.0,2.4
+     Hey everyone, it's Sarah the Register Nurse, arian.com.
+},
+{
+    2.4,7.04
+     And in this video, I'm going to give you some tips on how to count a respiratory rate.
+},
+{
+    7.04,11.56
+     So counting a respiratory rate seems like a pretty simple skill, but it can be tricky,
+},
+{
+    11.56,14.68
+     especially if you're first starting out and you're trying to collect all those other
+},
+{
+    14.68,17.32
+     vital signs on top of your respiratory rate.
+},
+{
+    17.32,22.52
+     Plus, some patients, it's easy to count the respiratory rate, while in others, it's not.
+},
+{
+    22.52,25.76
+     First let's quickly review how to count a respiratory rate.
+},
+{
+    25.76,32.16
+     So a normal respiratory rate in an adult is about 12 to 20 breaths per minute. But not only are we
+},
+{
+    32.16,37.2
+     counting that rate, we're looking to see if the breathing is labored or unlabored. An example of
+},
+{
+    37.2,45.4
+     labored breathing would be like this. And notice how the patient's chest, we can really see it moving up and down.
+},
+{
+    45.4,48.8
+     They're using their mouth to breathe in and breathe out.
+},
+{
+    48.8,53.88
+     Also we're looking at if the breathing is irregular or regular.
+},
+{
+    53.88,58.08
+     So irregular breathing would be patients taking a breath here and there.
+},
+{
+    58.08,60.4
+     It's not on this consistent rate.
+},
+{
+    60.4,64.24
+     They may like take a breath in and out, in and out, and then there's a pause and then
+},
+{
+    64.24,66.32
+     they'll breathe again here and there a
+},
+{
+    66.84,73.46
+     Regular rate would be there's a consistent rhythm to that breathing now if the rate is regular
+},
+{
+    73.46,77.08
+     You'll want to count for 30 seconds and multiply by two
+},
+{
+    77.36,82.4
+     However, if the rate is irregular you'll want to count for one complete minute
+},
+{
+    82.44,85.04
+     So when you go to count the respiratory rate, you want to
+},
+{
+    85.04,91.04
+     make sure that you are doing it manually rather than going by the number that's on the monitor.
+},
+{
+    91.04,96.16
+     Because as a nurse, I have found that that number that that monitor gives you is usually not the
+},
+{
+    96.16,101.36
+     rate that your patient is breathing. So always double check that. Now, whenever you do go to
+},
+{
+    101.36,108.6
+     count the respiratory rate, you want to make sure that the patient isn't really aware at that time that you're counting the respiratory rate because they
+},
+{
+    108.6,111.2
+     will alter the way that they're breathing.
+},
+{
+    111.2,114.56
+     It's just like if I told you I'm going to count how many times you blink.
+},
+{
+    114.56,117.4
+     You are going to alter how much you are blinking.
+},
+{
+    117.4,119.0
+     You will change it.
+},
+{
+    119.0,124.04
+     So whenever you do this skill, you want to combine it with checking the pulse rate.
+},
+{
+    124.04,125.36
+     So you'll fill on the side, the radial side checking the pulse rate. So you'll fill on
+},
+{
+    125.36,129.76
+     the side, the radial side, the pulse rate, count that like you normally would. But then
+},
+{
+    129.76,133.6
+     you're going to keep your finger on that side and count the respiratory rate. But the patient
+},
+{
+    133.6,139.04
+     thinks that you're counting their pulse rate still. And what you're looking for is the rise
+},
+{
+    139.04,147.12
+     and the fall of the chest. One rise and one fall of the chest equals one breath. But this is where the tricky
+},
+{
+    147.12,152.72
+     part comes into play because it's like how do I determine what's a rise and what's a fall of the
+},
+{
+    152.72,158.24
+     chest so I can count one breath. And here are some tips to help you do that. Now with these tips,
+},
+{
+    158.24,162.8
+     you're going to find in practice that some of these tips work great on some patients while
+},
+{
+    162.8,167.76
+     others you may have to change it up a bit because every patient is built differently.
+},
+{
+    167.76,171.4
+     They're going to be wearing different clothes like some patients are going to wear gowns.
+},
+{
+    171.4,175.4
+     Some may not even have a gown on and some may be wearing their regular street clothes.
+},
+{
+    175.4,179.64
+     And a lot of patients they have different disease processes going on.
+},
+{
+    179.64,183.88
+     So one thing I like to do if I know this patient it's going to be hard to count their
+},
+{
+    183.88,184.88
+     respiratory rate.
+},
+{
+    184.88,185.64
+     I'm going to get down at the to be hard to count their respiratory rate.
+},
+{
+    185.64,189.52
+     I'm going to get down at the level of their chest, like their shoulder and chest area,
+},
+{
+    189.52,191.44
+     and their abdominal level.
+},
+{
+    191.44,195.12
+     Because I'm looking at that rise and that fall of that chest.
+},
+{
+    195.12,198.92
+     I'm getting down here looking at that while I'm checking that pulse rate.
+},
+{
+    198.92,201.8
+     So I start out in that position.
+},
+{
+    201.8,205.92
+     And some patients, it's really easy to tell depending on how they breathe. Like the
+},
+{
+    205.92,213.04
+     shoulder area will move up and down, the chest area will move back and forth, or the abdominal area
+},
+{
+    213.04,217.92
+     will go up and down. Now if your patient has like a severe disease process where the respiratory
+},
+{
+    217.92,223.44
+     system's being affected, like with congestive heart failure, a lot of fluid volume overload,
+},
+{
+    223.44,230.08
+     they have trouble breathing. So they're going to use these abdominal muscles to help pull in and out that air. You can actually
+},
+{
+    230.08,235.36
+     just see the abdomen going in and out. So that's really helpful whenever you're trying to figure
+},
+{
+    235.36,240.88
+     out the rate. Another tip you could do, but I would use this with discretion, depending on your
+},
+{
+    240.88,246.16
+     patient and how they are, would be whenever you go to feel that pulse rate,
+},
+{
+    246.16,248.66
+     you can lightly put your hand on their back,
+},
+{
+    248.66,250.44
+     on their chest or whatever,
+},
+{
+    250.44,254.32
+     so you can feel the rise and the fall of the chest.
+},
+{
+    254.32,255.76
+     But with some patients,
+},
+{
+    255.76,257.4
+     like if they're agitated, confused,
+},
+{
+    257.4,259.64
+     or there's just someone who really doesn't want you
+},
+{
+    259.64,260.84
+     in their personal space,
+},
+{
+    260.84,261.7
+     you wouldn't want to use this,
+},
+{
+    261.7,263.36
+     but with some patients, you can.
+},
+{
+    263.36,268.08
+     And my last tip would be to group it with your physical assessment.
+},
+{
+    268.08,271.84
+     Whenever you're going to assess the chest, you're going to listen to heart sounds and
+},
+{
+    271.84,272.84
+     lung sounds.
+},
+{
+    272.84,276.12
+     What you want to do is tell the patient, I'm going to listen to your heart sounds for
+},
+{
+    276.12,279.04
+     one full minute.
+},
+{
+    279.04,282.6
+     While you're there listening to both heart sounds and lung sounds, they're not going
+},
+{
+    282.6,289.94
+     to think that something's wrong. You're going to take your stethoscope and first you can listen to their breath sounds
+},
+{
+    289.94,292.28
+     and count that rate.
+},
+{
+    292.28,295.72
+     It's best to try to pick an area that you want to count that rate where there's not
+},
+{
+    295.72,300.16
+     a lot of adipose tissue because that can really muffle those breath sounds.
+},
+{
+    300.16,307.44
+     So generally at that second to fourth intercostal space anteriorly about mid-covicular, that could
+},
+{
+    307.44,313.28
+     be a great place to count those breath sounds. But again, it really depends on how your patient is
+},
+{
+    313.28,318.48
+     built. Then after you count that rate, then you can proceed and listen to their heart sounds.
+},
+{
+    318.48,323.2
+     Okay, so that wraps up this video on some tips for counting the respiratory rate. And be sure to
+},
+{
+    323.2,328.8
+     check out my other videos such as a head toto-toe assessment, how to assess heart and lung sounds along
+},
+{
+    328.8,334.12
+     with audio clips of abnormal lung sounds.
+},

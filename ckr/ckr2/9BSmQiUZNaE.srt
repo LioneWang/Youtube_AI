@@ -1,0 +1,132 @@
+{
+    0.0,8.46
+     Now let's cover healthcare provider level rescue breathing for the child patient.
+},
+{
+    8.46,13.8
+     The scene is safe, our gloves are on, our one-way valve CPR shield is available.
+},
+{
+    13.8,17.84
+     We notice that the child is down and we call out, child are you okay?
+},
+{
+    17.84,19.56
+     Child, can you hear me?
+},
+{
+    19.56,22.88
+     There's no response, they do not appear to be breathing normally.
+},
+{
+    22.88,31.22
+     We activate the emergency medical services or call 911 or call a code. Now I'm going to check for a carotid pulse. If it's
+},
+{
+    32.3,36.44
+     hard to feel the pulse, tilt the head back and it will open up that carotid artery a
+},
+{
+    36.44,42.54
+     little better. But I do easily feel a carotid pulse. The pulse is present. But the patient
+},
+{
+    42.54,49.82
+     is not breathing or not breathing normally. So I'm going to begin rescue breaths. We're going to give rescue breaths with our mask,
+},
+{
+    49.82,54.16
+     one breath every three seconds, and we're going to continue the one breath every three
+},
+{
+    54.16,59.2
+     seconds for a total of two minutes. After two minutes, we're going to reassess for a
+},
+{
+    59.2,64.08
+     carotid pulse. If the pulse is still present, but the patient is not breathing, we're going
+},
+{
+    64.08,67.72
+     to continue rescue breathing for another two minutes.
+},
+{
+    67.72,72.64
+     If at some point in the two minute checks we find there is no pulse, no breathing, we
+},
+{
+    72.64,74.12
+     move to CPR.
+},
+{
+    74.12,77.36
+     But in this case, we're going to continue rescue breathing until the emergency medical
+},
+{
+    77.36,78.4
+     services arrive.
+},
+{
+    78.4,84.56
+     The scene is safe, my gloves are on, my shield is available.
+},
+{
+    84.56,86.24
+     Hey child, are you okay?
+},
+{
+    86.24,87.24
+     You're okay?
+},
+{
+    87.24,90.0
+     There's no response, they don't appear to be breathing.
+},
+{
+    90.0,94.62
+     You in the plaid shirt, go call 911 or activate the emergency medical services or call a code
+},
+{
+    94.62,101.6
+     and come back, I might need your help.
+},
+{
+    101.6,104.36
+     I do easily feel a pulse but they're not breathing.
+},
+{
+    104.36,108.68
+     I'm going to start rescue breathing.
+},
+{
+    108.68,111.68
+     One one thousand, two one thousand, three one thousand.
+},
+{
+    111.68,115.36
+     One one thousand, two one thousand.
+},
+{
+    115.36,119.32
+     One one thousand, two one thousand.
+},
+{
+    119.32,123.12
+     One one thousand, two one thousand.
+},
+{
+    123.12,127.0
+     About two minutes goes by. I'm going to check a pulse.
+},
+{
+    127.0,131.0
+     Pulse is still present, but the patient is not breathing. Continue rescue breathing.
+},
+{
+    131.0,135.0
+     If after two minutes I check a pulse, there is no pulse, there's no breathing,
+},
+{
+    135.0,140.0
+     I'll begin CPR and wait for an AED or the emergency medical services to respond.
+},

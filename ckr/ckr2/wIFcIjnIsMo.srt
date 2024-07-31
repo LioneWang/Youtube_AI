@@ -1,0 +1,128 @@
+{
+    0.0,4.0
+     When dealing with an open fracture, please refer to your local protocols.
+},
+{
+    4.0,9.0
+     In this case, we're going to be looking at a lower leg fracture that's open.
+},
+{
+    11.0,14.0
+     Your first consideration is to control the bleeding.
+},
+{
+    14.0,19.0
+     I have 5x9 dressing that I'll place over the fracture site,
+},
+{
+    19.0,22.0
+     and I'll apply direct pressure.
+},
+{
+    23.0,28.18
+     Once the bleeding has been controlled,
+},
+{
+    28.18,32.5
+     you can wrap a cling right around the site.
+},
+{
+    32.5,35.38
+     You don't want to wrap this too tight so that you cut off circulation.
+},
+{
+    43.74,47.92
+     If the bleeding has not been controlled at this point, don't take the dressing off.
+},
+{
+    47.92,61.76
+     Just reapply another dressing and more pressure and keep adding onto it.
+},
+{
+    61.76,63.68
+     Once this is done, you're going to want to apply the splint.
+},
+{
+    63.68,66.08
+     This is going to help control bleeding a little bit more.
+},
+{
+    69.08,71.24
+     And also make it more comfortable for the patient.
+},
+{
+    71.96,75.48
+     When using a splint, use a rigid splint with a soft side.
+},
+{
+    75.48,79.52
+     You're going to put the soft side against the patient.
+},
+{
+    79.52,82.9
+     And you're going to want to find an appropriate size splint
+},
+{
+    83.62,85.4
+     that uses the joint above the
+},
+{
+    85.4,91.12
+     break and also the joint below the break.
+},
+{
+    91.12,94.64
+     If available, use one splint on either side.
+},
+{
+    94.64,99.0
+     There's many ways you can place a splint on the patient.
+},
+{
+    99.0,101.48
+     I'm going to use triangular bandages.
+},
+{
+    101.48,108.86
+     You can use tape. When using triangular bandages, make sure that the
+},
+{
+    108.86,113.68
+     knot goes actually on the splint itself and not against the patient's skin.
+},
+{
+    113.68,119.68
+     You're simply going to use an overhand knot and I like to double it up because
+},
+{
+    119.68,128.48
+     it keeps it from moving once it's been tightened. And then I like to use a square knot.
+},
+{
+    132.44,139.66
+     Make sure you place the first one above the joint, the next one above the break
+},
+{
+    139.66,182.0
+     itself. and one below the brake.
+},
+{
+    182.0,186.56
+     It's also imperative that before and after you splint a break that you check for pulse
+},
+{
+    186.56,188.28
+     motor and sensory.
+},
+{
+    188.28,191.48
+     That can be done by checking the pulse here.
+},
+{
+    191.48,193.16
+     Can you feel me touching you?
+},
+{
+    193.16,194.68
+     And can you please move your toes?
+},

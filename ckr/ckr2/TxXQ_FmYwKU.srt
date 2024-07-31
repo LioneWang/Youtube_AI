@@ -1,0 +1,108 @@
+{
+    0.0,12.36
+     Okay, this is our night splint here at the Kansas Foot Center.
+},
+{
+    12.36,25.0
+     This is for treatment at night of the plantar fasciitis to help keep it stretched out. undo all the velcro straps.
+},
+{
+    31.0,34.0
+     And then this can actually be worn on either foot.
+},
+{
+    34.0,37.0
+     Just make sure that the right one is showing.
+},
+{
+    37.0,39.0
+     We're going to be putting it on the right foot,
+},
+{
+    39.0,42.0
+     so make sure that the R is showing.
+},
+{
+    42.0,57.32
+     And then what you're going to do is you're going to place this part on the ball of the foot. Make sure that you don't walk in this. This is only to be
+},
+{
+    57.32,67.14
+     worn at night while you're sleeping. So then after you hook this part here, make sure to relax your foot completely and then use the brace
+},
+{
+    67.56,69.04
+     to gently
+},
+{
+    69.04,109.0
+     Put it in the position that you want so that not to overextend It does work best if you have somebody to help put this on, but if you are by yourself
+},
+{
+    109.0,112.08
+     and not have anybody I will show you how.
+},
+{
+    112.08,122.24
+     So at first you want to un-velcro all the velcros.
+},
+{
+    122.24,127.32
+     And again this is for left or right so make sure whichever foot that you are putting it on,
+},
+{
+    127.32,131.92
+     I am going to do the right, so make sure it has the R on it.
+},
+{
+    131.92,139.12
+     You want to slide it on your foot just so that it's on the ball of the foot.
+},
+{
+    139.12,146.72
+     You want it snug, but not tight at all by any means.
+},
+{
+    146.72,152.34
+     And then you want to have your foot hanging off, relax it, and you want to take the brace
+},
+{
+    152.34,160.66
+     to the leg and then velcro.
+},
+{
+    160.66,164.6
+     That way you're not overextending your leg.
+},
+{
+    164.6,168.32
+     It's getting the right amount of stretch that it needs to.
+},
+{
+    168.32,170.3
+     So this is how you'll want to wear the brace.
+},
+{
+    170.3,174.16
+     You want to try and wear it all night long and to not walk in it.
+},
+{
+    174.16,178.76
+     So if you wake up and need to get up for any reason to make sure that you take it off,
+},
+{
+    178.76,183.76
+     and if you remember to put it back on when you come to bed, if you do wake up and it's
+},
+{
+    183.76,186.12
+     just too painful to try and wear through the night, you can
+},
+{
+    186.12,189.64
+     take it off, but the goal in the end is to try and wear it as long as you can through
+},
+{
+    189.64,190.0
+     the night.
+},

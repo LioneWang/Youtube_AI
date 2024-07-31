@@ -1,0 +1,96 @@
+{
+    0.0,10.58
+     Project 6B. Applying direct pressure, kindly note. Wearing protective clothing is recommended.
+},
+{
+    10.58,15.54
+     Non-medical professionals may freely take part in this simulation project and are also
+},
+{
+    15.54,22.58
+     allowed to apply the skills gained on real patients in an emergency or disaster situation.
+},
+{
+    22.58,28.64
+     You will need the control bleeding simulation arm, the IV bag filled with colored
+},
+{
+    28.64,37.92
+     water or saline connected to an IV tube, the Sphygmomonometer, 5 to 10 gauze squares, a roll of
+},
+{
+    37.92,47.0
+     pressure bandage, cloth for packing. Follow these steps. All participants should don a pair of clean gloves.
+},
+{
+    53.48,59.48
+     Identify the larger artery tube on the simulation arm. It is marked with green and red tape.
+},
+{
+    59.48,66.34
+     Identify the wound with the arterial bleed. It is the larger wound on the simulation arm.
+},
+{
+    66.34,69.5
+     Close the connector on the outflow side of the artery.
+},
+{
+    69.5,73.26
+     The connector on the inflow side should be open.
+},
+{
+    73.26,78.34
+     Ensure that the IV tubing roller clamp is in the closed position.
+},
+{
+    78.34,90.36
+     Connect the IV tube to the inflow side of the simulation arm's artery via the connector. Close the blood pressure cuff valve and inflate the cuff to around 120 mm mercury, representing
+},
+{
+    90.36,93.9
+     the average adult systolic blood pressure.
+},
+{
+    93.9,98.34
+     Ensure that the pressure in the cuff is maintained at this recommended pressure level as the
+},
+{
+    98.34,105.36
+     pressure will tend to decline while the colored fluid leaves the IV bag. The instructor announces,
+},
+{
+    105.36,110.36
+     open the IV tube roller clamp followed by Stop the Bleed.
+},
+{
+    110.64,112.58
+     Note the blood spurting out of the wound
+},
+{
+    112.58,114.46
+     on the simulation arm.
+},
+{
+    114.46,117.38
+     Apply tight finger pressure directly on the bleed point
+},
+{
+    117.38,119.3
+     with a gloved finger.
+},
+{
+    119.3,121.86
+     Place a few gauze squares on the bleed point
+},
+{
+    121.86,124.24
+     and apply hand pressure.
+},
+{
+    124.24,126.56
+     Assess the amount of residual bleeding.
+},
+{
+    142.12,146.0
+     Close the IV tube roller clamp and remove the gauze squares.
+},

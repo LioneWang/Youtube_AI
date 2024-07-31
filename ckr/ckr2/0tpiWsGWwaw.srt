@@ -1,0 +1,144 @@
+{
+    0.0,10.84
+     In venous bleeding, it's a little bit of different animal than in capillary bleeding.
+},
+{
+    10.84,15.2
+     Again, not quite as bad as arterial bleeding, which is under pressure, but a little more
+},
+{
+    15.2,21.08
+     severe than capillary bleeding and may need some direct pressure to be able to stop that.
+},
+{
+    21.08,25.28
+     Now, venous bleeding is mostly characterized by an oozing or a running of
+},
+{
+    25.28,31.28
+     the blood that's dark color in nature. Direct pressure in almost all cases stops the bleeding
+},
+{
+    31.28,37.16
+     quite rapidly within about a minute or two. Fibrin inside the bloodstream starts to cause
+},
+{
+    37.16,43.84
+     that network of fibers, catches the blood cells, starts a clot factor, and you can treat
+},
+{
+    43.84,45.68
+     it and get the person back
+},
+{
+    45.68,47.64
+     in action and stabilized.
+},
+{
+    47.64,51.98
+     Again, with venous bleeding, it's easier to control.
+},
+{
+    51.98,52.98
+     It's oozing.
+},
+{
+    52.98,54.68
+     It's under negative pressure.
+},
+{
+    54.68,59.16
+     So normally just direct pressure for a minute, minute and a half.
+},
+{
+    59.16,60.72
+     Normally stops the bleeding quite readily.
+},
+{
+    60.72,64.68
+     If you wanted to check to see if it's still bleeding, you could lift up your hand, but
+},
+{
+    64.68,67.44
+     don't lift up the bandage to check to see if it's still bleeding you could lift up your hand but don't lift up the bandage to check to see if it's leaking
+},
+{
+    67.44,71.12
+     through the bandage. That's probably going to happen more in arterial bleeding,
+},
+{
+    71.12,74.76
+     not so much in venous bleeding. Again, nice direct pressure usually takes care
+},
+{
+    74.76,79.64
+     of venous bleeding. Now once you've got the bleeding under control while you're
+},
+{
+    79.64,84.28
+     gathering your roller gauze, you can have the patient actually help hold
+},
+{
+    84.28,89.24
+     the bandage on. Remember that when we do the roller gauze, we're going to start at the distal
+},
+{
+    89.24,94.44
+     end or the furthest away from the body part of the arm and begin our wrapping.
+},
+{
+    94.44,98.04
+     This is not a pressure dressing. This is just going to be tight enough to hold
+},
+{
+    98.04,107.0
+     the bandage firmly in place. Wrapping it around the arm
+},
+{
+    107.0,109.0
+     like so
+},
+{
+    109.0,112.0
+     again this is not a permanent bandage, it's not meant to be a permanent bandage
+},
+{
+    112.0,120.0
+     this wound is going to have to be irrigated and cleaned
+},
+{
+    120.0,125.0
+     having a pair of scissors in our first aid kit is always a good idea.
+},
+{
+    125.0,132.0
+     Cut the dressing and then simply tuck the dressing into the bandage.
+},
+{
+    132.0,136.0
+     You can get fancy and do a little bow tie and things like that, but it's not necessary.
+},
+{
+    136.0,140.0
+     And then just watch for bleeding to reoccur as long as it doesn't.
+},
+{
+    140.0,149.0
+     You're ready to take them onto the med center to evaluate for stitches. Big thing on that is if the ends of the cut, if the sides of the cut are gaping,
+},
+{
+    149.0,152.0
+     or what I call like a fish mouth or smiling at you,
+},
+{
+    152.0,157.0
+     pretty sure that's a deep, not superficial, but a deep, full flush cut,
+},
+{
+    157.0,158.0
+     it's going to need stitches.
+},
+{
+    158.0,164.0
+     So take them on in the med center for tetanus shot, wound irrigation, cleaning, and possibly stitches.
+},

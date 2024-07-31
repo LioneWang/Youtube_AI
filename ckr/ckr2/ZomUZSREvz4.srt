@@ -1,0 +1,1296 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.0,11.84
+     What's up, Bob?
+},
+{
+    11.84,12.82
+     You're a physical therapist?
+},
+{
+    12.82,14.16
+     Brad Heineck, physical therapist.
+},
+{
+    14.16,16.16
+     You're the most famous physical therapist on the internet.
+},
+{
+    16.16,17.36
+     In our opinion, of course, Bob.
+},
+{
+    17.36,19.2
+     You are wrong.
+},
+{
+    19.2,21.32
+     Shoulder arthritis, your shoulder arthritis
+},
+{
+    21.32,22.16
+     can get better.
+},
+{
+    22.16,23.08
+     You're gonna see how.
+},
+{
+    23.08,24.24
+     Yeah, exactly right now.
+},
+{
+    24.24,26.64
+     So, by the way,
+},
+{
+    26.64,27.48
+     Booyah!
+},
+{
+    28.52,30.28
+     Booyah!
+},
+{
+    30.28,32.42
+     If you're new to our channel, thanks Alex.
+},
+{
+    32.42,33.42
+     If you're new to our channel,
+},
+{
+    33.42,34.92
+     please take a second to subscribe to us.
+},
+{
+    34.92,37.04
+     We provide videos on how to stay healthy, fit,
+},
+{
+    37.04,38.52
+     pain-free, and we upload every day.
+},
+{
+    38.52,40.92
+     Also, you wanna join us on our social media channels
+},
+{
+    40.92,42.76
+     and our website, bobandbrad.com,
+},
+{
+    42.76,44.46
+     because we're always giving something away.
+},
+{
+    44.46,45.36
+     What are we giving away now?
+},
+{
+    45.36,46.2
+     I don't know.
+},
+{
+    46.2,47.96
+     Yeah, go to the channel, find out,
+},
+{
+    47.96,50.6
+     go to the giveaway section, go to Facebook Bob and Brad.
+},
+{
+    50.6,52.36
+     It'll be pinned to the top of the page.
+},
+{
+    52.36,55.8
+     Want a short version of us, go to Instagram or Twitter.
+},
+{
+    55.8,58.44
+     We got 60 second versions of our show.
+},
+{
+    58.44,61.72
+     All right, Brad, our right is pain.
+},
+{
+    61.72,65.92
+     Now it not only comes from the joint itself, the shoulder,
+},
+{
+    65.92,68.68
+     but it also comes from the tissues surrounding the joint,
+},
+{
+    68.68,70.48
+     especially the ligaments and the tendons,
+},
+{
+    70.48,72.84
+     and you can maybe get a little impingement.
+},
+{
+    72.84,74.92
+     Right, the capsule can tighten up,
+},
+{
+    74.92,77.68
+     and all those things add up to pain.
+},
+{
+    77.68,80.2
+     Right, so it sometimes may not even be your joint
+},
+{
+    80.2,81.2
+     that's painful.
+},
+{
+    81.2,82.04
+     It's possible.
+},
+{
+    82.04,83.96
+     So if your shoulder is tight,
+},
+{
+    83.96,86.8
+     pain can often be reduced by regaining the motion.
+},
+{
+    86.8,88.0
+     And that's what we're gonna do here.
+},
+{
+    88.0,90.32
+     We're gonna show you how to regain your motion.
+},
+{
+    90.32,94.4
+     So the number one exercise that we think helps
+},
+{
+    94.4,97.88
+     is the Statue of Liberty exercise.
+},
+{
+    97.88,98.72
+     Wow.
+},
+{
+    98.72,99.56
+     You called it that.
+},
+{
+    99.56,100.4
+     Well, I invented it.
+},
+{
+    100.4,101.24
+     Yeah, you invented it.
+},
+{
+    101.24,102.08
+     I don't know if I invented it,
+},
+{
+    102.08,102.92
+     but I had never seen it before
+},
+{
+    102.92,104.64
+     and I was working with a patient.
+},
+{
+    104.64,105.84
+     We're gonna say you invented it.
+},
+{
+    105.84,107.68
+     Yeah, and actually it fits.
+},
+{
+    107.68,110.08
+     It's obvious why it's called that.
+},
+{
+    110.08,112.16
+     So you're gonna need a bouillistic
+},
+{
+    112.16,115.52
+     or you're gonna need some type of pole or broom handle.
+},
+{
+    115.52,118.76
+     Right, about five foot long.
+},
+{
+    118.76,120.44
+     The bigger the diameter, better.
+},
+{
+    120.44,122.6
+     An inch and diameter, inch and a quarter
+},
+{
+    122.6,124.84
+     really is easy to grab onto.
+},
+{
+    124.84,127.12
+     Yeah, and it's nice to have tips on it.
+},
+{
+    127.12,128.52
+     You don't necessarily have to,
+},
+{
+    128.52,131.12
+     but you'll see why it does help.
+},
+{
+    131.12,133.84
+     We are, you know, put a little plug in for ourselves here.
+},
+{
+    133.84,136.52
+     We're gonna sell the Buya Stick on our website
+},
+{
+    136.52,140.08
+     for 15% off plus free shipping.
+},
+{
+    140.08,141.72
+     So we'll put a link below.
+},
+{
+    141.72,142.8
+     It's the red one here.
+},
+{
+    142.8,143.64
+     All right.
+},
+{
+    143.64,145.68
+     So, all right, so let's start off with the first one, Brad.
+},
+{
+    145.68,147.76
+     Do you wanna do it in the chair or where do you wanna do it?
+},
+{
+    147.76,149.84
+     Well, yeah, let's do it in the chair.
+},
+{
+    149.84,150.8
+     And I'll do it standing.
+},
+{
+    150.8,151.84
+     Yep.
+},
+{
+    151.84,154.0
+     What are we gonna start?
+},
+{
+    154.0,156.32
+     Progressive, it's gonna be the progressive
+},
+{
+    156.32,157.76
+     statue of Liberty.
+},
+{
+    157.76,160.16
+     We're moving on here, progressive.
+},
+{
+    160.16,161.76
+     Right, so if you're sitting in the chair,
+},
+{
+    161.76,164.44
+     make sure you got a firm chair is better
+},
+{
+    164.44,166.16
+     and sit up to the edge
+},
+{
+    166.16,169.28
+     with good pastures as best pastures you can get.
+},
+{
+    169.28,170.32
+     And standing as well.
+},
+{
+    170.32,172.76
+     Standing as well, you can go up to a countertop or something,
+},
+{
+    172.76,175.68
+     or you can go up to a chair, depending on your height.
+},
+{
+    175.68,178.2
+     So you're gonna start off, do you want me to start off, Brad?
+},
+{
+    178.2,180.32
+     Yeah, and that's why it's beneficial
+},
+{
+    180.32,184.0
+     to have a rubber, a tip, or something
+},
+{
+    184.0,185.32
+     so it doesn't slip inside.
+},
+{
+    185.32,187.92
+     Yeah, and again, as a plug for our Booyah stick,
+},
+{
+    187.92,190.68
+     for whatever reason, the material we're using,
+},
+{
+    190.68,194.28
+     it's not PVC pipe, really, it's furniture grade,
+},
+{
+    194.28,196.52
+     and it's really, it grips.
+},
+{
+    196.52,197.8
+     It grips really well.
+},
+{
+    197.8,200.56
+     Yeah, it really, it just works out nice.
+},
+{
+    200.56,201.4
+     It just works out nice.
+},
+{
+    201.4,202.54
+     It works well.
+},
+{
+    202.54,205.9
+     So, with progressive, what we're gonna talk about is
+},
+{
+    205.9,208.72
+     your shoulder maybe only goes this high.
+},
+{
+    208.72,210.34
+     I just had a lady, Brad,
+},
+{
+    210.34,213.14
+     that she was initially starting off 85 degrees.
+},
+{
+    213.14,214.06
+     You know where that is.
+},
+{
+    214.06,214.9
+     Yep.
+},
+{
+    214.9,217.38
+     And by the time she was done doing these exercises,
+},
+{
+    217.38,219.1
+     she was at 140.
+},
+{
+    219.1,220.94
+     You made it one session?
+},
+{
+    220.94,221.9
+     No, not one session.
+},
+{
+    221.9,222.98
+     But it was, what was it?
+},
+{
+    222.98,225.76
+     Mike, Mike worked with her a couple weeks?
+},
+{
+    225.76,226.68
+     Couple weeks.
+},
+{
+    226.68,227.52
+     Which is good.
+},
+{
+    227.52,228.36
+     Yeah, which is good.
+},
+{
+    228.36,231.16
+     Yeah, you can't expect miracles.
+},
+{
+    231.16,235.88
+     So, all right, so we're gonna give it whatever it takes,
+},
+{
+    235.88,237.56
+     whatever it gives you, we're gonna take it.
+},
+{
+    237.56,238.4
+     Right.
+},
+{
+    238.4,241.36
+     So, if we go this far, we're gonna start leaning forward
+},
+{
+    241.36,244.2
+     like this and putting pressure on the shoulder,
+},
+{
+    244.2,245.58
+     a nice little stretch.
+},
+{
+    246.76,248.52
+     So it's just gonna be an oscillation.
+},
+{
+    248.52,251.48
+     It's like pressure on, pressure off.
+},
+{
+    251.48,253.84
+     And you can do some end-rains stretches too.
+},
+{
+    253.84,254.68
+     Sure, yeah.
+},
+{
+    254.68,256.24
+     Now look, I'm keeping my back straight,
+},
+{
+    256.24,258.76
+     but that's why the chair sometimes works better for this,
+},
+{
+    258.76,261.3
+     because Brad's got his back nice and straight
+},
+{
+    261.3,262.44
+     while I was doing this.
+},
+{
+    262.44,265.66
+     And if you find that you have to lean too far forward
+},
+{
+    265.66,267.1
+     to get the stretch, that's good news,
+},
+{
+    267.1,268.8
+     but then just lift your hand up.
+},
+{
+    268.8,270.12
+     Yep, start moving your way up.
+},
+{
+    270.12,271.36
+     And then you don't have to lean so far.
+},
+{
+    271.36,274.56
+     Hence the name progressive, Statue of Liberty.
+},
+{
+    274.56,277.48
+     And it's not clear yet why it's called
+},
+{
+    277.48,280.68
+     Statue of Liberty, but it will be.
+},
+{
+    280.68,282.4
+     Yep, as we work our way up.
+},
+{
+    282.4,283.88
+     Yes.
+},
+{
+    283.88,285.16
+     We continue to do this.
+},
+{
+    285.16,289.52
+     And you may work this for, you know, 10, 15 repetitions.
+},
+{
+    289.52,291.62
+     If it continues to feel better, you can go more.
+},
+{
+    291.62,293.0
+     But the first time you do it,
+},
+{
+    293.0,295.32
+     I wouldn't do it more than 10 or 15
+},
+{
+    295.32,297.72
+     because it might not feel too bad while you do it,
+},
+{
+    297.72,299.12
+     but because of the stretching
+},
+{
+    299.12,300.8
+     that it hasn't experienced for a while,
+},
+{
+    300.8,302.16
+     it might get real sore the next day.
+},
+{
+    302.16,304.56
+     Now this is not a no pain, no gain situation.
+},
+{
+    304.56,307.44
+     We want this to be a painless basic.
+},
+{
+    307.44,309.88
+     I mean, you could have a little bit of a bump
+},
+{
+    309.88,311.6
+     into the pain, but not pain.
+},
+{
+    311.6,314.16
+     So yeah, then when you get up to all the way to the top,
+},
+{
+    314.16,316.0
+     now you're starting to look like the Statue of Liberty
+},
+{
+    316.0,318.2
+     holding the torch, and you're gonna go ahead
+},
+{
+    318.2,320.28
+     and lean forward and you can really get a stretch
+},
+{
+    320.28,321.48
+     on there now.
+},
+{
+    321.48,324.16
+     And this is where the money is made.
+},
+{
+    324.16,326.44
+     This is where the gains are made.
+},
+{
+    326.44,328.84
+     And if you're doing this in a chair,
+},
+{
+    328.84,330.36
+     and like I'm on the floor,
+},
+{
+    330.36,331.72
+     but it's not high enough anymore.
+},
+{
+    331.72,333.44
+     So I'm gonna actually bring the stick up
+},
+{
+    333.44,336.4
+     onto the chair seat pan itself.
+},
+{
+    336.4,338.6
+     I'm gonna get my reach up there.
+},
+{
+    338.6,342.64
+     And then right now I'm really getting an aggressive stretch.
+},
+{
+    342.64,345.48
+     And again, you're not gonna make it sharp pain
+},
+{
+    345.48,347.28
+     or anything, it should be, by this time,
+},
+{
+    347.28,348.96
+     after doing it for a few days,
+},
+{
+    348.96,351.24
+     it's just gonna be a gentle stretch
+},
+{
+    351.24,354.28
+     and feel like a stretch, but not aggravating it.
+},
+{
+    354.28,356.32
+     You're getting your reach on, Brad, right?
+},
+{
+    356.32,358.28
+     Like getting your freak on.
+},
+{
+    358.28,359.36
+     Is that okay to say, Mike?
+},
+{
+    359.36,360.4
+     I don't know.
+},
+{
+    360.4,361.24
+     All right.
+},
+{
+    361.24,362.08
+     Why, Bob?
+},
+{
+    362.08,362.92
+     Why?
+},
+{
+    362.92,364.12
+     All right, let's go to the next one.
+},
+{
+    364.12,365.28
+     Shoulder extensions. So let's say it's, right, let's go to the next one. Shoulder extensions.
+},
+{
+    365.28,367.56
+     So let's say it's, you know, you've been doing that one.
+},
+{
+    367.56,369.92
+     Now you can do all of these,
+},
+{
+    369.92,372.16
+     or you can pick out the ones that work for you.
+},
+{
+    372.16,374.42
+     Cause some of these may be a little more difficult.
+},
+{
+    374.42,376.88
+     So I like Mike's little suggestion.
+},
+{
+    376.88,378.28
+     He said it's like rowing a boat.
+},
+{
+    378.28,379.12
+     Oh, sure.
+},
+{
+    379.12,380.52
+     So you have the palm down,
+},
+{
+    380.52,383.12
+     and this palm up or to the side,
+},
+{
+    383.12,384.86
+     I know, outward basically.
+},
+{
+    384.86,387.06
+     And you're gonna go back like this
+},
+{
+    387.06,389.68
+     and you're stretching back into extension.
+},
+{
+    389.68,391.72
+     As far again as pain will allow.
+},
+{
+    391.72,393.48
+     Just, you know, if pain hurts right there,
+},
+{
+    393.48,395.96
+     stop right there and bring it back again.
+},
+{
+    395.96,396.8
+     So.
+},
+{
+    396.8,397.64
+     Looking from the back view,
+},
+{
+    397.64,399.24
+     he's not going out to the side,
+},
+{
+    399.24,402.76
+     but it's behind you if you can do that.
+},
+{
+    402.76,404.96
+     So here and if it hurts there,
+},
+{
+    404.96,407.6
+     but it's better out to the side, that's okay.
+},
+{
+    407.6,409.2
+     Actually, it would probably be good
+},
+{
+    409.2,411.88
+     because eventually you will get it to go straight back
+},
+{
+    411.88,413.24
+     with more stretching.
+},
+{
+    413.24,416.2
+     You can do this one in a chair too, if standing.
+},
+{
+    416.2,420.16
+     If you're balanced, maybe need some work,
+},
+{
+    420.16,421.36
+     you can do it in a chair.
+},
+{
+    421.36,423.2
+     And it's really kind of like rolling.
+},
+{
+    423.2,425.72
+     I suppose you could do it in a canoe too. I mean.
+},
+{
+    425.72,426.56
+     Well yeah.
+},
+{
+    426.56,429.04
+     But then you work some trunk and core
+},
+{
+    429.04,430.72
+     and have some outdoor activity.
+},
+{
+    430.72,432.12
+     Now we had some discussion on this.
+},
+{
+    432.12,435.16
+     You can actually put the stick behind you like this
+},
+{
+    435.16,437.8
+     and dip down a little bit and stretch it that way too
+},
+{
+    437.8,439.28
+     if that's what you prefer.
+},
+{
+    439.28,440.96
+     It's just a different way of going at it.
+},
+{
+    440.96,441.8
+     Right, yep.
+},
+{
+    441.8,444.32
+     So shoulder internal rotation.
+},
+{
+    444.32,446.08
+     Do you want to show that with the belt, Brad?
+},
+{
+    446.08,447.4
+     Oh, sure.
+},
+{
+    447.4,451.24
+     This one is one that I have found some people just can't do.
+},
+{
+    451.24,453.64
+     It's a very good one to do,
+},
+{
+    453.64,456.56
+     but some people have trouble getting into this position
+},
+{
+    456.56,459.2
+     because they can't get their arm much further than this.
+},
+{
+    459.2,462.76
+     So you bring the arm around like this,
+},
+{
+    462.76,463.88
+     and you gotta find it,
+},
+{
+    463.88,466.96
+     and then you're gonna just start working your way up like that.
+},
+{
+    466.96,468.6
+     If you've got severe arthritis,
+},
+{
+    468.6,470.28
+     this is gonna be very challenging.
+},
+{
+    470.28,471.48
+     It depends on the level.
+},
+{
+    471.48,473.84
+     You may have to work the Statue of Liberty
+},
+{
+    473.84,476.08
+     and the other extension.
+},
+{
+    476.08,478.48
+     Then work, you know, after a couple weeks.
+},
+{
+    478.48,480.92
+     This may be the last one.
+},
+{
+    480.92,482.4
+     You can do this with a belt too.
+},
+{
+    482.4,483.76
+     Brad's gonna demonstrate.
+},
+{
+    483.76,485.56
+     Works best with a leather belt,
+},
+{
+    485.56,487.56
+     something that's shiny and smooth,
+},
+{
+    487.56,489.98
+     and you hook on there and you get a loop.
+},
+{
+    491.08,493.76
+     Put that on your wrist,
+},
+{
+    493.76,495.56
+     and then this does-
+},
+{
+    495.56,497.08
+     Take a little bit of coordination.
+},
+{
+    497.08,499.04
+     If there's someone to help you
+},
+{
+    499.04,500.72
+     to get it over your shoulder,
+},
+{
+    500.72,502.36
+     and then you're just gonna relax
+},
+{
+    502.36,504.52
+     the arm that's being stretched right here,
+},
+{
+    504.52,507.84
+     and simply it's gonna go over your shoulder
+},
+{
+    507.84,511.24
+     like a pulley system and then you just go up and down.
+},
+{
+    511.24,512.96
+     That's why you have a shiny belt.
+},
+{
+    512.96,514.46
+     It goes so much nicer.
+},
+{
+    515.6,517.24
+     And you work just like that.
+},
+{
+    517.24,518.84
+     Stretch and down.
+},
+{
+    518.84,521.0
+     The next one is kind of a progression from that.
+},
+{
+    521.0,522.56
+     This is the one I invented.
+},
+{
+    522.56,523.4
+     Oh yes.
+},
+{
+    523.4,525.6
+     But Brad came up with the name called Chicken Wing
+},
+{
+    525.6,527.42
+     from his wrestling days.
+},
+{
+    527.42,530.52
+     So again, one that's gonna be difficult for a lot of you to do.
+},
+{
+    530.52,532.86
+     This is great for impingement if you have it.
+},
+{
+    534.68,536.8
+     But even shoulder arthritis, if you can get there,
+},
+{
+    536.8,538.08
+     it's gonna help.
+},
+{
+    538.08,540.88
+     So you're gonna start off like the internal rotation one.
+},
+{
+    540.88,545.36
+     So the palm is out and this palm is forward.
+},
+{
+    545.36,547.84
+     So this is the shoulder being stretched.
+},
+{
+    547.84,549.56
+     This is the shoulder being stretched.
+},
+{
+    549.56,551.16
+     I'm not gonna run into my head here,
+},
+{
+    551.16,553.4
+     so I wanna go a little bit off to the side.
+},
+{
+    553.4,556.64
+     So I bring it up and then I'm actually gonna
+},
+{
+    556.64,560.28
+     lever it out like this.
+},
+{
+    560.28,564.68
+     This is one, probably more for younger people.
+},
+{
+    564.68,568.0
+     But if you're older and you're able to do it
+},
+{
+    568.0,570.36
+     and you're not gonna crank on it hard,
+},
+{
+    570.36,573.32
+     you're not gonna create sharp pain, it's a stretch.
+},
+{
+    573.32,575.36
+     Needless to say, you wouldn't do any of these
+},
+{
+    575.36,576.76
+     with a shoulder replacement.
+},
+{
+    576.76,577.6
+     Oh, good eye.
+},
+{
+    577.6,578.72
+     That's a good point, Bob.
+},
+{
+    578.72,579.56
+     Very good point.
+},
+{
+    579.56,581.94
+     These are for arthritis or, like I said,
+},
+{
+    581.94,584.28
+     this is a great one for impingement.
+},
+{
+    584.28,586.86
+     So again, pressure on, pressure off.
+},
+{
+    586.86,588.48
+     Always pain be your guide.
+},
+{
+    588.48,592.98
+     Never, never allow pain to creep in there too hard.
+},
+{
+    592.98,596.34
+     Okay, the last one is abduction.
+},
+{
+    596.34,599.22
+     This is kind of probably,
+},
+{
+    599.22,601.54
+     I'd say the least needed to do.
+},
+{
+    601.54,602.38
+     Yeah, probably.
+},
+{
+    602.38,603.74
+     Because it's least functional.
+},
+{
+    603.74,605.42
+     Yeah, if you do the other ones,
+},
+{
+    605.42,607.2
+     this one's probably gonna come around.
+},
+{
+    607.2,609.72
+     So we got palm down on this side,
+},
+{
+    609.72,612.84
+     palm up or out on this side,
+},
+{
+    612.84,615.36
+     and you're just gonna work going out to the side here.
+},
+{
+    615.36,617.72
+     Going up to the side and,
+},
+{
+    617.72,620.76
+     I don't know, is this like any motion like the rowing?
+},
+{
+    620.76,623.2
+     That's not, there's nothing.
+},
+{
+    623.2,624.84
+     Shovel, oh, there, Mike says.
+},
+{
+    624.84,626.0
+     Yeah, like you're shoveling.
+},
+{
+    626.0,626.84
+     Look at this.
+},
+{
+    626.84,628.56
+     This is a shoulder that we're being scratched.
+},
+{
+    628.56,630.28
+     We're working on, yeah.
+},
+{
+    630.28,631.68
+     So yeah.
+},
+{
+    631.68,635.24
+     Throwing the snow, which we will be doing soon, won't we Brad?
+},
+{
+    635.24,637.0
+     They're talking like this weekend, maybe.
+},
+{
+    637.0,637.84
+     Oh gosh.
+},
+{
+    638.84,640.0
+     That's just not fair.
+},
+{
+    642.16,644.56
+     All right, so there they are.
+},
+{
+    644.56,645.92
+     You know, give them a shot.
+},
+{
+    645.92,647.2
+     Don't need to do all of them.
+},
+{
+    647.2,648.8
+     Do the, you know, I would definitely start
+},
+{
+    648.8,649.88
+     with the Statue of Liberty.
+},
+{
+    649.88,653.12
+     That's what I maybe have everybody do.
+},
+{
+    653.12,655.64
+     And then you can see which other ones work for you.
+},
+{
+    655.64,658.22
+     Right, and once again, the Booyah stick
+},
+{
+    658.22,659.8
+     is going to be on special.
+},
+{
+    659.8,661.56
+     Yeah, yeah, 15% off.
+},
+{
+    661.56,663.52
+     You know, this is the time to grab one.
+},
+{
+    663.52,664.68
+     Yeah.
+},
+{
+    664.68,666.04
+     Christmas coming up, I'm sure. But you gotta go to Bob and Brad website. Bob and Brad website, 15% off. This is the time to grab one. Christmas is coming up, I'm sure.
+},
+{
+    666.04,667.76
+     But you gotta go to Bob and Brad website.
+},
+{
+    667.76,670.32
+     Bob and Brad website, that's right.
+},
+{
+    670.32,671.92
+     All right, Brad.
+},
+{
+    671.92,None
+     Oh yeah. Oh yeah. you
+},

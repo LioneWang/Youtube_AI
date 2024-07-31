@@ -1,0 +1,108 @@
+{
+    0.0,12.16
+     Now let's cover rescue breathing for the child for the health care provider.
+},
+{
+    12.16,16.6
+     So we've had this victim pulled out of the water there, potentially a drowning victim,
+},
+{
+    16.6,21.88
+     but we need to assess them to know do we give them full CPR or just rescue breathing.
+},
+{
+    21.88,25.04
+     The scene is safe, my gloves are on, my CPR shield is
+},
+{
+    25.04,29.52
+     available. It's important to note that sometimes we have different size options
+},
+{
+    29.52,33.92
+     available when it comes to giving rescue breaths with a one-way valve barrier.
+},
+{
+    33.92,39.32
+     This is for an infant, this is for a child and an adult. So we're going to use
+},
+{
+    39.32,43.76
+     this as this child is big enough that I can actually seal over the nose and
+},
+{
+    43.76,47.84
+     mouth either this way or turning it around upside down.
+},
+{
+    47.84,51.08
+     You in the plaid shirt go call 911 and come back.
+},
+{
+    51.08,58.64
+     I might need your help and bring an AED. If I have my cell phone I dial 911 and put it on speakerphone so I can talk to the dispatcher.
+},
+{
+    58.64,62.36
+     So I'm going to place a hand on the forehead and tap on the collarbone.
+},
+{
+    62.36,65.88
+     Are you alright? Are you okay? They don't respond
+},
+{
+    65.88,71.36
+     to my taps and shouts. But now I'm going to assess the patient for their needs. Head
+},
+{
+    71.36,76.88
+     tilt, chin lift, and as I am watching for normal breathing, listening for normal breathing,
+},
+{
+    76.88,86.72
+     I'm going to feel for a carotid pulse check between the trachea and the sternoplied amastoid muscle on the outside. There's a
+},
+{
+    86.72,92.72
+     valley. This valley is where the carotid pulse lies. I'm going to put my fingers
+},
+{
+    92.72,98.48
+     on their windpipe and walk them into the first valley I find and feel with the
+},
+{
+    98.48,108.72
+     flat part of my two fingers with moderate pressure for no more than 10 seconds. Now in this case I feel a nice fast pulse
+},
+{
+    109.36,115.04
+     but the patient is not breathing normally. They may be bluish, blue around the lips,
+},
+{
+    115.04,122.16
+     but they're not gasping, they're not doing this agonal respiration, they're not breathing at all,
+},
+{
+    122.16,130.56
+     they're not responsive, but they have a pulse. So I'm going to go right into rescue breaths. One breath every three seconds for two minutes.
+},
+{
+    130.56,135.44
+     I seal over the nose and mouth. I tilt the head back and I give rescue breaths.
+},
+{
+    149.48,153.0
+     And I continue these rescue breaths for two minutes. After two minutes, I reassess for a carotid pulse.
+},
+{
+    153.0,156.52
+     If it's still there but there's no breathing, I continue rescue breathing.
+},
+{
+    156.52,161.08
+     If I check for a pulse and there's no pulse and no breathing, I go straight into full
+},
+{
+    161.08,161.84
+     CPR.
+},

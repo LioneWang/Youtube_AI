@@ -1,0 +1,152 @@
+{
+    0.0,7.5
+     In this video we are going to show you deep cervical flexor and extensor exercises for a specific neck pain.
+},
+{
+    18.5,20.5
+     Hi and welcome back to Physiotutors.
+},
+{
+    20.5,26.0
+     A systematic review by Lowetal in the year 2017 has shown that strengthening exercises
+},
+{
+    26.0,30.96
+     are an effective way to improve neck pain but also quality of life while the effects
+},
+{
+    30.96,36.6
+     of endurance training and stretching need further exploration.
+},
+{
+    36.6,49.04
+     Should we then do general strengthening exercises or exercises specific to the neck area. A study by Ludwig Zonendal in the year 2016 has found that neck specific exercises were
+},
+{
+    49.04,55.32
+     superior in terms of reduction of pain and disability in patients with whiplash associated
+},
+{
+    55.32,56.32
+     disorders.
+},
+{
+    56.32,62.36
+     So what about exercises for the deep neck flexors versus the more superficial neck muscles?
+},
+{
+    62.36,67.6
+     A study by Boris Zonendal in the year 2013 compared cranioservical
+},
+{
+    67.6,73.76
+     flexion exercises with a group performing progressive resistance exercises targeted at the more
+},
+{
+    73.76,80.0
+     superficial neck flexors and extensor muscles in a group of female office workers with chronic neck
+},
+{
+    80.0,86.6
+     pain. They found both a decrease in pain and disability in both groups, which means that
+},
+{
+    86.6,91.24
+     we are free to choose an exercise that best suits the patient in front of us.
+},
+{
+    91.24,96.8
+     For the cranioservical flexion exercise, have the patient in hook-lying position. An air-filled
+},
+{
+    96.8,105.92
+     pressure sensor is placed under the patient's occipit and inflated to 20 mm mercury. The subject then performs a head knot in order to increase
+},
+{
+    105.92,113.44
+     the pressure to 22 mm mercury. The pressure is subsequently held for 10 seconds, after
+},
+{
+    113.44,120.92
+     which a 10 second rest is allowed.
+},
+{
+    120.92,127.0
+     Perform 15 repetitions with 1 minute rest between sets and try to progress up to 30mm mercury.
+},
+{
+    153.24,160.32
+     Fun fact, a study of Parkedal in the year 2018 has found out that a mouth opening of 20mm coupled with a gaze of 45 degrees below vertical resulted in the lowest activation of the sternocleidum
+},
+{
+    160.32,161.64
+     mastoid muscle.
+},
+{
+    161.64,169.96
+     Alternatives to the pressure sensor can be performed in sitting position with or without an elastic band.
+},
+{
+    194.32,199.78
+     In order to incorporate the deep cervical extensor muscles such as the semi-spinalis services and the multifeedy have the patient in quadruped position.
+},
+{
+    199.78,205.92
+     After the initiation of a chin tuck, the patient is asked to move into flexion with his lower cervical
+},
+{
+    205.92,219.32
+     spine while keeping the chin tuck.
+},
+{
+    219.32,225.04
+     Afterwards the patient extends his lower and mid cervical spine again without losing the chin tuck.
+},
+{
+    232.16,236.8
+     Boris said that our reason that CCF exercises might benefit through better
+},
+{
+    236.8,242.88
+     neuromuscular efficiency and cervical motor control strategies improving the deep cervical
+},
+{
+    242.88,245.82
+     flexor muscles. The study shows that
+},
+{
+    245.82,250.86
+     exercises were able to significantly decrease the activity of the cervical
+},
+{
+    250.86,256.5
+     erectus spinae, upper trapezius, anterior scalini and sternocleidomastoid
+},
+{
+    256.5,263.1
+     muscles which commonly have a hard time to relax in patients with neck pain.
+},
+{
+    263.1,269.6
+     Alright this is our video on deep cervical flexor and extensor strengthening.
+},
+{
+    269.6,274.28
+     If you want to know how to perform a high load strengthening program for neck pain,
+},
+{
+    274.28,276.4
+     check out the video right next to me.
+},
+{
+    276.4,280.52
+     This was Kai from Physiotutors, thanks a lot for watching and I'll see you in the next
+},
+{
+    280.52,281.52
+     video.
+},
+{
+    281.52,281.54
+     Bye.
+},

@@ -1,0 +1,140 @@
+{
+    0.0,7.0
+     Yn ymgyrch yma, yw'r bandwch.
+},
+{
+    7.0,10.0
+     Yn ymgyrch yma, yw'r bandwch.
+},
+{
+    10.0,14.0
+     Rwy'n ddweud y bandwch ar y rysg yw'r ddweud.
+},
+{
+    14.0,20.0
+     Rwy'n ddweud y bandwch ar y rysg yw'r dweud.
+},
+{
+    20.0,23.0
+     Rwy'n ddweud y bandwch ar y rysg yw'r ddweud,
+},
+{
+    23.0,25.4
+     yn ymgyrch ar y ddweud yma, yw'r ddweud yma, yn ymdeg ar y ddechrau'r ddweud yma,
+},
+{
+    25.4,27.4
+     ar y ddweud yma i'r ddweud yma,
+},
+{
+    27.4,29.4
+     yn ymdeg ar y ddweud yma,
+},
+{
+    29.4,31.4
+     ac yn ymdeg ar y ddweud yma,
+},
+{
+    31.4,33.4
+     ar y ddweud yma i'r ddweud yma.
+},
+{
+    34.4,36.4
+     Rydyn ni'n ddweud yma,
+},
+{
+    37.4,40.4
+     ac yn ymdeg ar y ddweud yma,
+},
+{
+    41.4,42.4
+     yn y ddweud yma,
+},
+{
+    42.4,44.4
+     ac yn y ddweud yma.
+},
+{
+    45.0,47.0
+     Rydyn ni'n ddweud yma, yn y ddweud yma, yn y ddweud. Rwy'n meddwl, y bandygin yn gyfroedd y hand fel y ffigur yma.
+},
+{
+    47.0,49.0
+     Ond ydych chi'n meddwl, rwy'n meddwl,
+},
+{
+    49.0,51.0
+     ac yn ddweud y bandygin yn gyfroedd y hand
+},
+{
+    51.0,53.0
+     fel y ffigur yma.
+},
+{
+    53.0,55.0
+     Ond ydych chi'n meddwl, rwy'n meddwl,
+},
+{
+    55.0,57.0
+     ddweud y bandygin yn gyfroedd y bandygin.
+},
+{
+    57.0,59.0
+     Mae'r newydd yma,
+},
+{
+    59.0,61.0
+     yn gyfroedd y bandygin yn gyfroedd y newydd.
+},
+{
+    61.0,63.0
+     Mae'n meddwl, rwy'n meddwl,
+},
+{
+    63.0,65.0
+     mae'n meddwl, rwy'n meddwlud y ffynig o'r ddweud.
+},
+{
+    67.0,69.0
+     Felly mae'r ddweud y ddweud y ddweud,
+},
+{
+    69.0,71.0
+     yn ymdweud y bandage o'r ddweud yw'r ddweud
+},
+{
+    71.0,73.0
+     yn ymdweud yw'r ddweud,
+},
+{
+    73.0,75.0
+     ac yn ymdweud o'r ddweud o'r ddweud.
+},
+{
+    83.0,86.32
+     Yn ymdweud y cwm, mae'n ddweud yr gweithio, yn ddweud y ddweud y ddweud y 5.
+},
+{
+    86.32,93.96
+     Felly, mae'n gweithio, yn ddweud y ddweud y ddweud y 2, mae'n ddweud y ddweud yn ddweud
+},
+{
+    93.96,95.56
+     yn ddweud y ddweud y ddweud.
+},
+{
+    95.56,98.04
+     Felly, mae'n ddweud y ddweud y ddweud y 10.
+},
+{
+    98.04,102.56
+     Felly, rwy'n ddweud y ddweud y ddweud, yn ddweud y ddweud.
+},
+{
+    102.56,105.6
+     Mae'n ddweud y ddweud yn ddweud yn dchwaneg y bandwch, ydych yn y bandwch y rolau. Mae'n fawr i chi'n fawr i'r bandwch yn y cyfnod y cyfnod ymlaen.
+},
+{
+    105.6,108.0
+     Felly, ydych yn y cyfnod yw'r prysgau yn y cyfnod.
+},

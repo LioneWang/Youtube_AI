@@ -1,0 +1,248 @@
+{
+    0.0,7.0
+     What's up guys, in this video we are going to discuss exactly how to stick an ABG.
+},
+{
+    7.0,9.0
+     Are you ready?
+},
+{
+    9.0,11.0
+     Let's go!
+},
+{
+    19.0,23.0
+     How to Stick an ABG
+},
+{
+    23.0,27.96
+     An ABG test requires collecting a small sample of blood from an artery.
+},
+{
+    27.96,32.4
+     The sample must be obtained by either the respiratory therapist, doctor, or qualified
+},
+{
+    32.4,34.16
+     technician.
+},
+{
+    34.16,38.28
+     First and foremost, before sticking the patient, you must determine the best site for collecting
+},
+{
+    38.28,40.12
+     the blood sample.
+},
+{
+    40.12,43.44
+     Here are the possible ABG sample sites.
+},
+{
+    43.44,49.8
+     The radial artery in the wrist, the brachial artery in the upper arm, and the femoral artery
+},
+{
+    49.8,51.88
+     in the groin.
+},
+{
+    51.88,57.44
+     In addition, a blood sample can also be obtained in a pre-existing arterial line.
+},
+{
+    57.44,63.28
+     An ABG blood sample cannot be obtained from a vein, as this would instead be a VBG or
+},
+{
+    63.28,65.7
+     venous blood gas.
+},
+{
+    65.7,69.9
+     Once the site is determined, the respiratory therapist will then sterilize the injection
+},
+{
+    69.9,74.4
+     site using an antiseptic or antimicrobial solution.
+},
+{
+    74.4,79.14
+     The radial artery is the preferred site to stick the ABG because it has a good collateral
+},
+{
+    79.14,83.02
+     circulation and it is superficial and easy to palpate.
+},
+{
+    83.02,88.0
+     Also, it's not near any large veins and the stick is relatively pain-free.
+},
+{
+    88.0,94.0
+     But, I mean, you won't see me volunteering to have my radial artery stuck anytime soon.
+},
+{
+    94.0,100.0
+     Anyway, the patient will be positioned either lying down or sitting with the arm well supported.
+},
+{
+    100.0,105.36
+     You may use a rolled towel positioned under the patient's wrist in order to provide comfort
+},
+{
+    105.36,109.36
+     for the patient and to hyper-extend the side of the injection.
+},
+{
+    109.36,114.08
+     This position makes it easier to palpate the pulse and stick the artery.
+},
+{
+    114.08,118.9
+     After the radial artery is located, the respiratory therapist will then insert a sterile needle
+},
+{
+    118.9,121.76
+     into the artery to draw blood.
+},
+{
+    121.76,126.2
+     In some cases, the syringe needs to be repositioned in order to locate and puncture
+},
+{
+    126.2,130.84
+     the artery. When doing this, you will withdraw the tip of the syringe to the subcutaneous
+},
+{
+    130.84,137.0
+     tissue to prevent severing the artery or tendons and avoiding damage to the nearby tissues.
+},
+{
+    137.0,140.68
+     It's also extremely painful for the patient if you're digging around in their wrist with
+},
+{
+    140.68,147.12
+     a needle while trying to hit the artery. This is something I see a lot with students and new respiratory therapists.
+},
+{
+    147.12,152.68
+     Not to worry, you'll get better at sticking the arteries with more practice and experience.
+},
+{
+    152.68,156.48
+     Once the blood sample is obtained, a sterile gauze and bandage will be placed over the
+},
+{
+    156.48,160.96
+     punctured wound in order to stop bleeding and avoid infection.
+},
+{
+    160.96,169.0
+     The blood sample will immediately be sent to the laboratory for analysis. The specimen must be analyzed within 15 minutes after extraction
+},
+{
+    169.0,172.1
+     in order to ensure accurate ABG results are obtained.
+},
+{
+    172.1,176.14
+     It is important to keep in mind that an ABG stick
+},
+{
+    176.14,179.28
+     may be difficult to perform in uncooperative patients,
+},
+{
+    179.28,183.28
+     those with hard-to-find pulses, patients with cognitive impairment,
+},
+{
+    183.28,185.26
+     patients with tremimmers, and those
+},
+{
+    185.26,188.76
+     with a significant amount of body fat.
+},
+{
+    188.76,192.64
+     In some cases, multiple attempts are needed in order to draw the sample.
+},
+{
+    192.64,197.56
+     However, repeated puncture of a single site increases the prevalence of a hematoma, which
+},
+{
+    197.56,202.24
+     is swelling of clotted blood within the tissue, and also scarring.
+},
+{
+    202.24,206.98
+     In severe cases, it can also cut the artery and cause a significant amount of bleeding.
+},
+{
+    206.98,209.26
+     So you may need to use an alternate site
+},
+{
+    209.26,210.74
+     in order to draw the blood sample
+},
+{
+    210.74,214.74
+     if too many unsuccessful attempts are made in the same spot.
+},
+{
+    214.74,216.62
+     Again, collecting these blood samples
+},
+{
+    216.62,219.66
+     can be quite challenging for some respiratory therapist.
+},
+{
+    219.66,222.5
+     But as I always say, practice makes perfect.
+},
+{
+    222.5,224.66
+     And the more you do it, the easier it gets
+},
+{
+    224.66,226.88
+     and the better you become at sticking ABGs.
+},
+{
+    226.88,234.88
+     Alright guys, that pretty much wraps up everything you need to know about sticking an ABG.
+},
+{
+    234.88,237.44
+     Thank you so much for watching all the way to the end.
+},
+{
+    237.44,241.44
+     If you thought this video was helpful, hit that like button to support the channel, and
+},
+{
+    241.44,245.54
+     be sure to subscribe and turn the notifications on.
+},
+{
+    245.54,250.02
+     And we have some more amazing resources for ABGs that I really think you're going to
+},
+{
+    250.02,254.26
+     love and I will drop links to those down below in the description.
+},
+{
+    254.26,258.26
+     That's it for this one, thanks again for watching and I will see you in the next video.
+},
+{
+    258.26,None
+     And as always, breathe easy my friend.
+},

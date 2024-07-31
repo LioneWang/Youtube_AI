@@ -1,0 +1,476 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    10.0,12.0
+     Hi, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.0,13.0
+     Brad Heineck, physical therapist.
+},
+{
+    13.0,15.0
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    15.0,16.0
+     In our opinion, of course, Bob.
+},
+{
+    16.0,20.0
+     Brad, today we're going to talk about just how to choose a knee brace for arthritis or knee pain.
+},
+{
+    20.0,24.0
+     This is just a general brace, a good, affordable brace.
+},
+{
+    24.0,29.16
+     You can spend hundreds of dollars on braces, especially for us right now.
+},
+{
+    29.16,31.12
+     Closer to a thousand in some cases.
+},
+{
+    31.12,36.78
+     And those are custom made and they're unloading or offloading braces, but they are very expensive
+},
+{
+    36.78,39.28
+     and they're also very bulky.
+},
+{
+    39.28,44.96
+     So this is just a good size brace that'll give you, it'll give you, it'll reduce some
+},
+{
+    44.96,45.84
+     of the stress on the knee, it'll help with you know, it'll give you some, it'll reduce some of the stress on the knee
+},
+{
+    46.12,49.64
+     It'll help with some stability and it'll help with some pain, you know
+},
+{
+    49.64,56.46
+     It's as well as hyper extension. Oh, right because they do have braces it. Yeah, I mean now metal hinges
+},
+{
+    57.04,60.96
+     So that's lateral as well as hyper extension. Just show that on the skeleton at some point
+},
+{
+    61.72,64.12
+     Well, why don't we do that right now? Well, of course Bob
+},
+{
+    66.2,66.32
+     skeleton at some point. Why don't we do that right now? Well of course Bob.
+},
+{
+    70.76,76.08
+     When we talk about instability as you get arthritis in your knee it kind of throws the joint off. Are you down here Lonnie? You can get lateral movement like
+},
+{
+    76.08,80.72
+     this, shaking back and forth this way too forward and back. So if that
+},
+{
+    80.72,85.14
+     hinges on there it kind of helps stop that. It helps hold it in place.
+},
+{
+    85.14,86.9
+     And if you're, you know, you couldn't,
+},
+{
+    86.9,88.98
+     the slang word, bulllegged or knock,
+},
+{
+    88.98,91.26
+     need that'll kind of help support that
+},
+{
+    91.26,92.86
+     in the proper direction as well.
+},
+{
+    92.86,95.66
+     And if you hyper extend, let's turn them sideways.
+},
+{
+    95.66,99.98
+     Some people do, and particularly people who have a stroke,
+},
+{
+    99.98,101.82
+     sometimes will hyper extend.
+},
+{
+    101.82,103.86
+     So with this brace on, it bends,
+},
+{
+    103.86,106.2
+     but it does not go the opposite direction.
+},
+{
+    106.2,108.96
+     So it'll help minimize that kind of irritation.
+},
+{
+    108.96,113.48
+     Yeah, and these braces all come with these hinges in them.
+},
+{
+    113.48,117.12
+     You can take them out, especially if you need to wash
+},
+{
+    117.12,119.92
+     the brace, which by the way, you're supposed to hand wash them.
+},
+{
+    119.92,120.76
+     Sure.
+},
+{
+    120.76,122.2
+     And throw them in the washer dryer.
+},
+{
+    122.2,123.88
+     And you make sure the Velcro's all locked up.
+},
+{
+    123.88,125.96
+     Otherwise that's the problem.
+},
+{
+    125.96,131.48
+     Alright, we talked with the good people at BraceAbility.com and I'll put that down below
+},
+{
+    131.48,135.84
+     and down in the comments or down in the information down below.
+},
+{
+    135.84,137.92
+     And they sent us some braces.
+},
+{
+    137.92,139.82
+     They were really kind enough to do so.
+},
+{
+    139.82,140.96
+     We liked their braces.
+},
+{
+    140.96,142.16
+     That's why we contacted them.
+},
+{
+    142.16,144.48
+     They got some really good braces.
+},
+{
+    144.48,150.28
+     The other thing that they have, which I really like, is they really have a large range of sizes.
+},
+{
+    150.28,155.88
+     They go from small all the way to 6 XL. And that's the problem. A lot of times for people
+},
+{
+    155.88,159.08
+     who are a little bit larger, they can't find a brace that fits.
+},
+{
+    159.08,163.48
+     Right. You get that bariatric population and that's what we're looking for, something
+},
+{
+    163.48,168.46
+     that'll accommodate their legs. So what happens is they can't exercise because they
+},
+{
+    168.46,173.62
+     you know the knee hurts and so they gain even more weight. So this is I
+},
+{
+    173.62,180.3
+     think a great solution for that. So I think the keys to a good brace is you
+},
+{
+    180.3,186.08
+     know having the right fit and comfort. And can you get it on and off easily right good point
+},
+{
+    186.8,192.5
+     So this is a wraparound brace up as opposed to the type of sleeve where you pull up and over right
+},
+{
+    192.72,195.16
+     And I leave is fine in some instances
+},
+{
+    195.16,199.22
+     I'm not going to go against that but that's not what we're advocating right here
+},
+{
+    199.22,202.88
+     So here you look at the name so you put the letters up so you can read it
+},
+{
+    202.88,227.8
+     That's up on top. Yeah, and goes up. The hole in the back goes behind the knee. Which is by the way a nice feature. Because otherwise it gets bunched up behind the knee. And if you ever wear a brace you can tell. You know that you don't want to have anything butching up. It's irritable and it gets a little hotter. So usually you'd wrap the first top one first or bottom one. I like to do the bottom one first.
+},
+{
+    227.8,232.72
+     It's kind of an individual thing. If the taper goes up I find that at the bottom.
+},
+{
+    232.72,241.12
+     Anything that goes against Bob I'll do. So put up those first two closures.
+},
+{
+    241.12,246.76
+     That's where you want the patella with the kneecap right in the hole there and again
+},
+{
+    246.76,247.64
+     That's for comfort
+},
+{
+    247.64,247.82
+     Yeah
+},
+{
+    247.82,251.16
+     If you if you got one of those braces that you're pulling up over the top of it
+},
+{
+    251.16,256.22
+     It's gonna push right on the kneecap again. Those are fine for other certain instances, but in arthritis
+},
+{
+    256.22,259.66
+     I think this is probably more appropriate. Sure. So then you have the other two
+},
+{
+    261.92,269.54
+     Straps here that you can actually cinch. Yeah, this is what I like about it. I just used this exact same brace yesterday
+},
+{
+    269.54,274.24
+     on a stroke patient who has hyper extension
+},
+{
+    274.24,278.0
+     instability in the knee and I bet you stopped the hyper extension didn't it?
+},
+{
+    278.0,282.84
+     He did very well with it. He walked farther with it. He felt more confident with it.
+},
+{
+    282.84,290.36
+     And I'm not just saying that. I bet you aren't just saying that of course not so now you can wear this over the pants too when she's sure
+},
+{
+    290.36,294.92
+     Oh, yeah, yeah a lot of people do and or you can slide the pants over it
+},
+{
+    295.12,301.58
+     Or you can wear sporty shorts like I do. Yeah, you look hot in those don't we are gonna have the women just
+},
+{
+    302.04,304.04
+     commenting on you Bob
+},
+{
+    304.92,306.8
+     Elderly 80 year old woman.
+},
+{
+    306.8,307.4
+     Of course.
+},
+{
+    307.4,312.04
+     Now the material on this is a breathable neoprene alternative.
+},
+{
+    312.04,314.68
+     I don't know what that means, but it's not neoprene.
+},
+{
+    314.68,319.92
+     Neoprene does tend to be a little bit uncomfortable.
+},
+{
+    319.92,321.92
+     And this is supposed to be moisture wicking.
+},
+{
+    321.92,324.24
+     So it helps with that.
+},
+{
+    324.24,326.16
+     One thing I want to make a point, Brad,
+},
+{
+    326.16,329.04
+     you don't need copper and you don't need magnets.
+},
+{
+    329.04,330.72
+     There's no, I mean, you laugh,
+},
+{
+    330.72,332.6
+     but a lot of people think there's something magical
+},
+{
+    332.6,334.8
+     to those and there really is,
+},
+{
+    334.8,337.2
+     that the studies haven't held up on those at all.
+},
+{
+    337.2,339.96
+     And again, this has the hinges in here.
+},
+{
+    339.96,342.28
+     They do remove.
+},
+{
+    342.28,343.84
+     Yeah, if you don't like the hinges,
+},
+{
+    343.84,345.72
+     you don't need that support, take them out
+},
+{
+    345.72,347.2
+     and you can remove them without.
+},
+{
+    347.2,348.12
+     That's exactly right.
+},
+{
+    348.12,350.88
+     If you don't feel like your knee's not unstable,
+},
+{
+    350.88,351.92
+     I would go ahead and take them out
+},
+{
+    351.92,354.2
+     and you just got to, on the inside,
+},
+{
+    354.2,355.68
+     you'll find a slot where the hinges
+},
+{
+    355.68,357.04
+     and you just pull them right out.
+},
+{
+    357.04,361.84
+     So, oh, we should talk about how to measure for this, Brad.
+},
+{
+    361.84,362.68
+     Okay.
+},
+{
+    362.68,363.92
+     So they, very simple.
+},
+{
+    363.92,365.28
+     They want two measurements. One, they want right around the for this brand. Okay, so they very simple. They want two measurements.
+},
+{
+    365.28,371.28
+     One, they want right around the kneecap itself, you know, with a tape measure. And then you go six
+},
+{
+    371.28,376.96
+     inches from the top of the kneecap up and then take another measure right here on the thigh.
+},
+{
+    376.96,382.96
+     Let me draw on your leg, Bob. There you go. See how that works? Yeah. So those two spots, you send
+},
+{
+    382.96,387.24
+     them in, I mean, you go online and they'll tell you what size
+},
+{
+    387.24,388.24
+     then you need.
+},
+{
+    388.24,389.24
+     Sure.
+},
+{
+    389.24,392.48
+     And again, small all the way to 6XL, so they're going to have your size for you.
+},
+{
+    392.48,395.48
+     Very critical to get the right fit on this.
+},
+{
+    395.48,401.08
+     This brace, I think they call it the obesity brace, which I'm not thrilled about the name.
+},
+{
+    401.08,404.44
+     But anyway, the price is $59.99.
+},
+{
+    404.44,407.2
+     So that's a good price. I think that's the same price
+},
+{
+    407.2,413.92
+     no matter what size you get. So the good price, give him a visit if you're having some knee pain.
+},
+{
+    414.64,418.32
+     This will help you take that pain level down so you can exercise again.
+},
+{
+    418.32,420.0
+     Give you that support that you need.
+},
+{
+    420.0,424.72
+     Get strong like bull. I took his line. You want to say it Brad?
+},
+{
+    424.72,426.04
+     No, no, you didn't roll the R. Strong like bull. I took his line. You want to say it Brad? No, no you didn't roll
+},
+{
+    426.04,432.24
+     the arc. Strong like bull. Okay there we go. Here's our bull. Thanks for watching.
+},

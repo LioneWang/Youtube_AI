@@ -1,0 +1,52 @@
+{
+    0.0,3.0
+     Low platelet counts.
+},
+{
+    3.0,9.0
+     This can develop at a variable time after the administration of chemotherapy,
+},
+{
+    9.0,15.0
+     usually in the second week and lasts from a few days to several weeks.
+},
+{
+    18.0,26.34
+     Platelet count is important because the chance of spontaneous bleeding, for example from the nose, gums,
+},
+{
+    26.34,33.8
+     skin or with vomiting or stools increases with low platelet count particularly when it falls
+},
+{
+    33.8,41.32
+     below 20,000 per mm cube or when accompanied by fever.
+},
+{
+    41.32,48.0
+     The most worrisome but rare sight of bleeding is the brain which can lead to altered consciousness.
+},
+{
+    48.0,57.0
+     During low platelet counts, you should not give the child any pain medications like ibuprofen without asking the doctor.
+},
+{
+    57.0,67.0
+     In addition, prevent cuts and any kind of injury and avoid strenuous physical activity.
+},
+{
+    67.0,74.0
+     Platelet transfusions may be required as decided by the doctor in some patients.
+},
+{
+    74.0,82.0
+     Please understand that transfusions may be arranged by the hospital subject to availability.
+},
+{
+    82.0,88.8
+     It is advisable to keep blood and platelet donors ready in case of an emergency.
+},
+{
+    88.8,90.84
+     Please talk to the doctor about this.
+},

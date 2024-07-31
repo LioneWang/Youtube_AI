@@ -1,0 +1,484 @@
+{
+    0.0,3.56
+     A sudden onset of neck pain or stiffness is actually quite common.
+},
+{
+    3.56,7.64
+     In fact, two out of three of us will suffer from it at some point in our lifetime.
+},
+{
+    7.64,11.04
+     Now I know it's a pain but the good news is that neck pain usually lasts a couple of
+},
+{
+    11.04,15.2
+     weeks and there are also many things that you can do at home to help with this.
+},
+{
+    15.2,17.08
+     So what we're waiting for, let's begin.
+},
+{
+    17.08,23.24
+     Okay, so in most cases neck pain is not usually due to a serious condition or a neck problem.
+},
+{
+    23.24,25.28
+     In most cases, quite often, the cause is
+},
+{
+    25.28,28.56
+     actually unknown and we call this non-specific neck pain.
+},
+{
+    28.56,34.2
+     Now, it might be caused by bad posture, sleeping awkwardly, a pinched nerve, a neck injury
+},
+{
+    34.2,36.36
+     and potentially many other reasons too.
+},
+{
+    36.36,39.76
+     However, please remember, if your neck pain or neck stiffness doesn't go away after a
+},
+{
+    39.76,44.08
+     few weeks, painkillers haven't helped it or you're just worried about it, or if you
+},
+{
+    44.08,48.96
+     have any of the following symptoms like tingling, prickling, numbness sensation, or if your arm has gone
+},
+{
+    48.96,53.12
+     cold or your arm and hands have become weak, then you need to speak to your doctor as soon
+},
+{
+    53.12,57.04
+     as possible and we'll leave a full list in the description below for you as well.
+},
+{
+    57.04,59.48
+     So how can you ease the neck pain or stiffness yourself?
+},
+{
+    59.48,63.8
+     Well the first thing that you should do is try either a heat or a cold pack on the area
+},
+{
+    63.8,65.4
+     of the neck that hurts. So option one, get a hot water bottle, wrap it in a heat or a cold pack on the area of the neck that hurts.
+},
+{
+    65.4,69.32
+     So option one, get a hot water bottle, wrap it in a tea towel, and place it on the area
+},
+{
+    69.32,73.32
+     that hurts for about 20 minutes 2 to 3 times a day.
+},
+{
+    73.32,75.8
+     Please be very careful though that you don't burn yourself.
+},
+{
+    75.8,79.8
+     Or option two, grab yourself a pack of frozen vegetables like frozen peas, and before anyone
+},
+{
+    79.8,84.12
+     comments I know that peas aren't technically vegetables but we do refer to them as vegetables.
+},
+{
+    84.12,88.96
+     So grab yourself a pack of frozen peas, wrap it a tea towel and place it on the area for about five minutes
+},
+{
+    89.12,93.08
+     Two to three times a day. It's really important that you do wrap it in a tea towel, please
+},
+{
+    93.08,95.72
+     So that's a few simple things that you can do that are gonna help
+},
+{
+    95.72,98.68
+     But the next thing that I recommend to all patients are these four
+},
+{
+    98.88,102.52
+     Simple exercises that everyone can do at home and I know what you're thinking right now
+},
+{
+    102.52,106.92
+     You're probably thinking about Abraham. You must be joking, my neck is so painful instead, I can barely
+},
+{
+    106.92,110.84
+     move it and I get that, I've been there but please remember, bed rest for more than a
+},
+{
+    110.84,114.88
+     couple of days is going to make it harder for you to get back to your normal routine
+},
+{
+    114.88,118.0
+     and by doing these exercises it's going to help with the pain, it's going to help you
+},
+{
+    118.0,120.12
+     recover, so what are we waiting for?
+},
+{
+    120.12,123.28
+     Okay, so let's begin with the neck tilt exercise.
+},
+{
+    123.28,126.32
+     So tilt your head down and rest your chin on your chest.
+},
+{
+    126.32,128.34
+     Now gently tense your neck muscles
+},
+{
+    128.34,130.4
+     and hold this for five seconds.
+},
+{
+    130.4,132.76
+     Then return back to your neutral position.
+},
+{
+    132.76,135.48
+     You need to try and repeat this five times.
+},
+{
+    138.78,141.2
+     Next up, we have the side to side neck tilt.
+},
+{
+    141.2,143.6
+     So tilt your head down towards your shoulder
+},
+{
+    143.6,144.7
+     leading with your ear.
+},
+{
+    144.7,148.72
+     Now gently tense your neck muscles and hold this for five seconds, then return your
+},
+{
+    148.72,154.4
+     head to the center and repeat on the opposite side. Repeat this five times on each side.
+},
+{
+    154.4,162.56
+     We're now past the halfway mark, so next up we have neck turns. In this exercise, turn
+},
+{
+    162.56,165.04
+     your head towards one side side keeping your chin at the
+},
+{
+    165.04,170.32
+     same height and moving within comfortable limits. Now gently tense your neck muscles and hold for
+},
+{
+    170.32,175.52
+     five seconds then return your head to the center and repeat on the opposite side. Once again you
+},
+{
+    175.52,184.4
+     need to try and repeat this five times on each side. And lastly we have the neck stretch so
+},
+{
+    184.4,189.26
+     keeping the rest of the body straight push your chin forward so your throat is stretched.
+},
+{
+    189.26,193.0
+     Now gently tense your neck muscles and hold for five seconds.
+},
+{
+    193.0,197.7
+     Then return your head to the centre and push it backwards, keeping your chin up.
+},
+{
+    197.7,200.36
+     You also need to hold this for five seconds.
+},
+{
+    200.36,202.84
+     Repeat this exercise five times.
+},
+{
+    202.84,206.88
+     So as I mentioned at the start of the video, most cases of neck pain the cause is unclear
+},
+{
+    206.88,209.2
+     and we call that non-specific neck pain.
+},
+{
+    209.2,213.76
+     So for non-specific neck pain, these exercises should help ease the pain within two weeks
+},
+{
+    213.76,217.12
+     and hopefully after four to six weeks, you should be fully recovered.
+},
+{
+    217.12,221.56
+     Now please remember, try and do these exercises for six to eight weeks in total and this will
+},
+{
+    221.56,225.64
+     help to strengthen the area too and hopefully prevent the neck pain from coming back.
+},
+{
+    225.64,229.24
+     Now please remember that if your symptoms aren't improving then you should definitely
+},
+{
+    229.24,231.24
+     make an appointment to speak to your healthcare professional.
+},
+{
+    231.24,234.24
+     I explained it right at the start of the video and I'll say it again.
+},
+{
+    234.24,237.72
+     I'll leave a full list in the description below on when you should speak to your healthcare
+},
+{
+    237.72,240.64
+     professional and I'd highly recommend everyone read it.
+},
+{
+    240.64,244.2
+     So your next question might be well Abraham what other options do we have for neck pain
+},
+{
+    244.2,245.24
+     or neck stiffness?
+},
+{
+    245.24,247.32
+     Well, another option would be painkillers.
+},
+{
+    247.32,252.24
+     These are quite effective for the neck pain or stiffness, such as paracetamol or ibuprofen.
+},
+{
+    252.24,256.06
+     But please always speak to your pharmacist first before you take any medication so they
+},
+{
+    256.06,259.28
+     can check that it's safe and suitable to use that medication.
+},
+{
+    259.28,263.0
+     And also, always read the medication leaflet that comes with any medicine.
+},
+{
+    263.0,267.62
+     Another useful tip is to use a low firm pillow, as quite often larger pillows can cause neck
+},
+{
+    267.62,268.62
+     pain and stiffness.
+},
+{
+    268.62,272.3
+     Also, please remember, if you don't have full movement of your neck because of the pain
+},
+{
+    272.3,275.46
+     or the stiffness, don't do activities where you need full movement.
+},
+{
+    275.46,279.5
+     For example, driving or cycling, as you're putting yourself at risk and you're putting
+},
+{
+    279.5,280.74
+     other people at risk.
+},
+{
+    280.74,283.46
+     So that's a little about treatments, but what about prevention?
+},
+{
+    283.46,286.36
+     How can you try and prevent non-specific neck pain from coming back?
+},
+{
+    286.36,289.8
+     Let's quickly run through them as I think it'd be quite useful for everyone to learn.
+},
+{
+    289.8,293.0
+     So tip number one, when you sit, always try and sit upright.
+},
+{
+    293.0,296.44
+     And I know it sounds a bit strange, but next time you sit down, just think to yourself,
+},
+{
+    296.44,297.44
+     how are you sat?
+},
+{
+    297.44,298.44
+     How are your shoulders placed?
+},
+{
+    298.44,300.2
+     So they roll back, and they roll forward.
+},
+{
+    300.2,301.44
+     And how is your neck placed?
+},
+{
+    301.44,305.78
+     Because all of these, the posture, can make a massive difference on neck pain.
+},
+{
+    305.78,308.12
+     And tip number two, do you have a desk job?
+},
+{
+    308.12,309.12
+     Are you sitting correctly?
+},
+{
+    309.12,310.56
+     Is your monitor the right height?
+},
+{
+    310.56,311.84
+     Is your seat the right height?
+},
+{
+    311.84,313.76
+     Because all of these can make a massive difference.
+},
+{
+    313.76,317.68
+     Now the good news is the NHS have a really useful article all about how to set up your
+},
+{
+    317.68,321.72
+     desk properly, all about how to sit properly, which I mentioned tip number one.
+},
+{
+    321.72,324.04
+     So if this applies to you, please check out that article.
+},
+{
+    324.04,328.0
+     I will leave a link to it in the description below. And also before anyone comments and says
+},
+{
+    328.0,332.0
+     this monitor is too low for you. I promise you it's not. This is a wide angle lens and for some
+},
+{
+    332.0,336.08
+     strange reason this monitor looks like it's too low for me, but it is the correct height.
+},
+{
+    336.08,341.12
+     Which moves us on nicely to tip number three. Make sure your head is the same height as your body
+},
+{
+    341.12,345.84
+     when you're sleeping. So remember the low pillow that we spoke about earlier, this can really help.
+},
+{
+    345.84,348.32
+     Also, make sure you have a firm mattress.
+},
+{
+    348.32,350.04
+     This has been shown to help as well.
+},
+{
+    350.04,352.02
+     Make sure you don't sleep on your front.
+},
+{
+    352.02,353.0
+     This doesn't help.
+},
+{
+    353.0,355.12
+     And lastly, make sure you don't twist your neck
+},
+{
+    355.12,355.96
+     when you're in bed.
+},
+{
+    355.96,357.44
+     This is a habit that a lot of people do,
+},
+{
+    357.44,358.6
+     but it's really not good.
+},
+{
+    358.6,360.12
+     Thank you for watching this week's video.
+},
+{
+    360.12,362.36
+     If you currently have neck pain or stiffness,
+},
+{
+    362.36,364.56
+     I really hope my tips help you in this video.
+},
+{
+    364.56,367.72
+     If you don't have neck pain and you're watching this video, well, thank you for watching anyway
+},
+{
+    367.72,369.64
+     and you are now a Neck Pain Pro.
+},
+{
+    369.64,372.92
+     So tell your friends, tell your family, tell your loved ones, tell everyone because you're
+},
+{
+    372.92,374.52
+     a Neck Pain Pro.
+},
+{
+    374.52,377.36
+     Always remember you're awesome and I will see you next week.
+},
+{
+    377.36,379.36
+     You've got to do this exercise.
+},
+{
+    379.36,385.0
+     I mean, it does look a little funny but I mean that's too fast.
+},
+{
+    385.0,388.76
+     Hey guys thanks for watching this week's video make sure to click that like, follow
+},
+{
+    388.76,392.88
+     or subscribe button now to stay up to date with new weekly videos.
+},

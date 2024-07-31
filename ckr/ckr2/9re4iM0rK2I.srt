@@ -1,0 +1,588 @@
+{
+    0.0,8.08
+     Hi, my name is Paula Petrie.
+},
+{
+    8.08,12.76
+     I'm a diabetes nurse educator at the Ann and Robert H. LaRae Children's Hospital of Chicago.
+},
+{
+    12.76,17.28
+     In this video, we'll be learning about how to recognize and treat hypoglycemia and when
+},
+{
+    17.28,23.48
+     and how to use a glucagon emergency injection.
+},
+{
+    23.48,24.56
+     Hi Mrs. Allen.
+},
+{
+    24.56,27.0
+     So far you've done an excellent job at learning how to give your daughter
+},
+{
+    27.0,31.76
+     insulin. Thank you. But another important diabetes survival skill is knowing when she
+},
+{
+    31.76,36.52
+     may be experiencing low blood sugar or hypoglycemia and how to take care of it. What was that
+},
+{
+    36.52,40.76
+     word again? Hypoglycemia. That's when your daughter's blood sugar level is below her
+},
+{
+    40.76,45.48
+     target range. For instance, if the blood sugar target range is 80 to 150,
+},
+{
+    45.48,48.64
+     any reading below 80 would be considered hypoglycemic.
+},
+{
+    48.64,51.6
+     Most people with diabetes refer to experiencing hypoglycemia
+},
+{
+    51.6,53.08
+     as feeling low.
+},
+{
+    53.08,54.32
+     Why would that happen?
+},
+{
+    54.32,56.4
+     I thought diabetes meant that my daughter's blood sugar
+},
+{
+    56.4,57.64
+     was too high.
+},
+{
+    57.64,60.24
+     True, but whenever a blood sugar-lowering medication
+},
+{
+    60.24,63.08
+     such as insulin is being given, the risk is always out there
+},
+{
+    63.08,65.34
+     that it could make her blood sugar go too low.
+},
+{
+    65.34,66.44
+     Okay.
+},
+{
+    66.44,68.94
+     The three primary causes of low blood sugar
+},
+{
+    68.94,72.28
+     are not eating enough food, taking too much insulin,
+},
+{
+    72.28,74.28
+     or strenuous exercise.
+},
+{
+    74.28,76.92
+     Blood sugar level is kept normal by taking enough insulin
+},
+{
+    76.92,80.16
+     to turn carbohydrates eaten into energy.
+},
+{
+    80.16,83.56
+     So if a large dose of insulin is given to cover a large meal
+},
+{
+    83.56,89.68
+     and only half the meal is eaten, you have a situation where you have too much insulin and not enough food.
+},
+{
+    89.68,93.92
+     The blood sugar level will likely drop within an hour or two as the insulin runs out of
+},
+{
+    93.92,95.94
+     food to work with.
+},
+{
+    95.94,99.38
+     Exercise is also a common cause of hypoglycemia.
+},
+{
+    99.38,103.38
+     Exercise makes the body use insulin more efficiently by quickly feeding sugar to muscles
+},
+{
+    103.38,104.88
+     that are working hard.
+},
+{
+    104.88,109.28
+     How quickly the blood sugar drops depends on what the starting glucose level was, as
+},
+{
+    109.28,112.68
+     well as the intensity and duration of the exercise.
+},
+{
+    112.68,117.34
+     However, no two children are alike, and different types of exercise can affect a child's blood
+},
+{
+    117.34,119.26
+     sugar in different ways.
+},
+{
+    119.26,123.8
+     It's a good idea to check blood sugar before, during, and after intense exercise to see
+},
+{
+    123.8,129.2
+     what your child's blood sugar level does. Talk to your diabetes team to see if you may need an extra snack
+},
+{
+    129.2,136.08
+     or insulin adjustment before or after exercise.
+},
+{
+    136.08,142.64
+     Mild or early symptoms of low blood sugar include shakiness, dizziness, sweating, nervousness,
+},
+{
+    142.64,146.32
+     and hunger. Adrenaline being released by the body produces these
+},
+{
+    146.32,150.8
+     symptoms. The lower the blood sugar goes, the more a child's behavior may be
+},
+{
+    150.8,154.94
+     affected as the brain starts running low on sugar. Moderate symptoms of low
+},
+{
+    154.94,159.84
+     blood sugar may include lightheadedness, blurry vision, sleepiness, headache,
+},
+{
+    159.84,165.2
+     irritability, or confusion. At this point, the child may not be able to help
+},
+{
+    165.2,169.68
+     themselves, so it is very important that immediate family, friends, teachers, and
+},
+{
+    169.68,174.24
+     other caregivers are instructed on how they can help.
+},
+{
+    174.92,180.34
+     What should I do if my daughter's blood sugar is too low? Give her food. Usually
+},
+{
+    180.34,186.48
+     about 15 grams of very sweet tasting, easy to eat carbohydrate does the trick.
+},
+{
+    186.48,191.12
+     Good examples of fast sugar sources with 15 grams of carbohydrate are 3 to 4 glucose
+},
+{
+    191.12,197.44
+     tablets, half a cup of juice or regular soda, one cup of milk, or a handful of candy that
+},
+{
+    197.44,199.08
+     can be eaten quickly.
+},
+{
+    199.08,204.12
+     Remember low blood sugar can happen anywhere, anytime, and can happen quickly.
+},
+{
+    204.12,209.04
+     So it's very important that you always carry a fast sugar source with you at all times.
+},
+{
+    209.04,213.8
+     15 to 20 minutes after the fast sugar source is eaten, the blood sugar level should be
+},
+{
+    213.8,215.08
+     rechecked.
+},
+{
+    215.08,219.64
+     If it is still below the target range, eat another 15 grams and we check the blood sugar
+},
+{
+    219.64,222.1
+     in another 15 to 20 minutes.
+},
+{
+    222.1,226.24
+     This is often referred to as the rule of 15. Eat 15 grams and
+},
+{
+    226.24,231.24
+     recheck in 15 minutes. What if I think my daughter has a low blood sugar and her
+},
+{
+    231.24,234.56
+     glucose meter is not available? If you think your daughter might be experiencing
+},
+{
+    234.56,238.24
+     low blood sugar but for whatever reason can't check, it's safest to assume that
+},
+{
+    238.24,242.4
+     she is low and give her 15 grams of carbohydrate to eat. If she's not feeling
+},
+{
+    242.4,245.2
+     better in 15 minutes, give her another 15 grams,
+},
+{
+    245.2,250.4
+     but do check her blood sugar as soon as you're able to. Low blood sugar that is not treated can
+},
+{
+    250.4,256.64
+     lead to severe hypoglycemia. Severe hypoglycemia is a very low blood sugar that may cause a child
+},
+{
+    256.64,262.72
+     to be very uncoordinated or uncooperative. They may not be able to swallow, may lose consciousness,
+},
+{
+    262.72,268.24
+     or have a seizure. In this instance, no one should ever force food into the mouth of someone who is not
+},
+{
+    268.24,270.3
+     awake as they may choke.
+},
+{
+    270.3,275.6
+     911 should be called, and if available, glucagon should be injected while waiting for the paramedics
+},
+{
+    275.6,276.6
+     to arrive.
+},
+{
+    276.6,279.26
+     Is glucagon the red box the pharmacy gave me?
+},
+{
+    279.26,281.16
+     I wasn't sure what that was for.
+},
+{
+    281.16,282.16
+     Exactly.
+},
+{
+    282.16,285.86
+     Glucagon is an injectable hormone that works the exact opposite of insulin.
+},
+{
+    285.86,288.74
+     Insulin lowers blood sugar, glucagon raises it.
+},
+{
+    288.74,290.62
+     Glucagon raises the blood sugar level
+},
+{
+    290.62,292.38
+     by helping to release extra sugar
+},
+{
+    292.38,295.18
+     that is stored in the liver into the bloodstream quickly.
+},
+{
+    298.28,300.74
+     The glucagon kit comes in two parts.
+},
+{
+    300.74,304.06
+     Inside the box is a bottle with a dry glucagon tablet
+},
+{
+    304.06,309.12
+     and a syringe pre-filled with sterile water. Once the two are mixed together, the solution is
+},
+{
+    309.12,314.12
+     only active for about 24 hours. Unused, the kit is good at room temperature
+},
+{
+    314.12,319.48
+     until the expiration date. There are two main manufacturers of glucagon. One is
+},
+{
+    319.48,323.92
+     called glucagon and comes in a red box. The other one is called glucagen and
+},
+{
+    323.92,330.08
+     comes in an orange box. They are used the exact same way. There are four steps to prepare the injection. You'll
+},
+{
+    330.08,333.76
+     notice these four steps in pictures on the top of the box in case you're nervous and
+},
+{
+    333.76,339.76
+     forget. First step, take the bottle and flip off the plastic top with your thumb. Once the
+},
+{
+    339.76,350.96
+     cap is off, the top will look like this. Take the pre-filled syringe and twist and pull the top to remove the cap. Second step, inject all the water from the syringe into the bottle.
+},
+{
+    350.96,355.52
+     You'll notice that the plunger in the syringe wants to come back out. That's expected.
+},
+{
+    355.52,362.48
+     Third, wrap your hand around both the bottle and the syringe and give it a few shakes to give the
+},
+{
+    362.48,365.2
+     water a chance to dissolve the tablet.
+},
+{
+    365.2,370.44
+     Lastly, you'll have to take the active solution from the bottle and put it back in the syringe.
+},
+{
+    370.44,374.4
+     Turn the syringe so the bottle is in the air and push any air that may have come into the
+},
+{
+    374.4,382.48
+     syringe back into the bottle and withdraw the active solution from the bottle into the syringe.
+},
+{
+    382.48,387.0
+     The glucagon dose ordered by the doctor should be typed on the pharmacy sticker on the outside of the kit.
+},
+{
+    387.0,390.0
+     In this example, we will be withdrawing all of the solution.
+},
+{
+    390.0,400.0
+     In order to withdraw all of the solution from the bottle, you have to pull the needle about halfway out of the bottle in order to position the tip of the needle at the bottom of the bottle, like this.
+},
+{
+    400.0,406.3
+     If you have all the solution in the syringe but there are air bubbles, don't
+},
+{
+    406.3,411.72
+     worry, the air bubbles in the syringe will not hurt the person. If you accidentally pull
+},
+{
+    411.72,417.16
+     the plunger completely out of the syringe, you can screw it back in. Now you are ready
+},
+{
+    417.16,423.16
+     to inject. Glucagon works faster if you inject it into a muscle. Two good places to inject
+},
+{
+    423.16,430.4
+     are on the top center of the thigh or in the top of the arm. We'll practice giving an injection into this sponge for demonstration.
+},
+{
+    430.4,435.76
+     If you have alcohol, wipe the outside of the skin. You may inject the needle straight up and down
+},
+{
+    435.76,442.56
+     or at a 90 degree angle. Put the entire needle in. Inject the medication just as fast as resistance
+},
+{
+    442.56,447.2
+     will let you. After the solution is injected, pull the needle out.
+},
+{
+    447.2,450.52
+     Expect a little bleeding and apply a bandage if needed.
+},
+{
+    450.52,453.8
+     Dispose of the syringe in a designated sharps container.
+},
+{
+    453.8,457.2
+     Once the injection is finished, roll the person on their side
+},
+{
+    457.2,460.8
+     as a side effect of glucagon is nausea or vomiting.
+},
+{
+    460.8,463.66
+     If not already done so, call 911.
+},
+{
+    463.66,466.0
+     It may take several minutes for the person's blood sugar to come up.
+},
+{
+    466.0,471.0
+     If the glucagon is not successful, the paramedics have other resources they can use.
+},
+{
+    471.0,475.0
+     When the person wakes up, they should start eating food with carbohydrates.
+},
+{
+    475.0,479.0
+     Start with fast-acting carbohydrates such as glucose tablets or juice,
+},
+{
+    479.0,485.84
+     and follow up with more complex carbohydrates such as a granola bar, cereal, or sandwich.
+},
+{
+    490.48,494.4
+     After the person is recovered, the diabetes team should be contacted for further instructions on frequency of blood sugar monitoring and possible insulin dose changes.
+},
+{
+    498.08,503.12
+     It is recommended that older children and adults with diabetes or medical alert identification or
+},
+{
+    503.12,506.48
+     jewelry identifying them as having diabetes.
+},
+{
+    506.48,510.8
+     Since younger children may not tolerate wearing jewelry, all caregivers should be informed
+},
+{
+    510.8,516.28
+     that the child has diabetes and how to recognize and treat hypoglycemia.
+},
+{
+    516.28,519.72
+     Children with diabetes should be taught from an early age to inform an adult if they are
+},
+{
+    519.72,525.7
+     not feeling well and praised if they are able to identify symptoms of hypoglycemia.
+},
+{
+    525.7,530.08
+     For people who inject insulin, hypoglycemia will happen from time to time.
+},
+{
+    530.08,535.6
+     However, there are many things that can be done to prepare for it and decrease the frequency.
+},
+{
+    535.6,538.44
+     Always carry a fast sugar source at all times.
+},
+{
+    538.44,540.8
+     Never leave the house without it.
+},
+{
+    540.8,549.5
+     Teach those closest to your child the symptoms and treatment for hypoglycemia. Check your child's blood sugar regularly, but especially whenever they don't feel well,
+},
+{
+    549.5,552.5
+     before and after exercise, or before bed.
+},
+{
+    552.5,557.5
+     Follow the meal and insulin plan to keep your child's food and insulin in balance.
+},
+{
+    557.5,562.5
+     Your child should always wear a medical alert ID and call your diabetes care team
+},
+{
+    562.5,569.64
+     if your child seems to be experiencing frequent low blood sugar. In summary, hypoglycemia is when the blood sugar level is below
+},
+{
+    569.64,573.68
+     the target range. Causes of low blood sugar include not eating enough food,
+},
+{
+    573.68,578.96
+     taking too much insulin, or exercise. Symptoms of low blood sugar include
+},
+{
+    578.96,586.56
+     feeling shaky, sweaty, dizzy, hungry, tired, irritable, or confused. Treatment is to eat 15 grams of
+},
+{
+    586.56,591.96
+     a fast sugar source and recheck the blood sugar in 15 minutes. Severe low blood sugar
+},
+{
+    591.96,598.44
+     is treated with a glucagon injection and calling 911. Prevention includes always carrying a
+},
+{
+    598.44,604.16
+     fast sugar source, teaching those around your child, following the insulin plan, checking
+},
+{
+    604.16,608.2
+     blood sugar as directed, wearing a medical alert ID,
+},
+{
+    608.2,612.04
+     and staying in contact with the diabetes care team.
+},
+{
+    612.04,614.52
+     Now, I know hypoglycemia sounds scary,
+},
+{
+    614.52,617.52
+     but if you're prepared, you can always treat it.
+},
+{
+    617.52,619.2
+     With regular blood sugar monitoring,
+},
+{
+    619.2,622.44
+     we can begin to see patterns that might predict hypoglycemia
+},
+{
+    622.44,625.54
+     and work together to prevent as much of it as we can.
+},
+{
+    625.54,626.54
+     Thank you.
+},
+{
+    626.54,626.74
+     You're welcome.
+},

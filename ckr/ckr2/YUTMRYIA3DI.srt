@@ -1,0 +1,492 @@
+{
+    0.0,4.0
+     Today I'm going to teach you how to administer a vitamin B12 shot,
+},
+{
+    4.0,10.0
+     either for yourself or as a caregiver who might be administering it to another patient.
+},
+{
+    10.0,12.0
+     First of all, I'm going to go through the supplies that you need.
+},
+{
+    12.0,17.0
+     You need an alcohol swab, or if you're at home and you don't have any alcohol swabs,
+},
+{
+    17.0,20.0
+     you can use your bottle of alcohol with a cotton ball.
+},
+{
+    20.0,24.0
+     You will need the syringe, and you will, of course, need your vitamin B12
+},
+{
+    24.0,26.0
+     that the physician called in for you.
+},
+{
+    26.0,30.0
+     And the physician probably would have called in your syringe with your needles also.
+},
+{
+    30.0,37.0
+     With my patient population, I do prefer the smaller needle, which is a 25 gauge 1 inch needle.
+},
+{
+    37.0,42.0
+     And actually that is the size of needle that they use to give you your seasonal flu shot.
+},
+{
+    42.0,45.32
+     So for all of you that have needle phobia,
+},
+{
+    45.32,47.24
+     it is okay to use a smaller needle.
+},
+{
+    48.56,52.12
+     You also, at home, I'm gonna use my little skin pad,
+},
+{
+    52.12,54.12
+     but you can also practice on it.
+},
+{
+    54.12,56.92
+     Orange or any kind of fruit, a lemon would work,
+},
+{
+    56.92,58.28
+     even an apple.
+},
+{
+    58.28,59.88
+     I like the orange and the lemons
+},
+{
+    59.88,62.24
+     because they're softer and that's more like skin-like
+},
+{
+    62.24,63.56
+     filling.
+},
+{
+    63.56,69.0
+     So what you'll do is go ahead and just open your alcohol swab
+},
+{
+    69.0,72.28
+     and get it ready or get your cotton ball ready.
+},
+{
+    72.28,74.56
+     I'm going to go ahead and take out the syringe.
+},
+{
+    74.56,77.48
+     And all the syringes that you use will always have numbers on it.
+},
+{
+    77.48,79.68
+     And the most common dosage of vitamin B12
+},
+{
+    79.68,83.92
+     is what we call 1CC or 1ML.
+},
+{
+    83.92,85.7
+     Now according to your physician,
+},
+{
+    85.7,87.5
+     he may choose to give you a different dose.
+},
+{
+    87.5,91.6
+     On the three CC syringe is numbered from a half actually
+},
+{
+    91.6,95.2
+     half inch or half CC to three millimeter millimeters
+},
+{
+    95.2,96.2
+     or three CCs.
+},
+{
+    96.2,99.5
+     You will always look at the focus on the one.
+},
+{
+    99.5,104.2
+     And then you will have of course your vial of vitamin B12
+},
+{
+    104.2,107.3
+     and on your bottle, it probably will not say Vitamin B12
+},
+{
+    107.3,111.5
+     it will say a long difficult name and it's called Cyanicobalamin.
+},
+{
+    111.5,115.9
+     So what we'll do is go ahead and prep the skin so you can practice with your orange
+},
+{
+    115.9,120.2
+     and you'll go ahead and take your alcohol and you will clean just the surface of the skin
+},
+{
+    120.2,124.06
+     just rub it a little bit and you might want to kind of fan it or let it
+},
+{
+    124.06,128.96
+     dry a little bit because sometimes when you inject the needle into the skin it might
+},
+{
+    128.96,132.4
+     cause a little bit of stinging or burning from the alcohol not from the
+},
+{
+    132.4,137.72
+     medication. You go ahead and just pull the cap straight off of your needle and
+},
+{
+    137.72,142.44
+     go ahead and pull what we call the plunger that's this little thing sticking
+},
+{
+    142.44,145.12
+     out here and hold on to the barrel of the syringe
+},
+{
+    153.6,156.16
+     and you will simply pull the plunger down to the number one. There's a little black rubber
+},
+{
+    162.24,165.0
+     stopper in this syringe and it is sometimes kind of hard for you to see but you will actually pull that red or the black stopper all the
+},
+{
+    165.0,169.56
+     way down until you reach the top of the line in the stopper.
+},
+{
+    169.56,173.84
+     There's looks like in this one there's actually two layers of lines and you can measure it
+},
+{
+    173.84,178.28
+     by stopping at the top layer of the plunger, not the point in the plunger.
+},
+{
+    178.28,183.24
+     So basically you're going to draw in one cc of air into this syringe.
+},
+{
+    183.24,186.52
+     And then you will take your bottle and when it's brand
+},
+{
+    186.52,190.2
+     new you will have a plastic cap on it which is a protective cap and you will
+},
+{
+    190.2,194.72
+     just simply pop it off. You will also take your alcohol and clean that off.
+},
+{
+    194.72,199.56
+     Even though the first use it is clean underneath that plastic cap it's okay
+},
+{
+    199.56,203.16
+     just to get in the habit to clean the top of the stopper because each time you
+},
+{
+    203.16,206.62
+     give the injection you will need to clean it just to basically clean off any
+},
+{
+    207.4,210.36
+     It's really not a sterilization alcohol is not a sterilization
+},
+{
+    211.28,216.98
+     Product, but it will just clean off the surface of any kind of dirt or anything that might have gotten on top of it
+},
+{
+    216.98,218.98
+     and then you will simply just
+},
+{
+    219.6,225.0
+     You can leave it on a surface a clean surface a flat table, or whatever you feel comfortable with.
+},
+{
+    225.0,231.0
+     And you will go ahead and just inject the needle in through the rubber stopper at the top of the bottle.
+},
+{
+    231.0,238.0
+     And each time you practice this and the more shots you give, you will actually develop your own technique.
+},
+{
+    238.0,242.0
+     And so you don't have to be exact on what I'm showing you.
+},
+{
+    242.0,247.62
+     And it's just whatever you feel comfortable doing on how you need to hold the syringe and how you need to
+},
+{
+    247.62,252.42
+     hold your bottle and actually when you inject it into somebody. So I'm going to
+},
+{
+    252.42,256.34
+     hold the bottle and I'm just going to take my dominant hand and of course I'm
+},
+{
+    256.34,261.3
+     left-handed and I'm going to push the plunger down so basically I'm pushing
+},
+{
+    261.3,266.6
+     the air into the bottle. So now you're ready to withdraw the medication.
+},
+{
+    266.6,269.72
+     And you're going to simply just turn up the bottle upside down,
+},
+{
+    269.72,271.44
+     hold your syringe.
+},
+{
+    271.44,273.04
+     And as I said before, everybody's
+},
+{
+    273.04,274.52
+     going to develop their own technique.
+},
+{
+    274.52,277.92
+     I actually just grasp the syringe with my pinky
+},
+{
+    277.92,279.44
+     and my fourth digit.
+},
+{
+    279.44,282.52
+     And then I have it held like this,
+},
+{
+    282.52,284.24
+     and I'm stabilizing it up here.
+},
+{
+    284.24,287.02
+     And I'm going to pull this plunger back and
+},
+{
+    287.38,291.56
+     I'm going to draw past the one and the reason for that is just
+},
+{
+    291.88,296.0
+     so you can actually you're going to have an air bubble probably here at the top of this range and
+},
+{
+    296.12,301.4
+     Then you can draw out more than you need and then push it back up and by pushing that back up to the one
+},
+{
+    301.56,304.48
+     you actually push the air bubble out and
+},
+{
+    305.76,310.32
+     pushing that back up to the one you actually push the air bubble out and in this this one it is out and sometimes it's real common that you will have
+},
+{
+    310.32,314.04
+     still some air bubbles in it. If that happens you can actually take your
+},
+{
+    314.04,319.44
+     finger and tap it or for me it's easier I can just stabilize the bottle,
+},
+{
+    319.44,323.46
+     stabilize the syringe and you can tap it on the side of a table and that brings
+},
+{
+    323.46,327.5
+     those bubbles to the top of the surface and gets rid of them.
+},
+{
+    327.5,330.7
+     So now you're ready just pull, you just pull the syringe straight back out.
+},
+{
+    330.7,336.66
+     So we've got the medicine drawn up and now we're ready to give the injection.
+},
+{
+    336.66,338.1
+     And we've already cleaned the surface.
+},
+{
+    338.1,341.64
+     And so what I'm going to do is I'm going to kind of make a C with my thumb and my index
+},
+{
+    341.64,345.04
+     finger and basically put it down on the skin and
+},
+{
+    345.04,349.6
+     kind of just pull the skin taut and you don't necessarily this is a muscle shot
+},
+{
+    349.6,353.52
+     and so you don't have to pinch up on the skin or anything so I'm just gonna kind
+},
+{
+    353.52,357.72
+     of pull it taut and then I'm gonna take this and you can hold it some people
+},
+{
+    357.72,360.88
+     hold it like a dart like they're gonna throw a dart you can hold it somehow
+},
+{
+    360.88,366.48
+     like a pencil if you're gonna hold hold a pencil on right. So again, whatever
+},
+{
+    366.48,372.16
+     you feel comfortable with. So as I'm going in, I'm going to go straight in basically at
+},
+{
+    372.16,377.04
+     a 90 degree angle and I'm going to go ahead and just push in and you go to go all the
+},
+{
+    377.04,380.32
+     way down to the hub of the needle. Basically you're going to cover up all the needle with
+},
+{
+    380.32,388.68
+     the skin. So here I actually take the C and I brace my pinky against
+},
+{
+    388.68,394.12
+     the skin and I grab it with my thumb and index finger. That way it's stable and
+},
+{
+    394.12,398.48
+     you're not wobbling around as you're pushing down into the medicine and you
+},
+{
+    398.48,403.6
+     won't hopefully it won't be painful to the patient if you do that. So I've got
+},
+{
+    403.6,407.3
+     it stable here where I'm not going to move the syringes I'm pushing the
+},
+{
+    407.3,408.64
+     medicine in.
+},
+{
+    408.64,414.08
+     So then I just take this free hand and then I grab it here and I push the medicine into
+},
+{
+    414.08,415.08
+     the skin.
+},
+{
+    415.08,417.84
+     And you don't have to go real slow and you don't have to go real fast.
+},
+{
+    417.84,422.28
+     If you just go at a gentle pace, then you basically you're done.
+},
+{
+    422.28,426.0
+     You let go of the syringe at the surface of the skin and you just pull straight back out and you're done. You let go of this range at the surface of the skin and you just pull straight back out
+},
+{
+    426.0,433.0
+     and you're done. You can actually take the alcohol swab if you want and go ahead and massage that area.
+},
+{
+    433.0,439.0
+     It actually helps the medicine get more absorbed into the body. And if it's bleeding, you might want to apply a bandaid.
+},
+{
+    439.0,445.48
+     Some people don't bleed. Some people do bleed. A lot of people that are on blood flinters might bleed and probably do need a band-aid.
+},
+{
+    445.48,453.72
+     The most common area for a patient if they're given it to themselves would be on the outside
+},
+{
+    453.72,456.52
+     of your thigh, on the lateral side of your thigh.
+},
+{
+    456.52,461.72
+     If you take your hand and you go from your knee up to your groin area and you divide
+},
+{
+    461.72,466.32
+     that into three sections, it's going to be that middle third section where you can give that shot to.
+},
+{
+    466.88,468.76
+     After you complete the injection,
+},
+{
+    468.76,471.92
+     then you need to make sure you probably dispose of the needle.
+},
+{
+    472.56,477.24
+     And you can use many household items such as a milk carton with a lid.
+},
+{
+    477.56,482.52
+     You can actually use a liquid detergent bottle that has a lid,
+},
+{
+    482.96,485.6
+     or you can also use a coffee can with a lid,
+},
+{
+    485.6,490.4
+     as long as they have lids in there secure where people can't reach in and get them
+},
+{
+    490.4,495.28
+     or they can puncture through the surface of the container.
+},
+{
+    495.28,498.72
+     My name is Cindy Anderson and I'm a nurse at Amarillo Diagnostic Clinic.
+},

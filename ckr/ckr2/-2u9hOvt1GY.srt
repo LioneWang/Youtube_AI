@@ -1,0 +1,164 @@
+{
+    0.0,9.44
+     Did you know that over 450,000 people were burned last year requiring medical attention?
+},
+{
+    9.44,12.24
+     And 72% of those burns were right at home.
+},
+{
+    12.24,15.8
+     So I know when it comes to your family, you want to minimize the pain and suffering.
+},
+{
+    15.8,18.94
+     And of course, you want things to get better, not worse.
+},
+{
+    18.94,22.32
+     So stay tuned to learn what to do as well as what not to do.
+},
+{
+    22.32,25.0
+     And today's topic, how to treat a burn.
+},
+{
+    25.0,31.8
+     Hi, I'm Captain Wayne Bennett here with another first aid tip from my one and done series.
+},
+{
+    31.8,36.4
+     Since burns affect the largest organ on the body, the skin, immediate action must be taken
+},
+{
+    36.4,37.88
+     to minimize the damage.
+},
+{
+    37.88,42.4
+     And keep in mind the two biggest risks when treating burns are infections and hypothermia
+},
+{
+    42.4,43.4
+     shock.
+},
+{
+    43.4,47.98
+     So for small burns, we will use water. On a a child that would be a burn smaller than the size of their
+},
+{
+    47.98,52.16
+     hand. For an adult that would be a burn smaller than the size of their two hands.
+},
+{
+    52.16,56.56
+     Water is safe to use on these size burns because it won't cause hypothermia shock.
+},
+{
+    56.56,60.76
+     So cool with water for at least 10 minutes to remove the heat and stop the
+},
+{
+    60.76,69.68
+     burn progression. Never use ice because this will add frostbite to already burned skin. Never use greasy items like butter or vaseline because that will
+},
+{
+    69.68,75.08
+     only trap in the heat and cause even more damage. To treat larger burns with blistering
+},
+{
+    75.08,79.6
+     or worse, we're going to put on some vinyl gloves and grab some dry sterile dressings.
+},
+{
+    79.6,83.78
+     Yes, the dressing could stick to the burn, but the biggest concern here is an infection
+},
+{
+    83.78,87.64
+     and preventing hypothermia, shock from cooling the body too quickly with water.
+},
+{
+    87.64,91.82
+     So a great solution to solve all the problems posed by burns is a product we use in the
+},
+{
+    91.82,94.88
+     fire department called Burn Free Burn Gel.
+},
+{
+    94.88,97.48
+     One of the best things in the world is a burn free gel dressing.
+},
+{
+    97.48,99.4
+     This is what we use in the fire service.
+},
+{
+    99.4,106.16
+     This is a great tool, soaking wet, cover the wound, and then just simply wrapping gauze.
+},
+{
+    106.16,107.88
+     And where can you find something like this?
+},
+{
+    107.88,109.24
+     You can find these on our website.
+},
+{
+    109.24,112.16
+     You can obviously find it on the internet, but it's not one of those things you're going
+},
+{
+    112.16,116.56
+     to find at a grocery store or at a regular pharmacy because it's pretty much a specialized
+},
+{
+    116.56,117.56
+     product.
+},
+{
+    117.56,122.72
+     Now we have your information on our website, myfoxla.com, but you're just in case people
+},
+{
+    122.72,125.0
+     want to know, it's disastersurvivalskills.com.
+},
+{
+    125.0,129.0
+     And then you need to get to a doctor right away.
+},
+{
+    129.0,139.0
+     You still need to go to a doctor because you always want to have a look at it, but the great thing about this dressing is it doesn't stick, stops a burning, stops a pain, kills any infection.
+},
+{
+    139.0,148.2
+     It's the best way to go. But again, if you don't have that handy, of course, always cool water, but at a minimum of 10 minutes in the water. And of course, don't let your family or the internet
+},
+{
+    148.2,153.6
+     talk you into those home remedies like mustard, mayonnaise, egg whites, butter, and even toothpaste.
+},
+{
+    153.6,157.72
+     Again, these things will only trap in the heat, allowing the skin to keep burning, or
+},
+{
+    157.72,162.88
+     put you at risk of infection, or both. Also remember on large, serious burns requiring
+},
+{
+    162.88,166.68
+     medical attention, anything you've rubbed in has to be scrubbed out.
+},
+{
+    166.68,172.0
+     For more detailed information on burns, check out our blog at disastersurvivalskills.com.
+},
+{
+    172.0,219.52
+     And thanks for watching. වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව� Thank you.
+},

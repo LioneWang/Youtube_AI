@@ -1,0 +1,852 @@
+{
+    0.0,7.64
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    9.52,12.8
+     Hi, I'm Bob Schrupp physical therapist, Brad Heineck physical therapist
+},
+{
+    12.8,16.04
+     Because we are the most famous physical therapists on the internet, in our opinion of course Bob
+},
+{
+    16.04,20.04
+     Brad we've done a video on this before but we're gonna do kind of a comprehensive one
+},
+{
+    20.36,24.92
+     This is on Tenacellbel and these are the absolute best treatments stretches and
+},
+{
+    25.78,32.32
+     Exercises you can do in our opinion. Yep. So and you've had tenicellabal on both arms. So you you're you're a good subject
+},
+{
+    32.32,37.4
+     Yeah, it's a very painful when it's in and it's you know, it's right up
+},
+{
+    37.4,40.28
+     It's painful and it limits you a lot people
+},
+{
+    40.28,45.72
+     I think they're shocked how much it hurts and And the thing about this is you look perfectly healthy.
+},
+{
+    45.72,47.44
+     It looks perfectly fine.
+},
+{
+    47.44,49.36
+     And you can just do the smallest little motion,
+},
+{
+    49.36,52.28
+     like opening a door, and it just will bite,
+},
+{
+    52.28,53.96
+     and it lets you know it right now.
+},
+{
+    53.96,55.28
+     Yeah, yeah, yeah, yeah.
+},
+{
+    55.28,57.12
+     All right, so the first thing is,
+},
+{
+    57.12,58.48
+     normally what it involves,
+},
+{
+    58.48,60.76
+     it is the muscle going into the tendon
+},
+{
+    60.76,62.4
+     and attaching to the bone here,
+},
+{
+    62.4,64.8
+     nine times out of 10, that's what it is.
+},
+{
+    64.8,67.86
+     And generally a lot of times it's gonna hurt
+},
+{
+    67.86,70.62
+     when you squeeze your hand or bring your wrist up
+},
+{
+    70.62,72.74
+     or deviate a little bit this way.
+},
+{
+    72.74,74.78
+     That's the indicator, because it'll hurt down there.
+},
+{
+    74.78,76.94
+     Those muscles go all the way down the forearm.
+},
+{
+    76.94,77.78
+     So, yeah.
+},
+{
+    77.78,79.46
+     And one thing I do when I have a patient,
+},
+{
+    79.46,81.74
+     I'll feel on that bone.
+},
+{
+    81.74,84.18
+     And usually where that bone is that connects,
+},
+{
+    84.18,85.6
+     very tender spot in there.
+},
+{
+    85.6,90.24
+     Alright so you're going to start off with ice massage. I mean and maybe this is something
+},
+{
+    90.24,91.88
+     you've done already Brad, do you want to show how that's done?
+},
+{
+    91.88,96.76
+     Yep, you can just take direct ice, fill a cup up, it can be styrofoam or paper. Bob likes to
+},
+{
+    96.76,99.68
+     start off with them, I like paper ones better but it doesn't matter, fill it about this high,
+},
+{
+    99.68,105.52
+     put it in the freezer so it doesn't tip over, freeze it solid and then peel away
+},
+{
+    106.32,111.28
+     the top. So you have some ice exposed, you can rub the ice to get the sharp edges off
+},
+{
+    111.28,116.16
+     and go right over that area. I usually rub for five minutes, the first one or two minutes it
+},
+{
+    116.16,120.96
+     kind of burns and is a little uncomfortable but then it goes numb, skin turns red and at five
+},
+{
+    120.96,124.72
+     minutes and I think you even do a little less than that don't you Bob? Yeah I mean if you're
+},
+{
+    124.72,128.48
+     really busy you can probably do it in two three minutes. It's gonna help. So sure. Yeah, it's gonna help
+},
+{
+    128.84,133.46
+     The second thing that you may want to go ahead and invest in a brace a tennis elbow brace
+},
+{
+    133.46,138.56
+     Yeah, I like the one by aircast here just me personally Brad. It's worked well with patients
+},
+{
+    138.6,142.1
+     It's nice these they have a bladder on a little air bubble thing there
+},
+{
+    142.1,145.4
+     And you usually put that over the sore area
+},
+{
+    145.4,147.28
+     and on the muscle belly just in front of it.
+},
+{
+    147.28,148.96
+     So if right there was a sore spot,
+},
+{
+    148.96,150.6
+     we're gonna go right in front of it,
+},
+{
+    150.6,152.04
+     and you'll know, because when you're on it
+},
+{
+    152.04,152.88
+     and you tighten this up.
+},
+{
+    152.88,154.24
+     Yeah, you're not on the sore area,
+},
+{
+    154.24,156.68
+     just a little bit off of it more towards the hands.
+},
+{
+    156.68,157.52
+     Exactly.
+},
+{
+    157.52,158.92
+     I thought I said that.
+},
+{
+    158.92,159.76
+     It was a little confusing.
+},
+{
+    159.76,161.48
+     I know I didn't say it very well, did I?
+},
+{
+    161.48,163.12
+     But what you're trying to do is take,
+},
+{
+    163.12,167.08
+     you know, the muscle, the stress of the muscle now is a little bit
+},
+{
+    167.08,169.36
+     more right here instead of where it attaches.
+},
+{
+    169.36,171.44
+     Right, kinda spreads it out.
+},
+{
+    171.44,172.72
+     Did you use a brace pad or not?
+},
+{
+    172.72,176.24
+     Yeah, I used one and one thing I found within other people,
+},
+{
+    176.24,179.22
+     some patients of mine, is to get it in the right spot,
+},
+{
+    179.22,180.48
+     sometimes when you're working,
+},
+{
+    180.48,183.68
+     if you're working that physical type job and you bend it,
+},
+{
+    183.68,185.24
+     it will get in the crux of your elbow
+},
+{
+    185.24,190.1
+     And it's uncomfortable so then it would kind of bother you and it all depends on your situation
+},
+{
+    190.1,196.1
+     But they are helpful. It doesn't take away the problem, but it seems to help.
+},
+{
+    196.1,199.6
+     At least you can work with it as long as your elbow is not real flexed a lot.
+},
+{
+    199.6,203.0
+     Okay, first treatment you may want to do just to Bob just wait.
+},
+{
+    204.12,208.0
+     Right over here. Oh. Oh yeah by the way before we go any further we want to make sure
+},
+{
+    208.0,212.0
+     a lot of people are new to our channel. Want to make sure if you have a minute just go ahead.
+},
+{
+    212.0,216.0
+     Alright if you have a second please hit the subscription button.
+},
+{
+    216.0,220.0
+     We upload videos every day and they're all on things like this
+},
+{
+    220.0,224.0
+     that can be helpful to you and help you stay fame-free, fit,
+},
+{
+    224.0,226.26
+     healthy, etc., et cetera.
+},
+{
+    226.26,228.1
+     And we appreciate it, so let's go on.
+},
+{
+    228.1,229.42
+     All right, moving on.
+},
+{
+    229.42,232.7
+     This is a very low level exercise,
+},
+{
+    232.7,234.7
+     but just to start putting a little bit of stress
+},
+{
+    234.7,237.1
+     on the area without making it worse.
+},
+{
+    237.1,238.62
+     So all you're gonna do is,
+},
+{
+    238.62,240.94
+     every, you know, throughout the day,
+},
+{
+    240.94,242.3
+     you can do this every hour, in fact,
+},
+{
+    242.3,243.38
+     is all you're gonna do is lift your,
+},
+{
+    243.38,245.4
+     make a fist and squeeze. And you're gonna do is lift your, make a fist and squeeze.
+},
+{
+    245.4,246.56
+     And you're gonna feel a little bit of pain,
+},
+{
+    246.56,248.12
+     but that's okay.
+},
+{
+    248.12,249.04
+     Squeeze.
+},
+{
+    249.04,250.32
+     You don't wanna get it to the sharp pain,
+},
+{
+    250.32,251.16
+     but a little bit.
+},
+{
+    251.16,253.56
+     You do this 10 times, like I said,
+},
+{
+    253.56,255.28
+     four to five times a day.
+},
+{
+    255.28,257.2
+     And you notice he's got his wrist up,
+},
+{
+    257.2,258.36
+     we call that extended,
+},
+{
+    258.36,260.28
+     that's the extended position of the wrist.
+},
+{
+    260.28,263.16
+     And that's where you want it, not like this.
+},
+{
+    263.16,268.3
+     All right, now this next one is one that we've found a lot of people have had a lot of help with.
+},
+{
+    268.3,270.22
+     Lonnie, can you throw me a pillow?
+},
+{
+    270.22,271.58
+     There's one over there.
+},
+{
+    271.58,273.98
+     He meant to say a lot of success.
+},
+{
+    273.98,275.46
+     What did I say? Help.
+},
+{
+    275.46,277.9
+     Oh, well it's kind of true too.
+},
+{
+    277.9,281.98
+     But it has been a nice, and it's not real hard to do, you can do it to yourself.
+},
+{
+    281.98,287.96
+     So what we're going to do is cross fiber friction massage, you're going to find the spot here in the right
+},
+{
+    287.96,290.92
+     off the bone and you're going to move a little bit more towards the hand and
+},
+{
+    290.92,294.04
+     that's usually the spot where you're going to do this and you're going to
+},
+{
+    294.04,298.64
+     take one finger or two fingers you're going to go across the fibers. The
+},
+{
+    298.64,302.04
+     fibers of the muscles go this way so we're going to take in the massage and
+},
+{
+    302.04,307.68
+     go this way. And what this does because a lot of times what has happened over time is that scar tissue
+},
+{
+    307.68,311.72
+     has formed in that tendon or even a little bit in the muscle brand.
+},
+{
+    311.72,316.36
+     And that scar tissue is very weak and it breaks open very easily.
+},
+{
+    316.36,320.28
+     So what happens is it starts to heal and you think, oh it's getting better and then you
+},
+{
+    320.28,323.04
+     use it and it breaks open and it starts all over again.
+},
+{
+    323.04,325.22
+     So this helps it heal strong.
+},
+{
+    325.22,328.46
+     So like this, instead of like a cobweb.
+},
+{
+    328.46,330.12
+     Right, we don't, that's kinda,
+},
+{
+    330.12,331.34
+     we've got some other things to do,
+},
+{
+    331.34,333.7
+     but it is definitely a nice technique that this helps.
+},
+{
+    333.7,335.62
+     So you're gonna go across like this
+},
+{
+    335.62,337.8
+     and you can do this for a good five minutes
+},
+{
+    337.8,338.94
+     if you can tolerate it,
+},
+{
+    338.94,340.78
+     and you can do this every day if you like.
+},
+{
+    340.78,342.14
+     Right, if you can tolerate it.
+},
+{
+    342.14,343.54
+     You'll know if it's the right technique
+},
+{
+    343.54,345.0
+     because when you start it'll be a little painful
+},
+{
+    345.0,348.68
+     But within 30 seconds to a minute the pain should start decreasing
+},
+{
+    348.68,353.44
+     It might be very painful to start off with Brad and but yeah, it should level off at least
+},
+{
+    353.68,357.6
+     If it's getting worse and worse and worse as you do this it may be too soon
+},
+{
+    357.6,362.62
+     Right, you may have to ice first. Give it a little rest for a day or two and put the cold packs back on. Yeah
+},
+{
+    362.64,366.8
+     All right, what we're gonna do right now Brad is, is, so this is a great one to do.
+},
+{
+    366.8,368.16
+     I really want you to focus on this one.
+},
+{
+    368.16,370.24
+     It's probably one of the ones that'll be most helpful.
+},
+{
+    370.24,372.24
+     But we're also gonna show you some other techniques
+},
+{
+    372.24,376.12
+     that are maybe more for those stubborn types of,
+},
+{
+    376.12,379.12
+     of tennis elbow that don't go away.
+},
+{
+    379.12,380.92
+     Because quite often what we'll see
+},
+{
+    380.92,382.52
+     in people who have tennis elbow
+},
+{
+    382.52,384.32
+     is that that particular elbow
+},
+{
+    384.32,387.32
+     doesn't straighten as much as the other elbow. Now sometimes you can
+},
+{
+    387.32,391.08
+     compare the two and you'll see it's just slightly bent and then these techniques
+},
+{
+    391.08,394.16
+     work out really well for this. So we're going to show the first one up. So if you
+},
+{
+    394.16,397.96
+     find a doorway I'm going to simulate this that this is a doorway here you
+},
+{
+    397.96,401.68
+     know I'm inside the doorway. What you're going to do is you're actually trying to
+},
+{
+    401.68,407.32
+     move this lower forearm that way while this is supported
+},
+{
+    407.32,408.32
+     by the doorway.
+},
+{
+    408.32,409.32
+     Sure.
+},
+{
+    409.32,411.4
+     So it's a little mobilization we're calling it.
+},
+{
+    411.4,413.48
+     So I don't know if you can see it in the camera.
+},
+{
+    413.48,414.64
+     Here's the corner.
+},
+{
+    414.64,417.92
+     You can, you know, it's just a molding of a door, a door jam perhaps.
+},
+{
+    417.92,420.84
+     So keep your thumb up, okay.
+},
+{
+    420.84,428.88
+     And while the thumb is up, I'm taking, you know, right here here in the between the thumb and the first finger here and I'm pushing, pushing.
+},
+{
+    428.88,433.16
+     And while I'm pushing, I'm pushing continuously. I'm going to go ahead and squeeze my hand like this.
+},
+{
+    434.28,437.64
+     And while you're doing this, it should feel better.
+},
+{
+    437.64,442.68
+     Right. No pain with this. This, what you can do first, Brad, is do it this way and that hurts.
+},
+{
+    442.92,443.24
+     Yep.
+},
+{
+    443.24,445.44
+     Okay. You might even squeeze a washcloth. Sure. Then you do it this way and that hurts. Okay, you might even squeeze a washcloth.
+},
+{
+    445.44,451.3
+     Sure. Then you do it this way and squeeze and it should feel better. If it does, you
+},
+{
+    451.3,455.88
+     know you're doing the right thing. This is a good technique if it does. You're doing
+},
+{
+    455.88,460.52
+     the right thing. You can even do it at different bends, Brad. You can do it straight and do
+},
+{
+    460.52,466.8
+     it a different way. I had a golfer that she was a semi pro golfer. Okay, and this actually is what took her
+},
+{
+    466.8,471.56
+     technique work for her. Yep. Good. We'll go back. All right going back to some of the other techniques now
+},
+{
+    471.56,474.64
+     These are different techniques for you to try and see which ones work for you
+},
+{
+    474.64,478.76
+     Right again if the elbow is not straightening all the way one technique very simple technique
+},
+{
+    478.76,483.32
+     They do is actually just to have you turn your arm this way and you just let it drop
+},
+{
+    483.64,489.28
+     Sure, and you do that ten times and you're doing kind of a little self-mobilization on the elbow.
+},
+{
+    489.28,493.84
+     And you know you're doing the right thing as each time you do it, it feels a little bit
+},
+{
+    493.84,494.84
+     better.
+},
+{
+    494.84,495.84
+     Yeah, exactly.
+},
+{
+    495.84,499.48
+     If by some reason it feels worse each time then you'll stop.
+},
+{
+    499.48,503.96
+     The one I liked, the one when I get a little bit of pain Brad, I actually just take my
+},
+{
+    503.96,508.36
+     arm and I turn it this way, the hand is facing me and then I go this way
+},
+{
+    508.36,515.66
+     I turn it even a little farther and bend it so he's rotating it this way the palm away in this situation ten times I
+},
+{
+    516.24,518.28
+     Did want to bring up something about this one
+},
+{
+    518.28,523.02
+     I know with patients I've had and my own experiences when you get out of bed this
+},
+{
+    523.64,527.92
+     Really painful obviously you're not going to do this one early in the morning you got to be up
+},
+{
+    527.92,532.36
+     you might try this one that might that might be work and you can also go the
+},
+{
+    532.36,536.0
+     other direction where you turn the palm away from you and turn it this way and
+},
+{
+    536.0,541.52
+     again I'm twisting it and bending it at the same time and again if one of these
+},
+{
+    541.52,544.96
+     directions feels better with repetition that's when you're going to stick with
+},
+{
+    544.96,546.84
+     because usually one will and one will probably...
+},
+{
+    546.84,551.0
+     This is the one that worked for me. I like this one. I would do it both directions actually.
+},
+{
+    551.0,552.8
+     Both ways are okay. Good.
+},
+{
+    552.8,558.56
+     It worked out for me. Another one to do Brad, this one might be easier than the one we just showed up against the wall.
+},
+{
+    558.92,563.6
+     You're going to put your arm down. Your fingers are pointed toward you like this.
+},
+{
+    564.12,566.08
+     The elbow is straight as you can. Tie
+},
+{
+    566.08,571.92
+     out of the way and now again I'm doing the same thing. I'm pushing that way. Yeah let's give
+},
+{
+    571.92,582.8
+     them a different view here. Force is that direction. So pressure on, pressure off. Okay. Pressure on,
+},
+{
+    582.8,586.0
+     pressure off. About ten times typically. Pressure off. Yep, ten Okay. Pressure on, pressure off. About 10 times typically?
+},
+{
+    586.0,587.0
+     Pressure on, pressure off.
+},
+{
+    587.0,588.0
+     Yep, 10 times.
+},
+{
+    588.0,590.0
+     Again, we're looking for positive results.
+},
+{
+    590.0,590.5
+     Right.
+},
+{
+    590.5,591.5
+     As you do better.
+},
+{
+    591.5,593.5
+     Yep, feels better as you do more.
+},
+{
+    593.5,595.5
+     Finally, when the pain is better,
+},
+{
+    595.5,597.5
+     you want to do some strengthening, Brad.
+},
+{
+    597.5,598.0
+     Sure.
+},
+{
+    598.0,599.0
+     Show the eccentric strength.
+},
+{
+    599.0,602.0
+     You bet.
+},
+{
+    602.0,605.12
+     I like to use stretch band or tubing like this.
+},
+{
+    605.12,607.3
+     You can use like a dumbbell.
+},
+{
+    607.3,610.08
+     I just think this is easier to vary the resistance.
+},
+{
+    610.08,611.82
+     You're going to go down like this.
+},
+{
+    611.82,613.58
+     Take the other hand, you're going to help it up.
+},
+{
+    613.58,616.52
+     This is when you're starting and then you're going to let it down slow.
+},
+{
+    616.52,622.84
+     It's called eccentric or negatives, which is a really good way to strengthen a muscle.
+},
+{
+    622.84,625.58
+     And as it gets better, you you know maybe you can go into
+},
+{
+    625.58,630.26
+     the typical concentric but initially the eccentric really does help healing
+},
+{
+    630.26,634.22
+     more. This is really gets directly to that I can feel these muscles
+},
+{
+    634.22,638.98
+     starting to burn already just after it looks easy but it's not exactly.
+},
+{
+    638.98,642.86
+     Alright if there's any other videos you'd like us to make make sure you
+},
+{
+    642.86,645.1
+     comment below right I always like to hear from you
+},
+{
+    645.1,647.1
+     We'll do what we can for you. Take care. Thanks
+},

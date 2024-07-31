@@ -1,0 +1,592 @@
+{
+    0.0,13.24
+     As with all joints, you'll start your examination with inspection.
+},
+{
+    13.24,19.02
+     I look at the knee initially to make sure there's no loss of muscle tone and bulk and
+},
+{
+    19.02,21.36
+     any swelling or any discoloration.
+},
+{
+    21.36,25.58
+     The first thing that I will do, I'll have the patient do a quad set.
+},
+{
+    25.58,30.86
+     And quad sets are important because it is an important part of rehabilitation.
+},
+{
+    30.86,34.54
+     It's also an important part in the diagnostic evaluation because if the
+},
+{
+    34.54,40.02
+     patient can't do a full quad set because of pain or swelling, then you immediately
+},
+{
+    40.02,43.16
+     know that with your physical therapist you're going to have to design a
+},
+{
+    43.16,50.6
+     therapeutic regimen which is going to get their quad back. The quad is the principal medial dynamic stabilizer
+},
+{
+    50.6,56.0
+     of the patella. If they can't get that muscle firm and maintain its integrity, strength,
+},
+{
+    56.0,59.2
+     endurance, then they're going to have trouble with their knee. You want to look for his
+},
+{
+    59.2,66.34
+     bulk, comparing the injured side to the uninjured side, and you want to then palpate looking for tone.
+},
+{
+    66.34,68.84
+     When you are looking for an effusion of the knee,
+},
+{
+    68.84,72.18
+     what I try to do is I will milk the fluid down
+},
+{
+    72.18,73.98
+     from the suprapetellar area.
+},
+{
+    73.98,76.38
+     I'll push it out of the medial joint space
+},
+{
+    76.38,79.38
+     into the lateral, and then I quickly flip my fingers
+},
+{
+    79.38,81.58
+     and press lateral to medial.
+},
+{
+    81.58,84.42
+     If you see a fluid wave, they have an effusion.
+},
+{
+    84.42,89.48
+     Now, there is a specific test called the apprehension test. If patients have either subluxed
+},
+{
+    89.48,94.76
+     or dislocated the patella, when you have them down and you try to displace it
+},
+{
+    94.76,98.72
+     laterally, they'll tighten up and they won't let you do it. They'll be very
+},
+{
+    98.72,102.48
+     uncomfortable with that, i.e. the apprehension test. Patients who have
+},
+{
+    102.48,105.36
+     acute or chronic knee pain who won't let you do
+},
+{
+    105.36,110.06
+     this because they complain of medial knee pain, you have to be suspicious that they're
+},
+{
+    110.06,114.14
+     chronically subluxing their patella or in fact maybe have dislocated their patella out
+},
+{
+    114.14,121.74
+     of the femoral groove. When you displace them medially, you now have pushed the patella,
+},
+{
+    121.74,130.4
+     the medial side of the patella, so it's easy to palpate on this side. And when you palpate there, you can, if you reproduce their pain there, then they have patellofemoral dysfunction,
+},
+{
+    130.4,137.2
+     manifest as pain on the medial side of the patella. There's a specific test, it's called the Thomas
+},
+{
+    137.2,143.44
+     test, for hip flexor flexibility. And specifically, if patients have tight hip flexors, they can be at
+},
+{
+    143.44,145.92
+     risk for patellofemoral pain.
+},
+{
+    145.92,150.8
+     The other test that we assess for lower extremity flexibility routinely is hamstring flexibility,
+},
+{
+    150.8,153.28
+     and we record it as the popliteal angle.
+},
+{
+    153.28,157.96
+     The popliteal angle is usually 10 or 15 degrees greater in women than it is in men, and the
+},
+{
+    157.96,162.84
+     key that you're looking for is loss of flexibility in hamstrings as well as asymmetry.
+},
+{
+    162.84,165.0
+     And patients who have an injured extremity
+},
+{
+    165.0,167.0
+     and have lost flexibility on that side,
+},
+{
+    167.0,169.0
+     you know you have to improve that flexibility
+},
+{
+    169.0,171.24
+     in order for them to rehabilitate
+},
+{
+    171.24,173.24
+     to get fully back to where they were.
+},
+{
+    173.24,175.74
+     The last test for flexibility is the Ober test,
+},
+{
+    175.74,179.24
+     which tests for iliotibial band flexibility.
+},
+{
+    179.24,183.24
+     Iliotibial band tendonitis is a very common chronic tendonitis,
+},
+{
+    183.24,188.52
+     and you test for the tightness of the iliotibial band where if it is inflexible or if you have a positive
+},
+{
+    188.52,193.96
+     Ober test, when you do a specific maneuver, the knee will stay up, and rather than flopping
+},
+{
+    193.96,195.96
+     down.
+},
+{
+    195.96,199.0
+     Let me talk a little bit about testing cartilage of the knee specifically.
+},
+{
+    199.0,204.6
+     I'm going to, on this model, take the patellar tendon away to give you a good look at a model
+},
+{
+    204.6,205.56
+     medial meniscus,
+},
+{
+    205.56,206.56
+     of the lateral meniscus.
+},
+{
+    206.56,210.98
+     And also in this view, you'll notice that the anterior cruciate ligament has been cut
+},
+{
+    210.98,217.36
+     away to allow better visualization of the inside of the joint.
+},
+{
+    217.36,221.28
+     When I do tests for the cartilage, there's a couple of specific tests I do.
+},
+{
+    221.28,224.16
+     One, you'll notice the test called the bounce home test.
+},
+{
+    224.16,227.0
+     I start by holding the patient's
+},
+{
+    227.0,232.0
+     heel and literally bringing them up into extension. Patients who have significant carolagenous
+},
+{
+    232.0,237.0
+     tears, meniscal tears, will not necessarily let you go into full extension. So if a patient
+},
+{
+    237.0,242.0
+     can come into full extension, the so-called bounce home test, that suggests to you that
+},
+{
+    242.0,249.76
+     if they have a carolage tear, it may not be a big tear. If they stop right about here then maybe you have a cartilage tear and you need to investigate
+},
+{
+    249.76,251.08
+     it further.
+},
+{
+    251.08,258.68
+     You want to try to palpate along the medial and lateral joint lines.
+},
+{
+    258.68,263.56
+     What you do when you palpate, you identify the distal femoral condout and you identify
+},
+{
+    263.56,265.2
+     the tibial plateau,
+},
+{
+    265.2,267.88
+     and right in there you'll be able to feel an angle.
+},
+{
+    267.88,273.78
+     As you walk your finger along this rim here, to this angle,
+},
+{
+    273.78,278.24
+     any specific tenderness here that's very discreet
+},
+{
+    278.24,281.56
+     suggests, in the context of the appropriate history,
+},
+{
+    281.56,291.7
+     suggest that you have a cartilage tear on the medial meniscus and then when you come to the lateral joint line same thing you find this angle here between the
+},
+{
+    291.7,298.56
+     lateral femoral condyle the tibial plateau and that right there is the meniscus you don't necessarily
+},
+{
+    298.56,306.48
+     feel it as a discreet entity but over time you will come to appreciate exactly what you're
+},
+{
+    306.48,311.6
+     feeling underneath the skin is cartilage. The next thing we do is a test
+},
+{
+    311.6,318.88
+     called the McMurray test, and McMurray test is to test for cartilage tears. What
+},
+{
+    318.88,324.92
+     I'm trying to do is identify tears along the menisco rim here, either of the
+},
+{
+    324.92,327.68
+     medial meniscus or the lateral meniscus.
+},
+{
+    327.68,331.08
+     So what you want to do is you want to create lots of angles
+},
+{
+    331.08,333.64
+     which the cartilage interfaces with the femur
+},
+{
+    333.64,336.68
+     and see if you can pick up some clunk or a click
+},
+{
+    336.68,339.28
+     or a patient tells you that's uncomfortable.
+},
+{
+    339.28,341.76
+     And so the way I do the examination is
+},
+{
+    341.76,343.8
+     have the patient lay on their back
+},
+{
+    343.8,348.32
+     and I initially go into full flexion of the knee, full extension.
+},
+{
+    348.32,351.2
+     And then remember this is the right knee model.
+},
+{
+    351.2,358.0
+     I will externally rotate the tibia and I try to hold the hip and neutral, go into flexion
+},
+{
+    358.0,366.96
+     and extension, and then I internally rotate the tibia, go into full flexion and extension. Then what I try to do is an exam
+},
+{
+    366.96,373.28
+     called the modified McMurray exam. When I do that, I externally rotate the whole hip, and that puts
+},
+{
+    373.28,380.16
+     a little bit more, if this is the right, I rotate it out this way, it puts a little bit more pressure
+},
+{
+    380.16,385.0
+     on the medial cartilage, but I'll do the same basic techniques.
+},
+{
+    385.0,391.0
+     Externally rotate the tibia, full flexion and extension, internally rotate the tibia,
+},
+{
+    391.0,393.0
+     full flexion and extension.
+},
+{
+    393.0,397.0
+     And then what I do is I take the hip and I put it into internal rotation.
+},
+{
+    397.0,400.0
+     So now the hip is going, pointing internally.
+},
+{
+    400.0,406.48
+     But I do the same examinations and here as you might imagine, You're putting a little bit more pressure on the lateral meniscus.
+},
+{
+    406.48,409.08
+     I'll do the same techniques.
+},
+{
+    409.08,413.24
+     Internally rotate the tibia, flexion and extension.
+},
+{
+    413.24,416.52
+     Externally rotate the tibia, flexion and extension.
+},
+{
+    416.52,421.08
+     When you test for the medial collateral ligament, you have the patient's knee at zero degrees
+},
+{
+    421.08,423.4
+     of flexion, full extension.
+},
+{
+    423.4,425.0
+     And you initially put a valgus stress on them
+},
+{
+    425.0,427.0
+     so you try to open them up that way.
+},
+{
+    427.0,430.0
+     And if they have instability, that is, they open up here,
+},
+{
+    430.0,433.0
+     or if that reproduces their pain and they give you a history
+},
+{
+    433.0,436.0
+     which is consistent with medial collateral ligament tear,
+},
+{
+    436.0,438.0
+     then you've made your diagnosis.
+},
+{
+    438.0,441.0
+     What I then will do is I'll open them up to about 30 degrees of flexion
+},
+{
+    441.0,444.0
+     and repeat the examination with valgus stress,
+},
+{
+    444.0,449.9
+     and you're looking for the same thing there. Now Now I'll flip the model over and show how one tries to assess the
+},
+{
+    449.9,456.4
+     lateral collateral ligament demonstrated here. At zero degrees of flexion you try to open
+},
+{
+    456.4,469.0
+     them up and then 30 degrees of flexion you try to open them up. Rotate out. Good. Okay.
+},
+{
+    469.0,473.0
+     The anterior cruciate ligament is assessed using four different techniques.
+},
+{
+    473.0,478.0
+     There's the anterior drawer technique. The anterior drawer technique is simple to do.
+},
+{
+    478.0,480.0
+     It's not as sensitive, but it's pretty specific.
+},
+{
+    480.0,484.0
+     So the patients have a history consistent with the anterior cruciate ligament injury.
+},
+{
+    484.0,488.72
+     They were weight bearing and they twisted and they felt something pop.
+},
+{
+    488.72,493.08
+     If they have a positive anterior drawer test, which is manifested as increased laxity on
+},
+{
+    493.08,496.64
+     the injured side compared to the uninjured side, then they have an anterior cruciate
+},
+{
+    496.64,497.64
+     ligament tear.
+},
+{
+    497.64,500.88
+     However, if it's negative, that doesn't mean they haven't torn the anterior cruciate
+},
+{
+    500.88,501.88
+     ligament.
+},
+{
+    501.88,503.8
+     Then you have to do some other specific testing.
+},
+{
+    503.8,507.68
+     The tests that I do are the lockman maneuver. And in the lockman maneuver you
+},
+{
+    507.68,513.12
+     look for trying to translate the tibia anteriorly relative to the femur. And
+},
+{
+    513.12,516.68
+     the important thing is asymmetry. A patient may feel a little bit lax on the
+},
+{
+    516.68,520.04
+     injured side, but if they're really lax compared to the un-injured side, then you
+},
+{
+    520.04,526.96
+     have that's a supporting evidence of the ACL injury. The other technique is the modified lockman,
+},
+{
+    526.96,529.84
+     which for me is much easier for larger patients,
+},
+{
+    529.84,533.24
+     football players and track and field athletes, et cetera.
+},
+{
+    533.24,535.12
+     It allows me to get my hands around the tibia
+},
+{
+    535.12,537.92
+     a little bit better and I think do a more sensitive exam.
+},
+{
+    537.92,540.32
+     And again, you're looking for increased laxity
+},
+{
+    540.32,543.24
+     on that testing compared to the uninjured side.
+},
+{
+    543.24,544.84
+     The final test is the pivot shift,
+},
+{
+    544.84,547.02
+     and this is probably the most difficult,
+},
+{
+    547.02,549.64
+     but probably the most sensitive of all the tests.
+},
+{
+    549.64,552.58
+     You lean into the long axis of the leg,
+},
+{
+    553.78,554.78
+     the injured leg.
+},
+{
+    554.78,557.6
+     You internally rotate the hip a little bit,
+},
+{
+    557.6,559.68
+     and you provide a gentle, valgus stress.
+},
+{
+    559.68,562.5
+     So you're pressing in a valgus fashion on the knee.
+},
+{
+    562.5,567.68
+     You start at full extension, then you try to flex, and then you take from flexion down into extension.
+},
+{
+    567.68,573.64
+     What you're feeling for there is in a knee that doesn't have a sufficient or an intact
+},
+{
+    573.64,577.98
+     anterior cruciate ligament, you feel the tibia and the femur slipping and sliding on one
+},
+{
+    577.98,582.12
+     another, and you feel the injured side, you feel the uninjured side.
+},
+{
+    582.12,588.36
+     Now the nature of the pivot shift is such that if a patient has an insufficient anterior cruciate ligament and you do that a couple of times, they really
+},
+{
+    588.36,593.64
+     don't like it, so you generally get one shot at it. Now one of the exam techniques assessing
+},
+{
+    593.64,599.2
+     for posterior cruciate ligament sprains or insufficiency, what you do there is you have
+},
+{
+    599.2,606.84
+     the patient lie supine and you have them flex their hips to 45 degrees and their knees to 90 degrees.
+},
+{
+    606.84,610.8
+     And as their posterior cruciate ligament has been torn, what will happen is that tibia
+},
+{
+    610.8,613.6
+     will sag posteriorly down towards the table.
+},

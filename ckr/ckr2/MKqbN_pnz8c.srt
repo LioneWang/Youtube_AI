@@ -1,0 +1,292 @@
+{
+    0.0,12.0
+     Research has shown the importance of physical activity in exercise for all people with osteoarthritis,
+},
+{
+    12.0,14.24
+     also for hand osteoarthritis.
+},
+{
+    14.24,18.68
+     It helps to relieve pain and stiffness and to keep people independent.
+},
+{
+    18.68,24.2
+     It has proven that regular use of the hands doesn't make osteoarthritis worse.
+},
+{
+    24.2,29.0
+     In fact, it helps maintain joint mobility and hand strength.
+},
+{
+    29.0,34.0
+     Therefore, people should be advised to keep using their hands during daily activities
+},
+{
+    34.0,38.0
+     and to complete exercises two or three times a week.
+},
+{
+    39.0,41.0
+     Hi, I'm Christine.
+},
+{
+    41.0,67.7
+     My doctor sent me to see you because he says I have something called osteoarthritis in my hands. Yn ymgyrch, mae'r dros yw'n ddod i'n gwybod i chi, boi'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'n ddod i'r cyfnodd yn ymddangos i ddweud o hyd o'r othrytus. Mae'n gweithio ymddangos i ddweud o'r othrytus,
+},
+{
+    67.7,85.6
+     mae'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio, ac mae'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio. A'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio.
+},
+{
+    85.6,106.2
+     Felly, mae'n gweithordeb yn ymdillodd,
+},
+{
+    106.2,109.92
+     ac mae'n ddiddordeb yn ymdillodd yn ymdillodd yn ymdillodd,
+},
+{
+    109.92,111.52
+     fel y ddiddordeb yn ymdillodd.
+},
+{
+    111.52,113.28
+     Ond mae'n ddiddordeb yn ymdillodd yn ymdillodd,
+},
+{
+    113.28,116.0
+     ac mae'n ddiddordeb yn ymdillodd.
+},
+{
+    116.0,118.8
+     Felly, mae'n ddiddordeb yn ymdillodd,
+},
+{
+    118.8,120.56
+     ddim yn ymdillodd yn ymdillodd,
+},
+{
+    120.56,123.76
+     yn ymdillodd yn ymdillodd,
+},
+{
+    123.76,127.0
+     oedd yn ymdillodys yw'r rhaid.
+},
+{
+    127.0,131.0
+     Felly, y gallwn y gallwn y gallwn yw'r eich eiswys yw'r rhaid o'r wneud,
+},
+{
+    131.0,134.0
+     a'r eich eiswys yw'r rhaid o'r eich eiswys,
+},
+{
+    134.0,139.0
+     a'r eich eiswys yw'r eich eiswys yw'r rhaid o'r eich eiswys yw'r rhaid o'r eich eiswys.
+},
+{
+    139.0,185.46
+     Felly, rhaid o'n rhoi'n rhoi eiswys yw'r eiswys, mae'n rhaid o'r eiswys yw'r eiswys, mae'n gwybod i'n rhaid o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweith to spread the thumb out wide. So the first exercise is one where you're making
+},
+{
+    185.46,191.4
+     circles with your thumbs and making them, that's it, as round as you can. So you're
+},
+{
+    191.4,197.04
+     touching your index finger and then spanning out. Great. And you're going to
+},
+{
+    197.04,209.36
+     repeat that to each finger. So then the middle finger, nice circle, really good, and then out, and ring finger, and out, and then the
+},
+{
+    209.36,215.78
+     little finger, and out, very good. And you'd repeat that to each finger another
+},
+{
+    215.78,221.48
+     four times. Then to keep the fingers supple, what we'll get you to do, you can
+},
+{
+    221.48,228.4
+     still rest on your sideways on your hands like that, and we want you to curl the tips of the fingers in as far as you're able,
+},
+{
+    228.4,234.6
+     so that you're just hooking around and then rolling from the big knuckles so they get a stretch as well.
+},
+{
+    235.6,238.6
+     And then back out and straight.
+},
+{
+    240.0,244.4
+     Lovely. And again, you'd repeat that so that you've done it five times.
+},
+{
+    267.0,273.16
+     The next exercise is our full strength. i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w You hold it in your fingers and you squeeze in gently using about just under half of your full effort and hold for 10 seconds.
+},
+{
+    273.16,276.86
+     And then when you've done 10 seconds you can relax.
+},
+{
+    276.86,279.12
+     And again you would repeat that.
+},
+{
+    279.12,282.84
+     We want you to do enough that they feel a bit tired by the end of it.
+},
+{
+    282.84,284.76
+     The muscles have been worked.
+},
+{
+    284.76,285.4
+     That's it. So that's for your fingers. Felly mae'n ddweud yn ymddangos ar y ddweud. Mae'n ddweud yn ymddangos. Yn ymddangos.
+},
+{
+    286.4,288.4
+     Felly mae'n ddweud yn y ddweud.
+},
+{
+    288.4,289.9
+     Mae'n ddweud yn y ddweud.
+},
+{
+    289.9,291.9
+     Felly, mae'n ddweud yn y ddweud yn y ddweud.
+},
+{
+    292.6,295.9
+     Felly mae'n ddweud yn y ddweud yn y ddweud yn y ddweud yn y ddweud.
+},
+{
+    295.9,297.9
+     Felly mae'n ddweud yn y ddweud.
+},
+{
+    297.9,299.9
+     Mae'n ddweud yn y ddweud.
+},
+{
+    299.9,301.4
+     Mae'n ddweud yn y ddweud.
+},
+{
+    301.4,302.4
+     Mae'n ddweud.
+},
+{
+    302.4,303.4
+     Mae'n ddweud.
+},
+{
+    303.4,307.0
+     Mae'n ddweud yn y ddweud. Mae'n ddweud'r ddweud. Gweithio. Rwy'n meddwl yma yn y ddweud yma.
+},
+{
+    307.0,309.0
+     Ac y gallwn y gallwn ychydig yn y ddweud,
+},
+{
+    309.0,312.0
+     y ddweud yma yn y ddweud yn y ddweud.
+},
+{
+    312.0,314.0
+     Mae'n ddweud yma yn y ddweud yma,
+},
+{
+    314.0,316.0
+     mae'n ddweud yma yn y ddweud,
+},
+{
+    316.0,318.0
+     mae'n ddweud yma yn y ddweud
+},
+{
+    318.0,320.0
+     yn y ddweud yma.
+},
+{
+    320.0,322.0
+     A'n ddweud i'n ddweud i'n ddweud
+},
+{
+    322.0,324.0
+     yn 5 sefydliad.
+},
+{
+    324.0,330.0
+     Mae'n ddweud i'n ddweud i'n ddweud, mae'n ddweud i'n ddweud i'n ddweud. Mae'n ddweud i'n ddweud i'n ddweud. and try and hold it there for five seconds. It's quite hard work. Yes. And as you come back in, let it go slowly. Don't let it go fast.
+},
+{
+    330.0,333.0
+     Brilliant. Well done.
+},
+{
+    333.0,339.0
+     Now try to keep the top two joints as bent as you can as you come out and up.
+},
+{
+    339.0,341.0
+     Lovely.
+},
+{
+    341.0,365.0
+     Well done. Hold for five and lower in. It's quite tiring, isn't it? Yes, it is. Felly, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, dweud, llwyddoedd yn y ddweud o'r llwyddoedd yn y ddweud.
+},
+{
+    365.0,368.0
+     A oeddiwch, rydyn ni'n gwybod y llwyddoedd yn y ddweud,
+},
+{
+    368.0,371.0
+     oedd y gallwn ni'n ddweud o'r llwyddoedd yn y ddweud,
+},
+{
+    371.0,375.0
+     ac rydyn ni'n ddweud o'r llwyddoedd yn y ddweud o'r llwyddoedd yn y ddweud,
+},
+{
+    375.0,379.0
+     ac rydyn ni'n ddweud o'r llwyddoedd yn 30 sg.
+},
+{
+    379.0,381.0
+     A oedda'n ddweud o'r llwyddoedd,
+},
+{
+    381.0,393.44
+     oeddu'r llwyddoedd yn y ddweud o'r llwyddoedd yn y ddweud. stretching the muscles across the palm and stretching the joints and the fingers. That's great. And then relax. Well done. Thank you. Thank you. So with the
+},
+{
+    393.44,398.28
+     exercises for them to work it's something that you have to be able to keep doing
+},
+{
+    398.28,402.88
+     regularly and that's the hard part. But if you can keep doing them three times a
+},
+{
+    402.88,409.08
+     week as a maintenance program to keep your strength and then gently build up the strength and the
+},
+{
+    409.08,412.0
+     movement you'll get the most benefit from them.
+},
+{
+    412.0,414.0
+     Thanks for your help.
+},
+{
+    414.0,None
+     My pleasure. you you
+},

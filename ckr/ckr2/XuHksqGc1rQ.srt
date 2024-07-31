@@ -1,0 +1,104 @@
+{
+    0.0,4.88
+     Hi, this is Dr. Lou Jacobs at Jacobs Chiropractic Acupuncture Center in Portland, Maine, and I am
+},
+{
+    4.88,10.96
+     here to help you get rid of the sinus pressure and sinus pain that you're having that's keeping
+},
+{
+    10.96,20.64
+     you up all night without the use of any medications. All you need is these. Here's how it works. I'm
+},
+{
+    20.64,25.12
+     not going to get into the details. I want this to be quick. There are six points on your face
+},
+{
+    25.12,27.04
+     that will relieve pressure in your sinuses,
+},
+{
+    27.04,30.08
+     and they can be found just like this.
+},
+{
+    30.08,35.04
+     The first are right here at the inner margin of your eyebrow.
+},
+{
+    35.04,38.8
+     You apply pressure there for 10 to 30 seconds
+},
+{
+    38.8,40.64
+     until you start to feel your forehead
+},
+{
+    40.64,42.84
+     and the pressure clear out a little bit
+},
+{
+    42.84,48.92
+     and then you move on to the next points. The next points are down here where the crease of your cheek meets
+},
+{
+    48.92,54.72
+     your nose right there. Apply pressure for 10 to 30 seconds until you start to
+},
+{
+    54.72,59.0
+     feel things clear out hopefully and then you move on to the next point. The last
+},
+{
+    59.0,64.28
+     points are down here at the lower crease down here right up underneath your
+},
+{
+    64.28,65.08
+     cheekbones.
+},
+{
+    65.08,68.24
+     Apply a little bit of pressure there, mild to moderate,
+},
+{
+    68.24,71.24
+     for anywhere from 10 to 30 seconds,
+},
+{
+    71.24,74.64
+     or until you feel your sinuses start to clear out,
+},
+{
+    74.64,75.88
+     and then you release.
+},
+{
+    75.88,77.8
+     And you can repeat this as much as you'd like.
+},
+{
+    77.8,81.32
+     If you do it too much, you might feel a little bit sore.
+},
+{
+    81.32,83.96
+     These points are used in traditional Chinese medicine,
+},
+{
+    83.96,87.0
+     an acupuncture to help, among many other things,
+},
+{
+    87.0,91.0
+     relieve pressure in your sinuses. They work really, really well.
+},
+{
+    91.0,95.0
+     If you have a sinus infection, go to your medical doctor and get some antibiotics.
+},
+{
+    95.0,102.0
+     Don't let things get out of control, but for minor irritation, pressure, pain in the...
+},

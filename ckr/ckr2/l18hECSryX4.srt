@@ -1,0 +1,744 @@
+{
+    0.0,7.64
+     Bob and Brad the two most famous physical therapists on the internet
+},
+{
+    9.72,11.88
+     Hi folks, I'm Bob Schrupp physical therapist
+},
+{
+    11.88,13.56
+     I'm Brad Heineck physical therapist
+},
+{
+    13.56,16.76
+     Together we are the most famous physical therapists on the internet again in our opinion Bob
+},
+{
+    16.98,21.4
+     It's always our opinion and it's always right according to us not our wives, right?
+},
+{
+    21.4,22.02
+     All right today
+},
+{
+    22.02,26.16
+     We're gonna talk about Brad exercises to help heal a bulging disc versus a herniated disc
+},
+{
+    26.16,29.52
+     Do we have to do different things between, you know, that's what we're gonna discuss today
+},
+{
+    29.92,33.84
+     You know, what is the difference between the two, so this is this is kind of a technical
+},
+{
+    34.56,41.2
+     Question actually, it is somewhat but I really believe that more often than not a bulging disc is probably not even giving you trouble
+},
+{
+    41.44,47.62
+     It's more often the herniated discs are giving you trouble, the bulging discs can but generally enough I don't think they're bulging
+},
+{
+    47.62,54.24
+     out not to even hit the nerves so let's talk about you've got the disc which is
+},
+{
+    54.24,58.78
+     made up of a tough fibrous outer lining the green ball of our disc looks like
+},
+{
+    58.78,63.64
+     that Bob we're doing a little analogy here yeah so a tough fibrous outer
+},
+{
+    63.64,67.64
+     lining and then it's got a soft inner lining like a toothpaste almost
+},
+{
+    67.64,70.64
+     Right, that's a nucleus pulposus. All right, so
+},
+{
+    71.4,73.4
+     We got two
+},
+{
+    73.44,80.6
+     vertebrae here which you'd pull out of the back, right Brad? Right exactly so this would be like L5 and L4
+},
+{
+    80.6,85.06
+     It's usually the lower lumbar area that gets the injured disc. It gets the trouble, right?
+},
+{
+    85.06,91.38
+     Now normally a disc, you know a healthy disc like this, it gives you a little bit more height and it helps you the disc, you know
+},
+{
+    91.38,96.36
+     the vertebrae move without giving trouble. So your back can flex, extend and rotate a little bit.
+},
+{
+    96.36,102.44
+     But over time if you do a lot of sitting and a lot of lifting, the back of the disc can start to wear out and
+},
+{
+    102.92,105.6
+     eventually what can happen is we can actually
+},
+{
+    105.6,107.6
+     You gotta use some real muscle on that
+},
+{
+    107.6,108.6
+     You wanna go to the angle?
+},
+{
+    108.6,111.48
+     Yeah, we don't want to break our cuffs here, but here we have
+},
+{
+    112.04,115.12
+     There we have I don't know if you're gonna consider the bulging disc
+},
+{
+    115.12,121.48
+     That would be a bulging disc because what happens with a herniated disc is there actually gets ends up being a crack in here and
+},
+{
+    121.68,123.68
+     Some of the fluid starts coming out
+},
+{
+    124.08,125.5
+     That's a herniated disc.
+},
+{
+    125.5,131.3
+     Okay, so that a bulging disc is just it just bulges like this. And it's not
+},
+{
+    131.3,136.18
+     uncommon as you age to have a bulging disc, it's not uncommon as you age to
+},
+{
+    136.18,140.34
+     have a herniated disc. They're very common in fact as you get up to 50s and
+},
+{
+    140.34,145.88
+     60s. So okay because they've done MRIs on people without any symptoms they have bulging discs
+},
+{
+    145.88,152.62
+     They have herniated discs without any symptoms the body has adapted or it has not pushed into some sensitive nerve or whatever
+},
+{
+    152.84,157.64
+     So Brad and I just this is how we approach it no matter if you have a bulging disc or herniated disc
+},
+{
+    157.8,159.8
+     We're gonna go buy symptoms
+},
+{
+    159.8,165.4
+     Exactly treat your symptoms. What can we do to change and make your symptoms better?
+},
+{
+    165.52,167.28
+     That is the key here, right?
+},
+{
+    167.28,169.62
+     And we're going to even go into a little more detail on this
+},
+{
+    169.62,174.62
+     But there's some people that have not watched us yet and let's just inform them on how we can right in case you haven't already
+},
+{
+    174.62,176.12
+     You know just new to our channel
+},
+{
+    176.12,182.16
+     Please take a second to subscribe to us we provide videos on a stay healthy fit pain-free like this and we upload every day
+},
+{
+    182.44,186.8
+     Exactly so Bob before we go on I just wanted to show this little model quickly.
+},
+{
+    186.8,187.64
+     Yeah, one scoop to this.
+},
+{
+    187.64,190.56
+     This is a pretty good real life model of a disc.
+},
+{
+    190.56,192.16
+     Here we've got the same vertebra.
+},
+{
+    192.16,194.12
+     Is it clear, Lonnie?
+},
+{
+    194.12,198.68
+     Okay, so we got the L5 here, L4, and the disc here.
+},
+{
+    198.68,199.72
+     And they have a little model.
+},
+{
+    199.72,203.8
+     This red bump right here represents a bulging
+},
+{
+    203.8,205.8
+     or herniated disc and then they have an
+},
+{
+    205.8,210.24
+     actual little model of more what maybe a disc may look like. I don't know if this
+},
+{
+    210.24,213.28
+     That almost looks like a herniated disc because look the red stuff the nucleus
+},
+{
+    213.28,217.52
+     pulposus has actually extended out beyond the borders. Right, I think this model had
+},
+{
+    217.52,221.2
+     a healthy one here and this was a semi healthy but this is probably more of
+},
+{
+    221.2,224.88
+     the shape and the look in the real disc and this is what I thought when they'd
+},
+{
+    224.88,225.6
+     say you slip a disc I thought it would stay the shape and the look in the real disc. And this is what I thought when they'd say,
+},
+{
+    225.6,228.44
+     you slip a disc, I thought it would stay like this
+},
+{
+    228.44,229.88
+     and the whole thing would shift over
+},
+{
+    229.88,231.44
+     to the right a quarter an inch
+},
+{
+    231.44,232.76
+     and then you get your back cracked
+},
+{
+    232.76,235.16
+     and it would shift it back in and life would be good.
+},
+{
+    235.16,236.44
+     It's not how it works.
+},
+{
+    236.44,238.88
+     This model I think is much more realistic.
+},
+{
+    238.88,241.52
+     So bulging disc, the first thing,
+},
+{
+    241.52,242.8
+     if you have a bulging disc,
+},
+{
+    242.8,244.8
+     let's stop it from becoming a hernia disc.
+},
+{
+    244.8,245.6
+     Exactly.
+},
+{
+    245.6,247.76
+     So one thing you're gonna first do is make sure
+},
+{
+    247.76,250.96
+     when you're sitting, you're gonna sit correctly.
+},
+{
+    250.96,254.16
+     Because a lot of times it's prolonged sitting
+},
+{
+    254.16,258.0
+     that quite often now lifting, I mean, back pain
+},
+{
+    258.0,260.2
+     and hernia discs have become a problem
+},
+{
+    260.2,262.2
+     of prolonged sitting, not lifting.
+},
+{
+    262.2,263.48
+     Can you, I have a roll towel, Brad?
+},
+{
+    263.48,264.92
+     You bet.
+},
+{
+    264.92,266.16
+     So one thing you're gonna wanna do
+},
+{
+    266.16,269.26
+     is when you're sitting in your chair or in your car,
+},
+{
+    269.26,270.84
+     you're gonna wanna make sure that you,
+},
+{
+    270.84,273.4
+     just wanna give me one of those, that's fine.
+},
+{
+    273.4,276.08
+     I got a roll, we lost our roll towel, Bob.
+},
+{
+    276.08,277.72
+     A lot of times what we do is we take a towel,
+},
+{
+    277.72,280.0
+     we roll it up and then we put tape on it,
+},
+{
+    280.0,282.92
+     we just put like duct tape on it,
+},
+{
+    282.92,284.08
+     that way it holds in place.
+},
+{
+    284.08,285.2
+     But you can take a roll towel.
+},
+{
+    285.2,288.04
+     What's nice about this is you can vary the size
+},
+{
+    288.04,291.36
+     with some people, especially when they're having
+},
+{
+    291.36,293.2
+     a herniated disc or a bulging disc.
+},
+{
+    293.2,294.64
+     Oh, you found it.
+},
+{
+    294.64,297.08
+     They wanna have a larger towel.
+},
+{
+    297.08,299.38
+     I found that with people that they tend to like.
+},
+{
+    299.38,300.98
+     And then over time, as it feels better,
+},
+{
+    300.98,302.76
+     they go to a smaller towel.
+},
+{
+    302.76,304.6
+     Put it in the low back, around the belt level.
+},
+{
+    304.6,308.88
+     You'll find out where it feels the most comfortable. that's going to put a little bit of arch in
+},
+{
+    308.88,313.36
+     your back and that's going to help prevent that bulging disc from becoming a herniated disc.
+},
+{
+    313.36,319.52
+     Right. A lot of car seats now Bob have some pretty good lumbar supports. I've had patients
+},
+{
+    319.52,326.56
+     they have the my English I have people I've had patients that had nice lumbar supports and didn't even know it
+},
+{
+    326.56,332.32
+     I walk out to their car show them how to work it and their eyes open and say wow is this nice
+},
+{
+    332.32,335.84
+     My car does this? Yeah exactly so make sure that you don't already have it in place
+},
+{
+    336.0,342.48
+     The other thing you want to make sure is that probably limit your lifting and also lift correctly when you are going to lift
+},
+{
+    342.48,344.48
+     Exactly this type of lifting
+},
+{
+    344.52,349.44
+     When you're bending the back like this this this is what helps push that disc out. Right. So
+},
+{
+    350.28,354.92
+     You can even bend your knees and still lift incorrectly. See how I'm rounded out here Brad?
+},
+{
+    355.4,357.68
+     So do you want to use the stick real quick? Sure
+},
+{
+    360.74,363.4
+     Not that you have a stick in place or with you
+},
+{
+    363.4,365.58
+     But this will give you a good visualization.
+},
+{
+    365.58,371.08
+     If I'm lifting correctly, there's contact points on my head, mid-back and low-back.
+},
+{
+    371.08,373.8
+     I'm lifting correctly now. I keep it all straight.
+},
+{
+    373.8,376.84
+     If I'm lifting incorrectly, there's only one contact point.
+},
+{
+    376.84,381.24
+     Even though I'm bending my knees, I'm still lifting incorrectly.
+},
+{
+    381.24,383.24
+     It's much more stressed on that area.
+},
+{
+    383.24,387.58
+     And that's going to turn your bulging disc into a herniated disc. So let's let's let's get
+},
+{
+    387.58,391.86
+     those two things in place. Limit your sitting as much as you can. We talked
+},
+{
+    391.86,395.86
+     about this when we both had back pain. Right. Both of us didn't even sit. We
+},
+{
+    395.86,400.22
+     would either stand or lay down. Right. I mean I did that for when I was in the
+},
+{
+    400.22,404.3
+     midst of school. I've got a friend right now. His wife is an attorney. She's sitting
+},
+{
+    404.3,410.16
+     all the time. She's got back. She got the same problem, she bought one of the computer stands that stand up so she can
+},
+{
+    410.16,415.04
+     actually work while she stands at the computer. Wonderful idea, yeah it's nice to have those
+},
+{
+    415.04,420.48
+     available now. Do lots of walking too, walking is really good for your back, gets oxygen to it,
+},
+{
+    420.48,427.82
+     try to walk for at least 20 minutes, it's just going to be good for it. Walking on a flat surface I mean if it hurts so bad you can't walk you're not ready for it yet
+},
+{
+    427.82,434.02
+     But when you are typically a flat surface not up and down a hill or on a crown road where you're very good point Brad
+},
+{
+    434.18,438.88
+     All right, so then you're going to start your exercise which normally the treatment of choice for
+},
+{
+    439.42,444.4
+     You know bulging disc or herniated disc is the McKenzie method. We have lots of videos on this
+},
+{
+    444.4,444.84
+     Balging disc or herniated disc is the McKenzie method. We have lots of videos on this
+},
+{
+    450.6,452.36
+     But usually what you start off with you're gonna start off in a what we call a prone position on your stomach and
+},
+{
+    454.84,458.08
+     You might start off just by laying here a little bit You know in your back straight now some people can't even lay flat like this
+},
+{
+    458.08,461.96
+     Sometimes they have to have a pillow underneath them to start off rad right as a matter of fact
+},
+{
+    461.96,468.56
+     Should we show that Bob so they really get a just of it or just just take a pillow right about at the waistline and
+},
+{
+    468.56,472.48
+     that'll make it feel better tolerable. I've had people I had to use two pillows
+},
+{
+    472.48,475.72
+     and then eventually they were able to work away from that get away from the
+},
+{
+    475.72,479.36
+     pillows and then eventually they could get up to this position on prone on
+},
+{
+    479.36,484.28
+     elbows the prone prop here and then eventually we start putting the hands
+},
+{
+    484.28,488.52
+     underneath the shoulders and we start doing press-ups. Can you see how that might push that
+},
+{
+    488.52,493.44
+     bulge back in Brad? Can you visualize that? I can. We hope that you know our
+},
+{
+    493.44,498.56
+     viewers can but it's bringing the bones together. Right. So it's helping push
+},
+{
+    498.56,502.36
+     that back in. Right and we've got some other videos if they look at that model
+},
+{
+    502.36,505.16
+     and try and visualize that. Now a hernia disc you may have to got some other videos. If they look at that model and try and visualize that.
+},
+{
+    507.58,510.54
+     Now, a hernia disc, you may have to do some other things which we are kind of some more advanced methods.
+},
+{
+    510.54,512.96
+     But with just a bulging disc quite often,
+},
+{
+    512.96,514.76
+     I think you can just do press ups like this.
+},
+{
+    514.76,515.6
+     Sure.
+},
+{
+    515.6,519.0
+     So, and then eventually you want to get all the way up here.
+},
+{
+    519.0,521.34
+     And at some point, sometimes you need to even do
+},
+{
+    521.34,524.32
+     a little over pressure with a belt or with a rolled sheet.
+},
+{
+    524.32,529.44
+     Yeah. Do we want to grab a sheet? Sure.
+},
+{
+    529.44,536.32
+     Okay, so you take a sheet and you're going to roll it up.
+},
+{
+    536.32,540.4
+     That's done very well Bob. Like a tornado. I didn't really do it that well.
+},
+{
+    540.4,544.08
+     And then you're going to go ahead. But you have done it well. I've tried.
+},
+{
+    544.08,545.1
+     And then so you're going to go along like this and now you're gonna go ahead, but you did you have done it well. I've tried and then so you're gonna go
+},
+{
+    545.1,547.1
+     Along like this and now you're gonna use your hands
+},
+{
+    547.76,551.72
+     To actually give a little over pressure here and now I'm gonna stretch it like that
+},
+{
+    551.72,554.06
+     Can you move this elbow a second there you go try it again?
+},
+{
+    554.32,562.1
+     So the sheet is actually locking down and putting support on the low back and that helps push that bulge back in
+},
+{
+    562.8,565.64
+     And stare but sometimes we actually put our hands on there
+},
+{
+    565.64,566.48
+     back and do it.
+},
+{
+    566.48,567.32
+     Oh yeah, you've got.
+},
+{
+    567.32,568.68
+     And provide the over pressure.
+},
+{
+    568.68,572.52
+     But don't have your spouse do that to your children
+},
+{
+    572.52,574.3
+     because they may not know what they're doing.
+},
+{
+    574.3,576.6
+     Again, I really wanna emphasize, Bob,
+},
+{
+    576.6,579.44
+     all these techniques you are only gonna do them
+},
+{
+    579.44,582.16
+     if it makes your back feel better.
+},
+{
+    582.16,584.48
+     If the first time you do it, it's not so good
+},
+{
+    584.48,588.28
+     but you do it two or three times and it clearly is feeling better continue but after the
+},
+{
+    588.28,591.48
+     second or third time or if you've been laying on your stomach for a while and
+},
+{
+    591.48,595.08
+     it doesn't get better you're not ready for this yet or you may have a
+},
+{
+    595.08,598.28
+     different problem. It goes back to our whole point Brad that we're going by
+},
+{
+    598.28,602.6
+     symptoms aren't we? If it's making the symptoms better it's making the pain go
+},
+{
+    602.6,605.5
+     up your leg and into your back it's working if it's not the symptoms better, it's making the pain go up your leg and into your back. It's working.
+},
+{
+    605.5,607.84
+     If it's not, it may be making it worse
+},
+{
+    607.84,608.92
+     and so you gotta stop.
+},
+{
+    608.92,611.68
+     And we've got a really nice playlist.
+},
+{
+    611.68,613.72
+     They're titled under sciatica
+},
+{
+    613.72,615.92
+     because oftentimes they're related.
+},
+{
+    615.92,617.06
+     And if you look at those,
+},
+{
+    617.06,620.32
+     you're gonna see a nice education
+},
+{
+    620.32,621.16
+     on how to treat your back.
+},
+{
+    621.16,623.76
+     I will link that at the very end here, Brad.
+},
+{
+    623.76,626.86
+     I'll put the whole playlist at the end of the video which is coming up right now
+},
+{
+    627.36,630.32
+     Yeah, it's been very successful. I'll put it down here somewhere.
+},
+{
+    630.32,636.98
+     This playlist. Alright, thanks for watching and remember Brad and I can fix just about anything except for that
+},
+{
+    637.82,639.82
+     Broken heart. Oh, you're gonna put it up there. Yeah
+},
+{
+    640.48,None
+     Where do you think it's gonna be? All right, thanks.
+},

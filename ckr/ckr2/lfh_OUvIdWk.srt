@@ -1,0 +1,120 @@
+{
+    0.0,2.8
+     Kapag kayo ay bystander sa isang accidente,
+},
+{
+    2.8,8.68
+     kagaya ng vehicular accident at ang victim ay sugatan at maaaring nabaliyan.
+},
+{
+    8.68,11.0
+     Na rito ang inyong maaaring maitulong.
+},
+{
+    18.0,22.84
+     Tumawag agad ng emergency medical services kagaya ng 911 UNTV,
+},
+{
+    22.84,27.0
+     ibigay ang mga informasyong kailangan ng mga emergency dispatcher.
+},
+{
+    27.0,34.0
+     Kagaya ng exaktong lugar, uri ng incidente, ilan ang involved at pinsalan ng victimat.
+},
+{
+    34.0,38.0
+     Mayroon dalawang klase ng fracture o bali sa buto.
+},
+{
+    38.0,42.0
+     Ito ay ang tinatawang na close fracture at open fracture.
+},
+{
+    42.0,47.3
+     Kapag close fracture na bali ang buto pero hindi ito lumabas sa balat.
+},
+{
+    47.96,50.54
+     Kabalig tara naman ng open fracture.
+},
+{
+    50.8,54.68
+     Makikita agad ang bali dahil lumabas na ang buto sa balat.
+},
+{
+    55.4,61.34
+     Kapag kayo ay bystander sa ganitong injury at kayo ay nakahandang tumulong directly sa victimah
+},
+{
+    61.58,63.68
+     na rito ang inyong maaring gawin.
+},
+{
+    64.2,67.3
+     Protektahan muna ng guantes ang inyong makamay.
+},
+{
+    68.08,71.92
+     Kung wala naman ito ay maaaring gumamit ng malinis na plastic.
+},
+{
+    77.4,79.58
+     Tapan ang sukat ng malinis na tela,
+},
+{
+    80.14,92.4
+     pero ingatang wag madiinan ang buto na nabali.
+},
+{
+    95.68,98.08
+     Mag-apply ng direct pressure sa paligid lamang ng sugat upang matigil ang pagdurugon ito.
+},
+{
+    104.08,105.0
+     Pina kamahalaga na may immobilize ang bahagi ng katawan na nabaliyan.
+},
+{
+    105.0,150.0
+     Maaaring gumamit ng splint o anong matigas na bagay upang mapanatiling twid ang bahagi na nabali. Kaya nangayon sa mga kakakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalapang sa mga kakalap siya ng kasiguraduhan na may darating natulong mula sa mga emergency medical services.
+},
+{
+    150.0,158.0
+     Tandaan kapag kayo ay bystander ito ang mga halagang maitulong sa isang victima na may fracture o bali sa buto,
+},
+{
+    158.0,161.0
+     makatawag agad ng emergency medical services.
+},
+{
+    161.0,165.24
+     Prevent blood loss. Matigil ang matinding pagturugon na may mga malayang mga mal makatawag agad ng emergency medical services.
+},
+{
+    166.04,167.64
+     Prevent blood loss.
+},
+{
+    168.24,170.6
+     Matigil ang matinding pagdurugo ng sugat.
+},
+{
+    171.52,172.68
+     Immobilization.
+},
+{
+    173.28,177.0
+     Mahalagang wag igalaw ang bahagi ng katawan na may fracture.
+},
+{
+    177.8,181.52
+     Mapanatili siyang conscious at mapakalima ang paciente
+},
+{
+    181.52,183.68
+     hanggang dumating ang rescue team.
+},
+{
+    183.8,None
+     at mapakalima ang pasyente hanggang dumating ang rescue team.
+},

@@ -1,0 +1,68 @@
+{
+    0.0,5.0
+     Mae'r cyfnodd yn fawr yn ymddiad.
+},
+{
+    6.0,8.0
+     Mae'r cyfnodd yn fawr yn ymddiad,
+},
+{
+    8.0,11.0
+     yn ymddiad, yn ymddiad, yn ymddiad.
+},
+{
+    15.0,16.0
+     Mae'r cyfnodd yn fawr yn ymddiad,
+},
+{
+    16.0,17.0
+     mae'r cyfnodd yn fawr yn ymddiad,
+},
+{
+    17.0,19.0
+     mae'r cyfnodd yn fawr yn ymddiad.
+},
+{
+    20.0,21.0
+     Mae'n gwybod.
+},
+{
+    24.0,28.0
+     Mae'r cyfnodd yn fawr yn ymddiad, mae'r cyfnodd yn fawr yn ymddiad, yn ymddiad, yn ymddiol. Mae'n gwybod yn ymddiol, mae'n gwybod yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol.
+},
+{
+    67.0,72.0
+     Mae'r gwybod, fel y gwybod, fel y gwybod,
+},
+{
+    72.0,106.0
+     fel y gwybod, ysgol, ysgol, o'r piliol. Felly, mae'n rhaid i'r ffordd o'r gwybod, mae'n rhaid i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwyod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddet o'n ysgol.
+},
+{
+    108.0,113.0
+     Mae'r ffordd yn y bach yn y bach yn helpu.
+},
+{
+    116.0,117.0
+     Felly mae'r bach yn y bach yn y bach yn y bach,
+},
+{
+    119.0,120.0
+     ond mae'n bach yn cael ei ffyrdd,
+},
+{
+    122.0,124.0
+     yn ymgyrch yn ymgyrch yn y cwm, mae'n gweithio'n gweithio'n gweithio.
+},
+{
+    124.0,127.0
+     ydych chi'n gwybod y teimlo'r teimlo'r holl, rydyn ni'n gwybod i'r holl.
+},
+{
+    131.0,134.0
+     Rydyn ni'n gofyn o holl, o ddweud o'r holl, a o'r holl o'r holl o'r holl.
+},
+{
+    136.0,146.0
+     Rydyn ni'n gofithio'r gweithio.
+},

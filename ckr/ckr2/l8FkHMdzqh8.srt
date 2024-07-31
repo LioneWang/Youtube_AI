@@ -1,0 +1,64 @@
+{
+    0.0,7.72
+     How you care for a healing wound depends on how it's being held together. With regular
+},
+{
+    7.72,12.8
+     or dissolving stitches, staples, glue, or adhesive strips. If your child has stitches
+},
+{
+    12.8,17.92
+     or staples, keep their wound covered, clean, and dry. Your doctor will tell you how often
+},
+{
+    17.92,23.36
+     to change the bandage. When it's time, gather all the supplies you need. Gently take off
+},
+{
+    23.36,29.0
+     the old bandage. Squeeze antibiotic cream onto a clean cotton ball and apply it to the wound.
+},
+{
+    29.0,32.0
+     Cover the wound with a fresh bandage.
+},
+{
+    32.0,38.0
+     Once the wound has formed a scab, wash it gently with mild soap and water once or twice a day.
+},
+{
+    38.0,40.0
+     Don't rub or soak it.
+},
+{
+    40.0,43.0
+     At this stage, it's a good idea to keep a bandage on it during the day,
+},
+{
+    43.0,47.28
+     but leave it open to the air when your child is resting.
+},
+{
+    47.28,50.32
+     If your child's wound was treated with adhesive strips,
+},
+{
+    50.32,54.88
+     trim off the edges of the strips as they separate from the skin over time.
+},
+{
+    54.88,58.72
+     If the strips are still in place after seven days, remove them at home
+},
+{
+    58.72,63.68
+     by soaking the areas in water. If your child's wound was treated with glue,
+},
+{
+    63.68,65.52
+     make sure she doesn't pick at it and
+},
+{
+    65.52,69.84
+     don't apply creams or ointments until the glue falls off after 5 to 14 days.
+},

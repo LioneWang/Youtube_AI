@@ -1,0 +1,300 @@
+{
+    0.0,12.16
+     Summer is right around the corner and here in San Diego we are lucky enough to have
+},
+{
+    12.16,15.04
+     sunny days almost year-round.
+},
+{
+    15.04,20.12
+     Soaking up the rays is a common pastime in America's finest city but it can also be
+},
+{
+    20.12,22.64
+     dangerous when unprotected.
+},
+{
+    22.64,26.88
+     Today we are putting the spotlight on sunlight and talking
+},
+{
+    26.88,34.04
+     to Dr. Greg Daniels at UC San Diego Morse Cancer Center about skin cancer, the symptoms,
+},
+{
+    34.04,40.96
+     treatment options and how to prevent melanoma which is on the rise in the United States.
+},
+{
+    40.96,43.4
+     Thank you so much for being with us today Dr. Daniels.
+},
+{
+    43.4,45.36
+     You're welcome. Thank you for having me.
+},
+{
+    45.36,48.16
+     How does skin cancer develop?
+},
+{
+    48.16,51.64
+     Non-melanoma skin cancer is like basal cells and squamous cells.
+},
+{
+    51.64,58.04
+     Happen on their extremities, face, any place that we get a lot of chronic sun damage.
+},
+{
+    58.04,63.96
+     And so chronic just means the more sun exposure we get, the higher the risk.
+},
+{
+    63.96,69.66
+     Melanoma happens also in those areas, but on the trunk, on the legs, other places where
+},
+{
+    69.66,76.9
+     sun doesn't shine as constantly, even where the sun often never shines, because melanoma
+},
+{
+    76.9,84.34
+     can happen in the GI tract, as well as uncommon melanoma that's also in the eye.
+},
+{
+    84.34,87.12
+     What are the signs we should be looking for?
+},
+{
+    87.12,90.28
+     One is this is a spot that just doesn't look like anyplace
+},
+{
+    90.28,91.28
+     else on your body.
+},
+{
+    91.28,95.72
+     So we call that, more or less, the ugly duckling rule.
+},
+{
+    95.72,99.8
+     One that's just not like the others that looks bad.
+},
+{
+    99.8,103.2
+     The other characteristic you want to look for is changing.
+},
+{
+    103.2,106.16
+     So an area that's changing more than the rest of your body.
+},
+{
+    106.16,111.64
+     So we all have spots, we all have lumps that are relatively stable, but cancer generally
+},
+{
+    111.64,112.64
+     isn't.
+},
+{
+    112.64,114.16
+     And so it will continue to evolve and change.
+},
+{
+    114.16,116.92
+     So you're looking at those two factors.
+},
+{
+    116.92,122.64
+     Who is at risk for skin cancer and if diagnosed, what are the treatment options available?
+},
+{
+    122.64,126.8
+     Everybody at least is on the list of being at risk for skin cancer.
+},
+{
+    126.8,131.36
+     And when they see their physician, I encourage everybody to advocate for themselves.
+},
+{
+    131.36,137.68
+     A hundred years ago, the risk of melanoma was almost negligible, maybe one in a thousand,
+},
+{
+    137.68,140.92
+     one in five thousand kind of incidence rates.
+},
+{
+    140.92,146.4
+     Nowadays, it's one in 30 approaching that. So in the last hundred years, there's
+},
+{
+    146.4,152.12
+     been this dramatic increase in melanoma of skin cancers. There's risks that are intrinsic
+},
+{
+    152.12,159.12
+     to us, such as our susceptibility to other health problems. So if you have, say, chronic
+},
+{
+    159.12,165.04
+     lymphocytic leukemia, that's an immune suppressed kind of state. Those patients are at
+},
+{
+    165.04,171.28
+     increased risk for skin cancers or HIV infections and it's certainly related to
+},
+{
+    171.28,177.14
+     lifestyle. Whether it's tannin bed exposures or other ways that we're
+},
+{
+    177.14,183.58
+     relating to the sun, but it's not genetic. The best way to treat it is with
+},
+{
+    183.58,185.32
+     surgical excision.
+},
+{
+    185.32,189.04
+     Early detection means that you have a smaller scar
+},
+{
+    189.04,192.6
+     or sometimes you can treat very early non-millinomal
+},
+{
+    192.6,196.04
+     skin cancers with non-surgical techniques such as creams
+},
+{
+    197.36,199.72
+     or other kind of ablative techniques.
+},
+{
+    200.6,203.44
+     What are the best ways to protect ourselves?
+},
+{
+    203.44,208.84
+     If you have fair skin, you're at risk for a lot of UV damage, maybe you're outdoors
+},
+{
+    208.84,212.88
+     all the time, things like that, you want to protect yourself.
+},
+{
+    212.88,216.96
+     Everybody has their list of different protections that they believe in.
+},
+{
+    216.96,222.2
+     American Academy of Dermatology recommends avoiding sun between 10 and 2, wearing sun
+},
+{
+    222.2,228.4
+     protective clothing, applying sunscreens appropriately, which is often and lots.
+},
+{
+    229.28,235.68
+     For melanomas, it's a little more controversial as to what the best way to prevent the melanomas are.
+},
+{
+    236.24,241.76
+     So we apply some of the same rules of non-melanoma skin cancers, of sun moderation.
+},
+{
+    242.4,245.56
+     Just because it's a cloudy day doesn't mean the UV is away.
+},
+{
+    245.56,247.52
+     Where at risk we're getting sunburned
+},
+{
+    247.52,250.24
+     even in those conditions.
+},
+{
+    250.24,253.28
+     What should we be looking for when purchasing sunscreen?
+},
+{
+    253.28,256.24
+     What people should look for is something
+},
+{
+    256.24,258.08
+     that says broad spectrum.
+},
+{
+    258.08,262.32
+     And that implies that both UVA and UVB is being quieted.
+},
+{
+    262.32,264.48
+     And it depends on the organization.
+},
+{
+    264.48,269.84
+     If you're going to wear sunscreen, probably it's a 15 to a 30 that you want to apply.
+},
+{
+    269.84,276.44
+     One reason why the FDA kept the labeling at 50 is at about an SPF of 50, you're blocking
+},
+{
+    276.44,281.08
+     essentially 97, 98% of the UV that's out there.
+},
+{
+    281.08,286.0
+     So rather than say, oh, I'm good for the day because I have an SPF of 5,000, it's,
+},
+{
+    286.0,291.12
+     oh, it's a 50, and oh, yeah, the label says every two hours to reapply it.
+},
+{
+    291.12,295.64
+     And oh, it's not waterproof because that term doesn't exist anymore in the labeling.
+},
+{
+    295.64,300.4
+     It should say water resistant, but also give guidelines as to how often sunscreen or some
+},
+{
+    300.4,301.4
+     blocks reapplied.
+},
+{
+    301.4,304.8
+     Thank you so much for all the great information and your time today.
+},
+{
+    304.8,305.76
+     You're very welcome. Thank you so much for all the great information and your time today. You're very welcome.
+},
+{
+    305.76,306.76
+     Thank you.
+},
+{
+    306.76,312.08
+     So whether you're hitting the beach, packing your bags for a vacation, or simply enjoying
+},
+{
+    312.08,318.76
+     Mother Nature in your own backyard this summer, remember to protect yourself from the sun.
+},
+{
+    318.76,323.2
+     For more information about skin cancer and the comprehensive care we provide, please
+},
+{
+    323.2,326.76
+     visit cancer.ucsd.edu.
+},

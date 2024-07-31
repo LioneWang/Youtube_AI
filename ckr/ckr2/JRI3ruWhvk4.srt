@@ -1,0 +1,444 @@
+{
+    0.0,6.0
+     By the end of this video, you're gonna know exactly how I go about adjusting the person's foot.
+},
+{
+    6.0,9.5
+     My name is Dr. Store. I've been a chiropractor for over 24 years.
+},
+{
+    9.5,12.5
+     I'm gonna give you realistic advice based on my experience.
+},
+{
+    12.5,17.5
+     Now, when you see some people adjusting the foot, you'll see that the person just lying there,
+},
+{
+    17.5,22.5
+     they'll grab their foot like this and then just pull, and the patient has their shoe on.
+},
+{
+    22.5,28.12
+     Now, that's not very specific, so that person is just doing a long axis distraction of,
+},
+{
+    28.12,30.8
+     I don't know what joint, I assume the talus,
+},
+{
+    30.8,32.68
+     because that's the only one that they can actually
+},
+{
+    32.68,34.94
+     get a hold of, but in this video,
+},
+{
+    34.94,37.3
+     you're gonna see how I go about doing it.
+},
+{
+    37.3,42.28
+     Now we're gonna be analyzing the subtalar joint,
+},
+{
+    42.28,44.16
+     which is this joint right here
+},
+{
+    44.16,46.8
+     between the calcaneus and the
+},
+{
+    46.8,51.52
+     talus. I'm going to be analyzing the talus, the navicular bone, which is right
+},
+{
+    51.52,57.52
+     there, all three cuneiforms and the cuboid. So I hope you enjoy this video. If
+},
+{
+    57.52,60.96
+     you're a chiropractor and you're adjusting the foot just by grabbing it
+},
+{
+    60.96,66.16
+     and then tractioning it, hopefully this will give you some other information on how
+},
+{
+    66.16,72.32
+     to analyze it because it's these subtleties that actually can make a difference. I'm going to show
+},
+{
+    72.32,79.44
+     you this. So she had a video conference with her doctor and the doctor said, well if you have foot
+},
+{
+    79.44,85.0
+     pain it's probably arch, you probably have lack of art support, right?
+},
+{
+    85.56,89.0
+     The problem with video supports or video appointments,
+},
+{
+    89.0,91.0
+     you don't actually see the patient.
+},
+{
+    91.0,92.32
+     So it's just blanket information,
+},
+{
+    92.32,93.44
+     kind of like if you have knee pain,
+},
+{
+    93.44,95.44
+     oh, you probably have runner's knee,
+},
+{
+    95.44,96.28
+     you have shoulder pain,
+},
+{
+    96.28,97.68
+     oh, it's probably a rotator cuff,
+},
+{
+    97.68,99.0
+     without ever examining.
+},
+{
+    99.0,101.6
+     But you look at her feet, okay?
+},
+{
+    101.6,106.04
+     And this is called, from what I remember, a canvas foot.
+},
+{
+    106.04,111.72
+     And it's actually, it's usually people who have kind of shorter feet for their height.
+},
+{
+    111.72,115.12
+     And then also, like, she's got excellent arches there.
+},
+{
+    115.12,123.12
+     Now, the thing is, if she tries to put, tries to make a flat foot, it's almost impossible.
+},
+{
+    123.12,124.12
+     It's like rigid.
+},
+{
+    124.12,126.56
+     So, hold on to something and put all
+},
+{
+    126.56,134.96
+     your body weight on one foot. And if you look over here, she cannot flatten her,
+},
+{
+    137.6,142.8
+     she cannot flatten her arch. It's like impossible. Now try to roll your ankle down.
+},
+{
+    145.36,146.0
+     it's like impossible. Now try to roll your ankle down. Even if she's rolling it,
+},
+{
+    153.2,156.88
+     there's still an arch there. So that's an unusual type of situation and from a chiropractic perspective it's usually a harder area to adjust so I'm going to show you how I adjust this.
+},
+{
+    157.44,162.4
+     So let's have you lie down on your back for me.
+},
+{
+    162.6,163.6
+     lie down on your back for me. Okay.
+},
+{
+    163.6,168.44
+     So you're facing feet over there.
+},
+{
+    168.44,175.2
+     And it's both feet that hurt?
+},
+{
+    175.2,176.2
+     Yes.
+},
+{
+    176.2,177.2
+     Yeah.
+},
+{
+    177.2,178.2
+     Equally?
+},
+{
+    178.2,179.2
+     It varies.
+},
+{
+    179.2,181.2
+     It varies from time to time.
+},
+{
+    181.2,182.2
+     Okay.
+},
+{
+    182.2,187.32
+     And is there a time of day, like at night time, that it hurts worse at the end of the day?
+},
+{
+    187.32,189.92
+     Or is it in the morning when you first get up?
+},
+{
+    189.92,197.28
+     Night time. It's more like when I go out for an exercise walk and they start to be hurting.
+},
+{
+    197.28,200.96
+     Now what about in the morning when you wake up in the morning? No pain.
+},
+{
+    200.96,205.96
+     So the classic, well if your heel hurts it's got to be plantar fasciitis.
+},
+{
+    205.96,210.12
+     That makes no sense because plantar fasciitis usually hurts worse in the morning.
+},
+{
+    210.12,214.28
+     So what I'm going to do, I'm going to take this bottom bone here and I'm going to shift
+},
+{
+    214.28,217.72
+     it back and forth to see what the mobility is like.
+},
+{
+    217.72,220.2
+     Okay, actually it's pretty good.
+},
+{
+    220.2,221.2
+     Not too bad.
+},
+{
+    221.2,223.08
+     And now I'm going to check this one.
+},
+{
+    223.08,225.48
+     Now this joint here is locked.
+},
+{
+    225.48,226.48
+     It just doesn't want to.
+},
+{
+    226.48,229.64
+     You could see her plantar flexion is 90.
+},
+{
+    229.64,232.6
+     It should be, I can't even get it there.
+},
+{
+    232.6,235.64
+     So yeah, you felt that?
+},
+{
+    235.64,240.88
+     So what I'm going to do, the difference here is with this foot, you can't adjust it down
+},
+{
+    240.88,244.04
+     up and internally because that's not how her foot works.
+},
+{
+    244.04,245.28
+     What I'm going to have to do
+},
+{
+    245.28,251.28
+     is I'm going to have to get on the back side here and I'm going to pull it up and down straight
+},
+{
+    251.28,256.16
+     down this way to try to get the subtaler joint and then I'm going to adjust the talus and let's see
+},
+{
+    256.16,266.44
+     how your, oh that doesn't move very well either. The cuboid.
+},
+{
+    268.6,269.64
+     Okay, so the navicular on that one is locked. I'm gonna adjust that.
+},
+{
+    269.64,273.2
+     And this one, actually when I check it here,
+},
+{
+    273.2,275.0
+     you got a little clickin' goin' on.
+},
+{
+    275.0,276.4
+     Can you feel that or no?
+},
+{
+    276.4,277.64
+     Uh-huh. You can.
+},
+{
+    277.64,279.56
+     Okay, let's see how this one.
+},
+{
+    281.12,284.0
+     So has anybody ever adjusted your feet before?
+},
+{
+    284.0,284.84
+     I don't know.
+},
+{
+    284.84,288.24
+     A prior physical therapist did on my left ankle.
+},
+{
+    288.24,291.24
+     This one? Okay. When was that?
+},
+{
+    291.24,295.6
+     2012.
+},
+{
+    295.6,299.24
+     2012. Okay. So it's probably time for a tune up.
+},
+{
+    299.24,301.92
+     Alright, so what I'm gonna do,
+},
+{
+    301.92,308.58
+     I'm gonna take my middle finger, Grab underneath the Achilles deep inside there. Okay
+},
+{
+    309.78,315.34
+     And so you may not hear anything, but you'll probably feel it. Yeah
+},
+{
+    320.06,326.0
+     There we go, you felt that now Now I'm going to do a different one.
+},
+{
+    328.0,331.0
+     This time instead of a normal, I usually use my middle finger here.
+},
+{
+    331.0,333.0
+     I'm going to use my other middle finger in a different direction.
+},
+{
+    333.0,337.0
+     I'm going to be adjusting it that way rather than medial to lateral.
+},
+{
+    338.0,340.0
+     Okay, so here we go.
+},
+{
+    340.0,342.0
+     I'm going to pull it down this way.
+},
+{
+    342.0,344.0
+     One more.
+},
+{
+    345.28,346.12
+     Good.
+},
+{
+    346.12,347.36
+     Okay.
+},
+{
+    347.36,352.36
+     And then, I'm gonna adjust the cuboid downward here.
+},
+{
+    354.8,356.0
+     So I need some strength,
+},
+{
+    356.0,357.96
+     so I'm gonna get my thumb right on there,
+},
+{
+    357.96,359.64
+     hold it with my hand,
+},
+{
+    359.64,363.86
+     and then use my body to pull it like that.
+},
+{
+    370.0,372.0
+     I'm gonna do this one. Good.
+},
+{
+    372.0,376.0
+     Felt that?
+},
+{
+    376.0,378.0
+     Yep.
+},
+{
+    378.0,380.0
+     Good.
+},
+{
+    380.0,386.0
+     And then I'm going to do the, um, actually the cuboid was okay on here.
+},
+{
+    386.0,389.0
+     The naviculars on both of these.
+},
+{
+    391.0,393.0
+     I'm going to do here.
+},
+{
+    398.0,399.0
+     Okay.
+},
+{
+    399.0,401.0
+     So hey, if you liked this video, give me a thumbs up.
+},
+{
+    401.0,402.0
+     Subscribe to the channel.
+},
+{
+    402.0,406.0
+     If you have any questions at all, you're allowed to ask in the comment section down below.
+},

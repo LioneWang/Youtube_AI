@@ -1,0 +1,164 @@
+{
+    0.0,7.56
+     How to Check Yourself for Skin Cancer.
+},
+{
+    7.56,11.56
+     Most dermatologists recommend examining your skin once a month to become familiar with
+},
+{
+    11.56,16.4
+     what it looks like normally, so you'll be able to recognize something that's abnormal.
+},
+{
+    16.4,21.12
+     And since skin cancer is curable if caught in an early stage, your life just might depend
+},
+{
+    21.12,27.28
+     on it. You will need a full-length mirror, a handheld mirror, good
+},
+{
+    27.28,35.72
+     lighting, optional, a camera, a blow dryer. Step one familiarize yourself with
+},
+{
+    35.72,44.08
+     the ABCDs that is asymmetry, border, color and diameter. Moles or birthmarks that
+},
+{
+    44.08,48.8
+     are asymmetrical have a jagged or irregular border, or blotchy,
+},
+{
+    48.8,53.52
+     or not all one color, or are bigger than about the size of a pencil eraser, should be seen
+},
+{
+    53.52,55.08
+     by a doctor.
+},
+{
+    55.08,56.6
+     Step 2.
+},
+{
+    56.6,59.6
+     Check yourself immediately after bathing so you're clean.
+},
+{
+    59.6,62.08
+     It's important to check your entire body.
+},
+{
+    62.08,63.64
+     Step 3.
+},
+{
+    63.64,66.98
+     Examine your hands, including your palms and fingernails.
+},
+{
+    66.98,68.34
+     Step 4.
+},
+{
+    68.34,73.42
+     Use the full-length mirror to inspect your arms, elbows, and underarms.
+},
+{
+    73.42,77.36
+     Take pictures of moles or birthmarks so that you'll have something to reference if someday
+},
+{
+    77.36,81.66
+     you're unsure whether the mark has changed in appearance.
+},
+{
+    81.66,82.9
+     Step 5.
+},
+{
+    82.9,87.76
+     Check your face, neck, and head in the full-length mirror, and use a handheld mirror to see the
+},
+{
+    87.76,90.28
+     backside.
+},
+{
+    90.28,94.24
+     When checking your scalp, it is helpful to have a blow dryer on hand to make parting
+},
+{
+    94.24,96.48
+     your hair a bit easier.
+},
+{
+    96.48,98.04
+     Step 6.
+},
+{
+    98.04,102.32
+     Check your chest and back and beneath your breasts.
+},
+{
+    102.32,106.44
+     Men should pay special attention to the trunk and women to their legs.
+},
+{
+    106.44,110.88
+     These are the most common areas for them to develop melanomas, the most dangerous form
+},
+{
+    110.88,112.88
+     of skin cancer.
+},
+{
+    112.88,113.88
+     Step 7.
+},
+{
+    113.88,117.76
+     Turn your back to the full-length mirror and use the handheld mirror to inspect the backs
+},
+{
+    117.76,120.96
+     of your legs and buttocks.
+},
+{
+    120.96,124.6
+     Use the hand mirror to inspect your genital region.
+},
+{
+    124.6,125.84
+     Step 8.
+},
+{
+    125.84,131.24
+     Sit down to inspect your legs and feet more closely.
+},
+{
+    131.24,132.74
+     Step 9.
+},
+{
+    132.74,137.52
+     If anything seems to fit the ABCD rule, if anything is new or has changed since your
+},
+{
+    137.52,141.84
+     last check, if you have a sore that won't heal or if you're uncertain about anything
+},
+{
+    141.84,144.64
+     you find, see a doctor.
+},
+{
+    144.64,150.16
+     Did you know Every year in the U.S., over 1.3 million people are diagnosed with skin
+},
+{
+    150.16,154.28
+     cancer, making it the most common form of cancer.
+},

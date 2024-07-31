@@ -1,0 +1,588 @@
+{
+    0.0,7.62
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    10.2,15.5
+     Hi folks, I'm Bob Schrupp physical therapist, Brad Heineck physical therapist, we're the most famous physical therapists on the internet
+},
+{
+    15.5,17.56
+     In our opinion of course, I'm like superheroes
+},
+{
+    17.64,19.38
+     Yeah
+},
+{
+    19.38,25.4
+     Today we're gonna talk about immediate relief and self-treatment of the sacroiliac joint or the SI joint
+},
+{
+    25.4,30.56
+     We're gonna show you where it is and we're gonna show you some things to try because
+},
+{
+    31.0,37.42
+     We're not gonna have you try to diagnose what you have specifically going on with it because it's too difficult for you to do that
+},
+{
+    37.58,40.64
+     But we can show you things to try and if it takes away your pain
+},
+{
+    41.36,46.02
+     Hey, say it'll be, say it'll be. And these treatments, they're gonna, when they work, they work right now
+},
+{
+    46.02,50.88
+     And you're gonna feel that pain come down. If they don't, they don't or sometimes it irritates a little bit
+},
+{
+    50.88,55.0
+     Then you're gonna stop those, we'll clarify that and so make sure you wait for that
+},
+{
+    55.0,58.84
+     But Bob has something to mention to everyone. Yeah, in case you are new to our channel
+},
+{
+    58.84,63.48
+     Please take a second to subscribe to us. We provide videos on how to stay healthy, fit, pain-free and we upload every day
+},
+{
+    63.88,65.92
+     Also Brad's gonna do his job here
+},
+{
+    66.32,69.68
+     Go over to the Facebook and like us because Brad and I as children
+},
+{
+    70.4,75.82
+     It's sad, you're cheering up a little bit. We're not liked and now we're trying to turn things around so you go to Bob and Brad
+},
+{
+    75.82,78.88
+     There you go Bob and Brad and now SI information
+},
+{
+    79.6,87.0
+     Sacred Iliac Bob, that's a big term and it really I think is kind of throws people up because I've heard some people
+},
+{
+    87.16,91.4
+     Think that their back pain is sacroiliac just because it sounds like well
+},
+{
+    91.4,96.76
+     I'm having sacroiliac pain, it's really their back, but it is often in that same region
+},
+{
+    97.04,101.4
+     Sure, that's why people it could be, should we use Sam to help?
+},
+{
+    101.4,107.6
+     So the SI joint, sacroiliac, the word comes from here's the sacrum and here's the
+},
+{
+    107.6,113.44
+     ileum the sacrum is a triangle shaped bone big solid one there right at your buttocks
+},
+{
+    113.44,116.64
+     two pelvis is kind of on each side of it so that's the ileum
+},
+{
+    116.64,121.92
+     you're right and so the joint is right here it's where the two bones connect it's not a joint that
+},
+{
+    121.92,126.32
+     moves very much at all and that's controversial in the medical field
+},
+{
+    126.32,130.52
+     We're not gonna get into that. There's a lot of big heavy ligaments that are holding it in place
+},
+{
+    130.52,137.28
+     Right, so it's if you see an anatomical picture of it you'd see why it doesn't move much
+},
+{
+    137.56,142.82
+     We think there is some movement. Okay, so that's the SI joint
+},
+{
+    142.82,149.68
+     Now this is gonna be something new for Liz, we're gonna, can you zoom in right in here?
+},
+{
+    149.92,156.72
+     So here if you can see Bob, can you hold the sacrum? Sometimes Liz we have to be at a certain distance from you, does this work out okay?
+},
+{
+    156.72,162.9
+     We're gonna ignore the nerves and get that out of the way, so here's the sacrum and here is the elium now the joint
+},
+{
+    162.96,164.96
+     Now this is what can happen
+},
+{
+    164.44,165.1
+     And here is the helium now the joint now. This is what can happen
+},
+{
+    170.0,174.84
+     There can be slight movement in there and actually I would actually show that from the side too Brad Good idea. This can see how that rotates so it can be rotated back
+},
+{
+    175.56,179.58
+     That's a posterior. It kind of stuck that way or rotated forward and kind of stuck that way
+},
+{
+    179.58,184.24
+     So we're gonna try getting some movement in there to see if that relieves your pain, right?
+},
+{
+    184.36,185.5
+     So that's what these
+},
+{
+    185.5,190.52
+     exercises are gonna do specifically and if you get it to move the right direction the pain is
+},
+{
+    190.52,194.56
+     gonna drop right down you're gonna feel it. So I think the other thing we should mention while
+},
+{
+    194.56,199.56
+     we're here Brad is what are some of the causes of this? Good real good point. It's like if you're
+},
+{
+    199.56,210.92
+     walking and you will back up again. Inadvertently step off of a curve and you come down real hard and it puts a jolt through that that can take that joint and rotate it
+},
+{
+    210.92,215.86
+     So if you as a matter of habit are always sitting like let's say
+},
+{
+    216.04,219.94
+     You sit with you even your legs crossed and you're always putting weight on one side
+},
+{
+    219.94,224.76
+     Yep, you know year after year after year you're actually putting stress on the you know
+},
+{
+    224.76,228.56
+     The iliums different in a different way and it can actually cause a little bit of rotation
+},
+{
+    229.28,234.48
+     If you're a car accident and you get the that your knee goes into the dashboard if you had a
+},
+{
+    235.0,240.96
+     That kind of force into that that can shift the SI joint if you have one leg longer than the other
+},
+{
+    241.0,245.12
+     There you go that that can actually often I see that quite often in people that are
+},
+{
+    245.64,249.58
+     That have you know, especially if it's like more than a half inch. Sure
+},
+{
+    249.58,254.72
+     It can really make a difference. Or you get a total knee and maybe they didn't quite get them right and all of a sudden
+},
+{
+    254.72,257.72
+     You have a sudden change and you got a shorter leg after surgery
+},
+{
+    257.72,262.84
+     And one of the more common ones which Liz our camera woman can attest to is when you're pregnant
+},
+{
+    262.84,266.14
+     Right. There's those chemicals that help loosen up the ligaments, right?
+},
+{
+    266.14,270.18
+     And it makes them easier to rotate and cause you problems.
+},
+{
+    270.18,271.18
+     Chemicals?
+},
+{
+    271.18,273.18
+     No, body chemicals.
+},
+{
+    273.18,275.18
+     They call hormones.
+},
+{
+    275.18,278.68
+     Yeah, well, that just, you know what I'm saying.
+},
+{
+    278.68,280.18
+     You're a chemical, aren't you?
+},
+{
+    280.18,281.18
+     I would imagine that.
+},
+{
+    281.18,284.18
+     It just sounds better to be hormones.
+},
+{
+    284.18,289.3
+     Now let's say, as a matter of fact, this just happened me two weeks ago in the clinic and it works so well
+},
+{
+    289.3,291.94
+     It's like man, we got to get this out to our viewers
+},
+{
+    292.64,298.56
+     She had back pain typically if it's SI it's when you walk or put weight through it is when it's worse
+},
+{
+    298.8,302.16
+     When you sit down typically feels better or laying down
+},
+{
+    302.56,308.48
+     So this feels worse, stairs are worse, right that weight bearing putting force making that SI
+},
+{
+    308.48,315.74
+     Get pushed and painful pain is typically here. It can go down the leg usually not below the knee
+},
+{
+    316.32,321.2
+     I've seen it referring to the groin too Brad. Sure wrap around there. Yeah. Yeah, so
+},
+{
+    321.6,322.88
+     So
+},
+{
+    322.88,324.56
+     With that in mind
+},
+{
+    324.56,327.52
+     This is what you're gonna do if your symptoms sound like that
+},
+{
+    328.36,332.4
+     You may to have an incident of the causes that we mentioned
+},
+{
+    332.4,337.0
+     This is what your first thing you're gonna do is I wish I had a chair Bob here
+},
+{
+    339.16,342.4
+     We're really prepared here today. Well, it's not far away Bob
+},
+{
+    342.4,347.04
+     Okay, if you're in a nice firm chair, you don't want to do this on a couch or some
+},
+{
+    347.88,356.18
+     soft chair like that, good firm chair with good posture. If you take your knee up and lift it and say this is a painful side
+},
+{
+    356.18,358.98
+     This is called a muscle energy technique in the therapy world
+},
+{
+    358.98,365.52
+     I'm gonna push down and hold it and actually do a nice symmetric and this patient that I had just a couple weeks ago
+},
+{
+    366.08,372.32
+     she did this immediately, she's a boy that feels good, I mean it was very clear, so her home exercise
+},
+{
+    372.32,378.16
+     program was to do this hold it for about five seconds and relax. So how often were you having to
+},
+{
+    378.16,382.32
+     do that Brad? I told her to do it every one to two hours, sure you know and that's the thing is you
+},
+{
+    382.32,386.26
+     don't just do it once a day You're doing this constantly to try to help
+},
+{
+    386.82,390.8
+     Gradually adjust that so that it stays back in place and feels better
+},
+{
+    390.84,397.94
+     So you know she came back and it was working but it kind of plateaued it got about 50% better so then
+},
+{
+    399.2,402.96
+     The next thing you can do and if that one doesn't work you could go to this and
+},
+{
+    405.2,407.2
+     You go to the side of the bed
+},
+{
+    407.52,414.28
+     Don't fall off. Yeah, don't fall off you take the painful side and you gently let it down on the side of the bed and
+},
+{
+    414.8,416.8
+     Then we're stretching
+},
+{
+    417.0,421.8
+     Technically we're trying to get a posterior tilt into an anterior tilt with both of these techniques
+},
+{
+    421.8,425.48
+     Don't worry about that if you do this and this is her situation
+},
+{
+    425.72,430.56
+     This just felt good. She just said oh that's good. You'd probably want to lock it in place
+},
+{
+    430.56,433.22
+     Yeah, that's a good point
+},
+{
+    433.22,438.68
+     Yeah, you want to hold on to that knee and let this one hang down and that's gonna help again
+},
+{
+    439.2,445.68
+     Adjust that SI right it's something you try and see if it feels better and if it doesn't if it hurts
+},
+{
+    445.68,448.24
+     You don't do it, you just scratch it, especially if it makes it worse
+},
+{
+    448.24,452.88
+     Right, we've got two other ones that you're gonna try, both of those don't give you that immediate relief
+},
+{
+    452.96,454.96
+     Then you go ahead and go to this one
+},
+{
+    455.04,461.16
+     Actually, you can stay laying in the bed, to me sometimes Brad is that if this actually makes it worse
+},
+{
+    461.6,465.68
+     I'm sometimes happy about that because that means maybe if I go to the other side
+},
+{
+    465.68,468.16
+     It's gonna make it better. Precisely. Yeah
+},
+{
+    469.04,473.0
+     So this I'm still on the same leg. That's a painful side those two
+},
+{
+    473.48,478.36
+     Techniques didn't work. I'm gonna take this knee bring it up to my shoulder and
+},
+{
+    479.12,483.36
+     Then I'm gonna hold it and I'm gonna take my knee and push it that direction
+},
+{
+    484.0,489.52
+     While I hold it. So we're actually doing an isometric another muscle energy technique hold and push
+},
+{
+    490.24,495.88
+     And if that feels like good pressure feels good, I've got an SI problem on my right side
+},
+{
+    495.88,502.76
+     That's feeling good right now, and I do these two on myself on a regular basis
+},
+{
+    502.76,508.32
+     I actually like to go around like this because you're a little more stable and then push like that
+},
+{
+    508.32,510.32
+     But it doesn't matter whatever makes you feel better
+},
+{
+    510.48,513.08
+     You can take this leg and put it down or here
+},
+{
+    513.08,518.28
+     Which ever works better gives you better results and again you're gonna hold it three to five seconds
+},
+{
+    518.28,521.08
+     So again if he wasn't holding that knee would come right down, right
+},
+{
+    522.4,526.8
+     So I'm gonna do that three times and then you're gonna repeat that throughout the day
+},
+{
+    526.8,532.64
+     again once every one to two hours until you reach a plateau with your progress and hopefully it'll
+},
+{
+    532.64,541.52
+     be gone. There is one other one that's similar to that. Is that the stool one Brad? You can do
+},
+{
+    541.52,546.24
+     this on steps because it's a different height and if you got a rail to grab on
+},
+{
+    546.24,549.44
+     It can help she even do it better
+},
+{
+    549.44,552.52
+     This is a little high for me, but it gives you the right idea
+},
+{
+    552.68,555.72
+     So you're gonna go up there and if you do it on a stairwell
+},
+{
+    555.72,559.68
+     You're gonna hold on to the rail and then you just lean into it and once again
+},
+{
+    559.68,561.68
+     It should feel like oh, this is a good stretch
+},
+{
+    562.0,569.56
+     It's making that pain feel better and then when you're done you walk around it also should feel better then you know
+},
+{
+    569.56,574.2
+     you're right on so there you got four different options for SI joint pain that
+},
+{
+    574.2,578.92
+     are gonna immediately cause relief if it's the right one so and then you can
+},
+{
+    578.92,584.8
+     also try basically if you want to try a belt an SI belt you can give that a go
+},
+{
+    584.8,589.7
+     just happen to have one Bob and basically what you're trying to do is you're trying to hold the pelvis together
+},
+{
+    589.7,594.72
+     And this is again in those cases where the hormones are taking place and
+},
+{
+    596.08,601.86
+     You're pregnant now Liz, she's had a couple children and she has one that she has to watch in addition to that
+},
+{
+    602.5,605.6
+     Alex I always like that joke. Yeah, that's her husband by the way
+},
+{
+    605.92,609.08
+     But she tried it and you had good success with it, right Liz?
+},
+{
+    609.08,613.68
+     You didn't have this one, but she had one that was made for a pregnant woman, right
+},
+{
+    613.88,619.4
+     So it puts force around here and stabilizes those joints
+},
+{
+    619.54,629.12
+     So the way I determined whether or not it might help someone is I actually go up to the person No, Brad, and yeah, and I actually push on their pelvis and I have them walk
+},
+{
+    629.36,631.36
+     And I know this is kind of a goofy thing to do
+},
+{
+    631.36,636.88
+     But you walk behind someone and and if that gives them relief then there's a good shot that the the belt's gonna help
+},
+{
+    636.88,639.52
+     All right, so you get one of these SI belts
+},
+{
+    640.24,645.54
+     And you put it on here and it has to be on the pelvis not too high in the waistline
+},
+{
+    645.54,647.54
+     The pelvis is right here
+},
+{
+    647.54,650.56
+     It starts right here, so it's below the pelvis
+},
+{
+    650.56,654.06
+     And you can tighten it up from both sides you get it nice and snug
+},
+{
+    654.46,659.94
+     Should feel good and then you wear it throughout the day and a lot of times you know once you get it calm down
+},
+{
+    659.94,662.9
+     It stays calm down, you know, that's the whole idea
+},
+{
+    662.9,668.0
+     You know when things get inflamed it can be very difficult to get that inflammation to come down
+},
+{
+    668.0,673.64
+     So that's why this can help. So a lot of different options and once again Bob
+},
+{
+    673.64,679.32
+     I really like to tell everyone here we can fix just about anything throughout the body except for a broken heart
+},
+{
+    679.32,686.8
+     There you go, but we're working on it. We can give you advice too on if you're a loved and you're having trouble finding it. Well, we could it might not be good advice.
+},
+{
+    686.8,690.36
+     It's not good advice, but we can give advice. So thanks for watching.
+},

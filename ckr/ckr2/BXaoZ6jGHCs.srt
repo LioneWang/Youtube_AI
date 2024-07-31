@@ -1,0 +1,112 @@
+{
+    0.0,5.0
+     You know at some point in time we're all going to incur injuries throughout life.
+},
+{
+    5.0,10.0
+     Hi, I'm Captain Joe Bruni and what I'm going to discuss and go over is how to
+},
+{
+    10.0,15.0
+     splint a fractured hand. A fractured hand can be a pretty painful experience.
+},
+{
+    15.0,24.0
+     First evaluate the area to determine if there's discoloration or deformity to the hand region.
+},
+{
+    24.0,27.0
+     Some type of splinting material will be necessary.
+},
+{
+    27.0,32.0
+     Splinting material like this one found in a commercial first aid kit
+},
+{
+    32.0,35.0
+     is ideal for splinting the fractured hand.
+},
+{
+    35.0,39.0
+     If commercial splinting material is not available,
+},
+{
+    39.0,43.0
+     rolled up newspapers or other rigid material
+},
+{
+    43.0,47.0
+     may be used as a temporary splinting device.
+},
+{
+    47.0,55.0
+     The goal is to try and form the splinting material that will not only fit the arm,
+},
+{
+    55.0,65.4
+     but form an upward region that the person can grasp with the hand as the splinting material is applied.
+},
+{
+    65.4,71.84
+     Once applied, some type of pressure, bandage, or gauze
+},
+{
+    71.84,75.72
+     can be used to wrap around the region
+},
+{
+    75.72,79.08
+     and keep the rigidity of the splint in place.
+},
+{
+    81.92,84.42
+     Once the rigidity of the splint and the application
+},
+{
+    84.42,87.0
+     of a pressure bandage or gauze is in place,
+},
+{
+    87.3,93.82
+     some type of cold compress or ice can be used to help reduce swelling and pain. Do not apply
+},
+{
+    93.82,100.72
+     the ice or cold compress to the bare skin as this may cause a cold injury. Some type
+},
+{
+    100.72,105.72
+     of cloth between the cold application of ice or the compress
+},
+{
+    110.08,110.6
+     can be laid on top of some type of cloth material
+},
+{
+    113.48,114.12
+     insulating the skin from direct contact of the cold.
+},
+{
+    118.44,119.48
+     Cold will constrict the vascular system and
+},
+{
+    123.76,125.7
+     reduce blood flow, reducing swelling and pain to the region.
+},
+{
+    125.7,130.98
+     Any type of fracture can be a pretty painful event, but with proper first aid measures
+},
+{
+    130.98,136.02
+     and the proper steps taken, pain and swelling can be reduced, helping to speed the healing
+},
+{
+    136.02,137.02
+     process.
+},
+{
+    137.02,139.58
+     I'm Captain Joe Bruni, stay safe and we'll see you next time.
+},

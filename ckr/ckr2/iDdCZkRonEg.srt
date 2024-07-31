@@ -1,0 +1,644 @@
+{
+    0.0,12.0
+     When you inspect the shoulder, what you want to notice is any asymmetry.
+},
+{
+    12.0,15.0
+     Specifically, you want to look at shoulder height to begin with.
+},
+{
+    15.0,23.0
+     You want to follow the clavicle out and look for any obvious separation as a sequelae of a separated shoulder at the acromioclavicular joint.
+},
+{
+    23.0,29.0
+     One that has a remarkable step off here suggests that they've had a previous AC separation.
+},
+{
+    29.0,33.64
+     You want to look for obvious muscle atrophy of the trapezius on either side.
+},
+{
+    33.64,37.48
+     Keep them up there.
+},
+{
+    37.48,39.48
+     I'm going to resist and you don't let me bring it down.
+},
+{
+    39.48,43.04
+     And what I'm going to do is flip the skeleton around at this point because of inspection
+},
+{
+    43.04,48.22
+     there's some important things to note from the back. You may notice when you ask the patient
+},
+{
+    48.22,53.28
+     to stand up they may be tilted to one side or the other reflecting a great
+},
+{
+    53.28,59.32
+     deal of paraspinous muscle spasm trying to keep them in relative comfort. On
+},
+{
+    59.32,61.92
+     inspection there's a few things you want to know. You want to look at the
+},
+{
+    61.92,66.28
+     trapezius on either side to see if there's wasting on one side or the other.
+},
+{
+    66.28,68.4
+     If there is wasting, it always needs to occur to you
+},
+{
+    68.4,70.72
+     that you may have a primary neurologic problem
+},
+{
+    70.72,74.08
+     as opposed to simply a muscular problem.
+},
+{
+    74.08,75.72
+     And what I try to do is I try to look
+},
+{
+    75.72,78.4
+     at the medial scapular stabilizers, specifically
+},
+{
+    78.4,81.92
+     the rhomboids, the levator scapulae.
+},
+{
+    81.92,84.08
+     And you want to look from the back
+},
+{
+    84.08,92.8
+     and make sure that they look symmetric. Your fingertips critical that when you see a patient with chronic shoulder pain, at least
+},
+{
+    92.8,99.76
+     for the first time, you need to evaluate the neck. Have them go through active and resistant
+},
+{
+    99.76,105.44
+     range of motion and make sure they have normal range range of motion and strength. Your ear on your shoulder the other way.
+},
+{
+    105.44,106.28
+     Good, okay.
+},
+{
+    107.48,108.84
+     Now what I want you to do is do those things
+},
+{
+    108.84,109.68
+     against resistance.
+},
+{
+    109.68,112.02
+     I'm gonna press against you and you work against me.
+},
+{
+    112.02,113.48
+     Ready, go.
+},
+{
+    113.48,116.12
+     Press hard, press your forehead, perfect.
+},
+{
+    116.12,117.6
+     Any problem when you do that?
+},
+{
+    117.6,118.56
+     Okay, now backward.
+},
+{
+    120.0,123.2
+     Okay, now rotate that way, your chin.
+},
+{
+    123.2,125.0
+     Good, the other way. Good, okay, good, the other way, good.
+},
+{
+    125.0,128.0
+     Okay, put your ear right here, go.
+},
+{
+    128.0,129.0
+     Okay.
+},
+{
+    129.0,131.0
+     Put your ear over here, go.
+},
+{
+    131.0,132.0
+     All right, good.
+},
+{
+    132.0,133.0
+     Okay?
+},
+{
+    133.0,134.0
+     Okay.
+},
+{
+    134.0,135.0
+     I just look straight ahead.
+},
+{
+    135.0,139.2
+     Now I will also put vertical loading on the cervical spine to see if there is any evidence
+},
+{
+    139.2,142.0
+     of disc herniation or dispertrusion.
+},
+{
+    142.0,145.1
+     Because if there is, then although the shoulder complaint is the principle
+},
+{
+    145.1,150.74
+     complaint, they in fact may have a nerve root problem. You need to investigate that first
+},
+{
+    150.74,155.58
+     before you proceed, assuming that it's a primary shoulder muscular ligamentous problem.
+},
+{
+    155.58,160.3
+     So I want you to go through some range of motion of the shoulder and at any point if
+},
+{
+    160.3,164.74
+     you have any problems, I don't think you will since you're here more for back problems.
+},
+{
+    164.74,166.72
+     Just tell me if there's any problem doing these things okay
+},
+{
+    166.72,172.14
+     come all the way up as far as you can go okay come on down okay good all right
+},
+{
+    172.14,176.8
+     out to the side and bring your hands all the way to the top touch up again okay
+},
+{
+    176.8,183.32
+     come on down good backwards as far as you can go good all right okay now let's do
+},
+{
+    183.32,185.24
+     those things against resistance. You're
+},
+{
+    185.24,188.52
+     gonna do them and I'm gonna make you work a little bit. Okay. Put your arms out
+},
+{
+    188.52,197.84
+     like this. Straight elbows. Straight up. Now press up. Okay. Now same thing up. Good.
+},
+{
+    197.84,201.24
+     Okay, now let them follow the side. Put your right hand back like that. Okay,
+},
+{
+    201.24,225.22
+     resist. Ready? Go. Okay, good. Let me have you stay straight like that. Let me do it one more time. Good. Good. Now let's do it on the left side. Straight back. Go. Good. Okay. Now, you need to test internal and external rotators. And if you have pain that's chronic or acute and it's reproduced by external or internal rotator testing. That suggests that either as a primary
+},
+{
+    225.22,227.2
+     or possibly as a secondary diagnosis,
+},
+{
+    227.2,229.64
+     you have rotator cuff involvement.
+},
+{
+    229.64,231.3
+     And people typically will have pain
+},
+{
+    231.3,234.88
+     on the lateral deltoid area.
+},
+{
+    234.88,237.42
+     The maneuvers that reproduce the pain most strikingly
+},
+{
+    237.42,241.42
+     are the rotator cuff resistance exercises.
+},
+{
+    241.42,242.82
+     I'm gonna do for the opposite.
+},
+{
+    242.82,244.3
+     I'm gonna have your thumbs pointing.
+},
+{
+    244.3,247.44
+     There is a specific maneuver called supraspinatus testing
+},
+{
+    247.44,251.8
+     that shows reproduction of pain as consistent with the rotator cuff
+},
+{
+    251.8,252.76
+     strain.
+},
+{
+    252.76,255.12
+     So again, rotator cuff strain can be reproduced
+},
+{
+    255.12,258.68
+     with resisted internal rotation, external rotation,
+},
+{
+    258.68,260.84
+     or supraspinatus testing.
+},
+{
+    260.84,263.64
+     We do one examination for the biceps tendon.
+},
+{
+    263.64,269.32
+     We have the patient's arm come up like this and we put our finger right in here and we have them do resistance
+},
+{
+    269.32,273.32
+     this way. If they have pain anteriorly, especially if you put your finger right
+},
+{
+    273.32,277.12
+     here in the bicep at a groove where the long-headed biceps goes and you feel
+},
+{
+    277.12,281.64
+     tenderness, that's pretty consistent with long-headed biceps tendonitis.
+},
+{
+    281.64,285.72
+     Like this. Now, resistant on I pull. Ready? Go.
+},
+{
+    285.72,286.72
+     Ready?
+},
+{
+    286.72,287.72
+     Go.
+},
+{
+    287.72,288.72
+     Good.
+},
+{
+    288.72,291.22
+     Now, straighten your arm out all the way.
+},
+{
+    291.22,292.22
+     Go.
+},
+{
+    292.22,293.22
+     Go.
+},
+{
+    293.22,294.22
+     Okay?
+},
+{
+    294.22,295.22
+     Good.
+},
+{
+    295.22,296.22
+     All right.
+},
+{
+    296.22,300.82
+     One of the examinations you do is for anterior instability of the shoulder, which is an important
+},
+{
+    300.82,302.32
+     diagnosis to make.
+},
+{
+    302.32,308.24
+     And the way I try to do it is I try to get my hand on the humorous end on the anterior and posterior
+},
+{
+    308.24,312.4
+     shoulder capsule, specifically right here at the glenohumeral junction if I can get my
+},
+{
+    312.4,313.68
+     finger down on that.
+},
+{
+    313.68,318.64
+     So I try to translate anteriorly and posteriorly because if they're very lax, especially if
+},
+{
+    318.64,324.2
+     it's asymmetric as compared to the other shoulder examination, then you know that you maybe have
+},
+{
+    324.2,325.3
+     a primary ligamentus
+},
+{
+    325.3,328.38
+     injury that may need to be repaired and not rehabilitatable,
+},
+{
+    328.38,330.54
+     but you certainly know you have one deficit.
+},
+{
+    330.54,334.12
+     One of the other maneuvers that we do for anterior
+},
+{
+    334.12,336.94
+     instability is a test called the Fowler's Test,
+},
+{
+    336.94,339.86
+     where we will have the patient pretend they have a ball.
+},
+{
+    339.86,342.42
+     And tell me if you have any problem up here when I do that.
+},
+{
+    342.42,342.7
+     Ready?
+},
+{
+    342.7,346.32
+     Just start off sort of halfway, and then start to build up speed.
+},
+{
+    346.32,347.16
+     Ready?
+},
+{
+    347.16,347.98
+     Go.
+},
+{
+    347.98,350.04
+     Bring it, bring it, bring it.
+},
+{
+    350.04,351.4
+     OK.
+},
+{
+    351.4,354.56
+     As you go into external rotation, potentially,
+},
+{
+    354.56,356.24
+     if you have an unstable shoulder,
+},
+{
+    356.24,358.28
+     your humorous slides out this way.
+},
+{
+    358.28,360.44
+     And they will describe anterior pain.
+},
+{
+    360.44,362.12
+     It's going for in the front of the shoulder.
+},
+{
+    362.12,363.04
+     And I want you to reproduce that.
+},
+{
+    363.04,366.4
+     And you say, OK, try to throw again against resistance, but I'm going to hold one hand
+},
+{
+    366.4,369.12
+     here and fight you here, resist you here.
+},
+{
+    369.12,371.2
+     They say, yeah, that does feel a little bit better.
+},
+{
+    371.2,373.4
+     That suggests that they have anterior instability.
+},
+{
+    373.4,376.4
+     Another test for instability is inferior instability.
+},
+{
+    376.4,382.16
+     And what we try to do here is we see when we pull their arm down this way, you will see
+},
+{
+    382.16,384.16
+     a normal sulcus in normal people.
+},
+{
+    384.16,385.68
+     But if you pull it down and
+},
+{
+    385.68,390.24
+     there's a remarkable sulcus that you can visualize, plus if the patient says, boy, I felt like
+},
+{
+    390.24,394.96
+     something slipped, and you can in fact feel the humerus slip down, and it's very asymmetric
+},
+{
+    394.96,400.28
+     compared to the other side, that suggests you have pretty remarkable ligamentus instability,
+},
+{
+    400.28,402.84
+     and they need to be referred onto an orthopedic surgeon.
+},
+{
+    402.84,405.0
+     Bring your arm across like this.
+},
+{
+    405.0,407.24
+     Another test that we do is impingement,
+},
+{
+    407.24,411.04
+     forcing the humerus up against subacromial bursa here.
+},
+{
+    411.04,412.58
+     And when you do that and they hurt,
+},
+{
+    412.58,414.84
+     that suggests that they have a positive impingement sign,
+},
+{
+    414.84,417.14
+     which in and of itself is not diagnostic,
+},
+{
+    417.14,419.04
+     it's just this one particular sign
+},
+{
+    419.04,421.28
+     of chronic shoulder dysfunctions.
+},
+{
+    421.28,423.44
+     And if it doesn't hurt, then you do this maneuver,
+},
+{
+    423.44,427.64
+     you force the humerus up further against the subacromial bursa.
+},
+{
+    427.64,445.6
+     I'm going to have you face me again. Relax. Good. All right. Same thing on this side. Okay, relax, muscle right there, just let it hang, good.
+},
+{
+    448.24,450.24
+     Good.
+},
+{
+    452.8,454.64
+     Perfect, all right.
+},
+{
+    454.64,456.88
+     Couple more tests, squeeze here.
+},
+{
+    456.88,458.4
+     Squeeze here as hard as you can.
+},
+{
+    458.4,459.68
+     All right, good, okay.
+},
+{
+    459.68,461.84
+     Cock your wrists up like that, resist when I pull.
+},
+{
+    463.44,466.08
+     Resist, okay, now flip them over, palms up. Cock them up this that, resist when I pull, resist. Okay now flip them over, palms up,
+},
+{
+    466.08,487.0
+     cock them up this way, resist, okay, resist. Good. In any muscle strength testing, we use the Oxford scale of strength testing.
+},
+{
+    487.0,489.0
+     Wherein we go from zero to five.
+},
+{
+    489.0,495.0
+     In clinical practice, you'll be diagnosing patients probably with grades three, four, and five.
+},
+{
+    495.0,499.0
+     But it's important in grading them because that's an index of how they're recovering.
+},
+{
+    499.0,501.0
+     And you're going to go through some muscle strength?
+},
+{
+    501.0,506.68
+     The patient I'm examining is not somebody who has a primary shoulder problem.
+},
+{
+    506.68,509.12
+     But for our purposes, it's demonstrating
+},
+{
+    509.12,512.36
+     what grade 5, 4, 3, and 2 look like on a shoulder
+},
+{
+    512.36,513.08
+     examination.
+},
+{
+    513.08,514.4
+     Put your arm strength like this.
+},
+{
+    514.4,517.52
+     And here's grade 5, where he gives me a good resistance.
+},
+{
+    517.52,518.02
+     Good.
+},
+{
+    518.02,518.96
+     That's 5 out of 5.
+},
+{
+    518.96,521.52
+     A 4 out of 5 would be a little, not quite a strength.
+},
+{
+    521.52,523.76
+     This is grade 4, where he gives me a little resistance,
+},
+{
+    523.76,527.0
+     but he breaks when I prolong it.
+},
+{
+    527.0,533.28
+     This is grade three where he can give me no resistance but can raise the shoulder against
+},
+{
+    533.28,537.28
+     gravity or raise the arm against gravity.
+},
+{
+    537.28,540.64
+     And here he's demonstrating two out of five strengths wherein he can't raise it against
+},
+{
+    540.64,544.2
+     gravity but he can't move it in a plane that's not against gravity.
+},

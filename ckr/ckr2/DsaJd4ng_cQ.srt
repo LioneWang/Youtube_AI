@@ -1,0 +1,344 @@
+{
+    0.0,10.88
+     A dermatologist is a doctor who specialises in treating and diagnosing all conditions
+},
+{
+    10.88,14.4
+     to do with the skin, the hair and the nails.
+},
+{
+    14.4,19.36
+     And they have more training after qualifying to be a doctor.
+},
+{
+    19.36,24.92
+     So they undertake at least two years of training as a junior doctor in the general hospital
+},
+{
+    24.92,26.32
+     system. take at least two years of training as a junior doctor in the general hospital system and then
+},
+{
+    26.32,33.68
+     they go on to do four years of specialty training before becoming a dermatologist. If you do need
+},
+{
+    33.68,40.56
+     to see a dermatologist your GP or your skin cancer doctor can refer you directly. Skin cancer is a
+},
+{
+    40.56,45.0
+     result of damage to the skin cells from UV larch,
+},
+{
+    45.84,49.2
+     which is either from the sun or from solariums.
+},
+{
+    49.2,53.56
+     We get skin cancer from cumulative UV exposure over time,
+},
+{
+    53.56,56.84
+     so it does take some time for skin cancers to develop,
+},
+{
+    56.84,59.4
+     but essentially the UV damage is the DNA
+},
+{
+    59.4,61.2
+     within our skin cells,
+},
+{
+    61.2,63.84
+     and that causes them to become cancerous.
+},
+{
+    63.84,66.64
+     Skin cancer is more common with increasing age
+},
+{
+    67.2,73.92
+     and you are predisposed to skin cancer if you have fair skin, if there is a family history of
+},
+{
+    73.92,82.64
+     skin cancer and other risk factors include red hair or fair hair, blue eyes and freckling.
+},
+{
+    82.64,87.0
+     Outdoor workers are particularly risky risk given their lifetime UV exposure.
+},
+{
+    87.0,93.0
+     Disgusting nevi is another word for clinically atypical moles or larger moles.
+},
+{
+    93.0,101.0
+     They tend to be a little bit larger than your normal moles and they can have some redness to them and they can be raised in places.
+},
+{
+    101.0,105.24
+     But they don't have the features of melanoma and they importantly
+},
+{
+    105.24,110.64
+     they don't change with time. They are a risk factor of developing melanoma, so if you do
+},
+{
+    110.64,117.12
+     have lots of dysplastic moles or atypical moles, you do need to be monitored carefully
+},
+{
+    117.12,122.36
+     and photography is really important to monitor these lesions. If you're examining your own
+},
+{
+    122.36,125.26
+     skin at home, you should be checking for any
+},
+{
+    125.26,130.5
+     lesions that are new or changing. You should be checking all of the surface
+},
+{
+    130.5,135.62
+     of your skin and using a mirror to see the areas that are difficult to
+},
+{
+    135.62,140.46
+     see such as your back. You can often ask a partner or somebody at home to check
+},
+{
+    140.46,145.68
+     your back and return the favor to them. You should be checking your own skin at the turn
+},
+{
+    145.68,150.88
+     of each season so that's four times a year and that makes it easier to remember what you saw
+},
+{
+    150.88,156.8
+     last time and become more familiar with your skin. Skin cancers develop tippy clean areas that are
+},
+{
+    156.8,162.88
+     chronically exposed to the sun so the hidden neck and the arms in Australia are fairly chronically
+},
+{
+    162.88,168.76
+     exposed to the sun as well. For melanoma in women it tends to be more common on the legs
+},
+{
+    168.76,171.92
+     and for men more common on the back.
+},
+{
+    171.92,176.72
+     Some skin enhances can develop on areas of the body that are not exposed to the sun
+},
+{
+    176.72,181.64
+     and that includes the soles of the feet and the palms of the hand,
+},
+{
+    181.64,187.04
+     the nail and the scalp so it's really important when you go for a skin check
+},
+{
+    187.04,189.68
+     to have all of those areas looked at.
+},
+{
+    189.68,193.9
+     Certainly it is common to have a melanoma arising
+},
+{
+    193.9,196.7
+     as a mole that has darkened,
+},
+{
+    196.7,201.58
+     but melanomas can also arise as a completely new lesion
+},
+{
+    201.58,204.18
+     and they can be skin colored or pink.
+},
+{
+    204.18,206.08
+     So not necessarily brown or
+},
+{
+    206.08,212.32
+     darkly coloured. A melanoma should be suspected of any new lesion that is
+},
+{
+    212.32,217.6
+     growing over a period of more than a month so melanomas are changing lesions
+},
+{
+    217.6,224.56
+     and if there's any suspicion you should see your doctor. Skin cancer is quite
+},
+{
+    224.56,227.8
+     treatable in most cases with surgery,
+},
+{
+    227.8,231.16
+     but in some cases it certainly can be life threatening
+},
+{
+    231.16,235.4
+     and it can require other treatments such as radiation
+},
+{
+    235.4,238.96
+     and also systemic therapies.
+},
+{
+    238.96,241.76
+     We have a lot of new drugs that can be helpful
+},
+{
+    241.76,244.12
+     in treating melanoma, for example,
+},
+{
+    244.12,248.08
+     and there's been a lot of press about these which is exciting for patients with more advanced
+},
+{
+    248.08,252.44
+     disease. For patients who have had a melanoma it's really important to have
+},
+{
+    252.44,258.72
+     ongoing surveillance both for the risk of that melanoma spreading but also the
+},
+{
+    258.72,265.5
+     risk of developing a second unrelated melanoma. Skin cancers contribute more deaths than the
+},
+{
+    265.5,271.0
+     national road toll and so these deaths are largely preventable with really
+},
+{
+    271.0,275.5
+     simple measures. So people should be putting on protective clothing, wearing
+},
+{
+    275.5,280.34
+     a hat, seeking shade where it's possible or keeping out of the sun, wearing
+},
+{
+    280.34,285.68
+     sunglasses and putting on sunscreen and reapplying sunscreen when it's needed.
+},
+{
+    285.68,287.5
+     Sun protection is really important
+},
+{
+    287.5,291.32
+     when the UV level is high, typically above three,
+},
+{
+    291.32,295.24
+     and you can get information of what the UV level is
+},
+{
+    295.24,298.56
+     by using the SunSmart app or other weather apps,
+},
+{
+    298.56,300.92
+     including the Bureau of Meteorology.
+},
+{
+    300.92,302.68
+     Well, vitamin D is really important
+},
+{
+    302.68,305.48
+     for bone health and general health, but we do get enough vitamin D is really important for bone health and general health but we do
+},
+{
+    305.48,311.16
+     get enough vitamin D through the day just with general exposure as we're doing
+},
+{
+    311.16,316.32
+     the shopping or going to the car. We really only need 10 minutes or so a day
+},
+{
+    316.32,321.68
+     over summer and you will certainly get enough vitamin D even if you're wearing
+},
+{
+    321.68,328.0
+     sunscreen. There are some exceptions, older patients and people with darker skin types will need
+},
+{
+    328.96,332.88
+     more UV exposure to get the adequate amount of vitamin D.
+},
+{
+    332.88,336.04
+     And so supplementation is often a good measure
+},
+{
+    336.04,337.12
+     for these people.
+},
+{
+    337.12,339.92
+     Your vitamin D level will fluctuate through the years
+},
+{
+    339.92,342.16
+     that will be lower over the winter months
+},
+{
+    342.16,344.52
+     and it will naturally increase over summer.
+},
+{
+    344.52,350.04
+     So it's not necessary to use sunscreen and sun protection over winter months
+},
+{
+    350.04,354.0
+     unless you're going to the snow or somewhere where it's glaring.
+},
+{
+    354.0,359.36
+     You really only need small bursts of sun exposure to get adequate vitamin D.
+},
+{
+    359.36,361.84
+     And this sun exposure is best in the morning.
+},
+{
+    361.84,370.24
+     You really should avoid prolonged exposure through the day and when the UV level is high. Any sunscreen that is broad
+},
+{
+    370.24,377.84
+     spectrum that is it covers UVA and UVB and is also a factor 30 plus or above is
+},
+{
+    377.84,383.1
+     perfectly adequate so long as it is applied properly and it is reapplied
+},
+{
+    383.1,386.88
+     after being in the sun for more than two hours.
+},
+{
+    386.88,None
+     It should also be within its inside date. you
+},

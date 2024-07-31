@@ -1,0 +1,156 @@
+{
+    0.0,13.0
+     An AAD is a life-saving device that can give your heart an electric shock when it has stopped
+},
+{
+    13.0,19.6
+     in a cardiac arrest. AAD is short for Automated External Defibrillator.
+},
+{
+    19.6,26.8
+     An AAD can be used on adults and children over one year old. Using an AAD in crucial minutes
+},
+{
+    26.8,33.76
+     before numbers arise can increase someone's chance of survival. Anyone can use an AAD.
+},
+{
+    33.76,38.3
+     You don't need to be worried about getting it wrong or causing harm because the machine
+},
+{
+    38.3,43.6
+     analyses the calcium heart rhythm and then gives visual or voice prompts to guide you
+},
+{
+    43.6,47.04
+     through each step.
+},
+{
+    47.04,52.46
+     If someone is unresponsive and not breathing normally, ask someone to call 999 or Woman
+},
+{
+    52.46,59.88
+     2 for emergency help. Ask them to bring an AED if one is available. If you alone, make
+},
+{
+    59.88,67.72
+     the emergency call yourself on a mobile phone or speakerphone and start CPR with chest compressions.
+},
+{
+    67.72,74.92
+     Do not leave the casualty to look for an AED. Keep doing CPR until someone brings an AED.
+},
+{
+    74.92,81.48
+     As soon as the AED arrives, ask for it to be switched on while CPR is continued. It will
+},
+{
+    81.48,86.1
+     immediately start to give you a series of visual and verbal prompts informing you
+},
+{
+    86.1,87.8
+     of what needs to be done.
+},
+{
+    87.8,105.6
+     If someone is with you, ask them to follow the instructions until emergency help arrives. For help, now. Remove all clothing from patients chest.
+},
+{
+    105.6,108.48
+     Pull red handle to open bag.
+},
+{
+    112.26,114.72
+     Look at pictures on pads.
+},
+{
+    115.68,118.52
+     Feel one pad off blue plastic.
+},
+{
+    119.44,124.44
+     Apply pad to bare skin, exactly as shown in the picture.
+},
+{
+    127.08,128.68
+     Press pad firmly.
+},
+{
+    131.64,132.64
+     Heal other pad off blue plastic.
+},
+{
+    137.64,139.08
+     Apply pad to bare skin exactly as shown in the picture.
+},
+{
+    141.08,143.84
+     Evaluating heart rhythm. Stop compression Susan, stand back.
+},
+{
+    143.84,148.16
+     Stand by. Stand clear everyone. Everyone clear.
+},
+{
+    148.16,160.88
+     Do not touch patient. Stand back. Shock delivered. Provide chest compressions and rescue breaths.
+},
+{
+    172.0,172.64
+     rescue breaths. The AED will instruct you to continue CPR for two minutes before it re-analyses.
+},
+{
+    179.84,180.56
+     The AED could say no shock advice, continue CPR. If the casualty shows signs of becoming responsive,
+},
+{
+    185.0,189.0
+     place them in the recovered position. Leave the AED attached. Continue to follow the voice and or visual prompts
+},
+{
+    189.0,193.0
+     that the machine gives you until help arrives.
+},
+{
+    193.0,196.0
+     So remember, when using an AED,
+},
+{
+    196.0,200.0
+     call 999 or 112 for emergency help.
+},
+{
+    200.0,204.0
+     Continue giving CPR when the AED arrives
+},
+{
+    204.0,207.68
+     and keeps going what paths are applied, if possible.
+},
+{
+    209.04,213.6
+     Ensure that the paths are placed on the chest after the coating has been cleared or cut away.
+},
+{
+    214.4,218.0
+     Ask for the AAD to be switched on and follow the instructions.
+},
+{
+    219.04,224.64
+     Ask people to stand back when the AAD is analysing and when any shocks are being delivered.
+},
+{
+    226.28,229.88
+     And that's how you use an AAD.
+},
+{
+    229.88,238.64
+     If this video has been helpful to you, help support St John Ambulance by going to sja.org.uk
+},
+{
+    238.64,247.0
+     forward slash donate. it.
+},

@@ -1,0 +1,444 @@
+{
+    0.0,6.08
+     When my clients come in for treatment for some of their challenges like depression, anxiety, or relational problems,
+},
+{
+    6.36,8.36
+     one of the most common
+},
+{
+    8.44,11.98
+     associated problems that they have is difficulty sleeping.
+},
+{
+    12.32,18.72
+     This shows up as either having a hard time falling asleep, staying asleep, or just feeling tired all the time.
+},
+{
+    19.48,25.36
+     Getting enough quality sleep can make your brain function much better and you'll be better at solving
+},
+{
+    25.36,28.32
+     problems and feel more self-control.
+},
+{
+    28.32,33.2
+     In this video, we're going to talk about how to train your brain to sleep well and it's
+},
+{
+    33.2,43.36
+     called sleep hygiene.
+},
+{
+    43.36,45.04
+     Hi everyone, Emma McAdam here.
+},
+{
+    45.04,49.24
+     I'm a licensed therapist and I just wanted to remind you that I've got in-depth mental
+},
+{
+    49.24,52.28
+     health courses on Udemy.com.
+},
+{
+    52.28,56.4
+     Right now they're on sale for $9.99, so check out the link in the description.
+},
+{
+    56.4,58.64
+     Okay, back to sleep hygiene.
+},
+{
+    58.64,61.96
+     So sleep is essential for good mental health.
+},
+{
+    61.96,65.46
+     Lack of sleep can actually cause mental illness. Research
+},
+{
+    65.46,70.38
+     is showing that one of the most effective ways to treat depression is by
+},
+{
+    70.38,76.22
+     helping people improve the quality and the quantity of their sleep. One study
+},
+{
+    76.22,81.12
+     of people with depression found that after resolving their insomnia, 87% of
+},
+{
+    81.12,85.82
+     them experienced major improvements in their depression. Their depression symptoms
+},
+{
+    85.82,89.92
+     disappeared after 8 weeks of good sleep.
+},
+{
+    89.92,97.04
+     So how do we improve our ability to get sleep? We can train our brain to sleep better. Sleep
+},
+{
+    97.04,101.76
+     hygiene means going through a routine that trains your brain and body to know when to
+},
+{
+    101.76,106.2
+     sleep. So like a muscle that strengthens with practice, sleeping
+},
+{
+    106.2,108.76
+     well is a skill we can develop.
+},
+{
+    108.76,112.68
+     Okay, so because you're trying to trigger the autonomic nervous system to start your
+},
+{
+    112.68,117.84
+     sleep cycle, it's really important to use a routine. If you've ever tried to get a
+},
+{
+    117.84,123.12
+     toddler to fall asleep, you know how important it is to stick to a routine. Adults aren't
+},
+{
+    123.12,127.16
+     too different. Remember our minds like Pavlov's dogs,
+},
+{
+    127.16,130.12
+     they learn to associate sights, smells, and activities
+},
+{
+    130.12,132.32
+     with these reflexive responses
+},
+{
+    132.32,135.52
+     that are usually outside of our direct control.
+},
+{
+    135.52,137.9
+     We can't force ourselves to sleep,
+},
+{
+    137.9,142.04
+     but we can train our brain to know when to sleep.
+},
+{
+    142.04,147.08
+     So start by creating a wind down routine before bedtime that the brain
+},
+{
+    147.08,153.04
+     associates with sleeping. To do this, you want to keep a consistent schedule whenever possible.
+},
+{
+    153.04,158.12
+     So try to go to bed and wake up around the same time each day. Dim the lights, cool
+},
+{
+    158.12,163.8
+     the temperature and decrease your stimulation. So for example, do quiet activities like reading
+},
+{
+    163.8,171.56
+     a book or taking a bath because these help trigger calm. Don't watch TV or exercise right before bed. Another
+},
+{
+    171.56,176.84
+     thing you can do is have a routine for right before bed. So for example, in the evening
+},
+{
+    176.84,181.96
+     you do a snack and you change into pajamas, then you brush teeth and get into bed, read
+},
+{
+    181.96,188.72
+     a book, pray and go to sleep. In addition to a routine, there are some things you can do during the day that are going to
+},
+{
+    188.72,193.26
+     improve your ability to fall asleep and stay asleep.
+},
+{
+    193.26,196.88
+     Limit your naps during the day to less than 30 minutes.
+},
+{
+    196.88,202.12
+     Cut out screen time before bed so not only are devices like phones and tablets and TVs
+},
+{
+    202.12,205.84
+     very stimulating and this triggers the alerting
+},
+{
+    205.84,207.68
+     system in the brain.
+},
+{
+    207.68,213.8
+     But also the tone of the light emanated from your screen tends to have a bluish tint to
+},
+{
+    213.8,218.04
+     it and this is similar to the bluish light in the mornings.
+},
+{
+    218.04,222.76
+     So again this is a biological trigger to wake up.
+},
+{
+    222.76,225.88
+     Research shows that blue toned lights tend to trigger alertness
+},
+{
+    225.88,232.24
+     and red or yellow toned lights tend to trigger calmness. So if you must use your
+},
+{
+    232.24,238.18
+     phone or tablet before bed check to see if it has a night shift setting. This
+},
+{
+    238.18,244.6
+     will shift your screen colors toward the red and yellow range. Next turn your
+},
+{
+    244.6,247.24
+     screen brightness down as low as possible
+},
+{
+    247.24,250.16
+     and use the night setting for reading.
+},
+{
+    250.16,252.92
+     And this makes it so your text appears as white letters
+},
+{
+    252.92,254.88
+     on a black background.
+},
+{
+    254.88,258.52
+     So many programs have this option in their settings.
+},
+{
+    258.52,260.8
+     Also put your phone on do not disturb mode
+},
+{
+    260.8,263.44
+     while you're sleeping and don't check your work emails
+},
+{
+    263.44,268.34
+     right before bed or read anything that could be stressful like the news or even your
+},
+{
+    268.34,273.32
+     Facebook feed. Another thing you want to do is take a look at your caffeine use.
+},
+{
+    273.32,279.08
+     Avoid caffeine for at least four to six hours before bedtime. Even one cup of
+},
+{
+    279.08,283.52
+     coffee or tea even early in the morning that can affect your sleep for up to
+},
+{
+    283.52,285.96
+     48 hours. So if
+},
+{
+    285.96,289.68
+     you're not sure of how caffeine is impacting you, you could try going off
+},
+{
+    289.68,294.52
+     caffeine for one week. The first couple of days you might feel more tired and by
+},
+{
+    294.52,298.88
+     day four you'll probably start feeling better. You'll have better sleep, you'll
+},
+{
+    298.88,304.2
+     have better energy and be more focused and you'll most likely be waking up less
+},
+{
+    304.2,306.48
+     at night and you'll find it easier to
+},
+{
+    306.48,312.72
+     fall asleep. Within one week most people say I feel better off caffeine than on caffeine.
+},
+{
+    312.72,316.56
+     They report better energy, better mood, and better sleep.
+},
+{
+    317.76,322.24
+     Another thing you want to think about is limiting alcohol use. While some people believe that
+},
+{
+    322.24,325.14
+     alcohol helps them sleep, and it might help
+},
+{
+    325.14,331.3
+     people fall asleep, alcohol interferes with your brain's ability to sleep well and repair
+},
+{
+    331.3,336.5
+     itself, especially during the second half of the night. So that leaves you feeling more
+},
+{
+    336.5,339.06
+     exhausted later.
+},
+{
+    339.06,343.84
+     Another thing to think about is to avoid rich, heavy or fatty foods before bedtime. Anything
+},
+{
+    343.84,346.04
+     that might cause heartburn or indigestion
+},
+{
+    346.04,349.36
+     can interfere with sleep, but so can hunger.
+},
+{
+    349.36,351.72
+     So you could try a snack like a banana
+},
+{
+    351.72,353.76
+     and peanut butter before bed.
+},
+{
+    355.12,357.48
+     A warm glass of milk before bed has also been shown
+},
+{
+    357.48,359.32
+     in clinical studies to be as effective
+},
+{
+    359.32,362.8
+     as many sleep medications, but a lot of people
+},
+{
+    362.8,365.72
+     just don't like the idea of drinking warm milk.
+},
+{
+    365.72,368.36
+     You may want to try it.
+},
+{
+    368.36,373.18
+     Exercise during the day can also greatly improve your ability to sleep, so even 10 minutes
+},
+{
+    373.18,375.88
+     of exercise can make a difference.
+},
+{
+    375.88,381.08
+     Also light and sound can trigger alertness, so use earplugs, blackout curtains, or eye
+},
+{
+    381.08,385.12
+     masks to help cut out that extra stimuli.
+},
+{
+    385.12,387.8
+     Another thing you can try is a relaxation routine
+},
+{
+    387.8,389.8
+     or meditation before bed.
+},
+{
+    389.8,392.32
+     This is something like progressive muscle relaxation.
+},
+{
+    392.32,394.36
+     You could check out the video I made on that
+},
+{
+    394.36,397.88
+     or you could listen to a guided imagery exercise.
+},
+{
+    397.88,400.56
+     And again, as you're trying to create associations
+},
+{
+    400.56,404.44
+     for your brain to trigger that sleep response,
+},
+{
+    404.44,407.76
+     you wanna only use your bed for sleeping and sex.
+},
+{
+    407.76,410.76
+     If your brain associates your bed with watching TV
+},
+{
+    410.76,413.0
+     or working on your laptop, eating, paying bills,
+},
+{
+    413.0,416.32
+     and et cetera, your brain is gonna associate your bed
+},
+{
+    416.32,419.0
+     with alertness, not sleep.
+},
+{
+    419.0,421.58
+     If you're having a very hard time falling asleep
+},
+{
+    421.58,426.16
+     or falling back asleep, try getting up, get out of bed, and do something
+},
+{
+    426.16,433.6
+     really boring like listening to a boring audiobook or a dull documentary. Don't do anything too
+},
+{
+    433.6,438.56
+     stimulating. When I'm having a hard time sleeping, I like to listen to this show called Time Team,
+},
+{
+    438.56,448.2
+     where a bunch of British archaeologists try and dig to find, you know find history, but it's a pretty slow show and it helps me fall asleep.
+},
+{
+    448.2,453.0
+     Okay, I hope you found these tips helpful and if you liked this video, check out my other video called
+},
+{
+    453.0,458.0
+     Insomnia Antidote, where I teach one way to turn off worry and fall asleep.
+},
+{
+    458.0,460.0
+     Thanks for watching and take care.
+},

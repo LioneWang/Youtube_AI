@@ -1,0 +1,92 @@
+{
+    0.0,10.16
+     Now when controlling an arterial bleed you're going to notice that arterial is indicated
+},
+{
+    10.16,16.56
+     more by like a pulsating brighter red blood that's harder to stop.
+},
+{
+    16.56,21.84
+     If there's no bone fractures we're going to use really good solid direct pressure.
+},
+{
+    21.84,25.68
+     If it starts to leak through you'll only add more bandage to the top of
+},
+{
+    25.68,29.4
+     it. You never take away the bottom because then it pulls the clots off and you start
+},
+{
+    29.4,34.68
+     from scratch again. I still like to go with the elevation as long as there's no bone fracture
+},
+{
+    34.68,40.68
+     spinal cord involvement. That lets gravity work with us, not against us, but direct
+},
+{
+    40.68,47.08
+     pressure normally even if it's at heart level is usually pretty good. Once the bleeding is under control, the wrapping
+},
+{
+    47.08,51.64
+     of the bandage works very similar. You're going to keep that direct pressure down.
+},
+{
+    51.64,55.4
+     We're going to start at the distal end or the
+},
+{
+    55.4,59.6
+     end of the arm and work towards the heart. That way we're not going to trap
+},
+{
+    59.6,62.32
+     blood down in the hand anymore than we have to.
+},
+{
+    62.32,65.0
+     When you get to the top where the wound is you can put a little twist to the tie down in the hand any more than we have to.
+},
+{
+    65.0,69.34
+     When you get to the top where the wound is, you can put a little twist to the tie, which
+},
+{
+    69.34,72.28
+     helps apply a little more pressure.
+},
+{
+    72.28,76.42
+     After you've got this tight enough, check for any leak-through bleeding.
+},
+{
+    76.42,80.24
+     Make sure you check for capillary refill to make sure you're not having a tourniquet effect
+},
+{
+    80.24,82.48
+     with a too tight a bandage.
+},
+{
+    82.48,84.36
+     Elevate above the heart.
+},
+{
+    84.36,86.16
+     Activate EMS. Watch for
+},
+{
+    86.16,90.92
+     reoccurrence of that arterial bleeding if it does add more bandage and more
+},
+{
+    90.92,94.84
+     wrapping to create a pressure dressing and then let's get this patient to the
+},
+{
+    94.84,97.2
+     hospital.
+},

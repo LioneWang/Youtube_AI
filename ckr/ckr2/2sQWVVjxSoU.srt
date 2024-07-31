@@ -1,0 +1,264 @@
+{
+    0.0,4.52
+     What's up everyone?
+},
+{
+    4.52,8.76
+     Hey, Jared Bechbrand here, doctor of physical therapy and postpartum specialist.
+},
+{
+    8.76,14.24
+     Joined here by my lovely wife today and we would like to show you how to check for diastasis
+},
+{
+    14.24,15.24
+     recti.
+},
+{
+    15.24,17.44
+     Now, first of all, what is diastasis recti?
+},
+{
+    17.44,21.84
+     It is actually a separation of your abdominal muscles.
+},
+{
+    21.84,25.96
+     Most often I encounter this in pregnant and postpartum women. What
+},
+{
+    25.96,31.8
+     happens is as your baby grows, your abdomen has to expand in order to accommodate that
+},
+{
+    31.8,37.52
+     baby in order to create more room for a human or to grow. Now, the foremost muscle in your
+},
+{
+    37.52,42.2
+     abs, it's called your rectus abdominis, it's joined by some connective tissue, kind of
+},
+{
+    42.2,46.7
+     like a ligament. As your baby grows, this ligament is designed to soften
+},
+{
+    46.7,49.98
+     and stretch in order to expand your abdomen
+},
+{
+    49.98,51.62
+     and create more space for your baby.
+},
+{
+    51.62,53.86
+     It's a completely natural condition.
+},
+{
+    53.86,57.38
+     In fact, studies have shown that 100% of women
+},
+{
+    57.38,59.46
+     who make it to their third trimester
+},
+{
+    59.46,61.72
+     experienced some degree of this
+},
+{
+    61.72,63.78
+     diastasis recticepiration.
+},
+{
+    63.78,65.2
+     Now, the thing about it is
+},
+{
+    65.2,70.16
+     it doesn't always go back together after childbirth. Studies went to look at women
+},
+{
+    70.16,76.0
+     one year later, so one year after giving birth, one in three, so 35% of these
+},
+{
+    76.0,80.92
+     ladies still had some degree of abdominal separation. It's something that
+},
+{
+    80.92,89.44
+     doesn't always come back together on its own. And in my professional experience, it's something that's not checked for that regularly.
+},
+{
+    89.44,93.52
+     So I'm curious, those of you who are watching right now, I'm curious to hear your experience.
+},
+{
+    93.52,97.2
+     Were you checked for diastasis recti after you had your baby?
+},
+{
+    97.2,100.24
+     Go ahead and drop that into a comment down below.
+},
+{
+    100.24,102.96
+     Now, what are the implications behind this?
+},
+{
+    102.96,109.1
+     If you do have this abdominal separation, it has affected the integrity of your core.
+},
+{
+    109.1,115.0
+     This can lead to low back pain, hip and SI joint pain, pelvic floor dysfunction and even
+},
+{
+    115.0,120.04
+     the appearance of that mommy tummy or pooch or pouch or whatever it is that you would
+},
+{
+    120.04,121.04
+     like to call it.
+},
+{
+    121.04,123.52
+     So there are certainly some implications behind it.
+},
+{
+    123.52,128.36
+     We do definitely need to be aware of it. And so this is how you check for it at home.
+},
+{
+    128.36,132.42
+     Camille is going to help me out with this part. What you're going to do is lay
+},
+{
+    132.42,138.36
+     down on your back with your knees bent in a nice relaxed position. Now with one
+},
+{
+    138.36,142.32
+     hand you're going to put three fingers vertically right at your belly button.
+},
+{
+    142.32,149.44
+     The other hand is going to go up and behind your head. Now all that Camille is going to do is lift her head up off of
+},
+{
+    149.44,153.44
+     the table and this generates a little bit of tension through her abs and
+},
+{
+    153.44,158.48
+     across that ligament. Now with her left hand she's going to slowly feel right up
+},
+{
+    158.48,163.2
+     that connective tissue and we're going to go for about two to three inches above
+},
+{
+    163.2,168.8
+     her belly button and then she also needs to come down about 2 to 3 inches below her belly button.
+},
+{
+    168.8,170.88
+     There are two things that you're feeling for.
+},
+{
+    170.88,176.32
+     You want to feel for the width of a separation is there, meaning the two halves of that muscle
+},
+{
+    176.32,178.42
+     should be in nice and close.
+},
+{
+    178.42,181.0
+     About one finger width would be considered normal.
+},
+{
+    181.0,185.36
+     If you get to an area where there's a little more space, what you can do is then turn
+},
+{
+    185.36,191.36
+     your fingers horizontally to assess the width of that separation or the distance between those two
+},
+{
+    191.36,197.44
+     halves of that muscle. It's common to encounter a two, three, four, and even up to five finger
+},
+{
+    197.44,202.64
+     separation depending on the severity of your diastasis recti. That would be one indication.
+},
+{
+    202.64,210.72
+     The other indication, the other thing that we want to feel for is the integrity of that connective tissue, meaning the depth of that separation.
+},
+{
+    210.72,215.36
+     When you come to an area where you feel like it's maybe a little wider, what you can do is push
+},
+{
+    215.36,221.84
+     down into that ligament to feel the integrity. It should be nice and firm, and it should offer some
+},
+{
+    221.84,227.36
+     resistance. If a diastasis is present. It can be soft, squishy,
+},
+{
+    227.36,233.2
+     or spongy in feeling. That would be another indication that you do have a diastasis recti
+},
+{
+    233.2,238.64
+     separation. Now I'm curious, those of you who performed this test at home, how many of you
+},
+{
+    238.64,243.28
+     found that you actually do have this diastasis condition? I would be curious to hear from you.
+},
+{
+    243.28,246.92
+     Go ahead and leave another comment down below. I would love to hear from you. I'd love to
+},
+{
+    246.92,252.2
+     hear about it. Now if you do find that you do have a diastasis recti, a lot of
+},
+{
+    252.2,256.32
+     people will say, well I need to work on my core to increase core strength. Please
+},
+{
+    256.32,261.64
+     stop doing the regular core exercises, the sit-ups, the crunches, the planks.
+},
+{
+    261.64,269.54
+     Those traditional exercises actually make the condition worse and can actually increase that diastasis separation. You need to
+},
+{
+    269.54,274.5
+     avoid the wrong exercises but start doing the right exercises in order to heal
+},
+{
+    274.5,277.4
+     that up. If you're interested in learning more about what that looks like,
+},
+{
+    277.4,281.2
+     check this video out right here. If you'd like a workout full of simple
+},
+{
+    281.2,285.02
+     exercises that will help to heal your separation, click on that video right
+},
+{
+    285.02,289.46
+     there. We hope this helps you out and we'll see you again soon.
+},

@@ -1,0 +1,360 @@
+{
+    0.0,2.4
+     Hey, welcome to another video from Skinny Medic.
+},
+{
+    2.4,5.32
+     In this video, I want to talk about the treatment for minor burns.
+},
+{
+    5.32,8.88
+     When I say minor burns, I mean minor burns, okay?
+},
+{
+    8.88,12.64
+     I'm not talking about things like blisters or charring or anything like that.
+},
+{
+    12.64,15.64
+     This is just minor burns that have some redness to the skin.
+},
+{
+    15.64,20.28
+     And we start talking about first degree burns, and these are superficial first degree burns
+},
+{
+    20.28,22.2
+     that have redness only.
+},
+{
+    22.2,24.68
+     One of the first things I think about is like a sunburn, okay?
+},
+{
+    24.68,25.46
+     You've been out on the beach,
+},
+{
+    25.46,28.88
+     been outside working, whatever, and you get sunburn.
+},
+{
+    28.88,31.36
+     That's typically a first degree sunburn.
+},
+{
+    31.36,33.0
+     You get redness all over your skin.
+},
+{
+    33.0,34.56
+     It's very painful.
+},
+{
+    34.56,35.72
+     You can get blisters of that,
+},
+{
+    35.72,37.24
+     but typically we're talking about
+},
+{
+    37.24,40.56
+     just a first degree burn here with sunburns, redness.
+},
+{
+    40.56,44.48
+     But fire obviously can cause a first degree burn.
+},
+{
+    44.48,47.16
+     You get hot water that gets spilled on you.
+},
+{
+    47.16,48.96
+     You touch something hot that's metal
+},
+{
+    48.96,50.96
+     can cause a first degree burn.
+},
+{
+    50.96,54.12
+     You've got chemicals that can cause a first degree burn.
+},
+{
+    54.12,56.44
+     Electricity can cause a first degree burn.
+},
+{
+    56.44,58.3
+     So there's a number of things that can cause
+},
+{
+    58.3,61.04
+     these first degree superficial type burns.
+},
+{
+    61.04,62.24
+     So at first degree burns,
+},
+{
+    62.24,64.2
+     you're gonna have some redness at the side.
+},
+{
+    64.2,67.92
+     You can also have some swelling. You can have some pain associated with this and
+},
+{
+    67.92,72.0
+     then once it starts to heal you're gonna get some dry peeling of that first
+},
+{
+    72.0,76.56
+     layer of the skin. Typically first three burns take about seven to ten days to heal.
+},
+{
+    76.56,80.64
+     So once we've removed the patient from the source of the burning we're gonna
+},
+{
+    80.64,85.3
+     flush whichever part of the body is burned with cool water
+},
+{
+    85.76,87.76
+     This could be an arm a leg
+},
+{
+    88.0,93.56
+     Whatever we're gonna flush it with cool water try to avoid ice. Don't use ice waters too cold
+},
+{
+    93.56,97.22
+     We just cool water for about 15 to 30 minutes
+},
+{
+    97.88,101.74
+     Personally, I avoid butter mayonnaise and stuff like that on these types of burns
+},
+{
+    101.74,106.0
+     I personally and everybody has an opinion you can do with that what you want,
+},
+{
+    106.0,108.5
+     I have found that using putting the oils,
+},
+{
+    108.5,111.0
+     like the butter and the mayonnaise on these types of burns,
+},
+{
+    111.0,113.5
+     actually makes the burning worse for the patient.
+},
+{
+    113.5,117.0
+     So after you've let it run in the water for about 20 to 30 minutes,
+},
+{
+    117.0,120.5
+     dry off the hand or whatever you need to this burn,
+},
+{
+    120.5,122.5
+     with a clean dry cloth.
+},
+{
+    127.0,132.0
+     I probably would avoid rubbing the towel real aggressively across the burn. Just kind of patting it dry.
+},
+{
+    133.0,137.0
+     If you want to put some of the aloe or some of the burn gel on there, you can if you want to.
+},
+{
+    138.0,142.0
+     But this burn is going to heal on its own. We're going to let it naturally heal. It's going to heal.
+},
+{
+    142.0,145.12
+     But sometimes the natural al alloy, the burn gels,
+},
+{
+    145.12,147.36
+     do help with some of the pain relief here.
+},
+{
+    147.36,149.94
+     These burn gels here, they have bandaging as well.
+},
+{
+    149.94,152.6
+     This is gel, of course, but then they have bandaging.
+},
+{
+    152.6,154.4
+     They contain lot of canes, it's gonna help the pain,
+},
+{
+    154.4,156.72
+     so you'll see a lot of these commercially available,
+},
+{
+    156.72,158.64
+     and they do really great for these types of burns
+},
+{
+    158.64,159.96
+     we're talking about in this video.
+},
+{
+    159.96,162.92
+     So 24 hours after the initial treatment here,
+},
+{
+    162.92,163.76
+     we're gonna wash it.
+},
+{
+    163.76,165.84
+     You can wash it gently with some soap and water.
+},
+{
+    165.84,168.74
+     If you wanna do some Betadine wash here as well,
+},
+{
+    168.74,170.36
+     you're trying to prevent infection.
+},
+{
+    170.36,172.42
+     Just make sure your patients not allergic to Betadine
+},
+{
+    172.42,174.12
+     or iodine before you do this.
+},
+{
+    174.12,176.34
+     But at the very least, I would wash it
+},
+{
+    176.34,178.3
+     with some soapy water to keep it clean.
+},
+{
+    178.3,180.04
+     You wanna try to prevent infection.
+},
+{
+    180.04,181.44
+     You can also use the Betadine.
+},
+{
+    181.44,183.0
+     I like the individual swabs.
+},
+{
+    183.0,184.92
+     That way you're not having to open up a whole bottle
+},
+{
+    184.92,185.72
+     of Betadine. You can just use the little small packets. I like the individual swabs. That way you're not having to open up a whole bottle of Betadine.
+},
+{
+    185.72,187.2
+     You can just use the little small packets here,
+},
+{
+    187.2,189.04
+     especially dealing with those minor burns
+},
+{
+    189.04,190.72
+     like if I had on my hand here.
+},
+{
+    190.72,193.24
+     Then these little small Betadine packets work well
+},
+{
+    193.24,194.16
+     and you'll have to worry about opening up
+},
+{
+    194.16,196.08
+     a big giant bottle of Betadine.
+},
+{
+    196.08,198.64
+     If it's a large enough surface area on the skin
+},
+{
+    198.64,199.48
+     and you're concerned about it,
+},
+{
+    199.48,201.12
+     you can wrap it with some five-in-nines,
+},
+{
+    201.12,202.88
+     some four-by-fours and some clean
+},
+{
+    202.88,205.28
+     to kind of keep it protective from the environment. There again, it's painful.-in-nounds, some four-by-fours, and some clean to keep it protective from the environment.
+},
+{
+    205.28,207.04
+     There again, it's painful.
+},
+{
+    207.04,210.16
+     First three burns are painful, but we just want to make sure it doesn't get infected.
+},
+{
+    210.16,214.88
+     That's one of the big things with berms is the infection posts that initial response.
+},
+{
+    214.88,218.24
+     Make sure we keep it clean, and it should heal on its own.
+},
+{
+    218.24,222.88
+     Some of the things I read about post-24 hours initial response to these berms is putting
+},
+{
+    222.88,228.36
+     some vitamin E on the berm itself. that's going to prevent scarring. The burn centers use the silver
+},
+{
+    228.36,233.08
+     dine so you can do clodal silver, silver dine dressings as well. You could have
+},
+{
+    233.08,237.32
+     hunting as a good natural antibiotic here as well so you can make it look at doing
+},
+{
+    237.32,241.32
+     something like that. So you've got quite a few options post 24 hours but we just
+},
+{
+    241.32,244.6
+     want to make sure that we keep the one clean. First three burns can be painful
+},
+{
+    244.6,246.92
+     like I've talked about before so if you want to look at
+},
+{
+    246.92,252.56
+     taking some ibuprofen some Tylenol for pain management it's probably appropriate.
+},

@@ -1,0 +1,600 @@
+{
+    0.0,3.44
+     Hi, I'm Bob Schrupp, physical therapist.
+},
+{
+    3.44,4.44
+     Brad Heineck, physical therapist.
+},
+{
+    4.44,7.0
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    7.0,8.76
+     Well, in our opinion, of course, Bob.
+},
+{
+    8.76,14.76
+     Today, Brad, we just did a video on the top three signs that you may have Osgood-Slautern
+},
+{
+    14.76,16.76
+     disease or syndrome.
+},
+{
+    16.76,20.36
+     If you do, now you've come here because we had it at the end of that video to the top
+},
+{
+    20.36,22.28
+     three treatments for Osgood-Slautern.
+},
+{
+    22.28,23.28
+     Sure.
+},
+{
+    23.28,27.62
+     Now, the thing is, you want to remember about this, you're really not able to treat it to the
+},
+{
+    27.62,31.52
+     point where you can make it go away. This is what it's called a self-limiting
+},
+{
+    31.52,36.96
+     disease which means it's going to keep going on until your growth plates fuse
+},
+{
+    36.96,41.36
+     so it's going to keep going as long as you're growing and once it stops
+},
+{
+    41.36,46.08
+     the pain will stop. Sure, you think I could just interrupt Bob? Sure. Yeah. Well
+},
+{
+    46.48,55.6
+     Just so you understand that is what's happening. Your bones are growing rapidly and your muscles and this tape represents your quadriceps muscles
+},
+{
+    55.6,57.6
+     Which connect to your
+},
+{
+    58.0,63.64
+     Patellar or kneecap which end up connecting to your tibia, but the bones are growing
+},
+{
+    65.8,69.84
+     up connecting to your tibia, but the bones are growing and if this is your muscle it's going to grow in and starts to stretch the muscles so that all the
+},
+{
+    69.84,74.92
+     stress ends up down there on that knee. So the thing to do is we want to stretch
+},
+{
+    74.92,80.44
+     these muscles and strengthen these muscles so that mostly stretch them, we have
+},
+{
+    80.44,83.96
+     strength too, but so we get slack on there, take some of the pressure off that
+},
+{
+    83.96,85.04
+     point of injury and
+},
+{
+    85.04,90.72
+     Strengthening is important too because the muscles not keeping up with the bone and it's having to move a larger leather
+},
+{
+    90.96,95.72
+     than it did before so so these are the three things and that's good that you explain that Brad because
+},
+{
+    96.52,103.28
+     You have to understand this on and why we're doing the treatments that we're doing right so and then when you quit growing
+},
+{
+    103.28,107.12
+     Well, then the muscles will catch up muscles to catch catch up and strengthen. And then you're fine.
+},
+{
+    107.12,111.42
+     Yeah and then you're fine. So again we're trying to teach you how to cope with it
+},
+{
+    111.42,115.72
+     basically, there's no quick fix, you're just gonna grow it eventually. So the first
+},
+{
+    115.72,120.6
+     thing we suggest is that actually before you do an event or before the practice I
+},
+{
+    120.6,124.92
+     would actually do some massage on the tendon itself and I don't see anybody
+},
+{
+    124.92,129.28
+     else is recommending this but I highly recommend it for this reason.
+},
+{
+    129.28,133.52
+     And by the way, here's the kneecap, and right below is the tendon.
+},
+{
+    133.52,137.0
+     So here's your kneecap, right here is the tendon.
+},
+{
+    137.0,141.52
+     And you just take one finger and put it on top of the other and rub across it like this,
+},
+{
+    141.52,143.32
+     really hard.
+},
+{
+    143.32,145.16
+     And now if you're having pain there by the way
+},
+{
+    145.16,149.68
+     maybe you don't have Oshgud Slaughter. Oshgud Slaughter is the pain a little
+},
+{
+    149.68,153.92
+     bit below on the bump. This might be more of a tendonitis but what this will do
+},
+{
+    153.92,158.6
+     is this will stretch the tendon prior to competition, prior to you working out and
+},
+{
+    158.6,163.4
+     it'll put just a little bit less stress on the bone then. Sure. And it'll also get
+},
+{
+    163.4,167.08
+     more blood flow to it. So you're gonna do that for a couple minutes.
+},
+{
+    167.08,168.16
+     Couple minutes.
+},
+{
+    168.16,170.6
+     And your fingers aren't gonna get tired actually.
+},
+{
+    170.6,173.12
+     If you do that, it's very tender and continues to hurt
+},
+{
+    173.12,174.8
+     and it creates a lot of pain,
+},
+{
+    174.8,176.72
+     then you probably wanna avoid it.
+},
+{
+    176.72,178.96
+     But after about 30 seconds to a minute,
+},
+{
+    178.96,181.6
+     it should start to feel a little bit better,
+},
+{
+    181.6,182.6
+     maybe even a little numbish,
+},
+{
+    182.6,183.68
+     then you know you're right on.
+},
+{
+    183.68,184.64
+     Right.
+},
+{
+    184.64,189.68
+     So you can go right from that into the second treatment for our second way
+},
+{
+    189.68,193.68
+     to manage Oskar Schlatter, which is you are going to have to warm up and you're
+},
+{
+    193.68,197.48
+     going to have to warm up more than any of your classmates or teammates or
+},
+{
+    197.48,202.0
+     anything like that. You've got to really emphasize because you really want to make
+},
+{
+    202.0,207.76
+     sure the muscles are as stretched as far as possible and warmed up as far as possible. So the first thing you want to
+},
+{
+    207.76,211.74
+     make sure especially you want to make sure you're stretching the quadriceps.
+},
+{
+    211.74,216.8
+     Right. So let's check that out.
+},
+{
+    216.8,221.6
+     So to stretch the quadriceps there's a lot of ways to do it but what I like just
+},
+{
+    221.6,225.7
+     the standing way and you can grab the ankle
+},
+{
+    225.7,231.2
+     or if you grab the foot by the opposite but I just grab the ankle like this and
+},
+{
+    231.2,235.8
+     I pull back like this keep a good posture and right here if you want to add a
+},
+{
+    235.8,240.92
+     little twist to it you tilt your pelvis down sure you sure tilt down in
+},
+{
+    240.92,246.4
+     spread so it's going back this way and you'll find it you'll feel it stretch right
+},
+{
+    246.4,252.0
+     there more when you pull this knee back this way and keep your shoulder. You've got a little string
+},
+{
+    252.0,257.52
+     on your shirt. We can't have that in our video. Anyways so here we go we're going to stretch that
+},
+{
+    257.52,262.56
+     out. You're going to get a good hip flexor stretch along with this and that quadra stuff. You can
+},
+{
+    262.56,270.36
+     do this laying down too which is a little more comfortable depending and I kind of like doing this just because you can relax. I
+},
+{
+    270.36,275.28
+     can relax more anyways and again it's like you stretch and then if you
+},
+{
+    275.28,278.2
+     push up a little bit here you'll get some more stretch. So it's just another
+},
+{
+    278.2,283.28
+     option. It's very important that you do that stretch. The hamstring
+},
+{
+    283.28,289.0
+     stretch is important too. You can find a wall or something that's about this height
+},
+{
+    289.0,296.0
+     Keeping good posture, just going to lean forward, that's about as far as I can go Brad. Knee straight, don't let the knee bend
+},
+{
+    296.0,301.0
+     That's cheating, good long stretch on both of those
+},
+{
+    301.0,308.68
+     And then you're going to want to start warming up the muscles slowly. By the way, one of the strengthening exercises we want you
+},
+{
+    308.68,312.6
+     to do for the quadricep is what is called eccentric and that's strengthening it
+},
+{
+    312.6,317.28
+     while you're going lowering down basically. So what you're going to do is
+},
+{
+    317.28,320.36
+     you're going to start off and you're going to lower yourself onto a chair like
+},
+{
+    320.36,325.1
+     this and then you can go up with both legs and then again lower yourself
+},
+{
+    325.1,334.76
+     onto a chair. It'll be easier on here if it's too painful to do this and you
+},
+{
+    334.76,346.36
+     should go on a higher surface. I couldn't lower myself all the way down. If you're 15, 20, or 12, 15, you probably can do that.
+},
+{
+    346.36,349.8
+     You can do this easier with better balance, I'm not keeping over 50.
+},
+{
+    349.8,358.0
+     And then you can do slow side stepping, braiding, retroambulation, all these
+},
+{
+    358.0,362.32
+     things very slowly to get the muscles warmed up, kind of some of that
+},
+{
+    362.32,366.36
+     dynamic stretching. Yeah, so you're gonna do these warm-ups before you get out to ready
+},
+{
+    366.36,369.62
+     Do your full spritzer, you know, whatever your activity is
+},
+{
+    369.64,376.76
+     Okay, the other thing then the third treatment for our good slaughter category basically is how do you decrease the pain?
+},
+{
+    377.08,381.6
+     So one thing after every event after every athletic event every practice
+},
+{
+    381.6,384.52
+     I want you to ice it and a quick way to ice
+},
+{
+    386.04,389.84
+     Is to actually just take a styrofoam cup and fill it with water, put it in your freezer and
+},
+{
+    389.84,398.04
+     after it's frozen you just tear off the top to get down to the ice and as you
+},
+{
+    398.04,401.84
+     put my hand on to smooth out the ice a little bit and then you can just go ahead
+},
+{
+    401.84,406.26
+     and put it on there and rub it until it gets numb and you know that way
+},
+{
+    406.26,409.96
+     It's not going to take that long to cool it down and do it right on the bone
+},
+{
+    409.96,412.96
+     Usually about five minutes, five minutes or less
+},
+{
+    412.96,416.96
+     Put a towel under your leg otherwise you get a wet floor and your mom will get mad at you
+},
+{
+    416.96,418.24
+     That's right
+},
+{
+    418.24,421.54
+     The other way you can just throw an ice pack on and you can leave that off for 20 minutes
+},
+{
+    421.54,423.04
+     Sure, if you want to
+},
+{
+    423.04,425.4
+     Strapping, do you want to show the strap Brad? Sure
+},
+{
+    429.2,435.88
+     This is something you have to trial with and see how it works, but they're not real expensive if it's not effective
+},
+{
+    435.88,437.88
+     It's not a big loss
+},
+{
+    438.64,445.26
+     This one they call them a chou pad, but that's just a manufacturer. There's other companies that make it. It's kind of like a rope
+},
+{
+    445.98,452.6
+     within size the strap, so there's a bump there at a ridge and you put that right above the bump over that
+},
+{
+    452.68,457.68
+     tendon, that hollow spot below the kneecap and that bump and then you just simply
+},
+{
+    458.6,460.6
+     strap it.
+},
+{
+    461.24,464.24
+     A little tight there and give that a whirl.
+},
+{
+    464.24,467.56
+     The idea is that you're taking some of the stress off that bump
+},
+{
+    467.56,472.04
+     And now instead of the tendon pulling on the bump, it's pulling right here. That's the idea
+},
+{
+    472.04,476.2
+     Now I think the effectiveness of this is questionable
+},
+{
+    476.2,480.32
+     But I would try it, it's worth a try and you can actually tape this way
+},
+{
+    480.32,483.32
+     There's a taping method even for doing this. Sure.
+},
+{
+    482.48,485.92
+     this way, there's a taping method even for this. Sure, it's a, yeah, I'd say if it doesn't work,
+},
+{
+    485.92,487.54
+     you're not out a lot of money.
+},
+{
+    487.54,489.56
+     I've had people worse, they like it.
+},
+{
+    489.56,490.72
+     Yeah, they like it.
+},
+{
+    490.72,493.0
+     And you know, if even it gives a little bit of relief,
+},
+{
+    493.0,495.28
+     it may be worth trying.
+},
+{
+    495.28,496.8
+     Another issue we want to consider
+},
+{
+    496.8,500.24
+     to help decrease pain, sometimes if you have flat feet,
+},
+{
+    500.24,502.6
+     that will contribute to, I should slaughter,
+},
+{
+    502.6,504.44
+     believe it or not, and the way it does,
+},
+{
+    504.44,505.0
+     is this bone
+},
+{
+    505.52,511.6
+     gets turned when you have flat feet and when this bone gets turned it actually puts more stress on the tendon
+},
+{
+    511.6,518.16
+     Right, so every time you put weight bearing through that leg that bone will slightly rotate and it does affect the stress on that
+},
+{
+    518.16,523.48
+     So it may want to get some more thottics to help prevent the foot from flattening out, right?
+},
+{
+    523.68,525.0
+     Some arch support, which may help you in other reasons, you out. Right, some arched reports.
+},
+{
+    525.0,527.0
+     Yeah, which may help you in other reasons,
+},
+{
+    527.0,528.4
+     you know, anyway, reasons anyway.
+},
+{
+    528.4,532.4
+     But the final thing really is you have to understand
+},
+{
+    532.4,535.4
+     that you do have a syndrome or a disease
+},
+{
+    535.4,539.0
+     and it's not going to go away until you're done growing.
+},
+{
+    539.0,540.6
+     So you need to manage it,
+},
+{
+    540.6,543.0
+     which means you manage it with rest at times.
+},
+{
+    543.0,549.06
+     You may not be able to work out as much as you want and you may not be able to even possibly you're
+},
+{
+    549.06,552.7
+     playing timey at the beginning of the race. You just can't push through this.
+},
+{
+    552.7,557.94
+     Particularly things like if you want to do squats and things where you're lifting a
+},
+{
+    557.94,562.38
+     lot of weight, this is going to irritate it and you're not going to progress. It's
+},
+{
+    562.38,568.0
+     probably actually going to make a major flare up. You're gonna have to figure out how much you can work out
+},
+{
+    568.0,569.36
+     and how much you can play
+},
+{
+    569.36,571.52
+     and still keep the pain at a manageable level.
+},
+{
+    571.52,573.0
+     And that's only for you to discover,
+},
+{
+    573.0,575.2
+     but you need to understand that.
+},
+{
+    575.2,576.88
+     So good luck with it.
+},
+{
+    576.88,578.0
+     I know it's a crappy thing,
+},
+{
+    578.0,580.6
+     but I guess that's life, isn't it?
+},
+{
+    580.6,582.8
+     Right, and when you're young and you got this,
+},
+{
+    582.8,585.54
+     you're probably feeling strong like bolt everywhere else
+},
+{
+    585.54,590.96
+     You want to go baby? Yeah, so subscribe to us a little bit more often because we're gonna help you and your friends out
+},
+{
+    591.16,596.36
+     Take care of these issues that will make you stronger and faster as life goes on. Peace
+},

@@ -1,0 +1,88 @@
+{
+    0.0,4.0
+     Hi, my name is Sunshine. I'm with Sunshine Safety. We're located here in
+},
+{
+    4.0,7.84
+     Snellville, Georgia. I've been involved in the health and safety field for
+},
+{
+    7.84,12.16
+     approximately 15 years. I started out as a lifeguard when I was 15 and
+},
+{
+    12.16,16.8
+     eventually became an instructor. I now own Sunshine Safety. What we're going to
+},
+{
+    16.8,20.88
+     talk about today is how to treat a chemical burn. With a chemical burn, the
+},
+{
+    20.88,24.64
+     first thing you want to do is make sure the scene is safe for you to enter. If
+},
+{
+    24.64,30.28
+     the scene is not safe, you never enter. Or if the scene ever becomes unsafe,
+},
+{
+    30.28,35.48
+     you must leave the scene. If the scene is safe, enter the scene and ask your victim
+},
+{
+    35.48,41.28
+     for consent. If consent is received, you may then give care. It is recommended that you
+},
+{
+    41.28,47.68
+     now call 911. Once you've got your victim, you do want to make sure that you protect yourself from
+},
+{
+    47.68,51.12
+     disease transmission. The way we do that is with gloves.
+},
+{
+    51.12,55.04
+     Once you have your gloves applied, you are then going to want to brush away
+},
+{
+    55.04,58.56
+     any dry chemical that is located on the victim's skin.
+},
+{
+    58.56,62.4
+     When you're brushing away, make sure you brush away from you
+},
+{
+    62.4,67.18
+     and away from the victim and do not brush the chemical toward any wind.
+},
+{
+    67.18,69.44
+     Once all chemical is removed from the skin,
+},
+{
+    69.44,72.96
+     you do want to flush the skin with large amounts of water.
+},
+{
+    72.96,75.48
+     Keep flushing the wound until the victim feels
+},
+{
+    75.48,77.52
+     some of the burning recede.
+},
+{
+    77.52,80.82
+     After flushing the wound, you may want to cover the wound
+},
+{
+    80.82,83.72
+     with a wrapping or a dressing to help prevent
+},
+{
+    83.72,85.24
+     infection from resulting.
+},

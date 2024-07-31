@@ -1,0 +1,224 @@
+{
+    0.0,3.0
+     Hi, I'm Bob Schrupp, physical therapist.
+},
+{
+    3.0,4.0
+     Brad Heide, physical therapist.
+},
+{
+    4.0,7.0
+     And together we are the most famous physical therapists on the internet.
+},
+{
+    7.0,9.0
+     Oh, and I'll tell you, of course, Bob.
+},
+{
+    9.0,12.0
+     Brad, we're always talking about we want to make sure people stay strong.
+},
+{
+    12.0,14.0
+     That's part of the, you know, it's good to say it.
+},
+{
+    14.0,15.0
+     Strong like bull.
+},
+{
+    15.0,17.0
+     Strong like bull is what they were saying.
+},
+{
+    17.0,19.0
+     Anyway, we want to make sure you stay strong.
+},
+{
+    19.0,21.0
+     Every so often you might get an injury.
+},
+{
+    21.0,23.0
+     We hope not because you hope you're doing things right.
+},
+{
+    23.0,28.52
+     But let's say you hurt your bicep. All right very easy to tell because when you're lifting
+},
+{
+    28.52,32.5
+     something you're gonna feel it in the bicep and so quite often what you're
+},
+{
+    32.5,37.58
+     gonna find off is that these pains can be chronic sometimes they're nagging.
+},
+{
+    37.58,41.38
+     Like you go okay I'll let it rest for a couple weeks and I go back and try some
+},
+{
+    41.38,48.24
+     curls again. Boom it comes right back again. In those cases what often has happened is there was a minor tear in there and
+},
+{
+    48.24,52.72
+     lay down some scar tissue and what you're doing when you start lifting again
+},
+{
+    52.72,56.44
+     is you're breaking open that scar tissue. So this treatment is going to help you
+},
+{
+    56.44,63.0
+     heal or realign that scar tissue so that it's strong like bull. So it won't
+},
+{
+    63.0,67.0
+     tear open again. This works very well. We've used this for a number of injuries.
+},
+{
+    67.0,74.0
+     The sign is if you have pain when you're doing curls or if you do resistance like this and you feel pain,
+},
+{
+    74.0,79.0
+     the good sign is probably usually in the mid-muscle belly is what we're experiencing.
+},
+{
+    79.0,82.0
+     If you're feeling up here in the shoulder, we're going to do a video for that too.
+},
+{
+    82.0,88.16
+     That's shoulder bicep tendonitis, sure it'll all hit, but what you're going to do is get up here a little.
+},
+{
+    88.16,92.76
+     You want the muscles to relax so you're going to have a bent, the elbow bent, and
+},
+{
+    92.76,97.52
+     the hand up, palm up. Okay, you're going to find the tender spot now you're going
+},
+{
+    97.52,102.2
+     to use your other hand obviously, but you can take your fingers and you can put
+},
+{
+    102.2,108.84
+     one on top of the other like this or two together or three together. You want to just get a lot of, you can have a lot of strength needed
+},
+{
+    108.84,114.04
+     because this is not something where we're just moving the tissues here. We're getting
+},
+{
+    114.04,118.72
+     deep down in the muscle. Quite often from my understanding, a lot of us, it's often
+},
+{
+    118.72,121.28
+     the medial muscle belly.
+},
+{
+    121.28,122.28
+     Yeah, yeah.
+},
+{
+    122.28,125.0
+     And usually it's right about in the middle.
+},
+{
+    125.0,130.0
+     So you're going to go right in and you're going to get deep down in there and you're going to find that tender spot.
+},
+{
+    130.0,133.0
+     And you're going to push hard.
+},
+{
+    133.0,134.0
+     Okay?
+},
+{
+    134.0,136.0
+     It should hurt, but it shouldn't make you scream.
+},
+{
+    136.0,137.0
+     Right.
+},
+{
+    137.0,143.0
+     If you start doing this and after a minute of doing it, or a minute and a half, it's getting worse, you can't do it right now.
+},
+{
+    143.0,150.08
+     You're going to have to back off, put some ice on it, let it heal a little bit longer. What you want to see is that after a minute or two of doing it,
+},
+{
+    150.08,154.08
+     it actually starts to maybe lessen a little bit and maybe even get a little bit numb. Sure,
+},
+{
+    154.08,160.24
+     that's a good sign. And you can do this a long time. I mean, the recommendation is you could
+},
+{
+    160.24,169.72
+     do it up to 20 minutes. Nobody's going to be able to do this for 20 minutes. I found if you even do it for three, four, five, you know, try to get it in once a day,
+},
+{
+    169.72,173.64
+     you're going to be fine, you'll get plenty of good results from that.
+},
+{
+    173.64,176.4
+     So that's going to help realign those fibers.
+},
+{
+    176.4,181.96
+     You know, the fibers tend to lay down on scar tissue in an erratic fashion like a cobweb,
+},
+{
+    181.96,184.44
+     and that's going to realign them so they're real strong.
+},
+{
+    184.44,189.28
+     Right. All in line. Yeah, all in line. And next time then you start off with very
+},
+{
+    189.28,192.88
+     light weights and gradually work up to heavier weights but you're going to find
+},
+{
+    192.88,196.52
+     out that pain is no longer there. Sure. After doing this for a couple weeks.
+},
+{
+    196.52,200.68
+     So after I work this and I do it for four or five minutes these fingers get
+},
+{
+    200.68,204.92
+     tired that's a good time to go and then put a cold pack on it. That's fine.
+},
+{
+    204.92,211.0
+     Yep. And again you can do one finger over the top if you want to give yourself a little reinforcement if you want to.
+},
+{
+    211.0,213.0
+     Alright, no more bicep pain, right baby?
+},
+{
+    213.0,215.0
+     Oh no, strong right foot.
+},
+{
+    215.0,255.34
+     You can look cool. වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව� Thank you.
+},

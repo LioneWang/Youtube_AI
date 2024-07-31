@@ -1,0 +1,156 @@
+{
+    0.0,24.6
+     Hi, I'm Dr. Matthew Bose and welcome to our video series.
+},
+{
+    24.6,25.8
+     Proper therapy exercises
+},
+{
+    25.8,30.2
+     are important for recovery from most orthopedic conditions. I've designed this
+},
+{
+    30.2,33.92
+     series to provide you with up-to-date therapy regimens that you can access
+},
+{
+    33.92,38.72
+     at home, in the gym, or on the road. I hope you find these videos helpful and
+},
+{
+    38.72,64.36
+     best of luck in your recovery. Keep your knee well functioning.
+},
+{
+    64.36,67.76
+     We want to make sure the muscles around it are nice and stretched out.
+},
+{
+    67.76,74.28
+     Remember to hold the stretch where you feel it for about 30 seconds.
+},
+{
+    74.28,80.56
+     Lean into the stretch until you feel it in the back of your knee.
+},
+{
+    80.56,87.0
+     The knee can only function properly if the muscles around it are nice and stretched out.
+},
+{
+    93.76,98.32
+     Again stationary bike or other types of cross training are good for strengthening as well
+},
+{
+    98.32,102.76
+     as keeping up your cardiovascular endurance and we want this to be part of your regular
+},
+{
+    102.76,105.0
+     routine after surgery indefinitely.
+},
+{
+    109.0,114.0
+     If you have access to the gym you can start doing some light strengthening on the leg press machine.
+},
+{
+    115.0,120.0
+     Alternatively if you don't have access to the gym or if this is more comfortable you can do light dumbbell squats.
+},
+{
+    131.5,133.48
+     This is the strength in muscles in your hip and your back. Hold a cane or you can hold some light weights.
+},
+{
+    133.48,138.8
+     We don't want to put too much strain on your back so only bend as forward as is comfortable
+},
+{
+    138.8,142.68
+     and if you're feeling strain in the back of your legs, bend your knees slightly.
+},
+{
+    142.68,147.88
+     But we want you to lean forward and try and touch your hands down to the floor in a progressive way.
+},
+{
+    147.88,152.96
+     Continuing with hip exercises, you can add ankle weights, bringing your leg across your
+},
+{
+    152.96,157.0
+     body into adduction, and then out to the side into abduction.
+},
+{
+    157.0,160.32
+     Help strengthening the muscles around the hip.
+},
+{
+    160.32,165.92
+     Hold the final position for a second or two to give yourself more strengthening.
+},
+{
+    172.24,179.68
+     And the same thing in terms of strengthening, progressing with no weight and then light ankle weights as your strength increases, done with flexion of the hip and then back into extension.
+},
+{
+    192.28,199.76
+     Coming up on your toes, this will strengthen your calf muscles. If you want to increase the resistance, you can add some light dumbbells.
+},
+{
+    199.76,202.72
+     It's important to strengthen your core.
+},
+{
+    202.72,205.76
+     Use some very light abdominal exercises
+},
+{
+    205.76,209.24
+     that'll really help you functionally after the surgery.
+},
+{
+    209.24,211.48
+     Lift your shoulder blades and your heels off the floor.
+},
+{
+    211.48,214.52
+     Try and touch, or try and get your fingertips
+},
+{
+    214.52,218.64
+     moving towards your toes and hold that position
+},
+{
+    218.64,221.08
+     for a few seconds at the top.
+},
+{
+    221.08,223.72
+     We have you start doing some light functional exercises
+},
+{
+    223.72,224.56
+     at this point.
+},
+{
+    224.56,229.64
+     This is a good time to start swinging the golf club just in the air as well as the tennis
+},
+{
+    229.64,234.0
+     racket just to get the muscles moving again and getting your body starting to get used
+},
+{
+    234.0,236.0
+     to these types of activities.
+},
+{
+    236.0,241.48
+     Full clearance for these activities come only with the approval of your doctor as he continues
+},
+{
+    241.48,None
+     to follow you along.
+},

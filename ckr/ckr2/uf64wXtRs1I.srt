@@ -1,0 +1,44 @@
+{
+    0.0,8.76
+     Wound Cleansing. The purpose of wound cleansing is to remove and loosen debris and contaminants
+},
+{
+    8.76,15.92
+     from the wound bed. Method and cleaning solution will vary based on the type of wound. However,
+},
+{
+    15.92,30.12
+     normal saline is most frequently used. Clean aseptic technique should be used unless otherwise indicated. For linear wound incisions, pour irrigation solution into irrigation tray.
+},
+{
+    30.12,34.2
+     Moisten 4x4's insulation squeeze out excess.
+},
+{
+    34.2,37.24
+     Solution should be at room temperature.
+},
+{
+    37.24,44.32
+     Gently wipe wound from top to bottom in one motion, starting directly over the wound.
+},
+{
+    44.32,49.6
+     Discard the used 4x4. Using a new moisten 4x4,
+},
+{
+    49.6,57.52
+     repeat cleaning with gentle downward stroke parallel to the incision. Repeat
+},
+{
+    57.52,71.12
+     steps working outward from the incision lines parallel to the incision. Remember to use a new 4x4 for each downward stroke.
+},
+{
+    71.12,76.28
+     If needed, dry the wound following the same procedure as for cleaning.
+},
+{
+    76.28,77.76
+     Use dry gauze pants.
+},

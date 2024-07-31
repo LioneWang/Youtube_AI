@@ -1,0 +1,196 @@
+{
+    0.0,10.8
+     In this video, I'm going to discuss wound measurement and wound staging.
+},
+{
+    10.8,15.24
+     Wound measurements are important to monitor the progression of your patient's wound week
+},
+{
+    15.24,16.24
+     to week.
+},
+{
+    16.24,19.76
+     They're also important when you order supplies for your patients.
+},
+{
+    19.76,24.4
+     Getting a correct wound measurement helps your supply company get the correct dressing
+},
+{
+    24.4,25.84
+     for that patient.
+},
+{
+    25.84,30.9
+     Also, Medicare and other insurance companies go directly by your wound measurements in
+},
+{
+    30.9,36.0
+     order to determine the type and size of dressing to send out to your clients.
+},
+{
+    36.0,40.56
+     First off, when you're measuring your wound, you want to remember to measure length, width,
+},
+{
+    40.56,42.32
+     and depth.
+},
+{
+    42.32,47.76
+     First of all, your length is head to toe always and the width is side to
+},
+{
+    47.76,51.44
+     side transverse. So you're going to envision a clock. The head of your
+},
+{
+    51.44,57.6
+     patient is 12 o'clock, toes are 6 o'clock and on the foot you want to
+},
+{
+    57.6,61.6
+     think of your patient is standing on their toes. The tip of the toes is 6 o'clock
+},
+{
+    61.6,70.78
+     and the heel is 12 o'clock. You're going to take your wound ruler and go head to toe from the longest point and
+},
+{
+    70.78,72.26
+     document that number.
+},
+{
+    72.26,78.98
+     Then you'll measure the width, which is side to side, three to nine.
+},
+{
+    78.98,83.04
+     And depth, to measure the depth you'll go to the deepest portion of the wound.
+},
+{
+    83.04,91.08
+     You'll take your cotton tipped applicator, you can either use a wooden or some already come with measurement on them.
+},
+{
+    91.08,97.24
+     So you go softly to the deepest portion of the wound, place your forefinger in your thumb
+},
+{
+    97.24,101.04
+     at the wound edge and then withdraw the q-tip.
+},
+{
+    101.04,106.56
+     And you'll take your measuring device and go from the end of the swab to where your
+},
+{
+    106.56,109.92
+     fingers meet and that will be your depth.
+},
+{
+    109.92,114.84
+     You also want to note on pressure ulcers only the staging.
+},
+{
+    114.84,119.16
+     There are four stages of wounds, stage one, two, three and four.
+},
+{
+    119.16,126.88
+     There's also an unclassifiable or an unstageable wound and a deep tissue injury.
+},
+{
+    126.88,129.84
+     Stage one is an early pressure ulcer.
+},
+{
+    129.84,131.48
+     There will be no broken skin.
+},
+{
+    131.48,136.0
+     You'll just have a red area that's non-blanchable over a bony prominence.
+},
+{
+    136.0,141.92
+     Stage two ulcer is a partial thickness ulcer that may start out as a fluid-filled blister
+},
+{
+    141.92,143.88
+     over a bony prominence also.
+},
+{
+    143.88,145.84
+     There will be no slough in the wound base and
+},
+{
+    145.84,154.56
+     usually no depth. A stage 3 ulcer is a full thickness. These wounds may have slough or
+},
+{
+    154.56,162.68
+     granulation tissue or both. They can also have eschar. A stage 4 is the deepest type of a
+},
+{
+    162.68,169.88
+     pressure ulcer and these ulcers will have bone or tendon present and visible in the wound base.
+},
+{
+    169.88,173.0
+     They will also have sluff and eschar.
+},
+{
+    173.0,178.64
+     A deep tissue injury will present as a fluid filled blister, but the fluid will be more
+},
+{
+    178.64,182.6
+     like a bruise, like a blood, and they're not open.
+},
+{
+    182.6,187.92
+     They may at a later time open on up and be a very deep pressure ulcer,
+},
+{
+    187.92,191.2
+     but that's how they will present as a deep tissue injury.
+},
+{
+    191.2,193.2
+     Sometimes you cannot stage your ulcer.
+},
+{
+    193.2,195.8
+     If your ulcer is covered with eschar completely
+},
+{
+    195.8,197.24
+     or covered with slough completely
+},
+{
+    197.24,199.18
+     and you can't see the wound base,
+},
+{
+    199.18,201.36
+     then you would document that as an unstageable
+},
+{
+    201.36,204.84
+     pressure ulcer until the doctor debrides that wound
+},
+{
+    204.84,205.92
+     and you can see the base,
+},
+{
+    205.92,210.72
+     you're unable to know if there's bone or tendon present. If you have any further questions about
+},
+{
+    210.72,218.24
+     wound staging or wound measurement, please contact Advanced Tissue on their website or by phone.
+},

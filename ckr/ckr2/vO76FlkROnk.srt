@@ -1,0 +1,204 @@
+{
+    0.0,23.0
+     Hi, I'm Dr. Matthew Bose and welcome to our video series.
+},
+{
+    23.0,25.0
+     Proper therapy exercises are important for
+},
+{
+    25.0,29.56
+     recovery from most orthopedic conditions. I've designed this series to provide
+},
+{
+    29.56,34.04
+     you with up-to-date therapy regimens that you can access at home, in the gym, or
+},
+{
+    34.04,69.08
+     on the road and gently slide your
+},
+{
+    69.08,72.76
+     hand out along the table to gently stretch out your shoulder.
+},
+{
+    72.76,82.08
+     This can be done with your arm facing forward, lean into the stretch, and hold it for 20
+},
+{
+    82.08,87.0
+     to 30 seconds to help loosen up the shoulder joint.
+},
+{
+    87.0,95.0
+     Our towel is helpful to allow your hand to slide out to the side as you lean into the stretch.
+},
+{
+    95.0,109.52
+     Have your elbow facing the table to stretch your arm out to the side. These exercises are done using the pulley system to let the opposite arm help lift and raise
+},
+{
+    109.52,112.32
+     the involved arm.
+},
+{
+    112.32,119.6
+     It's a way of partially moving the involved arm, but allowing it to get some assistance
+},
+{
+    119.6,122.12
+     as muscle strength improves.
+},
+{
+    122.12,127.44
+     Do this straight out in front of your body in elevation. You can
+},
+{
+    127.44,137.04
+     also do it in a seated position so you're able to lift fully overhead. With the shoulder
+},
+{
+    137.04,150.4
+     facing the pulley by rotating your body, you can help raise the arm out to the side in abduction. Again, letting the
+},
+{
+    150.4,157.2
+     non-operative arm help raise the operative arm. Stick exercises are another form of active
+},
+{
+    157.2,165.0
+     assisted motion. The non-operative arm helps raise the operative arm through the stick gently up overhead.
+},
+{
+    165.0,170.0
+     Keep your shoulders level, try not to hike up one side or the other
+},
+{
+    170.0,176.0
+     to give smooth motion at the shoulder.
+},
+{
+    176.0,181.0
+     The stick can also be used to push the operative arm out to the side into abduction
+},
+{
+    181.0,187.0
+     and help raise it up to and above shoulder level in a gentle manner.
+},
+{
+    197.44,209.64
+     Rotation exercises are done with the operative elbow up against the side. The non-operative arm pushes through the stick to rotate the operative arm out to the side.
+},
+{
+    215.88,221.12
+     Grasp a cane with both hands behind your back and the opposite arm helps the
+},
+{
+    221.12,230.72
+     involved arm lift up and behind your back. You can bend your elbow to get it higher or bring your arms side to side to increase the
+},
+{
+    230.72,251.56
+     stretch slowly. The scapular strengthening is done by doing retraction exercises as shown here.
+},
+{
+    251.56,256.12
+     Try and pinch the shoulder blades together.
+},
+{
+    256.12,267.0
+     Bringing your elbows back, pinching the shoulder blades and holding for a two to three count. This begins to strengthen the muscles around your shoulder blade.
+},
+{
+    267.0,280.0
+     With your hands stabilized on the table, rotate your torso forward. Try and feel your shoulder
+},
+{
+    280.0,289.24
+     blade rotating forward on your rib cage by activating the muscles around the shoulder blade.
+},
+{
+    289.24,295.9
+     Hold in that stretch position for a two count.
+},
+{
+    295.9,301.76
+     Retraction exercises are also performed with the hand stable.
+},
+{
+    301.76,305.28
+     Slowly pulling that shoulder girdle back.
+},
+{
+    305.28,308.92
+     Feel the shoulder blade move on the rib cage.
+},
+{
+    308.92,309.92
+     Retracting back.
+},
+{
+    309.92,315.44
+     Holding that fixed position for a one or two count.
+},
+{
+    315.44,322.16
+     Similar exercises can be done up against the wall with your hands in a fixed position.
+},
+{
+    322.16,329.0
+     Both shoulders simultaneously feel the shoulder blades retract and then protract their muscles
+},
+{
+    329.0,337.28
+     moving along your rib cage, activating and strengthening the muscles around your shoulder
+},
+{
+    337.28,350.32
+     blades. Putting your thumbs into the wall in a fixed position and rotating around them, both sides
+},
+{
+    350.32,355.72
+     at the same time, helping to activate the muscles that are pushing your shoulder blades
+},
+{
+    355.72,362.72
+     down and then raising them up on your rib cage.
+},
+{
+    362.72,366.3
+     At 10 weeks after surgery, aggressive stretching is performed.
+},
+{
+    366.3,370.78
+     If the shoulder is still stiff, the external rotation stretch at the doorway is done at
+},
+{
+    370.78,374.84
+     waist level.
+},
+{
+    374.84,379.38
+     Rotate the torso to feel a stretch in front of the shoulder and hold that stretch position
+},
+{
+    379.38,417.88
+     for a few seconds. This is done with the hand at operative arm pulls up overhead and lifts
+},
+{
+    417.88,426.0
+     the operative arm up behind your back to increase internal rotation.
+},
+{
+    430.0,444.0
+     Internal rotation stretch can also be done with a towel.
+},
+{
+    448.52,451.44
+     Push up against the wall to gently fire and activate the muscles around the shoulder in different positions.
+},
+{
+    451.44,465.0
+     This can also be done out to the side in abduction. against the wall helps strengthen an external rotation.
+},

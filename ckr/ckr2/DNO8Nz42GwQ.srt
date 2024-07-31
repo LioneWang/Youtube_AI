@@ -1,0 +1,184 @@
+{
+    0.0,10.0
+     So we sound like we're friends.
+},
+{
+    10.0,11.0
+     Okay.
+},
+{
+    11.0,17.0
+     All right, so tell us how awesome you're doing now.
+},
+{
+    17.0,21.0
+     Well, I have no sciatic pain anymore.
+},
+{
+    21.0,26.44
+     I had burning in my legs, but it's all gone away and I'm able to
+},
+{
+    26.44,30.64
+     stand and walk more than I did before I started here.
+},
+{
+    30.64,34.84
+     And what when you started here you were carrying something and we don't see it
+},
+{
+    34.84,39.68
+     here today. I was walking with a cane. Yeah that's pretty cool huh? Yeah very cool.
+},
+{
+    39.68,44.36
+     So I'm gonna say what your symptoms were that I found was that you were getting
+},
+{
+    44.36,45.38
+     the burning in your quad. found was that you were getting the burning in your quad
+},
+{
+    46.14,51.44
+     She was getting you were getting left sacrilegia joint pain up here. Actually, how's that doing?
+},
+{
+    55.08,57.42
+     The right leg feels like a little cramp and
+},
+{
+    58.24,63.1
+     So past history so the what you were dealing with here is rheumatoid arthritis
+},
+{
+    63.94,68.52
+     Crohn's Parkinson's's, type 2 diabetes,
+},
+{
+    68.52,70.52
+     sleep apnea.
+},
+{
+    70.52,75.36
+     Now have any of those felt different?
+},
+{
+    75.36,77.12
+     I sleep better.
+},
+{
+    77.12,78.12
+     Sleeping better.
+},
+{
+    78.12,81.28
+     And that's actually a common thing is when you have this burning in your thigh and back
+},
+{
+    81.28,84.28
+     pain, it's very difficult to sleep.
+},
+{
+    84.28,86.64
+     So and it's only been two weeks.
+},
+{
+    86.64,88.48
+     Just wait, right?
+},
+{
+    88.48,92.08
+     So we're gonna show how we do the treatment on you.
+},
+{
+    92.08,92.92
+     Okay.
+},
+{
+    92.92,94.52
+     So let's have your glasses
+},
+{
+    94.52,97.02
+     and we'll put your glasses over here
+},
+{
+    97.02,99.12
+     and go ahead and lie down on your stomach.
+},
+{
+    113.64,120.72
+     Okay, so when I'm analyzing her spine, what I notice is one side hikes up a lot higher than the other, and then her spine does kind of a standard scoliotic curve of which it
+},
+{
+    120.72,128.6
+     goes this way, comes around over here on the left side, and that's pretty standard for the, I'm going to say, 9 out of 10 scoliosis.
+},
+{
+    128.6,140.3
+     So what I'm going to do is I'm going to first use a block to place underneath her pelvis, and that helps preset everything so when I do the adjustment.
+},
+{
+    140.3,147.8
+     And because of all her different conditions, we use an arthur stem because it's a lot more gentle and we've done this about six times already
+},
+{
+    147.8,151.96
+     So I know where I'm going with this. I'm going to go to the areas where we do the adjustments
+},
+{
+    160.24,168.28
+     And this is relatively pain-free right yes when I'm doing. Of course we have to say that it's on the video.
+},
+{
+    168.28,169.04
+     Right?
+},
+{
+    169.04,170.0
+     As you're gritting your teeth.
+},
+{
+    174.0,175.48
+     Well, it's painless for me anyway.
+},
+{
+    184.16,192.6
+     But that burning sensation that is no longer there indicates that the nerve is not being
+},
+{
+    192.6,202.48
+     bothered anymore when it comes out of your lower back.
+},
+{
+    202.48,206.68
+     And so the next phase that we're going to do with treatment for you is we want you to
+},
+{
+    206.68,211.96
+     do that swimming, it's called the twinges and the hinges for people that have rheumatoid
+},
+{
+    211.96,215.16
+     arthritis here in our community.
+},
+{
+    215.16,220.64
+     And they have a swim class where they can work out in a very warm pool.
+},
+{
+    220.64,228.0
+     And then I'm going to show you exercise to do that'll only take about five minutes or so per day.
+},
+{
+    228.0,233.0
+     And we'll start doing that pretty soon once this starts to derotate.
+},
+{
+    235.0,238.0
+     So it's fun to have success, right?
+},
+{
+    238.0,240.0
+     It's wonderful.
+},

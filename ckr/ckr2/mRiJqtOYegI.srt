@@ -1,0 +1,352 @@
+{
+    0.0,10.92
+     Positioning yourself in bed is very important because you will be spending at least eight
+},
+{
+    10.92,13.32
+     hours of your day lying in bed.
+},
+{
+    13.32,17.44
+     Please make sure that you are positioned properly and that you change your position often.
+},
+{
+    17.44,21.84
+     With each and every sleeping position we will show you in this video, you should change
+},
+{
+    21.84,25.2
+     positions every two hours to eliminate increased pressure
+},
+{
+    25.2,30.88
+     on bony areas to reduce skin breakdown and help reduce tightening of your muscles. If
+},
+{
+    30.88,35.04
+     you have any problems with your sensation, please make sure you are checking your skin
+},
+{
+    35.04,40.36
+     for redened areas. If you can't see all of the areas, you may need to use a device such
+},
+{
+    40.36,45.8
+     as a long handled mirror to check. If a red-end area does not go away within 15 minutes,
+},
+{
+    45.8,47.36
+     please stay off the area.
+},
+{
+    47.36,49.2
+     You will need to check with your therapy team
+},
+{
+    49.2,51.64
+     to make sure you are utilizing the proper mattress
+},
+{
+    51.64,52.8
+     for pressure relief.
+},
+{
+    52.8,55.4
+     You should speak with your physician or primary therapist
+},
+{
+    55.4,57.24
+     to see if this schedule is appropriate
+},
+{
+    57.24,58.76
+     for your specific needs.
+},
+{
+    58.76,61.56
+     The following video will instruct you on some options
+},
+{
+    61.56,63.88
+     for positions while you are in bed.
+},
+{
+    63.88,66.76
+     First, laying supine in your bed.
+},
+{
+    66.76,69.68
+     Position the head of the bed as flat as you can tolerate.
+},
+{
+    69.68,74.24
+     There are many factors that can affect how flat that you are able to lie while in bed.
+},
+{
+    74.24,79.24
+     Please use the minimum amount of pillows under your head to avoid any muscle tightening in
+},
+{
+    79.24,82.72
+     your neck as this could affect your breathing and swallowing.
+},
+{
+    82.72,91.04
+     When lying on your back, you may need to place pillows under your arms to elevate them off the bed if you have edema in the arms or hands.
+},
+{
+    91.04,95.08
+     Be aware that when you elevate the head of your bed, make sure your legs remain straight
+},
+{
+    95.08,99.64
+     with your knees flat. Please place a pillow under the ankles to elevate them off of the
+},
+{
+    99.64,104.96
+     bed. This will take pressure off of your heels. Please speak with your therapist or physician
+},
+{
+    104.96,109.3
+     regarding any assistive devices that you can use to achieve this position.
+},
+{
+    109.3,114.74
+     If you need to elevate your legs off of the bed, place one pillow lengthwise under each leg.
+},
+{
+    114.74,120.46
+     Do not place the pillow crosswise under the knees because this can cause tightness in the muscles of your knees.
+},
+{
+    120.46,130.06
+     When you are lying on your side, you should try to keep the bed as flat as possible and also only use one pillow underneath your head to place your head and neck in proper
+},
+{
+    130.06,135.1
+     position. Your head and shoulders should form a straight line. Please make sure you start
+},
+{
+    135.1,139.6
+     lying in the center of the bed. For safety, you do not want to be sleeping close to the
+},
+{
+    139.6,147.24
+     edge. Once you are on your side, please have one pillow placed between your knees to relieve any pressure on bony areas on your legs.
+},
+{
+    147.52,151.22
+     Your hips and knees should be bent about 30 degrees.
+},
+{
+    151.4,154.9
+     Place one pillow under your arm to keep your shoulder in a good position.
+},
+{
+    155.24,162.16
+     Keeping your shoulders positioned well will help to alleviate pain and will help to keep your shoulders, hips and knees properly aligned.
+},
+{
+    165.6,169.56
+     Position the head of the bed as flat as you can tolerate, keeping yourself in the center
+},
+{
+    169.56,170.56
+     of the bed.
+},
+{
+    170.56,175.52
+     If you need to elevate the head of your bed, make sure your legs remain straight with your
+},
+{
+    175.52,176.96
+     knees flat.
+},
+{
+    176.96,181.0
+     Position yourself part of the way onto one side and have pillows placed behind your back
+},
+{
+    181.0,182.0
+     and hips.
+},
+{
+    182.0,189.24
+     Depending on the size of the pillows, you may also need a separate one for under your arm so your body stays in a level position and your arm
+},
+{
+    189.24,194.32
+     doesn't hang down. You may also need a small pillow to place between your knees to avoid
+},
+{
+    194.32,202.2
+     any chance of pressure on the bony areas. If you prefer a three-quarter prone position,
+},
+{
+    202.2,209.36
+     stay in the center of the bed with the head of the bed as flat as possible. Keep your legs straight with your knees flat. Place
+},
+{
+    209.36,213.4
+     pillows under one side of your body. One pillow will be lengthwise under your
+},
+{
+    213.4,217.8
+     shoulder and one will be along your hip and leg. This will slightly elevate one
+},
+{
+    217.8,221.48
+     side of your body off of the bed. Your hands will need to be placed in a
+},
+{
+    221.48,227.44
+     comfortable position for you. Some may find that they bring their hands up by the pillow at their head.
+},
+{
+    227.44,230.24
+     Others will keep their hands on the bed down at their sides.
+},
+{
+    230.24,234.08
+     Please make sure that you are keeping track of what positions you are lying in so that
+},
+{
+    234.08,238.52
+     you are changing them often.
+},
+{
+    238.52,242.52
+     Proper posture is important for people after having a spinal cord injury.
+},
+{
+    242.52,247.92
+     They need to protect their skin integrity by allowing for even distribution of pressure while they are sitting in their
+},
+{
+    247.92,251.72
+     wheelchair. Proper posture will also assist in the prevention of muscle
+},
+{
+    251.72,256.16
+     imbalances, contractures, or tightening that may develop. When sitting in your
+},
+{
+    256.16,260.52
+     wheelchair, your feet should be flat in the middle of the pedals. Your knees and
+},
+{
+    260.52,264.48
+     hips should be positioned at right angles. Your buttocks should be all the way
+},
+{
+    264.48,266.92
+     back in the center of the seat.
+},
+{
+    266.92,272.44
+     If your hips and knees are not in a good alignment, this will lead to your trunk flexing forward,
+},
+{
+    272.44,277.3
+     which can cause increased pressure on your backside and will also lead to your knees
+},
+{
+    277.3,278.68
+     rubbing together.
+},
+{
+    278.68,282.16
+     While you are sitting in your wheelchair, your trunk should also be upright with your
+},
+{
+    282.16,283.64
+     shoulders relaxed.
+},
+{
+    283.64,287.2
+     Your elbows should be resting at right angles on your arm rests.
+},
+{
+    287.2,292.4
+     If your trunk and chest area is forward, this can decrease ease and effectiveness of breathing
+},
+{
+    292.4,294.6
+     and the reaching ability of your arms.
+},
+{
+    294.6,299.0
+     Maintaining good head and trunk posture while sitting in your wheelchair is very important.
+},
+{
+    299.0,304.4
+     Proper posture while sitting in your wheelchair can give you improved use of your arms for wheelchair propulsion
+},
+{
+    304.4,308.24
+     with decreased effort and protect your shoulders from injury.
+},
+{
+    308.24,311.52
+     If you find that you will need more trunk and head support while you are sitting in
+},
+{
+    311.52,316.48
+     a wheelchair, you may need a reclining wheelchair or a tilt in space wheelchair.
+},
+{
+    316.48,319.2
+     These may or may not be power wheelchairs.
+},
+{
+    319.2,322.0
+     Be aware of your hip, knee and ankle position.
+},
+{
+    322.0,329.36
+     Make sure that your feet are flat on the pedals with your hips and knees at a 90 degree angle. Your knees should not be touching together. Also
+},
+{
+    329.36,333.52
+     make sure that you are sitting with your buttocks all the way back in the seat while keeping
+},
+{
+    333.52,339.2
+     your trunk upright in the center of the backrest and your head is centered leaning against
+},
+{
+    339.2,343.52
+     the headrest. When you don't sit back the whole way in your wheelchair you can find
+},
+{
+    343.52,345.0
+     that your knees may turn in
+},
+{
+    345.0,348.0
+     and there is increased rubbing on those bony areas.
+},
+{
+    348.0,354.0
+     You can also find that it can be harder to reach things with your arms, take a deep breath, or even swallow.
+},
+{
+    354.0,360.0
+     Your shoulders should be relaxed so that your elbows can bend and your forearms are able to rest on the arm rests.
+},
+{
+    360.0,370.0
+     If you have any swelling in your arms, please speak with your physician or therapy team regarding any adaptive devices that you can place on your wheelchair to elevate your arms.
+},
+{
+    370.0,376.0
+     Please remember that before you are fitted for your permanent wheelchair, you may be in a loaner chair that is not a perfect fit.
+},
+{
+    376.0,381.0
+     Please continue to be aware of all the positions while you are sitting in this wheelchair.
+},
+{
+    381.0,386.0
+     As with everything else, if you have any questions please contact your physician or therapy team.
+},

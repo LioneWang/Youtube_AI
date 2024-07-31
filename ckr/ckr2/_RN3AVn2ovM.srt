@@ -1,0 +1,420 @@
+{
+    0.0,7.28
+     Hey everybody, it's Doctor Jo and Remy. She's here to help me out to show you some knee arthritis stretches and exercises
+},
+{
+    7.28,9.28
+     So let's get started
+},
+{
+    16.2,21.92
+     The main muscles around your knee are your quad muscles your hamstring muscles and your calf muscles
+},
+{
+    21.92,27.32
+     So we're gonna stretch and exercise those let's start off and your calf muscles. So we're going to stretch and exercise those. Let's start off with the calf muscles. Just kind of putting your feet
+},
+{
+    27.32,30.62
+     out in front of you. The one that you're not going to stretch, you can kind of
+},
+{
+    30.62,34.08
+     pull it up close to you just in a comfortable position. If you've got a
+},
+{
+    34.08,39.16
+     strap that works great. If you don't, you can use a dog leash or a towel or even a
+},
+{
+    39.16,43.08
+     belt if you have one. So take the strap and put it around the ball of your foot.
+},
+{
+    43.08,49.2
+     Not on your toes, not way down, but right there so it doesn't come flying off and hit you in
+},
+{
+    49.2,54.2
+     the face. You want to relax your foot and then use the strap to pull it towards
+},
+{
+    54.2,60.24
+     you. So give it a nice pull, nice stretch, not pain, just stretch and hold that for
+},
+{
+    60.24,68.16
+     about 30 seconds. Then relax it down and do three of those. So pulling towards you and that
+},
+{
+    68.16,72.48
+     calf muscle comes and crosses the knee so you really want to keep that nice and loose so it
+},
+{
+    72.48,79.36
+     doesn't put extra pressure on that knee joint. The next one is going to be a hamstring stretch.
+},
+{
+    79.36,86.44
+     So you can use a strap or you can just do a stretch towards your toes. With that you want to
+},
+{
+    86.44,90.26
+     keep your back nice and straight so you don't want to curl. Sometimes people want
+},
+{
+    90.26,93.44
+     to curl down towards their toes but then you're not really stretching those
+},
+{
+    93.44,98.04
+     hamstrings. So keep your back nice and straight and just bend at your hip joint
+},
+{
+    98.04,102.24
+     and if you pull your toes up towards you that kind of helps activate the calf
+},
+{
+    102.24,106.72
+     and straighten out the legs so you're going to get more of a hamstring stretch. So just kind of stretching
+},
+{
+    106.72,111.64
+     forward. You don't have to touch your toes but you can try if you want to. But
+},
+{
+    111.64,115.32
+     again the hamstrings come and cross the other way so it's really important to
+},
+{
+    115.32,119.4
+     get those nice and loose as well so you don't have that pressure pulling on that
+},
+{
+    119.4,124.04
+     joint there. So again keep the back nice and straight, lean forward, hold it for
+},
+{
+    124.04,126.34
+     30 seconds, and then do three of those.
+},
+{
+    126.86,129.76
+     The last stretch is going to be for your quad muscle.
+},
+{
+    129.76,133.86
+     This one actually connects to the kneecap, so it's really important to stretch as well.
+},
+{
+    133.86,137.78
+     You're going to lie down on your stomach and use the strap again.
+},
+{
+    138.0,144.88
+     One that has a little loop like the strap or the dog leash works really well because you can put it around your ankle.
+},
+{
+    144.88,150.8
+     like the strap or the dog leash works really well because you can put it around your ankle. If you can't lie on your stomach, if that's not comfortable, you can lie on your side,
+},
+{
+    150.8,155.24
+     but make sure to keep that top part of your leg straight down. Don't bring it forward,
+},
+{
+    155.24,161.48
+     but try and keep it straight the whole time. When you lie on your stomach, take the strap and
+},
+{
+    161.48,166.32
+     put it around your shoulder so you can be nice and comfortable and then just pull
+},
+{
+    166.84,173.16
+     towards you. Now sometimes your leg is going to want to go out or in but try and keep it straight up if you can.
+},
+{
+    173.16,178.18
+     So that'll get a nice stretch in the quad. So pull it towards you, hold it for about 30 seconds,
+},
+{
+    178.84,184.52
+     relax, and then pull it towards you again three times for 30 seconds.
+},
+{
+    182.12,184.98
+     and then pull it towards you again. Three times for 30 seconds.
+},
+{
+    188.24,190.56
+     Now we're gonna go into the exercises
+},
+{
+    190.56,193.5
+     after you get everything nice and stretched out.
+},
+{
+    193.5,196.44
+     The first one is gonna be a quad set.
+},
+{
+    196.44,200.08
+     So that's strengthening the quad muscle on top here.
+},
+{
+    200.08,202.36
+     Put your foot straight out in front of you.
+},
+{
+    202.36,203.76
+     The other one, you can kind of pull it up
+},
+{
+    203.76,205.0
+     wherever it's comfortable.
+},
+{
+    205.0,208.7
+     Sometimes you don't have that complete straightness in your knee.
+},
+{
+    208.7,211.0
+     So it might be bent a little bit like this.
+},
+{
+    211.0,215.0
+     If you want to use a rolled up towel as a target, you can.
+},
+{
+    215.0,221.2
+     Some people like to have that target to push down into or you can just have it flat on the ground.
+},
+{
+    221.2,226.16
+     What you want to do is squeeze that quad muscle to push your knee
+},
+{
+    226.16,232.32
+     down onto the floor. If you pull your toes up while you squeeze down, that'll help activate
+},
+{
+    232.32,239.4
+     all the muscles. So squeezing down, try and hold it for five to ten seconds and then relax.
+},
+{
+    239.4,246.4
+     So again, if you want to use the towel, it just kind of helps give you something to push down into. So holding again
+},
+{
+    246.4,258.4
+     five to ten seconds and do about ten of those. The next one we call a short arc quad. Using a roll
+},
+{
+    259.2,266.36
+     is helpful because you're going to prop your knee up this time. If you don't have a roll, a foam roll, something like that,
+},
+{
+    266.52,268.48
+     you can use a big beach towel,
+},
+{
+    268.68,273.0
+     but you want it to be pretty firm because you want a nice bend in your knee
+},
+{
+    273.0,275.96
+     here. You can do it sitting up or you can do it lying down.
+},
+{
+    275.96,278.12
+     I'm going to do kind of a half here,
+},
+{
+    278.64,283.64
+     but keep the knee on the roll and just bring your leg up until it's straight.
+},
+{
+    284.56,285.92
+     So again, you're strengthening
+},
+{
+    285.92,290.72
+     that quad muscle just coming up. I always like pulling the toes up as well
+},
+{
+    290.72,294.44
+     because then that kind of helps activate all the muscles in the leg and then
+},
+{
+    294.44,299.44
+     come down. Don't go fast. That's not really working the muscle that's using
+},
+{
+    299.44,305.32
+     your momentum. Go nice and controlled, nice and slow, especially coming back down, controlling that
+},
+{
+    305.32,311.96
+     muscle. If this becomes easy, you can get to 20, 25, and it's no problem. You can add ankle
+},
+{
+    311.96,318.8
+     weights as you go. But I would really just start off with 10 and see how it feels. So
+},
+{
+    318.8,325.76
+     the next exercises are going to be seated and standing. Now seated in a chair you're going to do a
+},
+{
+    325.76,330.84
+     long arc quad. So you did the short arc quad down on the ground and this one's
+},
+{
+    330.84,335.94
+     going to be a bigger motion. So seated with your knees and your hips at about a
+},
+{
+    335.94,343.2
+     90 degree angle just kick straight out and again go slow and control. Don't just
+},
+{
+    343.2,346.12
+     kick up and down because that's not really working the muscle.
+},
+{
+    346.12,347.8
+     Nice and controlled coming up,
+},
+{
+    347.8,350.4
+     squeeze at the end for that quad muscle,
+},
+{
+    350.4,352.24
+     and then slowly come down,
+},
+{
+    352.24,354.64
+     controlling that muscle coming back down.
+},
+{
+    354.64,356.12
+     So again, same kind of thing,
+},
+{
+    356.12,357.86
+     just start off with 10,
+},
+{
+    357.86,361.32
+     but if you get to 20, 25, and that's easy to do,
+},
+{
+    361.32,363.08
+     then you can add an ankle weight.
+},
+{
+    366.36,367.68
+     So now I'm gonna stand up and show you
+},
+{
+    367.68,370.8
+     some hamstring and calf exercises.
+},
+{
+    370.8,374.0
+     For the hamstring exercise, standing up,
+},
+{
+    374.0,377.68
+     you wanna keep the top part of your leg straight down.
+},
+{
+    377.68,380.68
+     If you're tight, a lot of times it's gonna come forward,
+},
+{
+    380.68,382.72
+     but really try and keep it straight down,
+},
+{
+    382.72,384.74
+     just bending at your knee behind you
+},
+{
+    384.74,386.36
+     like you're trying to kick your bottom.
+},
+{
+    386.36,388.88
+     If you want to hold on to something to keep your balance, you can.
+},
+{
+    388.88,390.64
+     So just going back this way.
+},
+{
+    390.64,397.16
+     Again, when people are tight in the quad and the hamstrings, they come forward like this,
+},
+{
+    397.16,401.8
+     then you're not quite working as much, but keep it straight down and come back.
+},
+{
+    401.8,407.28
+     Again, nice and slow, not super fast, really getting that end range
+},
+{
+    407.28,413.64
+     back there and slowly coming back down. So again starting off with ten, working
+},
+{
+    413.64,419.64
+     your way up and then if those are easy you can add some ankle weights. And then
+},
+{
+    419.64,423.36
+     the last one is for your calf strengthening. With your feet about
+},
+{
+    423.36,429.64
+     shoulder width apart, holding off your balance if you need to, you're just gonna come up on your toes.
+},
+{
+    429.64,434.32
+     So coming up, bringing those heels off the ground, and then slowly coming back
+},
+{
+    434.32,443.28
+     down. Up and then down. If these become easy, then you can start just doing one
+},
+{
+    443.28,447.04
+     foot and then slowly coming back down.
+},
+{
+    447.04,451.28
+     Starting off with 10 working your way up to 20 or 25.
+},
+{
+    451.28,452.28
+     So there you have it.
+},
+{
+    452.28,455.28
+     Those are your knee arthritis stretches and exercises.
+},
+{
+    455.28,457.92
+     If you have any questions, leave them in the comment section.
+},
+{
+    457.92,462.32
+     If you'd like to check out some more videos you can go to AskDrJo.com.
+},
+{
+    462.32,467.88
+     Don't forget to like us and remember be safe, have fun, and I hope you feel better soon.
+},

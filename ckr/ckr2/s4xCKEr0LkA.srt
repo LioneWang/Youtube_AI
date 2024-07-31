@@ -1,0 +1,852 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.04,12.96
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.96,14.0
+     Brad Heineck, physical therapist.
+},
+{
+    14.0,15.76
+     Together we are the most famous physical therapists
+},
+{
+    15.76,16.6
+     on the internet.
+},
+{
+    16.6,17.44
+     In our opinion, of course, Bob.
+},
+{
+    17.44,19.0
+     The most humble guys in the world too.
+},
+{
+    19.0,20.12
+     That's exactly right.
+},
+{
+    20.12,22.6
+     Today we're gonna talk about how to fix elbow pain.
+},
+{
+    22.6,25.22
+     We got one simple self-treatment,
+},
+{
+    25.22,26.48
+     only takes 90 seconds.
+},
+{
+    26.48,28.28
+     We don't have 90 seconds.
+},
+{
+    28.28,30.8
+     And it's for both tennis and golfers' elbows.
+},
+{
+    30.8,32.28
+     So it doesn't matter which one you have,
+},
+{
+    32.28,33.44
+     we're gonna cover them all.
+},
+{
+    33.44,34.8
+     The concept is the same,
+},
+{
+    34.8,37.2
+     just a little bit different mechanics.
+},
+{
+    37.2,38.48
+     And go on Bob.
+},
+{
+    38.48,39.8
+     By the way, if you're new to our channel,
+},
+{
+    39.8,41.32
+     please take a second to subscribe to us.
+},
+{
+    41.32,43.24
+     We provide videos on stay healthy, fit, pain-free,
+},
+{
+    43.24,44.68
+     and we upload every day.
+},
+{
+    44.68,46.24
+     Also go to bobandbrad.com.
+},
+{
+    46.24,47.92
+     Are we giving away the massager, Mike?
+},
+{
+    47.92,50.6
+     Mike says we're giving away the handheld massager, Brad.
+},
+{
+    50.6,52.88
+     You can actually use that on tennis level too.
+},
+{
+    52.88,54.88
+     Yeah, we could work with that a little bit.
+},
+{
+    54.88,56.72
+     We'll maybe show a little bit of that later.
+},
+{
+    56.72,57.68
+     Yeah, be careful with that, Bob.
+},
+{
+    57.68,59.36
+     Oh yeah, we'll put it down.
+},
+{
+    59.36,60.88
+     All right, you can also find the contest
+},
+{
+    60.88,62.48
+     pinned to the top page at Facebook,
+},
+{
+    62.48,64.64
+     go to Twitter, Instagram, or TikTok.
+},
+{
+    64.64,66.28
+     We're actually getting on ZIN too.
+},
+{
+    66.28,70.4
+     ZIN, ZIN and the Art of Bicycle Maintenance.
+},
+{
+    70.4,71.68
+     All right, Brad, take it away.
+},
+{
+    71.68,74.84
+     Okay, so golfer's elbow, tennis elbow,
+},
+{
+    75.68,78.44
+     ladder apoconolitis, medial apoconolitis,
+},
+{
+    78.44,82.2
+     medically speaking, but it's elbow pain.
+},
+{
+    82.2,85.28
+     You know, if you fall and you land on concrete,
+},
+{
+    85.28,87.68
+     that elbow pain is completely different.
+},
+{
+    87.68,89.44
+     That you need to cold back for.
+},
+{
+    89.44,91.52
+     What we're talking about is these elbow pains
+},
+{
+    91.52,94.28
+     that come from repetitive motion,
+},
+{
+    94.28,97.88
+     or you aggressively go do a task like the other week
+},
+{
+    97.88,101.04
+     and I ran the chainsaw for a couple hours.
+},
+{
+    101.04,102.48
+     I hardly ever do that.
+},
+{
+    102.48,106.38
+     Oh, yeah, I got some elbow pain as a result of that.
+},
+{
+    106.38,111.22
+     Well, golf, if you actually like hit the ground really hard,
+},
+{
+    111.22,112.34
+     you know, by mistake.
+},
+{
+    112.34,113.18
+     You'd never do that.
+},
+{
+    113.18,115.46
+     Yeah, that happens a lot.
+},
+{
+    115.46,118.86
+     You're really doing a jarring motion to that elbow.
+},
+{
+    118.86,121.82
+     So what you're doing is you're tearing some tendons
+},
+{
+    121.82,125.72
+     right by the bone and the elbow or the tennis elbow, you know,
+},
+{
+    125.72,128.16
+     is on the outside here near this bone
+},
+{
+    128.16,130.36
+     and there's typically a really tender spot
+},
+{
+    130.36,131.8
+     right where they connect.
+},
+{
+    131.8,135.52
+     And golfer's elbow is this the opposite side.
+},
+{
+    135.52,137.16
+     There's a tender spot right there.
+},
+{
+    137.16,140.12
+     And one thing we should explain is the muscles
+},
+{
+    141.56,143.76
+     and the forearm actually attached to that bone.
+},
+{
+    143.76,144.6
+     Sure.
+},
+{
+    144.6,147.56
+     On this side and the extensor wad, they call it.
+},
+{
+    147.56,149.0
+     They attach on this side.
+},
+{
+    149.0,150.88
+     So you got muscles all the way along here
+},
+{
+    150.88,152.84
+     that are attaching to that bone.
+},
+{
+    152.84,155.44
+     Muscles all the way along here, attaching to this bone.
+},
+{
+    155.44,156.84
+     So before you do this technique,
+},
+{
+    156.84,158.56
+     I know people are gonna say 90 seconds,
+},
+{
+    158.56,159.62
+     why do they take 10 minutes?
+},
+{
+    159.62,161.4
+     Because we have to explain how to do it properly.
+},
+{
+    161.4,162.72
+     Right, you have to understand it.
+},
+{
+    162.72,165.0
+     It's not gonna work unless you do it properly.
+},
+{
+    165.0,168.08
+     But if I've got tennis elbow, I check here,
+},
+{
+    168.08,169.1
+     and I'm gonna go up in here,
+},
+{
+    169.1,171.42
+     I'm gonna palpate or feel in these muscles,
+},
+{
+    171.42,173.26
+     you're probably gonna find a real tight,
+},
+{
+    173.26,176.64
+     knotty, painful muscle group in there.
+},
+{
+    176.64,178.92
+     So just assess that, see how tender it is
+},
+{
+    178.92,180.06
+     and how tight it is.
+},
+{
+    180.06,182.32
+     Same thing, Bob's gonna do the golfer's elbow.
+},
+{
+    182.32,184.9
+     So I'm checking on the underside,
+},
+{
+    184.9,187.28
+     I guess it'd be of the forearm,
+},
+{
+    187.28,190.6
+     already inside, however you wanna coin it.
+},
+{
+    190.6,194.0
+     But I'm looking for a tender spots along in here.
+},
+{
+    194.0,197.08
+     And you could actually massage that area,
+},
+{
+    197.08,200.88
+     but this is much easier and faster than the massage.
+},
+{
+    200.88,203.84
+     Now, we're gonna get a really called positional release.
+},
+{
+    203.84,205.12
+     It was called strain,
+},
+{
+    205.12,208.98
+     counter strain number of years ago, works very well.
+},
+{
+    208.98,210.52
+     Now if you've got tennis elbow,
+},
+{
+    210.52,212.36
+     this is the mechanics you're going to do.
+},
+{
+    212.36,215.16
+     You're gonna, and I do mine, you know,
+},
+{
+    215.16,217.14
+     in my recliner I have a pillow.
+},
+{
+    217.14,219.08
+     You can do a lying down in bed.
+},
+{
+    219.08,220.76
+     Yep, you can do that as well.
+},
+{
+    220.76,223.36
+     With the tennis elbow, you're gonna bring your hand
+},
+{
+    223.36,224.2
+     back like this.
+},
+{
+    224.2,225.56
+     So the elbow is bent. Yep, the elbow're gonna bring your hand back like this. So the elbow is bent.
+},
+{
+    225.56,227.52
+     Yep, the elbow is bent.
+},
+{
+    227.52,229.1
+     Bring this back like this.
+},
+{
+    229.1,231.12
+     And then I'm gonna rotate.
+},
+{
+    231.12,233.0
+     If my thumb is pointing towards my face,
+},
+{
+    233.0,234.88
+     I'm gonna rotate it away.
+},
+{
+    234.88,236.44
+     But you're gonna go back and forth
+},
+{
+    236.44,240.04
+     until you find the most comfortable position possible.
+},
+{
+    240.04,242.56
+     So you may do a little bit of,
+},
+{
+    242.56,244.36
+     this is a general position you're in,
+},
+{
+    244.36,246.36
+     but you may do some fine tuning
+},
+{
+    246.36,249.12
+     and you'll find it where it feels the most comfortable
+},
+{
+    249.12,250.8
+     in that painful spot.
+},
+{
+    250.8,255.04
+     And then you're gonna hold it right there for 90 seconds
+},
+{
+    255.04,257.0
+     and you're gonna do this when it's nice and quiet
+},
+{
+    257.0,257.84
+     and you're relaxed.
+},
+{
+    257.84,259.36
+     It's not when the kids are running around,
+},
+{
+    259.36,262.76
+     jumping on your lap and that kind of thing for family people.
+},
+{
+    262.76,264.32
+     And make sure it's 90 seconds.
+},
+{
+    264.32,265.88
+     Yeah, you gotta look at a clock
+},
+{
+    265.88,268.84
+     and they always, they say a minimum of 90 seconds,
+},
+{
+    268.84,271.24
+     you can go up to 120 seconds.
+},
+{
+    271.24,272.08
+     So I'm gonna do that.
+},
+{
+    272.08,273.28
+     That would be two minutes.
+},
+{
+    275.08,275.92
+     There you go.
+},
+{
+    275.92,277.36
+     We got our math down.
+},
+{
+    277.36,279.32
+     And then it's important when you're done,
+},
+{
+    279.32,282.12
+     let it come off slowly and relax.
+},
+{
+    282.12,284.28
+     You're not gonna aggressively stretch it.
+},
+{
+    284.28,286.38
+     You're not gonna go work on something. If you're gonna do the golfer's elbow, you're not gonna aggressively stretch it. You're not gonna go work on something.
+},
+{
+    286.38,287.7
+     If you're gonna do the golfer's elbow,
+},
+{
+    287.7,289.66
+     you're not gonna go golfing afterwards.
+},
+{
+    289.66,292.12
+     Yeah, it's actually opposite for the golfer's elbow.
+},
+{
+    292.12,294.96
+     So he went this way for tennis elbow.
+},
+{
+    294.96,297.02
+     I'm actually gonna go this way.
+},
+{
+    297.02,299.4
+     So I got the wrist bent, elbow bent,
+},
+{
+    299.4,301.34
+     and now I'm gonna turn it.
+},
+{
+    301.34,303.94
+     Also, fingers are going out.
+},
+{
+    303.94,307.4
+     Yeah, but again, you're gonna rotate it back and forth
+},
+{
+    307.4,310.8
+     and find the most comfortable position.
+},
+{
+    310.8,313.04
+     Now I can't relate to this right now
+},
+{
+    313.04,315.68
+     because I don't have any tennis elbow or a golfers elbow,
+},
+{
+    315.68,318.24
+     but I had some hip pain, Brad did this,
+},
+{
+    318.24,319.72
+     and we did this with my hip.
+},
+{
+    319.72,322.28
+     And you could tell when I hit the right spot,
+},
+{
+    322.28,323.6
+     it was comfortable.
+},
+{
+    323.6,325.48
+     It's like, no, that hurts, that hurts.
+},
+{
+    325.48,327.24
+     No, that feels good.
+},
+{
+    327.24,331.24
+     So you're gonna feel what spot feels the best.
+},
+{
+    331.24,335.36
+     And then once I find it, I can actually go down like this.
+},
+{
+    335.36,338.56
+     Wherever you have that comfortable feeling,
+},
+{
+    338.56,342.0
+     maybe it varies in how your pillow is situated
+},
+{
+    342.0,345.32
+     or your injury is, but then you're gonna hold it like that.
+},
+{
+    345.32,350.32
+     90 seconds, relaxed, just chill out for 90 seconds.
+},
+{
+    351.96,354.96
+     And then when you're done, you open it up slowly.
+},
+{
+    354.96,355.8
+     Slowly.
+},
+{
+    355.8,356.64
+     Yep.
+},
+{
+    356.64,359.08
+     If you wanna do some massage, gentle massage
+},
+{
+    359.08,361.4
+     on the muscles afterwards, you can do that,
+},
+{
+    361.4,363.36
+     but don't do anything aggressive.
+},
+{
+    363.36,365.6
+     Don't go out and like I said, golf again or.
+},
+{
+    365.6,367.72
+     And then sort of the massage comes in handy.
+},
+{
+    367.72,370.12
+     These handheld massagers are really good
+},
+{
+    370.12,372.88
+     for smaller muscles like this.
+},
+{
+    372.88,377.4
+     Now also if you're a slightly built person.
+},
+{
+    377.4,379.2
+     Thin, you know, don't have a lot of muscle.
+},
+{
+    379.2,380.96
+     You probably want to even use this
+},
+{
+    380.96,382.64
+     instead of a massage gun.
+},
+{
+    382.64,383.96
+     They're very inexpensive.
+},
+{
+    383.96,385.26
+     That's what I like about them Brad.
+},
+{
+    385.26,387.98
+     And yet they come with five different heads
+},
+{
+    387.98,391.34
+     you can put on there and you can work that muscle
+},
+{
+    391.34,393.0
+     quite easily.
+},
+{
+    393.0,395.66
+     Now be careful, you definitely don't want to go up
+},
+{
+    395.66,396.9
+     by that bone where it's tender
+},
+{
+    396.9,400.7
+     because that's just going to irritate the living age
+},
+{
+    400.7,401.54
+     out of it.
+},
+{
+    401.54,402.38
+     You won't be happy with this.
+},
+{
+    402.38,403.78
+     You want to keep it in the muscle belly
+},
+{
+    403.78,406.72
+     where it feels good and you're getting that,
+},
+{
+    406.72,407.72
+     getting that out a little bit.
+},
+{
+    407.72,408.56
+     Yeah.
+},
+{
+    408.56,409.4
+     I'll do that.
+},
+{
+    409.4,410.24
+     I'll take care of your tassel.
+},
+{
+    410.24,411.08
+     All right, so very good.
+},
+{
+    411.08,413.76
+     Now, the other thing is, as you do that,
+},
+{
+    413.76,415.48
+     do it three times a day.
+},
+{
+    415.48,418.16
+     I know I didn't even have to do it that often on mine.
+},
+{
+    418.16,419.8
+     I didn't have a severe case either time,
+},
+{
+    419.8,422.6
+     but it was work so I forgot about it
+},
+{
+    422.6,424.4
+     and I forgot to do the next thing.
+},
+{
+    424.4,426.44
+     I'm serious, it was a good deal. It held my hip too. I was surprised and I forgot about it and I forgot to do the next thing. I'm serious, it was a good deal.
+},
+{
+    426.44,428.28
+     It helped my hip too, I was surprised
+},
+{
+    428.28,430.52
+     and I kinda, same thing, I kinda forgot about it.
+},
+{
+    430.52,431.44
+     You didn't do it three times a day
+},
+{
+    431.44,432.28
+     cause you forgot about it.
+},
+{
+    432.28,433.52
+     No, I did it once.
+},
+{
+    433.52,437.96
+     And I, you know, I didn't feel it much anymore
+},
+{
+    437.96,439.72
+     when I was doing my foam rolling.
+},
+{
+    441.4,442.24
+     That's weird.
+},
+{
+    442.24,443.44
+     Yeah, I'm amazed.
+},
+{
+    443.44,447.64
+     I wish I'd learned this this much earlier in my therapy career
+},
+{
+    447.64,449.36
+     because I would use it a lot more patients.
+},
+{
+    449.36,452.16
+     So, you know, it's all the way to life
+},
+{
+    452.16,453.76
+     kind of falls into place.
+},
+{
+    453.76,455.64
+     Remember Brad and I can fix just about anything.
+},
+{
+    455.64,457.32
+     Except for a broken heart.
+},
+{
+    457.32,460.2
+     That's exactly right, but we'll work on that too.
+},
+{
+    460.2,462.0
+     Maybe this baby will have something to do with it.
+},
+{
+    462.0,462.84
+     Maybe there's a position to release.
+},
+{
+    462.84,464.16
+     Yeah, this is gonna work Bob.
+},
+{
+    464.16,465.0
+     I can tell.
+},
+{
+    465.0,465.84
+     Oh.
+},

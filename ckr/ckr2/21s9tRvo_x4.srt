@@ -1,0 +1,1072 @@
+{
+    0.0,5.0
+     You, go call 911, get an AED and come back to me.
+},
+{
+    5.0,6.84
+     Are you going?
+},
+{
+    6.84,11.12
+     So if you've ever had that moment where you've wondered, oh my god, what would I do if someone
+},
+{
+    11.12,15.8
+     were to call me, you, to get an AED?
+},
+{
+    15.8,20.04
+     So we're going to talk about what the automated external defibrillator is in this video.
+},
+{
+    20.04,24.04
+     We're going to look at what's inside of here, why we need it, why it's so important to use
+},
+{
+    24.04,27.68
+     it, and what we can reasonably expect in terms of outcomes.
+},
+{
+    28.64,30.0
+     The First Lesson
+},
+{
+    35.28,36.68
+     Welcome back, my name is Tammy,
+},
+{
+    36.68,38.04
+     and this is NurseMinder,
+},
+{
+    38.04,40.88
+     and on this channel we do everything nursing.
+},
+{
+    40.88,43.28
+     So if you're new here, consider subscribing below
+},
+{
+    43.28,49.18
+     so that you get the next video when it's released. Now I'll first share that. When I teach it's
+},
+{
+    49.18,54.18
+     quite fun because as people's nerves get going, even before we start the class,
+},
+{
+    54.18,57.66
+     they're nervous because they have to perform at some point, when I tell them
+},
+{
+    57.66,62.02
+     it's an AED, they don't always hear it or let it register. And so when they
+},
+{
+    62.02,71.12
+     actually get into their moment and it's their turn to call out somebody I've heard it called an IED. It is not an
+},
+{
+    71.12,75.8
+     it's not an improvised explosive device. I've heard it called an IUD which
+},
+{
+    75.8,80.8
+     always breaks us out in hysterical laughter because an IUD isn't gonna
+},
+{
+    80.8,86.02
+     help your heart. But what's most important is they do know what
+},
+{
+    86.02,88.64
+     they're looking for. They actually understand what this is going to do. And
+},
+{
+    88.64,95.6
+     so we are going to talk about that. So an AED is a portable device. It's
+},
+{
+    95.6,100.3
+     really easy to use. It is meant for anyone to use without training because it
+},
+{
+    100.3,106.52
+     will take you and walk you through. it actually talks to you step by step what you need to do.
+},
+{
+    106.52,110.96
+     Now an AED, A is for Automated, E external,
+},
+{
+    110.96,114.78
+     and D is defibrillator, is a portable unit,
+},
+{
+    114.78,117.08
+     a little portable machine inside of this
+},
+{
+    117.08,120.36
+     that is used to detect cardiac arrhythmias.
+},
+{
+    120.36,123.38
+     And so as we are sitting here talking today,
+},
+{
+    123.38,126.12
+     my heart is beating in a rhythm that is perfusing,
+},
+{
+    126.12,132.64
+     which means it's contracting to propel blood so that my body can get all the oxygen and the nutrients that it needs,
+},
+{
+    132.64,135.86
+     which is why I'm living and talking and breathing right now.
+},
+{
+    136.76,143.24
+     When a patient has a cardiac arrest, that function stops. The heart is not beating and there is no blood pumping out.
+},
+{
+    143.24,145.52
+     So essentially our patients are
+},
+{
+    145.52,152.72
+     dead. So we want to get one of these on scene ASAP in order to increase the likelihood of survival.
+},
+{
+    153.6,159.6
+     Now in Canada the latest stats show that there's approximately 40,000 cardiac arrests annually
+},
+{
+    159.6,167.28
+     which averages out to approximately one every 12 minutes. And with that, 75 to 80% happen in the community,
+},
+{
+    167.28,169.32
+     which is why it's so important,
+},
+{
+    169.32,173.54
+     we know how to do CPR and work an AED.
+},
+{
+    174.48,177.02
+     Now here's the real issue
+},
+{
+    177.02,179.28
+     as to why AEDs are so important.
+},
+{
+    179.28,183.42
+     CPR alone is only effective to circulate the blood.
+},
+{
+    183.42,185.32
+     It's not going to convert the heart
+},
+{
+    185.32,189.76
+     out of a rhythm that needs to be shocked in order for the heart to take over and
+},
+{
+    189.76,195.28
+     start to do that on its own. And so if we combine CPR with an AED, if that's how
+},
+{
+    195.28,199.44
+     if we have immediate access to both of those and we can get from onset of
+},
+{
+    199.44,203.68
+     cardiac arrest to the first rhythm within two or three minutes, we have a 75%
+},
+{
+    203.68,205.58
+     success rate. Now for every minute that ticks minutes, we have a 75% success rate.
+},
+{
+    205.58,207.66
+     Now for every minute that ticks by,
+},
+{
+    207.66,209.46
+     we lose seven to 10%.
+},
+{
+    209.46,213.1
+     So their survival rate drops seven to 10%
+},
+{
+    213.1,215.5
+     for every minute that we delay the use
+},
+{
+    215.5,217.66
+     of an automated external defibrillator.
+},
+{
+    217.66,221.86
+     And so we definitely want to get that right away.
+},
+{
+    221.86,223.38
+     But how do we access it?
+},
+{
+    223.38,225.2
+     Now I know what you're thinking. You're
+},
+{
+    225.2,229.84
+     thinking, how is it possible for me to get an AED Tammy if I don't have one in
+},
+{
+    229.84,233.68
+     my house? I can tell you these are trainers, they're not real ones. I don't
+},
+{
+    233.68,237.68
+     have one in my house either. But what I share with you now is that when you call
+},
+{
+    237.68,244.88
+     911, they will have a list of AEDs nearest you. And if there is one close by, if
+},
+{
+    244.88,245.24
+     all you have
+},
+{
+    245.24,249.24
+     to do is run across the street to the 7-Eleven or to the bank or to the
+},
+{
+    249.24,255.12
+     grocery store or to the arena, casino, any public space where you are close to,
+},
+{
+    255.12,261.52
+     they can direct you to that AED but only if they're registered. There was a show
+},
+{
+    261.52,265.76
+     a while back and I think it was like a W5 or something where they were downtown Toronto
+},
+{
+    265.76,270.08
+     and they were going in to see how many AEDs existed in the buildings because
+},
+{
+    270.6,275.2
+     AEDs will be in locations where a large group of people gather that are high risk and
+},
+{
+    275.8,277.8
+     likely to need those services and
+},
+{
+    278.44,282.56
+     What they found was a lot of those AEDs were actually locked behind security desks
+},
+{
+    282.56,285.8
+     So they had to find the security guard to get the key to open the door to get the AEDs were actually locked behind security desks, so they had to find the security guard to get the key,
+},
+{
+    285.8,288.56
+     to open the door, to get the AED.
+},
+{
+    288.56,291.48
+     To see what that is, that's time, time, time, time.
+},
+{
+    291.48,293.48
+     Tick, tick, tick, tick.
+},
+{
+    293.48,296.32
+     And a dead person doesn't have time on their side.
+},
+{
+    296.32,298.56
+     And so that was one of the things they found
+},
+{
+    298.56,300.26
+     is that they were not accessible.
+},
+{
+    300.26,302.68
+     The second thing they found was that
+},
+{
+    302.68,305.12
+     the AEDs were not registered with 911.
+},
+{
+    305.12,310.52
+     And so if a patient were to arrest in that building and they were to call 911,
+},
+{
+    310.52,315.48
+     they could not advise the people to go downstairs or go to the elevator or go to
+},
+{
+    315.48,319.24
+     the fourth floor where there was an AED so that they could get that
+},
+{
+    319.24,323.48
+     electricity onto that patient through that patient fast.
+},
+{
+    323.48,326.28
+     That's a significant problem so if
+},
+{
+    326.28,329.6
+     you have an AED and you're watching this, maybe you have one at home or in your
+},
+{
+    329.6,333.4
+     company and you haven't registered it with your local emergency response
+},
+{
+    333.4,337.2
+     system, please follow up with that and make sure they're aware that you have
+},
+{
+    337.2,342.72
+     that life-saving measure available to you. Because as good as our emergency
+},
+{
+    342.72,346.2
+     response system is and let me tell, they have a national response time
+},
+{
+    346.2,348.6
+     between eight to 12 minutes from call
+},
+{
+    348.6,350.52
+     to showing up at your door.
+},
+{
+    350.52,353.72
+     And we wanna get that AED on as soon as possible.
+},
+{
+    353.72,354.56
+     So if we can get it within
+},
+{
+    354.56,356.48
+     that first five to 10 minutes in the community,
+},
+{
+    356.48,358.48
+     great, we have a higher survival rate.
+},
+{
+    358.48,360.36
+     In the hospital, it's even higher standards.
+},
+{
+    360.36,362.12
+     Like within the first two or three minutes,
+},
+{
+    362.12,365.9
+     we want that AED pumping electricity if it's required.
+},
+{
+    366.96,370.32
+     But as good as they are, sometimes we can get a boost
+},
+{
+    370.32,372.26
+     by just knowing that we have these available to us
+},
+{
+    372.26,373.34
+     and that we know how to use them.
+},
+{
+    373.34,376.96
+     So we're gonna take care of how to use them next.
+},
+{
+    376.96,380.28
+     So let's look at the components inside of our AED bag.
+},
+{
+    380.28,383.34
+     First, we have our machine, and they're not all universal,
+},
+{
+    383.34,386.04
+     but you can see from here. There's a 1 2 3
+},
+{
+    386.2,389.62
+     There's also a green button and that's where we would start. Okay?
+},
+{
+    390.0,393.8
+     We have our pediatric pads or adult pads and in this case
+},
+{
+    393.8,396.42
+     I've put a razor in here in case you have a razor in your kit
+},
+{
+    396.84,402.28
+     Now you might be wondering why are there two different sizes of pads our pediatric and our adult?
+},
+{
+    402.28,405.4
+     So our pediatric is for our 8 and under. Now we
+},
+{
+    405.4,408.46
+     don't always know the age of our patient when they're in front of us so use signs
+},
+{
+    408.46,412.98
+     of puberty which I know that varies greatly but if you have somebody who has
+},
+{
+    412.98,416.68
+     no signs of puberty assume they are a child and use the pediatric pads you
+},
+{
+    416.68,421.92
+     will notice that the placement is different. It's gonna have you put a pad
+},
+{
+    421.92,428.56
+     right here in the middle of the chest and right here in the back. This is an adult pad but right here in the back.
+},
+{
+    430.48,434.32
+     That's because our pediatric patients, their hearts are still sitting here more midline.
+},
+{
+    434.32,438.96
+     They haven't grown and shifted to the left and so for our 8 and under the pad placement is a
+},
+{
+    438.96,444.32
+     little different. For those that are 8 and older or puberty and above, we're going to use the adult
+},
+{
+    444.32,447.02
+     pads which now when it comes to pad placement on your human
+},
+{
+    447.02,449.12
+     We're going to go in the patient's right upper chest
+},
+{
+    449.12,454.36
+     So this is my right upper chest here and it goes under the collarbone and it's above the nipple
+},
+{
+    454.36,459.8
+     And so it's going to sit in that right upper chest and then the second pad goes in the left lateral
+},
+{
+    459.8,463.76
+     And so the landmarking for that is twofold one is the middle of the armpit
+},
+{
+    463.76,466.08
+     We call it the mid axillary line comes straight down. We twofold. One is the middle of the armpit. We call it the mid-axillary line.
+},
+{
+    466.08,467.36
+     Comes straight down.
+},
+{
+    467.36,468.32
+     We're gonna go in the middle.
+},
+{
+    468.32,470.2
+     That's where we wanna be on that line.
+},
+{
+    470.2,472.8
+     But the second thing is we want the patient's left nipple
+},
+{
+    472.8,475.54
+     right below and then you're gonna put it on the side.
+},
+{
+    476.68,477.92
+     Now with this positioning,
+},
+{
+    477.92,480.64
+     if I were to place my heart in this scenario now,
+},
+{
+    480.64,482.32
+     my heart is behind my ribs.
+},
+{
+    482.32,486.34
+     You can see the direct line that the energy has to take to go through
+},
+{
+    486.74,492.04
+     Sorry, you can see the direct line the energy is taking to go through my heart to hit this pad and
+},
+{
+    492.5,497.16
+     That is why we use anterolateral as the most common commonly placed
+},
+{
+    497.94,499.94
+     system for the pads
+},
+{
+    500.04,505.6
+     The second most common is the anterior posterior and so the heart is on the left side of the chest
+},
+{
+    505.76,511.82
+     It's down here at ribs 3 4 and 5 which is kind of nipple line. You would place that pad just
+},
+{
+    512.2,517.12
+     Left of the midline. So this is the sternum that really hard bone that goes all the way down your chest
+},
+{
+    517.64,519.98
+     Just left of that at the nipple
+},
+{
+    520.58,524.72
+     Okay, and then you're going to turn your patient around and you'll notice where
+},
+{
+    528.0,531.0
+     Where the shoulder bone ends here. You're going to put it right underneath.
+},
+{
+    531.0,538.0
+     And so this way the heart, oops, you're going to put it right underneath.
+},
+{
+    538.0,544.0
+     And this allows the electricity to go through the heart.
+},
+{
+    544.0,545.8
+     Okay, this would be anterior-posterior. And this allows the electricity to go through the heart. Okay?
+},
+{
+    545.8,547.36
+     This would be anterior-posterior.
+},
+{
+    547.36,551.28
+     So let's show you the anterolateral on Manny.
+},
+{
+    551.28,556.14
+     You can see here on the mannequin that we do have the anterol, which is the right upper
+},
+{
+    556.14,559.3
+     chest under the clavicle, but usually above the nipple.
+},
+{
+    559.3,560.6
+     That's kind of where it sits.
+},
+{
+    560.6,565.54
+     And then we have the lateral pad, which sits in the mid-accelery line so that is
+},
+{
+    565.54,569.54
+     on the side of the patient. Again we use the nipple as our landmark. We go
+},
+{
+    569.54,574.22
+     directly below but most importantly to the side.
+},
+{
+    576.86,582.02
+     Now there are some special considerations to keep in the forefront of your mind. If
+},
+{
+    582.02,588.04
+     you have a patient who is male and they have a lot of hair on their chest, when you put this pad on your machine might
+},
+{
+    588.04,595.04
+     continually say check pads. Check pads and that's because the electrodes or the pad
+},
+{
+    595.04,599.14
+     is not able to actually press down on the skin because the hair is so thick it's
+},
+{
+    599.14,603.72
+     pushing it up and so every time you push it down you squish the hair but it's
+},
+{
+    603.72,605.42
+     going to rise up and we don't get really good contact and so if time you push it down you squish the hair, but it's going to rise up,
+},
+{
+    605.42,607.26
+     and we don't get really good contact.
+},
+{
+    607.26,610.1
+     And so if that happens and you're getting a check pads,
+},
+{
+    610.1,612.08
+     you're gonna take this pad and rip it off.
+},
+{
+    612.08,614.02
+     Don't be kind.
+},
+{
+    614.02,616.7
+     Don't go, oh my gosh, oh my gosh, oh my gosh, I'm so sorry.
+},
+{
+    616.7,619.88
+     You wanna rip it off and expose the skin,
+},
+{
+    619.88,621.88
+     and then place a new set of pads there.
+},
+{
+    622.94,625.56
+     The second consideration is if they're wet.
+},
+{
+    625.56,627.88
+     So you can't use these in water.
+},
+{
+    627.88,631.84
+     You can't use these if the patient's skin is drenched in sweat.
+},
+{
+    631.84,637.12
+     You need to wipe off that area because water is a good conductor of electricity and we
+},
+{
+    637.12,638.12
+     don't want that.
+},
+{
+    638.12,641.56
+     So you're going to wipe off this area and then put your pad on.
+},
+{
+    641.56,642.56
+     Now here's the question.
+},
+{
+    642.56,650.08
+     If they're outside and it's raining, if they're in a puddle, if it's wintertime, can I use it? The answer is yes. If they're in a small puddle,
+},
+{
+    650.08,656.96
+     if it is snow, you can definitely use the AED pads. There's no real qualifier though as
+},
+{
+    656.96,666.64
+     to what makes a small puddle. And so my lifeguard students who've come through training have shared with me that if they splash that puddle
+},
+{
+    666.64,669.78
+     and there is, you know, splash up,
+},
+{
+    669.78,670.72
+     that's considered too big
+},
+{
+    670.72,673.56
+     and they'll move the patient out of the puddle.
+},
+{
+    673.56,675.92
+     And the last consideration is the medication patch.
+},
+{
+    675.92,679.12
+     They're often clear and so they're hard to see,
+},
+{
+    679.12,681.7
+     but if you have somebody who has a medication patch,
+},
+{
+    681.7,684.12
+     maybe they'll take nitro for their heart
+},
+{
+    684.12,685.3
+     or they're on a smoking
+},
+{
+    685.3,690.84
+     cessation patch or a hormone patch or Fentyl or Morphine for pain and we would put our
+},
+{
+    690.84,697.2
+     pad on top of it. It's going to block the energy and it actually can cause burns to the skin.
+},
+{
+    697.2,702.84
+     So let's say I have a medication patch and it's in my right upper and I notice it, I
+},
+{
+    702.84,706.6
+     need to remove it first before I put my pad and
+},
+{
+    706.6,710.84
+     that's to prevent any delay of electricity or reduction of electricity
+},
+{
+    710.84,715.4
+     going through the heart. Now the most important step with an AED is to simply
+},
+{
+    715.4,728.0
+     turn it on. Apply pads to patient's bare chest. Plug in pads connector next to flashing light.
+},
+{
+    732.0,736.0
+     Apply pads, plug in connector.
+},
+{
+    736.0,740.0
+     Analyzing heart rhythm.
+},
+{
+    740.0,744.0
+     Do not touch the patient.
+},
+{
+    746.64,748.14
+     Shock-advised.
+},
+{
+    749.96,750.8
+     Charging.
+},
+{
+    752.64,754.48
+     Stay clear of patient.
+},
+{
+    756.36,758.12
+     Deliver shock now.
+},
+{
+    758.12,760.68
+     Press the orange button now.
+},
+{
+    760.68,762.64
+     I'm clear, you are clear.
+},
+{
+    763.88,769.0
+     Shock delivered. Begin CPR.
+},
+{
+    771.0,774.0
+     Now what you're hearing there is the actual rate of compressions,
+},
+{
+    774.0,778.0
+     and so you do not want to go slower than that beeping sound,
+},
+{
+    778.0,786.32
+     but you can go a little faster as we do have some flexibility in the speed but not so fast that our
+},
+{
+    786.32,791.52
+     compression has become ineffective. Alright so what rhythm is it looking for?
+},
+{
+    791.52,796.44
+     The AED is so sophisticated that it can actually discern if your rhythm is
+},
+{
+    796.44,800.08
+     perfusable or not and really what it's looking for in particular to help with
+},
+{
+    800.08,809.68
+     that is it's recognizing that there is all this chaotic energy happening inside the heart. We call that ventricular fibrillation which is why it's
+},
+{
+    809.68,817.28
+     called a defibrillator. Okay so I liken it to fireworks on the 4th of July or
+},
+{
+    817.28,822.2
+     the 1st of July depending on where you live states or Canada and how they're
+},
+{
+    822.2,828.16
+     just like boom boom boom boom up in the sky. The same thing is happening with the electricity inside your heart. It's just like going
+},
+{
+    828.16,833.2
+     crazy and it's from the ventricles that it's being coordinated from the
+},
+{
+    833.2,836.24
+     ventricles. So it's not actually coming from the top of the heart down, it's
+},
+{
+    836.24,840.92
+     coming from the bottom of the heart up and it's just like chaotic and crazy in
+},
+{
+    840.92,845.36
+     there and what happens is the heart actually can't compress, it actually can't contract,
+},
+{
+    845.36,852.48
+     it can't circulate blood because the signals are so wild. And when the machine detects that kind
+},
+{
+    852.48,859.04
+     of electrical pattern inside your heart, it will say shock advised because what science has shown us
+},
+{
+    859.04,866.08
+     is that when we give a shock, it helps to coordinate the electrical action that's happening inside the heart.
+},
+{
+    866.08,872.4
+     But it's not a guarantee. I liken it to to give you another analogy. If you've ever,
+},
+{
+    873.12,879.28
+     I like analogies, if you've ever worked with somebody who is overwhelmed,
+},
+{
+    880.48,885.6
+     panicked, full of anxiety, not really knowing what to do and they they're like, oh my God, I don't know what to do.
+},
+{
+    885.6,887.16
+     I gotta take the dog, and I gotta have the kids,
+},
+{
+    887.16,888.32
+     I gotta make separate, I gotta do my homework,
+},
+{
+    888.32,890.54
+     I gotta, oh, I don't know where to start.
+},
+{
+    890.54,893.64
+     Those kind of personalities, you kinda wanna reset them,
+},
+{
+    893.64,896.72
+     help them focus, and you might wanna go, all right.
+},
+{
+    897.8,900.28
+     Let's just think about one thing at a time here, right?
+},
+{
+    900.28,901.28
+     It's the same thing with the heart.
+},
+{
+    901.28,902.92
+     The heart's in there going crazy, crazy, crazy,
+},
+{
+    902.92,904.96
+     shot comes, boom!
+},
+{
+    904.96,906.48
+     Let's focus on one thing at a time.
+},
+{
+    906.48,908.16
+     You have a job to do.
+},
+{
+    908.16,909.6
+     Ideally, we get the conversion,
+},
+{
+    909.6,911.6
+     but that's not a guarantee, as I mentioned.
+},
+{
+    911.6,913.14
+     And if we don't get that conversion,
+},
+{
+    913.14,914.88
+     then we continue on with our CPR
+},
+{
+    914.88,917.72
+     and our AED will reassess every two minutes.
+},
+{
+    917.72,921.0
+     So we call that rhythm ventricular fibrillation
+},
+{
+    921.0,923.84
+     because the ventricles are in charge of the electrical current
+},
+{
+    923.84,925.2
+     and it's fibrillating or
+},
+{
+    925.2,930.8
+     quivering inside the body which is why the automated external meaning the pads are on the skin
+},
+{
+    931.36,937.76
+     defibrillator helps it to return out of fibrillation into a perfusing rhythm.
+},
+{
+    938.56,944.4
+     It's fascinating isn't it? So here's a question I get asked a lot. After the AED shocks,
+},
+{
+    944.28,945.16
+     So here's a question I get asked a lot after the AED shocks
+},
+{
+    948.22,948.76
+     Do I need to do a pulse check? The answer is no
+},
+{
+    954.14,954.96
+     Once the AED delivers its shock you need to get right back into CPR and here's the rationale
+},
+{
+    956.88,961.24
+     After a shock is delivered We don't consider the heart to be strong enough to maintain any perfusing rhythm
+},
+{
+    961.24,969.68
+     So we're going to give it two minutes of CPR and then reassess. If it is still in a profusing rhythm, bonus! We won't have to shock
+},
+{
+    969.68,973.78
+     again and we can continue to just monitor our patient and reassess every
+},
+{
+    973.78,977.64
+     two minutes for breathing and heart rate to make sure they're still doing the
+},
+{
+    977.64,984.36
+     things they need to do to survive. Right? You dead people? That's your AED lesson.
+},
+{
+    984.36,986.12
+     Make sure you're aware that if
+},
+{
+    986.12,991.28
+     there's an AED located nearby, how can you access it? Take note of your
+},
+{
+    991.28,995.24
+     workplaces and identify where are they located. They're most commonly by
+},
+{
+    995.24,999.28
+     elevators and by security. So check in with those people and say, hey, if I
+},
+{
+    999.28,1004.16
+     needed one, is this where I would come? And then become familiar with the one
+},
+{
+    1004.16,1005.6
+     that you have. Ask them if they
+},
+{
+    1005.6,1012.0
+     can open it up so you can see. Now I will share with you when they do open that up in an emergency
+},
+{
+    1012.0,1017.92
+     that door there will be an alarm that screeches. I don't know what it's going to sound like. I just
+},
+{
+    1017.92,1022.96
+     know there's an alarm that that screeches and there's a very good reason. That alarm is going to
+},
+{
+    1022.96,1026.84
+     gather your tribe. People should come running to see what's going on
+},
+{
+    1026.84,1030.76
+     and that is when you get support to call 911,
+},
+{
+    1030.76,1033.36
+     to help with CPR, to put the AED on
+},
+{
+    1033.36,1036.84
+     because nobody wants to be alone when there's a code.
+},
+{
+    1036.84,1039.24
+     Hey, I know you're probably not ready to get off your phone
+},
+{
+    1039.24,1040.56
+     or go back to work just yet
+},
+{
+    1040.56,1042.44
+     or maybe even turn the lights off to go to sleep.
+},
+{
+    1042.44,1044.72
+     So why don't you spend a little bit more time here
+},
+{
+    1044.72,1046.02
+     watching another video?
+},

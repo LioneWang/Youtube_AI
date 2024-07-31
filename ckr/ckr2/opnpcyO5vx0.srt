@@ -1,0 +1,96 @@
+{
+    0.0,4.88
+     Hello, welcome to another post from Dr. Blake's Healing Soul.
+},
+{
+    4.88,7.28
+     Today we're going to talk about buddy taping.
+},
+{
+    7.28,16.16
+     You can see the toes are numbered 1 for the big toe, 2, 3, 4, 5 for the pinky toe.
+},
+{
+    16.16,24.64
+     When you injure your big toe, you can't buddy tape it because it moves too strongly and
+},
+{
+    24.64,27.44
+     too differently than the second toe.
+},
+{
+    27.44,31.88
+     But if you break your second toe, you can buddy tape it to the third.
+},
+{
+    31.88,36.32
+     If you break your third toe, you buddy tape it to the second.
+},
+{
+    36.32,39.96
+     If you break your fourth toe, you buddy tape it to the third.
+},
+{
+    39.96,45.96
+     If you break your fifth toe, you try to buddy tape it to your fourth, but it depends how
+},
+{
+    45.96,49.72
+     big the fifth toe is.
+},
+{
+    49.72,59.24
+     So Liz is going to demonstrate using co-band, which is a 3M product, to buddy tape her second
+},
+{
+    59.24,65.54
+     toe, which is where pretending is injured to the third toe.
+},
+{
+    65.54,78.04
+     Liz takes a 6 inch piece of co-band and wraps it twice around the injured toe.
+},
+{
+    78.04,87.0
+     And it's important when you put this tape on that it's not so tight that it causes the toe to throb.
+},
+{
+    87.0,92.2
+     You just want some light pressure on the veins to move the swelling out.
+},
+{
+    92.2,97.96
+     Then after wrapping it twice around the toe, you go under the adjacent toe that you're
+},
+{
+    97.96,107.52
+     going to buddy it to, and then go over the top and secure it down. Now, coban, because it doesn't stick to your skin,
+},
+{
+    107.52,110.84
+     has to be massaged in where it overlaps
+},
+{
+    110.84,114.2
+     so the tape will stick together.
+},
+{
+    114.2,117.56
+     And if you have any problems with it slipping off,
+},
+{
+    117.56,121.72
+     you can put a little piece of tape,
+},
+{
+    121.72,133.58
+     say paper tape or even scotch tape, say paper tape or even scotch tape, right in this area to secure the the
+},
+{
+    133.58,139.82
+     coban onto the skin. Thank you and I hope this helped you understand how to
+},
+{
+    139.82,146.54
+     buddy tape when you've got a sprained or fractured toe.
+},

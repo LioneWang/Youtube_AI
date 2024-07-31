@@ -1,0 +1,184 @@
+{
+    0.0,5.26
+     Part 1.
+},
+{
+    5.26,6.26
+     Inspecting Your Finger Visually
+},
+{
+    6.26,7.26
+     1.
+},
+{
+    7.26,12.4
+     Look for swelling on the sides of your finger if it was bent sideways.
+},
+{
+    12.4,15.46
+     Swelling is one of the primary signs of a sprained finger.
+},
+{
+    15.46,19.9
+     If your finger was bent uncomfortably far to one side or the other, the ligaments connected
+},
+{
+    19.9,24.64
+     to the fingers' bones may be stretched or torn.
+},
+{
+    24.64,29.04
+     The tendons will swell on the side opposite the way in which the finger was bent.
+},
+{
+    29.04,33.8
+     So, if your finger was forced too far to the left, look for swelling on the right side
+},
+{
+    33.8,36.36
+     of the finger.
+},
+{
+    36.36,38.52
+     2.
+},
+{
+    38.52,42.6
+     Inspect the bottom of your finger if the finger was bent backwards.
+},
+{
+    42.6,46.64
+     Notice if the soft underside of your finger seems puffier than usual.
+},
+{
+    46.64,56.06
+     If so, this is a sign that the finger has been sprained and that the ligaments near the base of your finger have been stretched or torn.
+},
+{
+    56.06,64.9
+     If you're not sure whether or not the finger is swollen, compare it with a corresponding finger on your other hand.
+},
+{
+    64.9,70.8
+     3. See if parts of your finger have turned a shade of red. Along with swelling, the most
+},
+{
+    70.8,77.12
+     notable sign of a sprained finger is red discoloration. Inspect the sides and bottom of your finger.
+},
+{
+    77.12,83.64
+     If the finger is more red than the surrounding fingers, it's likely sprained.
+},
+{
+    83.64,86.0
+     The degree of redness will vary with the severity of the sprain.
+},
+{
+    86.0,92.0
+     So, if your finger is lightly sprained, the skin covering the sprain tendon may be slightly pink.
+},
+{
+    92.0,98.0
+     If the sprain is severe, a large portion of the finger may be notably bright red.
+},
+{
+    98.0,102.0
+     Part 2, Noting painful symptoms of a sprain.
+},
+{
+    102.0,127.0
+     1. Try to use the finger normally after the injury. If you're concerned that your finger may be sprained, try to use it as you typically would for the next day or two. If you notice that the finger doesn't function normally, doesn using your hand with an injured finger, you're probably experiencing a sprain
+},
+{
+    127.0,150.68
+     2. Pay attention to cramping or spasms in your finger muscles. When a finger is sprained, its muscles are often affected. Watch your finger as you go about your daily routine and take note of any painful or uncomfortable cramps
+},
+{
+    150.68,167.28
+     Cramps may cause your finger to bend itself into a twisted position. Sprains are also commonly accompanied by muscle spasms. So, if you notice that your finger is twitching or bending on its own, it's probably sprained
+},
+{
+    167.28,195.82
+     3. Note how much pain you feel in the sprained finger. Any finger injury will be painful, but the degree of pain you feel will indicate, it's most likely sprained, since pain from a lesser injury should go away within 48 hours. If the pain is sharp and severe, you've either seriously sprained or broken your finger
+},
+{
+    195.82,209.44
+     4. Straighten your finger and see if the tip stays bent. If your sprained finger was impacted head-on, it may be compressed, and have potential joint damage in addition to a potential sprain.
+},
+{
+    209.44,211.84
+     This condition is known as a mallet finger.
+},
+{
+    211.84,216.72
+     So, if you try to straighten your finger and the tip stays bent at an angle, it will need
+},
+{
+    216.72,218.84
+     to be professionally splinted.
+},
+{
+    218.84,225.16
+     Unless it's accompanied by a sprained, mallet finger is often painless.
+},
+{
+    225.16,228.32
+     Part 3 Seeing a doctor to diagnose your finger.
+},
+{
+    228.32,229.32
+     1.
+},
+{
+    229.32,235.28
+     Visit a doctor if your finger is still swollen, bruised, or painful after 48 hours.
+},
+{
+    235.28,239.88
+     If pain from a sprained finger is severe or lasts for more than a couple days, schedule
+},
+{
+    239.88,242.08
+     an appointment with your general practitioner.
+},
+{
+    242.08,250.64
+     They'll be able to assess the damage to your finger and determine whether or not the ligaments are sprained
+},
+{
+    250.64,255.08
+     Go to a local urgent care center or emergency room if you're unable to bend your finger
+},
+{
+    255.08,259.76
+     after the incident or if the pain from the injury prevents you from going about your
+},
+{
+    259.76,260.76
+     daily routine
+},
+{
+    260.76,288.58
+     2. Describe your finger injury to the doctor. Tell the doctor when and where the finger was injured. Also describe how you sustained the injury, e.g. if you caught the ball wrong in a game of baseball. Mention what angle your finger was at when it was injured and what direction the injury came from Tell the doctor how severe the pain is and whether it's become more or less painful with time.
+},
+{
+    288.58,307.0
+     Also make an appointment if you have a mallet finger since the condition needs to be treated by a medical professional can't visually confirm a sprain. The doctor will most likely perform an x-ray or an MRI scan.
+},
+{
+    307.0,311.44
+     Both of these scans allow the doctor to get a clear image of the bones and ligaments in
+},
+{
+    311.44,316.88
+     your finger. An MRI in particular will allow the doctor a clear look at the ligaments inside
+},
+{
+    316.88,321.56
+     your injured finger.
+},
+{
+    321.56,336.08
+     After viewing the scan results, the doctor will be able to diagnose whether or not your finger is sprained. Neither the X-ray procedure or the MRI procedure should cause any pain or discomfort
+},

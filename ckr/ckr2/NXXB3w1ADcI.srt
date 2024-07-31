@@ -1,0 +1,412 @@
+{
+    0.0,6.84
+     Hello, my name is Dr. Dushan Sharma.
+},
+{
+    6.84,11.72
+     I am clinical lead for diabetes and endocrine department here at Royal Liverpool University
+},
+{
+    11.72,13.72
+     Hospital.
+},
+{
+    13.72,19.76
+     People who are on steroids can suffer major clinical crisis during a period of illness
+},
+{
+    19.76,25.28
+     and stress and that can be life threatening if not managed properly.
+},
+{
+    25.28,31.24
+     My team of endocrine specialist nurses, they've created a short video to help you with managing
+},
+{
+    31.24,35.56
+     your steroid replacement therapy during illness.
+},
+{
+    35.56,41.8
+     They will also show you how to prepare and administer your emergency hydrochlorine injection
+},
+{
+    41.8,45.48
+     to be used in the event of an adrenal crisis.
+},
+{
+    45.48,51.64
+     Let me introduce you to our team of endocrine and spaceless nurses, Kerri Grounds, who is
+},
+{
+    51.64,60.12
+     our lead endocrine spaceless nurse, Amanda Hamilton, Michelle Lewin, Karen Jones, who
+},
+{
+    60.12,63.44
+     is not able to join us today.
+},
+{
+    63.44,67.0
+     Thank you and we hope you will find this short video helpful...yna ddweud i chi'n gweithio. Ddweud i chi, ac rwy'n fawr i chi'n gweithio y ffordd y ffordd.
+},
+{
+    73.0,76.0
+     Yn ysgol yma, mae'r rhaid i'r rhaid i'r ffordd yw'r ffordd...
+},
+{
+    76.0,80.0
+    ..y'r ffordd o'r cyfnodd yma o'r cyfnodd yma.
+},
+{
+    81.0,83.0
+     Yn ysgol yma, mae'r cyfnodd yma...
+},
+{
+    83.0,105.2
+    ..y'r cyfnodd yma o'r cyfnodd yma.....y'r cyfnodd yma o'r cyfnodd o'r cyfnodd yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ynodd ar gyfer y cyfnodd yn ymgyrch.
+},
+{
+    105.2,108.6
+     Mae'n gwybod i'r ffomiting, gyda'r argyn,
+},
+{
+    108.6,111.32
+     gyda'r cyfnodd, gyda'r fflwyd,
+},
+{
+    111.32,112.96
+     gyda'r hydrae,
+},
+{
+    112.96,115.06
+     gyda'r drws, fel y berydmant,
+},
+{
+    115.06,116.76
+     a'r infeccion,
+},
+{
+    116.76,119.32
+     gyda'r gyfnodd o'r gyfnodd o'r ddentol,
+},
+{
+    119.32,121.52
+     gyda'r ymgyrch, ac mae'r gweithio.
+},
+{
+    122.0,127.6
+     a mygwch.
+},
+{
+    130.4,133.2
+     Yn ymgyrch, y pethau yn ymddiolol yn ymddiolol yn ymddiolol yn ymddiolol
+},
+{
+    133.2,137.4
+     yn ymddiolol, yn ymddiolol o'r ddysgu o'r ysgol
+},
+{
+    137.4,145.4
+     o'r ysgol, o'r ffomio, o'r ffosio, o'r drwys o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r ffosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio, o'r fosio,wsynes, oedd o'r canfysnes, ac yn ymddiol yn gweithio'r gwybod,
+},
+{
+    145.4,148.4
+     ymddiol, ymddiol, ymddiol, ac ymddiol.
+},
+{
+    148.4,153.96
+     Yn ymddiol, mae'n meddwl i'r meddwl ymddiol, yn y form
+},
+{
+    153.96,185.4
+     o'r syniadau ymddiol ymddiol. Mae'n meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r ffordd o'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflawn i'r cyflafrifodau hydrachol o'r ddodd panfodol yw'r ddodd
+},
+{
+    185.4,190.4
+     yw'r ddodd yn ymgyrchol o'r ddodd 38 °C o'r hyn.
+},
+{
+    190.4,196.2
+     Felly, mae'n ddodd yn ymgyrchol o'r ddodd, o'r ddodd, o'r ddodd o'r ddodd yn ymgyrchol o'r ddodd yn ymgyrchol o'r ddodd
+},
+{
+    196.2,208.24
+     yn ymgyrchol o'r ddodd, a'r ddodd yn ymgyrchol o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd. Mae'n ddodd yn ymgyrchol o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodd o'r ddodithio'r drws sy'n cyfnodol. Rwy'n cael ei ddod o'r steroidau ar y dyfodol ar y ddod, a'r ddod o'r ddod o'r ddod o'r
+},
+{
+    208.24,225.0
+     ddod o'r ddod o'r ddod, ac yn ddod o'r ddod o'r ddod o'r ddod. Fy fyddai'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweith Felly, ydych chi'n meddwl yn ymddiolol,
+},
+{
+    225.0,227.0
+     dweud y cwrtwyr yn y ddwylliant,
+},
+{
+    227.0,229.0
+     dwi'n meddwl i'ch gweithio'r cwrs
+},
+{
+    229.0,231.0
+     o'r meddwl yn ymddiol.
+},
+{
+    231.0,235.0
+     Ond, ydych chi'n meddwl yn ymddiolol,
+},
+{
+    235.0,237.0
+     ddim yn ei ddweud o'r meddwl.
+},
+{
+    243.0,265.2
+     Felly, ydych chi'n meddwl yn ymddiol o'r meddwl yn ymgyrch, y cyfnodd yn ymgyrch, o'r ffordd 40 degrifol, ydy'r cyfnw yn ddweud y ddweud y ddweud y ddweud y ddweud.
+},
+{
+    265.2,270.2
+     Mae'n ddweud oherwydd y ddweud y ddweud y ddweud yn ddweud y ddweud.
+},
+{
+    270.2,274.1
+     Ond ydych chi'n ddweud y ddweud y ddweud y ddweud y ddweud,
+},
+{
+    274.1,277.1
+     ddyn nhw'n ddweud y ddweud y ddweud y ddweud.
+},
+{
+    283.1,290.0
+     Felly, yn y ddweud y ddweud y ddweud, dwi'n ddweud y ddweud y dwneud yw'r meddwl yn 30 munud o'r gweithio, ydych yn ddwybod yn ddwybod yn ddwybod.
+},
+{
+    290.0,298.0
+     Yn ymwneud yw'r ddwybod yw'r meddwl, ddim yn ymwneud yw'r 100mg o hydra cwrtysol a'r meddwl yw'r meddwl.
+},
+{
+    298.0,302.0
+     Yn ymwneud yw'r meddwl, yw'r meddwl yn dechydig.
+},
+{
+    302.0,308.24
+     Yn ymwneud yw'r cyfrifysgau hydra'u, yn ymwneud yw'r cyfrifysr cyfnodd. Yn ymweld i'r cyfrifau hydrachol yn ymweld i'r cyfrifau hydrachol, ond yw'r cyfrifau hyn o'r hosbysel ar y drafod a'r cyfrifau hydrachol.
+},
+{
+    308.24,311.6
+     Felly, ydych chi'n cyfrifau hydrachol, mae'n mynd i'ch gwybod i'r ddwybyn o'r
+},
+{
+    311.6,315.36
+     gyfrifau hydrachol wedi'u cyfrifau hydrachol.
+},
+{
+    315.36,327.0
+     Fy y cyfrifau hyn o'r cyfrifau hydrachol, oedd ydych chi'n cyfrifau hydrachol o'r cyfrifau hydrachol, ddyn nhw'n gwybod i'r 100mg o'r cyfrifau hydrachol i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r cyfrifol o'r cyfrifol yng Nghyrchu Hydrocynion ac yn ystod y meddwl ydych chi'n gweithio.
+},
+{
+    327.0,334.0
+     Felly, ddim yn ddweud y gallwn gwirionedd a'r cyfrifol a'r cyfrifol yn ystod y cyfrifol.
+},
+{
+    334.0,341.0
+     Yn y fideo, rwy'n dechrau'n gweithio'r cyfrifol a'r cyfrifol yn ystod Soliw Cwrtaff o'r
+},
+{
+    341.0,345.0
+     cyfrifol o'r Soliw Cwrtaff o'r cyfrifol yn ystod, yr ysgolol o'r cyfrifol o'r cyodd oed yn ffodol, yw'r hynod hyrachodd oed yn ffordd.
+},
+{
+    345.5,347.5
+     Felly, mae'r ddweud yn ymddi.
+},
+{
+    348.0,350.0
+     Y ffail o Solucorthaf,
+},
+{
+    351.0,354.5
+     hydrachodd oed yn ffordd, 100mg,
+},
+{
+    355.5,357.5
+     y ffail o wath o ffordd,
+},
+{
+    358.5,359.5
+     y syrryng,
+},
+{
+    360.0,362.0
+     y blw o'r grŵn oed,
+},
+{
+    362.0,364.0
+     ychydig oedd yn ffordd.
+},
+{
+    386.5,389.1
+     Ychydig o'r cwntain oedwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r llwy o'r ddau ar y gweithio a'r ddau hydrachoroddau. Felly mae'r ddau, mae'n ddau'r ddau sy'n ddau sy'n ddau, fel mae'n ddau'r ddau.
+},
+{
+    389.1,392.9
+     Rwy'n ddau'r ddau syrring, ddau'r ddau'r ddau.
+},
+{
+    396.7,398.8
+     Rwy'n ddau syrring ar y ddau syrring,
+},
+{
+    398.8,401.7
+     byddwch chi'n ddau'n ddau'n ddau.
+},
+{
+    401.7,404.9
+     Nid yw, rwy'n ddau'r ddau syrring ar y ddau.
+},
+{
+    408.96,415.88
+     ddweud. Next break the cap on the water vial. Remove the cap from the hydrocortis own vial then fill back the safety guard on the needle and remove the cover. Now place
+},
+{
+    415.88,425.0
+     the needle into the vial of water and slowly draw up one to two mils of the water. Insert ddwyllt o'r wath.
+},
+{
+    430.0,432.0
+     Fyllwch y bwng yn y ddwyll ar y bwng yng Nghyrchu Cwrtoddol ac yn ystod yn ddwylltio'r gweithio'r gweithio
+},
+{
+    432.0,434.0
+     fel mae'r wath yn y bwng.
+},
+{
+    435.0,439.0
+     Rwy'n ddwyllt o'r bwng a'u gwylltio'r llwyllol
+},
+{
+    439.0,441.0
+     i ddwyllteidio'r bwng.
+},
+{
+    442.0,445.4
+     Fydd y llwydd yn ymgyrch, mae'n rhaid i'r olf. Felly mae'r llyfr yn fwy o'r llyfr yn ymddiad.
+},
+{
+    445.4,449.9
+     Felly yn ymddiad y bwng i'r llyfr ac yn ymddiad y ffail yma,
+},
+{
+    449.9,454.3
+     yn ymddiad o'r llyfr yn y plwnger sydd yn ymddiad,
+},
+{
+    454.3,456.9
+     ac yn ymddiad y bwng.
+},
+{
+    461.4,464.8
+     Nid yw'r llyfr yn ymddiad a'r llyfr yn ymddiad.
+},
+{
+    464.8,468.4
+     Gwyllt y llyfr yn ymddiad o'r llwyddoch yn bwbl, yn gyflawn i'r syrng i'r bwbl.
+},
+{
+    468.4,471.6
+     Rwy'n meddwl yw'r llwyddoch yn bwbl
+},
+{
+    471.6,473.6
+     byddwn yn bwbl yn ddweud o'r plwnger
+},
+{
+    473.6,476.4
+     fel y drwmp yn ymgyrch yn ymgyrch yn ymgyrch.
+},
+{
+    476.4,479.4
+     Rwy'n meddwl yw'n meddwl.
+},
+{
+    484.4,505.0
+     Rwy'n meddwl yw'r hynny'n gwneud y ddweud yn y ddweud o'r llr hynny yn y ddweud y ddweud y ddweud yma'r ddweud o'r ddweud o'r ddweud o'r ddweud. Felly, mae'n ddweud yma'r ddweud, mae'n ddweud i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwybod i'ch gwyl i'r llwyffol yn fwy o'r 90 oed.
+},
+{
+    505.0,510.0
+     Rwy'n meddwl y plwnger yn ystod o'r llwyffol yn y cyfnod.
+},
+{
+    513.0,517.0
+     Rwy'n meddwl yw'r llwyffol wedi'i gwybod 10 a'r ddysbos yn y llwyffol o'r llwyffol,
+},
+{
+    517.0,521.0
+     o'r llwyffol o'r llwyffol o'r llwyffol o'r llwyffol.
+},
+{
+    521.0,524.0
+     Rwy'n meddwl, mae'n meddwl ychydig o'r llwyffol i'r llwyffol,
+},
+{
+    524.0,607.0
+     ac mae'n meddwl ychydig o'r llwynod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod i'r cyfnod. Rwy'n cael ei wneud i'w gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r ddweud o'r ddweud. Mae'r ddweud o'r Ffcotsol, ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r llun o'r llun o'r llun o'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llun i'r llunw'r pachyn syrryng, fydd ychydig ychydig yw'r pachyn.
+},
+{
+    611.0,616.0
+     Felly, rwy'n ddweud y pachyn syrryng yn ddod i'r pachyn yn ddod i'r pachyn.
+},
+{
+    616.0,622.0
+     Mae'n fawr i chi'n ddod i'r gwybod yn y bwynt ymlaen, byddwn yn gwybod yn y gwasffyle.
+},
+{
+    627.36,636.98
+     by gently flicking the top of the glass file. Break the top off the glass file by making sure the coloured dot is facing upwards and then snap the top off. Now fold back the safety
+},
+{
+    636.98,665.0
+     guard on the needle and remove the cover. Place the needle into the vial of F cortisol Rwy'n meddwl i'r ffyrdd ffyrdd ffyrdd, a'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl i'r meddwl y syrng a'r cyfnodd ar gyfer arwain. Gweithio'r syrng i ddysbwrs arwain.
+},
+{
+    666.0,668.0
+     Rwy'n meddwl yw'r cyfnodd ar y syrng
+},
+{
+    668.0,670.0
+     bydd yn ddysbwrs yn y plwnger
+},
+{
+    670.0,673.0
+     fel y drobl yw'r cyfnodd yn y tydd y bwysig.
+},
+{
+    674.0,676.0
+     Rwy'n meddwl yw'r cyfnodd.
+},
+{
+    682.0,684.0
+     Rwy'n meddwl yw'r cyfnodd ar y ddweud
+},
+{
+    684.0,706.72
+     y ddweud y ddweud yw'rr ddweud o'r ddweud o'r ddweud o'r ddweud. Felly, mae'n ddweud o'r ddweud o'r ddweud, mae'n ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r dd a gwylltio ar y cwylwyr 90.
+},
+{
+    709.6,713.52
+     Rwyfnodd yn ymddiol yn ddiddordeb yn ddiddordeb yn y cyfnodd.
+},
+{
+    720.32,721.12
+     Rwyfnodd yn ymddiol ar y cwylwyr 10 a'r ddysgu'r cwylwyr sy'n ddiddordeb o'r gwyllwyr o'r gwyllwyr o'r gwyllwyr.
+},
+{
+    727.0,733.0
+     Fyny'r gwylltio'r cyfnodd yn y cyfnodd yn y cyfnodd ac yn ymddiolol yn ymddiol. Finally apply clean tissue to the injection site and apply gentle pressure for a minute or two. You should now seek medical help by calling 999 stating adrenal crisis.
+},
+{
+    733.0,742.0
+     If you need to use your injection contact your GP for a new prescription when it is practically possible.
+},
+{
+    742.0,748.0
+     You can also contact your specialist nurses for a replacement needle in syringe. gyda'r cyfnodd. Rwy'n cael ei wneud i'w cyfnodd y cyfnodd yw'r cyfnodd yn serfyn.
+},

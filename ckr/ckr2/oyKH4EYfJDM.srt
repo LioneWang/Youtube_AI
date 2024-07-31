@@ -1,0 +1,372 @@
+{
+    0.0,5.0
+     Yn ymwneud, yw'r amser yn ymwneud.
+},
+{
+    5.0,8.0
+     Yn ymwneud, yw'r amser yn ymwneud.
+},
+{
+    8.0,11.0
+     Rwy'n meddwl.
+},
+{
+    11.0,13.0
+     Yn ymwneud, yw'r amser yn ymwneud.
+},
+{
+    13.0,15.0
+     Rwy'n meddwl yw'r amser yn ymwneud.
+},
+{
+    15.0,17.0
+     Yn ymwneud, yw'r amser yn ymwneud.
+},
+{
+    17.0,19.0
+     Rwy'n meddwl yw'r amser yn ymwneud.
+},
+{
+    19.0,21.0
+     Rwy'n meddwl yw'r amser yn ymwneud.
+},
+{
+    21.0,23.0
+     Rwy'n meddwl yw'r amser yn ymwneud.
+},
+{
+    23.0,28.16
+     Yn ymwneud, yw'r amser yn ymwneud. just get you to jump down off the bed. If you walk across, in front of me, turn and go back.
+},
+{
+    29.92,32.48
+     And then no problems as you do that. Terrific, let's get you to jump up on the bed.
+},
+{
+    32.48,35.32
+     And if you could swing your legs up and round please.
+},
+{
+    35.32,36.78
+     Okay.
+},
+{
+    36.78,39.32
+     So I'm just gonna have a quick look over your knees.
+},
+{
+    40.24,42.4
+     There's no obvious scars or swelling.
+},
+{
+    42.4,44.1
+     I'm gonna have a look from the side.
+},
+{
+    45.0,47.0
+     I want to do the same again over here.
+},
+{
+    48.0,50.0
+     Okay, that all looks fine.
+},
+{
+    50.0,53.0
+     Okay, so we're just going to measure the size of your thiner.
+},
+{
+    61.0,63.0
+     Okay, 40 centimetres on that side.
+},
+{
+    63.0,66.0
+     I'm going to check over here.
+},
+{
+    66.0,71.92
+     And we've got 40cm on that side.
+},
+{
+    71.92,72.92
+     That's fine.
+},
+{
+    72.92,80.64
+     Okay, so I'm just going to check the length of your legs.
+},
+{
+    80.64,81.64
+     So you're going to check here.
+},
+{
+    81.64,84.04
+     You can repel this all the way down.
+},
+{
+    84.04,88.0
+     So there's 91cm and if we can see your belly button.
+},
+{
+    88.0,91.0
+     And that's the same again, so that's 97.
+},
+{
+    91.0,94.0
+     And we'll do the same again.
+},
+{
+    98.0,101.0
+     Okay, and that's 91.
+},
+{
+    101.0,104.0
+     And again, so 97.
+},
+{
+    104.0,105.2
+     So what I'd like to do, I'd now like to press over your knees if I might. And again, so 97, that's fine.
+},
+{
+    105.2,107.48
+     So what I'd like to do, I'd now like to press over your knees.
+},
+{
+    107.48,111.0
+     If I might, can you just clarify before I go ahead any pain on your knees?
+},
+{
+    111.0,112.0
+     No.
+},
+{
+    112.0,122.0
+     Okay, so I'm just going to squeeze any problems over here.
+},
+{
+    122.0,128.86
+     So I'm going to press down and then push in. Okay,
+},
+{
+    128.86,136.56
+     that's fine. I'm going to same again, push down and push in. Terrific. I'm going to sweep
+},
+{
+    136.56,145.0
+     up and then across. Okay, push down, sweep up, and then across.
+},
+{
+    145.0,147.0
+     That's all fine.
+},
+{
+    147.0,151.0
+     If you could, you could put your knee up on the bed so at 90 degrees for me.
+},
+{
+    151.0,152.0
+     Perfect.
+},
+{
+    152.0,153.0
+     I'm just going to press around.
+},
+{
+    153.0,156.0
+     So tell me if there's any pain or discomfort as I press up there.
+},
+{
+    156.0,159.0
+     You're going to go around the kneecap and up to the top.
+},
+{
+    159.0,160.0
+     Any issues there?
+},
+{
+    160.0,161.0
+     No.
+},
+{
+    161.0,162.0
+     Coming back down again.
+},
+{
+    162.0,164.0
+     I'm going to go around to the sides.
+},
+{
+    164.0,169.76
+     Any issues there? No. Okay. I'm going to go around to the sides. Any issues there? No. Okay, and pushing under the back of your knee might be a little bit uncomfortable. Any
+},
+{
+    169.76,174.08
+     issues with that? Perfect, relax that knee down. I would do the same again on the side,
+},
+{
+    174.08,179.48
+     so bring that knee up. Just a little step round. I would do the same again, so pushing
+},
+{
+    179.48,187.0
+     up. Okay, stop me at any point if there's a problem. Okay, and back down, I'm going around the knee.
+},
+{
+    187.0,190.0
+     I'm going to push up inside, tell me if there's any problems there.
+},
+{
+    190.0,193.0
+     That's fine, so relax that knee down for me.
+},
+{
+    193.0,194.0
+     Perfect.
+},
+{
+    194.0,198.0
+     Okay, what we'll do now, if you could raise this leg up as high as you can for me.
+},
+{
+    198.0,200.0
+     Perfect, and back down.
+},
+{
+    200.0,203.0
+     I would do the same again on this side all the way up, and back down.
+},
+{
+    203.0,204.0
+     Magnificent.
+},
+{
+    204.0,207.56
+     Take that knee, take it to your chest please, and back.
+},
+{
+    207.56,210.96
+     And once again, this knee up to your chest, and relax.
+},
+{
+    210.96,213.36
+     Now I'm going to do the same if that's okay, so relax for me.
+},
+{
+    213.36,218.64
+     I'm going to take your ankle, hand over the knee, and push up, and through.
+},
+{
+    218.64,223.56
+     Okay, once again, break, up, and through.
+},
+{
+    223.56,225.64
+     Okay, there are no problems at all with that.
+},
+{
+    225.64,230.2
+     I'm going to have a look over the ligaments inside your knee, if that's okay.
+},
+{
+    230.2,233.76
+     So again, if you could put your knee at 90 degrees, okay, I'm going to stabilise your
+},
+{
+    233.76,236.32
+     knee and have a look from the side.
+},
+{
+    236.32,237.32
+     That's fine.
+},
+{
+    237.32,239.92
+     I'm just going to pull here.
+},
+{
+    239.92,242.28
+     Okay, if you could relax for me.
+},
+{
+    242.28,245.38
+     It's a slight bend of the knee,
+},
+{
+    245.38,246.84
+     push that way,
+},
+{
+    246.84,248.34
+     swap over,
+},
+{
+    248.34,250.54
+     same again, one, two, three.
+},
+{
+    250.54,252.14
+     Okay, that seems fine.
+},
+{
+    252.14,255.1
+     And do the same again on this knee, so,
+},
+{
+    255.1,255.94
+     lift it up,
+},
+{
+    257.1,258.74
+     have a look from the side,
+},
+{
+    258.74,259.7
+     no problems there,
+},
+{
+    259.7,261.26
+     I'm going to stabilize your ankle,
+},
+{
+    261.26,263.1
+     and I'm going to pull forwards.
+},
+{
+    263.1,263.94
+     Okay,
+},
+{
+    263.94,264.78
+     just relax,
+},
+{
+    264.78,267.76
+     bend your knees slightly and push one way,
+},
+{
+    267.76,269.72
+     then turn around and push the other.
+},
+{
+    269.72,271.04
+     That's all fine.
+},
+{
+    271.84,273.92
+     So I haven't found any problems with your knees
+},
+{
+    273.92,275.24
+     and do you have any questions with me?
+},
+{
+    275.24,276.08
+     I don't.
+},
+{
+    276.08,277.08
+     Perfect, we'll leave it at that.
+},
+{
+    277.08,279.08
+     Thank you very much for your time.
+},

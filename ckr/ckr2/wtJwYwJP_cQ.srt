@@ -1,0 +1,120 @@
+{
+    0.0,8.04
+     Now let's cover one rescuer, Child CPR for the healthcare provider.
+},
+{
+    8.04,12.3
+     Our scene is safe, our gloves are on, and our rescue mask with the one-way valve is
+},
+{
+    12.3,13.3
+     available.
+},
+{
+    13.3,14.96
+     I'm going to call out to the child.
+},
+{
+    14.96,15.96
+     Are you alright?
+},
+{
+    15.96,16.96
+     Can you hear me?
+},
+{
+    16.96,18.16
+     They don't respond.
+},
+{
+    18.16,22.04
+     I now place one hand on their forehead as I tap on their collarbone.
+},
+{
+    22.04,23.04
+     Are you okay?
+},
+{
+    23.04,24.04
+     Can you hear me?
+},
+{
+    24.04,25.92
+     The child still does not respond.
+},
+{
+    25.92,31.36
+     It's at this time that I activate EMS, call 911 or call a code. If I have a bystander,
+},
+{
+    31.36,37.52
+     I'll send them to call 911 and then have them come back with an AED if they have one available.
+},
+{
+    37.52,47.2
+     After this, I need to assess this child for normal breathing and check their carotid pulse. I check it for no more than 10 seconds.
+},
+{
+    47.2,50.88
+     The child is not breathing and they do not have a pulse.
+},
+{
+    50.88,54.0
+     At this time, I'm gonna go right into CPR.
+},
+{
+    54.0,57.08
+     Located between their breasts on the sternum,
+},
+{
+    57.08,59.92
+     I'm now gonna start my 30 compressions,
+},
+{
+    59.92,63.32
+     compressing the chest one third of the depth of their chest
+},
+{
+    63.32,65.22
+     that are of rate between 100 and
+},
+{
+    65.22,67.92
+     120 times per minute.
+},
+{
+    67.92,73.16
+     One and two and three and four and five and six and seven and eight, nine and ten, eleven
+},
+{
+    73.16,78.84
+     and twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, thirty-two,
+},
+{
+    78.84,82.84
+     twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty.
+},
+{
+    82.84,87.58
+     I'm going to grab my rescue mask, head tilt, chin lift if it's not already there, and I'm
+},
+{
+    87.58,91.66
+     going to give two rescue breaths.
+},
+{
+    91.66,95.28
+     First one goes in.
+},
+{
+    95.28,98.7
+     Second one goes in, back onto the 30 compressions.
+},
+{
+    98.7,107.0
+     And I'm going to continue this 30 compressions to two rescue breaths until the patient revives, until the AED arrives, or
+},
+{
+    108.44,111.32
+     until EMS or help comes in and can take over.
+},

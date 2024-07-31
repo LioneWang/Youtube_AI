@@ -1,0 +1,140 @@
+{
+    0.0,9.0
+     Today's topic is Insomnia. Insomnia is difficulty falling asleep or staying asleep, even when a person has a chance to do so.
+},
+{
+    9.0,16.0
+     People with insomnia can feel dissatisfied with their sleep and usually experience one or more of the following symptoms.
+},
+{
+    16.0,25.2
+     Fatigue, low energy, difficulty in concentrating, mood disturbances, and decreased performance in work or at school.
+},
+{
+    25.2,30.1
+     Causes. Insomnia can be caused by physical and psychological factors.
+},
+{
+    30.1,34.32
+     There is sometimes an underlying medical condition that causes chronic
+},
+{
+    34.32,39.56
+     insomnia. While transient insomnia may be due to a recent event or occurrence,
+},
+{
+    39.56,48.0
+     disruptions in circadian rhythm, jet lag, job shift changes, high altitudes, environmental
+},
+{
+    48.0,58.0
+     noise, extreme heat or cold, psychological issues, bipolar disorder, depression, anxiety
+},
+{
+    58.0,67.12
+     disorders or psychotic disorders, medical conditions, chronic pain, chronic fatigue syndrome, congestive heart
+},
+{
+    67.12,77.04
+     failure, angina, acid reflux disease, GERD, chronic obstruction pulmonary disease, asthma,
+},
+{
+    77.04,90.0
+     sleep apnea, Parkinson's and Alzheimer's diseases, hyperthyroidism, arthritis, brain lesions, tumors, stroke, hormones, estrogen,
+},
+{
+    90.0,96.0
+     hormone shifts during menstruation. Other factors sleeping next to a snoring partner,
+},
+{
+    96.0,104.0
+     parasites, genetic conditions, overactive mind, pregnancy, signs and symptoms. Insomnia itself
+},
+{
+    104.0,107.2
+     may be a symptom of an underlying medical condition.
+},
+{
+    107.2,113.12
+     However, there are many signs and symptoms that are associated with insomnia. Difficulty falling
+},
+{
+    113.12,119.68
+     asleep at night, waking during the night, waking earlier than desired, still feeling tired after
+},
+{
+    119.68,128.16
+     a night's sleep, daytime fatigue or sleepiness, irritability, depression or anxiety, poor concentration
+},
+{
+    128.16,135.04
+     and focus, being uncoordinated, an increase in error or accidents, tension headaches,
+},
+{
+    135.04,142.28
+     feels like a tight band around the head, difficulty socializing, gastrointestinal symptoms, worrying
+},
+{
+    142.28,146.3
+     about sleeping, diagnosis. Your doctor will ask questions
+},
+{
+    146.3,153.34
+     about your medical conditions, social environment, psychological or emotional conditions, sleep
+},
+{
+    153.34,159.92
+     history. This will provide information that can help find underlying causes of sleep problems.
+},
+{
+    159.92,165.36
+     You might be asked to keep a sleep law recording when you fall asleep.
+},
+{
+    165.36,168.32
+     Note whether you wake up repeatedly.
+},
+{
+    168.32,171.12
+     Report what time you wake up each day.
+},
+{
+    171.12,172.44
+     Treatment of insomnia.
+},
+{
+    172.44,177.52
+     There are both pharmaceutical and non-pharmaceutical treatments for insomnia.
+},
+{
+    177.52,180.16
+     Sleep hygiene training may be recommended.
+},
+{
+    180.16,189.48
+     Sometimes behaviors that interfere with sleep are causing insomnia. Sleep hygiene training can help you change some of these destructive behaviors, such
+},
+{
+    189.48,196.64
+     as avoiding caffeinated beverages near bedtime, avoiding exercise near bedtime, minimizing
+},
+{
+    196.64,201.8
+     time spent on your bed when you're not specifically intending to fall asleep, such as watching
+},
+{
+    201.8,208.32
+     TV or surfing the web on your cell phone. Sometimes medications are used to treat insomnia.
+},
+{
+    208.32,214.76
+     An example of an over-the-counter medication that can be used for sleep is an anti-histamine.
+},
+{
+    214.76,219.14
+     Medications like this have side effects, so it's important to talk to a doctor before
+},
+{
+    219.14,234.48
+     starting yourself on an over-the-counter medication for insomnia.
+},

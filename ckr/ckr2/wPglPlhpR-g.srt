@@ -1,0 +1,296 @@
+{
+    0.0,7.0
+     My name is Kate and I'm an occupational therapist at Hospital for Special Care and I work in the Outpatient Department.
+},
+{
+    7.0,12.0
+     And my name is Ruchi, I'm a speech language pathologist in the Outpatient Department here at Hospital for Special Care.
+},
+{
+    12.0,15.0
+     Today we're going to be talking about aspiration precautions.
+},
+{
+    15.0,21.0
+     Aspiration is actually when food or liquid goes into your airway, which is also called trachea.
+},
+{
+    21.0,23.0
+     So is that different from choking?
+},
+{
+    23.0,27.02
+     Yes. So when we say choking, we're talking about a complete occlusion of your airway.
+},
+{
+    27.02,28.98
+     So that means that you're not getting air
+},
+{
+    28.98,30.14
+     in and out of your trachea.
+},
+{
+    30.14,30.98
+     So for that,
+},
+{
+    30.98,32.62
+     you would actually need the hind leg maneuver
+},
+{
+    32.62,33.46
+     versus aspiration,
+},
+{
+    33.46,34.7
+     your coughing and stuttering.
+},
+{
+    34.7,36.58
+     It might feel really difficult to be breathing
+},
+{
+    36.58,38.62
+     because the coughing means that you're getting air flow
+},
+{
+    38.62,40.02
+     in and out of your trachea.
+},
+{
+    40.02,41.94
+     So one of the things that we talked about all the time
+},
+{
+    41.94,44.78
+     is making sure you're using a slow rate when you're eating.
+},
+{
+    44.78,47.3
+     As you can see, Kate took a huge bite
+},
+{
+    47.3,49.24
+     and it was super hard for her to control
+},
+{
+    49.24,50.52
+     what was happening in her mouth.
+},
+{
+    50.52,54.2
+     We always talk about aspiration happening in the throat,
+},
+{
+    54.2,56.44
+     but a lot of it has to do with what you're able
+},
+{
+    56.44,57.28
+     to do in your mouth.
+},
+{
+    57.28,59.6
+     If you're having a hard time controlling your chewing
+},
+{
+    59.6,62.04
+     and moving that bowl back into your throat,
+},
+{
+    62.04,63.6
+     it's gonna be really hard for you
+},
+{
+    63.6,66.4
+     and you might actually end up choking or sputtering
+},
+{
+    66.4,68.0
+     or having an aspiration event.
+},
+{
+    68.0,69.76
+     And a more appropriate thing to do
+},
+{
+    69.76,71.8
+     is just to alternate your liquids and solids
+},
+{
+    71.8,72.88
+     so that you're slowing down
+},
+{
+    72.88,74.96
+     and making sure that you're not taking too many bites
+},
+{
+    74.96,76.4
+     in a row when there's still a lot of food
+},
+{
+    76.4,77.8
+     left over in your mouth.
+},
+{
+    77.8,79.32
+     Something that might be helpful is to take a bite
+},
+{
+    79.32,81.88
+     and then put your fork or your spoon down between bites
+},
+{
+    81.88,84.16
+     so that you're controlling yourself a little bit better.
+},
+{
+    84.16,86.8
+     So this is pretty frequently how people eat at home,
+},
+{
+    86.8,89.04
+     especially if they're eating in front of a TV.
+},
+{
+    89.04,91.84
+     You'll notice that Kay is feeling very slouchy
+},
+{
+    91.84,93.52
+     and very relaxed right now.
+},
+{
+    93.52,94.72
+     When she's reclined like this,
+},
+{
+    94.72,97.04
+     she has less control of what's happening in her mouth
+},
+{
+    97.04,99.36
+     so that things are more likely to move down
+},
+{
+    99.36,101.6
+     and back into her throat before she's ready
+},
+{
+    101.6,103.04
+     to swallow that bite.
+},
+{
+    103.04,104.64
+     Even after she's done swallowing,
+},
+{
+    104.64,106.36
+     really she should be sitting nice and upright.
+},
+{
+    106.36,109.0
+     When the food is entering her food pipe or her esophagus,
+},
+{
+    109.0,110.6
+     you wanna make sure that it's traveling
+},
+{
+    110.6,111.8
+     in the direction of her stomach.
+},
+{
+    111.8,113.92
+     So you want Bradley to be working in her favor
+},
+{
+    113.92,115.08
+     so that the food isn't just sitting
+},
+{
+    115.08,116.44
+     in her food pipe for too long.
+},
+{
+    116.44,119.52
+     But if it's difficult for you to maintain an upright posture,
+},
+{
+    119.52,120.64
+     I would definitely recommend
+},
+{
+    120.64,122.44
+     prop your arms up on the table
+},
+{
+    122.44,124.08
+     to help hold yourself up a little bit.
+},
+{
+    124.08,128.92
+     Or if you can, adjust the height of the surface that you're eating on to help elevate it a little bit
+},
+{
+    128.92,131.42
+     so that you can be as upright as possible.
+},
+{
+    131.42,135.64
+     It's really important to have strict oral care as part of your regimen and your routine.
+},
+{
+    135.64,140.92
+     You really want to reduce the amount of bacteria in your mouth because any of the bacteria that goes down
+},
+{
+    140.92,146.28
+     the wrong way into your airway could lead to an aspiration to go in there because it's gonna cause infection.
+},
+{
+    146.28,148.8
+     Brushing three times a day is ideal,
+},
+{
+    148.8,150.04
+     but at least twice a day.
+},
+{
+    150.04,153.4
+     And if it's difficult for you to manage a standard toothbrush,
+},
+{
+    153.4,156.16
+     an electric toothbrush has a little bit of a bigger handle,
+},
+{
+    156.16,158.76
+     so it can be easier to hold and manipulate.
+},
+{
+    158.76,161.36
+     And also it does a lot of the brushing work for you.
+},
+{
+    161.36,163.16
+     And if things like glossing are challenging,
+},
+{
+    163.16,164.12
+     that's something you can definitely
+},
+{
+    164.12,170.64
+     talk to your dentist about. Whether an adapted floster pick or a water pick is
+},
+{
+    170.64,176.48
+     something that would be helpful for you. So hopefully this gives you guys some tips to practice at home
+},
+{
+    176.48,183.44
+     to help avoid astrusion.
+},

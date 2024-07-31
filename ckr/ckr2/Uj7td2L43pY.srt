@@ -1,0 +1,656 @@
+{
+    0.0,9.32
+     This is Dominic and I'm going to tell you how to treat your blister, how to know if
+},
+{
+    9.32,13.6
+     it's something bad and how to prevent it from ever coming back.
+},
+{
+    13.6,19.4
+     So did you have too small of a shoe, too cute of a shoe, run too many miles or hike too
+},
+{
+    19.4,20.4
+     many miles?
+},
+{
+    20.4,25.68
+     I'm going to show you tips and tricks at home that you can do to get feeling better starting
+},
+{
+    25.68,31.56
+     right now.
+},
+{
+    31.56,34.8
+     So a quick disclaimer, never do stuff alone at home.
+},
+{
+    34.8,41.2
+     That's for click baby purposes, but I am going to show you great tips such as these, such
+},
+{
+    41.2,43.64
+     as these that work at home.
+},
+{
+    43.64,46.26
+     But first, let us know in the comments,
+},
+{
+    46.26,48.06
+     was it too small of a shoe?
+},
+{
+    48.06,48.9
+     Is it a bunion?
+},
+{
+    48.9,49.9
+     Is it a hammer toe?
+},
+{
+    49.9,53.46
+     Is it your heels slipping and rubbing along the back?
+},
+{
+    53.46,55.34
+     Is the shoe too cute and too tight
+},
+{
+    55.34,58.3
+     and you want tips and tricks on how to fix it?
+},
+{
+    58.3,60.1
+     Or did you run too many miles?
+},
+{
+    60.1,61.54
+     We love knowing this stuff.
+},
+{
+    61.54,63.18
+     Comment, let us know.
+},
+{
+    63.18,65.28
+     Tell us if this video helped or didn't help.
+},
+{
+    65.28,72.64
+     So the first thing is your blister. Is it dangerous? If it's red, if it's hot, if there's thick,
+},
+{
+    72.64,79.36
+     mucus drainage coming out of it, it is infected. You have to let your pediatricist know immediately.
+},
+{
+    79.36,86.64
+     Here's the thing. 90% of people will be okay by cleaning it off with soap and water and putting antibiotic
+},
+{
+    86.64,93.08
+     ointment on it. It is possible to drain this blister at home, but it's dangerous. And
+},
+{
+    93.08,97.64
+     what happens is if it gets infected, you could get cellulitis and end up in the hospital.
+},
+{
+    97.64,103.56
+     I see this a lot. A lot of the times, if you have a relationship with a pediatrist, people
+},
+{
+    103.56,109.36
+     just call me up and I can electronically send them an antibiotic until they can come see me.
+},
+{
+    109.36,113.88
+     Because a lot of the times you go to the ER, you're waiting for 12 hours anyway, and what
+},
+{
+    113.88,117.84
+     happens is you end up getting an antibiotic and refer to a podiatrist anyway.
+},
+{
+    117.84,124.1
+     So call your podiatrist's office if you're worried, if you're even suggesting that there
+},
+{
+    124.1,126.36
+     might be an infection, take great
+},
+{
+    126.36,127.36
+     care of you.
+},
+{
+    127.36,132.06
+     Doctors will get you in and they want to help you, but I understand if you can't do that.
+},
+{
+    132.06,134.5
+     So this is the unofficial guide right here.
+},
+{
+    134.5,139.94
+     If it's red, if it's hot, if there's pus draining out of it, it's probably infected.
+},
+{
+    139.94,145.36
+     If you have nausea, if you feel like vomiting, if you have chills, that's more of an emergency.
+},
+{
+    145.36,146.96
+     You should get to the hospital.
+},
+{
+    146.96,153.2
+     But what you want to do is clean soap, clean it off, wash your hands as much as possible,
+},
+{
+    153.2,155.64
+     clean all that dirt out of the blister.
+},
+{
+    155.64,158.8
+     And what you want to do is get topical antibiotic ointment.
+},
+{
+    158.8,162.76
+     So like neosporin, triple antibiotic ointment, sylvanine is good.
+},
+{
+    162.76,165.84
+     There's a lot of great stuff at a CBS, but again,
+},
+{
+    165.84,172.12
+     officially you should be seeing your doctor. But should you pop it at home, a lot of the
+},
+{
+    172.12,177.6
+     times that there's a thick blister, I in the office will pop it, but people hurt themselves,
+},
+{
+    177.6,182.8
+     especially if you're diabetic, if you smoke, if you have blood flow problems, healthy people,
+},
+{
+    182.8,190.5
+     95 plus percent of the time, they're going to gonna be okay but just be safe. Check with the doctor if you're worried but the truth
+},
+{
+    190.5,195.16
+     is realistically most people will be okay and can heal this stuff but if
+},
+{
+    195.16,199.28
+     there's infection you need an antibiotic. What you want to do is you want to get
+},
+{
+    199.28,204.76
+     padding so get yourself a band-aid. There's a lot of great bandages online.
+},
+{
+    204.76,205.0
+     There's waterproof bandages, there's a lot of great bandages online.
+},
+{
+    205.0,208.92
+     There's waterproof bandages, there's the basic bandages.
+},
+{
+    208.92,212.16
+     You want some antibiotic cream to put on there.
+},
+{
+    212.16,214.28
+     Is it on your big toe joint?
+},
+{
+    214.28,216.16
+     Is it on your heel?
+},
+{
+    216.16,217.96
+     Is it on your fifth toe?
+},
+{
+    217.96,219.86
+     These are common areas that are rubbing.
+},
+{
+    219.86,222.44
+     So get a bandaid, get some antibiotic ointment.
+},
+{
+    222.44,224.04
+     Stop doing what you're doing.
+},
+{
+    224.04,226.08
+     So cut down on your mileage.
+},
+{
+    226.08,227.64
+     And the next thing you wanna do is
+},
+{
+    227.64,230.02
+     make sure your shoe fits properly.
+},
+{
+    230.02,232.56
+     We have a great guide that I'm gonna link right here
+},
+{
+    232.56,235.06
+     that will help you fit your shoe properly.
+},
+{
+    235.06,238.1
+     But common problems are it's too tight in the front.
+},
+{
+    238.1,240.72
+     So you can see these are pointy in the front.
+},
+{
+    240.72,241.88
+     It's too tight in the back.
+},
+{
+    241.88,249.64
+     So you can see dressier shoes are too tight in the back. People fit their shoes when their foot's not swollen and then during the day
+},
+{
+    249.64,256.28
+     the foot swells. That's why the shoes too tight. Number two, people don't measure their
+},
+{
+    256.28,260.86
+     foot size when they're standing. You have to stand because when you stand your foot
+},
+{
+    260.86,266.08
+     expands about half the size or a full size. So these are some of the common problems we like
+},
+{
+    266.08,267.72
+     in that video that I mentioned.
+},
+{
+    267.72,271.36
+     So check out our guide to fit your shoe at home
+},
+{
+    271.36,272.88
+     without specialized equipment.
+},
+{
+    272.88,274.12
+     We can help you with that.
+},
+{
+    274.12,276.36
+     This is a shoe stretching device.
+},
+{
+    276.36,278.84
+     So essentially this is like $15 online
+},
+{
+    278.84,280.84
+     and the show notes are down below.
+},
+{
+    280.84,282.08
+     So if you want these, check it out.
+},
+{
+    282.08,284.72
+     But look, I set up a couple pegs
+},
+{
+    284.72,285.36
+     and once for the
+},
+{
+    285.36,290.56
+     bunny and Taylor's bunny in fifth toe and big toe so you can see right here they correlate
+},
+{
+    290.56,296.8
+     and essentially that twisting metal rod makes them stretch out and essentially the heel stretches
+},
+{
+    296.8,301.52
+     out the heel area so you could see right there the bumps correlate to prominent blister areas on
+},
+{
+    301.52,305.08
+     your foot so in this case if you're're gonna blister in the fifth toe,
+},
+{
+    305.08,308.4
+     the little toe, you have a bunion or a tailor's bunion,
+},
+{
+    308.4,311.5
+     just get this guy, stick it in here,
+},
+{
+    311.5,313.86
+     and you leave it on for 24 hours overnight.
+},
+{
+    313.86,317.16
+     And see this back part that I'm twisting right here?
+},
+{
+    317.16,318.4
+     That's for the heel.
+},
+{
+    318.4,322.1
+     So in the front, the metal rod basically expands that.
+},
+{
+    322.1,323.4
+     So see, that's expanding,
+},
+{
+    323.4,326.0
+     and you leave that for 24 hours overnight.
+},
+{
+    326.0,332.26
+     And that will stretch out your tailors bunion. So the tailors bunion is the little toe and the bunion is the big toe.
+},
+{
+    332.26,336.26
+     Or the side of the foot if you're getting problems there and that back part, look at that.
+},
+{
+    336.26,339.0
+     I'm stretching that out, that's stretching out the heel area.
+},
+{
+    339.0,344.76
+     So if you're getting heel blisters or back of the heel blisters, especially in your high heeled shoes,
+},
+{
+    344.76,346.04
+     that can stretch
+},
+{
+    346.04,349.8
+     that area out, take a little bit of pressure off there. Or if the tongue is pressing too
+},
+{
+    349.8,355.08
+     tightly on the top, stick that tongue part on there and that will get pressure off the
+},
+{
+    355.08,360.76
+     top of the foot. And then as that's sitting overnight for like $5 to $10 shoe stretch
+},
+{
+    360.76,365.52
+     spray, just take that and you spray that area. Essentially it moistens it
+},
+{
+    365.52,371.92
+     a little bit and then it kind of stiffens up in that position so it stays stretched out.
+},
+{
+    371.92,375.84
+     So that spray is a great idea. I use that quite a bit. You know personally I always
+},
+{
+    375.84,380.24
+     go with good pediatrics recommended shoes but if you wear the fancy high heeled shoes
+},
+{
+    380.24,386.28
+     or ones that are tight in the front, the shoe stretch spray can be great. So spray it overnight.
+},
+{
+    386.28,389.56
+     It can't go up five shoe sizes if you have a tiny shoe,
+},
+{
+    389.56,393.52
+     but it can go up, for example, one to two shoe sizes.
+},
+{
+    393.52,394.64
+     It can spread out the front.
+},
+{
+    394.64,396.18
+     It can spread out the heel.
+},
+{
+    396.18,397.4
+     So that's a shoe stretcher.
+},
+{
+    397.4,400.24
+     That thing for two of them, it's like 15 bucks.
+},
+{
+    400.24,401.4
+     Moisturize.
+},
+{
+    401.4,403.4
+     If you don't have a blister already,
+},
+{
+    403.4,407.12
+     get some petroleum jelly, get some wax.
+},
+{
+    407.12,412.36
+     There's specific anti-blister creams that are more expensive, that are thicker than
+},
+{
+    412.36,417.32
+     petroleum jelly, but petroleum jelly is like three bucks at any grocery store.
+},
+{
+    417.32,422.28
+     This works great, especially if you put it on overtape or mix it up with tape.
+},
+{
+    422.28,424.84
+     Don't put the jelly then the tape, it won't stick.
+},
+{
+    424.84,428.8
+     There's specialized creams like this that can work well but these are harder to
+},
+{
+    428.8,431.94
+     get. You probably don't have it at home. Deodorant. Just rub it against the back
+},
+{
+    431.94,435.72
+     of the heel, the back of the Achilles tendon, the bunion. If you're in a pinch
+},
+{
+    435.72,440.04
+     just grab this. This will help quite a bit. It'll lubricate your foot. If your
+},
+{
+    440.04,443.76
+     feet are moist and sweat a lot, there's a lot of powders online. We're gonna link
+},
+{
+    443.76,448.2
+     some down in the show notes but cornstarch, talcum powder, there's
+},
+{
+    448.2,452.42
+     specific anti fungus and anti athletes foot creams.
+},
+{
+    452.42,455.24
+     There are great anti-perspirant sprays.
+},
+{
+    455.24,461.32
+     Check the show note for sprays, anti sweat, anti stick stuff that will really help your
+},
+{
+    461.32,462.32
+     feet.
+},
+{
+    462.32,463.76
+     So there are gel pads like this.
+},
+{
+    463.76,467.54
+     So you could see this one goes on to the heel like this.
+},
+{
+    467.54,469.84
+     So these types of gel pads, they work really well.
+},
+{
+    469.84,471.12
+     They can stop your heel.
+},
+{
+    471.12,474.2
+     And number two, if you have a bandaid already,
+},
+{
+    474.2,475.68
+     put some duct tape over it.
+},
+{
+    475.68,478.24
+     So duct tape on the heel, on the big toe,
+},
+{
+    478.24,481.32
+     it sticks better, you can keep walking and going to work,
+},
+{
+    481.32,482.96
+     and the skin won't rub,
+},
+{
+    482.96,485.5
+     but you don't wanna put that directly on the blister
+},
+{
+    485.5,487.54
+     because it will make the blister worse.
+},
+{
+    487.54,489.42
+     Good socks, get yourself some good socks.
+},
+{
+    489.42,491.56
+     So thin socks that are synthetic,
+},
+{
+    491.56,493.74
+     that specifically wick moisture,
+},
+{
+    493.74,494.9
+     spend a couple extra bucks.
+},
+{
+    494.9,498.74
+     They're like five bucks or 10 bucks online now on Amazon.
+},
+{
+    498.74,499.58
+     Are you kidding me?
+},
+{
+    499.58,500.66
+     It's just Gatam.
+},
+{
+    500.66,501.62
+     Don't even think about it.
+},
+{
+    501.62,507.2
+     You don't have to buy like $50 socks like back in the day, but cotton socks, synthetic
+},
+{
+    507.2,512.2
+     socks, as long as they're not crummy socks and make sure, see how there's no stitching
+},
+{
+    512.2,517.08
+     here, make sure you don't have thick stitching in the front that's rubbing on your toes.
+},
+{
+    517.08,519.88
+     Socks can be very important and beneficial for you.
+},
+{
+    519.88,523.64
+     And again, down in the show notes, we link some great socks.
+},
+{
+    523.64,528.08
+     Get great shoes. Down in the show notes, we show you our best running shoes
+},
+{
+    528.08,531.24
+     of 2020 and 2021.
+},
+{
+    531.24,532.48
+     Check down there.
+},
+{
+    532.48,535.28
+     Best running shoes, best walking shoes, best dress shoes,
+},
+{
+    535.28,537.72
+     we got you covered in all brands.
+},
+{
+    537.72,540.84
+     So the keys are great fitting shoes, stop sweating,
+},
+{
+    540.84,545.28
+     moisturize the rubbing areas, get bandages, get band-aids.
+},
+{
+    545.28,548.18
+     And lastly, you can even do something like KT tape.
+},
+{
+    548.18,550.24
+     They work great, but they're a little bit expensive.
+},
+{
+    550.24,553.36
+     Check down in the show notes for all this great stuff.
+},
+{
+    553.36,554.92
+     It will help you.
+},
+{
+    554.92,557.72
+     Good luck, and we hope your foot pain blister feels better.
+},

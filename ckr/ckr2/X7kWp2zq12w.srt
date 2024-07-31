@@ -1,0 +1,208 @@
+{
+    0.0,10.48
+     Hi, my name is Amelia Samuels and I'm an active rehab physiotherapist. Today I'll be teaching
+},
+{
+    10.48,15.64
+     you how to safely go up and down stairs using your crutches. For more information on the
+},
+{
+    15.64,20.12
+     correct technique for walking with crutches and also how to size them appropriately,
+},
+{
+    20.12,26.4
+     please look at our earlier video titled Walking with Crotches. Today we'll be demonstrating two techniques
+},
+{
+    26.4,28.88
+     for going up and down the stairs with crotches.
+},
+{
+    28.88,31.72
+     One for when you have a partial weight bearing status,
+},
+{
+    31.72,35.02
+     and one for when you have a non-weight bearing status.
+},
+{
+    35.02,36.84
+     Your weight bearing status will be determined
+},
+{
+    36.84,39.56
+     by your surgeon or by your physio therapist.
+},
+{
+    40.68,42.24
+     When going up and down the stairs
+},
+{
+    42.24,44.4
+     using a partial weight bearing status,
+},
+{
+    44.4,45.0
+     it's important
+},
+{
+    45.0,49.64
+     that you can remember the expression, good leg goes to heaven, bad leg goes to hell.
+},
+{
+    49.64,54.24
+     So in this scenario, the good leg is your uninjured leg and the bad leg is the leg
+},
+{
+    54.24,55.24
+     that is injured.
+},
+{
+    55.24,60.84
+     So, to ascend the stairs in a partial weight-bearing fashion, bring yourself close to the start
+},
+{
+    60.84,63.48
+     or the bottom of the first step.
+},
+{
+    63.48,65.2
+     Place your weight through your arms and the crutches and bring the good leg bottom of the first step. Place your weight through your arms and the
+},
+{
+    65.2,70.64
+     crutches and bring the good leg up onto the first step. Then bring the bad leg and the
+},
+{
+    70.64,74.4
+     crutches up to join it. Repeat this movement for each step.
+},
+{
+    80.56,85.0
+     To go down the stairs, remember that expression, the bad leg goes to hell.
+},
+{
+    85.0,88.0
+     So you'll be going bad leg first.
+},
+{
+    88.0,99.0
+     So to go downwards, make sure you're close to the edge of the stairs, bring the crutches down to the next step, then the bad leg, and then bring the good leg down to join them.
+},
+{
+    99.0,105.28
+     So the crutches and then the bad leg, take your weight through your arms to support yourself as you bring the good leg down.
+},
+{
+    110.68,113.48
+     It may be required for you to go up and down the stairs
+},
+{
+    113.48,115.64
+     using a non-weight bearing pattern.
+},
+{
+    115.64,118.36
+     This means the injured leg is not to have any weight
+},
+{
+    118.36,120.8
+     put through it, all of your weight is taken
+},
+{
+    120.8,123.84
+     through the arms and the crutches and the good leg.
+},
+{
+    123.84,125.6
+     So to do this safely bring
+},
+{
+    125.6,130.84
+     yourself close to the step. You're going to take your weight through your arms, bend
+},
+{
+    130.84,135.84
+     the injured leg if you can so that the toes don't hit the step on the way through. Shift
+},
+{
+    135.84,145.0
+     your body weight forward, bend your good leg and bring it up onto the next step. Make sure you've got your balance before moving on to the next step.
+},
+{
+    149.0,153.0
+     Try to avoid big hopping movements as these can throw your balance.
+},
+{
+    154.0,158.0
+     When going down the steps, it's important to make sure that your injured leg clears the
+},
+{
+    158.0,162.0
+     step as you move. So you may want to hold it out in front or bend it so that it clears
+},
+{
+    162.0,168.08
+     the step. From this position, making sure you're close to the edge of the step, you're going to take the weight through your good
+},
+{
+    168.08,173.36
+     leg and bring the crutches down onto the step below. Then, utilising the weight shift of
+},
+{
+    173.36,177.68
+     your body, bring your weight onto the crutches and bring the good leg down onto the step
+},
+{
+    177.68,182.64
+     below. Once again, wait until you've got your balance before moving to the next step and
+},
+{
+    182.64,185.0
+     try to avoid big hopping movements.
+},
+{
+    189.0,193.0
+     When going up and down the stairs, if there's a sturdy handrail available, we recommend
+},
+{
+    193.0,198.0
+     using that in place of a crutch as it provides a really sturdy anchor for going up and down
+},
+{
+    198.0,203.5
+     the stairs. To use the handrail, what you need to do is bring the crutch closest to
+},
+{
+    203.5,211.2
+     the handrail over to the opposite side and support that crutch in the other hand. Then holding onto the handrail,
+},
+{
+    211.2,215.44
+     you would ascend the stairs in the same pattern you used when you had both crutches, as Ellie
+},
+{
+    215.44,232.0
+     will now demonstrate. To go down the stairs whilst using the handrail, the same principle applies.
+},
+{
+    232.0,238.0
+     So you need to move one of the crutches over to the opposite side.
+},
+{
+    238.0,247.0
+     Hold onto both the crutches together and then using the handrail, lower yourself down using the same technique you did when you had two crutches.
+},
+{
+    255.14,259.12
+     It's important not to rush when going up and down the stairs. Remember to take your time
+},
+{
+    259.12,263.16
+     and ensure you've found your balance before moving on to the next step. If you really
+},
+{
+    263.16,267.76
+     aren't confident going up and down stairs, it's important to make sure that you have someone with you for safety.
+},

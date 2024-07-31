@@ -1,0 +1,440 @@
+{
+    0.0,32.14
+     Thank you. Kawa Sake Disease by Lucy Rubin and Dr. Lisa DiPietro.
+},
+{
+    32.14,35.82
+     Learning Objectives By the end of this video, the learner will
+},
+{
+    35.82,42.62
+     be able to explain the pathophysiology of Kawa Sake Disease, recognize the clinical features
+},
+{
+    42.62,45.72
+     and diagnostic criteria, describe the potential
+},
+{
+    45.72,52.72
+     complications, and discuss the important steps in managing a child with Kawasaki disease.
+},
+{
+    52.72,53.72
+     Introduction
+},
+{
+    53.72,61.56
+     Kawasaki disease is an acute systemic vasculitis of children. Approximately three-quarters of
+},
+{
+    61.56,65.48
+     children presenting with acute disease are younger than age five,
+},
+{
+    65.48,69.68
+     but Kawasaki disease can occur in older children as well.
+},
+{
+    69.68,77.92
+     Boys outnumber girls 1.3 to 1, and children of Asian ancestry are at highest risk.
+},
+{
+    77.92,82.96
+     The cause of Kawasaki disease is unknown, although most experts believe that Kawasaki
+},
+{
+    82.96,85.0
+     disease reflects an immune response
+},
+{
+    85.0,88.24
+     to an unknown infectious trigger.
+},
+{
+    88.24,92.56
+     Kawasaki disease, Arteritis, particularly affects the coronary arteries, and coronary
+},
+{
+    92.56,98.16
+     aneurysms are caused by vascular infiltration first of neutrophils, transitioning to large
+},
+{
+    98.16,107.84
+     mononuclear cells, along with lymphocytes and plasma cells, causing a weakening and dilatation of the vessel walls.
+},
+{
+    107.84,111.72
+     Clinical Presentation and Diagnosis
+},
+{
+    111.72,114.4
+     The clinical presentation of Kawasaki disease
+},
+{
+    114.4,118.08
+     can be remembered by the mnemonic crash and burn.
+},
+{
+    118.08,120.68
+     C is for conjunctivitis.
+},
+{
+    120.68,123.08
+     R is for rash.
+},
+{
+    123.08,125.0
+     A is for cervical adenopathy.
+},
+{
+    125.0,128.0
+     S is for strawberry tongue.
+},
+{
+    128.0,134.0
+     H is for hands and feet, which is to say swelling and erythema of those parts.
+},
+{
+    134.0,138.0
+     B is for burn, which is to say fever.
+},
+{
+    138.0,146.08
+     The diagnosis of classical Kawasaki disease can be made clinically based on the following criteria.
+},
+{
+    152.0,153.12
+     Fever for five or more days and at least four of the five clinical features from the crash mnemonic.
+},
+{
+    157.04,158.48
+     Conjunctivitis, which is typically bilateral and non-pureulent.
+},
+{
+    163.92,165.4
+     Rash, which is a polymorphic rash that can be seen on the trunk, extremities, and groin.
+},
+{
+    165.4,171.48
+     Adenopathy, which is cervical and unilateral, with the node being at least 1.5 centimeters
+},
+{
+    171.48,173.48
+     in diameter.
+},
+{
+    173.48,178.76
+     Strawberry tongue, or erythema of the tongue with prominent papillae, as well as erythema
+},
+{
+    178.76,182.16
+     of the oral mucosa and lips.
+},
+{
+    182.16,186.48
+     Changes in the hands and feet, which may include swelling and erythema in the acute
+},
+{
+    186.48,188.16
+     illness.
+},
+{
+    188.16,193.0
+     Periungal desquamation occurs two weeks after fever onset.
+},
+{
+    193.0,197.74
+     Patients who have less than four of the five principal clinical criteria who have fever
+},
+{
+    197.74,203.36
+     with coronary abnormalities can have incomplete Kawasaki disease.
+},
+{
+    203.36,209.2
+     For these patients, you can follow the American Heart Association algorithm for evaluation
+},
+{
+    209.2,213.32
+     of suspected incomplete Kawasaki disease.
+},
+{
+    213.32,218.28
+     If a child has a fever for greater than or equal to five days, with two or three of the
+},
+{
+    218.28,226.76
+     principal clinical criteria, or if an infant has a fever for greater than or equal to 7 days without another explanation,
+},
+{
+    226.76,230.28
+     the next step is to assess laboratory tests.
+},
+{
+    230.28,239.4
+     C-reactive protein, CRP, and erythrocyte sedimentation rate, ESR, are markers of inflammation.
+},
+{
+    239.4,247.6
+     If the CRP is greater than or equal to 3 mg per deciliter, and or the ESR is greater than or equal to
+},
+{
+    247.6,257.08
+     40 mmHg assessed for anemia, thrombocytosis, hypoalbum anemia, elevated alanine amino
+},
+{
+    257.08,263.74
+     transferase or ALT, leukocytosis, and white blood cells in the urine.
+},
+{
+    263.74,269.78
+     If the patient has three or more of those findings, or has a positive echocardiogram,
+},
+{
+    269.78,272.08
+     treatment should be initiated.
+},
+{
+    272.08,276.6
+     In the absence of those features, the patient should be monitored clinically with repeat
+},
+{
+    276.6,281.52
+     laboratory testing if the fever persists.
+},
+{
+    281.52,287.0
+     A patient with Kawasaki disease is often very irritable and difficult to console.
+},
+{
+    287.0,293.0
+     In addition to the classic signs and symptoms, they may also have involvement of the musculoskeletal,
+},
+{
+    293.0,301.96
+     GI, GU, respiratory, nervous, and cardiovascular systems.
+},
+{
+    301.96,308.0
+     The most concerning potential complication of Kawasaki disease is coronary artery aneurysm,
+},
+{
+    308.0,312.36
+     which occurs in about 25% of untreated patients.
+},
+{
+    312.36,319.68
+     With timely treatment, fewer than 5% of children with Kawasaki disease develop aneurysms.
+},
+{
+    319.68,324.64
+     Given the wide range of potential clinical findings, a comprehensive physical exam is
+},
+{
+    324.64,326.44
+     essential.
+},
+{
+    326.44,329.16
+     Assess the general appearance of the child.
+},
+{
+    329.16,330.88
+     Is he irritable?
+},
+{
+    330.88,333.2
+     What are his vital signs?
+},
+{
+    333.2,335.88
+     Does he appear dehydrated?
+},
+{
+    335.88,340.0
+     Inspect the skin, including the extremities and the perineum.
+},
+{
+    340.0,350.92
+     If a rash is present, describe it. The rash of Kawasaki disease is most commonly maculopapular, but may also be morbiliform,
+},
+{
+    350.92,353.58
+     targetoid, or scarletiniform.
+},
+{
+    353.58,359.2
+     It is never vesicular.
+},
+{
+    359.2,361.92
+     Are the hands and feet edematous?
+},
+{
+    361.92,365.32
+     Are the palms and soles erythematous?
+},
+{
+    365.32,368.72
+     Is there any ischemia?
+},
+{
+    368.72,371.96
+     Complete a thorough HE-ENT exam.
+},
+{
+    371.96,375.44
+     Is there conjunctival injection?
+},
+{
+    375.44,377.98
+     Are the lips red or cracked?
+},
+{
+    377.98,381.72
+     Is the tongue red with prominent papillae?
+},
+{
+    381.72,385.68
+     Is the oropharynx erythematous?
+},
+{
+    385.68,390.8
+     Is there lymphadenopathy, and if so, is it unilateral or bilateral?
+},
+{
+    390.8,392.68
+     How big are the nodes?
+},
+{
+    392.68,394.64
+     Are they tender?
+},
+{
+    394.64,401.48
+     If the lymphadenopathy is diffuse, this is more suggestive of a viral illness.
+},
+{
+    401.48,407.64
+     It is also important to perform cardiac, respiratory, and abdominal examinations, although the findings
+},
+{
+    407.64,413.24
+     may be nonspecific for Kawasaki disease.
+},
+{
+    413.24,414.24
+     Management
+},
+{
+    414.24,419.24
+     All patients with Kawasaki disease should have an echocardiogram to look for coronary
+},
+{
+    419.24,425.74
+     aneurysms or dilatation, as well as other potential cardiac complications such as pericardial
+},
+{
+    425.74,433.08
+     effusion, valvular regurgitation, or decreased left ventricular function.
+},
+{
+    433.08,438.08
+     While laboratory tests aren't necessary for diagnosis, they can be helpful if the diagnosis
+},
+{
+    438.08,440.56
+     is not certain.
+},
+{
+    440.56,450.0
+     Several abnormalities may be present, including anemia, leukocytosis, thrombocytosis, elevated CRP and ESR,
+},
+{
+    450.0,460.0
+     hypoalbuminemia, elevated ALT, sterile pyuria, and CSF pleocytosis.
+},
+{
+    461.0,467.82
+     The main stages of treatment for Kawasaki disease are intravenous immunoglobulin, IVIG, and
+},
+{
+    467.82,469.82
+     aspirin.
+},
+{
+    469.82,475.22
+     IVIG, which contains antibodies from donated blood, should ideally be given as a one-time
+},
+{
+    475.22,478.94
+     dose within the first 10 days of the illness.
+},
+{
+    478.94,483.9
+     It works as an anti-inflammatory to decrease the risk of aneurysms, as well as to lower
+},
+{
+    483.9,487.72
+     fever.
+},
+{
+    487.72,493.52
+     Moderate to high dose aspirin is often given until the patient has been a. feb. for 48-72
+},
+{
+    493.52,501.98
+     hours, followed by low dose aspirin for 4-6 weeks or until aneurysms resolve.
+},
+{
+    501.98,528.16
+     Those patients who develop a fever after 36 hours post IVIG treatment without another explanation can have refractory Kawasaki disease and may be retreated with a second dose of IVIG or other anti-inflammatory therapies if Kawasaki disease is still the likely diagnosis. Appropriate follow-up for uncomplicated Kawasaki disease includes repeat echocardiography at
+},
+{
+    528.16,533.46
+     1-2 weeks and 4-6 weeks after treatment.
+},
+{
+    533.46,539.0
+     For patients with coronary artery aneurysms, cardiologic follow-up and treatment, including
+},
+{
+    539.0,546.44
+     antithrombotic therapies, are tailored to the severity of coronary involvement. Summary
+},
+{
+    546.44,554.34
+     In summary, Kawasaki disease is an acute systemic vasculitis of childhood that presents with
+},
+{
+    554.34,561.02
+     conjunctivitis, rash, lymphadenopathy, changes in the oropharynx, and changes on the hands
+},
+{
+    561.02,562.68
+     and feet.
+},
+{
+    562.68,567.0
+     The most concerning complication is coronary artery aneurysms,
+},
+{
+    567.04,571.96
+     and echocardiography should be performed on all patients.
+},
+{
+    571.96,578.08
+     Treatment includes IVIG and aspirin. Patients with always normal coronary arteries have
+},
+{
+    578.08,589.0
+     no increase in cardiovascular mortality compared with the general population. Children with coronary artery aneurysms, even those that remodel to normal, require
+},
+{
+    589.0,591.44
+     lifelong follow-up.
+},
+{
+    591.44,None
+     Thank you for watching this video on Kawasaki Disease. you
+},

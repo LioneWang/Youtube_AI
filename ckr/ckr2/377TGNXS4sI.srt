@@ -1,0 +1,396 @@
+{
+    0.0,5.52
+     If you've suffered an ankle sprain, one of the most common injuries in all of sports,
+},
+{
+    5.52,9.72
+     we want to show you some exercises to get better, hopefully on your own.
+},
+{
+    9.72,14.36
+     I'm Dr. David Geyer, orthopedic surgeon and sports medicine specialist, here with my friend
+},
+{
+    14.36,17.2
+     and physical therapist, Yves Gigi.
+},
+{
+    17.2,22.52
+     Ankle sprains are the most common injuries statistically in sports like football, basketball,
+},
+{
+    22.52,25.16
+     soccer, not to mention all the weekend warriors,
+},
+{
+    25.16,27.32
+     all the people who just love to exercise.
+},
+{
+    27.32,30.8
+     You're running along, step awkwardly, and roll your foot.
+},
+{
+    30.8,33.68
+     Or you land awkwardly and roll your ankle.
+},
+{
+    33.68,35.84
+     What can you do to get over that,
+},
+{
+    35.84,37.52
+     short of going into the doctor
+},
+{
+    37.52,39.44
+     and getting x-rays and all that kind of stuff,
+},
+{
+    39.44,40.68
+     which you might need,
+},
+{
+    40.68,42.16
+     but are there some simple things
+},
+{
+    42.16,43.96
+     that you might be able to do first?
+},
+{
+    43.96,48.48
+     Let's see what Eve has to suggest. So you get that initial ankle sprain right? It's
+},
+{
+    48.48,52.48
+     gonna be a little bit swollen, it's gonna be a little bit inflamed. So by far the
+},
+{
+    52.48,55.76
+     first thing that we tell people to do is to get a little bit of compression, a
+},
+{
+    55.76,59.44
+     little bit of elevation and be cautious with the weight bearing to let that
+},
+{
+    59.44,63.52
+     thing heal. Yeah that makes sense. Yeah but as soon as that healing
+},
+{
+    63.52,66.46
+     healing starts to happen and there's not as much swelling,
+},
+{
+    66.46,70.76
+     we want to work on getting range of motion and getting some movement back in the ankle
+},
+{
+    70.76,74.12
+     as early as possible to make sure that you're getting back on the field.
+},
+{
+    74.12,75.12
+     Okay.
+},
+{
+    75.12,76.62
+     Getting back to walk in as quickly as possible.
+},
+{
+    76.62,78.72
+     So that's our first exercise we're going to go through.
+},
+{
+    78.72,79.72
+     All right.
+},
+{
+    79.72,81.72
+     First one, we're just going to pretend this is a chair.
+},
+{
+    81.72,85.2
+     So we're just going to have a seat in the chair
+},
+{
+    88.8,89.6
+     We're gonna cross one leg over the other. Okay
+},
+{
+    96.8,98.12
+     This is pretty easy for you to do at home. You're gonna grab the outside of your foot. Okay, and then you're gonna pull up
+},
+{
+    99.96,105.0
+     Towards the ceiling Gently and you should feel a stretch just on the outside of your ankle
+},
+{
+    105.0,109.32
+     and it in that tender sore area. You want to be pretty cautious with this.
+},
+{
+    109.4,113.2
+     You want to go slowly and as soon as you start to feel a little bit of stretch of pain,
+},
+{
+    113.2,117.56
+     you're going to stop and you're going to hold it there anywhere from 30 seconds to a minute.
+},
+{
+    117.56,122.2
+     Yeah, almost all ankle sprains are going to be injuries to the ligaments on the outside of your ankle.
+},
+{
+    122.2,126.86
+     And that's why that makes sense that you would do exercises to work that side.
+},
+{
+    126.86,128.34
+     And you can actually really feel that.
+},
+{
+    128.34,130.1
+     That's really interesting.
+},
+{
+    131.3,133.9
+     Something you go just where you feel tightness,
+},
+{
+    133.9,137.1
+     but you know, and slow, steady movements.
+},
+{
+    137.1,138.46
+     Okay, that makes sense.
+},
+{
+    138.46,139.3
+     Too far.
+},
+{
+    139.3,142.14
+     The tendon itself still needs time to heal, right?
+},
+{
+    142.14,144.5
+     You know this, we gotta respect that healing time,
+},
+{
+    144.5,149.68
+     but it's a great way to start getting movement back early. So the second thing after we've gotten
+},
+{
+    149.68,154.32
+     some movement back, and we know this happens a lot after swelling, after these injuries,
+},
+{
+    154.32,160.48
+     is that some of our balance, or if you want to use a fancy term, proprioception, is a little bit
+},
+{
+    160.48,164.16
+     hindered and needs to get work back, right? So we want to make sure we start working our balance
+},
+{
+    164.16,167.72
+     again. So first thing we're gonna do, super easy exercise.
+},
+{
+    167.72,168.92
+     Believe it or not, you don't have to tell my patients
+},
+{
+    168.92,171.28
+     to do this when they're brushing their teeth.
+},
+{
+    171.28,172.12
+     Oh, that makes sense.
+},
+{
+    172.12,172.96
+     Super easy time, right?
+},
+{
+    172.96,174.32
+     So the whole time you're brushing your teeth,
+},
+{
+    174.32,176.04
+     try this exercise.
+},
+{
+    176.04,177.2
+     You can do it more throughout the day,
+},
+{
+    177.2,178.16
+     but it's a great time to do it.
+},
+{
+    178.16,180.88
+     So you're just gonna stand on one leg,
+},
+{
+    180.88,182.6
+     bring the other leg up.
+},
+{
+    182.6,184.2
+     Doesn't matter if you're bringing forward, back,
+},
+{
+    184.2,185.64
+     as long as it's off of
+},
+{
+    185.64,189.48
+     the ground and you're gonna hold that for as long as you can. It's pretty normal
+},
+{
+    189.48,194.4
+     to see the ankle shaking left to right. Those are called ankle strategies.
+},
+{
+    194.4,198.96
+     Perfectly normal. If it's painful, maybe hold on to something.
+},
+{
+    198.96,203.36
+     Big sense. And then work your way to not holding anything. Doing that anywhere
+},
+{
+    203.36,207.4
+     from a minute. Sometimes longer depends on how long you reach your teeth.
+},
+{
+    207.4,209.68
+     But holding that and starting to work those muscles
+},
+{
+    209.68,210.52
+     should be great.
+},
+{
+    210.52,211.8
+     Well, and that makes a lot of sense too,
+},
+{
+    211.8,215.48
+     because one of the challenges that I see with athletes
+},
+{
+    215.48,217.24
+     trying to get back to sports,
+},
+{
+    217.24,220.28
+     it's been three weeks, two, four weeks, whatever it's been,
+},
+{
+    220.28,222.28
+     is that yeah, the ankle's got good motion,
+},
+{
+    222.28,223.36
+     it's got good strength,
+},
+{
+    223.36,224.88
+     but they don't feel confident
+},
+{
+    224.88,226.78
+     planning their foot and changing direction.
+},
+{
+    226.78,228.6
+     And that's why what he's talking about
+},
+{
+    228.6,231.7
+     with the balance and proprioception is so important.
+},
+{
+    231.7,234.4
+     But time alone is not gonna really do that much
+},
+{
+    234.4,235.24
+     to get it back.
+},
+{
+    235.24,237.44
+     You actually have to work to restore that.
+},
+{
+    237.44,239.12
+     Yeah, yeah, you need to work that system.
+},
+{
+    239.12,241.0
+     If I'm gonna cut directions quickly,
+},
+{
+    241.0,242.96
+     my ankle needs to know what it feels like
+},
+{
+    242.96,251.24
+     to be on one leg first before I do that. And sometimes it's a step that a lot of people skip. And if you're getting better but not getting over the hump,
+},
+{
+    251.24,254.66
+     you can, you know, you might think about working with a physical therapist like Eve,
+},
+{
+    254.68,256.64
+     because he can not only do things like that,
+},
+{
+    256.64,262.76
+     but then they can start putting you on sliding boards and do fancier ways to rebuild that balance and proprioception
+},
+{
+    262.98,268.64
+     that really can speed up your recovery and return to sports. If you've suffered an ankle sprain and I
+},
+{
+    268.64,273.28
+     know that a lot of you out there have because it's so common, try these simple
+},
+{
+    273.28,277.24
+     exercises out. Hopefully it gets you better in a week or two or three or four
+},
+{
+    277.24,281.16
+     weeks. If you're not making much progress, see a physical therapist. Go see an
+},
+{
+    281.16,284.72
+     orthopedic surgeon to make sure it's not something bad. If you want more
+},
+{
+    284.72,287.92
+     information on ankle sprains, click the videos below.
+},
+{
+    287.92,293.28
+     You'll also find links to Eve's social media, all kinds of great physical therapy information.
+},
+{
+    293.28,295.24
+     Make sure to subscribe to our videos.
+},
+{
+    295.24,298.32
+     You'll get lots of great sports medicine information.
+},
+{
+    298.32,302.44
+     Thank you so much for watching and we look forward to seeing you right here next time.
+},

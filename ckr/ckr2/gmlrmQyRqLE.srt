@@ -1,0 +1,724 @@
+{
+    0.0,10.44
+     Hi, I'm Zach.
+},
+{
+    10.44,13.96
+     In today's episode, you're going to learn the difference between when to squat and when
+},
+{
+    13.96,14.96
+     to deadlift.
+},
+{
+    14.96,35.52
+     But before we do that, we're going to show you two athletes that benefited by doing both in order to get to top speed gains.
+},
+{
+    38.72,42.72
+     When I first started here, my squat was at like 185. Two years later, now my squat and my deadlifts are both around 420.
+},
+{
+    42.72,46.64
+     And my 60 was at a 7-3 now it's down to 6-6.
+},
+{
+    51.2,74.72
+     So two years ago I ran a 7-2 at deadlift and squat, squat is going to be more
+},
+{
+    74.72,76.24
+     for acceleration.
+},
+{
+    76.24,77.3
+     It's quad dominant.
+},
+{
+    77.3,81.64
+     So when an athlete is running 10 to 30 yards, he's going to use more of his quads and that's
+},
+{
+    81.64,83.52
+     where more of the squat comes in.
+},
+{
+    83.52,86.98
+     Versus if you're running more 40 to 60 yards
+},
+{
+    86.98,88.3
+     when you're doing speed work,
+},
+{
+    88.3,90.2
+     that's where more of the deadlifts gonna come in
+},
+{
+    90.2,92.22
+     with more top end speed, which is gonna require
+},
+{
+    92.22,95.26
+     more hamstring and more glute activation
+},
+{
+    95.26,96.9
+     in order to catapult your speed up.
+},
+{
+    96.9,99.58
+     So if you're training 100 meter sprinter,
+},
+{
+    99.58,102.04
+     you're gonna wanna make sure that you do a lot of deadlifts
+},
+{
+    102.04,104.9
+     in order to get their top speed up.
+},
+{
+    104.9,105.28
+     However, most sports are gonna be, you're gonna be running 10 to 20 yards. You want to make sure that you do a lot of dead lifts in order to get their top speed up.
+},
+{
+    105.28,109.96
+     However, most sports are going to be, you're going to be running 10 to 20 yards.
+},
+{
+    109.96,112.88
+     You're not going to be running 40 to 60 yards.
+},
+{
+    112.88,116.76
+     So if we look at field hockey, if we look at lacrosse, if we look at soccer, you're running
+},
+{
+    116.76,119.04
+     full out for basically 10 to 20 yards.
+},
+{
+    119.04,124.4
+     So that's why for most sports, I concentrate more on the squat over the dead lift because
+},
+{
+    124.4,126.44
+     acceleration is the dominant factor.
+},
+{
+    126.44,131.56
+     So what I've done is I've broken up a squat program and a deadlift program.
+},
+{
+    131.72,135.8
+     So obviously up here is a squat and the deadlift and down here are the axiliaries.
+},
+{
+    135.96,143.52
+     Okay, we do if we're squatting for a monthly cycle, then this is the program that we do with you RDLs.
+},
+{
+    144.08,146.08
+     So RDLs is going to be very,
+},
+{
+    147.4,149.04
+     Romanian deadlifts are going to be very
+},
+{
+    149.04,152.68
+     glute hamstring dominant, mostly glute dominant.
+},
+{
+    152.68,155.24
+     And so now when we squat,
+},
+{
+    155.24,157.12
+     it's going to be more quad dominant.
+},
+{
+    157.12,159.68
+     So these two counterbalance each other.
+},
+{
+    159.68,161.04
+     And then what we do is,
+},
+{
+    161.04,164.36
+     is we focus just on hamstring isolation.
+},
+{
+    164.36,165.46
+     And that's why we have leg curls
+},
+{
+    165.46,167.56
+     down here or glute ham.
+},
+{
+    167.56,170.7
+     And that way we're balancing all three.
+},
+{
+    170.7,174.94
+     This is going to be quad, this is going to be more glute oriented, and this is going
+},
+{
+    174.94,177.22
+     to be more hamstring dominant oriented.
+},
+{
+    177.22,181.78
+     So we're building up that whole posterior chain along with the quads.
+},
+{
+    181.78,186.44
+     And then if we look over here at the deadlift program, what we do is the deadlift's gonna be mostly
+},
+{
+    186.44,190.56
+     glute dominant, not much quad.
+},
+{
+    190.56,192.72
+     So what we do is we, that's why we down here,
+},
+{
+    192.72,195.56
+     we do Bulgarian split squats or front squats,
+},
+{
+    195.56,198.44
+     which is gonna be a lot more quad loaded.
+},
+{
+    198.44,200.08
+     And then we also do the same here
+},
+{
+    200.08,201.8
+     as we do the glute ham and leg curls
+},
+{
+    201.8,203.88
+     so we can isolate the hamstrings.
+},
+{
+    203.88,208.32
+     That's basically how we lay out the programs, whether they're going to be squatting or whether they're going to be
+},
+{
+    208.32,213.92
+     deadlifting. And usually we'll keep like the same exercises for a month. So we'll do this,
+},
+{
+    213.92,218.64
+     and then we'll switch over to deadlift for another month. So now we're going to go in and
+},
+{
+    218.64,223.2
+     we're going to show you the two style deadlifts that we use, which is the RDL and the Sumo style
+},
+{
+    223.2,225.8
+     deadlift and why we do them.
+},
+{
+    225.8,229.52
+     So before an athlete even attempts any style deadlift,
+},
+{
+    229.52,232.04
+     whether it be Sumo or just a regular deadlift off the floor
+},
+{
+    232.04,234.32
+     with your legs a little bit closer stance,
+},
+{
+    234.32,236.16
+     we always start with the RDL.
+},
+{
+    236.16,239.72
+     The RDL is our staple foundational exercise
+},
+{
+    239.72,242.78
+     to develop the glutes, develop the low back,
+},
+{
+    242.78,244.32
+     and get them in the proper position
+},
+{
+    244.32,246.6
+     so that when they go down to deadlift,
+},
+{
+    246.6,249.2
+     they can keep that angle and not look like this
+},
+{
+    249.2,250.6
+     and round their back out.
+},
+{
+    250.6,253.56
+     So that's why the RDL is so important to develop,
+},
+{
+    253.56,256.56
+     and it's much easier to develop than the deadlift,
+},
+{
+    256.56,257.4
+     and it's gonna apply,
+},
+{
+    257.4,260.34
+     and that's why most of the time we're gonna squat
+},
+{
+    260.34,261.24
+     and we're gonna RDL,
+},
+{
+    261.24,264.48
+     because the RDL is a very practical tool
+},
+{
+    264.48,265.68
+     for building sprint
+},
+{
+    265.68,271.92
+     speed and explosive power because it takes all the legs out of the
+},
+{
+    271.92,277.04
+     equation and it allows you to just simply focus on the glutes and the hamstrings
+},
+{
+    277.04,282.16
+     in order to develop that posterior chain to make the athlete explosive. So for an
+},
+{
+    282.16,288.22
+     RDL, we use a box and this really forces the athlete to push their glutes back
+},
+{
+    288.22,290.84
+     so that they can activate their glutes.
+},
+{
+    290.84,293.28
+     And I want them an inch forward.
+},
+{
+    293.28,298.36
+     So right now his heels are on the box, an inch forward from the box, right about there.
+},
+{
+    298.36,303.48
+     So when he comes down, he's got to stay in contact the whole time with his calves to
+},
+{
+    303.48,304.48
+     the box.
+},
+{
+    304.48,305.56
+     Good.
+},
+{
+    307.56,311.84
+     And overlooking at is for him to get to 90 degrees.
+},
+{
+    311.84,314.2
+     If he comes down, go ahead.
+},
+{
+    314.2,315.04
+     Just hold it right there.
+},
+{
+    315.04,316.72
+     Now round your back out.
+},
+{
+    316.72,319.28
+     So if they start rounding their back out big time,
+},
+{
+    319.28,322.28
+     like when they get down here to 90 degrees,
+},
+{
+    322.28,324.58
+     then I just have them go a little bit less.
+},
+{
+    324.58,325.12
+     And usually that's because they need to stretch their hamstrings out. So go a little bit less and usually that's
+},
+{
+    325.12,329.06
+     because they need to stretch their hamstrings out so if you see the athlete
+},
+{
+    329.06,332.78
+     and they're coming down go and fold your back over big time if you see that and
+},
+{
+    332.78,338.12
+     they have struggled to go and arch your back now so that's what we want to see if
+},
+{
+    338.12,342.4
+     you see them rounding out that probably means that they need to stretch out their
+},
+{
+    342.4,347.0
+     their hamstrings a little bit more. Do a couple more reps.
+},
+{
+    347.0,354.48
+     So right to there. And just taking hip width stance. Go ahead and face that way and just
+},
+{
+    354.48,360.76
+     show me your stance that you're taking here. So about like that. That's perfect. Okay.
+},
+{
+    360.76,367.2
+     Just inside the shoulders slightly and feet pretty much pointed straight ahead.
+},
+{
+    367.2,370.72
+     Go ahead and back to the box again.
+},
+{
+    370.72,372.76
+     And show them what you don't want to do.
+},
+{
+    372.76,375.28
+     This is what you don't want to do is just kind of come forward.
+},
+{
+    375.28,379.16
+     Don't let your shins touch the box.
+},
+{
+    379.16,382.24
+     So you know, that's what you'll kind of see here and see how the knees are coming forward
+},
+{
+    382.24,383.24
+     here.
+},
+{
+    383.24,387.44
+     So now that's going to be a little bit more low back and you're going to get a little
+},
+{
+    387.44,389.04
+     bit more into the front of the legs here.
+},
+{
+    389.04,393.28
+     So that's why it's really important to stay touched when you do this.
+},
+{
+    393.28,396.48
+     And that's when you're going to really activate up the glutes.
+},
+{
+    396.48,400.44
+     So the second style deadlift that we do is our main lift is the Sumo deadlift.
+},
+{
+    400.44,404.48
+     So Sumo deadlift is, you know, most people are going to go extremely wide.
+},
+{
+    404.48,408.64
+     I just like going slightly outside shoulder width and the reason that I
+},
+{
+    408.64,414.28
+     prefer this style deadlift over a regular deadlift is because one you can
+},
+{
+    414.28,417.72
+     get a little bit lower so you're going to get your quads involved and two is
+},
+{
+    417.72,421.72
+     you're going to develop your abductor and more of your abductor chain so you're
+},
+{
+    421.72,425.04
+     groin, your glute medius, your glumenimus, and that's
+},
+{
+    425.04,430.56
+     ultimately what's going to also catapult up your strength and your speed. When you're doing a
+},
+{
+    430.56,436.4
+     regular deadlift here, this is going to be much more glute and low back dominant, so you're missing
+},
+{
+    436.4,442.64
+     all those other muscle groups that ultimately makes you get to your top speed and gets you the fastest.
+},
+{
+    443.0,444.64
+     get to your top speed and get to the fastest.
+},
+{
+    448.0,452.2
+     So, now we're demonstrating the sumo. Notice how it's a lot like how we teach the box walk.
+},
+{
+    452.2,454.16
+     Look at the knees, they're way back.
+},
+{
+    454.16,455.68
+     Okay, go ahead and come forward with your knees
+},
+{
+    455.68,456.96
+     over your toes.
+},
+{
+    456.96,458.48
+     You don't wanna be there, okay,
+},
+{
+    458.48,460.56
+     cause that's gonna get more into the quads.
+},
+{
+    460.56,464.22
+     We wanna sit back here and really get into the glutes here.
+},
+{
+    464.22,469.6
+     And you notice how the bar is touching the shin. You're actually going to have some shin contact on the way
+},
+{
+    469.6,473.36
+     up. We're going to show you with a bar how it looks. We just want to show you the initial
+},
+{
+    473.36,478.4
+     position because it's hard to see with the plates in the way here. Go ahead and face
+},
+{
+    478.4,486.16
+     forward. Down, push those knees out.
+},
+{
+    486.16,489.12
+     So that's the position there.
+},
+{
+    489.12,492.48
+     We don't try to, we just go slightly outside shoulder width.
+},
+{
+    492.48,496.22
+     If you want to go super wide, that's fine, but you've got to have the flexibility in
+},
+{
+    496.22,497.12
+     order to do it.
+},
+{
+    497.12,504.04
+     So what you want to have a feeling is when you come up, the first move is back.
+},
+{
+    504.04,511.96
+     Go ahead. Good. Do that again. So good. Now
+},
+{
+    511.96,516.96
+     show them what you shouldn't do. So what you don't want to do is a lot of athletes, what
+},
+{
+    516.96,528.76
+     they'll do is they're going to lift up first with the butt that way and then they'll come up that way. Go ahead down. So the first move is back this way and scoop up.
+},
+{
+    531.48,534.0
+     So you wanna feel like your hips, go ahead.
+},
+{
+    534.0,536.96
+     You wanna feel like your hips when they're down here,
+},
+{
+    536.96,539.96
+     that they're doing this here.
+},
+{
+    539.96,544.96
+     You're moving this way versus that way.
+},
+{
+    545.0,545.2
+     Okay, so you wanna feel almost like you're scooping, You're moving this way versus that way.
+},
+{
+    547.62,550.32
+     Okay, so you wanna feel almost like you're scooping, you're trying to get under the bar with your hips,
+},
+{
+    550.32,552.4
+     and that really forces you to sit back
+},
+{
+    552.4,555.4
+     and now you've got the whole chain working properly,
+},
+{
+    555.4,557.48
+     and this is gonna really carry over
+},
+{
+    557.48,559.44
+     into your sprinting and to your jumping.
+},
+{
+    560.36,562.4
+     So also when you're first learning
+},
+{
+    562.4,566.52
+     the semi-wide stance sumoo deadlift we do raise it up
+},
+{
+    566.52,569.5
+     This is almost inch and a half two inches here
+},
+{
+    570.0,576.0
+     Because a lot of the athletes don't have the flexibility to get their hips under to sit back and to scoop
+},
+{
+    576.28,579.28
+     So we always start athletes off like this
+},
+{
+    580.2,586.6
+     For a couple cycles get them really good with the technique and then you can drop it lower if you want.
+},
+{
+    586.6,588.76
+     So a lot of trainers ask me why,
+},
+{
+    589.76,592.0
+     you know, I don't like the trap bar
+},
+{
+    592.0,595.84
+     or why I don't do a closer, close stance
+},
+{
+    597.2,599.4
+     regular deadlift here.
+},
+{
+    599.4,601.8
+     And the thing is, is I do,
+},
+{
+    601.8,603.44
+     we do cycle it in here and there,
+},
+{
+    603.44,605.84
+     but the main lift that we stick with,
+},
+{
+    605.84,610.08
+     just because it's going to develop the posterior chain a little more effectively along with
+},
+{
+    610.08,613.96
+     like I said before the glutes and the groin and that's why we stick with mainly the Sumo
+},
+{
+    613.96,618.44
+     deadlift and the RDL as our main deadlift exercises. That being said it's important
+},
+{
+    618.44,627.56
+     to understand the trap bar and if you are going to use it. We don't use a trap bar max. We use whatever they Sumo deadlift with
+},
+{
+    627.56,629.06
+     when they go to do trap bar,
+},
+{
+    629.06,630.64
+     that's the max that we use.
+},
+{
+    630.64,635.04
+     And the reason is, is because if I use a regular trap bar max,
+},
+{
+    635.04,638.38
+     it's usually 10 to 12% more than their deadlift.
+},
+{
+    638.38,640.34
+     So if they could Sumo deadlift 400,
+},
+{
+    640.34,643.62
+     they could probably trap bar 450, 470
+},
+{
+    643.62,646.36
+     when they go to do work sets at 80%, let's say
+},
+{
+    646.36,647.36
+     four sets of five.
+},
+{
+    647.36,650.96
+     It's really like doing 90% of your regular sumo deadlift.
+},
+{
+    650.96,655.4
+     So now what happens is over training sets in and the athlete is much harder for the
+},
+{
+    655.4,657.2
+     athlete to recover week to week.
+},
+{
+    657.2,662.52
+     So that's why we stay away from doing heavy loads with the trap bar and use a sumo deadlift
+},
+{
+    662.52,670.16
+     because recovery is much better week to week. now super compensation can set in properly and this is how you can catapult the athlete up
+},
+{
+    670.16,672.16
+     rather than driving them down into the ground.
+},

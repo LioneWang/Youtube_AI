@@ -1,0 +1,64 @@
+{
+    0.0,3.0
+     Time now for the Health One Health Minute.
+},
+{
+    3.0,7.56
+     Nearly 15 million Americans have undiagnosed thyroid problems, which can lead to have normal
+},
+{
+    7.56,9.38
+     hormone production in the body.
+},
+{
+    9.38,13.96
+     The thyroid gland regulates all the metabolic processes of the body, so when it's not working
+},
+{
+    13.96,17.66
+     properly, it can have a serious impact on your health.
+},
+{
+    17.66,23.66
+     Thyroid conditions can cause fatigue, unexplained weight gain or loss, hair loss, or the inability
+},
+{
+    23.66,25.0
+     to regulate your body temperature.
+},
+{
+    25.0,31.0
+     The most important thing that you can do for your thyroid health is to talk with your doctor if you have any concerns.
+},
+{
+    31.0,35.0
+     You can also do a self check that may help you spot an enlarged thyroid gland,
+},
+{
+    35.0,38.0
+     which is typically a sign of a potential thyroid condition.
+},
+{
+    38.0,40.0
+     Look in the mirror and tip your head back.
+},
+{
+    40.0,45.14
+     Take a sip of water and as you swallow, look for any bulges or lumps that may appear.
+},
+{
+    45.14,48.42
+     You'll probably need to repeat this a few times.
+},
+{
+    48.42,52.5
+     The thyroid is located below the Adam's apple and above the collarbones.
+},
+{
+    52.5,56.18
+     If you do notice something, be sure to contact your doctor right away.
+},
+{
+    56.18,59.78
+     To learn more about your thyroid, visit rosethyroidsender.com.
+},

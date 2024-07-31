@@ -1,0 +1,120 @@
+{
+    0.0,6.08
+     Follow these tips to protect your skin from the damaging effects of sun exposure and reduce
+},
+{
+    6.08,8.28
+     your risk of skin cancer.
+},
+{
+    8.28,10.12
+     Apply sunscreen every day.
+},
+{
+    10.12,13.66
+     Skin that will not be covered by clothing needs sunscreen when you go outside, even
+},
+{
+    13.66,15.24
+     on cloudy days.
+},
+{
+    15.24,18.96
+     Reapply approximately every two hours or after swimming or sweating.
+},
+{
+    18.96,24.36
+     Use a broad spectrum sunscreen, which protects the skin against both UVA and UVB rays and
+},
+{
+    24.36,25.28
+     that has an SPF
+},
+{
+    25.28,26.92
+     of at least 30.
+},
+{
+    26.92,30.64
+     Use one ounce of sunscreen and a mount which is equal to the size of your palm.
+},
+{
+    30.64,32.56
+     Thoroughly rub the product into the skin.
+},
+{
+    32.56,37.2
+     Don't forget the top of your feet, your neck, ears, and the top of your head.
+},
+{
+    37.2,38.2
+     Seek shade.
+},
+{
+    38.2,42.4
+     Remember that the sun's rays are strongest between 10am and 2pm.
+},
+{
+    42.4,46.2
+     If your shadow is shorter than you are, seek shade.
+},
+{
+    46.2,47.84
+     Protect your skin with clothing.
+},
+{
+    47.84,53.36
+     When going outside wear a long-sleeved shirt, pants, a wide-brimmed hat, and sunglasses.
+},
+{
+    53.36,58.02
+     Use extra caution near water, sand, or snow as they reflect and intensify the damaging
+},
+{
+    58.02,61.68
+     rays of the sun, which can increase your chances of sunburn.
+},
+{
+    61.68,63.16
+     Get Vitamin D safely.
+},
+{
+    63.16,69.06
+     Eat a healthy diet that includes foods naturally rich in vitamin D or take vitamin D supplements. Do not seek the
+},
+{
+    69.06,73.1
+     sun. If you want to look tan, consider using a self tanning product, but
+},
+{
+    73.1,77.58
+     continue to use sunscreen with it. Don't use tanning beds. Just like the sun, UV
+},
+{
+    77.58,81.22
+     light from tanning beds can cause wrinkling in age spots and can lead to
+},
+{
+    81.22,88.0
+     skin cancer. Check your skin for signs of skin cancer. Your birthday is a great time to check your birthday suit.
+},
+{
+    88.0,91.0
+     Checking your skin and knowing your moles are key
+},
+{
+    91.0,95.0
+     to detecting skin cancer in its earliest, most treatable stages.
+},
+{
+    95.0,99.0
+     If you spot anything changing, growing, or bleeding,
+},
+{
+    99.0,102.0
+     see your dermatologist.
+},
+{
+    102.0,107.0
+     To find a dermatologist in your area visit aad.org.
+},

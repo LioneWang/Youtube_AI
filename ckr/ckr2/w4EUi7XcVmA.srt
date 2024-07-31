@@ -1,0 +1,128 @@
+{
+    0.0,6.72
+     Hi, Dr. O here at SpineCare in St. Joseph, Michigan.
+},
+{
+    6.72,10.62
+     In this quick video, I want to go over a common question I get from patients, which is, are
+},
+{
+    10.62,14.64
+     there any tips that can help me while trying to sleep with sciatica?
+},
+{
+    14.64,18.44
+     So in this video, I want to give some really easy positions to get into that might help
+},
+{
+    18.44,20.12
+     alleviate your pain at night.
+},
+{
+    20.12,24.08
+     Also, we're going to tackle the issue of getting up out of bed in the morning so we're not
+},
+{
+    24.08,27.0
+     causing a flare up with your sciatic nerve pain.
+},
+{
+    27.0,34.0
+     So let's get started.
+},
+{
+    34.0,39.12
+     The best position for sleeping is flat on your back while keeping your body aligned straight.
+},
+{
+    39.12,43.68
+     Put a small pillow underneath your knees to keep them bent as this will take stress off
+},
+{
+    43.68,45.16
+     the low back. For extra support, you can put a small this will take stress off the low back.
+},
+{
+    45.16,49.64
+     For extra support, you can put a small pillow underneath the curve of the low back.
+},
+{
+    49.64,53.64
+     This helps lower stress on your joints and ligaments while helping to maintain the natural
+},
+{
+    53.64,55.28
+     curve of your spine.
+},
+{
+    55.28,60.16
+     This is the ideal position for sleeping with sciatica pain.
+},
+{
+    60.16,62.64
+     Sleeping on your side would come as the second best choice.
+},
+{
+    62.64,66.08
+     You'll want your legs pulled up slightly towards your chest and a pillow between your
+},
+{
+    66.08,67.08
+     knees.
+},
+{
+    67.08,70.26
+     For extra support, you can place a pillow underneath your side.
+},
+{
+    70.26,74.82
+     This will allow the body to stay in a more natural posture and help prevent extra pressure
+},
+{
+    74.82,77.04
+     on your back, neck, and shoulders.
+},
+{
+    77.04,79.46
+     Never try to sleep on your stomach.
+},
+{
+    79.46,82.26
+     Sleeping on your stomach flattens the natural curve of the spine.
+},
+{
+    82.26,88.66
+     Also, sleeping all night with the head twisted to one side will strain the neck. If you absolutely cannot break this
+},
+{
+    88.66,92.9
+     habit, put a pillow underneath the stomach to help support the spine. In the
+},
+{
+    92.9,96.62
+     morning, our bodies are generally stiff from lying in a position for a long time.
+},
+{
+    96.62,100.9
+     So people tend to have more soreness and pain in the low back when they try to get
+},
+{
+    100.9,105.16
+     out of bed. A simple tip, avoid flexion or forward bending at
+},
+{
+    105.16,109.42
+     the waist in the morning. You can see in this demonstration I'm bending from the
+},
+{
+    109.42,113.32
+     waist and putting a lot of pressure on the joints of the low back. A better way
+},
+{
+    113.32,117.58
+     to do this is to roll over on one side then bring the legs off the side of the
+},
+{
+    117.58,None
+     bed while using your arms to slowly lift yourself up off the bed.
+},

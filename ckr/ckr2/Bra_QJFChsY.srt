@@ -1,0 +1,60 @@
+{
+    0.0,6.0
+     You know at some point in time most of us are going to incur some type of sprain or strain injury to our bodies.
+},
+{
+    6.0,12.0
+     Hi, I'm Captain Joe Bruni and what we're going to discuss and go over is how to treat a foot sprain.
+},
+{
+    12.0,20.0
+     A foot sprain is damaged to the ligaments that occurs in the arch underneath area of the foot.
+},
+{
+    20.0,27.0
+     To properly treat that area, have the patient lie down and elevate the foot to at least
+},
+{
+    27.0,35.0
+     the chest height or slightly higher to reduce blood flow. Apply some type of cold commercial
+},
+{
+    35.08,41.68
+     ice pack or ice itself to the injured area to reduce pain and swelling. If using ice
+},
+{
+    41.68,52.0
+     or cold pad, you may want to use some type of cloth material so that ice pack or that ice itself is not up against the skin which could cause a cold burn injury.
+},
+{
+    52.0,66.0
+     After 10 to 15 minutes, remove the ice and wrap the area with some type of pressure bandage to help support the foot and to reduce the pain and discomfort.
+},
+{
+    66.0,73.0
+     The pressure bandage may have to be worn for several days as the person nurses themselves back to health
+},
+{
+    73.0,81.0
+     and they try to walk on the foot as the pressure bandage will provide support to the arch area of the foot.
+},
+{
+    81.0,87.26
+     Strains and sprains can be a pretty painful experience, but with proper treatment, things
+},
+{
+    87.26,88.86
+     can go quite well.
+},
+{
+    88.86,95.12
+     After 48 hours, apply heat to the area to increase blood flow and dilate the blood vessels,
+},
+{
+    95.12,97.42
+     which will promote a faster healing time.
+},
+{
+    97.42,100.28
+     I'm Captain Joe Bruni, stay safe and we'll see you next time.
+},

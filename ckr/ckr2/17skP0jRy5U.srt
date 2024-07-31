@@ -1,0 +1,164 @@
+{
+    0.0,5.0
+     Hi, I'm Carrie Waiple, certified athletic trainer at Nationwide Children's Sports Medicine.
+},
+{
+    5.0,9.0
+     Little League elbow is a common problem that plagues young baseball throwers,
+},
+{
+    9.0,14.0
+     those especially who throw past the endurance level of the muscles of the forearm.
+},
+{
+    14.0,18.0
+     The soft tissue and the growth plates on the inside of the elbow weaken and produce pain.
+},
+{
+    18.0,22.0
+     If left untreated, this can produce damage to the joint surface.
+},
+{
+    22.0,27.3
+     When our shoulder becomes weak and tired, we tend to drop our arm when we throw,
+},
+{
+    27.3,28.88
+     like Markel just did there,
+},
+{
+    28.88,32.32
+     creating an excess force on the inside of the elbow.
+},
+{
+    32.32,34.88
+     Now when you throw in the normal overhead position,
+},
+{
+    34.88,38.08
+     that takes a lot of the force off of the inside of the elbow.
+},
+{
+    38.08,40.6
+     It's important for our arms, our core,
+},
+{
+    40.6,42.16
+     and our legs to work together
+},
+{
+    42.16,44.4
+     to reduce the fatigue on the throwing arm.
+},
+{
+    44.4,49.56
+     So some of the exercises that we do here to help prepare the elbow for throwing are elbow
+},
+{
+    49.56,51.66
+     curls, excuse me, wrist curls.
+},
+{
+    51.66,55.82
+     So in this position he's just bringing his wrist up, strengthening a lot of the muscles
+},
+{
+    55.82,57.3
+     on the inside of the elbow.
+},
+{
+    57.3,61.74
+     We can also turn the wrist over and do wrist extensions in the same position.
+},
+{
+    61.74,62.74
+     Good.
+},
+{
+    62.74,65.64
+     Now we're going to put him in a push-up position here,
+},
+{
+    65.64,69.56
+     and with his arms, core, hips, and legs engaged,
+},
+{
+    69.56,73.1
+     we're going to have him rotate side to side,
+},
+{
+    73.1,75.4
+     strengthening all of the muscles in the throwing motion
+},
+{
+    75.4,76.7
+     all at once.
+},
+{
+    76.7,77.7
+     Okay?
+},
+{
+    77.7,78.86
+     So we want him in a nice straight alignment
+},
+{
+    78.86,80.9
+     with all of those muscles engaged.
+},
+{
+    80.9,81.9
+     Beautiful.
+},
+{
+    81.9,82.9
+     Okay.
+},
+{
+    82.9,86.92
+     The next exercise is something called a dead bug. In this position
+},
+{
+    86.92,93.72
+     we want Markel on his back with his arms extended, and this position looks like a dead bug.
+},
+{
+    93.72,98.28
+     Now we're going to rotate side to side, and his core is completely engaged during this
+},
+{
+    98.28,104.0
+     exercise as it should be in the throwing motion. Good, thanks Markel. These exercises, it's
+},
+{
+    104.0,105.52
+     very important to do these
+},
+{
+    105.52,107.92
+     prior to practice, and especially during
+},
+{
+    107.92,109.0
+     your non-throwing days.
+},
+{
+    109.0,111.12
+     This helps reduce the stress on the elbow.
+},
+{
+    112.0,113.84
+     Register now for our personal best
+},
+{
+    113.84,115.6
+     injury prevention programs.
+},
+{
+    115.6,117.32
+     Click on personal best programs
+},
+{
+    117.32,119.38
+     under Find a Service or Condition.
+},

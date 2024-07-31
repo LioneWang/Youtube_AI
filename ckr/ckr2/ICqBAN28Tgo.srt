@@ -1,0 +1,68 @@
+{
+    0.0,5.72
+     For millions of Americans, spring allergies wreak havoc on their sinuses, and many use a nasal spray for relief.
+},
+{
+    5.72,12.68
+     But Dr. Alex Aguinalo-Cistrada, a Mayo Clinic allergy specialist, says most won't get as much relief from that spray as they expect.
+},
+{
+    12.68,19.6
+     When a patient comes to see me, what they refer by a primary care is that they don't know how to use their nasal sprays correctly.
+},
+{
+    19.6,21.92
+     And when you don't use a nasal spray correctly...
+},
+{
+    21.92,26.32
+     If you're spraying up into your nose, you're gonna be spraying your septum
+},
+{
+    26.32,27.76
+     or your nasal bone here.
+},
+{
+    27.76,29.72
+     The side effects of using a nasal spray
+},
+{
+    29.72,31.48
+     is actually bleeding.
+},
+{
+    31.48,33.32
+     So that's because they were using it incorrectly.
+},
+{
+    33.32,35.44
+     So what is the correct way to use nasal spray
+},
+{
+    35.44,37.8
+     so you get allergy relief without the bleeding?
+},
+{
+    37.8,40.32
+     So you have to shake it, make sure it comes out,
+},
+{
+    40.32,42.6
+     and you're gonna tilt your head down like this.
+},
+{
+    42.6,48.0
+     And what happens is most people will up like this, and that's just gonna actually just spray your bone in the nose
+},
+{
+    48.0,53.4
+     here you actually want to aim towards the ear like this spray snore slowly shake
+},
+{
+    53.4,58.72
+     it again aim towards the ear spray snore slowly for the Mayo Clinic News Network
+},
+{
+    58.72,61.48
+     I'm Ian Roth
+},

@@ -1,0 +1,76 @@
+{
+    0.0,12.0
+     First Aid Manual, Roller Bandages. Roller bandages can be used on elbows and knees
+},
+{
+    12.0,17.0
+     to support soft tissue injuries such as strains or sprains.
+},
+{
+    17.0,23.2
+     Do not apply the bandage so tightly that the circulation to the limb beyond is impaired.
+},
+{
+    23.2,25.96
+     Support the injured limb.
+},
+{
+    25.96,29.4
+     Keep the joint partially flexed.
+},
+{
+    29.4,33.88
+     Pass the bandage over and around to the outside of the joint.
+},
+{
+    33.88,37.0
+     Make one and a half turns.
+},
+{
+    37.0,41.92
+     Ensure the tail end of the bandage is fixed and the joint is covered.
+},
+{
+    41.92,47.0
+     Pass the bandage to the inner side of the limb just above the joint.
+},
+{
+    47.0,50.4
+     Make a turn around the limb.
+},
+{
+    50.4,55.04
+     Ensure the upper half of the bandage from the first turn is covered.
+},
+{
+    55.04,60.2
+     Pass the bandage from the inner side of the upper limb to just below the joint.
+},
+{
+    60.2,64.24
+     Make one diagonal turn below the elbow joint to cover the lower half of the bandaging from
+},
+{
+    64.24,67.42
+     the first straight turn.
+},
+{
+    67.42,72.36
+     Bandage diagonally above and below the joint in a figure of eight.
+},
+{
+    72.36,77.6
+     Cover about two thirds of the previous turn with each new layer of bandage.
+},
+{
+    77.6,80.8
+     Make two straight turns around the limb.
+},
+{
+    80.8,84.0
+     Secure the end of the bandage.
+},
+{
+    84.0,87.0
+     Check the circulation. Recheck every 10 minutes.
+},

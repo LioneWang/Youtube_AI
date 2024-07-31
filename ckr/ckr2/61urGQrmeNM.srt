@@ -1,0 +1,112 @@
+{
+    0.0,7.0
+     Ychydigwch yn ymddiolol.
+},
+{
+    7.0,9.5
+     Ychydigwch yn ymddiolol sy'n cyd-dwylliant yn cyd-dwylliant.
+},
+{
+    9.5,15.5
+     Mae'n gwybod yn ymddiolol yn y bodai yn ymddiolol, ac mae'n gwybod yn ymddiolol i'r gwybod a'r gwybod.
+},
+{
+    15.5,20.5
+     Ychydigwch yn ymddiolol yn ymddiolol, sy'n gwybod.
+},
+{
+    21.5,47.0
+     Mae'r gwybod yn ymddiol, ac mae'n gwybod yn ymddiolol yn gallu'n cael ei wneud o'r llwyddoedd o'r llwyddoedd yn ymddangos. Fy'r hwn yn gallu'n cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bod yn cael ei bodmdweud yma, mae'r cyfnodd yn cael ei ddweud yn cael ei ddweud.
+},
+{
+    48.0,50.0
+     Yn ymdweud yma, mae'n cael ei ddweud yn cael ei ddweud yn cael ei ddweud,
+},
+{
+    51.0,53.0
+     yn cael ei ddweud yn cael ei ddweud,
+},
+{
+    54.0,56.0
+     yn cael ei ddweud, yn cael ei ddweud,
+},
+{
+    57.0,59.0
+     yn cael ei ddweud yn cael ei ddweud,
+},
+{
+    60.0,62.0
+     yn cael ei ddweud yn cael ei ddweud,
+},
+{
+    63.0,70.48
+     yn cael ei ddweud, yn cael ei ddweud,ig a'r ddysunos, ychydig i'r ddysgu ac yn fwy o'r rhamwtig. First. As yw'r llwyddo yn fwy o'r llwyddo, mae'n ddiddordeb yn ychydig i'r gwybod yn ychydig.
+},
+{
+    71.2,76.24
+     Rhywbeth i'r llwyddo yn ymgyrch, ychydig i'r ddysgu, mae'n ddiddordeb yn ymgyrch.
+},
+{
+    78.16,81.12
+     Yn ychydig i'r llwyddo, mae'n ddiddordeb yn ychydig i'r llwyddo.
+},
+{
+    81.12,86.24
+     Yn ychydig i'r llwyddo yn ychydig o'r llwyddo, mae'n ddiddordeb yn ychydig i, y gallwch yn ymdweud o'r blynyddiad o'r ffyrdd sydd yn ymdweud o'r blynyddiad, y gallwch yn ymdweud o'r blynyddiad.
+},
+{
+    86.24,87.76
+     Felly, y gallwch yn ymdweud o'r blynyddiad.
+},
+{
+    87.76,90.56
+     Felly, y gallwch yn ymdweud o'r blynyddiad o'r blynyddiad o'r blynyddiad,
+},
+{
+    90.56,92.72
+     ac mae'n bryd i'r blynyddiad o'r blynyddiad.
+},
+{
+    92.72,95.2
+     Mae'r blynyddiad yn ymdweud o'r blynyddiad o'r blynyddiad,
+},
+{
+    95.2,98.16
+     ac mae'n blynyddiad o'r blynyddiad o'r blynyddiad a'r blynyddiad.
+},
+{
+    98.16,100.0
+     Ond, mae'r blynyddiad o'r blynyddiad o'r blynyddiad,
+},
+{
+    100.0,101.52
+     mae'n blynyddiad o'r blynyddiad.
+},
+{
+    101.52,102.8
+     Felly, mae'n blynyddiad o'r blynyddiad,
+},
+{
+    102.8,126.0
+     mae'n blynyddiad o'r blynyddiad o'r blynyddiad o'r blynyddiad, o'r blynyddiad o'rno'n gwybod i'r bod yn ymdweud o'r llwyll yma, i'ch ddweud o'r cyflwyno'n gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwybod i'r gwywl i'r cyllid ac yn ymddangos i'r cyflwyno'n gyda'r blanc o'r cotes. Rwy'n meddwl i'r cyflwyno i'r cyflwyno i'r cyflwyno.
+},
+{
+    128.0,147.0
+     Rwy'n meddwl i'r cyflwyno i'r cyflwyno. Rwy'n meddwl i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno i'r cyflwyno, yn ymdweud i'r llwythau ac yn ymdweud yna'r llwythau. Cymru 999 o 112 o'r ffordd i gael.
+},
+{
+    147.0,151.0
+     Llywodraeth eich cwrs yn ymdweud i'r llwythau ac yn ymdweud i'r llwythau.
+},
+{
+    151.0,154.0
+     Yn ymdweud i'r llwythau.
+},
+{
+    155.0,157.0
+     Fyd y fideo hwnnw wedi'i gael i chi,
+},
+{
+    157.0,None
+     fyddai'n gwybod i'r llwythau yn ambulent o'r ffordd i'r SJA.org.uk forward slash donate.
+},

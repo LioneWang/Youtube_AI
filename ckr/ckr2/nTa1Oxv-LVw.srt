@@ -1,0 +1,40 @@
+{
+    0.0,12.04
+     Have your partner support the extremity above and below the injured site.
+},
+{
+    12.04,15.4
+     In this video, we are simulating a mid forearm fracture.
+},
+{
+    15.4,25.0
+     Ensure that you have circulation, motor ability and sensation in the injured extremity. I have a radial pulse. Can you squeeze my fingers? Can you feel me touching your fingers?
+},
+{
+    25.0,26.0
+     Yeah.
+},
+{
+    26.0,30.0
+     Prepare your splint so it will properly fit the area you're going to be splinting.
+},
+{
+    30.0,34.0
+     Gently apply it to the patient's skin while minimizing movement of the extremity.
+},
+{
+    35.0,39.0
+     Using gauze or coban, secure the splint to the patient's extremity.
+},
+{
+    41.0,46.0
+     Remember to check for circulation, motor ability and sensation after the intervention.
+},
+{
+    46.0,49.0
+     Have a radio pulse. Can you wiggle your fingers?
+},
+{
+    49.0,52.0
+     Can you feel me touching your fingers? Yes.
+},

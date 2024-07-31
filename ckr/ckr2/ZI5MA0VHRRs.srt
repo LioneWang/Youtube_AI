@@ -1,0 +1,280 @@
+{
+    0.0,5.36
+     By the end of this video, you're going to know whether you have a rotator cuff problem
+},
+{
+    5.36,13.56
+     in your shoulder.
+},
+{
+    13.56,14.56
+     My name is Dr. Story.
+},
+{
+    14.56,16.4
+     I've been a chiropractor for over 23 years.
+},
+{
+    16.4,19.88
+     I'm going to give you realistic advice based on my experience.
+},
+{
+    19.88,24.16
+     If you have any questions or comments in this video, ask in the comments section below.
+},
+{
+    24.16,30.1
+     Let me know what your experience has been with rotator cuff problems. Now, the best way to find out
+},
+{
+    30.1,35.44
+     if you have a rotator cuff problem is to simply go to a doctor and have it tested. 90% of
+},
+{
+    35.44,40.56
+     all rotator cuff problems can be discovered through a good physical exam. You don't need
+},
+{
+    40.56,49.08
+     an MRI. An MRI is only necessary to determine if parts of the rotator cuff are actually torn and
+},
+{
+    49.08,51.24
+     if you're a candidate for surgery.
+},
+{
+    51.24,57.16
+     But most of the time, you can find out if a person has a rotator cuff problem very simply
+},
+{
+    57.16,58.64
+     by doing a physical exam.
+},
+{
+    58.64,62.28
+     And I'm going to give you just a little bit of tidbits that I've gained over the years
+},
+{
+    62.28,66.0
+     to teach people how to know if they have a rotator cuff problem.
+},
+{
+    66.0,74.0
+     The first is what you'll do is a test. Well, you're going to test some of the muscles. Now, the rotator cuff consists of four muscles,
+},
+{
+    74.0,85.46
+     and what you're going to do is you're going to test the strength of each one. If it causes pain when you test the strength, it's very likely that that particular muscle is causing your
+},
+{
+    85.46,86.46
+     pain.
+},
+{
+    86.46,91.44
+     So one way to test the rotator cuff, and this is the number one muscle that usually is the
+},
+{
+    91.44,95.06
+     problem, is a muscle called the super spinatus muscle.
+},
+{
+    95.06,99.24
+     So what you're going to do is you're going to put your arm out in front of you, and then
+},
+{
+    99.24,106.3
+     also put your arm out to the side of you, and you're going to go about 30 degrees out from the
+},
+{
+    106.3,107.3
+     one from the side.
+},
+{
+    107.3,114.16
+     So you put your arm up like this at 90 degrees, you're going to point your thumb up towards
+},
+{
+    114.16,115.46
+     the ceiling.
+},
+{
+    115.46,120.22
+     And what you'll do is you'll have a friend or a coworker try to push your arm down.
+},
+{
+    120.22,125.2
+     Now, you could try to do this yourself by using your other hand and pushing, but what
+},
+{
+    125.2,130.7
+     I've found is another person doing it is a little bit more specific, more sensitivity.
+},
+{
+    130.7,132.16
+     So the thing is you'll push down.
+},
+{
+    132.16,138.56
+     Now if you get pain in the top part of your shoulder, it's very likely that that is an
+},
+{
+    138.56,143.4
+     injured rotator cuff, but specifically the super spinatus.
+},
+{
+    143.4,145.98
+     Another test that you can do, because remember there's other muscles,
+},
+{
+    145.98,147.2
+     there's four muscles,
+},
+{
+    147.2,149.74
+     is to keep your hand to the side
+},
+{
+    149.74,150.86
+     and actually keep, again,
+},
+{
+    150.86,151.7
+     keep your thumb up,
+},
+{
+    151.7,154.5
+     keep your arm at 90 degrees
+},
+{
+    154.5,157.72
+     and what you'll do is you will push outward.
+},
+{
+    157.72,159.34
+     So you'll push in that direction
+},
+{
+    159.34,162.82
+     as someone uses their hand and pushes against you.
+},
+{
+    162.82,164.34
+     If that causes pain,
+},
+{
+    164.34,165.84
+     usually that will cause pain on
+},
+{
+    165.84,172.64
+     the back of the shoulder and over to the side. That is a test for the infraspinatus muscle,
+},
+{
+    172.64,178.84
+     another muscle of your rotator cuff. A third test would be to have that same position where
+},
+{
+    178.84,184.64
+     your thumb is pointing up to the sky, your arm is at 90 degrees, and you will try to
+},
+{
+    184.64,185.6
+     pull your hand towards your belly button, and you will try to pull your hand
+},
+{
+    185.6,190.56
+     towards your belly button, and you'll have someone hold against it to use resistance.
+},
+{
+    190.56,196.6
+     If that causes your pain, usually that will cause pain more in the side and the front
+},
+{
+    196.6,201.14
+     of the shoulder, and that's a muscle called the subscapularis.
+},
+{
+    201.14,204.84
+     That's another muscle of the rotator cuff.
+},
+{
+    204.84,206.56
+     Now the fourth muscle is a little bit
+},
+{
+    206.56,210.64
+     harder to test and understand, but I'm going to try to help you with this. What you'll
+},
+{
+    210.64,215.8
+     do is you'll bring your arm up into this position, very similar to that first test where it's
+},
+{
+    215.8,221.36
+     at 30 degrees, and you'll hold your arm again at 90 degrees, but this time you will try
+},
+{
+    221.36,225.2
+     to rotate the muscle in an outward direction.
+},
+{
+    225.2,231.16
+     You'll have someone put pressure against your forearm and you try to push against it.
+},
+{
+    231.16,233.88
+     That's a muscle called the teres minor.
+},
+{
+    233.88,240.36
+     Now that is the least likely muscle of the rotator cuff that's injured.
+},
+{
+    240.36,248.7
+     But if you go through these four muscles and you pass with flying colors and there's no pain when you test the muscles,
+},
+{
+    248.7,253.6
+     it's likely your shoulder problem is not caused from the rotator cuff.
+},
+{
+    253.6,264.2
+     I have other videos in my queue. You could just go to playlist and look at other videos because we have other videos regarding other conditions that can cause shoulder pain.
+},
+{
+    264.2,267.8
+     But this video is specific towards rotator cuff.
+},
+{
+    267.8,271.68
+     Again, if you have any questions you can ask in the comments section.
+},
+{
+    271.68,273.72
+     Let me know what your comments are.
+},
+{
+    273.72,277.52
+     Let me know what your experiences are with your rotator cuff and how these things were
+},
+{
+    277.52,278.92
+     tested.
+},
+{
+    278.92,280.76
+     If you like my videos, give me a thumbs up.
+},
+{
+    280.76,282.36
+     Subscribe to my channel.
+},
+{
+    282.36,287.48
+     If you can become a Patreon, that's great because then you can ask me specific questions
+},
+{
+    287.48,289.36
+     and I'll make videos just for you.
+},

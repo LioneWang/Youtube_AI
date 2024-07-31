@@ -1,0 +1,72 @@
+{
+    0.0,5.0
+     Adakah anda pernah membeli masa terlalu banyak di luar dan lupa memasukkan beberapa lok?
+},
+{
+    5.0,11.0
+     Perhubungkan perang anda selepas mengembangkan pen kerajaan atau minum kopi di diri sendiri.
+},
+{
+    11.0,16.0
+     Perang berada di kategori ke 1, 2 dan 3.
+},
+{
+    16.0,20.0
+     Untuk perang yang lebih kecil atau lebih kecil,
+},
+{
+    20.0,27.0
+     ini adalah bergantung di rumah sementara orang lain perlu dipercayai dalam keadaan medik. degree, this is treatable at home while others have to be treated in a medical facility.
+},
+{
+    27.0,32.16
+     Directly after receiving a burn, place the affected area under cool water for 10 to 15
+},
+{
+    32.16,37.56
+     minutes or until the pain eases. This is to stop the burn from spreading to the surrounding
+},
+{
+    37.56,47.6
+     area. Remove items such as rings or tight jewelry from the affected area. Do this before the swelling starts.
+},
+{
+    47.6,53.24
+     Apply a thin layer of aloe vera lotion on the burnt area to help soothe the pain and
+},
+{
+    53.24,54.76
+     promote healing.
+},
+{
+    54.76,60.2
+     Make sure the affected area is kept clean and dry to prevent infection.
+},
+{
+    60.2,67.0
+     If the burn has an open wound, clean and dress the wound like how you would for a small cut or abrasion. Jika perang ada wun yang terbuka, patut bersihkan dan menyerah wun seperti bagaimana anda akan mempunyai kata-kata atau perang.
+},
+{
+    67.0,70.0
+     Jangan menggunakan kata atau kata di wun
+},
+{
+    70.0,73.0
+     sehingga ia mungkin membuat area terbuka
+},
+{
+    73.0,76.0
+     untuk perang atau perang.
+},
+{
+    76.0,79.0
+     Video ini adalah guide untuk basic first aid.
+},
+{
+    79.0,81.0
+     Jika anda tak yakin tentang apa yang perlu dibuat,
+},
+{
+    81.0,None
+     periksa kelas medik anda dengan cepat. untuk menghubungi keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan kecil keadaan keadaan kecil keadaan keadaan kecil keadaan keadaan kecil keadaan keadaan keadaan kecil keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan keadaan ke
+},

@@ -1,0 +1,164 @@
+{
+    0.0,3.68
+     Hello, my name is Chip and I'm a paramedic instructor for the state of North Carolina.
+},
+{
+    3.68,7.12
+     And today we're going to talk about first aid treatment for a severed finger.
+},
+{
+    7.12,12.88
+     If you have to respond to someone or yourself, you lose a finger in some kind of an accident.
+},
+{
+    12.88,17.12
+     A couple things you need to take note of. Number one, we need to try to recover the finger.
+},
+{
+    17.12,19.44
+     So for demonstrated purposes, this will be our finger.
+},
+{
+    19.44,23.2
+     Let's just assume for a second that my finger is cut off.
+},
+{
+    23.2,26.14
+     Obviously the first priority is to stop the bleeding.
+},
+{
+    26.14,30.44
+     So we want to take and apply some kind of gauze or bandage directly to the site, slow
+},
+{
+    30.44,32.76
+     the bleeding down as best as possible.
+},
+{
+    32.76,36.6
+     Typically with a finger that is severed like that, there won't be a whole lot of bleeding.
+},
+{
+    36.6,41.08
+     Oftentimes the blood vessels will spasm and close up so you don't get a whole lot of bleeding.
+},
+{
+    41.08,44.2
+     One thing you need to take note of though, if you happen to see the bone, it's important
+},
+{
+    44.2,47.84
+     you don't rub the bone in because that can cause problems later on for the surgeon.
+},
+{
+    47.84,51.4
+     So again, just steady direct pressure, tape that down securely.
+},
+{
+    51.4,56.32
+     If bleeding starts to go through there, just apply more gauze and again, tape it down again.
+},
+{
+    56.32,58.64
+     Elevate it, that'll help with the bleeding control as well.
+},
+{
+    58.64,62.16
+     And obviously have the patient sit down or lie down so that they're not getting too dizzy
+},
+{
+    62.16,64.56
+     and unstable on their feet.
+},
+{
+    64.56,65.68
+     Now for the finger.
+},
+{
+    65.68,68.56
+     Of course we have gloves on during this whole ordeal.
+},
+{
+    68.56,71.76
+     With the finger we never want to touch the end that's been cut.
+},
+{
+    71.76,72.92
+     We do however want to clean it.
+},
+{
+    72.92,77.16
+     We can take some bottled water or tap water and gently rinse over it.
+},
+{
+    77.16,79.52
+     Once we do that we want to take and wrap the finger.
+},
+{
+    79.52,83.16
+     Sterile gauze or anything clean.
+},
+{
+    83.16,88.48
+     Simply want to wrap it up gently. We want to have a bag of ice.
+},
+{
+    88.48,92.32
+     That can be a cold pack of regular ice, but we never want to put the finger
+},
+{
+    92.32,95.6
+     directly on the ice because that'll cause damage and it could definitely
+},
+{
+    95.6,100.24
+     affect the way it can be reattached later. So we take the ice, put it in another
+},
+{
+    100.24,106.48
+     bag, put the finger again that's wrapped in that same bag on the ice.
+},
+{
+    106.48,109.8
+     Again, it's not touching the ice, it's got the gauze in between.
+},
+{
+    109.8,115.04
+     Zip that up and then we have a nice package to give to the folks on the ambulance, the
+},
+{
+    115.04,120.08
+     EMTs and paramedics or if you're at a hospital as far as very close to it and you don't wait,
+},
+{
+    120.08,122.6
+     you can go and just make sure you bring this with you.
+},
+{
+    122.6,126.2
+     Once you do, tell them if you can about what time the finger was cut off
+},
+{
+    126.2,128.8
+     and that you have a finger in there so they will put you as a priority
+},
+{
+    128.8,132.3
+     because there are some time limitations on reattaching that finger.
+},
+{
+    132.3,135.3
+     We want to go back to the patient to make sure the bleeding has stopped definitely
+},
+{
+    135.3,140.4
+     and if not, again, keep applying that bandage, more gauze, try to give firm pressure
+},
+{
+    140.4,143.6
+     and again make sure you call 911 if the bleeding is not controlled.
+},
+{
+    143.6,145.3
+     And that's how to treat a severed finger.
+},

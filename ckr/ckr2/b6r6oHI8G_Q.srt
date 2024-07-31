@@ -1,0 +1,124 @@
+{
+    0.0,2.0
+     So who's ever been laying in bed at night
+},
+{
+    2.0,4.5
+     and you've got a little bit of a stuffy nose
+},
+{
+    4.5,5.92
+     and you want a quick little trick?
+},
+{
+    5.92,10.6
+     Well, Dr. Ordon, as our resident ear, nose, and throat doctor,
+},
+{
+    10.6,13.52
+     I'm gonna let you give our little prescription today.
+},
+{
+    13.52,15.84
+     Okay, if you're stuffy, lying in bed,
+},
+{
+    15.84,17.6
+     this is what you need to do.
+},
+{
+    17.6,22.6
+     Take your thumb, gently press in between your brows like that,
+},
+{
+    24.4,27.64
+     then alternate with taking your tongue
+},
+{
+    27.64,30.84
+     and touching the roof of your mouth, your palate.
+},
+{
+    33.8,35.24
+     Go back to this.
+},
+{
+    37.54,39.08
+     Go back to that, now.
+},
+{
+    40.72,42.04
+     And then jump up in one leg.
+},
+{
+    42.04,45.0
+     That's for such abundance.
+},
+{
+    47.0,50.0
+     Now what this does, we have all these very intricate,
+},
+{
+    50.0,53.0
+     what we call cranial nerves that are in and around
+},
+{
+    53.0,55.0
+     the sinus as your nose, and what you're doing,
+},
+{
+    55.0,57.0
+     it's sort of like acupressure.
+},
+{
+    57.0,60.0
+     You're stimulating these cranial nerves in such a way
+},
+{
+    60.0,64.0
+     that it may have effect to open up your nasal passages.
+},
+{
+    64.0,65.4
+     Well, and you mentioned, you know,
+},
+{
+    65.4,66.8
+     acupuncture can be effective for people.
+},
+{
+    66.8,67.84
+     Well, it's sort of like acupressure.
+},
+{
+    67.84,68.68
+     It's a cool little, hey.
+},
+{
+    68.68,72.04
+     If you are stimulating certain nerves around the nose,
+},
+{
+    72.04,72.88
+     why not?
+},
+{
+    74.16,75.88
+     That was a really good demonstration.
+},
+{
+    75.88,77.2
+     Give it up for Dr. Orton, everyone.
+},
+{
+    77.2,79.28
+     It's your Mr. Ding on Today Show.
+},
+{
+    79.28,80.8
+     Head to thedoctorstv.com.
+},
+{
+    80.8,None
+     Thanks for doing it.
+},

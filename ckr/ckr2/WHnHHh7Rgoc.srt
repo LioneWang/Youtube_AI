@@ -1,0 +1,1284 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    10.96,13.16
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.16,14.48
+     Brad Heineck, physical therapist.
+},
+{
+    14.48,16.24
+     Together we are the most famous physical therapists
+},
+{
+    16.24,17.08
+     on the internet.
+},
+{
+    17.08,17.92
+     In our opinion, of course, Bob.
+},
+{
+    17.92,19.44
+     We can say that with a straight face.
+},
+{
+    19.44,22.84
+     Today we're gonna talk about upper thigh leg pain
+},
+{
+    22.84,28.0
+     from a pinched femoral nerve or from her alga peristitica.
+},
+{
+    28.0,28.84
+     That's a tough one.
+},
+{
+    28.84,31.32
+     Yeah, self, we're gonna show you a self test
+},
+{
+    31.32,33.32
+     to see which one you might have.
+},
+{
+    33.32,35.0
+     And we're gonna show you a fix.
+},
+{
+    35.0,37.12
+     That's right, how to self treat.
+},
+{
+    37.12,37.96
+     So Bob.
+},
+{
+    37.96,38.8
+     If you're new to our channel.
+},
+{
+    38.8,39.64
+     Oh, yes.
+},
+{
+    39.64,41.24
+     Please take a second to subscribe to us.
+},
+{
+    41.24,43.36
+     We provide videos on how to stay healthy, fit, pain-free
+},
+{
+    43.36,44.68
+     and we upload every day.
+},
+{
+    44.68,47.72
+     Also go to bobandbrad.com because of all the things
+},
+{
+    47.72,50.24
+     we have there, but also we always give something away.
+},
+{
+    50.24,52.12
+     Go to the giveaway section.
+},
+{
+    52.12,54.12
+     This week we're giving away, Brad, do you wanna show?
+},
+{
+    54.12,59.12
+     Large loop for exercising, hang here, you can do pull-ups
+},
+{
+    59.16,60.88
+     with assistance with them, they're wonderful,
+},
+{
+    60.88,61.84
+     I absolutely love them.
+},
+{
+    61.84,65.36
+     Yeah, go to Facebook, Bob and Brad also,
+},
+{
+    65.36,67.52
+     and it'll be pinned to the top of the page.
+},
+{
+    67.52,69.84
+     Twitter, Instagram, or TikTok,
+},
+{
+    69.84,71.56
+     and you get a 60 second version of us,
+},
+{
+    71.56,72.72
+     and what's the other one now?
+},
+{
+    72.72,75.96
+     Zin, zin, zin, I think zin.
+},
+{
+    75.96,78.16
+     Zin, well, zin, zin, zin.
+},
+{
+    78.16,79.64
+     Okay, here we go.
+},
+{
+    79.64,80.72
+     What are we talking about?
+},
+{
+    80.72,84.6
+     Upper thigh pain, leg pain, it could be numbness, tingling,
+},
+{
+    84.6,87.96
+     and it happens in this area.
+},
+{
+    87.96,91.2
+     And it can be easily from a pinched nerve.
+},
+{
+    91.2,93.12
+     But there's two nerves in that area
+},
+{
+    93.12,96.24
+     and they have different jobs they do.
+},
+{
+    96.24,99.48
+     Exactly, we're gonna tell you about that.
+},
+{
+    99.48,101.96
+     One is the femoral nerve.
+},
+{
+    101.96,105.0
+     And the other one is the lateral femoral
+},
+{
+    105.6,109.08
+     cutaneous nerve and that's, and I don't know.
+},
+{
+    109.08,111.96
+     That's just more of a sensation type of nerve.
+},
+{
+    111.96,113.16
+     Yeah, I'm gonna get to that.
+},
+{
+    113.16,114.32
+     Oh, sorry, just wait.
+},
+{
+    114.32,115.16
+     Jumping ahead.
+},
+{
+    115.16,119.04
+     Marellgia peristetica is the medical term
+},
+{
+    119.04,120.48
+     and I should have looked that up
+},
+{
+    120.48,122.92
+     to see how they came up with that.
+},
+{
+    122.92,124.04
+     You know, sometimes I do that.
+},
+{
+    124.04,126.94
+     But anyways, that's what they call it.
+},
+{
+    126.94,131.38
+     So if you're having pain, numbness, tingling here,
+},
+{
+    132.76,134.28
+     there's a difference between the two.
+},
+{
+    134.28,136.34
+     If you have femoral nerve,
+},
+{
+    136.34,139.96
+     you may have the symptoms down to the shin.
+},
+{
+    139.96,142.9
+     If you've got lateral femoral cutaneous nerve problems,
+},
+{
+    142.9,143.74
+     it probably-
+},
+{
+    143.74,144.58
+     It's gonna stick right here.
+},
+{
+    144.58,145.4
+     It's gonna stay up here. It's gonna stay up here.
+},
+{
+    145.4,148.56
+     It may refer over to the buttock area a little bit.
+},
+{
+    148.56,150.8
+     I'm gonna get Sam over here.
+},
+{
+    151.92,154.42
+     And we're gonna show you a little bit of anatomy
+},
+{
+    154.42,156.28
+     about this before we get into the treatment
+},
+{
+    156.28,157.6
+     so you understand it.
+},
+{
+    158.68,160.48
+     Oh, I'm sorry, I wanted to use this.
+},
+{
+    161.52,162.36
+     As a nerve?
+},
+{
+    162.36,163.36
+     Yep, this is a nerve.
+},
+{
+    163.36,166.24
+     And actually, because we got the yellow nerves right up here.
+},
+{
+    166.24,169.36
+     It comes from L2, L3.
+},
+{
+    169.36,170.84
+     The femoral nerve?
+},
+{
+    170.84,171.8
+     They both do.
+},
+{
+    171.8,173.16
+     They come from the same level.
+},
+{
+    173.16,175.4
+     So they both come up here and then they-
+},
+{
+    175.4,176.24
+     I can hold that.
+},
+{
+    176.24,177.92
+     Yeah, could you hold that?
+},
+{
+    177.92,179.36
+     And nerves are kind of yellow.
+},
+{
+    179.36,182.44
+     Like this is kind of close for a demonstration.
+},
+{
+    182.44,185.36
+     Comes down in front of the ilium or the pelvis.
+},
+{
+    185.36,187.0
+     Now there's some muscles in here.
+},
+{
+    187.0,188.96
+     You got the hip flexors.
+},
+{
+    188.96,190.08
+     That could be a problem.
+},
+{
+    190.08,192.2
+     And it goes through the abdominal.
+},
+{
+    192.2,197.2
+     Now the cutaneous nerve actually pierces through
+},
+{
+    198.02,200.76
+     the abdominal area and goes to the superficial.
+},
+{
+    200.76,203.48
+     Just blow the skin into that fascia area.
+},
+{
+    203.48,206.1
+     Now that particular nerve,
+},
+{
+    206.1,207.9
+     the lateral femoral cutaneous nerve
+},
+{
+    207.9,210.44
+     does not innervate any muscles.
+},
+{
+    210.44,212.8
+     So it's just for sensation.
+},
+{
+    212.8,215.48
+     So that's a key thing to remember.
+},
+{
+    215.48,218.48
+     It says innervate, it means he does not supply.
+},
+{
+    218.48,221.04
+     The muscle does not get its strength from that nerve.
+},
+{
+    221.04,224.76
+     It doesn't, that nerve does not turn on any muscles on and off.
+},
+{
+    224.76,229.42
+     But the femoral nerve, that does control the quadriceps.
+},
+{
+    229.42,231.76
+     So that's a big difference.
+},
+{
+    231.76,234.26
+     So why do they get in trouble, Brad?
+},
+{
+    234.26,235.94
+     The nerves, are they getting pinched by the muscles?
+},
+{
+    235.94,238.62
+     Right, right, they can get pinched.
+},
+{
+    238.62,241.36
+     And it could be a pinch up in the back.
+},
+{
+    241.36,244.26
+     Sure, it could be an actual disc problem.
+},
+{
+    244.26,246.88
+     Yep, a disc problem, something of that nature,
+},
+{
+    246.88,249.28
+     some scar tissue if there was an injury there.
+},
+{
+    249.28,253.76
+     Or it could be where that cutaneous nerve comes out,
+},
+{
+    253.76,255.64
+     it can be pinched right in there.
+},
+{
+    255.64,257.2
+     They have surgery for this.
+},
+{
+    257.2,258.04
+     Sure.
+},
+{
+    258.04,259.88
+     Obviously we don't want to go to there.
+},
+{
+    259.88,261.08
+     You're gonna try this first.
+},
+{
+    261.08,262.52
+     Exactly, right.
+},
+{
+    262.52,266.1
+     Now to test if you have-
+},
+{
+    266.1,268.52
+     To try to determine which one you have.
+},
+{
+    268.52,270.4
+     Right, whether you have the femoral nerve
+},
+{
+    270.4,272.96
+     or amyrologia and peristetica,
+},
+{
+    272.96,275.2
+     you do a manual muscle test to yourself.
+},
+{
+    275.2,276.6
+     It's not that hard.
+},
+{
+    276.6,278.08
+     The first thing you can do,
+},
+{
+    278.08,279.52
+     let's say this is my right leg,
+},
+{
+    279.52,281.32
+     this is where I have the symptoms,
+},
+{
+    281.32,287.54
+     and I'm gonna kick out like this and down, and you're gonna compare one leg to the other.
+},
+{
+    287.54,289.18
+     Now, if you have difficulty-
+},
+{
+    289.18,290.22
+     You've been straightening.
+},
+{
+    290.22,292.98
+     Straightening it, that's a pretty severe case.
+},
+{
+    292.98,294.58
+     You probably wanna see a doctor.
+},
+{
+    294.58,298.14
+     Yeah, and not only that, there's a slight chance
+},
+{
+    298.14,299.58
+     you could have tore the muscle too.
+},
+{
+    299.58,301.46
+     I mean, and you would have trouble with it too.
+},
+{
+    301.46,305.46
+     Right, yeah, so maybe a crossover symptoms.
+},
+{
+    305.46,310.46
+     So the next thing to do is a single leg sit to stand test.
+},
+{
+    310.46,312.92
+     You need a firm chair with arm rest.
+},
+{
+    312.92,316.36
+     And what you're gonna do is test your good leg first.
+},
+{
+    316.36,318.56
+     So I'm gonna bring this leg up.
+},
+{
+    318.56,321.3
+     I'm gonna stand up with this leg only.
+},
+{
+    321.3,323.5
+     You may need, unless you're really strong,
+},
+{
+    323.5,326.44
+     you may need and likely need to push up from here.
+},
+{
+    326.44,329.28
+     Now I can do pretty easy with both arms.
+},
+{
+    329.28,333.08
+     Now I'm gonna take one off and I can go like that.
+},
+{
+    333.08,336.36
+     Okay, I'm gonna go just to a fingertips.
+},
+{
+    336.36,339.12
+     And, oh, that's about it for me.
+},
+{
+    339.12,340.28
+     Okay?
+},
+{
+    340.28,344.72
+     Now the other leg, if I need both hands to push up
+},
+{
+    344.72,347.32
+     and I go to one hand and it's not going up,
+},
+{
+    347.32,349.78
+     it's pretty clear you got a weakness.
+},
+{
+    349.78,353.64
+     So you probably have the femoral nerve pinched.
+},
+{
+    353.64,354.48
+     Yep.
+},
+{
+    355.48,358.88
+     Now you might say, because the next thing I'm gonna say is
+},
+{
+    358.88,363.08
+     the treatment we're gonna show you is the same for both.
+},
+{
+    363.08,364.72
+     Because the treatments cross over
+},
+{
+    364.72,368.0
+     and there's no harm in doing one.
+},
+{
+    368.0,370.08
+     Cause the first one is more for the femoral nerve.
+},
+{
+    370.08,370.92
+     But-
+},
+{
+    370.92,372.92
+     And then all of them, you really wanna make sure
+},
+{
+    372.92,375.16
+     there's no pain while doing these.
+},
+{
+    375.16,377.84
+     In fact, we're hoping the pain starts going down.
+},
+{
+    377.84,379.16
+     Right, some of these, right?
+},
+{
+    379.16,381.6
+     Yeah, you should feel a decrease in that.
+},
+{
+    381.6,383.52
+     And sometimes when nerve, when you have numbness,
+},
+{
+    383.52,385.08
+     tingling, those things,
+},
+{
+    385.08,386.88
+     and the nerve starts to feel better,
+},
+{
+    386.88,389.6
+     I've had patients as well as myself say,
+},
+{
+    389.6,392.08
+     well, it feels like cold water running through now,
+},
+{
+    392.08,394.4
+     and it seems like it's getting better,
+},
+{
+    394.4,396.76
+     but it changes it for the better.
+},
+{
+    396.76,398.96
+     And sometimes it can take a while before it changes,
+},
+{
+    398.96,400.6
+     and especially if it's a stretch.
+},
+{
+    400.6,402.64
+     So it might be a couple of weeks
+},
+{
+    402.64,404.52
+     before you even notice any difference.
+},
+{
+    404.52,406.24
+     But you certainly don't want to make it worse.
+},
+{
+    406.24,407.88
+     Right, exactly.
+},
+{
+    407.88,410.96
+     While you're doing it or after you're done doing it.
+},
+{
+    410.96,412.84
+     Yeah, the afterwards is really important.
+},
+{
+    412.84,414.56
+     And not just two minutes after,
+},
+{
+    414.56,417.6
+     but the next hour or even throughout the day.
+},
+{
+    417.6,420.72
+     If the tingling gets worse after you did the exercise,
+},
+{
+    420.72,421.96
+     it's not the right thing.
+},
+{
+    421.96,423.48
+     Okay, so let's show the first one.
+},
+{
+    423.48,424.48
+     You want to show what we're gonna.
+},
+{
+    424.48,427.4
+     Extension of the mind. Now there's three options we're gonna show here.
+},
+{
+    427.4,430.04
+     So you can try all three of them
+},
+{
+    430.04,433.28
+     and then monitor if it's better or worse.
+},
+{
+    433.28,436.56
+     So now Bob has, let's say left leg,
+},
+{
+    436.56,438.08
+     numbness and tingling.
+},
+{
+    438.08,441.04
+     So I'm putting my hands right below my shoulders
+},
+{
+    441.04,442.84
+     and I'm doing a press up.
+},
+{
+    442.84,445.84
+     And now I'm not lifting up my pelvis.
+},
+{
+    445.84,447.6
+     I'm not bringing that up with it.
+},
+{
+    447.6,450.96
+     If you're really tight, sometimes it comes up like that.
+},
+{
+    450.96,455.8
+     If that's the case, just work on small micro press ups here,
+},
+{
+    455.8,460.2
+     or mini press ups, and work your way up further and further,
+},
+{
+    460.2,462.32
+     again, keeping the pelvis on the floor.
+},
+{
+    462.32,463.52
+     Now this does two things.
+},
+{
+    463.52,466.8
+     One, you're working on the back if it's a disc problem,
+},
+{
+    466.8,470.0
+     but it's also working on the hip flexors.
+},
+{
+    470.0,472.24
+     Stretching them out too.
+},
+{
+    472.24,474.4
+     So you're getting kind of two for one here.
+},
+{
+    474.4,477.08
+     And you're still getting some of that superficial muscles
+},
+{
+    477.08,478.76
+     in the abdominal for that cutaneous.
+},
+{
+    478.76,479.6
+     Right, right, yeah.
+},
+{
+    479.6,480.44
+     Yeah, you're stretching that too.
+},
+{
+    480.44,483.44
+     It really, there's really nothing go wrong with this.
+},
+{
+    483.44,488.44
+     If you happen to have spondylastesis or stenosis,
+},
+{
+    488.44,490.44
+     this one is probably not gonna be for you.
+},
+{
+    490.44,492.24
+     Yeah, and you're gonna wanna do these
+},
+{
+    492.24,493.66
+     actually not just once a day,
+},
+{
+    493.66,495.56
+     you could do these throughout the day.
+},
+{
+    495.56,496.4
+     Exactly.
+},
+{
+    496.4,497.76
+     You could do it four to six times,
+},
+{
+    497.76,499.36
+     spread out throughout the day
+},
+{
+    499.36,501.32
+     and do like a repetitions of 10.
+},
+{
+    501.32,502.16
+     Yep.
+},
+{
+    502.16,504.6
+     And see again how it responds.
+},
+{
+    504.6,508.4
+     If it makes it worse, you're gonna stop it and not do it.
+},
+{
+    508.4,511.54
+     If it seems to be helping, you're gonna continue to do it.
+},
+{
+    511.54,512.54
+     Exactly.
+},
+{
+    515.62,516.7
+     Should we go with number two?
+},
+{
+    516.7,517.66
+     Sure, sure.
+},
+{
+    517.66,519.26
+     All right.
+},
+{
+    519.26,520.7
+     Subine hip extension.
+},
+{
+    520.7,521.9
+     You wanna do it or you want me to do it?
+},
+{
+    521.9,523.26
+     Okay, good.
+},
+{
+    523.26,526.2
+     You can do this off the edge of your bed.
+},
+{
+    526.2,528.76
+     You could do it off your couch if it's a firm couch.
+},
+{
+    528.76,530.8
+     Yeah, and you want to have your shoulders
+},
+{
+    530.8,531.92
+     well onto the bed.
+},
+{
+    531.92,533.16
+     You don't want to get to the edge,
+},
+{
+    533.16,536.64
+     and except she's some beds where you kind of slide right off.
+},
+{
+    536.64,537.8
+     So I'm bringing the leg.
+},
+{
+    537.8,540.0
+     This is my involved leg, we'll say now.
+},
+{
+    540.0,542.48
+     Now my bad leg by my involved leg.
+},
+{
+    542.48,545.0
+     Yeah, because everyone, if you got a leg, it's good.
+},
+{
+    545.0,546.92
+     It's better than not having one.
+},
+{
+    546.92,549.16
+     So I'm gonna bring this leg up like this
+},
+{
+    549.16,551.08
+     because this sets the pelvis.
+},
+{
+    551.08,553.72
+     And you can actually see, if I go like this,
+},
+{
+    553.72,555.2
+     it actually pulls up.
+},
+{
+    555.2,557.52
+     So I'm really stretching that muscle here.
+},
+{
+    557.52,560.16
+     And you can actually bring your foot back
+},
+{
+    560.16,563.0
+     even a little bit more if you wanna stretch your rectus
+},
+{
+    563.0,567.84
+     for more, it's there a little bit more. So this is a real easy stretch to do.
+},
+{
+    567.84,570.56
+     You know, you can do it in the morning when you wake up.
+},
+{
+    570.56,573.44
+     And this can be done a couple of times a day too.
+},
+{
+    573.44,575.42
+     And you could hold this up to 30 seconds
+},
+{
+    575.42,578.12
+     or you can just, you know, short or burst if you want to.
+},
+{
+    578.12,580.52
+     You can do pressure on, pressure off.
+},
+{
+    580.52,582.76
+     Now, if I was in the clinic and I had someone
+},
+{
+    582.76,584.84
+     who had good results with this,
+},
+{
+    584.84,585.04
+     it's like, oh, that's doing pretty good I had someone have good results with this, it's like,
+},
+{
+    585.04,586.08
+     oh, that's doing pretty good.
+},
+{
+    586.08,589.08
+     I might even offer a little stretch,
+},
+{
+    589.08,591.04
+     gently, very gently stretch that,
+},
+{
+    591.04,594.16
+     as long as it feels clearly better.
+},
+{
+    594.16,597.08
+     The thing about this is you may wanna do it
+},
+{
+    597.08,599.48
+     on your good leg first and see how it feels,
+},
+{
+    599.48,601.68
+     and then do that involved with,
+},
+{
+    601.68,604.36
+     and compare the good to the bad,
+},
+{
+    604.36,606.4
+     and it's gonna give you a good indication
+},
+{
+    606.4,607.84
+     on if it's improving or not.
+},
+{
+    607.84,611.44
+     Yeah, to tell you right away how tight that one is.
+},
+{
+    611.44,615.04
+     It might feel tighter, or it might look tighter.
+},
+{
+    615.04,616.28
+     Exactly, Bob.
+},
+{
+    616.28,617.4
+     Should we do the last one here?
+},
+{
+    617.4,618.24
+     Sure, the kneeling?
+},
+{
+    618.24,619.32
+     Yeah, you might as well do that one too.
+},
+{
+    619.32,620.52
+     Sure.
+},
+{
+    620.52,622.8
+     So I can't remember which way should I always go.
+},
+{
+    622.8,624.08
+     This way?
+},
+{
+    624.08,627.92
+     You don't like it this, this, this, this way?
+},
+{
+    627.92,628.76
+     That do the other way.
+},
+{
+    628.76,629.6
+     I think it's easy.
+},
+{
+    629.6,630.44
+     I knew I always get it wrong.
+},
+{
+    630.44,632.72
+     It's just easier for the viewer to see.
+},
+{
+    632.72,633.9
+     There we go.
+},
+{
+    633.9,635.36
+     All right, so I'm gonna stretch.
+},
+{
+    635.36,637.64
+     This is, I'm stretching the hip flexor here.
+},
+{
+    637.64,640.2
+     So I'm keeping very good posture.
+},
+{
+    640.2,641.96
+     I can actually even use my hand
+},
+{
+    641.96,644.04
+     and push forward a little bit here like this
+},
+{
+    644.04,645.62
+     and really stretch her out.
+},
+{
+    645.62,649.8
+     So we're really stretching the same muscle groups
+},
+{
+    649.8,651.92
+     and structures, but it's a different angle
+},
+{
+    651.92,653.04
+     and sometimes it helps.
+},
+{
+    653.04,656.08
+     Yeah, and I usually definitely put a pillow down at my age
+},
+{
+    656.08,658.88
+     because it's a little rough on the floor.
+},
+{
+    658.88,660.28
+     Can you try facing the camera?
+},
+{
+    660.28,661.84
+     I wanna show them one little trick
+},
+{
+    661.84,665.32
+     that can just accelerate or modify the stretch.
+},
+{
+    666.44,668.68
+     Now for this, you gotta have a balance.
+},
+{
+    668.68,671.2
+     I'm gonna, you might wanna hold onto this just for balance.
+},
+{
+    671.2,673.92
+     Okay, actually with the other arm.
+},
+{
+    673.92,677.08
+     Because, so you do your stretch forward.
+},
+{
+    677.08,682.08
+     Now take this hand and do this.
+},
+{
+    682.08,684.36
+     There, that's the balancing.
+},
+{
+    684.36,687.22
+     If you had to, there, so he's gonna lean this way
+},
+{
+    687.22,689.04
+     and you feel a little bit more of a stretch on this.
+},
+{
+    689.04,690.06
+     Yeah, yeah, you do actually.
+},
+{
+    690.06,692.5
+     Yeah, and they say that you get a little flossing
+},
+{
+    692.5,693.34
+     with that nerve.
+},
+{
+    693.34,694.18
+     Oh, sure.
+},
+{
+    694.18,696.9
+     With that as well, so it's always good to add on
+},
+{
+    696.9,697.9
+     if things are going good.
+},
+{
+    697.9,699.06
+     Interesting.
+},
+{
+    699.06,700.3
+     Yeah, so that's the three.
+},
+{
+    700.3,703.42
+     And again, with that one, test right to left.
+},
+{
+    703.42,704.46
+     Yep.
+},
+{
+    704.46,706.08
+     And see how things go.
+},
+{
+    706.08,707.14
+     Almost your height.
+},
+{
+    707.14,712.36
+     Wow, yeah, it is kind of neat because I'm actually,
+},
+{
+    712.36,715.6
+     that must be how you are when you're standing together.
+},
+{
+    715.6,716.44
+     It must be how you are.
+},
+{
+    716.44,717.56
+     We're pretty close right here.
+},
+{
+    717.56,718.4
+     Yeah.
+},
+{
+    718.4,719.24
+     That's weird.
+},
+{
+    719.24,721.12
+     Yeah, we're getting off on another subject.
+},
+{
+    721.12,722.68
+     Good luck with this stretch.
+},
+{
+    722.68,724.12
+     You know, all three of those stretches.
+},
+{
+    724.12,726.44
+     Do the one that works best and get rid of that.
+},
+{
+    726.44,728.36
+     And I'm just tingling and pain.
+},
+{
+    728.36,None
+     Thanks for watching. you
+},

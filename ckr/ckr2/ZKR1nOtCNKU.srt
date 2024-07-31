@@ -1,0 +1,404 @@
+{
+    0.0,8.0
+     Hello everyone. My name is Dr. Scott Thompson. I am a doctor of occupational therapy and the director of clinical services here at Sabo.
+},
+{
+    8.0,14.0
+     Today I'm going to be showing you the best stroke recovery hand exercises, Stage 1.
+},
+{
+    14.0,24.0
+     Stage 1 exercises are for people who have just begun to be able to do movements with their hand, wrist and forearm.
+},
+{
+    24.0,26.86
+     But you still need to be using your unaffected limb
+},
+{
+    26.86,29.58
+     to complete movements or help it along.
+},
+{
+    29.58,31.48
+     You could be anywhere in your recovery,
+},
+{
+    31.48,34.98
+     it could be where you see just a little muscle twitch
+},
+{
+    34.98,36.94
+     all the way up to you can do,
+},
+{
+    36.94,39.28
+     let's say 75, 80% of the movement,
+},
+{
+    39.28,42.58
+     but you're still using your unaffected limb
+},
+{
+    42.58,44.18
+     to assist in some way.
+},
+{
+    46.4,51.48
+     The first exercise I want to show you is moving your wrist side to side.
+},
+{
+    51.48,58.18
+     You want to start with your hand facing down on a table and you want to move it side to
+},
+{
+    58.18,59.18
+     side.
+},
+{
+    59.18,63.28
+     But of course you're going to be using your unaffected hand to help it move.
+},
+{
+    63.28,65.72
+     The big thing that I wanna teach you is that
+},
+{
+    65.72,70.72
+     you need to work on finding how much assistance
+},
+{
+    70.74,74.62
+     you can give while still doing movement
+},
+{
+    74.62,76.64
+     with your affected limb.
+},
+{
+    76.64,79.12
+     A lot of people like to do the movement 100%.
+},
+{
+    79.12,81.52
+     They like to just pick their hand up and do this.
+},
+{
+    83.64,87.68
+     Well, you complete the movement, that's great. But the issue is that you haven't
+},
+{
+    87.68,92.08
+     worked or challenged the unaffected limb. That's the one that needs the most work.
+},
+{
+    92.72,101.84
+     So what I want to encourage you to do is practice all of these exercises by giving enough, just enough
+},
+{
+    108.68,110.92
+     enough, just enough assistance with your unaffected limb, but still doing the movement all the way through the entire range of motion.
+},
+{
+    110.92,112.32
+     See how well you can do.
+},
+{
+    112.32,115.8
+     Because the more that you do, the better your results can be.
+},
+{
+    115.8,116.8
+     All right.
+},
+{
+    116.8,119.28
+     So, wrist side to side.
+},
+{
+    119.28,126.9
+     We're going to go out, contract, keep moving, keep moving, keep moving, and to the other
+},
+{
+    126.9,131.66
+     side.
+},
+{
+    131.66,135.36
+     Now you might be able to hear that my palm is sticking to the table.
+},
+{
+    135.36,139.08
+     So one of the things I like to do is use a washcloth.
+},
+{
+    139.08,144.08
+     And whether your hand is in a fist or it's open, you can try to use the washcloth.
+},
+{
+    144.08,145.96
+     It's not going to work for everyone.
+},
+{
+    145.96,149.64
+     Sometimes you lose focus of what you're doing and focus more about trying to keep your hand
+},
+{
+    149.64,151.0
+     on the washcloth.
+},
+{
+    151.0,154.16
+     If it's distracting you or if it's not working, just get rid of it.
+},
+{
+    154.16,160.04
+     But it is a technique to help you move a little bit easier across the surface.
+},
+{
+    160.04,165.32
+     So you can put it on the washcloth and then then move to your side, and then move to the other
+},
+{
+    165.32,166.32
+     side.
+},
+{
+    166.32,170.48
+     And again, I might be moving faster or slower than you can.
+},
+{
+    170.48,176.4
+     But make sure that you're challenging yourself and making that affected limb work the entire
+},
+{
+    176.4,179.0
+     time.
+},
+{
+    179.0,182.84
+     Okay.
+},
+{
+    182.84,188.76
+     Next we want to work on wrist going up and down.
+},
+{
+    188.76,189.76
+     So we have a couple options.
+},
+{
+    189.76,194.22
+     One, I'm going to do it again on this washcloth because it's easier to do.
+},
+{
+    194.22,198.88
+     You want to have your hands in what we call a neutral position or sort of with a thumbs
+},
+{
+    198.88,210.84
+     up position. You're going to help move your wrist up and then move it down.
+},
+{
+    210.84,220.56
+     And up and back down.
+},
+{
+    220.56,228.8
+     And up and back down.
+},
+{
+    228.8,234.32
+     You can also do this if you have the ability by clasping your fingers together.
+},
+{
+    234.32,242.32
+     That helps you push and pull your wrist.
+},
+{
+    242.32,247.6
+     If you want to make it a little more difficult, you can elevate your wrist, probably not on
+},
+{
+    247.6,249.64
+     a washcloth but maybe a rolled towel.
+},
+{
+    249.64,274.0
+     You can elevate your wrist and then go down, I'm sorry, help it up and help it up.
+},
+{
+    276.0,278.0
+     Flip it over and up.
+},
+{
+    281.0,282.0
+     Two and three.
+},
+{
+    287.64,290.48
+     To give even more range of motion, you can actually drop your wrist off the edge of a table so that you have full range of motion.
+},
+{
+    290.48,292.8
+     And that'll give you the best exercise
+},
+{
+    292.8,295.68
+     or the most difficulty when you're doing these exercises.
+},
+{
+    297.2,299.66
+     Next, I wanna work on turning our hand over.
+},
+{
+    300.88,303.96
+     Most of you will probably start with your hand
+},
+{
+    303.96,306.24
+     flat on the table or in sort of a
+},
+{
+    306.24,310.32
+     neutral position with your thumb towards the ceiling. That's totally fine. We just
+},
+{
+    310.32,313.6
+     want to make sure that when we're doing this exercise and assisting with our
+},
+{
+    313.6,317.4
+     unaffected limb and only are you giving just the right amount of assistance
+},
+{
+    317.4,322.52
+     where your affected limb is still doing some of the work but you also want to be
+},
+{
+    322.52,328.8
+     making sure that you're not injuring or torquing or twisting your wrist because that can cause permanent
+},
+{
+    328.8,336.8
+     damage. So over,
+},
+{
+    352.24,357.48
+     And then we want to go over. Give him maybe a little bit of pressure up on the forearm to help rotate the forearm
+},
+{
+    357.48,358.88
+     and get your hand down.
+},
+{
+    358.88,362.88
+     Again, if you can't put your hand flat on the table, do not worry about that.
+},
+{
+    362.88,365.04
+     You'll eventually get those muscles
+},
+{
+    365.04,369.2
+     stretched out so you can do that. You don't want to force any of these exercises because
+},
+{
+    369.2,376.24
+     it's going to increase your spasticity. If your spasticity increases, stop, relax, reposition
+},
+{
+    376.24,383.44
+     yourself, and do start again. This exercise is opening and closing your hand. I'm going
+},
+{
+    383.44,389.0
+     to demonstrate it on a washcloth, but again, you do not have to use the washcloth.
+},
+{
+    389.0,391.0
+     You can do it without on a table.
+},
+{
+    391.0,396.0
+     And what I'm doing is I'm actually applying a little bit of pressure on my fingertips with my other fingers,
+},
+{
+    396.0,400.0
+     trying to help curl, and then guiding them in.
+},
+{
+    403.0,405.8
+     And again, you don't have to have a super tight fist.
+},
+{
+    405.8,410.56
+     You don't want to do this super fast because that's going to increase your spasticity.
+},
+{
+    410.56,419.64
+     And then you're going to want to put your thumb out and get your fingers to extend.
+},
+{
+    419.64,427.92
+     Sometimes you can also use washcloth to help extend your fingers. One last thing that you could do to really
+},
+{
+    427.92,433.84
+     challenge yourself is actually do endurance training for your muscles. And by doing that,
+},
+{
+    433.84,440.28
+     you will do one repetition of every one of the exercises in every direction. And that
+},
+{
+    440.28,445.24
+     will count as one set. So to show you, it would look something like this.
+},
+{
+    445.24,446.9
+     I'm gonna do it on the washcloth
+},
+{
+    446.9,448.92
+     just cause it causes less friction.
+},
+{
+    448.92,452.08
+     But remember, you don't have to do it on a washcloth.
+},
+{
+    453.72,456.02
+     So you would do side to side,
+},
+{
+    459.72,463.84
+     followed by wrist up,
+},
+{
+    503.8,505.18
+     and down, followed by closing your hand. And that's one set.
+},
+{
+    505.18,510.44
+     And I would suggest challenging yourself to do two sets, maybe three sets, maybe four
+},
+{
+    510.44,511.88
+     sets.
+},
+{
+    511.88,513.24
+     Thank you for joining me today.
+},
+{
+    513.24,515.28
+     I hope you've enjoyed these exercises.
+},
+{
+    515.28,517.72
+     And I look forward to seeing you next time.
+},
+{
+    517.72,520.2
+     Because with Sebo, there is no plateau in sight.
+},

@@ -1,0 +1,324 @@
+{
+    0.0,7.0
+     Hi guys, today we're going to look at two simple exercises that you can do for ankle pain and a nice thing is you can do them all seated at your desk.
+},
+{
+    20.0,24.0
+     So the ankle is one of the areas of the body that we spend a lot of time working on.
+},
+{
+    24.0,29.0
+     Most people that we work with have had either one or multiple ankle springs.
+},
+{
+    29.0,34.0
+     And one of the issues that we run into with ankle injuries is that most people don't really rehabilitate them very well.
+},
+{
+    34.0,40.0
+     They put the boot on, they are encroaches for a week or whatever, and then eventually they just try and walk it off.
+},
+{
+    40.0,44.0
+     And the problem with that is that there's a lot of very intricate structure within the foot and ankle,
+},
+{
+    44.0,48.62
+     and if something is not moving well or if something is impinged, a lot of problems
+},
+{
+    48.62,49.62
+     can result.
+},
+{
+    49.62,52.92
+     So we deal with a lot of people that have ankle pain and even if they don't have pain,
+},
+{
+    52.92,55.02
+     very often their ankle limits their mobility.
+},
+{
+    55.02,58.74
+     It limits their ability to squat or lunge or do other stuff or even run.
+},
+{
+    58.74,62.58
+     So I want to show you just a couple of simple ideas that you can do while seated to help
+},
+{
+    62.58,64.14
+     take care of your own ankle.
+},
+{
+    64.14,67.48
+     So I am sitting in a comfortable chair.
+},
+{
+    67.48,69.08
+     You don't have to take your socks off for this.
+},
+{
+    69.08,72.52
+     I took mine off so you can kind of see what we're doing, but you do want to get your shoe
+},
+{
+    72.52,73.52
+     off.
+},
+{
+    73.52,77.2
+     So the very first thing that we want to do is usually we want to wake up the skin.
+},
+{
+    77.2,82.64
+     So you need to reach down and basically think about your ankle as a three-dimensional object.
+},
+{
+    82.64,87.32
+     So we're just going to start off with some really light sensory stimulation of the skin and you want to make sure that you're working
+},
+{
+    87.32,92.68
+     all the way around the entire ankle joint. So make sure that you get a little bit of
+},
+{
+    92.68,97.04
+     stem around the Achilles where it comes down and attaches to your heel, the outside ankle
+},
+{
+    97.04,101.48
+     bones both above and below them, and then also the front of the foot. I like to do it
+},
+{
+    101.48,108.16
+     with two hands because it saves me some time. So 15 to 20 seconds of this should feel pretty good. Alright, so after you've
+},
+{
+    108.16,112.36
+     given it a little bit of a warm-up, what we want to go to now is a
+},
+{
+    112.36,119.32
+     very simple mobility drill in concept. The idea is that it should be simple.
+},
+{
+    119.32,121.68
+     For a lot of people it's actually more challenging than you would think, but we're
+},
+{
+    121.68,124.88
+     just going to make an ankle circle. Now the challenge with doing a good ankle
+},
+{
+    124.88,126.16
+     circle is I want you to think
+},
+{
+    126.16,132.28
+     about your ankle, not your toes, alright? So imagine that your ankle has been replaced
+},
+{
+    132.28,136.8
+     by a nice smooth cue ball from a pool table. It should be smooth and shiny, which means
+},
+{
+    136.8,141.2
+     it should be able to make a really nice clean circle. So we're going to start with the toes
+},
+{
+    141.2,147.0
+     pointed down, and you want to keep your toes as relaxed as possible so that you can again focus on the ankle
+},
+{
+    147.0,152.0
+     and you're just going to start off making very small controlled circles.
+},
+{
+    152.0,159.0
+     If you need help you can hold on to the back of your leg, either your leg some support so you can really just focus on the ankle motion.
+},
+{
+    159.0,170.44
+     Now a lot of people as they start to increase the size of the circle you'll start to see this a lot of shaking. Alright so the whole idea is to move as smoothly
+},
+{
+    170.44,175.08
+     and comfortably as possible while progressively increasing your range of
+},
+{
+    175.08,181.48
+     motion. The ankle because it deals with so much stress and so much force often
+},
+{
+    181.48,187.0
+     needs a lot of repetition. So I recommend that you do somewhere between 20 and 30 repetitions,
+},
+{
+    187.0,190.0
+     as long as you can do them without getting a lot of vibrating and shaking.
+},
+{
+    190.0,193.0
+     If there's a lot of vibrating and shaking, just decrease the range of motion a little bit
+},
+{
+    193.0,196.0
+     and keep working on the control aspect of it.
+},
+{
+    196.0,199.0
+     If there's pain, obviously, I don't want you to go into pain,
+},
+{
+    199.0,202.0
+     so I want you to reduce the range of motion and just bump up against the edge of it,
+},
+{
+    202.0,204.0
+     making sure that you keep it comfortable.
+},
+{
+    204.0,208.92
+     The second exercise we want to do is a little nerve stretch for one of the nerves that goes
+},
+{
+    208.92,209.92
+     into the ankle.
+},
+{
+    209.92,211.42
+     It's called the sural nerve.
+},
+{
+    211.42,214.28
+     And this one's interesting because it doesn't really do a lot to control the muscles but
+},
+{
+    214.28,217.56
+     it gives a lot of sensory input from the ankle to the brain.
+},
+{
+    217.56,221.6
+     And one of the issues that we run into post-injury is our brain isn't quite sure where the ankle
+},
+{
+    221.6,223.92
+     is so we'll get a little bit of instability.
+},
+{
+    223.92,228.0
+     So the exercise is pretty simple. Once again you're seated seated, and I want you to start off nice and tall,
+},
+{
+    228.0,233.0
+     and you're going to get your foot out and leg out in front of you as if you're going to do a hamstring stretch.
+},
+{
+    233.0,237.0
+     So your knee is going to be locked back, not hard, but kind of a soft lock here.
+},
+{
+    237.0,241.0
+     In our two basic foot positions, we want to pull our toes up toward the knee,
+},
+{
+    241.0,250.64
+     and then we want to turn our foot in. All right, we're going to bring our, again, toes up to the knee and then we want to turn our foot in. All right, we're going to bring our again toes up to the knee, turn the foot in at the ankle. Once you have this position with your spine, you're going
+},
+{
+    250.64,256.08
+     to lean forward until you start to feel a stretch and very often you'll actually feel a sensation on
+},
+{
+    256.08,261.68
+     the outside part of your ankle going into your foot. You want to keep that sensation about a three out
+},
+{
+    261.68,268.64
+     of ten intensity level. Don't overstretch this. So again, we're going to pull up pull in. Now we're going to need that little bit of stretch.
+},
+{
+    268.64,272.5
+     Once you have that stretch and you can feel it going into the ankle, you're going to bend your knee,
+},
+{
+    273.04,276.6
+     take a little bit of tension off, straighten your knee, put the tension back on.
+},
+{
+    277.0,281.24
+     I just want you to do that four or five times until it starts to feel a little bit more free.
+},
+{
+    281.24,284.12
+     If it feels more free, you can bring your trunk forward more.
+},
+{
+    287.88,291.08
+     You can pull your toes up a little bit more. You can turn your foot in a little bit more and just repeat that. We'd like to have people do
+},
+{
+    291.08,294.84
+     maybe four or five little knee pumps and then readjust their position and then
+},
+{
+    294.84,298.64
+     come out of it. Now what I recommend, like I said, is you're going to do quite a
+},
+{
+    298.64,303.12
+     few ankle circles. Then I would like you to do a little bit of a nerve stretch and
+},
+{
+    303.12,306.72
+     then go back and finish up with a few more ankle circles.
+},
+{
+    306.72,311.24
+     Very often what you'll figure out is after you do the nerve stretch, your ankle is actually
+},
+{
+    311.24,312.6
+     in a little bit better shape.
+},
+{
+    312.6,316.4
+     You can control a little bit more and some of the shaking will have gone away.
+},
+{
+    316.4,318.52
+     So that's it.
+},
+{
+    318.52,321.8
+     Your basics are ankle circles, thinking about making sure you've got a cue ball in there,
+},
+{
+    321.8,323.36
+     it's nice and smooth.
+},
+{
+    323.36,329.68
+     Do 20 to 30 repetitions in each direction, then do a little bit of this nerve stretch, and then repeat and finish up with a
+},
+{
+    329.68,334.16
+     few ankle circles. If you can do that a couple times a day, your ankle is going to feel amazing.
+},
+{
+    334.16,336.4
+     So give it a shot if you have any questions, let us know.
+},
+{
+    347.64,351.88
+     Our 9S athletic development model. We spend a lot of time improving their eyes, their inner ear, and their movement technique
+},
+{
+    351.88,356.04
+     in all of these areas because as an exercise pro, in terms of lowering their stress, that's
+},
+{
+    356.04,357.52
+     one of the very best things that you can do.
+},

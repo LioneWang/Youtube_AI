@@ -1,0 +1,260 @@
+{
+    0.0,12.0
+     Combat Application Tourniquet or CAT. Two-handed application.
+},
+{
+    12.0,25.52
+     In life-threatening situations, the items in this bleeding control kit are designed to provide you with simple yet essential medical equipment to stop severe bleeding.
+},
+{
+    26.56,30.0
+     Empower anyone to assist in life-threatening situations.
+},
+{
+    30.72,36.16
+     Now you can easily prepare yourself for the unexpected. Lives are depending on it.
+},
+{
+    37.12,48.0
+     Gloves should be worn during the application. To begin, remove the cat from the bleeding control kit, for best results expose the skin where the wound is located.
+},
+{
+    48.0,54.0
+     For this two-handed application, pull the band out of the cat buckle.
+},
+{
+    54.0,58.0
+     Route the band around the limb.
+},
+{
+    58.0,66.0
+     Position the cat 2-3 inches above the bleeding site applied directly to the skin.
+},
+{
+    68.48,69.84
+     Pass the red tip through the slit of the buckle.
+},
+{
+    74.96,81.6
+     Pull the band tightly and fasten it back on itself all the way around the limb, but not over the rod clips. The band should be tight enough that the tips of three fingers
+},
+{
+    81.6,92.04
+     cannot slide between the band and the limb. If the tips of three fingers slide under the band, retighten and resecure.
+},
+{
+    92.04,95.96
+     Twist the rod until the bleeding has stopped.
+},
+{
+    95.96,100.4
+     Secure the rod inside a clip to lock it in place.
+},
+{
+    100.4,103.08
+     Check for bleeding and distal pulse.
+},
+{
+    103.08,106.24
+     If bleeding is not controlled or distal pulse is present,
+},
+{
+    106.24,112.64
+     consider additional tightening or applying a second cat above and side-by-side to the first.
+},
+{
+    112.64,114.28
+     Reassess.
+},
+{
+    114.28,118.08
+     Secure rod and band with time strap.
+},
+{
+    118.08,126.72
+     Record time of application on the time strap with the permanent marker included in the kit.
+},
+{
+    129.28,131.4
+     Assure the patient that help is on the way.
+},
+{
+    136.04,138.32
+     Combat application tourniquet, cat, one handed application.
+},
+{
+    142.8,149.72
+     Insert the injured limb through the loop in the band and position the cat two to three inches above the bleeding site directly to the skin. Pull the band tightly.
+},
+{
+    149.72,155.4
+     Fasten it back onto itself all the way around the limb but not over the rod
+},
+{
+    155.4,161.12
+     clips. The band should be tight enough that the tips of three fingers cannot
+},
+{
+    161.12,171.38
+     slide between the band and the limb. If the tips of the three fingers slide under the band, retighten and resecure.
+},
+{
+    171.38,175.56
+     Twist the rod until bleeding has stopped.
+},
+{
+    175.56,179.9
+     Secure the rod inside a clip to lock it in place.
+},
+{
+    179.9,182.24
+     Check for bleeding and distal pulse.
+},
+{
+    182.24,185.44
+     If bleeding is not controlled or distal pulse is present,
+},
+{
+    185.44,187.24
+     consider additional tightening
+},
+{
+    187.24,190.84
+     or applying a second cat above and side by side
+},
+{
+    190.84,192.28
+     to the first.
+},
+{
+    192.28,194.12
+     Reassess.
+},
+{
+    194.12,197.92
+     Route the band between the clips and over the rod.
+},
+{
+    204.7,210.12
+     Secure rod and band with TimeStrap.
+},
+{
+    210.12,215.4
+     If Able, record time of application on the TimeStrap with the permanent marker included
+},
+{
+    215.4,220.52
+     in the kit.
+},
+{
+    220.52,222.4
+     Combat application tourniquet.
+},
+{
+    222.4,226.0
+     Cat, storing the cat in the quick launch configuration.
+},
+{
+    229.0,231.0
+     Take the band out of the buckle.
+},
+{
+    231.0,236.0
+     Ensure the rod is not secured in the clip and all turns of the rod are removed.
+},
+{
+    238.0,243.0
+     Stretch out the band twice, horizontally, like an archer, to straighten it out.
+},
+{
+    247.0,252.0
+     like an archer to straighten it out. Pass the red tip through the slit in the buckle.
+},
+{
+    252.0,256.0
+     Pull eight inches of the band through.
+},
+{
+    256.0,260.0
+     Fold it back and adhere the band to itself.
+},
+{
+    260.0,262.0
+     Flatten the loop band.
+},
+{
+    262.0,266.48
+     Place the buckle in the middle of the flattened band.
+},
+{
+    266.48,271.88
+     Fold the cat in half, placing the buckle at one end.
+},
+{
+    271.88,276.96
+     Secure the rod inside a clip to lock it in place.
+},
+{
+    276.96,281.52
+     The cat is now ready to be used for future training.
+},
+{
+    284.64,285.8
+     These are some important points to remember. training.
+},
+{
+    285.8,289.24
+     These are some important points to remember.
+},
+{
+    289.24,294.1
+     Never place a tourniquet over a joint, such as a knee or elbow.
+},
+{
+    294.1,296.96
+     The tourniquet can be applied over clothing.
+},
+{
+    296.96,301.56
+     If the sight of the bleeding is not readily apparent, place the tourniquet high and tight,
+},
+{
+    301.56,305.56
+     as proximal as possible on the injured limb.
+},
+{
+    305.56,310.0
+     Never use the turnicate over items in your clothing.
+},
+{
+    310.0,315.92
+     For larger-limbed persons, two turnicates may be used but must be applied side by side,
+},
+{
+    315.92,320.84
+     with the rods not interfering with each other.
+},
+{
+    320.84,327.0
+     Once again, the band should be tight enough that the tips of three fingers cannot slide under the band.
+},
+{
+    328.0,332.0
+     Always call 911 for emergencies.
+},
+{
+    332.0,336.0
+     Always follow device instructions for use.
+},
+{
+    336.0,340.0
+     Always follow direction of healthcare professionals present.
+},
+{
+    340.0,347.0
+     Always know the legal protections granted by applicable Good Samaritan laws.
+},
+{
+    347.0,352.0
+     Prepare anyone, anywhere to save a life.
+},

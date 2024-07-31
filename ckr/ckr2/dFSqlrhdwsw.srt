@@ -1,0 +1,104 @@
+{
+    0.0,12.92
+     Hi, I'm Dr. Smith.
+},
+{
+    12.92,18.68
+     In my practice, we examine and assess a multitude of patients with breathing problems such
+},
+{
+    18.68,23.28
+     as asthma and COPD, and we prescribe various treatments.
+},
+{
+    23.28,25.0
+     Please remove any tight clothing.
+},
+{
+    25.0,27.0
+     Remove any object from your mouth.
+},
+{
+    27.0,31.0
+     For example, gums, candies, or loose dentures.
+},
+{
+    31.0,35.0
+     It is preferable to perform the test in a seated upright position.
+},
+{
+    35.0,39.0
+     Don't lean forward and don't cross your legs or feet.
+},
+{
+    39.0,42.0
+     We're going to use a nose clip.
+},
+{
+    42.0,44.0
+     If the nostrils are not blocked,
+},
+{
+    44.0,46.08
+     it is easy to make a technical
+},
+{
+    46.08,48.08
+     error that invalidates the results.
+},
+{
+    54.56,60.08
+     Hold this parameter with both hands. Make sure your mouthpiece is inserted well into your
+},
+{
+    60.08,65.28
+     mouth beyond the teeth, and seal your lips around it, so to ensure that air cannot
+},
+{
+    65.28,67.48
+     escape from the sides of your mouth.
+},
+{
+    67.48,72.44
+     Keep your fingers away from the other end of the turbine, so that you do not block the
+},
+{
+    72.44,73.56
+     air.
+},
+{
+    73.56,79.36
+     Take a deep breath in, then blow into the mouthpiece hard and as fast as you can.
+},
+{
+    79.36,82.88
+     Pretend you are blowing up the candles on your birthday cake.
+},
+{
+    82.88,85.0
+     Keep going, keep going, keep going,
+},
+{
+    85.0,88.0
+     try to keep blowing for at least six seconds.
+},
+{
+    88.0,90.0
+     At the end, take another deep breath in.
+},
+{
+    90.0,93.0
+     Try not to cough, but if it happens, try again.
+},
+{
+    93.0,94.0
+     Switch to the best.
+},
+{
+    94.0,96.0
+     M-I-R's Pyrametry.
+},
+{
+    96.0,99.0
+     Incomparable clinical performance.
+},

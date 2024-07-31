@@ -1,0 +1,588 @@
+{
+    0.0,6.48
+     I'm Dr. Brian Ailes.
+},
+{
+    6.48,7.96
+     I've got a buddy in today.
+},
+{
+    7.96,11.52
+     His name is Dustin and he's a Blue Belt and Jiu-Jitsu.
+},
+{
+    11.52,15.96
+     He's got a near issue and we're going to check out what's going on and I think I hear
+},
+{
+    15.96,16.96
+     him now.
+},
+{
+    16.96,18.96
+     Hey buddy, how are you?
+},
+{
+    18.96,19.96
+     I'm good.
+},
+{
+    19.96,20.96
+     Come on back.
+},
+{
+    20.96,21.96
+     Let's check that out.
+},
+{
+    21.96,25.28
+     Okay, so we've got Dustin here with an active call fire
+},
+{
+    25.28,26.8
+     and I'm asking him a couple questions
+},
+{
+    26.8,29.72
+     and figure out what's going on, how long it's been,
+},
+{
+    29.72,33.32
+     and we'll move from there into the process
+},
+{
+    33.32,34.76
+     of taking care of this.
+},
+{
+    34.76,36.24
+     So I wanna know how long it's been
+},
+{
+    36.24,38.36
+     since you've had this and what happened.
+},
+{
+    38.36,39.8
+     About four to five days.
+},
+{
+    39.8,42.64
+     It's just been getting worse and worse.
+},
+{
+    42.64,44.96
+     Every time I train it keeps throbbing.
+},
+{
+    44.96,46.52
+     It's really soft right now. It's just getting getting worse and worse every time I train it keeps throbbing. It's really soft right now.
+},
+{
+    46.52,48.08
+     It's just getting bigger and bigger.
+},
+{
+    48.08,53.8
+     So the challenge is when we look at this, a lot of times there's, obviously it's going
+},
+{
+    53.8,54.8
+     to be draining the first part.
+},
+{
+    54.8,59.12
+     You want to get the fluid out of the ear and then we'll move on to what we're doing for
+},
+{
+    59.12,62.92
+     compression and when we look at the compression we're going to pick the right size disc.
+},
+{
+    62.92,67.14
+     We're going to, I'm going gonna instruct him on how to position them,
+},
+{
+    67.14,70.4
+     how to clean them, how often to take them off,
+},
+{
+    70.4,73.08
+     put them back on, and run through the process
+},
+{
+    73.08,76.08
+     of the number of days it may take and what he can expect.
+},
+{
+    76.08,79.12
+     So one of the things is a lot of times,
+},
+{
+    79.12,82.48
+     the, depending on how long it's been an issue,
+},
+{
+    82.48,84.44
+     a lot of times they're using syringes.
+},
+{
+    84.44,87.44
+     A lot of doxodospeed syringes that are very, very wide
+},
+{
+    87.44,90.06
+     in diameter, is a very wide millimeter.
+},
+{
+    90.06,93.66
+     It's not necessary if this is four days, we don't need that.
+},
+{
+    93.66,95.36
+     We can actually get away with four days,
+},
+{
+    95.36,97.5
+     we can get away with a little diabetic syringe.
+},
+{
+    97.5,102.18
+     It's a very, very small needle, not painful at all.
+},
+{
+    102.18,104.62
+     It should move the fluid out of this high volume
+},
+{
+    104.62,108.96
+     like we have, we may use two or three of these but it shouldn't be a huge deal. So it's
+},
+{
+    108.96,113.34
+     not going to be a big deal for you. We'll use it until we're done and if it's a
+},
+{
+    113.34,117.54
+     massive hematoma on the ear then we use something with a similar gauge which is
+},
+{
+    117.54,122.32
+     longer but you have more volume to pull the fluid in. So we're going to start
+},
+{
+    122.32,125.62
+     with that and take care of the ear and we'll go from there.
+},
+{
+    126.62,127.82
+     Okay, so what we're gonna do now
+},
+{
+    127.82,130.88
+     is we're gonna just sort of prep the ear for draining
+},
+{
+    130.88,132.42
+     and what we're gonna do is we're gonna clean,
+},
+{
+    132.42,133.38
+     we're gonna clean both sides,
+},
+{
+    133.38,135.48
+     we're gonna clean where we're gonna drain,
+},
+{
+    135.48,137.58
+     but you wanna clean everything.
+},
+{
+    137.58,138.72
+     You wanna clean the fingers,
+},
+{
+    138.72,140.7
+     you wanna have gloves on like I do,
+},
+{
+    140.7,143.58
+     you wanna get the back, you wanna get the front,
+},
+{
+    143.58,146.48
+     and you wanna figure out exactly
+},
+{
+    146.48,152.96
+     where you're going to sort of make your sight for aspirating this fluid out.
+},
+{
+    152.96,156.04
+     And so once we have that done, we can move on.
+},
+{
+    156.04,157.84
+     So it's pretty much clean and ready to go.
+},
+{
+    157.84,159.6
+     There you go.
+},
+{
+    159.6,165.16
+     So we bypassed the draining of this year, so we're going to go over giving Dustin instruction on actually what to do in the morning and this ear. So we're gonna we're gonna go over giving a destined
+},
+{
+    165.16,169.78
+     instruction on actually what to do in the morning and at night. So when you're
+},
+{
+    169.78,173.96
+     using these discs it's compression 24-7 if at all possible. We're wearing it at
+},
+{
+    173.96,178.28
+     night but you want to take these off in the morning, clean them, you want to clean
+},
+{
+    178.28,181.44
+     the ear, you want to take them off in the evening, you want to check the color of
+},
+{
+    181.44,189.3
+     the ear, you want to make sure nothing's wrong. So we're going to load some antibiotic onto the front and the back of the ear.
+},
+{
+    189.3,191.84
+     So we're going to quickly throw this on.
+},
+{
+    191.84,197.44
+     And this is something that everyone who uses this system is going to have to use a couple
+},
+{
+    197.44,201.12
+     times a day minimum because you want to be able to slide these discs.
+},
+{
+    201.12,210.08
+     So once this stuff's loaded, you're taking it, putting it on there, and you want to be pretty liberal with it. You can use aqua for once the risk of infection is
+},
+{
+    210.08,214.96
+     down, but for now we're using an antibiotic. And I'm going to clean that off and we're going to take
+},
+{
+    215.52,221.52
+     two of the medium discs. So when we're looking at these, these guys are cleaned and we're going to
+},
+{
+    221.52,225.08
+     throw one on the front, one on the back. What happens is this happens every morning.
+},
+{
+    225.08,232.08
+     These get cleaned, the ear gets cleaned, and then we load these on. And what happens, what's really important is that when
+},
+{
+    233.0,235.0
+     when he's using these
+},
+{
+    235.08,239.52
+     during the day, about every hour, every two hours, you want to sort of slide these over,
+},
+{
+    240.12,244.56
+     move them down a little bit on the ear, let them rest there. Because with the hematoma,
+},
+{
+    244.56,246.16
+     it's a larger area.
+},
+{
+    246.16,247.96
+     Sometimes they're small, even if it's small.
+},
+{
+    247.96,250.56
+     You want to take the pressure and distribute it
+},
+{
+    250.56,253.28
+     over different areas over a period of time.
+},
+{
+    253.28,255.66
+     So it doesn't stay stagnant in one spot.
+},
+{
+    255.66,258.16
+     So I can slide them here and they're gonna stay.
+},
+{
+    258.16,260.64
+     I can slide them back up here and they're gonna stay.
+},
+{
+    260.64,263.0
+     That's really it, just from one position to another,
+},
+{
+    263.0,265.36
+     maybe every one to two hours. So let's say he's gone through the morning, gone through the day. It's really just from one position to another, maybe every one to two hours.
+},
+{
+    265.36,269.12
+     So let's say he's gone through the morning, gone through the day, it's getting a little
+},
+{
+    269.12,273.12
+     irritated because cauliflower is a little bit irritating, but it's not too bad. It's
+},
+{
+    273.12,279.64
+     just moving these should feel relieving. So once this happens, evening comes, he's ready
+},
+{
+    279.64,284.44
+     to check this out. He's going to take these guys off. He's going to clean these, but he's
+},
+{
+    284.44,289.92
+     going to look at the ear, he's going to look at the tissue, look for any bruising, look for any redness,
+},
+{
+    290.56,295.76
+     something out of the ordinary. You have an injection site, usually what we did is really,
+},
+{
+    295.76,300.4
+     really small. The larger ones you do need to watch, but you look for infection, you look for
+},
+{
+    300.4,306.04
+     swelling, you look for any fluid buildup because what these discs do is they compress
+},
+{
+    306.04,312.12
+     the skin and the parrots, there's a little membrane in between those two that actually
+},
+{
+    312.12,314.16
+     has a blood flow, those have to be adhered.
+},
+{
+    314.16,319.44
+     So if you get a little accumulation of fluid without knowing it, the whole process is sort
+},
+{
+    319.44,320.44
+     of botched.
+},
+{
+    320.44,324.8
+     Okay, so what's happening is, let's say it's AM or it's PM, he's getting ready to go to
+},
+{
+    324.8,328.8
+     bed, you want to take these guys off and you want to inspect, you actually want to inspect
+},
+{
+    328.8,333.44
+     the disc, make sure they're actually, they're actually infunctional, there's no cuts in
+},
+{
+    333.44,337.08
+     them, there's no, you know, areas where they're falling apart, which shouldn't happen unless
+},
+{
+    337.08,340.04
+     you're probably, you know, beating them up or something.
+},
+{
+    340.04,341.04
+     You want to look at the ear as well.
+},
+{
+    341.04,347.32
+     You want to look for redness, you want to look for any kind of bruising. Potentially, if these sit too long,
+},
+{
+    347.32,349.92
+     let's say you have these on for four or five days,
+},
+{
+    349.92,351.84
+     maybe the Higumatoma is already healed up
+},
+{
+    351.84,353.96
+     and these are still sitting there putting compression.
+},
+{
+    353.96,355.84
+     It can bruise if you don't move them around.
+},
+{
+    355.84,357.04
+     So that's one thing.
+},
+{
+    357.04,360.24
+     The biggest piece is to look at this area
+},
+{
+    360.24,362.36
+     and feel for any softness.
+},
+{
+    362.36,363.24
+     If there's softness there,
+},
+{
+    363.24,366.68
+     and you have the potential for any fluid within inside that ear,
+},
+{
+    366.68,369.56
+     then you actually wanna reevaluate what you're doing
+},
+{
+    369.56,371.28
+     and potentially get it drained again.
+},
+{
+    371.28,373.22
+     So what we're doing is here is giving you an example
+},
+{
+    373.22,374.68
+     of what he's gonna be using at night.
+},
+{
+    374.68,377.48
+     And this holds, you got a disc on the front
+},
+{
+    377.48,378.32
+     and a disc on the back.
+},
+{
+    378.32,381.48
+     And what happens is you just push those guys flat
+},
+{
+    381.48,383.4
+     to the head and throw the headband on.
+},
+{
+    383.4,385.12
+     You can bring it down a little bit farther,
+},
+{
+    385.12,387.72
+     but that will hold these in place as you're sleeping.
+},
+{
+    387.72,388.96
+     And so this is an absolute,
+},
+{
+    388.96,391.92
+     if you end up having this come off
+},
+{
+    391.92,395.64
+     or it's not comfortable of timing of even two hours,
+},
+{
+    395.64,396.88
+     your ears are gonna fill up again.
+},
+{
+    396.88,399.24
+     It wants to fill up no matter what.
+},
+{
+    399.24,402.6
+     So this is a really important piece of the process.
+},
+{
+    403.52,404.84
+     So to make sure you're clear,
+},
+{
+    404.84,406.06
+     when you go to
+},
+{
+    406.06,410.14
+     evaluate whether or not this thing is healed up, you want to test that out in
+},
+{
+    410.14,412.86
+     the morning, not in the evening before you go to bed because you could
+},
+{
+    412.86,415.82
+     potentially if it's not healed up you take them off. Hey this thing feels great.
+},
+{
+    415.82,418.66
+     You could fill up that night you wouldn't know it and then you're starting
+},
+{
+    418.66,422.02
+     over. So in the morning you want to take them off, things feel good, you can put
+},
+{
+    422.02,426.38
+     pressure on there, it doesn't hurt, there's no redness, there's no pain.
+},
+{
+    426.38,429.86
+     And take them off, give it a couple hours, check it again.
+},
+{
+    429.86,431.82
+     And if you start to feel a little puffiness or something,
+},
+{
+    431.82,433.58
+     you put them on for a little while longer.
+},
+{
+    433.58,435.14
+     But that's your gauge right there.
+},
+{
+    435.14,437.86
+     It should feel pain-free, should look good,
+},
+{
+    437.86,440.9
+     and should feel good, and then you're pretty much good to go.
+},
+{
+    440.9,443.34
+     That's helping him out at the final stages
+},
+{
+    443.34,444.96
+     of getting these discs off.
+},
+{
+    444.96,445.04
+     One last thing, do not train until after your ear is completely healed. So that's helping him out at the final stages of getting these discs off.
+},
+{
+    445.04,450.76
+     One last thing, do not train until after your ear is completely healed.
+},
+{
+    450.76,454.24
+     For more information, visit us on the web at colicure.com.
+},

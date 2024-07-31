@@ -1,0 +1,92 @@
+{
+    0.0,18.48
+     Hello everybody, it's Dr. Jo. Today I'm going to show you some breathing exercises to help
+},
+{
+    18.48,23.2
+     you relax, hopefully increase your oxygen levels, and maybe lower your heart rate just
+},
+{
+    23.2,28.4
+     a little bit. A great way to know if you're doing that is to use a pulse oximeter and I have a
+},
+{
+    28.4,37.8
+     nice one here that Choice and Med sent me. They're pretty simple to use. Just take
+},
+{
+    37.8,43.56
+     them out of the box, press the button, and then put them on your finger. So to
+},
+{
+    43.56,46.36
+     help you get some deep breathing will
+},
+{
+    46.36,51.88
+     increase your oxygen levels. So what I like to do is breathe in through your
+},
+{
+    51.88,57.44
+     nose for about five seconds and then breathe out through your mouth for seven
+},
+{
+    57.44,60.52
+     seconds. So you're actually blowing out more than you breathe in. So that's
+},
+{
+    60.52,70.3
+     that's getting some in and then getting all the bad stuff out. So you're just going in and then out.
+},
+{
+    74.58,81.72
+     Seven. And so as you can see my oxygen level is going up. It's at about 99%
+},
+{
+    81.72,85.46
+     pretty high heart rate right now because I'm talking a lot but
+},
+{
+    85.46,90.2
+     as I go it'll start to lower a little bit more so one more time breathing in
+},
+{
+    90.2,107.08
+     through your nose for five seconds and then out through your mouth for seven seconds.
+},
+{
+    107.08,113.64
+     And if you do that for about two or three minutes, that will help relax you a little bit, de-stress
+},
+{
+    113.64,118.68
+     you, increase those oxygen levels, which will give you a little more energy, and then lower
+},
+{
+    118.68,131.12
+     that heart rate, which will calm you as well. So one last time, five seconds in through the nose and seven
+},
+{
+    131.12,134.16
+     seconds out through the mouth.
+},
+{
+    138.2,142.72
+     I know you feel calmer already. I think I'm gonna take a nap. So if you have any
+},
+{
+    142.72,148.7
+     questions leave them in the comment section. If you'd like to check out some other videos, go to AskDrJoe.com.
+},
+{
+    148.7,153.88
+     If you're interested in purchasing the product, go to AskDrJoe.com.
+},
+{
+    153.88,156.16
+     If you liked the video, click the like button.
+},
+{
+    156.16,None
+     And remember, be safe, have fun, and I hope you feel better soon.
+},

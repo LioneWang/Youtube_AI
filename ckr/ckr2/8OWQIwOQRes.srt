@@ -1,0 +1,156 @@
+{
+    0.0,7.0
+     One in four of us are snoring culprits giving our bodies and our partners a hard time.
+},
+{
+    10.0,14.0
+     Hands up, who snores? I've been told I do.
+},
+{
+    14.0,16.0
+     It's like a chainsaw.
+},
+{
+    16.0,18.0
+     Does anyone snore here?
+},
+{
+    18.0,19.0
+     I snore.
+},
+{
+    19.0,21.0
+     What does it sound like?
+},
+{
+    23.0,28.88
+     When you go to sleep, the muscles in your throat and neck relax and go floppy.
+},
+{
+    28.88,34.44
+     This makes the airways narrow, so air has to be forced out through them, which makes
+},
+{
+    34.44,38.0
+     the soft tissues rattle and vibrate.
+},
+{
+    38.0,41.52
+     But how can we stop it?
+},
+{
+    41.52,46.08
+     Here are some top tips and some brand new and exciting research to try.
+},
+{
+    46.88,54.56
+     Top tip number one. Avoid alcohol before bedtime. Boots relaxes the muscles of the soft palate
+},
+{
+    54.56,65.0
+     and the throat causing the airways to narrow even more. Top tip number two. there's a reason why we're told to lie on our sides.
+},
+{
+    66.8,69.68
+     Well, we lie on our back, our tongue, chin,
+},
+{
+    69.68,74.0
+     and the skin and fat around here can relax and squish our airways.
+},
+{
+    75.36,78.48
+     And finally, top tip number three.
+},
+{
+    78.48,80.92
+     If your snoring comes mainly from your nose,
+},
+{
+    80.92,83.28
+     you could try this nasal strip.
+},
+{
+    83.28,85.92
+     Basically, they work by pulling your nostrils apart.
+},
+{
+    85.92,92.28
+     And if your snoring comes mainly from your mouth you could try this mouth piece.
+},
+{
+    92.28,102.96
+     But the best way to keep those airways open and stop the snoring? Strengthen your muscles.
+},
+{
+    102.96,106.12
+     A brand new study has shown that doing a simple set
+},
+{
+    106.12,113.52
+     of exercises every day can drastically reduce snoring. They have allowed us to reveal their
+},
+{
+    113.52,114.52
+     secret.
+},
+{
+    114.52,123.36
+     So, get your tongue, push it to the roof of your mouth on your hard palate and then push
+},
+{
+    123.36,124.36
+     your tongue backwards.
+},
+{
+    124.36,126.6
+     It kind of makes you want to gag a bit.
+},
+{
+    126.6,128.6
+     Does it, yeah? Can you feel it?
+},
+{
+    128.6,130.6
+     Up. Backward.
+},
+{
+    130.6,132.6
+     LAUGHTER
+},
+{
+    132.6,137.0
+     Another one is push your tongue down on your soft palate
+},
+{
+    137.0,140.4
+     and the tip of your tongue forward.
+},
+{
+    140.4,142.4
+     Oh, it's like that.
+},
+{
+    142.4,145.68
+     So it's like it's almost stretching your tongue. Show me.
+},
+{
+    146.8,149.6
+     Uh-huh, like that. Can you feel it kind of stretching? Yeah?
+},
+{
+    149.6,157.68
+     Fantastic, she's doing it! Open your mouth wide and you know the dangly bit, the uvula,
+},
+{
+    157.68,160.64
+     push it upwards and go, ah. Ah.
+},
+{
+    162.0,165.0
+     Awww!
+},
+{
+    172.0,176.0
+     For the best results, you need to do these exercises for two minutes each, three times a day. And in the study, snorkels saw improvements after three months.
+},

@@ -1,0 +1,244 @@
+{
+    0.0,21.24
+     Introducing the hyphen chest seal from North American Rescue.
+},
+{
+    21.24,25.92
+     The hyphen chest seal is a self-adhesive occlusive dressing designed specifically for use in the
+},
+{
+    25.92,30.92
+     management of casualties with penetrating chest wounds. The hyphen utilizes the latest
+},
+{
+    30.92,36.08
+     specialized adhesive technology in order to achieve and maintain a superior seal under
+},
+{
+    36.08,41.96
+     the most adverse conditions. The hyphen is supplied in a rugged, easy-to-open foil package
+},
+{
+    41.96,46.0
+     that allows for quick and effective application in extreme environments.
+},
+{
+    46.0,51.0
+     After action reviews from numerous health care professionals identified the recurrent requirement
+},
+{
+    51.0,56.0
+     for an occlusive dressing that effectively adheres to a casualties chest wall,
+},
+{
+    56.0,62.0
+     the hyphen chest seal was developed, tested, and validated through an extensive collaborative effort
+},
+{
+    62.0,70.16
+     with these providers to achieve this requirement. The hyphen chest seal meets the committee on tactical combat casualty cares,
+},
+{
+    70.16,74.56
+     current guidelines for managing all open and or sucking chest wounds.
+},
+{
+    74.56,79.12
+     A penetrating chest wound creates an opening in the chest wall
+},
+{
+    79.12,83.0
+     through which air may enter the chest cavity during the normal respiration cycle.
+},
+{
+    83.0,89.28
+     Commonly referred to as a sucking chest wound, this injury results in a condition known as
+},
+{
+    89.28,91.48
+     an open pneumothorax.
+},
+{
+    91.48,95.98
+     An open pneumothorax occurs when there is a persistent communication between the internal
+},
+{
+    95.98,100.72
+     thoracic cavity and the environment through a defect in the chest wall.
+},
+{
+    100.72,105.14
+     Though this interferes with normal physiological ventilation, it should not create a tension
+},
+{
+    105.14,110.4
+     pneumothorax as the intrathoracic pressure and the atmospheric pressure equalize across
+},
+{
+    110.4,112.34
+     the open wound.
+},
+{
+    112.34,117.38
+     A tension pneumothorax can develop with a sucking chest wound when the chest wall defect
+},
+{
+    117.38,123.32
+     creates a one-way valve in which air can be drawn into the pleural space but cannot exit.
+},
+{
+    123.32,127.92
+     Since the air cannot escape, the intrathoracic pressure increases and a life-threatening
+},
+{
+    127.92,130.72
+     tension pneumothorax can develop.
+},
+{
+    130.72,136.04
+     The initial management of an open and or sucking chest wound is to immediately apply an occlusive
+},
+{
+    136.04,140.08
+     dressing to cover the defect and secure it in place.
+},
+{
+    140.08,145.06
+     Traditionally, an occlusive dressing secured only on three sides has been used to seal
+},
+{
+    145.06,150.4
+     penetrating chest wounds to help in preventing a tension pneumothorax from developing.
+},
+{
+    150.4,155.04
+     Other types of chest dressings, some which contain pressure relief valves, are also in
+},
+{
+    155.04,159.84
+     use, but there is little clinical evidence to show that any of these, or even the traditional
+},
+{
+    159.84,164.92
+     three-sided dressings, are superior to a completely occlusive dressing placed over the wound
+},
+{
+    164.92,165.0
+     to cover the defect. resided dressings are superior to a completely occlusive dressing placed over the wound to
+},
+{
+    165.0,167.0
+     cover the defect.
+},
+{
+    167.0,172.76
+     Bleeding from the wound site, continued sweating, body hair, and other environmental contaminants
+},
+{
+    172.76,177.84
+     may significantly limit the effectiveness of adhesive devices not designed to overcome
+},
+{
+    177.84,179.92
+     these adverse conditions.
+},
+{
+    179.92,200.52
+     The hyphen chest seal was designed with superior adhesion capabilities to conquer these challenges.
+},
+{
+    200.52,205.44
+     This casualty has sustained a penetrating chest wound to his anterior chest with no exit wound.
+},
+{
+    205.88,209.54
+     His lung has collapsed and it is interfering with his ability to breathe.
+},
+{
+    210.22,213.72
+     He requires the immediate application of a hyphen chest seal.
+},
+{
+    214.64,219.4
+     These wounds are rapidly treated by applying a hyphen chest seal during expiration,
+},
+{
+    219.84,223.88
+     placing the casualty in an upright position or in the recovery position and
+},
+{
+    224.36,243.08
+     monitoring his respirations for the possible development of a tension pneumothorax.
+},
+{
+    243.08,244.08
+     Step 1.
+},
+{
+    244.08,250.96
+     Wipe any dirt and or fluid from skin with sterile gauze pad.
+},
+{
+    250.96,252.56
+     Step 2.
+},
+{
+    252.56,260.08
+     Grip large white flap and peel clear liner from dressing.
+},
+{
+    260.08,261.08
+     Step 3.
+},
+{
+    261.08,267.0
+     Place dressing on patient, adhesive side down, centered over the wound. Step 3. Place dressing on patient. Adhesive side down, centered over the wound.
+},
+{
+    267.0,273.96
+     Step 4. Peel and remove small white flap. Step 5. Firmly press dressing to skin, forming
+},
+{
+    273.96,277.72
+     an effective seal.
+},
+{
+    277.72,282.16
+     Position the casualty in either a sitting position or the lateral recumbent recovery
+},
+{
+    282.16,289.0
+     position. Because air may still enter the chest cavity through the damaged lung tissue during the normal respiratory cycle,
+},
+{
+    289.0,294.0
+     the attending medical provider continuously observes and monitors the casualty
+},
+{
+    294.0,300.0
+     for signs of progressive breathing difficulty that may indicate the development of a tension pneumothorax.
+},
+{
+    300.0,304.0
+     If the provider becomes concerned for a developing tension pneumothorax,
+},
+{
+    304.0,308.5
+     they should follow their training and established protocols to treat this condition.
+},
+{
+    308.5,313.1
+     Supporting tactical and pre-hospital healthcare professionals worldwide
+},
+{
+    313.1,317.5
+     and enhancing casualty survival by providing superior products
+},
+{
+    317.5,321.1
+     designed specifically for austere environments is our mission
+},
+{
+    321.1,None
+     and our privilege.
+},

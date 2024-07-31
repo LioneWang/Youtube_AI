@@ -1,0 +1,212 @@
+{
+    0.0,7.04
+     You can learn how to stop the bleed. The steps are simple and by learning how to stop the bleed you can save lives.
+},
+{
+    10.44,12.44
+     And stopping the bleed is all about
+},
+{
+    13.0,18.28
+     compressing. Basically we need to find a way to put pressure on that wound to make it stop bleeding.
+},
+{
+    18.84,29.0
+     If you don't have anything with you, then you're going to use direct pressure. And how would that work? Let's use our simulated leg here and let's say this is an injury that's
+},
+{
+    29.0,32.84
+     bleeding pretty heavily. I'm just going to put pressure on it with my hands. I
+},
+{
+    32.84,37.96
+     might have to straighten out my elbows. I might have to kneel on the ground. I'm
+},
+{
+    37.96,40.76
+     going to put my shoulders right over my hands and I'm going to push down fairly
+},
+{
+    40.76,49.28
+     firmly and make that bleeding stop. Most bleeding will stop just by doing this alone. Now of course once I do this I can't do anything else.
+},
+{
+    49.28,53.32
+     I can't stop compressing. I should not check to see if the bleeding has
+},
+{
+    53.32,57.52
+     stopped. If this is working I'm going to keep doing this until EMS and first
+},
+{
+    57.52,63.04
+     responders arrive. Let's say though you do have a trauma kit with you. What else
+},
+{
+    63.04,65.68
+     could you do? This is an
+},
+{
+    65.68,70.08
+     example of a trauma kit such as we issue during our stop the bleed course
+},
+{
+    70.08,74.48
+     here in UC San Diego and there are several things inside here that can
+},
+{
+    74.48,78.68
+     help you with stopping the bleed. I'm going to open this kit up and the first
+},
+{
+    78.68,89.74
+     thing we'll find inside of it is a tourniquet. You're also going to find a set of heavy gloves. You'll find a compression
+},
+{
+    89.74,102.7
+     dressing. You're going to find a packing gauze. And you'll find a marker. To use the tourniquet,
+},
+{
+    102.7,105.96
+     what we need to do is first open it up. If we simply take
+},
+{
+    105.96,110.12
+     two sides of the loop and pull, the tourniquet will open up into a nice big
+},
+{
+    110.12,115.2
+     loop. In this way we can put the tourniquet over the end of an extremity,
+},
+{
+    115.2,129.38
+     simply by putting the large extremity through the loop. Then we pull on the red strap and we snug this down
+},
+{
+    129.38,135.66
+     fairly firmly. If you make this tight at this step it gets much easier to apply
+},
+{
+    135.66,141.0
+     the tourniquet. So we'll put that on nice and tight. We'll bring the strap around
+},
+{
+    141.0,148.16
+     up to but not through the clip yet. Then we'll take the windlass rod and begin to twist it.
+},
+{
+    148.16,150.92
+     It doesn't matter which way you twist it.
+},
+{
+    150.92,153.48
+     The tourniquet will tighten.
+},
+{
+    153.48,156.92
+     Keep twisting until the bleeding stops.
+},
+{
+    156.92,158.84
+     The patient will find this uncomfortable
+},
+{
+    158.84,161.12
+     and you'll have to reassure them that this is important
+},
+{
+    161.12,163.52
+     to stop them from bleeding to death.
+},
+{
+    163.52,169.64
+     Once you have the tourniquet tight enough enough you'll allow the clip to hold the rod. You'll put
+},
+{
+    169.64,174.64
+     remaining remaining strap through the clip and then you'll take the windlass
+},
+{
+    174.64,182.16
+     strap across. We'll take our marking pen and we'll write down the time of
+},
+{
+    182.16,185.1
+     application that we put that tourniquet in.
+},
+{
+    186.04,189.36
+     Let's say you've got somebody who has bleeding from a wound
+},
+{
+    189.36,192.36
+     and it's in a place where you can't put a tourniquet on
+},
+{
+    192.36,194.26
+     or you don't have a tourniquet,
+},
+{
+    194.26,196.5
+     but you have something you can pack the wound with
+},
+{
+    196.5,198.0
+     and you can do direct pressure.
+},
+{
+    199.82,202.6
+     All right, we have our gloves on, here's our wound.
+},
+{
+    202.6,206.76
+     And what we'll do is we'll start to pack that wound with the gauze.
+},
+{
+    206.76,211.24
+     The patient won't like this, it's probably going to hurt and it is kind of icky, but
+},
+{
+    211.24,215.86
+     this will enhance the effectiveness of your direct pressure, particularly in those areas
+},
+{
+    215.86,220.32
+     that we call junctional areas, the groin, the shoulder, and the neck.
+},
+{
+    220.32,224.76
+     We'll put this in until we have that wound all filled up and we have good contact between
+},
+{
+    224.76,226.4
+     the tissue and the gauze.
+},
+{
+    226.4,231.36
+     Then we'll put the remaining gauze on top and then we'll go back to our direct pressure.
+},
+{
+    231.36,232.36
+     You're going to have your elbows straight.
+},
+{
+    232.36,235.32
+     You're going to push down as hard as you can and you're going to push down all the way
+},
+{
+    235.32,236.32
+     from your shoulders.
+},
+{
+    236.32,240.52
+     You may have to move the patient onto the ground or move them off a piece of furniture onto
+},
+{
+    240.52,246.0
+     the floor to ensure that you have enough pressure between yourself and the patient and the floor.
+},
+{
+    246.0,250.0
+     This will be very effective in stopping bleeding in those locations.
+},

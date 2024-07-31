@@ -1,0 +1,172 @@
+{
+    0.0,10.4
+     In this demonstration we will be exhibiting the correct measurement of a wound.
+},
+{
+    10.4,16.12
+     For wound measurement you will want to have a disposable paper or similar measuring device.
+},
+{
+    16.12,22.7
+     The measuring device is either a paper or plastic disposable measuring tape.
+},
+{
+    22.7,27.16
+     It is generally marked in centimeter markings with sub markings
+},
+{
+    27.16,31.96
+     in millimeters. A cotton-tipped applicator is useful for measuring depth
+},
+{
+    31.96,37.08
+     and checking for any undermining. This model demonstrates a wound. By
+},
+{
+    37.08,42.56
+     convention, the superior aspect of the wound would also usually coincide with
+},
+{
+    42.56,45.12
+     the head and the inferior aspect would be the
+},
+{
+    45.12,46.12
+     foot.
+},
+{
+    46.12,51.56
+     We measure length from a head to foot direction and width is measured from left to right or
+},
+{
+    51.56,53.6
+     right to left.
+},
+{
+    53.6,58.0
+     Depth is measured the maximum location of depth in the wound.
+},
+{
+    58.0,63.56
+     The left to right or right to left convention does not matter in terms of the documentation.
+},
+{
+    63.56,65.46
+     It is important, however, that
+},
+{
+    65.46,71.24
+     length and width are correctly measured and documented as the convention from head to
+},
+{
+    71.24,77.8
+     feet for length and left to right to width are important in being able to reproduce measurements
+},
+{
+    77.8,86.0
+     between measures. In this particular instance, we would start off by measuring the wound in the length dimension
+},
+{
+    86.0,93.0
+     where there is the maximum length of this wound of approximately 5.7 centimeters.
+},
+{
+    93.0,101.4
+     The width would then be measured at its maximum point of width, which is 2.5 centimeters.
+},
+{
+    101.4,110.14
+     The depth we then would determine by probing the wound with our cotton tipped applicator using the cotton end. We would probe all areas of the
+},
+{
+    110.14,114.78
+     wound to determine where the most depth was located. It appears to be
+},
+{
+    114.78,119.54
+     approximately in the middle of the wound. We then slide our finger down the
+},
+{
+    119.54,125.68
+     cotton tipped applicator to where it is flush with the intact skin, pinch the applicator at that
+},
+{
+    125.68,133.44
+     point and withdraw from the wound. This can then be laid over your measuring device and
+},
+{
+    133.44,141.92
+     the depth determined. In this particular instance, it appears to be 1.8 or 1.9 centimeters.
+},
+{
+    141.92,146.16
+     Once the length, width and depth of the wound has been measured, it
+},
+{
+    146.16,151.76
+     is important to then record any evidence of undermining and what the
+},
+{
+    151.76,159.08
+     dimensions of that undermining are. In determining undermining, gently probe the
+},
+{
+    159.08,164.44
+     wound with your cotton-tipped applicator circumferentially around the wound. You
+},
+{
+    164.44,167.52
+     can see that over on this side of the wound,
+},
+{
+    167.52,170.52
+     we are starting to see some undermining.
+},
+{
+    170.52,172.36
+     It appears that at this location,
+},
+{
+    172.36,176.84
+     the cotton tipped applicator slips deeper under the wound
+},
+{
+    176.84,178.44
+     than it does in any other point.
+},
+{
+    178.44,181.8
+     This would be the maximum area of undermining.
+},
+{
+    181.8,188.88
+     As you can see, by convention, the superior aspect of the wound or the head aspect
+},
+{
+    188.88,195.4
+     of the wound would be 12 o'clock. If we then progress clockwise around a clock face the area
+},
+{
+    195.4,202.56
+     of maximum undermining is approximately 10 o'clock. Similar to how we measured the depth of the wound
+},
+{
+    202.56,209.8
+     you would want to slide your finger down the cotton tipped applicator, pinch it with your nail, and then bring it up to your
+},
+{
+    209.8,211.92
+     measuring device.
+},
+{
+    211.92,219.4
+     In this particular instance, it appears that the undermining is approximately 1.7 centimeters.
+},
+{
+    219.4,226.86
+     As you will recall from the last image, the undermining is located at 10 o'clock.
+},
+{
+    226.86,231.44
+     This would be recorded as 1.7 centimeters of undermining at 10 o'clock.
+},

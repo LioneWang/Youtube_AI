@@ -1,0 +1,568 @@
+{
+    0.0,4.88
+     Hey everyone, it's Sarah with RegisterNurseRN.com and in this video I'm going to demonstrate
+},
+{
+    4.88,8.08
+     how to change an osmium pouching system.
+},
+{
+    8.08,13.92
+     In the previous video I did an NCLEX review over colosmium and ileosmium so be sure to
+},
+{
+    13.92,15.72
+     check out that video.
+},
+{
+    15.72,18.68
+     So first let's talk about the supplies you will need.
+},
+{
+    18.68,21.32
+     You will need a pouching system.
+},
+{
+    21.32,26.72
+     Here I have a one-piece pouching system and it has a skin barrier also called a wafer
+},
+{
+    26.72,33.92
+     flange and it's attached to the pouch so it comes together. Some people have the two-piece systems
+},
+{
+    33.92,39.84
+     and the skin barrier and the pouch are separate and they snap onto each other whenever you're
+},
+{
+    39.84,51.12
+     placing the system. Also what you may need that I don't have right here, you may need a barrier ring and the barrier ring will go around the stoma for extra protection in case
+},
+{
+    51.12,56.04
+     the patient is having a lot of skin breakdown from still getting onto the skin and the skin
+},
+{
+    56.04,61.44
+     barrier just isn't really protecting it. So the barrier ring would go around the stoma
+},
+{
+    61.44,65.04
+     and then you would set the skin barrier on top of that.
+},
+{
+    66.0,72.0
+     And then also with this particular system we have a clip. So be sure you get the clip if your
+},
+{
+    72.0,79.04
+     patient needs one. Some bags will velcro and that's how they close but this particular one
+},
+{
+    79.04,85.94
+     uses a clip. Another thing you will need is a measuring card and these come in the kits
+},
+{
+    85.94,91.04
+     usually and you will just be using it to measure the stoma because you will be
+},
+{
+    91.04,97.48
+     cutting around your barrier what size the stoma is so you can apply it to the
+},
+{
+    97.48,103.68
+     skin. So you'll need a pen, you will also need some ostomy scissors. These scissors
+},
+{
+    103.68,105.32
+     are special in that they're curved
+},
+{
+    105.32,106.84
+     and they have a blunt tip.
+},
+{
+    106.84,110.14
+     So you can achieve a circular cut
+},
+{
+    110.14,113.32
+     instead of a jagged cut onto the barrier.
+},
+{
+    113.32,115.88
+     And of course you will need gloves.
+},
+{
+    115.88,118.76
+     You will need some wash cloths to clean the stoma
+},
+{
+    118.76,120.76
+     and to dry it in a towel
+},
+{
+    120.76,124.44
+     just to prevent any leakage of stool onto the patient.
+},
+{
+    124.44,128.96
+     First, perform hand hygiene
+},
+{
+    128.96,146.84
+     and then you will don gloves. Then get a towel and place that on your patient to protect their gown and their skin from
+},
+{
+    146.84,150.08
+     any stool while you're changing the system.
+},
+{
+    150.08,153.64
+     And some things you want to keep in mind while doing this, you'll want to change the system
+},
+{
+    153.64,159.64
+     about every three to five days and you will empty the pouch whenever it becomes one-third
+},
+{
+    159.64,161.16
+     to halfway full.
+},
+{
+    161.16,164.84
+     And here as you can see this definitely needs to be emptied but we're changing the system
+},
+{
+    164.84,166.72
+     so it's good. And
+},
+{
+    166.72,168.84
+     while you're doing this you want to
+},
+{
+    168.84,170.72
+     allow the patient to help you as much as
+},
+{
+    170.72,172.32
+     possible because they need to become
+},
+{
+    172.32,173.92
+     independent in doing this because I'll
+},
+{
+    173.92,177.36
+     be doing it whenever they go home. Now if
+},
+{
+    177.36,179.88
+     you are a nurse who has a very sensitive
+},
+{
+    179.88,182.16
+     nose and you're bothered by odorous
+},
+{
+    182.16,186.56
+     smells and you need to be prepared for this because whenever
+},
+{
+    186.56,191.92
+     you're changing an ostomy bag there are some pungent odors. And to help with this you can maybe
+},
+{
+    191.92,198.32
+     wear a mask. I've even known some colleagues to put vapor rub around their nose before they go
+},
+{
+    198.32,205.56
+     in to change the pouch to prevent the smell and so you can have a menthol smell in your nose as you're changing it.
+},
+{
+    205.56,209.4
+     So just be aware of that and prepare beforehand.
+},
+{
+    209.4,215.36
+     So what we're going to do is we're going to remove the system and whenever you do this,
+},
+{
+    215.36,218.48
+     you want to do this when the gut is the least active because you don't want to be changing
+},
+{
+    218.48,222.4
+     this and all this stool is just coming out on you because you're going to be making a
+},
+{
+    222.4,223.92
+     huge mess.
+},
+{
+    223.92,228.34
+     So usually in the morning before breakfast, before the patient eats is the best time
+},
+{
+    228.34,232.26
+     or ask the patient because they'll know when their stoma puts out the least.
+},
+{
+    232.26,234.74
+     But if this is a brand new stoma, they may not know.
+},
+{
+    234.74,238.96
+     So what you're going to do is you're just gently going to remove the adhesive because
+},
+{
+    238.96,243.18
+     this is the one piece system and it's sticking to the skin.
+},
+{
+    243.18,246.32
+     And if you have difficulty removing it, you can use some
+},
+{
+    246.32,254.2
+     adhesive remover. Okay, so we have that off. What you're going to do is just discard this
+},
+{
+    254.2,266.82
+     appropriately. Then you're going to take your washcloth with warm water. Try not to use any soaps that have lotions,
+},
+{
+    266.82,272.9
+     powders, creams, or any alcohol containing products around the stoma or on the
+},
+{
+    272.9,278.14
+     stoma because it causes some problems. And before you do it, you want to make sure
+},
+{
+    278.14,281.78
+     you're looking around the stoma and looking for any skin breakdown like
+},
+{
+    281.78,286.0
+     extreme redness. Now as you can see in this example,
+},
+{
+    286.0,288.16
+     there is redness around the stoma.
+},
+{
+    288.16,289.16
+     This is not good.
+},
+{
+    289.16,291.88
+     And what is happening is that stool is leaking
+},
+{
+    291.88,295.2
+     probably under that skin barrier and getting onto the skin.
+},
+{
+    295.2,298.8
+     So whenever you're replacing the pouching system,
+},
+{
+    298.8,300.8
+     you may wanna use a barrier ring
+},
+{
+    300.8,304.04
+     and make sure that you're cutting the skin barrier
+},
+{
+    304.04,305.92
+     to fit the stoma appropriately
+},
+{
+    305.92,308.88
+     so it's not leaking onto the skin.
+},
+{
+    308.88,317.4
+     And what you'll do is you'll start around the skin and just gently clean the skin,
+},
+{
+    317.4,330.28
+     making sure to get any residue off, and then you will clean your stoma and the stoma is not painful to the
+},
+{
+    330.28,335.8
+     patient. Remember it's just the inside of the intestines flipped inside out so
+},
+{
+    335.8,346.52
+     it's not painful for you to clean the stoma and make sure you have it all clean.
+},
+{
+    346.52,349.24
+     Then you will pat the area dry.
+},
+{
+    349.24,355.16
+     You want this to be very dry because if it's not dry, your skin barrier is not going to
+},
+{
+    355.16,358.0
+     stick to the skin.
+},
+{
+    358.0,361.52
+     If you have a patient who has a lot of hair on the abdomen because you know hair grows
+},
+{
+    361.52,366.2
+     back, you may want to trim the hair because number
+},
+{
+    366.2,371.04
+     one it will stick better and when you remove next pouch change it is not going to wax their
+},
+{
+    371.04,379.44
+     hair off which can be very painful. So make sure you do that. Then discard your gloves
+},
+{
+    379.44,388.16
+     and perform hand hygiene and put on a new pair of gloves. Now we're going to measure our stoma using our measuring card.
+},
+{
+    388.16,392.84
+     And the reason we want to do this is because we're going to be cutting a hole on our skin
+},
+{
+    392.84,393.84
+     barrier.
+},
+{
+    393.84,398.0
+     And this is going to be going on the skin and we don't want to cut it too big.
+},
+{
+    398.0,401.88
+     We're still going to leak onto the skin or cut it too small where it will constrict the
+},
+{
+    401.88,402.88
+     stoma.
+},
+{
+    402.88,405.68
+     So we want to measure appropriately. And you'll
+},
+{
+    405.68,410.8
+     take your measuring card and you'll put it flush up against the skin and you want about a 1-8 inch
+},
+{
+    411.76,415.28
+     area around the stoma. So this right here, way too big.
+},
+{
+    417.84,426.72
+     That is too big as well. Let's try this one. And that one looks like it's perfect.
+},
+{
+    426.72,429.92
+     You have around the soma about a 1 eighth inch.
+},
+{
+    429.92,434.48
+     And look and see what it reads and it says 45 millimeters.
+},
+{
+    434.48,439.48
+     So we're going to match that up on our bag and trace it.
+},
+{
+    439.48,442.36
+     Now some skin barriers are already labeled
+},
+{
+    442.36,444.16
+     and they have a nice little outline
+},
+{
+    444.16,445.56
+     of where your measurement is.
+},
+{
+    445.56,449.8
+     Like here it already says 45mm so I don't have to trace it.
+},
+{
+    449.8,451.84
+     But sometimes skim barriers don't have that.
+},
+{
+    451.84,459.92
+     So what you would have to do is put your measuring card over it and trace where you had your
+},
+{
+    459.92,461.04
+     measurement.
+},
+{
+    461.04,465.68
+     So you would find the 45mm and you would just create a circle on the
+},
+{
+    465.68,470.04
+     barrier and then cut it out. Now I'm going to take my ostomy scissors and I'm going
+},
+{
+    470.04,514.72
+     to cut around the 45 millimeter mark. And And just go back through and make sure everything's nice and round and there's no jagged edges
+},
+{
+    514.72,519.56
+     because you don't want this to wear on the stoma or on the patient's skin.
+},
+{
+    519.56,522.58
+     And we have it and it looks good.
+},
+{
+    522.58,524.84
+     Now let's put the new pouching system on.
+},
+{
+    524.84,529.84
+     What I like to do is I like to snap my bag and make sure it's closed before I put it
+},
+{
+    529.84,532.64
+     on just in case something leaks out.
+},
+{
+    532.64,537.38
+     So this is the clip, like I said at the beginning, some Velcro.
+},
+{
+    537.38,541.92
+     These clips can be a little bit cumbersome to you, so get familiar with how to use them.
+},
+{
+    541.92,546.9
+     What you do is you take the end of it, the bag, and you just simply fold it over the
+},
+{
+    546.9,555.18
+     clip like so, and then you just press that down and it snaps in place.
+},
+{
+    555.18,557.78
+     And you have your little clip on.
+},
+{
+    557.78,563.5
+     And then you will take the backing off of your skim barrier.
+},
+{
+    563.5,565.88
+     And if you're going to place a barrier ring now would be
+},
+{
+    565.88,570.84
+     the time to do that so you place the barrier ring on it around the stoma and then you would
+},
+{
+    570.84,581.32
+     place your skin barrier your wafer flange on over the stoma.
+},
+{
+    581.32,587.52
+     And you want to make sure that it fits really good and that you smooth it around the stomach so it's sticking to the skin
+},
+{
+    589.04,591.04
+     appropriately
+},
+{
+    591.04,592.56
+     and
+},
+{
+    592.56,597.16
+     Feels very good now some things you want to keep in mind if this is a new
+},
+{
+    598.28,602.88
+     Ostomy for the patient you want to explain to them that they need to be checking their bag
+},
+{
+    603.38,606.92
+     You want to explain to them that they need to be checking their bag ever so often because it can inflate with gas
+},
+{
+    606.92,610.44
+     and they will need to do what's called burping their bag.
+},
+{
+    610.44,614.3
+     And to burp this particular bag you would take
+},
+{
+    614.3,617.78
+     off this clip and just let the air out. Now some
+},
+{
+    617.78,622.58
+     awesome bags do have a filter that allows the gas to escape
+},
+{
+    622.58,626.34
+     and prevents an odorous smell from coming out.
+},
+{
+    626.34,628.66
+     So you just have to look to see what you have
+},
+{
+    628.66,633.5
+     and just warn the patient that when they do
+},
+{
+    633.5,635.46
+     relieve the gas from their bag
+},
+{
+    635.46,638.38
+     that they may wanna make sure that no one's around
+},
+{
+    638.38,640.26
+     if someone's visiting them or something like that
+},
+{
+    640.26,642.58
+     cause it can produce an odorous smell.
+},
+{
+    642.58,647.48
+     And as the nurse, you want to be checking this as well because our patients tend to wear those big bulky
+},
+{
+    647.48,652.92
+     gowns and they can occlude you being able to see if the bag's inflate so you'll
+},
+{
+    652.92,657.28
+     have to pull the gown back and actually look at the bag. So that is how you change
+},
+{
+    657.28,661.8
+     an awesomy pouching system. Thank you so much for watching and don't forget to
+},
+{
+    661.8,665.96
+     subscribe to our channel for more videos.
+},

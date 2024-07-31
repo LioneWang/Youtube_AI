@@ -1,0 +1,168 @@
+{
+    0.0,65.8
+     Welcom i'r newydd yma yn y Cynon Mwm Ff1 Cors o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud y gallwch chi'n gwybod, yn ymweld yn ymweld yn ymweld. Yn ystod, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n gobeithio, rwy'n go'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweud o'r llwyffydd. Felly, mae'n ddweud o'r llwyffydd ffyrn yn y ddweud.
+},
+{
+    65.8,68.76
+     Mae'r llwyffydd sy'n ddweud o'r llwyffydd,
+},
+{
+    68.76,70.68
+     mae'n ddweud o'r llwyffydd yn y ddweud,
+},
+{
+    70.68,72.76
+     ac mae'n ddweud o'r llwyffydd yn y ddweud,
+},
+{
+    72.76,76.48
+     mae'n ddweud o'r llwyffydd yn y ddweud.
+},
+{
+    76.48,79.16
+     Mae'n ddweud o'r llwyffydd yn y ddweud,
+},
+{
+    79.16,81.76
+     ac mae'n ddweud o'r llwyffydd yn y ddweud.
+},
+{
+    81.76,84.52
+     Mae'n ddweud o'r llwyffydd yn y ddweud,
+},
+{
+    84.52,85.2
+     mae'n ddweud o'r llwyffydd yn y ddweud. Mae'n ddweud o'r llwyffydd yn y dwneud yn ymwneud yn ymwneud. Felly mae'n dweud yn fwy o'r ffordd sy'n dweud yn ymwneud yn ymwneud
+},
+{
+    85.2,87.2
+     ac yn ymwneud yn ymwneud.
+},
+{
+    87.2,88.24
+     Felly mae'n dweud yn ymwneud
+},
+{
+    88.24,89.52
+     i'ch gweithio'r ddweud
+},
+{
+    89.52,90.56
+     ac yn ymwneud i'r ddweud
+},
+{
+    90.56,92.0
+     yn ymwneud i'r ddweud
+},
+{
+    92.0,93.6
+     ac yn ymwneud i'ch gweithio'r ddweud
+},
+{
+    93.6,95.6
+     i'ch gweithio'r ddweud
+},
+{
+    95.6,96.96
+     i'ch gweithio'r ddweud
+},
+{
+    96.96,98.56
+     i'ch gweithio'r ddweud
+},
+{
+    98.56,99.2
+     i'ch gweithio'r ddweud.
+},
+{
+    99.2,100.16
+     Felly, yn ymwneud,
+},
+{
+    100.16,101.28
+     rwy'n ei wneud i'r ddweud
+},
+{
+    101.28,102.56
+     yn ymwneud yn ymwneud.
+},
+{
+    102.56,103.92
+     Felly, ychydig,
+},
+{
+    103.92,104.96
+     mae'r ddweud yn ymwneud
+},
+{
+    104.96,106.56
+     yn ymwneud ddweud, rwy'n gweithio'n gwneud yn yw'r wneud. Felly, mae'n gweithio'n gwneud yn yw'r wneud,
+},
+{
+    106.56,108.88
+     mae'n gweithio'n gwneud yn yw'r wneud.
+},
+{
+    108.88,111.56
+     Mae'n gwneud yn yw'r plug yn yw'r gwneud,
+},
+{
+    111.56,114.28
+     ac yn ystod y gweithio'n gwneud.
+},
+{
+    114.28,118.56
+     Felly, mae'n gweithio'n gweithio'n gweithio'n gwneud
+},
+{
+    118.56,121.56
+     ac yn yw'r gwneud yn yw'r wneud.
+},
+{
+    121.56,123.88
+     Mae'n gweithio'n gwneud yn yw'r wneud.
+},
+{
+    123.88,125.0
+     Mae'n gweithio'n gweithio. Mae'n gweithio'n gweithio'n gwneud ac mae'n gweithio'n gweithio'n gweithio'n meddwl y ddweud. Mae'n ddweudio'r ddweudio.
+},
+{
+    125.0,126.76
+     Mae'r ddweudio'r ddweudio ar y ddweud
+},
+{
+    126.76,129.48
+     a'u ddweudio'r ddweudio'r ddweudio'r ddweudio.
+},
+{
+    129.48,131.6
+     Rwy'n meddwl ydych chi'n meddwl o'r tornyddau
+},
+{
+    131.6,134.12
+     a'r ddweudio'r tornyddau yn ymgyrchol
+},
+{
+    134.12,135.76
+     o'r tornyddau yn ymgyrchol,
+},
+{
+    135.76,187.0
+     yn ymgyrchol yn ymgyrchol yn ymgyrchol yn ymgyrchol fel ydych chi'n meddwl i'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r hyn o'r llwyffaethau ystod o'r llwyffaethau ymlaen, a'r llwyffaethau ymlaen yn ymlaen i'r llwyffaethau, oherwydd y llwyffaethau ymlaen yn ymlaen. Mae'n ffordd o'r cymdeithasol, ychydig, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r cymdeithasol, o'r llwyffydd yn ymdill. Rwy'n dweud i'r patient. Mae'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r argynnu'n gwybod a'r argynnu'n gwybod yn cael ei ddweud yn dweud. Felly, dwi'n meddwl i'r bobl yn ddwy, dwi'n meddwl i'n meddwl.
+},
+{
+    187.0,189.0
+     Felly, ydych chi'n meddwl i'r bobl yn cael ei ddweud,
+},
+{
+    189.0,225.76
+     dwi'n meddwl i'n meddwl i'r bobl yn cael ei ddweud, o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r holl o'r top 3 ysgol yw Dal 999. Rwy'n meddwl i'r prysgau cymdeithasol i'r wneud, dwi'n meddwl i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyffau i'r llwyff them so they know what to do if they or a friend were hurt. This video really could
+},
+{
+    225.76,230.36
+     help save a life. You can watch How to Talk to Your Children about Knife Crime and find
+},
+{
+    230.36,233.84
+     the rest of the Channel Mum First Aid course by clicking the link below.
+},

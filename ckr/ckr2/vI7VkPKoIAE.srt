@@ -1,0 +1,68 @@
+{
+    0.0,10.08
+     I'm Sarah Holiday and I'm going to demonstrate how to get rid of sore thighs.
+},
+{
+    10.08,14.6
+     Your thighs might be burning in sore from running or other exercises.
+},
+{
+    14.6,18.96
+     And what I'm going to show you is a simple stretch along with self-massage to reduce
+},
+{
+    18.96,20.88
+     muscle pain in your thighs.
+},
+{
+    20.88,25.96
+     Okay, we're going to begin by grabbing hold of your right foot doing a
+},
+{
+    25.96,30.28
+     quadricep stretch. So you're going to gently bring the foot in towards your
+},
+{
+    30.28,34.96
+     buttocks and you're going to balance on your left leg. So if you feel a little
+},
+{
+    34.96,39.32
+     bit out of balance you could always hold onto a chair for assistance. Otherwise
+},
+{
+    39.32,43.84
+     you're going to hold it here for 10 to 15 deep breaths. You'll feel a nice stretch
+},
+{
+    43.84,46.94
+     going down the quadricep muscle.
+},
+{
+    46.94,51.36
+     After you've held it there, you can switch and do the same thing on the other side.
+},
+{
+    51.36,55.12
+     After you've stretched both sides, you can do a little self-massage, which is really
+},
+{
+    55.12,56.12
+     easy.
+},
+{
+    56.12,60.16
+     You're just going to bring out your right leg, and you're going to gently press with
+},
+{
+    60.16,65.44
+     your hands all the way down towards your knee in a gentle stroke just like this.
+},
+{
+    67.12,71.6
+     And after you do that, then you're going to gently pull the muscle up with your hand,
+},
+{
+    72.24,None
+     squeezing and pulling up, and repeat the same thing on the other side. you
+},

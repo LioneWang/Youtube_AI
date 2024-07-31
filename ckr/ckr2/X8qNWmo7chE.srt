@@ -1,0 +1,164 @@
+{
+    0.0,3.0
+     Walking with crutches, partial weight bearing.
+},
+{
+    3.0,7.0
+     It is very important to follow your doctor's orders.
+},
+{
+    7.0,12.0
+     Place only the amount of weight ordered by your doctor on your injured leg.
+},
+{
+    12.0,18.0
+     To sit in a chair, back up until you feel the chair on the back of your legs.
+},
+{
+    18.0,23.0
+     Place both crutches in the hand of your injured side.
+},
+{
+    23.0,25.44
+     Hold your injured leg out in front of you as you reach back for the chair with your injured side. Hold your injured leg out in front of you
+},
+{
+    25.44,29.28
+     as you reach back for the chair with your other hand.
+},
+{
+    29.28,33.56
+     Lower yourself slowly to the chair, bending at your hips.
+},
+{
+    33.56,35.48
+     Do the reverse to stand back up.
+},
+{
+    39.88,43.08
+     To walk with crutches, partial weight bearing.
+},
+{
+    43.08,47.74
+     When you walk with crutches, it is important that you keep the crutches under your arms
+},
+{
+    47.74,49.68
+     and close to your sides.
+},
+{
+    49.68,52.36
+     Squeeze the top of the crutches into your sides
+},
+{
+    52.36,54.06
+     while putting weight on your hands
+},
+{
+    54.06,55.8
+     and not through your armpits.
+},
+{
+    55.8,57.92
+     This is the correct way.
+},
+{
+    57.92,60.28
+     This would be incorrect.
+},
+{
+    60.28,63.52
+     Do not lean on the crutches with your armpits.
+},
+{
+    63.52,67.0
+     Move the crutches forward six to twelve inches.
+},
+{
+    67.0,71.0
+     Push down on the hand grips as you step forward with your injured leg,
+},
+{
+    71.0,77.0
+     putting the designated weight through your injured leg as you step through with your healthy leg.
+},
+{
+    77.0,81.0
+     The injured leg always steps through first before the healthy leg.
+},
+{
+    81.0,86.56
+     The sequence is, crutches forward, injured leg forward, then stepping through with the healthy leg. The sequence is, crutches forward, injured leg forward,
+},
+{
+    86.56,89.06
+     then stepping through with the healthy leg.
+},
+{
+    89.96,94.38
+     To go upstairs, begin close to the bottom step.
+},
+{
+    94.38,96.86
+     Step up with your healthy leg first,
+},
+{
+    96.86,100.46
+     then lift up the crutches, then the injured leg.
+},
+{
+    100.46,102.64
+     Check your balance before you continue.
+},
+{
+    103.6,106.0
+     If there is a sturdy handrail available,
+},
+{
+    106.0,109.0
+     you can place both crutches under one arm
+},
+{
+    109.0,113.0
+     and use the handrail with the other.
+},
+{
+    113.0,117.0
+     Remember, step up with the good foot first
+},
+{
+    117.0,119.0
+     and then the crutches.
+},
+{
+    119.0,123.0
+     Lastly, the injured foot or leg follows.
+},
+{
+    123.0,126.62
+     To go down steps, start at the edge of the step
+},
+{
+    126.62,131.94
+     keeping your hips beneath you. Place crutches on the lower step. Your injured
+},
+{
+    131.94,137.54
+     leg goes down next. The healthy leg is last. Check your balance before you
+},
+{
+    137.54,142.14
+     continue. Make sure you bend at the hips and knees to prevent leaning forward
+},
+{
+    142.14,150.2
+     which could cause you to fall. If there's a sturdy handrail available, hold both crutches under one arm and use the handrail
+},
+{
+    150.2,155.52
+     with the other arm. Place crutches on the lower step, your injured leg goes down
+},
+{
+    155.52,160.2
+     next, the healthy leg is last.
+},

@@ -1,0 +1,272 @@
+{
+    0.0,9.24
+     Hi, this is Corey from the First Aid Training Cooperative and today we've got a video
+},
+{
+    9.24,13.92
+     which will demonstrate how we might deal with our casualty in a remote environment who has
+},
+{
+    13.92,19.68
+     a potentially fractured femur top leg. Tom, today is going to be our volunteer casualty.
+},
+{
+    19.68,24.24
+     I've got a little bit of equipment and this is really advanced first aid. So Tom, how
+},
+{
+    24.24,29.44
+     you feeling? Not so good. So it looks like you might have hurt your upper leg there. So we
+},
+{
+    29.44,34.28
+     need to make that nice and stable for you. So what I need to do I've got some
+},
+{
+    34.28,40.36
+     equipment here. Today I've got a standard walking pole to help me to try and splint
+},
+{
+    40.36,44.6
+     Tom's leg and apply a little bit of traction. But in the real world I could
+},
+{
+    44.6,68.24
+     use a ski pole, I could use a piece of wood, kayak paddle, all sorts of things. But today, since it's handy, we've just got this walking pole. So Tom, I'm just going to lie this down by the side of your leg. And if you notice, the pole is longer from the casualties hip and ankle. So it extends beyond the casualties hip and ankle. I've got some bandages here we're going to use today. but in the real world I could just use climbing slings, I could use inner tubes with my mount
+},
+{
+    68.24,72.92
+     to bite, duct tape, anything that I've got to tie this together. So I'm very carefully
+},
+{
+    72.92,77.08
+     now I'm just going to slide this underneath your thigh, very very carefully under your
+},
+{
+    77.08,80.84
+     buttock, I'm not going to move anything so that's great, so we've just got that underneath.
+},
+{
+    80.84,84.48
+     I need to strap this walking pole, that's how I'm just going to wrap that around there
+},
+{
+    84.48,85.52
+     so it's going to be nice and firm.
+},
+{
+    85.52,92.6
+     I'm going to strap this to the side of your groin, Tom. So this might hurt a wee bit, but I just need you to be strong for me.
+},
+{
+    92.6,97.24
+     That's great. You're doing a great job casualty. Well done. So we'll get some pressure on there.
+},
+{
+    97.24,100.76
+     So that's the first job. We've got that tied into the casualties groin.
+},
+{
+    100.76,105.12
+     We know the injury is in here somewhere and so we need to strap this
+},
+{
+    105.12,109.36
+     just below the casualties knee as well to make sure that the object is stable. Now it's a natural
+},
+{
+    109.36,113.2
+     hollow under the knee so it's easy to slide the bandage under and just below the kneecap
+},
+{
+    114.16,118.56
+     we're going to tie this up against the casualties leg. How's that feeling Tom?
+},
+{
+    118.56,127.84
+     Yeah good. That's very good. And now you'll see that the pole extends below the casualties foot and what I'm going to
+},
+{
+    127.84,132.96
+     do is I've got another bandage and I'm just going to lark's foot this, tie it around the
+},
+{
+    132.96,136.76
+     casualties ankle. Again there's a natural hollow under their ankle so I can just slide
+},
+{
+    136.76,141.4
+     this underneath without lifting anything and we're just going to pop that with a lark's
+},
+{
+    141.4,145.6
+     foot over here. Now because we've got a walking pole there is a loop
+},
+{
+    145.6,150.32
+     here which I'm going to tie the bandage to. So Tommy you might feel a little bit
+},
+{
+    150.32,153.8
+     of pressure now as I tie this on.
+},
+{
+    156.32,162.04
+     So make that nice and firm. So at the moment all we've really done is strapped
+},
+{
+    162.04,166.48
+     the object that's going to provide the traction to the side of the casualties leg.
+},
+{
+    167.08,168.52
+     Now we need to apply the traction.
+},
+{
+    168.72,174.88
+     So I need a small piece of wood, tent pole, something, a piece of metal out of my rucksack, the back of my rucksack.
+},
+{
+    175.24,180.24
+     Luckily today, because we're in the training room, I've got a pen.
+},
+{
+    180.56,181.64
+     So I'm going to use this.
+},
+{
+    181.92,186.04
+     And if I slide this within the bandage and I gently start twisting
+},
+{
+    186.04,192.36
+     this will shorten the bandage and as the bandage shortens will apply tension to the leg and
+},
+{
+    192.36,197.52
+     inside the femur, the top leg, the tension will start to be applied.
+},
+{
+    197.52,198.52
+     So Tom how's that feeling?
+},
+{
+    198.52,199.52
+     Can you feel any pressure there?
+},
+{
+    199.52,200.52
+     Yeah, it's coming.
+},
+{
+    200.52,201.52
+     Feel some traction?
+},
+{
+    201.52,202.52
+     Yeah.
+},
+{
+    202.52,207.0
+     So talk to your casualty, you're their best friend, reassure them and give them some advice.
+},
+{
+    207.0,216.0
+     How's that? I'll give you one more turn Tom. How's that? So I've got my object, my tent pole next to the walking pole here
+},
+{
+    216.0,227.0
+     and normally at this point I would take that off just so it can't release. So this is how we'd apply traction to a casualty with a potentially injured femur or top leg.
+},
+{
+    230.34,234.66
+     In summary, we've been trying to demonstrate how we would stabilize the applied traction
+},
+{
+    234.66,239.86
+     to a potentially fractured femur. The process we demonstrated took about two minutes. If
+},
+{
+    239.86,243.64
+     I was doing this for real, with a real casualty in the outdoor environment, I'd maybe take
+},
+{
+    243.64,246.4
+     15 or 20 minutes to carry outr prysgwyr.
+},
+{
+    246.4,267.76
+     Mae'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio. Mae'n gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio' The object, the walking pole, was longer than the area from the casualties hip to their ankle, so it goes longer than that.
+},
+{
+    267.76,271.42
+     What would I use in the real world if I didn't have a walking pole, well a ski pole, I could
+},
+{
+    271.42,272.92
+     use a piece of wood.
+},
+{
+    272.92,279.3
+     I might use something like my kayak paddle, so anything we can use to improvise this leg
+},
+{
+    279.3,281.38
+     splint.
+},
+{
+    281.38,286.76
+     We used bandages in the pictures to show how we'd tie the leg to the pole, but in the
+},
+{
+    286.76,288.1
+     real world I could use anything.
+},
+{
+    288.1,292.2
+     So in a tube, sparing tubes off a mountain bike if I was biking, I could use straps off
+},
+{
+    292.2,296.48
+     my rucksack that I could cut off, I could use climbing slings, pretty much improvise
+},
+{
+    296.48,298.58
+     out of anything.
+},
+{
+    298.58,302.62
+     If I was tying something around the paddle here, the paddle is quite slippy, so I'd need
+},
+{
+    302.62,306.22
+     to make sure that whatever I was using didn't slide along the paddle.
+},
+{
+    306.22,309.42
+     So I might have some duct tape
+},
+{
+    309.42,311.64
+     so I can tape the bandage to the paddle
+},
+{
+    311.64,313.48
+     or even cut a small notch with my knife
+},
+{
+    313.48,315.44
+     just to secure it so it doesn't slip.
+},
+{
+    316.42,320.08
+     So that was splinting a potentially fractured femur
+},
+{
+    320.08,321.56
+     in the outdoor environment.
+},
+{
+    321.56,None
+     And remember folks, this is an advanced skill. yn y sylwyr ymlaen. Rwy'n meddwl, mae'n meddwl yma.
+},

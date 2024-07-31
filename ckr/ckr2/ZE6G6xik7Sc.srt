@@ -1,0 +1,216 @@
+{
+    0.0,6.1
+     Hi, I'm Mark Albano.
+},
+{
+    6.1,10.82
+     I'm a physical therapist here at the outpatient physical therapy clinic at Sharp Grossmont
+},
+{
+    10.82,11.82
+     Hospital.
+},
+{
+    11.82,16.96
+     Today, we're going to talk about shoulder pain, and we're going to discuss some exercises
+},
+{
+    16.96,21.68
+     that could help decrease that pain, as well as increase your range of motion.
+},
+{
+    21.68,29.44
+     First, it's important to note that there are several different causes of shoulder pain and each body is different. It's always best
+},
+{
+    29.44,34.16
+     to first consult your physical therapist or your doctor to determine which
+},
+{
+    34.16,38.4
+     exercises are specifically most appropriate for you. Oftentimes when
+},
+{
+    38.4,42.76
+     people have shoulder pain they try to avoid using it. That might even have
+},
+{
+    42.76,47.46
+     their shoulder closely intensely guarded against their body.
+},
+{
+    47.46,49.28
+     One of the most important steps
+},
+{
+    49.28,51.24
+     in decreasing your shoulder pain
+},
+{
+    51.24,53.52
+     is getting that shoulder to relax.
+},
+{
+    53.52,54.64
+     Now there are different ways
+},
+{
+    54.64,56.76
+     that you can do a pendulum exercise.
+},
+{
+    56.76,58.6
+     I'm gonna show you a way that focuses
+},
+{
+    58.6,61.16
+     on relaxing that shoulder.
+},
+{
+    61.16,63.92
+     First, come up to a table at a comfortable height.
+},
+{
+    63.92,69.64
+     Place the good shoulder down on the table and let the hurting shoulder relax down.
+},
+{
+    69.64,73.36
+     Try to make sure that the hurting shoulder is relaxed completely.
+},
+{
+    73.36,77.24
+     Then move your body weight forward and back.
+},
+{
+    77.24,82.2
+     If this hurting shoulder is relaxed completely, then that shoulder should sway with it forward
+},
+{
+    82.2,83.8
+     and back.
+},
+{
+    83.8,89.0
+     I recommend trying this exercise for three sets of 15 seconds at least once per day.
+},
+{
+    89.0,93.0
+     One of the main functions of the shoulder is to reach up in front of you.
+},
+{
+    93.0,99.0
+     If this motion is painful, then an exercise that could help with that are called table slides.
+},
+{
+    99.0,106.3
+     What you do is come up to a table, place both of your hands on it and grab a towel. Next, relax your shoulders
+},
+{
+    106.3,112.28
+     and bend forward at your hips to slide your arms forward. Hold there for a second and
+},
+{
+    112.28,119.36
+     slide back. This helps you bring your shoulders into a motion that elevates your arms without
+},
+{
+    119.36,125.04
+     forcing you to move it against gravity. Now this motion should not be painful.
+},
+{
+    125.04,130.04
+     If it is painful, try going in a shoulder pain-free range.
+},
+{
+    130.48,132.88
+     I recommend trying to start this exercise out
+},
+{
+    132.88,135.6
+     with three sets of 10, at least once per day.
+},
+{
+    135.6,138.92
+     While the table slides help your arm move out forward,
+},
+{
+    138.92,142.2
+     moving out to the side, a motion called abduction,
+},
+{
+    142.2,144.54
+     often feels different on your shoulder.
+},
+{
+    144.54,147.24
+     You can use a dowel to help with this motion.
+},
+{
+    147.24,152.52
+     Today we're using a PVC pipe, but you could use anything straight at home like a cane,
+},
+{
+    152.52,155.96
+     a golf club, or even a broomstick if it was sturdy enough.
+},
+{
+    155.96,161.28
+     First what you'll do is put the dowel in both hands, but make sure that the hand on
+},
+{
+    161.28,164.64
+     the painful shoulder has the palm facing forward.
+},
+{
+    164.64,165.8
+     Next, use the
+},
+{
+    165.8,171.64
+     good shoulder to push out to your side, hold for a second, and then come on down.
+},
+{
+    171.64,176.72
+     It's important to note that with this exercise the painful shoulder should be
+},
+{
+    176.72,182.02
+     relaxed the whole time. The good shoulder during this exercise controls the motion
+},
+{
+    182.02,186.6
+     on the way up and also controls the motion on the way down.
+},
+{
+    186.6,189.6
+     Make sure though that you don't bring this stick
+},
+{
+    189.6,191.12
+     all the way back behind your head
+},
+{
+    192.2,194.58
+     or out too far in front of you.
+},
+{
+    194.58,198.0
+     You're trying to bring your bicep up to your ear.
+},
+{
+    198.0,199.12
+     It's also important to remember
+},
+{
+    199.12,201.78
+     that this motion should not be painful.
+},
+{
+    201.78,205.84
+     If it is painful, try going in a shorter pain-free range.
+},
+{
+    206.48,213.84
+     I recommend trying this exercise for three sets at ten once a day.
+},

@@ -1,0 +1,196 @@
+{
+    0.0,6.64
+     Welcome to this demonstration of the Braun Thermoscan Pro 6000 ear thermometer from Welsh
+},
+{
+    6.64,13.68
+     Allen. In this video you will be shown how to clean the device, attach a disposable probe
+},
+{
+    13.68,21.6
+     cover, take patient temperature and also change the batteries. For those who have used the
+},
+{
+    21.6,27.0
+     previous Pro 4000 thermometer there are a few differences with this new device.
+},
+{
+    28.0,36.0
+     A large illuminated display is now located on the front of the Pro 6000 for added user convenience.
+},
+{
+    36.0,41.0
+     There is a dedicated memory button to recall the last measurement,
+},
+{
+    41.0,49.0
+     a 60 second timer, useful for counting a patient's pulse or respiration, and a dedicated button
+},
+{
+    49.0,53.0
+     for switching between Celsius and Fahrenheit.
+},
+{
+    53.0,57.24
+     It is recommended that the device is cleaned before use.
+},
+{
+    57.24,62.92
+     To clean the probe lens, gently wipe it with a cotton swab or cloth slightly moistened
+},
+{
+    62.92,68.12
+     with alcohol. To prevent damage to the sensor, only use gentle pressure
+},
+{
+    68.12,70.0
+     when cleaning.
+},
+{
+    70.0,72.34
+     With the thermometer facing down,
+},
+{
+    72.34,74.92
+     wipe the rest of the probe with a cleaning wipe
+},
+{
+    74.92,77.52
+     moistened with alcohol.
+},
+{
+    77.52,79.96
+     When cleaning the body of the thermometer,
+},
+{
+    79.96,82.84
+     only use approved cleaning solutions, which
+},
+{
+    82.84,86.44
+     includes clenel and alcohol.
+},
+{
+    86.44,89.96
+     Using a cleaning wipe moistened with an approved cleaner,
+},
+{
+    89.96,94.12
+     wipe the body of the thermometer with the display facing up.
+},
+{
+    94.12,98.0
+     Make sure the wipe you use is not saturated to avoid liquid
+},
+{
+    98.0,99.24
+     entering the device.
+},
+{
+    102.36,107.0
+     The thermometer and probe must be dry before taking a temperature.
+},
+{
+    107.0,114.44
+     To remove from the cradle, grip the Pro 6000 at the base and lift upwards.
+},
+{
+    114.44,120.4
+     A new probe cover must be attached every time you take a temperature.
+},
+{
+    120.4,130.0
+     To open a new box of probe covers, pull the small tab where indicated and carefully tear along the perforation, removing at the end.
+},
+{
+    131.0,137.0
+     Place the new pack of probe covers into the Pro 6000 cradle as demonstrated.
+},
+{
+    137.0,145.52
+     Taking the Pro 6000, push the probe into the top of the probe cover packaging at a 90 degree angle.
+},
+{
+    145.52,148.8
+     A probe cover should now be attached.
+},
+{
+    148.8,151.84
+     The ring around the start button turns green.
+},
+{
+    151.84,157.04
+     The device will beep once and three dashed lines will appear on the display.
+},
+{
+    157.04,161.12
+     The Pro 6000 is now ready to take temperature.
+},
+{
+    161.12,167.0
+     Place the probe snugly into the ear canal and direct towards the opposite temple.
+},
+{
+    167.0,171.0
+     Keep the thermometer steady and press the start button.
+},
+{
+    171.0,174.0
+     The device will beep once.
+},
+{
+    174.0,182.0
+     When the temperature measurement is complete, a long beep will sound and a green exact temp light illuminates.
+},
+{
+    182.0,186.48
+     The temperature reading will show on the display. To
+},
+{
+    186.48,194.2
+     alternate between Celsius and Fahrenheit press the CF button. You can now
+},
+{
+    194.2,202.0
+     remove and discard the used probe cover by pressing the ejection button. To take
+},
+{
+    202.0,207.0
+     another measurement place a new clean probe cover onto the Pro 6000.
+},
+{
+    207.0,215.0
+     Otherwise, replace the thermometer back into its cradle where it will turn off after 10 seconds.
+},
+{
+    215.0,221.0
+     To recall the last temperature taken, simply press the memory button.
+},
+{
+    221.0,228.84
+     The Pro 6000 also has a timer feature. Press and hold the timer button for one second
+},
+{
+    228.84,237.08
+     to activate. The display will begin counting up in seconds. A beep can be heard at the beginning
+},
+{
+    237.08,246.6
+     and then every 15 seconds. To stop the timer, press the timer button again. The Pro 6000 will take 1000 measurements from
+},
+{
+    246.6,253.94
+     one set of AA batteries. To replace the batteries, slide the switch on the back of the device
+},
+{
+    253.94,259.8
+     to open the battery compartment. Thank you for watching this training video for the Braun
+},
+{
+    259.8,269.4
+     Thermoscan Pro 6000 Ear thermometer from Welshallon. For more information, please contact your local Welshallon representative or visit our
+},
+{
+    269.4,270.12
+     website.
+},

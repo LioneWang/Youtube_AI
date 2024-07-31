@@ -1,0 +1,36 @@
+{
+    0.0,6.0
+     To buddy tape your fingers, first wash your hands thoroughly with soap and water.
+},
+{
+    6.0,13.0
+     Extend your injured finger along with the biggest finger adjacent to it and hold both fingers together.
+},
+{
+    13.0,21.0
+     Then, peel off the end of some non-stretch medical tape and wrap it around both of your fingers at the base.
+},
+{
+    21.0,26.56
+     If you don't have medical tape, you can use self-adherent wrap, electrical
+},
+{
+    26.56,33.64
+     tape or long rubber bandages instead. Wrap the tape tightly enough that it's secure,
+},
+{
+    33.64,39.4
+     but not so tight that you feel throbbing in your fingers. Continue wrapping the tape up
+},
+{
+    39.4,45.58
+     to the tips of your fingers, then rip the tape off the roll and press the ripped end down.
+},
+{
+    45.58,48.84
+     Remember to change your tape out every day.
+},
+{
+    48.84,54.2
+     Follow up with a doctor if your finger injury doesn't resolve itself within two to three days.
+},

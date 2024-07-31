@@ -1,0 +1,808 @@
+{
+    0.0,6.12
+     Oh, oh, oh, oh, oh, gosh, it might be a rotator cuff.
+},
+{
+    6.12,7.8
+     How do I know if that's what it is?
+},
+{
+    7.8,8.8
+     That's a good question.
+},
+{
+    8.8,9.8
+     Let's find out.
+},
+{
+    9.8,13.84
+     Dr. Craig here from the Prehab Guys.
+},
+{
+    13.84,15.16
+     I have a rush here.
+},
+{
+    15.16,19.0
+     We're going to be talking everything that you need to know about rotator cuffs.
+},
+{
+    19.0,22.64
+     So a rush, young strapping male in his late 20s.
+},
+{
+    22.64,25.3
+     He's coming to me and telling me that his shoulder hurts.
+},
+{
+    25.3,27.06
+     If we're talking about rotator cuffs,
+},
+{
+    27.06,30.56
+     we have to get an idea of what is the typical pattern
+},
+{
+    30.56,34.62
+     with rotator cuff issues, with rotator cuff issues.
+},
+{
+    34.62,36.26
+     Say that 10 times in a row.
+},
+{
+    36.26,38.18
+     So with the Rochebean in his late 20s,
+},
+{
+    38.18,41.14
+     I'm thinking he likely did too much too soon.
+},
+{
+    41.14,43.62
+     What would that be defined as if you saw a doctor
+},
+{
+    43.62,44.54
+     or you got an image?
+},
+{
+    44.54,45.04
+     Maybe that's
+},
+{
+    45.04,51.92
+     rotator cuff tendonitis. Too much too soon. Overwork the tendon. Maybe it's a little bit inflamed.
+},
+{
+    51.92,57.36
+     He'll do very well with rehab. Now, let's say that I meet a rush in 20 years. He's in his mid to
+},
+{
+    57.36,63.76
+     late 40s. He's been dealing with this for a while. There's no insidious issue with it. He wasn't just
+},
+{
+    63.76,65.08
+     doing deltoid raises and
+},
+{
+    65.08,70.14
+     hurt it. This has been going on for months on end. Now I'm thinking maybe this is tendon
+},
+{
+    70.14,78.24
+     gnosis or maybe on an MRI report you got degenerative changes in the tendon. This is just wear and
+},
+{
+    78.24,86.36
+     tear. There's changes to the tendon. It's been broken down. There's some disorganized and crappy tissue quality
+},
+{
+    86.36,88.96
+     with the connective tissue in the collagen.
+},
+{
+    88.96,92.24
+     And but now let's say that I met Arash 40 years later
+},
+{
+    92.24,95.6
+     and he is now in his mid-late 60s.
+},
+{
+    95.6,98.96
+     He was lifting an object and then he heard a snap
+},
+{
+    98.96,100.88
+     and now he can't move his arm as much.
+},
+{
+    100.88,104.36
+     I'm thinking maybe more like a rotator cuff tear
+},
+{
+    104.36,105.66
+     just because of the age
+},
+{
+    105.66,110.84
+     and the scenario. Those are all things to keep into account. If you are in your early
+},
+{
+    110.84,115.24
+     20s, you're more than likely you didn't have a rotator cuff tear if you're just doing
+},
+{
+    115.24,120.2
+     deltoid raises. Now let's get into it. How do you know what's going on? How do we roll
+},
+{
+    120.2,124.36
+     in the rotator cuff or is there something else going on? That's what we're going to
+},
+{
+    124.36,125.16
+     jump into.
+},
+{
+    125.16,127.6
+     So Arash, let's have you stand up.
+},
+{
+    127.6,130.48
+     I'm just going to look at range of motion to start.
+},
+{
+    130.48,132.16
+     So Arash is going to mirror me.
+},
+{
+    132.16,135.92
+     Arash, what I want you to do is just rotate your arms in and out.
+},
+{
+    135.92,138.8
+     We're looking at shoulder external rotation here.
+},
+{
+    138.8,140.8
+     He has full range of motion.
+},
+{
+    140.8,144.24
+     Say that Arash went, only got to here, and then only got to there.
+},
+{
+    144.24,145.88
+     I'm like, uh-oh, that's not good.
+},
+{
+    145.88,146.88
+     That could be a tear.
+},
+{
+    146.88,148.56
+     Then what I would do is a rush.
+},
+{
+    148.56,150.24
+     I'm going to take your arm all the way out here.
+},
+{
+    150.24,151.68
+     Can you hold it there?
+},
+{
+    151.68,152.8
+     Perfect.
+},
+{
+    152.8,156.96
+     Say that I did this, I took it out there and the arm just came back in thinking it could
+},
+{
+    156.96,158.12
+     be a big tear.
+},
+{
+    158.12,160.68
+     But again, a rush is age in the scenario.
+},
+{
+    160.68,161.68
+     We're not thinking that.
+},
+{
+    161.68,163.8
+     We're going to look at external rotation.
+},
+{
+    163.8,168.24
+     Now let's just look at shoulder flexion. So now with shoulder flexion, I'm looking
+},
+{
+    168.24,172.72
+     at his range of motion as well as the quality of the motion. So, Raj, do you have
+},
+{
+    172.72,178.76
+     any pain with this while you do it? No. No. Okay, well maybe what if he did? Say
+},
+{
+    178.76,183.92
+     that he had pain just within this arc of motion we call it. Sometimes if you ticked
+},
+{
+    183.92,185.36
+     off your rotator cuff,
+},
+{
+    185.36,188.02
+     it may hurt once he gets to about here,
+},
+{
+    188.02,189.44
+     or maybe up to here,
+},
+{
+    189.44,191.24
+     somewhere within this window,
+},
+{
+    191.24,192.8
+     but then it feels better.
+},
+{
+    192.8,195.92
+     Definitely thinking maybe his rotator cuff is involved.
+},
+{
+    195.92,199.16
+     Or what if he had pain all the way at the top?
+},
+{
+    199.16,200.72
+     Well, it could be the rotator cuff,
+},
+{
+    200.72,205.0
+     but it also could be subacromial impingement symptoms.
+},
+{
+    205.0,211.0
+     Symptoms, maybe something's getting pinched or something is irritated in this space called the subacromial space.
+},
+{
+    211.0,214.0
+     Last but not least, let's do abduction.
+},
+{
+    214.0,218.0
+     Same thing, all the same rules apply for what we're looking for reflection.
+},
+{
+    218.0,222.0
+     Is there a painful range? Is there pain at the end range?
+},
+{
+    222.0,225.06
+     This is all just giving me a little bit of information.
+},
+{
+    225.06,227.96
+     For a rush, maybe it hurt up at the top.
+},
+{
+    227.96,230.16
+     Maybe it hurt within some range.
+},
+{
+    230.16,233.44
+     We're thinking rotator cuff or maybe impingement stuff.
+},
+{
+    233.44,235.8
+     Now let's go into strength testing.
+},
+{
+    235.8,240.24
+     Not necessarily getting a really good gauge of how strong a rush is, but I'm looking for
+},
+{
+    240.24,243.08
+     is there any weakness or is there any symptoms?
+},
+{
+    243.08,245.16
+     Now, rush, hold real strong here.
+},
+{
+    245.16,246.72
+     This is good to do with a friend,
+},
+{
+    246.72,248.24
+     but if you don't have a friend,
+},
+{
+    248.24,251.28
+     you could always do this with a wall or with a rig.
+},
+{
+    251.28,254.44
+     So Arash, hold nice and strong, don't let me move you.
+},
+{
+    254.44,256.16
+     What I'm trying to do is let me move you.
+},
+{
+    256.16,258.6
+     I'm trying to push Arash's arms in.
+},
+{
+    258.6,261.04
+     Hold nice and strong, don't let me move you.
+},
+{
+    261.04,263.96
+     We're testing his shoulder external rotators.
+},
+{
+    263.96,267.44
+     So the rotator cuff is going to be your infraspinatus,
+},
+{
+    267.44,273.52
+     teres minor, super spinatus, and then subscapularis. The external rotators are going to be your
+},
+{
+    273.52,278.72
+     infraspinatus and teres minor. Also, super spinatus may help with that a little bit as
+},
+{
+    278.72,282.72
+     well. That's what we're testing with this one. Now we're just going to do the opposite
+},
+{
+    282.72,287.92
+     motion. Don't let me move you. Now we're looking at internal rotation. Any issue with either
+},
+{
+    287.92,291.88
+     of those? Cool. Now we're going to do a little bit of this chicken wing here. Hold
+},
+{
+    291.88,296.64
+     nice and strong. Don't let me move you. I'm trying to push them down. Say that this
+},
+{
+    296.64,300.04
+     was bothering him. We could mess around and do a little bit of different angles.
+},
+{
+    300.04,304.36
+     We could do here. We could do up here. Yes, we're hitting the deltoid with this,
+},
+{
+    304.36,307.4
+     but also we're hitting some of that super spinatus as well.
+},
+{
+    307.92,315.56
+     So that's just giving me more info. A test that is a little bit more specific to the simple super spinatus is going to be our open can test.
+},
+{
+    316.0,319.56
+     So we're thinking 30 degrees away from the
+},
+{
+    319.92,325.52
+     braid ahead, 30 degrees out, thumbs up, arms externally rotated.
+},
+{
+    325.52,328.16
+     Hold nice and strong, don't let me move you.
+},
+{
+    328.16,329.92
+     I'm going to lower my body weight into it.
+},
+{
+    329.92,331.12
+     Rosh, any issue with that?
+},
+{
+    331.12,331.62
+     Good.
+},
+{
+    331.62,334.96
+     That's a little bit more specific to the super spinatus.
+},
+{
+    334.96,339.36
+     Now, last but not least, let's get your arms set up here.
+},
+{
+    339.36,342.24
+     Hold nice and strong, don't let me move you.
+},
+{
+    342.24,344.16
+     Hold, hold, hold.
+},
+{
+    344.16,344.6
+     Good.
+},
+{
+    344.6,346.68
+     And then can you get your arm here? Hold nice and strong, don't let me move you. Hold, hold, hold. Good, and then can you get your arm here?
+},
+{
+    346.68,349.48
+     Hold nice and strong, don't let me move you.
+},
+{
+    349.48,353.6
+     With this test, what we're looking at is Terry's minor
+},
+{
+    353.6,354.8
+     and her first spinatus again.
+},
+{
+    354.8,357.0
+     It's just a different angle, especially if you're a weight
+},
+{
+    357.0,358.24
+     lifter, you're doing shoulder press,
+},
+{
+    358.24,359.48
+     you have issues with that.
+},
+{
+    359.48,361.28
+     This is another good one to look at.
+},
+{
+    361.28,362.44
+     Can you even get here?
+},
+{
+    362.44,365.04
+     You know, if I brought his arm back but it flopped forward
+},
+{
+    365.04,370.32
+     or even if I lifted his arm, can he hold it there? Those are signs. Those are tests for like big
+},
+{
+    370.32,376.8
+     tears. If I brought it here and it just dropped, I'd be like, uh-oh, not so good. Okay, so those are
+},
+{
+    376.8,381.36
+     the big tests that you can do. Last but not least, maybe if you see a physical therapist,
+},
+{
+    381.36,391.28
+     they may do tests like this. They may have the thumb down, pushing up like this, this is looking at impingement stuff. So are we actually
+},
+{
+    391.28,397.16
+     able to recreate symptoms due to maybe something in that subacromial space or
+},
+{
+    397.16,401.76
+     is there internal pinchment? Are things getting pinched inside the shoulder joint?
+},
+{
+    401.76,405.5
+     I would say keep that to a professional to get those things checked out.
+},
+{
+    405.5,409.04
+     Just because they're not the greatest test standalone,
+},
+{
+    409.04,410.64
+     like I spoke about earlier.
+},
+{
+    410.64,412.48
+     And then if you're just trying to do a party trick
+},
+{
+    412.48,415.0
+     with friends, we're not gonna recommend this stuff.
+},
+{
+    415.0,418.28
+     Okay, now how do we really roll in the tendon?
+},
+{
+    418.28,420.8
+     So we just did all the strength testing, right?
+},
+{
+    420.8,423.84
+     Arash, what I'm going to assume,
+},
+{
+    423.84,427.08
+     if it's truly a rotator cuff thing, if it's the tendon,
+},
+{
+    427.08,430.88
+     he's going to be strong, but maybe it's a little bit painful.
+},
+{
+    430.88,432.84
+     Arash, guess what?
+},
+{
+    432.84,434.56
+     This hurts, right?
+},
+{
+    434.56,435.56
+     It hurts.
+},
+{
+    435.56,436.56
+     It hurts.
+},
+{
+    436.56,437.56
+     It hurts.
+},
+{
+    437.56,438.56
+     But he's still strong.
+},
+{
+    438.56,440.24
+     It's not weaker side to side.
+},
+{
+    440.24,443.24
+     So what we're going to do is we're going to come over here.
+},
+{
+    443.24,448.8
+     Arash, we're just going to do an isometric and isometric exercises.
+},
+{
+    449.12,453.08
+     The tendon isn't lengthening or it's not getting any shorter, but all the muscles
+},
+{
+    453.08,457.16
+     are working. And if you hold it long enough, and if we do enough rounds of it,
+},
+{
+    457.46,459.44
+     it gives you this analgesic effect.
+},
+{
+    459.68,462.16
+     We don't really understand why that happens,
+},
+{
+    462.32,467.68
+     but it's going to make your shoulder feel better if it's truly a tendon issue. So thank you so much for getting into the
+},
+{
+    467.68,472.16
+     perfect position knowing how to do this. But as you can see, a rush is just
+},
+{
+    472.16,476.94
+     holding this position. He's doing isometric external rotation. He's not
+},
+{
+    476.94,481.66
+     letting me pull this in. Stay where you are, but he's not letting this motion
+},
+{
+    481.66,490.16
+     happen. Bring the camera around this way. I'm going to show you something that's really important. Something that you need to be mindful of, Rosh, as you do this,
+},
+{
+    490.16,495.92
+     sit up nice and tall. This shoulder blade needs to be pulled back. If he's doing this,
+},
+{
+    495.92,502.0
+     but his shoulder blade is winging up or his shoulder blade is moving, the rotator cuff is
+},
+{
+    502.0,507.3
+     just getting pulled from a different position. He's anchoring there, but it's getting stretched this way.
+},
+{
+    507.3,510.78
+     So you've got to have a stable shoulder blade when you do this stuff.
+},
+{
+    510.78,515.66
+     So now Arash would do five rounds of this for 45 second holds.
+},
+{
+    515.66,517.98
+     And then time elapsed.
+},
+{
+    517.98,519.18
+     It's 10 minutes later.
+},
+{
+    519.18,521.82
+     Arash felt a really good burn all back here.
+},
+{
+    521.82,525.36
+     It's also another sign to know if you're doing it right or not.
+},
+{
+    525.36,527.92
+     Come back to this, hold nice and strong.
+},
+{
+    527.92,529.16
+     Don't let me move you.
+},
+{
+    529.16,531.24
+     Hold, hold, hold.
+},
+{
+    531.24,532.2
+     How does it feel?
+},
+{
+    532.2,533.04
+     Good.
+},
+{
+    533.04,533.96
+     It feels better, right?
+},
+{
+    533.96,534.8
+     Yeah, better.
+},
+{
+    534.8,535.64
+     Awesome.
+},
+{
+    535.64,536.48
+     If that's the case,
+},
+{
+    536.48,539.38
+     I'm thinking his tendon is likely involved.
+},
+{
+    539.38,540.72
+     So now what do you do?
+},
+{
+    540.72,541.56
+     Well, guess what?
+},
+{
+    541.56,544.32
+     He just showed you the exercises that you're gonna do.
+},
+{
+    544.32,547.0
+     You're gonna do isometrics to start.
+},
+{
+    547.0,549.36
+     Say that going in bothered him.
+},
+{
+    549.36,551.48
+     You're just going to do it going in.
+},
+{
+    551.48,553.48
+     Say that this hurt.
+},
+{
+    553.48,558.24
+     What you can do is a rush or even let's say that the open can hurt.
+},
+{
+    558.24,560.6
+     That's not unfamiliar to be bothersome.
+},
+{
+    560.6,562.88
+     Let's just do an isometric open can.
+},
+{
+    562.88,565.92
+     So just go up out to the side and then hold it there.
+},
+{
+    565.92,569.52
+     Again, nice and strong, stack through a shoulder blade,
+},
+{
+    569.52,573.52
+     or he can even do an isometric lateral raise.
+},
+{
+    573.52,577.0
+     The takeaway is, if you're still strong,
+},
+{
+    577.0,579.64
+     but it hurts testing some of that stuff,
+},
+{
+    579.64,581.32
+     do those isometrics.
+},
+{
+    581.32,582.68
+     Then if it feels better,
+},
+{
+    582.68,585.12
+     you know exactly what your homework is gonna be.
+},
+{
+    585.12,587.72
+     Try and do three to five rounds of 45 second
+},
+{
+    587.72,590.64
+     isometric holds, do that almost daily
+},
+{
+    590.64,593.36
+     and then your shoulder should be feeling better, right?
+},
+{
+    593.36,594.2
+     Feels better?
+},
+{
+    594.2,595.04
+     Feeling better already.
+},
+{
+    595.04,595.88
+     Awesome.
+},
+{
+    595.88,598.8
+     All right, please like this video, comment,
+},
+{
+    598.8,600.36
+     let us know what you wanna see more of,
+},
+{
+    600.36,602.48
+     let us know what you wanna see less of
+},
+{
+    602.48,605.12
+     and then we'll be happy to fill in those needs.
+},
+{
+    605.12,609.84
+     All right, we're out.
+},

@@ -1,0 +1,76 @@
+{
+    0.0,4.0
+     You know during the course of everyday life we're all going to sustain some type of injuries.
+},
+{
+    4.0,9.0
+     Hi, I'm Captain Joe Bruni and what I'm going to go over and discuss is how to stop severe bleeding.
+},
+{
+    10.0,16.0
+     When an injury occurs, severe bleeding can cause a great deal of excitement not only for the victim,
+},
+{
+    16.0,21.0
+     but for the bystanders who are going to perform first aid.
+},
+{
+    21.0,26.06
+     The key is to take some type of sterile dressing found in a first aid
+},
+{
+    26.06,32.66
+     kit or very clean cloth material and place over the injured site and apply
+},
+{
+    32.66,39.26
+     pressure. Pressure in that area will help to stop the bleeding from occurring.
+},
+{
+    39.26,48.0
+     With a significant amount of pressure, if that does not stop the bleeding, then the next step would be to raise
+},
+{
+    48.0,53.0
+     the injured limb above the person's heart or head
+},
+{
+    53.0,58.0
+     and possibly applying pressure to an artery
+},
+{
+    58.0,60.0
+     located in the general vicinity
+},
+{
+    60.0,71.0
+     to help slow down the blood flow to that injured site. Constant pressure in that area should help to reduce and stop bleeding.
+},
+{
+    71.0,80.0
+     Also, some type of cling or wrap can be used to wrap the pressure bandage in place
+},
+{
+    80.0,85.5
+     and hold it while continued pressure is applied.
+},
+{
+    85.5,91.92
+     After the cling, you may even want to consider some type of elastic or pressure bandage while
+},
+{
+    91.92,97.54
+     continuing to hold pressure in that area until the individual can be taken to an emergency
+},
+{
+    97.54,108.0
+     department to receive sutures to stop bleeding and to begin the process of healing. Severe bleeding can cause a great deal of excitement,
+},
+{
+    108.0,111.0
+     not only for the victim, but for the rescuer themselves.
+},
+{
+    111.0,114.0
+     I'm Captain Joe Bruni. Stay safe and we'll see you next time.
+},

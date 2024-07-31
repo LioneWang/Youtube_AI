@@ -1,0 +1,300 @@
+{
+    0.0,4.0
+     Hi, I'm Joe Nemeth. I'm a periodontist in Southfield, Michigan.
+},
+{
+    4.0,11.0
+     And today I think we're going to talk about what can we do to minimize getting long in the tooth.
+},
+{
+    11.0,16.0
+     Now the term long in the tooth, it comes from people getting older,
+},
+{
+    16.0,19.0
+     because when they get older, their gums tend to recede.
+},
+{
+    19.0,23.0
+     So you don't want to be long in the tooth if you've been avoided.
+},
+{
+    23.0,26.14
+     It's not necessarily a complementary term.
+},
+{
+    26.14,29.86
+     What are some of the things that cause being long in the tooth?
+},
+{
+    29.86,32.26
+     Well, clenching or grinding during your sleep
+},
+{
+    32.26,33.72
+     can contribute to that.
+},
+{
+    33.72,35.94
+     But one of the main things, and one of the things
+},
+{
+    35.94,39.08
+     that I almost always see, is over-vigorous or improper
+},
+{
+    39.08,40.68
+     tooth brushing.
+},
+{
+    40.68,43.48
+     Because if you're brushing your teeth too frequently,
+},
+{
+    43.48,47.24
+     if you're a clean freak or a neat freak and you got to get those teeth clean,
+},
+{
+    47.24,51.6
+     you're likely to cause more damage than good. The more you brush your teeth
+},
+{
+    51.6,55.6
+     and the longer you brush for and the harder the brush,
+},
+{
+    55.6,59.04
+     the more you're going to traumatize and irritate those tissues.
+},
+{
+    59.04,63.56
+     So you have to be very careful with your brush. Let me give you an example of what can happen.
+},
+{
+    63.56,67.6
+     Okay, here are some teeth right here
+},
+{
+    67.6,73.36
+     and here's the gum tissue. Well, if you're brushing and you're brushing real vigorously,
+},
+{
+    73.36,77.84
+     look at what's going on. Can you see that recession right there?
+},
+{
+    77.84,83.2
+     That yellow stuff? That's the roots of the teeth. The roots of the teeth tend to be yellow.
+},
+{
+    83.2,86.0
+     They don't look so good. And then if you continue
+},
+{
+    86.0,91.12
+     brushing, the gum tissue that's left isn't gum tissue anymore. It's what's called mucosa.
+},
+{
+    91.12,96.48
+     Mucosa isn't meant to withstand the forces of brushing and it tends to get irritated
+},
+{
+    96.48,102.04
+     and sore very easily. The other thing to remember is when you have gum recession, that gum is
+},
+{
+    102.04,108.08
+     attached to the bone. Therefore, if you lose gum, you're likely to lose bone with it.
+},
+{
+    108.08,110.52
+     It's the bone that holds the teeth in.
+},
+{
+    110.52,116.6
+     So if you lose gum, you lose bone, you lose support for the tooth, the tooth then becomes
+},
+{
+    116.6,119.66
+     loose, you're more at risk for losing that tooth.
+},
+{
+    119.66,121.34
+     What else about recession?
+},
+{
+    121.34,127.44
+     People come to me, I can't have anything cold or whenever air hits it
+},
+{
+    127.44,132.04
+     or when I brush it, it's really sensitive. Why is it sensitive? Because the roots are
+},
+{
+    132.04,137.88
+     much more sensitive than the crowns are and when those roots are exposed, they're sensitive.
+},
+{
+    137.88,143.68
+     Sometimes they come in because I don't like the way it looks. I mean this is really bad,
+},
+{
+    143.68,148.08
+     can you do something about that? So the appearance is another reason.
+},
+{
+    148.08,151.84
+     Sometimes people come in because when they're brushing it's just really sore.
+},
+{
+    151.84,154.36
+     Also the roots are more subject to decay.
+},
+{
+    154.36,159.4
+     So again if you have recession you can get decay more easily on that dentin because it's
+},
+{
+    159.4,160.92
+     not an amul.
+},
+{
+    160.92,169.08
+     So when you brush, if you really want to be safe, use a soft brush and kind of direct
+},
+{
+    169.08,175.24
+     the bristles toward the gum and brush downward on the top, wiggling it slightly coming down,
+},
+{
+    175.24,180.16
+     wiggling it slightly coming down so that you're not scrubbing it hard and causing it to recede
+},
+{
+    180.16,185.34
+     any more than necessary. A lot depends on your tissue type too. If you have thin
+},
+{
+    185.34,189.94
+     gums, you have to be way more careful than if you have thick heavy tissue. That
+},
+{
+    189.94,194.1
+     thick heavy tissue can withstand brushing better. If you've had braces very
+},
+{
+    194.1,198.06
+     often that'll cause the roots of the teeth to be more prominent or you simply
+},
+{
+    198.06,202.02
+     may have more prominent roots. That's another thing that makes recession much
+},
+{
+    202.02,208.22
+     more likely. So thin tissue, prominent roots, be careful.
+},
+{
+    208.22,211.44
+     If you've had trauma or injury, sometimes that can cause recession.
+},
+{
+    211.44,216.32
+     But the main thing is the tissue type combined with toothbrushes is what we find.
+},
+{
+    216.32,229.64
+     When we do have recession, what we can do is actually take gum tissue from another area and actually put it right there and I'm
+},
+{
+    229.64,232.54
+     stealing gum tissue from an area that I shouldn't be stealing it from which we
+},
+{
+    232.54,237.98
+     don't normally do and we can repair that we can largely repair it by doing a
+},
+{
+    237.98,243.12
+     graft but the worst this recession the more difficult it is to repair and
+},
+{
+    243.12,245.64
+     here's kind of an interesting example.
+},
+{
+    245.64,248.0
+     A young man came to us with a recession
+},
+{
+    248.0,249.24
+     around these lower front teeth.
+},
+{
+    249.24,251.24
+     You can see how long these roots are, and here,
+},
+{
+    251.24,252.64
+     and here, and here.
+},
+{
+    252.64,255.88
+     So he took a gum graft, and we placed it in these areas.
+},
+{
+    255.88,258.24
+     And you can see how it looks.
+},
+{
+    258.24,259.32
+     This tissue is thicker.
+},
+{
+    259.32,260.6
+     It's not thin.
+},
+{
+    260.6,263.2
+     It's much more resistant to recession.
+},
+{
+    263.2,265.0
+     And it's much more comfortable.
+},
+{
+    265.0,268.0
+     He's not having the sensitivity that he was having before.
+},
+{
+    268.0,269.0
+     Very pleased.
+},
+{
+    269.0,275.0
+     So there may be a lot more to this, but this is the essentials about brushing and recession.
+},
+{
+    275.0,280.0
+     And recession is something that we like to minimize or avoid if we possibly can.
+},
+{
+    280.0,282.0
+     Brush and moderation.
+},
+{
+    282.0,283.0
+     Don't be too vigorous.
+},
+{
+    283.0,285.5
+     If you've got a problem, check with your dentist and see if something can or't be too vigorous. If you've got a problem check with your dentist
+},
+{
+    285.5,288.5
+     and see if something can or should be done about it.
+},
+{
+    288.5,292.5
+     Okay, good health, take care, have a good day.
+},

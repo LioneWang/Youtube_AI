@@ -1,0 +1,728 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.84,13.64
+     Howdy folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.64,14.96
+     Brad Heineck, physical therapist.
+},
+{
+    14.96,17.0
+     We are the most famous physical therapists on the internet.
+},
+{
+    17.0,18.48
+     In our opinion, of course, Bob.
+},
+{
+    18.48,20.72
+     What is causing your shoulder pain?
+},
+{
+    20.72,22.8
+     Arthritis, how to tell.
+},
+{
+    22.8,25.94
+     So we're gonna go through the symptoms that we believe
+},
+{
+    25.94,30.2
+     and signs, objective signs that may indicate
+},
+{
+    30.2,31.8
+     that you have arthritis.
+},
+{
+    31.8,34.24
+     So pretty common, with shoulder arthritis,
+},
+{
+    34.24,35.92
+     I mean, if we bring Sam over here.
+},
+{
+    35.92,37.96
+     Bring him over, Sam, let's see what's going on.
+},
+{
+    37.96,42.08
+     So you have cartilage that covers the humerus,
+},
+{
+    42.08,45.08
+     the ball here, and you also have some here,
+},
+{
+    45.08,48.26
+     and you have basically a little thin piece
+},
+{
+    48.26,50.6
+     of cartilage going around in there, the labrum.
+},
+{
+    50.6,51.44
+     The labrum, yeah.
+},
+{
+    51.44,55.36
+     So this kind of over time, it's like Teflon, you know?
+},
+{
+    55.36,57.84
+     And you know how Teflon starts to wear off your pan?
+},
+{
+    58.84,59.68
+     You know what I mean?
+},
+{
+    59.68,61.2
+     Yeah, you should throw your pan away by then.
+},
+{
+    61.2,62.6
+     I know, by that time, yeah.
+},
+{
+    62.6,65.64
+     It starts to flake and it starts to wear down
+},
+{
+    65.64,68.8
+     and eventually you get what is called bone on bone.
+},
+{
+    68.8,70.36
+     And that's what you see quite often.
+},
+{
+    70.36,72.56
+     Obviously that can hurt.
+},
+{
+    72.56,74.64
+     And sometimes when I'm talking about before,
+},
+{
+    74.64,77.8
+     you know, you can hear and feel people
+},
+{
+    77.8,79.96
+     that have arthritic joints.
+},
+{
+    79.96,81.32
+     It's, it can be pretty security.
+},
+{
+    81.32,83.44
+     It's really loud on some people.
+},
+{
+    83.44,88.28
+     The grinding noise, clicking, cracking.
+},
+{
+    88.28,89.96
+     You can also get arthritis by the way,
+},
+{
+    89.96,92.0
+     just as a thought here,
+},
+{
+    92.0,94.12
+     in the acromioclavicular joint,
+},
+{
+    94.12,96.64
+     that's the clavicle or the collar bone,
+},
+{
+    96.64,98.36
+     where it attaches over here.
+},
+{
+    98.36,101.56
+     And this can give you some pain right in that area too.
+},
+{
+    101.56,104.12
+     And so just to let you know, I guess that's on the side.
+},
+{
+    104.12,107.32
+     Yeah, I dislocated that, and the doctor said
+},
+{
+    107.32,109.84
+     after the last visit is, yeah,
+},
+{
+    109.84,112.0
+     you're gonna have arthritis in that joint.
+},
+{
+    112.0,113.76
+     Have you felt it yet?
+},
+{
+    113.76,114.6
+     No.
+},
+{
+    114.6,115.94
+     Here he is, almost sick.
+},
+{
+    115.94,117.12
+     It will next year probably.
+},
+{
+    117.12,118.08
+     Now that I mentioned it.
+},
+{
+    118.08,119.72
+     It'll start up, yeah.
+},
+{
+    119.72,121.96
+     You can move that all the way, Brad.
+},
+{
+    121.96,126.4
+     So with arthritis, generally you can feel pain
+},
+{
+    126.4,129.28
+     in the front, the side, and maybe even the back
+},
+{
+    129.28,130.12
+     a little bit.
+},
+{
+    131.0,133.24
+     It can refer down the arm a little bit,
+},
+{
+    133.24,135.84
+     but it's certainly not gonna go into your forearm
+},
+{
+    135.84,137.48
+     or hand or fingers.
+},
+{
+    137.48,141.32
+     That would be more of a neck problem or a nerve problem.
+},
+{
+    141.32,144.12
+     So I'd say you'd see referral down
+},
+{
+    144.12,147.24
+     into this area possibly with arthritis.
+},
+{
+    147.24,150.74
+     You may feel more pain when you're pushing
+},
+{
+    150.74,152.28
+     or bearing some weight to your arm.
+},
+{
+    152.28,153.8
+     Yeah, cause you're grinding it then.
+},
+{
+    153.8,156.44
+     Think about it, you're grinding that joint together.
+},
+{
+    156.44,159.58
+     So one of the habits that I'm into,
+},
+{
+    159.58,161.76
+     which you should try to avoid,
+},
+{
+    161.76,164.44
+     is I lean on one arm when I'm reading the paper
+},
+{
+    164.44,165.8
+     or eating my cereal or eating. And you're I lean on one arm when I'm reading the paper or eating my cereal
+},
+{
+    165.8,169.54
+     or eating and you know, you're really leaning on that arm
+},
+{
+    169.54,172.08
+     and it's internally rotated so that's even worse.
+},
+{
+    172.08,174.56
+     So you wanna get out of those habits
+},
+{
+    174.56,175.8
+     of leaning on to the arm.
+},
+{
+    175.8,178.0
+     Some people often lay in bed too,
+},
+{
+    178.0,179.88
+     you know, in that propped up position.
+},
+{
+    179.88,180.72
+     And their stomach?
+},
+{
+    180.72,181.56
+     Yeah.
+},
+{
+    181.56,182.4
+     Can I show?
+},
+{
+    182.4,184.12
+     Well, it's like when you watch TV when I'm a kid.
+},
+{
+    184.12,185.08
+     Yeah, that's what I mean. Some people, I read? Well, it's like when you watch TV when I'm a kid. That's what I mean.
+},
+{
+    185.08,188.24
+     Some people, I read like this sometimes in bed.
+},
+{
+    188.24,189.08
+     Really?
+},
+{
+    189.08,189.92
+     Yep.
+},
+{
+    189.92,190.76
+     I guess my neck sore.
+},
+{
+    190.76,192.12
+     It's just, well, it's good on my back.
+},
+{
+    192.12,192.96
+     So.
+},
+{
+    192.96,194.04
+     Oh, I see that.
+},
+{
+    194.04,195.48
+     I can't do that one.
+},
+{
+    195.48,199.36
+     So, the other thing, if you're lifting a heavy object
+},
+{
+    199.36,201.96
+     and the joint is really, you know,
+},
+{
+    201.96,204.52
+     grinding together to hold it, or joint in place.
+},
+{
+    204.52,207.32
+     Yeah, yep. You could have pain with that.
+},
+{
+    207.32,210.56
+     Arthritis, it can start to even hurt at rest
+},
+{
+    210.56,213.16
+     if you've been doing a lot during the day.
+},
+{
+    213.16,217.52
+     So, but one of the telltale signs I think
+},
+{
+    217.52,222.2
+     is that your shoulder becomes limited in motions.
+},
+{
+    222.2,226.16
+     And the motion that tends to be limited first
+},
+{
+    226.16,228.6
+     and the worst is external rotation.
+},
+{
+    228.6,229.92
+     And we're gonna show you how to measure that,
+},
+{
+    229.92,233.0
+     but that's basically turning your arms out like this.
+},
+{
+    233.0,237.46
+     So that, not out like this, elbow and out like this,
+},
+{
+    237.46,239.36
+     that's the one that tends to be most limited.
+},
+{
+    239.36,240.44
+     Like some people you'll see
+},
+{
+    240.44,243.04
+     they can't even go out like this at all.
+},
+{
+    243.04,245.12
+     And this is something you have to actually think about
+},
+{
+    245.12,250.12
+     because normally people don't do this and do it real life.
+},
+{
+    250.48,253.92
+     It's all part of a complex series of emotions probably.
+},
+{
+    253.92,256.16
+     But so we'll show you the way to assess it more.
+},
+{
+    256.16,258.36
+     The second one that tends to get limited,
+},
+{
+    258.36,259.78
+     not as much as external rotation,
+},
+{
+    259.78,261.82
+     but the second in line is abduction.
+},
+{
+    261.82,263.68
+     So that's just going up in this direction.
+},
+{
+    263.68,264.96
+     And yeah, you'll see a lot of people
+},
+{
+    264.96,267.04
+     that kind of go any higher than this.
+},
+{
+    267.04,269.58
+     You know, it's not just a matter of getting pain up here.
+},
+{
+    269.58,270.6
+     Like they're limited.
+},
+{
+    270.6,271.8
+     They hit the wall.
+},
+{
+    271.8,274.16
+     It won't go any further.
+},
+{
+    274.16,276.48
+     And the last one is shoulder internal rotation,
+},
+{
+    276.48,278.64
+     which is basically like this.
+},
+{
+    278.64,281.12
+     And we'll show you how to measure all three of these
+},
+{
+    281.12,284.24
+     laying down on a flat surface.
+},
+{
+    284.24,286.92
+     So. It's the best way to assess it actually.
+},
+{
+    286.92,290.44
+     So I'll do that and you can be like the interpreter.
+},
+{
+    290.44,291.28
+     Sure.
+},
+{
+    291.28,293.48
+     Like, you know how they have interpreters at.
+},
+{
+    293.48,295.76
+     Ideally, you know, if we had a camera.
+},
+{
+    295.76,296.96
+     A siren which interpreter.
+},
+{
+    296.96,298.84
+     Yeah, if we had a camera up here looking down,
+},
+{
+    298.84,301.76
+     then you could see it, but I'll be the camera
+},
+{
+    301.76,303.04
+     explaining what it looks like.
+},
+{
+    303.04,305.52
+     So I have elbows into my side,
+},
+{
+    305.52,307.52
+     palms facing each other,
+},
+{
+    307.52,310.3
+     and then I'm just gonna let them go out like that.
+},
+{
+    310.3,313.04
+     And you're gonna see, is one tighter than the other?
+},
+{
+    313.04,315.56
+     Is your painful shoulder tighter than the other?
+},
+{
+    315.56,317.6
+     And that might mean that you have some arthritis
+},
+{
+    317.6,318.44
+     in the shoulder,
+},
+{
+    318.44,321.08
+     because the joint has tightened up on you, the capsule.
+},
+{
+    321.08,323.2
+     You may have to have someone else look at you,
+},
+{
+    323.2,324.36
+     because it's kind of hard to see,
+},
+{
+    324.36,325.4
+     but you know,
+},
+{
+    325.4,327.24
+     the distance from-
+},
+{
+    327.24,332.08
+     If it's really, you know, a lot,
+},
+{
+    332.08,333.76
+     I think you'll be able to pick it out.
+},
+{
+    333.76,335.48
+     How's it looked out?
+},
+{
+    335.48,336.8
+     You're a little higher on this one.
+},
+{
+    336.8,339.2
+     So the distance from this hand down,
+},
+{
+    339.2,341.88
+     if the bed came out, is a little higher than this one,
+},
+{
+    341.88,342.92
+     but it's pretty close.
+},
+{
+    342.92,345.16
+     Now this one, you just put your thumbs up
+},
+{
+    345.16,348.64
+     or you can actually put your palms face up
+},
+{
+    348.64,350.36
+     and just you're gonna go out to the side like this.
+},
+{
+    350.36,351.4
+     I'm gonna run it into the wall here.
+},
+{
+    351.4,354.24
+     So he's doing kinda like that snow angel if you're-
+},
+{
+    354.24,355.96
+     Now you can see on this one,
+},
+{
+    355.96,357.72
+     I have more trouble with this one.
+},
+{
+    357.72,358.56
+     Don't you see that Brad?
+},
+{
+    358.56,361.6
+     Oh yeah, your right shoulder is tighter than your left.
+},
+{
+    361.6,363.28
+     No, my left shoulder.
+},
+{
+    363.28,364.84
+     Oh, that's right.
+},
+{
+    364.84,366.56
+     My right, your left. No, my left shoulder. Oh, that's right. My right, your left.
+},
+{
+    366.56,368.76
+     So definitely in trouble.
+},
+{
+    368.76,370.6
+     And I've had issues with that one.
+},
+{
+    370.6,374.2
+     I've had a muscle that got paralyzed.
+},
+{
+    374.2,378.0
+     So last one is you're gonna actually put your arms out
+},
+{
+    378.0,382.48
+     to a T, so straight across, palms forward,
+},
+{
+    382.48,384.8
+     and you're just gonna let it rotate forward like that.
+},
+{
+    384.8,387.6
+     Yeah. How do I look at this one?
+},
+{
+    387.6,388.44
+     Pretty even.
+},
+{
+    388.44,390.84
+     From the camera angle, it's a very perfect angle.
+},
+{
+    390.84,394.6
+     You can see, do it so it wouldn't be even just to make,
+},
+{
+    394.6,396.28
+     so that one's down and this one's up high.
+},
+{
+    396.28,399.08
+     That would be, this would be the tight shoulder.
+},
+{
+    399.92,401.56
+     So, yep.
+},
+{
+    401.56,404.2
+     So that'll give you the idea.
+},
+{
+    404.2,406.56
+     With arthritis, we'll be showing you some things
+},
+{
+    406.56,408.0
+     you can do for it, but basically,
+},
+{
+    408.0,410.6
+     you're trying to regain that motion as much as possible.
+},
+{
+    410.6,412.76
+     That's the best thing for it.
+},
+{
+    412.76,413.6
+     Thanks for watching.
+},
+{
+    413.6,414.6
+     Oh, that's it.
+},
+{
+    414.6,None
+     Yeah. you
+},

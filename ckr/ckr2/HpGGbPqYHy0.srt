@@ -1,0 +1,204 @@
+{
+    0.0,2.6
+     Nothing beats a spot of football in the park.
+},
+{
+    2.68,4.44
+     Fresh air, aerobic exercise,
+},
+{
+    4.52,8.12
+     and of course, the chance to show off those silky football skills,
+},
+{
+    8.2,9.68
+     like the stepover,
+},
+{
+    11.28,12.84
+     or the cry of turn,
+},
+{
+    15.04,16.6
+     or the rainbow flick.
+},
+{
+    18.24,21.0
+     But football can also be dangerous.
+},
+{
+    28.76,32.9
+     You could turn sharply and twist an ankle. I don't think so Chris. Well, well you could injure yourself if someone tackled you. Very unlikely in my
+},
+{
+    32.9,37.7
+     case. You could break your fifth metatarsal kicking the ball too hard. My
+},
+{
+    37.7,41.84
+     metatarsals are as hard as tough and steel. Alright, well look just be careful
+},
+{
+    41.84,48.4
+     when we're playing. Now, Zondi, on me, Edson!
+},
+{
+    50.8,53.24
+     That manoeuvre's known as the Chris Clonk, but it's also an injury alert.
+},
+{
+    53.24,56.84
+     Wow! Chris is very good at pretending to be knocked out, isn't he?
+},
+{
+    60.28,64.36
+     So, what should you do if you think someone is unconscious and breathing?
+},
+{
+    70.28,74.48
+     A, tip their head back, check they are breathing and roll them onto their side. B, shout, wakey, wakey, really loudly.
+},
+{
+    74.48,79.8
+     Or C, lie down next to them and have us sleep, enjoying the peace and quiet.
+},
+{
+    79.8,86.0
+     The answer is A, tip their head back, check their breathing, and roll them onto their side.
+},
+{
+    86.0,89.0
+     First thing we want to do is check if he's breathing.
+},
+{
+    89.0,92.0
+     We tilt his head back a little bit so his airway's open.
+},
+{
+    92.0,94.0
+     Then Hannah listens. I can feel his breath on my ear
+},
+{
+    94.0,96.0
+     and I can see his chest breathing,
+},
+{
+    96.0,98.0
+     so we definitely know he's breathing.
+},
+{
+    98.0,100.0
+     So now we need to roll him onto his side
+},
+{
+    100.0,102.0
+     so we get his leg up here,
+},
+{
+    102.0,104.0
+     get his arm over here,
+},
+{
+    104.0,107.92
+     and then we can pull him this way.
+},
+{
+    107.92,111.24
+     And then we can use this hand to support his head.
+},
+{
+    111.24,113.24
+     And now if he's sick, it goes on the ground.
+},
+{
+    113.24,114.56
+     His tongue is going to fall forward,
+},
+{
+    114.56,115.84
+     so it won't stop him breathing.
+},
+{
+    115.84,116.84
+     And we can go and get help.
+},
+{
+    116.84,118.04
+     This is nice and safe.
+},
+{
+    118.04,119.32
+     Who wants to have a go?
+},
+{
+    119.32,120.32
+     Me!
+},
+{
+    125.0,129.0
+     Remember, never do this on your own unless it is an emergency.
+},
+{
+    129.0,131.0
+     It's always best to find an adult.
+},
+{
+    131.0,133.0
+     Check if she's breathing.
+},
+{
+    133.0,135.0
+     Well done, girls.
+},
+{
+    135.0,137.0
+     Yeah, he's breathing.
+},
+{
+    137.0,140.0
+     Next, get them into the recovery position.
+},
+{
+    140.0,142.0
+     And then what's the final thing we've got to do?
+},
+{
+    142.0,144.0
+     Check if she's breathing.
+},
+{
+    144.0,145.96
+     That's good. So you have a good old listen, good old look,
+},
+{
+    145.96,147.8
+     and she's still breathing.
+},
+{
+    147.8,150.2
+     So if someone has been knocked unconscious
+},
+{
+    150.2,152.52
+     and they're breathing, tip their head back,
+},
+{
+    152.52,155.64
+     roll them onto one side, and find an adult.
+},
+{
+    155.64,157.16
+     Do you want to see my new football trick?
+},
+{
+    157.16,159.84
+     It's called the Zarn Loop Lift and Dive.
+},
+{
+    159.84,161.76
+     Let me think about that for a second.
+},
+{
+    161.76,None
+     No!
+},

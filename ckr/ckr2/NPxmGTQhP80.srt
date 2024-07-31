@@ -1,0 +1,156 @@
+{
+    0.0,7.2
+     Hello, when we measure someone's temperature we are measuring how warm or cold they are.
+},
+{
+    7.2,16.18
+     To do this we use a thermometer and the reading is given in degrees centigrade.
+},
+{
+    16.18,21.48
+     The human body is very clever and works hard to keep our vital organs such as our brain,
+},
+{
+    21.48,26.26
+     heart and kidneys at a steady temperature of 37 degrees centigrade.
+},
+{
+    26.26,29.18
+     In order to keep our temperature at the same level,
+},
+{
+    29.18,32.36
+     our blood vessels and skin works to either warm us up
+},
+{
+    32.36,34.36
+     or cool us down.
+},
+{
+    34.36,37.56
+     When we get too cold, hairs on our skin stand up
+},
+{
+    37.56,40.08
+     to trap heat and warm us up.
+},
+{
+    40.08,42.84
+     Our blood vessels narrow so that less blood flows
+},
+{
+    42.84,45.28
+     to our skin and less heat is lost to
+},
+{
+    45.28,47.48
+     the outside world.
+},
+{
+    47.48,51.02
+     When we get too hot our skin starts to sweat.
+},
+{
+    51.02,56.44
+     As the sweat dries heat gets transferred away from our body to cool us down.
+},
+{
+    56.44,61.52
+     Our blood vessels widen so more blood flows to our skin and more heat is lost to the outside
+},
+{
+    61.52,66.84
+     world.
+},
+{
+    66.84,72.64
+     A high temperature above 38 degrees centigrade is described as a fever and is often a sign
+},
+{
+    72.64,78.4
+     of infection.
+},
+{
+    78.4,85.6
+     A low body temperature below 36 degrees centigrade might mean that the person has been in a cold environment and
+},
+{
+    85.6,91.08
+     will go back to normal when they warm up. But it can also be a sign that a person is
+},
+{
+    91.08,95.56
+     ill so don't ignore a low temperature if you are worried.
+},
+{
+    95.56,105.72
+     There are lots of types of thermometers including digital, ear and strip type thermometers. Strip type
+},
+{
+    105.72,109.08
+     thermometers are not as good as they measure the temperature of the skin and
+},
+{
+    109.08,114.4
+     not the core body temperature. If possible the best thermometer to use is the
+},
+{
+    114.4,119.0
+     ear thermometer as they are quick and easy to use and usually come with
+},
+{
+    119.0,123.8
+     instructions. These can be bought from pharmacies to keep in the home with the
+},
+{
+    123.8,126.2
+     person you care for.
+},
+{
+    126.2,130.8
+     If you are using an ear thermometer, check the person is happy to have their temperature
+},
+{
+    130.8,132.8
+     checked.
+},
+{
+    132.8,135.88
+     Make sure that the thermometer is clean.
+},
+{
+    135.88,140.6
+     Put a new, clean disposable cover on the end of the probe.
+},
+{
+    140.6,144.72
+     Gently pull the ear back and put the probe into the ear canal.
+},
+{
+    144.72,148.0
+     The ear canal points slightly downwards and to the face.
+},
+{
+    148.0,153.0
+     The reading may not be accurate if the probe isn't fully put into the ear.
+},
+{
+    153.0,157.0
+     Squeeze and hold down the button for one second.
+},
+{
+    157.0,161.0
+     Remove the thermometer and read the temperature.
+},
+{
+    161.0,165.28
+     Write down the temperature as it can be easy to forget the numbers.
+},
+{
+    165.28,171.94
+     Throw the disposable tip away. If you're worried about someone's temperature please
+},
+{
+    171.94,None
+     talk to someone. This video may help you with telling someone you are worried. you
+},

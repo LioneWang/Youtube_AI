@@ -1,0 +1,192 @@
+{
+    0.0,9.36
+     Examination of the lymph nodes A thorough clinical examination should usually
+},
+{
+    9.36,16.72
+     include both a systematic inspection and palpation of the clinically relevant lymph node stations.
+},
+{
+    16.72,25.0
+     The most important stations are the head and neck area, the axilla and the inguinal area.
+},
+{
+    25.0,32.32
+     Consequently, the lymph nodes are usually examined from cranial to caudal.
+},
+{
+    32.32,36.44
+     Around one-third of all lymph nodes are located in the head and neck area, where they can
+},
+{
+    36.44,40.16
+     be found superficially and are therefore easily palpable.
+},
+{
+    40.16,46.42
+     The following lymph nodes should be included in every palpation, suboxypetal, retro and
+},
+{
+    46.42,56.38
+     pre-aricular, submandibular, submental, posterior triangle of the neck, and those within the
+},
+{
+    56.38,61.9
+     area of the internal jugular vein, which lie deep within the neck and may be palpated ventral
+},
+{
+    61.9,65.0
+     or dorsal to the sternocleidomastoid muscle.
+},
+{
+    66.0,70.0
+     Additionally, the superclavicular lymph nodes should be palpated as well,
+},
+{
+    70.0,75.0
+     since enlargement of these lymph nodes is often associated with malignancies.
+},
+{
+    76.0,81.0
+     Abdominal tumors that metastasize via the lymphatic system, such as gastric cancer,
+},
+{
+    81.0,87.0
+     will often result in an enlarged, virtual node in the left superclavicular fossa.
+},
+{
+    93.0,96.0
+     Carefully palpate the individual lymph node stations.
+},
+{
+    98.0,109.0
+     To facilitate differentiation between lymph nodes and muscles, the area that is palpated should be as relaxed as possible.
+},
+{
+    109.0,115.16
+     Every palpable lymph node is considered enlarged.
+},
+{
+    115.16,121.24
+     If there is enlargement, pay attention to consistency, tenderness, mobility, the number
+},
+{
+    121.24,126.0
+     of enlarged lymph nodes and any erythema in the affected area.
+},
+{
+    128.0,134.0
+     Multiple fused lymph nodes are referred to as conglomerates and are highly suspicious for malignancy.
+},
+{
+    143.0,149.28
+     After palpating the head and neck, continue by examining the axillary lymph nodes, which
+},
+{
+    149.28,154.0
+     can be divided into different groups as well.
+},
+{
+    154.0,160.16
+     The pictoral or anterior group is located in the anterior axillary fold and is responsible
+},
+{
+    160.16,166.0
+     for the majority of lymphatic drainage of the chest and chest wall.
+},
+{
+    173.0,177.0
+     The subscapular, or posterior lymph node group, is palpable deep within the posterior axillary fold. It drains parts of the arms and the chest wall.
+},
+{
+    178.0,185.68
+     The brachial, or lateral lymph nodes, drain the majority of the arms and can be palpated in the area of the proximal humerus.
+},
+{
+    187.28,191.28
+     All of the lymph node groups just mentioned then drain into the central group,
+},
+{
+    191.28,198.0
+     which is palpable at the base of the axilla. The subclavicular or apical group represents the last
+},
+{
+    198.0,205.04
+     lymph node station before the lymphatic vessels drain into the venous system. This group should be examined together with the
+},
+{
+    205.04,211.56
+     cervical or axillary lymph nodes. In this patient, the examiner starts by palpating
+},
+{
+    211.56,218.04
+     the pectoral group behind the lateral aspect of the pectoralis major muscle. Afterwards,
+},
+{
+    218.04,227.0
+     he palpates the central group, followed by the posterior group in the area of the posterior axillary fold and the brachial group of the upper arm.
+},
+{
+    230.48,233.28
+     Distinguishing between lymph nodes and surrounding muscles
+},
+{
+    233.28,236.48
+     is best achieved when the arm is relaxed and lowered.
+},
+{
+    239.48,244.0
+     Afterwards, the superficial lymph nodes of the inguinal area should be palpated.
+},
+{
+    245.0,247.0
+     In other words, the superficial lymph nodes of the inguinal area should be palpated.
+},
+{
+    251.0,253.0
+     They are divided into a horizontal and a vertical group.
+},
+{
+    259.0,260.0
+     The horizontal group lies below the inguinal ligament and can therefore be palpated parallel to its course.
+},
+{
+    265.6,269.04
+     This group is responsible for draining parts of the external genitalia, trunk and lower back.
+},
+{
+    273.36,276.4
+     The vertical group is located adjacent to the great proximal syphenis vein and drains lymphatic fluid from the lower extremity.
+},
+{
+    280.24,285.0
+     Examination of the inguinal lymph nodes is best performed with the patient lying down.
+},
+{
+    289.5,294.0
+     As a lymphatic organ, the spleen should always be a part of the lymph node assessment,
+},
+{
+    294.0,299.0
+     since splinomegaly can hint at a systematic inflammatory or malignant illness.
+},
+{
+    304.5,308.6
+     The spleen is generally not palpable in healthy adults.
+},
+{
+    308.6,314.66
+     A pathologically enlarged spleen is palpated under the left costal margin during inspiration
+},
+{
+    314.66,318.96
+     as the inferior edge descends to the examiner's fingertips.
+},
+{
+    318.96,326.0
+     If an enlarged spleen is already suspected, palpation should begin further down.
+},
+{
+    326.0,None
+     The examination may be facilitated by gently lifting the left flank of the patient ventrally. you
+},

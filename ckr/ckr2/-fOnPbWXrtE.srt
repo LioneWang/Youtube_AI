@@ -1,0 +1,76 @@
+{
+    0.0,2.0
+     You know during the course of everyday life
+},
+{
+    4.08,9.26
+     Hi, I'm captain Joe Bruni and what I'm going to go over and discuss is how to stop severe bleeding
+},
+{
+    10.02,15.38
+     When an injury occurs severe bleeding can cause a great deal of excitement
+},
+{
+    15.38,20.54
+     Not only for the victim but for the bystanders who are going to perform first aid
+},
+{
+    21.32,26.76
+     The key is to take some type of sterile dressing found in a first aid kit
+},
+{
+    26.76,33.76
+     or very clean cloth material and place over the injured site and apply pressure. Pressure
+},
+{
+    34.54,41.38
+     in that area will help to stop the bleeding from occurring. With a significant amount
+},
+{
+    41.38,48.0
+     of pressure, if that does not stop the bleeding, then the next step would be to raise
+},
+{
+    48.0,53.0
+     the injured limb above the person's heart or head
+},
+{
+    53.0,58.0
+     and possibly applying pressure to an artery
+},
+{
+    58.0,60.0
+     located in the general vicinity
+},
+{
+    60.0,71.0
+     to help slow down the blood flow to that injured site. Constant pressure in that area should help to reduce and stop bleeding.
+},
+{
+    71.0,80.0
+     Also, some type of cling or wrap can be used to wrap the pressure bandage in place
+},
+{
+    80.0,87.8
+     and hold it while continued pressure is applied. After the cling, you may even
+},
+{
+    87.8,93.9
+     want to consider some type of elastic or pressure bandage while continuing to hold pressure
+},
+{
+    93.9,100.76
+     in that area until the individual can be taken to an emergency department to receive sutures
+},
+{
+    100.76,108.0
+     to stop bleeding and to begin the process of healing. Severe bleeding can cause a great deal of excitement,
+},
+{
+    108.0,111.0
+     not only for the victim, but for the rescuer themselves.
+},
+{
+    111.0,114.0
+     I'm Captain Joe Bruni. Stay safe and we'll see you next time.
+},

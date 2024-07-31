@@ -1,0 +1,152 @@
+{
+    0.0,7.24
+     So, what do you do if you find an unconscious person?
+},
+{
+    7.24,11.68
+     Say you're walking down the street and you see someone laying on the floor or you come
+},
+{
+    11.68,15.62
+     home and a family member or a friend is on the floor.
+},
+{
+    15.62,20.6
+     The first thing you're going to do is you're going to assess for safety of the scene.
+},
+{
+    20.6,24.04
+     You want to make sure that if there's something that put this person in this position, you
+},
+{
+    24.04,26.4
+     don't want that same thing to put you in the same position because you're
+},
+{
+    26.4,31.76
+     not any help to anybody if you're also unconscious. And then you go up to the person and you say,
+},
+{
+    31.76,35.92
+     are you okay? Can you hear me? Everything okay? You know, kind of like we see on the
+},
+{
+    35.92,40.44
+     movies. Annie, Annie, are you okay? You want to check to see if there's any kind of, if
+},
+{
+    40.44,45.88
+     they're breathing, if they have a pulse and you can check on their elbows, on their wrists,
+},
+{
+    45.88,48.72
+     on their neck, up here, you can check on their neck.
+},
+{
+    48.72,50.56
+     And if they are, then you wanna see
+},
+{
+    50.56,52.12
+     if there's any other kind of trauma,
+},
+{
+    52.12,54.08
+     where they hit in the head.
+},
+{
+    54.08,56.2
+     Was there anything nearby that may have hurt them?
+},
+{
+    56.2,57.64
+     Did they trip on something?
+},
+{
+    57.64,60.72
+     Is there anything around, is there alcohol all around?
+},
+{
+    60.72,62.88
+     And maybe they just had a lot of too much fun last night,
+},
+{
+    62.88,64.76
+     something like that, you wanna make sure
+},
+{
+    64.76,68.02
+     you can see what's around and if you can try to figure it out.
+},
+{
+    68.02,72.64
+     If you suspect any kind of head injury or especially neck injury, if you suspect any
+},
+{
+    72.64,77.34
+     kind of neck injury or spinal injury, you're not going to want to move your friend, okay?
+},
+{
+    77.34,80.82
+     Keep them as they are still, call 911 and wait for help.
+},
+{
+    80.82,84.74
+     Monitor to make sure that they're breathing, that they have a pulse and stay on the line
+},
+{
+    84.74,87.9
+     until the ambulance gets there. If the person is vomiting or
+},
+{
+    87.9,92.9
+     there's fluids coming out and you feel comfortable that there wasn't a neck or a
+},
+{
+    92.9,95.86
+     spine injury then you're going to want to put them in the recovery position. And
+},
+{
+    95.86,99.98
+     the same thing again, you're going to want to bend their knee, roll them over,
+},
+{
+    99.98,109.32
+     and then bring their arm over this way. And that way their head is to the side and any kind of fluids or vomit or anything that's
+},
+{
+    109.32,113.72
+     coming up will fall out of the mouth onto the floor and they won't choke on it.
+},
+{
+    113.72,116.84
+     The recovery position is very simple.
+},
+{
+    116.84,117.84
+     I can't say it enough.
+},
+{
+    117.84,118.84
+     It's very simple.
+},
+{
+    118.84,119.84
+     It can save someone's life.
+},
+{
+    119.84,123.96
+     If someone's unconscious, you just lift their knee, roll them over and roll them to the
+},
+{
+    123.96,124.96
+     side.
+},
+{
+    124.96,129.32
+     It can save your friend's life by just one simple move of rolling their body over to
+},
+{
+    129.32,129.8
+     the side.
+},

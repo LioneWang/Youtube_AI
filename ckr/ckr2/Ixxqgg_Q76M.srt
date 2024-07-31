@@ -1,0 +1,292 @@
+{
+    0.0,10.92
+     How to monitor oxygen levels and deliver oxygen therapy.
+},
+{
+    10.92,15.54
+     We're going to demonstrate how to check a patient's oxygen level using a pulse oximeter
+},
+{
+    15.54,20.2
+     and deliver oxygen therapy using an oxygen cylinder tank in nasal cannula.
+},
+{
+    20.2,22.44
+     Hi, what brings you in today?
+},
+{
+    22.44,27.88
+     So I've had a cough and my friend recently got tested positive for COVID-19.
+},
+{
+    27.88,29.88
+     Are you having any trouble breathing?
+},
+{
+    29.88,30.88
+     No.
+},
+{
+    30.88,36.12
+     I'm going to check your oxygen levels because some people that have COVID-19, even if they're
+},
+{
+    36.12,39.64
+     not having any trouble breathing, they can have low oxygen levels.
+},
+{
+    39.64,40.84
+     Okay.
+},
+{
+    40.84,47.82
+     Make sure to keep your pulse oximeter charged so it's ready to go. Turn on the pulse oximeter by pressing the power button.
+},
+{
+    47.82,51.9
+     Place the pulse oximeter so there's a snug fit on the finger.
+},
+{
+    51.9,56.4
+     The probe shouldn't be too tight, which may constrict the blood vessels,
+},
+{
+    56.4,59.62
+     or too loose, which may cause it to fall off or light in.
+},
+{
+    59.62,63.08
+     If the patient has henna, tattoos, nail polish,
+},
+{
+    63.08,65.28
+     or other dye on their finger, it may lead to
+},
+{
+    65.28,70.96
+     inaccurate results. You might have to switch the probe to a different finger, toe, or earlobe.
+},
+{
+    71.76,77.84
+     Many probes will beep when the reading is complete. The pulse oximeter shows that our patient has an
+},
+{
+    77.84,87.0
+     oxygen saturation of 85%. An oxygen saturation below 90%, even in a patient without symptoms, requires oxygen therapy.
+},
+{
+    87.0,90.0
+     Your oxygen levels are low.
+},
+{
+    90.0,92.0
+     So what does that mean?
+},
+{
+    92.0,97.0
+     Some people with COVID-19, even if they don't have trouble breathing, can have low oxygen levels.
+},
+{
+    97.0,102.0
+     I recommend we start oxygen therapy, so that way your brain and your heart can get the oxygen that you need.
+},
+{
+    102.0,105.28
+     Okay, if you think it'll help, but does it hurt?
+},
+{
+    105.28,107.12
+     Oh no, it's not going to hurt at all.
+},
+{
+    107.12,108.12
+     Okay.
+},
+{
+    108.12,109.88
+     You can just rest your hand right there.
+},
+{
+    109.88,112.92
+     First attach the regulator to the tank.
+},
+{
+    112.92,119.64
+     You don't have to screw it in too tightly, just enough so it's secure.
+},
+{
+    119.64,124.04
+     Slowly turn the valve counterclockwise to allow oxygen to flow.
+},
+{
+    124.04,129.44
+     Next, check the pressure gauge to make sure the needle is not in the red zone.
+},
+{
+    129.44,133.98
+     If it is in the red zone, that means there's not enough oxygen in the tank.
+},
+{
+    133.98,140.28
+     The flow meter can be started at a flow rate of 0.5 to 1 liter per minute for neonates,
+},
+{
+    140.28,146.28
+     1 to 2 liters per minute for infants and older children, up to a maximum of 4 liters per minute
+},
+{
+    146.28,151.68
+     for preschool and school-aged children, and up to a maximum of 5 liters per minute for adults.
+},
+{
+    151.68,159.28
+     Make sure that all the tubing is properly connected. If it's loose, tighten the connection. If you
+},
+{
+    159.28,163.6
+     aren't sure whether the equipment is working, place your hand in front of the nasal cannula to
+},
+{
+    163.6,166.36
+     feel if the oxygen is coming out.
+},
+{
+    166.36,171.52
+     Since the patient is an adult, you can start the oxygen at 5 liters per minute.
+},
+{
+    171.52,176.08
+     Oxygen should not be started in close proximity to flames or fire.
+},
+{
+    176.08,180.26
+     The nasal cannula prongs should be facing down as you place them.
+},
+{
+    180.26,184.24
+     For optimal results, make sure the person's nose is not blocked.
+},
+{
+    184.24,187.04
+     The tubing will go over the patient's ears to keep it in place.
+},
+{
+    187.84,193.36
+     After the oxygen has been flowing for 15 minutes, check the patient's oxygen levels again using
+},
+{
+    193.36,199.2
+     the pulse oximeter. Please note that with children, sometimes taping the tubing to the face with
+},
+{
+    199.2,206.0
+     medical tape can help to secure the nasal cannula. I'm going to check your oxygen levels again now that you have the oxygen flowing.
+},
+{
+    206.0,207.0
+     Okay.
+},
+{
+    208.0,213.0
+     In this case, the patient's oxygen levels have come up to 96%.
+},
+{
+    213.0,216.0
+     The goal saturation is above 90%.
+},
+{
+    216.0,217.0
+     The target has been reached.
+},
+{
+    217.0,219.0
+     Your oxygen is improving.
+},
+{
+    219.0,220.0
+     That's great.
+},
+{
+    221.0,225.0
+     The patient may need continued oxygen therapy for multiple days or weeks.
+},
+{
+    225.0,229.0
+     Options may include having them stay at the clinic if there is capacity
+},
+{
+    229.0,233.0
+     or transferring them to another facility or hospital for continued oxygen therapy.
+},
+{
+    233.0,238.0
+     There, providers can continue to monitor the patient's oxygen levels
+},
+{
+    238.0,242.0
+     and wean the patient off of the oxygen therapy once they no longer require it.
+},
+{
+    242.0,245.24
+     Now that the patient's oxygen saturation
+},
+{
+    245.24,247.32
+     is remaining above 90%,
+},
+{
+    247.32,250.76
+     the patient can be reassessed every four to six hours,
+},
+{
+    250.76,254.36
+     or at least once a day, to try decreasing the oxygen.
+},
+{
+    254.36,256.04
+     If the patient's oxygen levels
+},
+{
+    256.04,259.3
+     do not remain above 90% with the oxygen therapy,
+},
+{
+    259.3,262.12
+     do not go above two liters per minute for children
+},
+{
+    262.12,264.16
+     or above five liters per minute for adults
+},
+{
+    264.16,266.04
+     using the nasal cannula.
+},
+{
+    266.04,268.22
+     More intensive care is needed.
+},
+{
+    268.22,272.58
+     When you are finished using the pulse oximeter, clean it gently with a disinfectant cloth
+},
+{
+    272.58,274.22
+     or alcohol swab.
+},
+{
+    274.22,276.34
+     Dispose of the nasal cannula.
+},
+{
+    276.34,280.78
+     The equipment is safe to use in children, adults, and pregnant women and can deliver
+},
+{
+    280.78,283.62
+     life-saving therapy to people who need it.
+},
+{
+    283.62,286.7
+     For more information, please visit CDC.gov.
+},

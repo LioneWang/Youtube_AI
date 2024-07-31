@@ -1,0 +1,76 @@
+{
+    0.0,4.32
+     Now that we've got our skin nice and clean, we're going to numb her.
+},
+{
+    4.32,9.0
+     Okay, so with the numbing packets, you're going to mix all three, the benzocaine, the
+},
+{
+    9.0,16.92
+     lidocaine, and the tetrachaine.
+},
+{
+    16.92,23.28
+     The nice thing about these packets is it's already measured for an area, so you're not
+},
+{
+    23.28,26.88
+     using too much.
+},
+{
+    26.88,32.48
+     So after you've taken all three out, you're going to mix the three.
+},
+{
+    32.48,71.44
+     And then I just like to apply it to the skin first and then rub it in afterwards. That way you're doing the forehead that you take it all the way to the
+},
+{
+    71.44,83.08
+     hairline because it's the most sensitive part of the face.
+},
+{
+    83.08,91.48
+     Now with this client she's got nice full brows, but for some people that have had a microblading,
+},
+{
+    91.48,96.96
+     you want to avoid where they've had that because you don't want to break down their brow work.
+},
+{
+    96.96,108.44
+     She's just got the nice natural brows, making sure we've covered everywhere.
+},
+{
+    108.44,121.56
+     And we're going to leave this on 20 to 30 minutes.
+},
+{
+    121.56,126.52
+     Once she feels nice and numb, then we'll get started. So with her I'm
+},
+{
+    126.52,132.96
+     gonna do the restore needle. I think with when you're working on scarring it's
+},
+{
+    132.96,138.0
+     gonna be more effective because it's gonna go deeper in the skin.
+},
+{
+    140.2,144.2
+     Whereas the refine would be a good fit for someone that just wants to work on
+},
+{
+    144.2,149.68
+     the collagen buildup, someone that's got maybe more sensitive skin, someone that doesn't want
+},
+{
+    149.68,154.76
+     to have to worry about the numbing or the downtime because with the refine needle, you
+},
+{
+    154.76,156.88
+     won't get redness like you will with the restore.
+},

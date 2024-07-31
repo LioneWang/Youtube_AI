@@ -1,0 +1,200 @@
+{
+    0.0,6.9
+     Now let's talk about the skills required for use of an AED.
+},
+{
+    6.9,10.0
+     But the patient is a 17 year old teenager.
+},
+{
+    10.0,14.44
+     They're going to fit in with our adult level protocol when we use an AED.
+},
+{
+    14.44,15.44
+     But this is very common.
+},
+{
+    15.44,18.84
+     In fact, we've heard about it in the news a lot where you've got these kids, they're
+},
+{
+    18.84,23.52
+     somewhere between 14, 18 years old, they're on the court, they're on the field, and they
+},
+{
+    23.52,27.62
+     are healthy individuals seemingly, and then they go down in cardiac arrest.
+},
+{
+    27.62,31.2
+     So this is kind of the scenario that we're setting up for you, and we want to kind of
+},
+{
+    31.2,36.2
+     show how easy it is to get them the help they need in a rapid form.
+},
+{
+    36.2,40.72
+     So here we go, the scene is already safe, CPR has already been in progress, and whether
+},
+{
+    40.72,49.56
+     we brought the AED in or someone else brought it in, the point is it's here and it's ready to use. So let's go ahead and begin. When we have the AED
+},
+{
+    49.56,56.36
+     here, the very first thing we're going to do is turn it on. So it tells us to
+},
+{
+    56.36,71.28
+     remove the clothing. Many times they'll have a scissors right in the back.
+},
+{
+    75.84,80.0
+     It tells me to attach the pads and plug in the connectors so I'm going to work on that.
+},
+{
+    90.72,95.04
+     If I open this up I can see exactly the way these are supposed to go. One goes here, and one goes here, just like it shows right on the pads. Now, special note, if they're sweaty, dry them off.
+},
+{
+    95.04,98.08
+     If there's any kind of gel, dry it off.
+},
+{
+    98.08,101.68
+     If there's jewelry, it doesn't matter if they have piercings, but if they have a necklace,
+},
+{
+    101.68,108.8
+     and it's in between these two pads, we're going to move that jewelry just to the side so it's not in the way of the electrical
+},
+{
+    108.8,114.16
+     pathway. These are actually sticking quite well, so now I'm going to go to the last step,
+},
+{
+    114.16,125.4
+     which is plugging in the connector. Make sure not to touch the patient, don't bump him.
+},
+{
+    127.44,128.88
+     Shock advised. Charging.
+},
+{
+    128.88,130.44
+     Everyone stand clear.
+},
+{
+    131.6,133.76
+     Okay, we allow the AED to charge.
+},
+{
+    133.76,135.64
+     Everyone stand clear.
+},
+{
+    135.64,136.52
+     Push the shock.
+},
+{
+    136.52,139.2
+     Nobody's touching the patient, I discharge.
+},
+{
+    139.2,140.52
+     Shock delivered.
+},
+{
+    140.52,142.96
+     Begin five cycles of CPR.
+},
+{
+    142.96,144.84
+     Now it's important that we go straight
+},
+{
+    144.84,146.46
+     into chest compressions,
+},
+{
+    146.46,148.38
+     the same way we did CPR,
+},
+{
+    148.38,151.0
+     that two to 2.4 inch depth,
+},
+{
+    151.0,153.76
+     100 to 120 compressions per minute.
+},
+{
+    153.76,155.16
+     We go right over the cable,
+},
+{
+    155.16,157.2
+     we go right over the AED pads.
+},
+{
+    157.2,159.88
+     We don't remove them, we don't disconnect them,
+},
+{
+    159.88,163.16
+     we just do our compressions right over them.
+},
+{
+    163.16,166.44
+     We could follow the metronome, but it's not necessary.
+},
+{
+    166.44,170.76
+     We know how to do these CPR compressions, but we're going to do the normal CPR.
+},
+{
+    170.76,174.72
+     So we're doing our 30 compressions.
+},
+{
+    174.72,179.2
+     After the 30 compressions, just like before, we do the head tilt, chin lift, and we give
+},
+{
+    179.2,193.82
+     two rescue breaths. going right back into the chest compressions seven eight nine ten twenty five twenty six
+},
+{
+    193.82,210.16
+     twenty seven twenty eight twenty nine thirty followed by 30 more compressions.
+},
+{
+    210.16,219.56
+     When it interrupts, we stand clear and let it analyze for a rhythm.
+},
+{
+    219.56,224.0
+     So whether it says a shock is advised, it recharges so that you can shock, or whether
+},
+{
+    224.0,228.62
+     it says no shock advised, we're going to follow its promptings and go right back into whatever
+},
+{
+    228.62,230.12
+     it tells us to do.
+},
+{
+    230.12,234.3
+     We are going to continue to do this without taking anything off or turning anything off
+},
+{
+    234.3,240.0
+     until EMS arrives, until the person revives and starts breathing normally, or somebody
+},
+{
+    240.0,242.72
+     equally trained or higher comes and relieves us.
+},

@@ -1,0 +1,548 @@
+{
+    0.0,7.2
+     So we're going to talk today about the Stop the Bleed program and specifically bleeding
+},
+{
+    7.2,9.28
+     control techniques.
+},
+{
+    9.28,14.72
+     One of the things that we've learned as first responders, paramedics, firefighters, police
+},
+{
+    14.72,19.36
+     officers is that the people who are going to have the greatest impact and make the biggest
+},
+{
+    19.36,24.24
+     difference in a severe bleeding situation are really just the people who are around.
+},
+{
+    24.24,26.88
+     You can bleed to death from severe bleeding
+},
+{
+    26.88,29.52
+     in as little as three to five minutes.
+},
+{
+    29.52,34.42
+     Being able to use these tools to be able to stop the bleed
+},
+{
+    34.42,35.92
+     is really, really important.
+},
+{
+    35.92,37.96
+     So that's why we're here today.
+},
+{
+    37.96,41.12
+     So the, first of all, recognizing severe bleeding
+},
+{
+    41.12,43.0
+     and understanding what severe bleeding looks like
+},
+{
+    43.0,43.88
+     is really important.
+},
+{
+    43.88,48.0
+     So if you have a large wound where you have bleeding that is spurting out of the wound,
+},
+{
+    48.0,52.0
+     that's fairly obvious as severe bleeding and life-threatening bleeding as well.
+},
+{
+    52.0,58.0
+     So if you have something that's spurting, that's something that you need to intervene with immediately.
+},
+{
+    58.0,65.84
+     If you have blood that just won't stop coming out of the wound, that's also severe and needs to be treated as well. Anytime that
+},
+{
+    65.84,69.72
+     you have clothing that's soaked in blood, that would be considered severe bleeding or
+},
+{
+    69.72,73.6
+     pooling on the ground. Pooling of blood on the ground would be severe bleeding as well.
+},
+{
+    73.6,77.36
+     So recognizing those things is the first step and then intervening is the second. If we're
+},
+{
+    77.36,82.8
+     talking about an extremity, the best way to deal with that is one of these tourniquets.
+},
+{
+    82.8,86.34
+     And you know, these are military grade, military style tourniquets
+},
+{
+    86.34,89.98
+     that are adapted for civilian use.
+},
+{
+    89.98,94.98
+     They are the science and technology behind these.
+},
+{
+    95.8,97.2
+     It's not like the tourniquets that you learn,
+},
+{
+    97.2,98.56
+     maybe in the Boy Scouts.
+},
+{
+    98.56,101.2
+     There's a little bit more data behind these
+},
+{
+    101.2,102.64
+     to show that they actually do work
+},
+{
+    102.64,104.72
+     and they actually do control bleeding.
+},
+{
+    104.72,109.54
+     So we wanna stay away from any sort of improvised tourniquets and only use these specified tourniquets
+},
+{
+    109.94,113.58
+     if you're going to use these to stop bleeding.
+},
+{
+    114.4,117.1
+     The first thing that we're going to do is we're going to just open this up
+},
+{
+    117.1,119.5
+     and if you're applying a tourniquet to yourself,
+},
+{
+    119.68,125.44
+     the application process is fairly simple and all you're really going to do is put this on high
+},
+{
+    125.44,128.8
+     and you're going to put it on tight and you're going to just pull this strap here.
+},
+{
+    129.76,133.68
+     You're going to pull this thing around and then once I've got that nice and tight,
+},
+{
+    135.2,139.76
+     I'm just going to turn this windlass here a couple of times. I've got that a little low
+},
+{
+    140.88,143.36
+     so I'll flip it up just a little bit there.
+},
+{
+    146.4,150.56
+     So I'll flip it up just a little bit there. And you want to get this at least two to three inches above wherever the wound side is, but
+},
+{
+    150.56,154.88
+     we like to practice just high and tight because the higher you get this, the more bleeding
+},
+{
+    154.88,156.24
+     that you're going to stop.
+},
+{
+    156.24,161.58
+     And we don't want to confuse people too much with where to go, just above the site and
+},
+{
+    161.58,164.0
+     high and tight is what we want to tell people.
+},
+{
+    164.0,167.28
+     And then you're going to turn this windlass until bleeding stops.
+},
+{
+    167.28,171.16
+     And then once we have bleeding controlled, then we're going to go ahead and thread this
+},
+{
+    171.16,174.76
+     through and it's really, really a simple process, especially if you're putting it on somebody
+},
+{
+    174.76,178.2
+     else and you have two hands to work with.
+},
+{
+    178.2,182.24
+     There are a little bit painful and we've had people say that the tourniquet ends up hurting
+},
+{
+    182.24,185.04
+     a little bit worse than the wound sometimes,
+},
+{
+    185.04,186.04
+     but it's life-over-limit.
+},
+{
+    186.04,190.6
+     It will help save your life in these situations where we have severe bleeding.
+},
+{
+    190.6,196.4
+     If you don't have one of these very specific tourniquets, and you know, we're hoping that
+},
+{
+    196.4,201.4
+     there does come a time where these are readily accessible in public places and malls and
+},
+{
+    201.4,205.44
+     in shopping centers and things like that, you know, we're getting to that point
+},
+{
+    205.44,207.16
+     where you may see these in more places
+},
+{
+    207.16,210.24
+     and you may be able to respond and help somebody out
+},
+{
+    210.24,211.68
+     and use one of these tourniquets,
+},
+{
+    211.68,215.04
+     or maybe you'll carry one of these yourself at some point.
+},
+{
+    215.04,217.32
+     But we're not quite there yet and we recognize that.
+},
+{
+    217.32,221.08
+     So if you don't have one of these specified tourniquets,
+},
+{
+    221.08,223.6
+     the combat application tourniquet specifically
+},
+{
+    223.6,224.52
+     is what we recommend.
+},
+{
+    224.52,226.04
+     If you don't have one of these,
+},
+{
+    226.04,228.56
+     then what we do recommend is wound packing.
+},
+{
+    228.56,231.76
+     And so when you have a large vessel wound,
+},
+{
+    231.76,234.32
+     if you have a large extremity wound,
+},
+{
+    234.32,237.16
+     or a large wound to the neck or the groin,
+},
+{
+    237.16,239.12
+     that is severely bleeding,
+},
+{
+    239.12,240.64
+     what we want you to do is we want you
+},
+{
+    240.64,242.48
+     to apply pressure to that wound.
+},
+{
+    242.48,245.88
+     And you can do this so if you have some sort of addressing
+},
+{
+    245.88,247.96
+     in a trauma kit or something like that, great.
+},
+{
+    247.96,249.24
+     We would assume if you had a trauma kit,
+},
+{
+    249.24,251.28
+     you would also have dressing.
+},
+{
+    251.28,255.54
+     In the situation where you don't have a trauma tourniquet,
+},
+{
+    255.54,258.72
+     we would say don't apply a makeshift tourniquet,
+},
+{
+    258.72,263.48
+     belts and things like this, lanyards and other devices,
+},
+{
+    263.48,268.28
+     they're sometimes not strong enough to apply the necessary pressure.
+},
+{
+    268.28,272.56
+     And the trauma surgeons are finding that they can actually cause more damage or more harm
+},
+{
+    272.56,276.84
+     in some of the situations by adding more pressure to the wound.
+},
+{
+    276.84,281.2
+     And so we would say stay away from makeshift tourniquets and go straight to wound packing
+},
+{
+    281.2,282.84
+     and direct pressure.
+},
+{
+    282.84,286.2
+     And so when we're talking about wound packing,
+},
+{
+    286.2,287.6
+     you know, I have gauze here,
+},
+{
+    287.6,289.0
+     but really you can use anything.
+},
+{
+    289.0,291.04
+     You can use socks, you can use your shirt,
+},
+{
+    291.04,292.9
+     you can use any sort of absorbent material
+},
+{
+    292.9,294.34
+     that you can find in a situation
+},
+{
+    294.34,295.98
+     where you have somebody bleeding.
+},
+{
+    295.98,297.94
+     And I would say don't worry necessarily
+},
+{
+    297.94,300.82
+     about if it's really, really dirty.
+},
+{
+    300.82,304.18
+     You know, the person is going to get antibiotics
+},
+{
+    304.18,307.16
+     and the trauma surgeons would much rather you get them
+},
+{
+    307.16,310.32
+     there alive with their blood volume intact,
+},
+{
+    310.32,312.6
+     rather than worry about getting some dirt into a wound.
+},
+{
+    312.6,315.32
+     So don't worry about that too much.
+},
+{
+    315.32,316.92
+     I'm gonna just spread this just a little bit
+},
+{
+    316.92,319.32
+     to show basically what we're going for
+},
+{
+    319.32,320.52
+     when you're doing the wound packing.
+},
+{
+    320.52,323.52
+     You would do a quick wipe just to see
+},
+{
+    323.52,330.16
+     if you can see where the bleeding is coming from. And then're just going to put the wound, the material down in there and I'm
+},
+{
+    330.16,334.24
+     demonstrating this with one hand and of course with no gloves but in a situation where you
+},
+{
+    334.24,338.0
+     were helping somebody you would want to have gloves on if you can, if not then that's,
+},
+{
+    338.0,340.72
+     you know, you're going to have to judge that for yourself whether you want to get involved
+},
+{
+    340.72,341.72
+     in that situation.
+},
+{
+    341.72,344.88
+     I can tell you from my personal experience if I have somebody who's bleeding and I'm
+},
+{
+    344.88,346.12
+     off duty, I'm more likely who's bleeding and I'm off duty,
+},
+{
+    346.12,348.56
+     I'm more likely to help them than I'm not.
+},
+{
+    348.56,351.04
+     And so you're just basically gonna keep pushing
+},
+{
+    351.04,353.64
+     this material down in there, whatever the material is,
+},
+{
+    353.64,355.16
+     until you feel like you've got that down
+},
+{
+    355.16,357.12
+     to the bottom of the wound, you've filled up the wound,
+},
+{
+    357.12,358.88
+     and then you're gonna hold pressure.
+},
+{
+    358.88,360.48
+     And you're gonna hold that pressure
+},
+{
+    360.48,362.88
+     until the paramedics arrive and they're able
+},
+{
+    362.88,368.96
+     to either apply a tourniquet or take that pressure over for you. Don't peek at it to see if it stopped bleeding. That
+},
+{
+    368.96,372.48
+     will stop the clotting process and just hold that thing down and you can really
+},
+{
+    372.48,377.12
+     have a huge impact here just by applying pressure to a wound to stop bleeding
+},
+{
+    377.12,380.6
+     and hopefully save a life. You know we've gone over some of the basics of
+},
+{
+    380.6,383.24
+     bleeding control. We've talked about some tourniquets and tourniquet
+},
+{
+    383.24,389.72
+     application. We've talked about some wound packing and direct pressure. And really, you know, this
+},
+{
+    389.72,395.24
+     is the first steps into learning more about the Stop the Bleed program and taking a Bleeding
+},
+{
+    395.24,401.88
+     Control course. And I would really recommend that everybody take a Stop the Bleed course.
+},
+{
+    401.88,405.28
+     And so, you know, it's about an hour long course. It takes you through
+},
+{
+    405.76,413.28
+     recognizing that severe bleeding and it gives you the confidence to be able to intervene when you see somebody who's in a situation
+},
+{
+    413.96,418.12
+     where there's serious severe bleeding and they're at risk for disability or death.
+},
+{
+    418.28,422.18
+     So I would really recommend somebody go and take this course.
+},
+{
+    422.96,425.24
+     For the folks that are interested in buying
+},
+{
+    425.24,430.8
+     these tourniquets you can go to North American Rescue and that's narescue.com.
+},
+{
+    430.8,436.26
+     That's where the paramedics in the city here buy their tourniquets from,
+},
+{
+    436.26,440.12
+     the police officers and everybody else, that's where we supply from. So that would
+},
+{
+    440.12,446.72
+     be our recommendation is to use a certified company that sells these.
+},
+{
+    446.72,451.96
+     And then as far as bleeding control kits, they have kits that have actual clotting gauze
+},
+{
+    451.96,454.04
+     in there and everything else.
+},
+{
+    454.04,455.44
+     So that would be our recommendations.
+},
+{
+    455.44,459.6
+     Take a bleeding control class and maybe supply yourself with some of the stuff and certainly
+},
+{
+    459.6,463.48
+     be able to intervene when you see somebody who's in trouble.
+},

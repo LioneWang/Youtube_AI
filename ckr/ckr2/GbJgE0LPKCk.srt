@@ -1,0 +1,1444 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.2,14.76
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    14.76,16.08
+     Brad Heineck, physical therapist.
+},
+{
+    16.08,18.0
+     We are the most famous physical therapists on the internet.
+},
+{
+    18.0,19.36
+     In our opinion, of course, Bob.
+},
+{
+    19.36,20.56
+     Pumped up, Brad.
+},
+{
+    20.56,21.48
+     Pumped up.
+},
+{
+    21.48,25.36
+     Okay, how to treat sciatica and spinal stenosis
+},
+{
+    25.36,27.24
+     or spondylolisthesis.
+},
+{
+    27.24,28.36
+     Spondylolisthesis.
+},
+{
+    28.36,29.84
+     I always say it wrong.
+},
+{
+    29.84,34.04
+     This was actually a request from a retired French doctor.
+},
+{
+    34.04,34.88
+     Oh really?
+},
+{
+    34.88,38.04
+     Yeah, on email and he said he had both
+},
+{
+    38.04,40.92
+     and he was a big fan and he was hoping
+},
+{
+    40.92,41.9
+     we could help him out.
+},
+{
+    41.9,44.28
+     We have had requests for this on our comment section
+},
+{
+    44.28,45.32
+     over the years, so it's about time we take care of it. We get to tackle for this on us. Yeah, that's right. On this section over the years.
+},
+{
+    45.32,47.76
+     So it's about time we take care of it.
+},
+{
+    47.76,48.6
+     We get to tackle this.
+},
+{
+    48.6,49.44
+     By the way, if you're new to our channel,
+},
+{
+    49.44,51.12
+     please take a second to subscribe to us.
+},
+{
+    51.12,53.4
+     We provide videos on how to stay healthy, fit, pain-free,
+},
+{
+    53.4,54.78
+     and we upload every day.
+},
+{
+    54.78,56.68
+     Also, you always want to go and join us
+},
+{
+    56.68,58.48
+     on our website, bobandbrad.com.
+},
+{
+    58.48,60.12
+     Go to the giveaway section,
+},
+{
+    60.12,61.64
+     because we're always giving something away.
+},
+{
+    61.64,64.16
+     Right now, this week, I hate to say it,
+},
+{
+    64.16,68.46
+     but we're giving away our merchandise, our mugs.
+},
+{
+    68.46,71.88
+     If you want our ugly mugs on your mug,
+},
+{
+    72.72,75.16
+     just sign up and we're gonna give away a lot of these.
+},
+{
+    75.16,77.26
+     I mean, this is not a very big gift.
+},
+{
+    77.26,79.44
+     We also got the nice Strong Like Ball.
+},
+{
+    79.44,81.58
+     Yeah, so go to Facebook,
+},
+{
+    81.58,83.92
+     it'll be pinned to the top of the page.
+},
+{
+    83.92,85.72
+     You can also, if you want a short version of us,
+},
+{
+    85.72,87.44
+     go to Twitter or Instagram.
+},
+{
+    87.44,89.92
+     We got 60 seconds of Bob and Brad every day.
+},
+{
+    89.92,92.92
+     All right, so the first thing,
+},
+{
+    92.92,95.0
+     maybe we should talk just a little bit about sciatica
+},
+{
+    95.0,98.32
+     and spinal stenosis, spinal lasty, whatever,
+},
+{
+    98.32,99.76
+     however you're saying.
+},
+{
+    99.76,102.48
+     With sciatica, generally what we're trying to do
+},
+{
+    102.48,105.72
+     is avoid flexion like this.
+},
+{
+    105.72,109.56
+     Especially flexion movements, rounded out postures,
+},
+{
+    109.56,111.72
+     slumped postures.
+},
+{
+    111.72,114.36
+     Unfortunately with spinal stenosis,
+},
+{
+    114.36,116.6
+     that is the posture that feels better.
+},
+{
+    116.6,118.92
+     That's a little more comfortable than standing up
+},
+{
+    118.92,120.76
+     or particularly back a little bit.
+},
+{
+    120.76,123.08
+     You might even have heard of shopping cart syndrome.
+},
+{
+    123.08,126.36
+     Like when you have spinal stenosis or spondy, you tend to wanna lean on the cart because it feels a little bit. You might have even heard of shopping cart syndrome. Like when you have spinal stenosis or spondy,
+},
+{
+    126.36,128.08
+     you tend to want to lean on the cart
+},
+{
+    128.08,129.76
+     because it feels a lot better.
+},
+{
+    129.76,132.92
+     Yesterday I just worked with a gentleman shopping cart.
+},
+{
+    132.92,135.44
+     He says, I feel so much better when I go shopping
+},
+{
+    135.44,138.32
+     and lean on my cart, I can walk as far as I want.
+},
+{
+    138.32,140.8
+     It just, how does this stuff just fall into place, Bob?
+},
+{
+    140.8,142.6
+     I don't know, but you know, the thing is,
+},
+{
+    142.6,146.88
+     I had one lady, the problem with that is that over time,
+},
+{
+    146.88,149.32
+     you get to the point where you can't even straighten up
+},
+{
+    149.32,150.16
+     anymore.
+},
+{
+    150.16,151.0
+     Right.
+},
+{
+    151.0,152.48
+     So we're gonna recommend,
+},
+{
+    152.48,154.62
+     I don't know if you wanna show a spondy or not.
+},
+{
+    154.62,156.08
+     Probably don't even need to show it, do you?
+},
+{
+    156.08,158.28
+     That's all right, we'll see how it works out here.
+},
+{
+    158.28,162.0
+     Yeah, you know, she was to the point where she couldn't
+},
+{
+    162.0,164.2
+     straighten up any more than this.
+},
+{
+    164.2,167.92
+     So the first thing I want you to do is do not play
+},
+{
+    167.92,169.56
+     into the flexed posture.
+},
+{
+    169.56,171.08
+     Even though it feels better,
+},
+{
+    171.08,172.84
+     I want you to stay as straight as possible.
+},
+{
+    172.84,177.72
+     We want to keep that spine as straight as possible.
+},
+{
+    177.72,179.96
+     Whenever you do any lifting or bending,
+},
+{
+    179.96,181.8
+     it all should come from the hips.
+},
+{
+    181.8,183.44
+     You know, you want the movement here.
+},
+{
+    183.44,185.96
+     This should stay as straight as possible.
+},
+{
+    185.96,188.76
+     If you are already flexed a bit or bent over,
+},
+{
+    188.76,193.52
+     we're gonna start you on pillows here for prone.
+},
+{
+    193.52,195.14
+     Right.
+},
+{
+    195.14,199.44
+     So, and if you got sciatica from a disc problem,
+},
+{
+    199.44,201.92
+     this is gonna help with that as well.
+},
+{
+    202.92,204.4
+     This can be a little tricky.
+},
+{
+    204.4,206.6
+     This is not a straightforward thing.
+},
+{
+    206.6,209.48
+     So we're gonna go through some detail on this
+},
+{
+    209.48,210.72
+     and there's gonna be options
+},
+{
+    210.72,212.32
+     and you'll see what works best for you
+},
+{
+    212.32,213.56
+     because you'll know it works best
+},
+{
+    213.56,215.8
+     because it feels better.
+},
+{
+    215.8,219.2
+     Pain, we don't wanna increase pain with any of this stuff.
+},
+{
+    219.2,223.4
+     This lady, I had her start on three pillows like this
+},
+{
+    223.4,225.72
+     and she couldn't tolerate less than this.
+},
+{
+    225.72,228.2
+     I mean, if we took away any one of the pillows,
+},
+{
+    228.2,231.6
+     eventually we were able to get down to two and then one.
+},
+{
+    231.6,234.4
+     But she never got down to zero.
+},
+{
+    234.4,237.2
+     But this is just a great stretch.
+},
+{
+    237.2,239.96
+     Relax for five to 10 minutes.
+},
+{
+    239.96,244.6
+     If you can, you can put your chin up on your fists like this.
+},
+{
+    244.6,249.6
+     But the idea is eventually to restretch your back
+},
+{
+    249.6,251.44
+     so they get back to straight again.
+},
+{
+    251.44,252.34
+     Right.
+},
+{
+    252.34,254.84
+     So we gotta get there's a string on your shirt.
+},
+{
+    254.84,255.68
+     Oh my God.
+},
+{
+    255.68,256.5
+     We can't have that.
+},
+{
+    256.5,258.2
+     All right, next we're gonna take out a pillow.
+},
+{
+    258.2,260.24
+     We're gonna work our way down.
+},
+{
+    260.24,261.44
+     It's as simple as this.
+},
+{
+    261.44,263.64
+     You know, it might take a couple of days.
+},
+{
+    263.64,265.52
+     It might be able to do it day one. That's gonna be up to the individual. But you wanna get as simple as this, you know, it might take a couple of days, it might be able to do it day one,
+},
+{
+    265.52,267.48
+     that's gonna be up to the individual.
+},
+{
+    267.48,269.48
+     But you wanna get as straight as possible.
+},
+{
+    269.48,274.48
+     If possible, you do wanna get down to this.
+},
+{
+    274.62,277.88
+     And maybe even this.
+},
+{
+    277.88,280.64
+     Now, if your body will let you know
+},
+{
+    280.64,282.72
+     you're either gonna have a back pain,
+},
+{
+    283.76,287.24
+     or if you develop pain down your leg or numbness
+},
+{
+    287.24,289.04
+     or symptoms, those are big red flags.
+},
+{
+    289.04,290.96
+     It means you're going too fast.
+},
+{
+    290.96,295.24
+     Go back to another pillow and give it some more time.
+},
+{
+    295.24,296.92
+     Brad has spondy.
+},
+{
+    296.92,298.6
+     Can you lay like that?
+},
+{
+    298.6,300.24
+     I can lay flat.
+},
+{
+    300.24,301.2
+     It's not real comfortable.
+},
+{
+    301.2,302.96
+     After a few minutes it's not comfortable.
+},
+{
+    302.96,304.6
+     I don't lay my stomach very much at all.
+},
+{
+    304.6,306.92
+     Right, and I think it's okay for you to do
+},
+{
+    306.92,308.64
+     for three to five minutes, right?
+},
+{
+    308.64,311.4
+     Or maybe three minutes, whatever it allows you.
+},
+{
+    311.4,312.24
+     Right, yeah.
+},
+{
+    312.24,313.64
+     But look at Brad, you have good posture, Brad.
+},
+{
+    313.64,314.48
+     Right, yeah.
+},
+{
+    314.48,317.04
+     Yeah, you're not crooked, you're not bent over.
+},
+{
+    317.04,319.52
+     When I go back to here, it's a little uncomfortable.
+},
+{
+    319.52,321.7
+     If I go back farther, and I repeat that,
+},
+{
+    321.7,323.52
+     I'm gonna have a back ache the next day.
+},
+{
+    323.52,325.44
+     But you're keeping keeping as straight as possible
+},
+{
+    325.44,326.96
+     as part of your deal.
+},
+{
+    326.96,329.88
+     And you had a grade two?
+},
+{
+    329.88,331.68
+     Yeah, it's grade two.
+},
+{
+    331.68,333.22
+     And it's fused now.
+},
+{
+    333.22,334.06
+     I hope so.
+},
+{
+    334.06,334.9
+     Yeah.
+},
+{
+    334.9,335.74
+     So.
+},
+{
+    335.74,336.88
+     I haven't had X-rays for a few years,
+},
+{
+    336.88,339.76
+     but it feels much better, so I feel comfortable with it.
+},
+{
+    339.76,341.96
+     I think he's a great example of someone that,
+},
+{
+    341.96,345.16
+     you know, again, that followed these tenets,
+},
+{
+    345.16,347.24
+     that up to keep it straight as possible.
+},
+{
+    347.24,349.0
+     Despite the, you know.
+},
+{
+    349.0,350.08
+     Pasture, posture.
+},
+{
+    350.08,350.92
+     Right.
+},
+{
+    350.92,351.94
+     All right, the other thing you can try,
+},
+{
+    351.94,355.32
+     number three is you can actually try some decompression
+},
+{
+    355.32,357.68
+     on the spine or traction.
+},
+{
+    357.68,358.52
+     Right.
+},
+{
+    358.52,360.16
+     Now we're gonna show you a simple way to do it.
+},
+{
+    360.16,361.68
+     It does involve a purchase.
+},
+{
+    361.68,363.68
+     You need to get the hanging handles.
+},
+{
+    363.68,366.04
+     Hanging handles.
+},
+{
+    366.04,367.84
+     And we're gonna have a link below
+},
+{
+    367.84,370.26
+     on where to purchase them, less than 50 bucks.
+},
+{
+    370.26,371.1
+     But these are great.
+},
+{
+    371.1,373.24
+     I use them all the time.
+},
+{
+    373.24,374.88
+     I just have them in my office.
+},
+{
+    374.88,376.24
+     And when I take a break,
+},
+{
+    376.24,378.44
+     it's just a great way to decompress the spine
+},
+{
+    378.44,380.44
+     and actually good for the shoulders too.
+},
+{
+    380.44,382.48
+     If you had pull-up bar, you can do that.
+},
+{
+    382.48,383.92
+     You can do a pull-up bar.
+},
+{
+    383.92,385.12
+     That would work too.
+},
+{
+    385.12,386.24
+     This is just a great thing
+},
+{
+    386.24,388.88
+     because it kind of keeps your back supported at the same time.
+},
+{
+    388.88,389.84
+     Right, right.
+},
+{
+    389.84,391.72
+     So, wanna go ahead and show up, Brad?
+},
+{
+    391.72,394.12
+     Yep, so back up against the wall.
+},
+{
+    394.12,397.28
+     Again, obviously these are gonna have to be put into a stud.
+},
+{
+    397.28,399.76
+     It comes with these anchors too.
+},
+{
+    399.76,401.92
+     It comes with the whole device here.
+},
+{
+    401.92,403.54
+     Right.
+},
+{
+    403.54,406.44
+     Yeah, this is a nice thing.
+},
+{
+    406.44,408.78
+     You're gonna have a level so when you're standing
+},
+{
+    408.78,410.8
+     you can grab here and you're not hanging.
+},
+{
+    410.8,414.0
+     And you're gonna see, I'm just gonna slowly go down.
+},
+{
+    414.0,417.0
+     And as you do this, you know, this should not create any pain.
+},
+{
+    417.0,421.04
+     It should just feel like a really good stretch.
+},
+{
+    421.04,424.92
+     And if you have sciatic, you may even have a point where
+},
+{
+    424.92,426.76
+     as you get the traction on your back,
+},
+{
+    426.76,429.44
+     the leg symptoms and pain gets better.
+},
+{
+    429.44,431.48
+     And if that happens, it's gold.
+},
+{
+    431.48,434.48
+     You just really want, then you're gonna wanna hang,
+},
+{
+    434.48,437.28
+     you know, 20 to 30 seconds and do that repeatedly
+},
+{
+    437.28,439.64
+     as long as the leg pain goes away.
+},
+{
+    439.64,442.44
+     Yeah, you can do it in shifts kinda here.
+},
+{
+    442.44,443.28
+     Yeah.
+},
+{
+    443.28,444.6
+     And you can do it, what's nice about this
+},
+{
+    444.6,447.54
+     is you can do it every hour or even 20 minutes,
+},
+{
+    447.54,448.58
+     whatever you wanna do.
+},
+{
+    448.58,452.04
+     I even try this spread sometimes.
+},
+{
+    452.04,454.34
+     I even do it this way.
+},
+{
+    454.34,455.98
+     And do some hanging.
+},
+{
+    455.98,460.98
+     And I also have done it where I hang,
+},
+{
+    461.02,462.26
+     of course I'm taller,
+},
+{
+    462.26,464.32
+     but you can actually pick your feet up.
+},
+{
+    464.32,467.68
+     But you can actually kinda just do gentle rotation.
+},
+{
+    467.68,469.0
+     It feels better.
+},
+{
+    469.0,471.0
+     If it doesn't feel better, you don't do it.
+},
+{
+    471.0,471.84
+     But-
+},
+{
+    471.84,472.92
+     All these are with caution.
+},
+{
+    472.92,473.9
+     Yep.
+},
+{
+    473.9,475.88
+     These are great for the shoulders, by the way, too.
+},
+{
+    475.88,477.6
+     We've had whole videos on that,
+},
+{
+    477.6,481.16
+     how they can help decrease shoulder pain, too.
+},
+{
+    481.16,483.0
+     Right, those impingement problems.
+},
+{
+    483.0,484.48
+     I'm gonna hang a little bit more, Bob.
+},
+{
+    484.48,486.0
+     All right. I'm just gonna hang out.
+},
+{
+    486.0,488.24
+     All right, we'll go to the next one, number four.
+},
+{
+    488.24,489.8
+     Okay, the fourth thing we want you to do
+},
+{
+    489.8,491.84
+     is some nerve flossing.
+},
+{
+    491.84,495.08
+     And this is for the sciatica basically.
+},
+{
+    495.08,497.5
+     And it can help desensitize the nerve
+},
+{
+    497.5,499.6
+     if you're getting pain down your leg.
+},
+{
+    499.6,502.36
+     Basically, we're trying to pull the nerve from one end
+},
+{
+    502.36,504.5
+     while releasing it from the other.
+},
+{
+    504.5,508.64
+     Now, warning, this can make your pain worse.
+},
+{
+    508.64,511.36
+     If it does, I mean, we're gonna have you try it once,
+},
+{
+    511.36,515.2
+     do a set of 10, wait a day and see how it did.
+},
+{
+    515.2,518.76
+     If it got worse, you're gonna wait another week
+},
+{
+    518.76,520.64
+     before you try it again.
+},
+{
+    520.64,524.02
+     If it was the same or better,
+},
+{
+    524.02,525.96
+     then you can keep doing it every day,
+},
+{
+    526.92,529.56
+     at least once or twice a day for 10 reps.
+},
+{
+    529.56,534.56
+     So let's go ahead, we need a high table or bench
+},
+{
+    534.56,537.08
+     where you can swing your legs a little bit.
+},
+{
+    537.08,539.36
+     They can swing underneath.
+},
+{
+    539.36,542.2
+     Like here, this gets in the way, so that's not good,
+},
+{
+    542.2,544.44
+     but I can go out a little bit and-
+},
+{
+    544.44,545.64
+     Yeah, it's not bad.
+},
+{
+    545.64,546.48
+     I mean, same with mine,
+},
+{
+    546.48,548.68
+     I'm kind of hitting this bar right here.
+},
+{
+    548.68,551.44
+     So I can go past it when I make adjustment on the table.
+},
+{
+    551.44,552.84
+     And that's, you know,
+},
+{
+    552.84,555.04
+     you probably can do some kind of adjustment.
+},
+{
+    555.04,556.48
+     You'll see once we do the exercise.
+},
+{
+    556.48,557.96
+     So you're gonna straighten one,
+},
+{
+    557.96,561.28
+     the side that the leg, the pain leg is,
+},
+{
+    561.28,563.56
+     the leg pain is on, I can get it out, Brad.
+},
+{
+    563.56,567.68
+     And at the same time, you're gonna extend your neck.
+},
+{
+    567.68,569.64
+     Wanna make sure you completely extend your neck,
+},
+{
+    569.64,571.98
+     don't just move your head like this,
+},
+{
+    571.98,573.8
+     move your entire neck like that.
+},
+{
+    573.8,576.4
+     So straighten the leg, extend the neck,
+},
+{
+    576.4,579.0
+     and bring the toe toward you.
+},
+{
+    580.28,583.04
+     Then go down, we're gonna show slow right here,
+},
+{
+    583.04,585.46
+     and then we'll pick it up at the speed.
+},
+{
+    585.46,589.5
+     Go down, flex the neck, flex the knee,
+},
+{
+    589.5,592.24
+     and put the toe down towards the floor.
+},
+{
+    593.32,595.16
+     We're going up, straighten the leg,
+},
+{
+    595.16,597.74
+     extend the neck, toe towards me.
+},
+{
+    598.76,601.64
+     Going down, flex the knee, flex the neck,
+},
+{
+    601.64,603.24
+     toe goes down to the floor.
+},
+{
+    604.78,607.16
+     Okay, we'll pick up the speed here a little bit Brad,
+},
+{
+    607.16,608.68
+     see if I can talk fast too.
+},
+{
+    608.68,610.6
+     Okay, extend the neck, extend the knee,
+},
+{
+    610.6,612.88
+     toe towards me, going down,
+},
+{
+    612.88,615.4
+     flex the knee, flex the neck, toe goes down.
+},
+{
+    616.52,618.24
+     Extend the neck, extend the knee,
+},
+{
+    618.24,622.16
+     toe goes towards me, flex the neck,
+},
+{
+    622.16,625.0
+     flex the knee, toe goes down to the floor.
+},
+{
+    625.24,626.68
+     We get the idea, Brad?
+},
+{
+    626.68,627.52
+     Yes.
+},
+{
+    627.52,628.36
+     Okay.
+},
+{
+    628.36,629.2
+     Be careful with it.
+},
+{
+    629.2,631.56
+     If it's not comfortable, you get some pain with it
+},
+{
+    631.56,633.4
+     or the leg pain gets worse.
+},
+{
+    633.4,635.96
+     Maybe if you got a sciatica or a disc problem,
+},
+{
+    635.96,638.04
+     it's so bad that this isn't tolerated.
+},
+{
+    638.04,638.92
+     Stop doing it.
+},
+{
+    638.92,642.68
+     It should feel reasonably comfortable.
+},
+{
+    642.68,644.8
+     And like Bob says, wait 24 hours,
+},
+{
+    644.8,646.6
+     see how it responds to it.
+},
+{
+    646.6,648.68
+     Yeah, you can try to get in a week
+},
+{
+    648.68,652.08
+     and if it's still stinging you,
+},
+{
+    652.08,653.28
+     you gotta forget it.
+},
+{
+    653.28,654.52
+     You gotta do these other things
+},
+{
+    654.52,655.48
+     and you can't do that one.
+},
+{
+    655.48,656.66
+     Right, sure.
+},
+{
+    656.66,659.84
+     All right, number five, stabilization exercises.
+},
+{
+    659.84,662.56
+     These are always great to strengthen the core,
+},
+{
+    662.56,664.84
+     but you wanna strengthen out the core
+},
+{
+    664.84,668.52
+     without really bending the core or extending the core.
+},
+{
+    668.52,670.56
+     Trying to keep that neutral posture.
+},
+{
+    670.56,673.48
+     I'll show the first one on here, Brad.
+},
+{
+    673.48,675.0
+     This is a great one for,
+},
+{
+    675.0,679.24
+     you wanna strengthen the front, sides, and back of the core.
+},
+{
+    679.24,680.08
+     Sure.
+},
+{
+    680.08,682.08
+     So we're gonna show you a real simple one.
+},
+{
+    682.08,683.78
+     You can put your hands underneath your back,
+},
+{
+    683.78,687.08
+     underneath your spine to give it support, like this.
+},
+{
+    687.08,689.06
+     And you're gonna lift your elbows
+},
+{
+    689.06,691.86
+     and you're just gonna raise your head towards the ceiling.
+},
+{
+    692.88,694.16
+     Right, towards the ceiling.
+},
+{
+    694.16,696.08
+     You see how when Bob comes up,
+},
+{
+    696.08,699.04
+     can you just get my fingers under shoulder blades?
+},
+{
+    699.04,701.76
+     And then you know your abdominals are working well.
+},
+{
+    701.76,704.08
+     Yeah, and you could start off, I don't know,
+},
+{
+    704.08,706.36
+     you could start off with a set of 10 or 20,
+},
+{
+    706.36,707.64
+     whatever you tolerate.
+},
+{
+    707.64,710.22
+     This should not increase your pain at all.
+},
+{
+    710.22,712.44
+     If you have never done sit-ups before,
+},
+{
+    712.44,714.56
+     10 is gonna be probably enough.
+},
+{
+    714.56,715.48
+     10 is gonna be plenty, right.
+},
+{
+    715.48,718.04
+     So then we wanna get the sides.
+},
+{
+    718.04,719.56
+     You wanna show a beginner side,
+},
+{
+    719.56,722.32
+     so this is just a side plank.
+},
+{
+    722.32,723.96
+     So you're just gonna bring your feet out
+},
+{
+    723.96,726.96
+     about two feet from the wall, keep them together,
+},
+{
+    726.96,731.08
+     keep your body straight, don't let it say again like this,
+},
+{
+    731.08,732.92
+     and tighten up that stomach,
+},
+{
+    732.92,734.96
+     and the leaning against the sides
+},
+{
+    734.96,737.28
+     will activate the side muscles,
+},
+{
+    737.28,740.2
+     so you get the side of the muscles engaged.
+},
+{
+    740.2,744.24
+     And you can stay here for 30 seconds or so.
+},
+{
+    744.24,747.84
+     Probably best to do both sides so you get even.
+},
+{
+    747.84,749.24
+     Now if that's too easy for you,
+},
+{
+    749.24,751.96
+     you can go ahead and try on the floor.
+},
+{
+    751.96,754.04
+     So all you're gonna do is bend your knees like this,
+},
+{
+    754.04,755.36
+     your elbows like this,
+},
+{
+    755.36,758.08
+     and you're just straight, extending your butt.
+},
+{
+    758.08,761.4
+     I mean, you're extending your legs here.
+},
+{
+    761.4,764.88
+     Getting in line, tighten up everything.
+},
+{
+    764.88,766.88
+     Make sure you breathe while you do this.
+},
+{
+    766.88,769.16
+     What I do is I do sets of 10, Brad.
+},
+{
+    769.16,772.64
+     I go, I count to 10 seconds, relax,
+},
+{
+    772.64,774.52
+     then do another 10 seconds.
+},
+{
+    774.52,776.24
+     I do like a set of four.
+},
+{
+    776.24,779.84
+     I just don't do that many, but that seems to be enough.
+},
+{
+    779.84,782.12
+     The final one, I'm gonna show this one real quick too,
+},
+{
+    782.12,784.64
+     Brad, is the point of dog.
+},
+{
+    784.64,786.84
+     So you're gonna be in this position here
+},
+{
+    786.84,789.32
+     and you're gonna slide your leg back
+},
+{
+    789.32,791.2
+     while raising the opposite arm.
+},
+{
+    791.2,793.16
+     Now if this is too hard for you to start off,
+},
+{
+    793.16,795.44
+     you might just start with the leg.
+},
+{
+    795.44,797.76
+     Or you might just start with the arm.
+},
+{
+    797.76,799.72
+     But I'm trying to keep the back real straight
+},
+{
+    799.72,800.88
+     while I'm doing these.
+},
+{
+    800.88,802.44
+     I don't know, how am I doing, Brad?
+},
+{
+    802.44,804.92
+     Good, good, you really got nice posture, Bob.
+},
+{
+    804.92,806.6
+     I'm impressed. Wow I don't know, how am I doing Brad? Good, good. You really got a nice posture, Bob. I'm impressed.
+},
+{
+    806.6,807.96
+     Wow, you've been practicing.
+},
+{
+    807.96,810.48
+     It takes a lot to impress Brad, so.
+},
+{
+    810.48,814.4
+     All right, so that'll give you some stabilization exercise.
+},
+{
+    814.4,816.66
+     We go into greater detail on some of these things
+},
+{
+    816.66,820.1
+     on our other videos, but this is basically
+},
+{
+    820.1,822.72
+     what you wanna try, and hopefully that'll help
+},
+{
+    822.72,823.76
+     decrease your pain level.
+},
+{
+    823.76,824.8
+     Sure.
+},
+{
+    824.8,825.52
+     Thanks for watching.
+},

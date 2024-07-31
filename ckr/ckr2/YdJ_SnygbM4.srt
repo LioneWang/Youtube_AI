@@ -1,0 +1,932 @@
+{
+    0.0,1.8
+     What's up guys?
+},
+{
+    1.8,5.36
+     Hey, Jared Bechstrand here, doctor of physical therapy, tonentitan.com.
+},
+{
+    5.36,9.8
+     And today I wanted to share with you one of my all time favorite ab workouts.
+},
+{
+    9.8,14.48
+     This one's going to work each part of each muscle in your abs to absolutely maximize
+},
+{
+    14.48,15.48
+     your gains.
+},
+{
+    15.48,18.12
+     The best part is it only takes about seven minutes to complete.
+},
+{
+    18.12,28.88
+     So let's get into it right now. All right you guys, hey thank you so much for joining me today here on Tone and Titan.
+},
+{
+    28.88,33.76
+     I'm excited to be able to share this ab workout with you first before we jump right into it.
+},
+{
+    33.76,38.4
+     I just wanted to share a little bit more of what is going to make it so effective and
+},
+{
+    38.4,42.72
+     also maybe to explain some principles that you guys can take into future ab workouts to
+},
+{
+    42.72,44.56
+     make them even a little bit more effective.
+},
+{
+    44.56,48.68
+     Again, my goal here on Tone and Titan is to help you guys to become the fittest, healthiest
+},
+{
+    48.68,50.16
+     versions of yourselves.
+},
+{
+    50.16,53.66
+     And so I hope that the information that I share, you guys find beneficial.
+},
+{
+    53.66,56.08
+     If you do, be sure to hit that thumbs up button down below.
+},
+{
+    56.08,59.24
+     Okay, so let's start with the anatomy of our abs.
+},
+{
+    59.24,61.9
+     You have four muscles that make up your abs.
+},
+{
+    61.9,65.04
+     In order to maximally hit each one of these muscles,
+},
+{
+    65.04,68.88
+     I'm going to divide them into kind of three different categories. We've got left side,
+},
+{
+    68.88,75.06
+     we've got middle, and we've got right side. And so obliques, external and internal, rectus
+},
+{
+    75.06,79.96
+     abdominis, and then obliques, external and internal on the right side. So think of those three
+},
+{
+    79.96,84.76
+     kind of different columns, if you will, on your stomach. We can work these muscles a little bit
+},
+{
+    84.76,90.32
+     differently depending on where our anchor point is. Now, when I say anchor point, we can work either
+},
+{
+    90.32,96.48
+     top up. So if you think like your traditional crunches, your traditional sit ups, exercises where
+},
+{
+    96.48,101.28
+     you're actually bringing your shoulders, your shoulder blades and your chest down towards your
+},
+{
+    101.28,107.0
+     belly button or down towards your hips, that's what I'm going to refer to as a top-up exercise.
+},
+{
+    107.0,111.1
+     What that does, if I were to actually draw a line right across the middle of my abs,
+},
+{
+    111.1,114.9
+     that primarily activates the muscles that are above that line.
+},
+{
+    114.9,118.4
+     And so upper rectus abdominis and then external obliques.
+},
+{
+    118.4,120.7
+     We can also target the lower abs.
+},
+{
+    120.7,123.3
+     So again, here's that line, anything lower than that.
+},
+{
+    123.3,125.72
+     So I'm talking internal obliques on the left and right,
+},
+{
+    125.74,130.2
+     and then the lower rectus abdominis by actually bringing our pelvis up,
+},
+{
+    130.84,132.92
+     our pelvis up in this direction,
+},
+{
+    133.08,137.48
+     needing lots of leg lifts and especially we can kick on the obliques as we add
+},
+{
+    137.48,141.36
+     in different diagonals and different angles when we're doing those leg lifts.
+},
+{
+    141.48,142.48
+     But for this workout,
+},
+{
+    142.48,148.88
+     basically what we're going to do is hit each one of those areas, each one of those six areas. We're going to start with
+},
+{
+    148.88,153.68
+     some leg lifts, lower, kind of straight up to hit the lower abs. We're going to go into
+},
+{
+    153.68,158.0
+     leg lifts on an oblique in one direction, leg lifts on an oblique in the other direction.
+},
+{
+    158.0,161.56
+     That's going to hit those internal obliques. And then we're going to flip everything around.
+},
+{
+    161.56,167.32
+     We're going to do some crunches over to physio ball for the middle rectus. And then we're going to add a rotation to it for the right side,
+},
+{
+    167.36,171.08
+     external obliques, and then add another rotation to it for the left side,
+},
+{
+    171.1,174.68
+     external obliques. Okay. Enough talk. Let's jump into this workout.
+},
+{
+    174.68,178.24
+     Let's get right down to it. Now I actually did this whole workout just a little
+},
+{
+    178.24,181.34
+     bit earlier today. This is great. It only takes seven minutes to do.
+},
+{
+    181.34,183.66
+     What we're going to do is just set an interval timer.
+},
+{
+    183.84,186.04
+     It's going to count for 20 seconds. We're minutes to do. What we're gonna do is just set an interval timer. It's gonna count for 20 seconds.
+},
+{
+    186.04,189.88
+     We're gonna hit each one of those six areas
+},
+{
+    189.88,191.72
+     for 20 seconds of an exercise.
+},
+{
+    191.72,193.48
+     We're gonna take a little bit of a break,
+},
+{
+    193.48,196.04
+     and then we're gonna jump into that for three rounds.
+},
+{
+    196.04,199.2
+     So 20 seconds, each of six different exercises,
+},
+{
+    199.2,200.68
+     repeated three times.
+},
+{
+    200.68,203.84
+     Let's go ahead and let's get into it right now.
+},
+{
+    203.84,205.4
+     All right, you guys, to get things started,
+},
+{
+    205.4,207.6
+     we're gonna hit the lower abs first.
+},
+{
+    207.6,209.76
+     Those are typically weaker than the upper abs.
+},
+{
+    209.76,211.72
+     Whenever you're working two muscle groups like this,
+},
+{
+    211.72,213.88
+     it's important to work the weaker one first,
+},
+{
+    213.88,216.3
+     so as to avoid over activation and help
+},
+{
+    216.3,217.24
+     from the stronger one.
+},
+{
+    217.24,219.32
+     So let's get zeros up on the clock.
+},
+{
+    219.32,222.52
+     Here we go, you guys, 20 seconds of a straight leg raise.
+},
+{
+    222.52,224.4
+     And so double straight leg raise.
+},
+{
+    224.4,226.8
+     Your emphasis here is your back is nice and flat.
+},
+{
+    226.8,228.48
+     I want your stomach to be sucked in,
+},
+{
+    228.48,230.76
+     activate that transverse abdominis muscle
+},
+{
+    230.76,233.16
+     to pull your belly button in towards your spine.
+},
+{
+    233.16,236.16
+     And then your focus is on actually lifting your pelvis
+},
+{
+    236.16,237.96
+     up towards your chest.
+},
+{
+    237.96,239.36
+     20 seconds just like that.
+},
+{
+    239.36,241.56
+     And so now let's add in some obliques.
+},
+{
+    241.56,244.76
+     And so now my feet are going down into the left.
+},
+{
+    244.76,247.48
+     And then the emphasis is pulling them up into the right.
+},
+{
+    247.48,248.52
+     So down into the left,
+},
+{
+    248.52,251.6
+     and then I'm pulling my feet up into my right shoulder.
+},
+{
+    251.6,253.16
+     What you really wanna focus on
+},
+{
+    253.16,255.52
+     is that lower left kind of hip bone,
+},
+{
+    255.52,257.44
+     pulling that up and over towards
+},
+{
+    257.44,259.2
+     the right part of your chest.
+},
+{
+    259.2,260.2
+     20 seconds there,
+},
+{
+    260.2,263.0
+     and then we'll finish things up for the lower abs
+},
+{
+    263.0,264.56
+     with some right oblique work.
+},
+{
+    264.56,265.84
+     So those right internal obliques
+},
+{
+    265.84,271.2
+     We're dropping the feet down into the right. We're pulling the feet up and to the left again back is flat
+},
+{
+    271.32,276.28
+     Stomach is tight and then we're pulling we're focusing on pulling that hip up and over again
+},
+{
+    276.28,281.26
+     That's your lower abs you guys 20 seconds of each so 20 seconds middle 20 seconds left 20 seconds right
+},
+{
+    281.32,283.32
+     I'm gonna grab a Swiss ball
+},
+{
+    283.36,285.04
+     Then we're gonna hit the upper abs.
+},
+{
+    285.04,286.44
+     And so let's get things going.
+},
+{
+    286.44,288.08
+     With just some Swiss ball crunches,
+},
+{
+    288.08,290.08
+     I love the ball because you can actually go
+},
+{
+    290.08,291.88
+     into an extension motion.
+},
+{
+    291.88,294.3
+     I'll explain more about that here in just a second.
+},
+{
+    294.3,296.24
+     But your emphasis here is just, again,
+},
+{
+    296.24,298.24
+     right on those upper middle abs
+},
+{
+    298.24,299.84
+     is where I want you to feel this.
+},
+{
+    299.84,301.36
+     There's 20 seconds straight,
+},
+{
+    301.36,304.96
+     and so now we'll hit 20 seconds at an oblique crunch.
+},
+{
+    304.96,305.06
+     And so you'll see my left shoulder. I'm trying to dive it down and towards my right hip. 20 seconds straight and so now we'll hit 20 seconds at an oblique crunch.
+},
+{
+    305.06,309.9
+     So you'll see my left shoulder, I'm trying to dive it down and towards my right hip.
+},
+{
+    309.9,310.9
+     That's your emphasis.
+},
+{
+    310.9,313.62
+     You should feel this in those left external obliques.
+},
+{
+    313.62,316.74
+     Those muscles kind of high into the left in your abs.
+},
+{
+    316.74,318.02
+     That's where our emphasis is.
+},
+{
+    318.02,319.02
+     Nice job you guys.
+},
+{
+    319.02,320.02
+     There's 20 seconds there.
+},
+{
+    320.02,322.18
+     Let's go right, external obliques.
+},
+{
+    322.18,326.52
+     And so now again that right shoulder, my emphasis is pulling my right shoulder
+},
+{
+    326.52,328.36
+     over towards my left hip.
+},
+{
+    328.36,330.26
+     I want you guys to go into full extension on this.
+},
+{
+    330.26,333.72
+     You should be extending back over the ball each time.
+},
+{
+    333.72,335.36
+     And again, the shoulder is going down
+},
+{
+    335.36,336.76
+     towards that left hip.
+},
+{
+    336.76,338.16
+     Okay, you guys, there's 20 seconds.
+},
+{
+    338.16,340.28
+     And so that was our first set.
+},
+{
+    340.28,341.64
+     If you're enjoying this so far,
+},
+{
+    341.64,344.0
+     if your abs are filling it, if your abs are on fire,
+},
+{
+    344.0,346.32
+     it's a great chance to hit that thumbs up button.
+},
+{
+    346.32,350.72
+     Hit that thumbs up button here on this rest break if you guys are liking this workout
+},
+{
+    350.72,351.72
+     so far.
+},
+{
+    351.72,354.48
+     So you have five seconds left on a rest.
+},
+{
+    354.48,356.0
+     We're going to hit them hard and fast you guys.
+},
+{
+    356.0,358.48
+     Let's go with some double straight leg raises again.
+},
+{
+    358.48,360.56
+     Back is flat, stomach is tight.
+},
+{
+    360.56,367.58
+     The emphasis is again actually lifting your pelvis up off of the floor and so that lower rectus abdominis muscle
+},
+{
+    367.58,372.9
+     That's the one that's active with this when you guys I want that belly button sucked in that's going to activate that
+},
+{
+    373.04,378.38
+     Transverse abdominis muscle that deepest abdominal layer while you're doing this. So there's your 20 seconds
+},
+{
+    378.38,380.42
+     Let's go 20 seconds on an oblique
+},
+{
+    380.42,389.76
+     And so again, I'm low and left and I'm finishing high and right. Again my emphasis is pulling that kind of left front hip bone up towards my right
+},
+{
+    389.76,393.52
+     shoulder. That's the visual I want you guys to have in your heads. Should fill
+},
+{
+    393.52,397.24
+     that low and on the left side for two more seconds and then let's hit the
+},
+{
+    397.24,401.12
+     right side you guys. So again feet are low and right and then I'm going to pull
+},
+{
+    401.12,407.74
+     them up and over towards my left shoulder. And again the emphasis is actually pulling that right front hip bone
+},
+{
+    407.98,412.8
+     Over towards your left shoulder you guys should feel this in those lower right internal obliques
+},
+{
+    412.8,418.0
+     It's just kind of that lower right ab muscle for two more seconds one and zero
+},
+{
+    418.08,424.12
+     Nice job you guys here we go halfway through our second set. Let's grab our ball and let's talk about the ball for a second
+},
+{
+    424.12,427.52
+     I love the ball because you can actually go into extension.
+},
+{
+    427.52,430.12
+     That means that your back can actually extend
+},
+{
+    430.12,434.68
+     over the back of the ball, kind of down towards the floor.
+},
+{
+    434.68,436.72
+     When you're on the floor, three, two, one,
+},
+{
+    436.72,438.04
+     let's hit some cross crunches.
+},
+{
+    438.04,440.32
+     So again, we're gonna go left shoulder.
+},
+{
+    440.32,441.24
+     I think it's the upper, there we go,
+},
+{
+    441.24,444.12
+     left shoulder down towards right hip for 20 seconds.
+},
+{
+    444.12,448.72
+     And so as you think about this, you guys, your spine is a three-dimensional structure.
+},
+{
+    448.72,453.48
+     In order to work your abs through as much range of motion as possible, it's important
+},
+{
+    453.48,455.28
+     that you don't stop at a neutral position.
+},
+{
+    455.28,459.56
+     If you're laying on the floor, you have to stop crunches when your back is flat.
+},
+{
+    459.56,461.56
+     Here we go, 20 seconds over to the left.
+},
+{
+    461.56,465.88
+     And so again, you should be feeling this in those right external obliques, right high.
+},
+{
+    465.88,469.44
+     And so when you get up onto a ball, all of a sudden you can actually extend over the
+},
+{
+    469.44,470.64
+     back of the ball.
+},
+{
+    470.64,475.58
+     You can take your abs through a greater range of motion, which we all know is the key to
+},
+{
+    475.58,478.44
+     actually increasing strength, to increasing definition.
+},
+{
+    478.44,482.24
+     You have to work those muscles through their full range of motion.
+},
+{
+    482.24,483.64
+     No half reps here.
+},
+{
+    483.64,484.64
+     That's why I love the ball.
+},
+{
+    484.64,488.26
+     Hey, if you haven't done so already, guys take this chance to subscribe to tone and tighten
+},
+{
+    488.26,490.88
+     You'll never miss a new video from me
+},
+{
+    491.56,495.88
+     On this rest break. There you go. That's your homework subscribe to tone and tighten. Let's get going you guys
+},
+{
+    495.88,498.26
+     We got one set left. Let's hit
+},
+{
+    498.9,504.4
+     Double straight leg raises back is flat stomach is tight. You're using those lower lower abs
+},
+{
+    504.4,505.0
+     You guys I want you to focus right there back is flat, stomach is tight. You're using those lower, lower abs, you guys.
+},
+{
+    505.0,506.84
+     I want you to focus right there,
+},
+{
+    506.84,508.28
+     pulling up towards the ceiling.
+},
+{
+    508.28,510.72
+     If you're feeling this a lot in your hip flexors,
+},
+{
+    510.72,512.12
+     you're probably doing it wrong,
+},
+{
+    512.12,514.0
+     or else your hip flexors might be a little bit weak.
+},
+{
+    514.0,515.76
+     You guys, use those abs.
+},
+{
+    515.76,517.96
+     Use the kind of below the belly button
+},
+{
+    517.96,519.2
+     as where I want you to feel that,
+},
+{
+    519.2,521.56
+     to pull those legs straight up.
+},
+{
+    521.56,522.76
+     Now let's hit the obliques.
+},
+{
+    522.76,524.28
+     Again, left internal obliques
+},
+{
+    524.28,530.24
+     as I'm going low and left up to high and right. Emphasis is keeping the back flat, keeping the stomach
+},
+{
+    530.24,535.64
+     nice and sucked in, pulling that left front hip bone up and towards your right shoulder.
+},
+{
+    535.64,541.28
+     3, 2, 1. Okay, here we go. Last set for the lower abs, you guys. We're going to go down
+},
+{
+    541.28,545.68
+     and to the right and we're going to finish high and up and to the left. You guys, you got it.
+},
+{
+    545.68,550.64
+     Filling it in that right internal oblique, that right low side, you guys.
+},
+{
+    550.64,551.64
+     That's where we want this.
+},
+{
+    551.64,556.36
+     Again, anytime we're anchoring the chest, anchoring the shoulders and pulling the pelvis
+},
+{
+    556.36,559.2
+     towards it, we're working lower abs.
+},
+{
+    559.2,560.4
+     That's how we do it, you guys.
+},
+{
+    560.4,566.48
+     We can work on those oblique angles in order to kick on left side right side in order to just carve out some awesome
+},
+{
+    566.62,571.42
+     Definition in your lower abs here. We go last set. I know you guys are burning
+},
+{
+    571.42,577.04
+     I know I certainly was at this point and we're gonna hit these straight crunches first again your emphasis
+},
+{
+    577.04,579.74
+     I want you to extend all the way back over that ball
+},
+{
+    579.74,582.6
+     And then I want you to crunch all the way up as high as you can
+},
+{
+    582.6,585.56
+     I want you to fill this in those upper abs, you guys.
+},
+{
+    585.56,587.68
+     Let's go some left cross crunches.
+},
+{
+    587.68,592.36
+     And so again, my left shoulders diving down towards my right hip, go into full extension
+},
+{
+    592.36,593.36
+     each time.
+},
+{
+    593.36,594.36
+     I know you guys are burning.
+},
+{
+    594.36,596.56
+     You've only got 22 seconds left.
+},
+{
+    596.56,598.24
+     You can do this for 22 seconds.
+},
+{
+    598.24,599.24
+     Here we go.
+},
+{
+    599.24,600.24
+     Last set.
+},
+{
+    600.24,603.64
+     Right shoulder down towards left hip, into full extension.
+},
+{
+    603.64,604.68
+     The back is flat.
+},
+{
+    604.68,605.84
+     The stomach is tight. Pull that belly button in towards your hip into full extension. The back is flat, the stomach is tight.
+},
+{
+    605.84,608.72
+     Pull that belly button in towards your spine, you guys.
+},
+{
+    608.72,610.2
+     You've only got eight seconds left.
+},
+{
+    610.2,613.04
+     You can do it five and then four.
+},
+{
+    613.04,613.88
+     Good, you guys.
+},
+{
+    613.88,616.72
+     Three, two, finish strong, one.
+},
+{
+    616.72,618.32
+     Okay, there it is, you guys.
+},
+{
+    618.32,623.32
+     All six areas of all major ab muscles,
+},
+{
+    623.44,624.36
+     you guys crushed it.
+},
+{
+    624.36,626.64
+     20 second rest and let's wrap this video up.
+},
+{
+    628.56,633.6
+     All right you guys there you have a seven minute workout that literally hits every part of every
+},
+{
+    633.6,638.72
+     ab muscle that you have in your stomach. Again I hope the principles that I explained in this
+},
+{
+    638.72,643.68
+     video you can take those and you can apply those to different workouts and to different ab exercises.
+},
+{
+    643.68,646.5
+     Again think upper abs and lower abs,
+},
+{
+    646.5,648.86
+     but then think also kind of the three columns,
+},
+{
+    648.86,650.26
+     the obliques on the sides,
+},
+{
+    650.26,652.72
+     that rectus abdominis right there in the middle,
+},
+{
+    652.72,655.46
+     and you guys, your abs are gonna just take off with this.
+},
+{
+    655.46,656.82
+     I know it's gonna happen for you.
+},
+{
+    656.82,658.64
+     So hey, I hope you guys liked this video.
+},
+{
+    658.64,660.3
+     Again, if you did, go ahead and feel free
+},
+{
+    660.3,662.26
+     to hit that thumbs up button down there.
+},
+{
+    662.26,663.94
+     Thank you so much for those likes in advance.
+},
+{
+    663.94,667.36
+     Also, if you haven't done so already, I hope you take this chance to subscribe to Totem
+},
+{
+    667.36,671.92
+     Titan here on YouTube. I try to share a lot of great kind of health and fitness advice,
+},
+{
+    671.92,676.0
+     some workouts, some recipes. Again, my goal is to help you guys to become the fittest,
+},
+{
+    676.0,680.0
+     healthiest versions of yourselves. I hope you take this chance to subscribe to the channel.
+},
+{
+    680.0,684.0
+     If you have any questions about anything that we covered in this workout, go ahead and leave
+},
+{
+    684.0,687.0
+     me a comment down below and I'll answer those just as soon as I can.
+},
+{
+    687.0,692.0
+     Also, if you like this video and if you want to share it to your social media, hit that share button down below.
+},
+{
+    692.0,699.0
+     You can post it on your page. You can post it on your workout buddies page. Sharing is caring. Thank you so much for spreading love.
+},
+{
+    699.0,None
+     Until next time, you guys, we'll see you right back here on Tonentine.
+},

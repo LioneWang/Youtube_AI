@@ -1,0 +1,376 @@
+{
+    0.0,11.0
+     Hello everyone, As-salamu alaikum. Welcome back to Dr. Teeth. I am Dr. Hina, a full-time dentist and the founder of Dr. Teeth, one of the biggest platform of dental education online.
+},
+{
+    11.0,18.0
+     And today we are going to talk about gum recession, which is one of the most common complaints of our patients.
+},
+{
+    18.0,28.24
+     This video will also be made available in Hindi, so if you are more comfortable watching it in Hindi language, I will leave a link to that video in the description box below.
+},
+{
+    28.24,34.64
+     So what is gum recession? So when the gums or the gingiva moves away
+},
+{
+    34.64,38.72
+     from the tooth that is called as the gum recession.
+},
+{
+    38.72,48.6
+     So in such cases the patient will be able to see the root of their teeth. You can see some black triangles in between the teeth.
+},
+{
+    48.6,55.92
+     They will have certain symptoms like sensitivity and also one major concern is the aesthetic
+},
+{
+    55.92,57.4
+     of the patient.
+},
+{
+    57.4,59.8
+     It does not look pleasing.
+},
+{
+    59.8,65.16
+     So in this video we will be seeing the causes of gum recession, how to minimize gum recession
+},
+{
+    65.16,69.76
+     at home yourself and the treatment of recession.
+},
+{
+    69.76,74.66
+     So before we dive into that, please subscribe to my channel because it really motivates me
+},
+{
+    74.66,77.44
+     to create more helpful videos of this kind.
+},
+{
+    77.44,82.48
+     And also if you found the video helpful, do take out little bit of time and comment below
+},
+{
+    82.48,85.52
+     and let me know what next video you want me to
+},
+{
+    85.52,88.12
+     cover in dental education.
+},
+{
+    88.12,94.24
+     So let us suppose this is our teeth and here we have the gingiva or the gums.
+},
+{
+    94.24,100.6
+     So when the gums they move away from the tooth or teeth, you can say they are kind of leaving
+},
+{
+    100.6,105.6
+     the teeth or receding, that is why the name gingival recession or gum
+},
+{
+    105.6,111.08
+     recession. So in such cases what will happen the tooth will start appearing
+},
+{
+    111.08,116.44
+     larger in size okay from the patient's perspective what the patient usually
+},
+{
+    116.44,120.48
+     tell us is that their teeth are appearing larger obviously because the root
+},
+{
+    120.48,128.88
+     is also now visible to them and then we can see some triangular holes between the teeth because the Jindjaiva that
+},
+{
+    128.88,134.08
+     fills the spaces between the teeth is not available.
+},
+{
+    134.08,135.4
+     So what will happen?
+},
+{
+    135.4,139.72
+     This will lead to sensitivity and un-aesthetic appearance.
+},
+{
+    139.72,146.56
+     If you do not treat the situation, it will lead to bone loss and eventually it can lead to tooth
+},
+{
+    146.56,147.56
+     loss.
+},
+{
+    147.56,150.32
+     So there is no point in taking this for granted.
+},
+{
+    150.32,155.26
+     Let us see the causes why you can have gum recession.
+},
+{
+    155.26,157.8
+     The most common cause is poor oral hygiene.
+},
+{
+    157.8,163.2
+     When you don't brush your teeth properly, you don't brush your teeth enough for two
+},
+{
+    163.2,165.84
+     minutes or you don't brush your teeth in the
+},
+{
+    165.84,171.88
+     morning and in the night, the chances of gum recession will increase. Why? Because when
+},
+{
+    171.88,178.76
+     you don't clean, there is accumulation of plaque which eventually gets converted to calculus.
+},
+{
+    178.76,188.22
+     So because of that plaque, that calculus, we have so much going on there, so much bacteria there that it can lead to gum recession.
+},
+{
+    188.22,194.84
+     Then there are certain group of people who brush their teeth very vigorously in order to keep them
+},
+{
+    194.84,200.88
+     clean. That can also lead to gum recession. So you don't have to do it more, you don't have to do
+},
+{
+    200.88,206.56
+     it less. You have to do it just enough to keep your teeth clean.
+},
+{
+    206.56,213.52
+     Follow proper brushing technique. Don't brush horizontally, avoid scrubbing. Don't use hard
+},
+{
+    213.52,219.88
+     bristles, use soft bristles. Nowadays we also have ultra soft bristles. I'll leave a link
+},
+{
+    219.88,226.0
+     to my recommended oral hygiene products in the comment section, you can check them out.
+},
+{
+    226.0,230.8
+     So you don't have to be a part of the group on the left and you don't have to be a part
+},
+{
+    230.8,235.08
+     of the group on the right, you have to be in the middle.
+},
+{
+    235.08,240.24
+     Then genetic causes, if you have genetically thin gum tissue, you can have more chances
+},
+{
+    240.24,241.92
+     of gum recession.
+},
+{
+    241.92,245.16
+     If you are undergoing orthodontic treatment, there are many many
+},
+{
+    245.16,250.96
+     cases of orthodontic treatment that comes to clinic and they have gum recession. They
+},
+{
+    250.96,256.72
+     might not have gum recession in say one month, one year of orthodontic treatment but yes,
+},
+{
+    256.72,262.08
+     even after you know five years, ten years there are patients who have had orthodontic
+},
+{
+    262.08,266.12
+     treatment and now they are having gum recession so that is one more
+},
+{
+    266.12,272.76
+     cause. So these are some of the causes of gingival recession or gum recession. Now let
+},
+{
+    272.76,277.84
+     us see how can we minimize this at home. Most of them I have already told you but let's
+},
+{
+    277.84,285.2
+     see that in more detail. Coming to the toothbrush. What kind of toothbrush do we recommend?
+},
+{
+    290.16,296.16
+     There are two categories of toothbrushes. We have manual and we have electric. If you have proper control over your electric brushes, electric brushes are good. But if you
+},
+{
+    296.16,301.92
+     don't get the proper control in the electric brushes, I would recommend you to stick to the
+},
+{
+    301.92,307.44
+     manual brushes. Now while holding the brush, don't hold it
+},
+{
+    307.44,313.16
+     with your entire palm because when you hold it that way and brush your teeth, you will
+},
+{
+    313.16,318.48
+     obviously apply more force on the teeth. So that can lead to gum recession. Just hold
+},
+{
+    318.48,325.24
+     it lightly with your fingers and brush. Then as I already said brushing technique is very important. Don't
+},
+{
+    325.24,331.04
+     brush horizontally. Don't scrub it okay. You don't have to... it's not a utensil that
+},
+{
+    331.04,334.64
+     you're brushing. You have to be very careful because we have soft tissues
+},
+{
+    334.64,340.76
+     there. You have your gums there. So brush vertically in this fashion. If you are a
+},
+{
+    340.76,346.28
+     smoker stop smoking because smoking leads to decrease in the blood supply
+},
+{
+    346.28,349.8
+     to the gums which can lead to recession.
+},
+{
+    349.8,354.76
+     And the next very important thing is consult your dentist as soon as possible because in
+},
+{
+    354.76,360.0
+     cases where you have plaque accumulation, calculus accumulation, you need to get it
+},
+{
+    360.0,363.08
+     cleaned by a professional.
+},
+{
+    363.08,367.44
+     You cannot clean in any way at home. All those videos that you are
+},
+{
+    367.44,374.32
+     seeing on the internet these days to remove the calculus, they are just playing with your mouth
+},
+{
+    374.32,382.8
+     to gain views and to earn money. Don't go for that. From your side make sure you are maintaining
+},
+{
+    382.8,385.48
+     your oral hygiene properly. you are using the correct
+},
+{
+    385.48,391.96
+     technique and consult a dentist for a proper professional scaling and root planing then
+},
+{
+    391.96,397.28
+     it's cleaning of your teeth at least once in a year is very essential.
+},
+{
+    397.28,402.88
+     Maximum cases which are in the initial level of gum recession they simply get back to
+},
+{
+    402.88,406.6
+     normal only by scaling and root planing.
+},
+{
+    406.6,409.6
+     So this is one of the treatment.
+},
+{
+    409.6,412.96
+     In fact, it is a starting stage of any treatment.
+},
+{
+    412.96,417.56
+     Scaling and root planing is done in any procedure and we begin with.
+},
+{
+    417.56,426.8
+     But if the recession is very much, in those cases we might need to do flap surgery. So basically we take a tissue from your mouth.
+},
+{
+    427.56,431.68
+     Usually it is from the palate and we place it in the
+},
+{
+    432.28,440.16
+     Recession area and we suture it. Then it heals. The patient is on medications and the gum recession gets fixed.
+},
+{
+    440.56,450.0
+     In cases where the recession is so severe that it is accompanied by bone loss, then we might need to do bone grafting.
+},
+{
+    450.0,455.0
+     So in bone grafting, we try to regenerate the bone by placing bone grafting materials.
+},
+{
+    455.0,457.0
+     So that is one method.
+},
+{
+    457.0,461.0
+     Yes, in home remedies, you can try turmeric, you can try aloe vera.
+},
+{
+    461.0,466.88
+     They can help, but the treatment your gum deserves is a professional
+},
+{
+    466.88,473.12
+     help. So don't go by youtubers claiming to fix your teeth. You might end up harming your
+},
+{
+    473.12,479.0
+     teeth than saving them. So if you like the video please give a thumbs up and let me know
+},
+{
+    479.0,483.84
+     in the comment section below. If you have any questions or concerns I will try to answer
+},
+{
+    483.84,485.04
+     every question. I'll see you in the next video., I will try to answer every question.
+},
+{
+    485.04,486.64
+     I'll see you in the next video.
+},
+{
+    486.64,487.64
+     Take care.
+},
+{
+    487.64,487.68
+     Alha hafiz.
+},

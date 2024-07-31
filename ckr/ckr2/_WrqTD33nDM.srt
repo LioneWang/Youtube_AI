@@ -1,0 +1,672 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    8.0,11.42
+     Hi, I'm Bob Schrupp, physical therapist.
+},
+{
+    11.42,12.42
+     Brad Heineck, physical therapist.
+},
+{
+    12.42,14.6
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    14.6,16.0
+     In our opinion, of course, Bob.
+},
+{
+    16.0,19.0
+     Brad, it's no secret out there, we're big McKenzie fans.
+},
+{
+    19.0,20.0
+     Right.
+},
+{
+    20.0,24.76
+     Robin McKenzie, he came up with some treatments for the spine, neck back, and he actually does
+},
+{
+    24.76,25.8
+     the extremities now too.
+},
+{
+    25.8,27.0
+     Exactly, arms and legs.
+},
+{
+    27.0,33.0
+     But when we have somebody with neck pain or with a pinched nerve, the pinched nerve causing pain down the arm,
+},
+{
+    33.0,36.0
+     this is probably our, it is our number one go-to approach.
+},
+{
+    36.0,37.0
+     Sure.
+},
+{
+    37.0,38.0
+     Would you agree?
+},
+{
+    38.0,39.0
+     Absolutely.
+},
+{
+    39.0,46.16
+     So today we're going to go over some of the basics of the McKenzie approach, but you know we recommend that if you get stuck and
+},
+{
+    46.16,50.2
+     you're not getting better that you may want to go ahead and seek out a McKenzie therapist
+},
+{
+    50.2,53.32
+     and I'll put that video on the end of this one on how to find one.
+},
+{
+    53.32,54.88
+     Right and they're worldwide.
+},
+{
+    54.88,60.0
+     Yeah, they're worldwide exactly what we decide 36, 38 countries something like that so definitely
+},
+{
+    60.0,62.68
+     a lot of them in the United States.
+},
+{
+    62.68,69.44
+     So basically what we're trying to do Brad is we're trying to, if you're dealing with a pinched nerve or neck pain, a lot of
+},
+{
+    69.44,74.24
+     times you're getting pain. Does that show up Lonnie? I know this looks like an alien.
+},
+{
+    74.24,79.36
+     You got really good artwork Bob. You're getting better. Now this is the
+},
+{
+    79.36,83.8
+     back of the person. That's why you don't see the face on there. Exactly. And this
+},
+{
+    83.8,85.9
+     is a common pain patterns.
+},
+{
+    85.9,90.06
+     You might have it going down into the shoulder, down into the back of the arm, down into
+},
+{
+    90.06,91.86
+     the arm itself, and even into the hand.
+},
+{
+    91.86,93.94
+     That includes numbness and tingling.
+},
+{
+    93.94,96.1
+     Yep, that's very common.
+},
+{
+    96.1,98.18
+     And you also might have it in the shoulder blade.
+},
+{
+    98.18,99.18
+     Exactly.
+},
+{
+    99.18,101.98
+     As a matter of fact, we just had a viewer ask about this, and this would be a good one
+},
+{
+    101.98,102.98
+     for you to watch.
+},
+{
+    102.98,107.64
+     So the big thing about this with the McKenzie exercise what you're trying to do is to get the
+},
+{
+    107.64,112.06
+     pain to what we call centralize. You want it to come out of the extremities
+},
+{
+    112.06,117.12
+     and go into more of the base of the neck. Right and you want to go from the distal
+},
+{
+    117.12,120.8
+     to the proximus. We're using some therapy words here. So the extremities of the
+},
+{
+    120.8,129.32
+     arm and we want to get it from the most farthest way. We'd be the fingertips if it went that far and have it come back just like a thermometer going backwards
+},
+{
+    129.32,131.0
+     you know that's I always tell my face.
+},
+{
+    131.0,132.0
+     Good analogy.
+},
+{
+    132.0,136.44
+     But what we really don't want to see is that it actually goes away here and gets worse
+},
+{
+    136.44,137.44
+     in the arm.
+},
+{
+    137.44,138.44
+     Right.
+},
+{
+    138.44,139.44
+     I mean and the fingers.
+},
+{
+    139.44,140.44
+     That's no good.
+},
+{
+    140.44,141.44
+     Yeah.
+},
+{
+    141.44,143.92
+     So the exercise what you're looking for when you do the exercise is that this may start
+},
+{
+    143.92,145.84
+     to go away in the first, you know
+},
+{
+    146.0,149.0
+     Here, let me help you Bob. And then eventually it goes out of the arm
+},
+{
+    149.0,154.12
+     I know I'm not doing this perfect here and then maybe it goes out of the shoulder blade and
+},
+{
+    154.6,158.36
+     Eventually it just you know, it's stuck right here and eventually then it'll go away
+},
+{
+    158.36,164.76
+     It could even get a little more intense in this area, couldn't you say? Right, but it's usually not that intense where you can't take it
+},
+{
+    164.76,165.06
+     It's just right more intense and you can't take it, it's just
+},
+{
+    165.46,171.28
+     more intense and we call it that's the center right there, the low part of the neck. Right, so
+},
+{
+    171.64,173.64
+     having done that. Right about where the collar is.
+},
+{
+    173.64,179.3
+     All right, these are the, well the first thing you need to do Brad is you have to make sure you correct your posture.
+},
+{
+    179.3,184.26
+     If you're working and you're like this all day long. Yeah, working on a computer.
+},
+{
+    184.26,187.24
+     I don't care how many times you do these exercises, it's not going to help because you're going
+},
+{
+    187.24,189.08
+     to go right back to that.
+},
+{
+    189.08,192.48
+     So you need to make sure you're getting your ears lined up with the shoulders, shoulders
+},
+{
+    192.48,195.56
+     lined up with the hips, you know, that type of thing.
+},
+{
+    195.56,198.04
+     And this first exercise helps you a little bit with that.
+},
+{
+    198.04,201.24
+     So the first exercise we're doing is neck retractions.
+},
+{
+    201.24,202.8
+     That's exercise number one.
+},
+{
+    202.8,210.5
+     So basically you're taking your chin. Your your chin tucks so you're going back we've showed this one many times
+},
+{
+    210.5,214.84
+     yep talk about like a pie in the face I thought you want to be do a high five
+},
+{
+    214.84,219.22
+     Bob no yeah so yeah it's hard yeah something's coming like that pie you
+},
+{
+    219.22,223.64
+     just whoo you back up you know an option for this if this doesn't work or it
+},
+{
+    223.64,226.76
+     makes a little problem you can oh, yeah, absolutely
+},
+{
+    227.2,229.2
+     You can do it laying down
+},
+{
+    229.44,236.3
+     As a matter of fact, I just gave this information to one of our viewers last night when I was responding and
+},
+{
+    236.64,239.76
+     He said it hurt when he is doing the chin tucks in this seated position
+},
+{
+    239.76,242.64
+     Well, make sure you try it in a position like this
+},
+{
+    242.92,245.48
+     So now the back of your head does come
+},
+{
+    245.48,249.1
+     to you. Sometimes Brad, I even use a little towel like this. Sure. It makes it easier than
+},
+{
+    249.1,255.4
+     the chin tuck. And that position, the change in position, the weight bearing changes the
+},
+{
+    255.4,259.8
+     mechanics slightly and you may have success. You're not so much chin down, you have chin
+},
+{
+    259.8,267.0
+     back. Yeah. I like it better like this, but you could certainly use something in it.
+},
+{
+    267.0,270.36
+     Even your hand if you don't have a toe roll.
+},
+{
+    270.36,276.48
+     So if you try the exercise sitting up and it's painful, maybe try laying down.
+},
+{
+    276.48,279.0
+     And that's going to be the same for exercise number two breath.
+},
+{
+    279.0,281.44
+     Which is an important point of Bob.
+},
+{
+    281.44,286.28
+     The first time or two it may help, but if by the third time
+},
+{
+    286.28,290.56
+     if you start to feel some changes, some of that things feeling better, then you're not
+},
+{
+    290.56,294.84
+     going to go over repetitions up to ten, so you need some repetitions in there, but usually
+},
+{
+    294.84,295.84
+     not more than ten.
+},
+{
+    295.84,300.6
+     And that's a good point Brad, because actually it may hurt a little more even at first, for
+},
+{
+    300.6,305.0
+     the first couple reps, but it should start getting back to normal, you know,
+},
+{
+    305.0,309.0
+     very rapidly, and then eventually it should start to feeling better. If you
+},
+{
+    309.0,313.0
+     get seven or eight and it's not improving and things are actually getting worse
+},
+{
+    313.0,318.0
+     in there, stop. You need to see a therapist then, I mean it's just no
+},
+{
+    318.0,322.0
+     way about it. All right, next one we're going to do is actually we're going to do
+},
+{
+    322.0,326.6
+     extensions, but again what's good about the chin tux is getting you a good posture.
+},
+{
+    326.6,330.84
+     The next one, I'd like you to find a chair with a nice solid back like this.
+},
+{
+    330.84,334.32
+     And a lot of times you do a couple chin tux to warm up a little bit.
+},
+{
+    334.32,337.04
+     And then you're going to go ahead and work on going back.
+},
+{
+    337.04,340.6
+     Now you can go back to the point where it starts to really hurt then back off.
+},
+{
+    340.6,341.76
+     Right.
+},
+{
+    341.76,344.88
+     You can work halfway, go back.
+},
+{
+    344.88,346.8
+     And then eventually you want to think with
+},
+{
+    346.8,351.84
+     the key with all these is to really get back as far as you can.
+},
+{
+    351.84,355.96
+     As long as making it better. Right. As long as it's making the symptoms down your arm
+},
+{
+    355.96,360.44
+     or in your back or in your neck better. Right. Centralization is occurring on it.
+},
+{
+    360.44,369.52
+     Right. You want to show the towel breath? Right. A lot of times I'll have people and my patients they'll start doing that the chin tuck is doing good and then they'll get back to
+},
+{
+    369.52,376.48
+     here and they can't really do it so I'll have them take a towel roll put it here and with that
+},
+{
+    376.48,381.44
+     little bit of support not pulling hard but just a little bit of support and then all of a sudden oh
+},
+{
+    381.44,385.64
+     yeah that feels better and then they can go back and then you can help pull your head up
+},
+{
+    385.64,391.98
+     To a little bit so in the initial phase is that towel roll can really be helpful. I do it a little different
+},
+{
+    391.98,396.98
+     I use the edge of the towel quite often. I'll use I was taught this way too and then I
+},
+{
+    397.28,401.16
+     Like the edge on the towel. There's a name for that edge, but I can't remember it
+},
+{
+    401.3,406.02
+     Yeah, I think there is and I like to bring it up actually towards the eyes
+},
+{
+    406.02,408.26
+     like this and then I bring the arms go along
+},
+{
+    408.26,409.36
+     with the neck like this.
+},
+{
+    409.36,412.16
+     Yeah, I learned that, then we learned that in Mulligan class.
+},
+{
+    412.16,413.0
+     Could be, yeah.
+},
+{
+    413.0,414.76
+     And then you can go different levels.
+},
+{
+    414.76,416.4
+     You can go a little bit lower,
+},
+{
+    416.4,417.22
+     Sure.
+},
+{
+    417.22,418.9
+     A little bit lower and see how it works with that.
+},
+{
+    418.9,420.64
+     Now again, Brad kind of alluded to this,
+},
+{
+    420.64,421.96
+     but with all these,
+},
+{
+    421.96,424.22
+     you're gonna do the exercise 10 times,
+},
+{
+    424.22,428.16
+     and you can do it five to six times a day. I actually tell my patients to do it every hour.
+},
+{
+    428.16,431.4
+     Sure. And the reason I tell them to do it every hour because I know they won't. I
+},
+{
+    431.4,435.36
+     mean nobody can do everything every hour just to get busy but they end up
+},
+{
+    435.36,439.5
+     doing it five to six times a day. So that's a good start. Same thing with this
+},
+{
+    439.5,443.84
+     one if this is just too tender not working you can do this off the edge of
+},
+{
+    443.84,451.7
+     the bench. You can go off the edge like this, and you can take your hand like this, and you can just lower yourself like that.
+},
+{
+    451.7,455.3
+     This is the one where I really do like to use the whole towel.
+},
+{
+    455.3,456.3
+     Oh yeah, that would work too.
+},
+{
+    456.3,458.3
+     It's a little more control.
+},
+{
+    458.3,459.3
+     More control.
+},
+{
+    459.3,462.8
+     Again, we can't emphasize this enough.
+},
+{
+    462.8,466.08
+     You're only going to do these if they improve and
+},
+{
+    466.08,469.64
+     they're improving the pain and they're going to prove it by the tenth one you
+},
+{
+    469.64,474.76
+     should feel clearly better than the first one. Right, certainly not worse. Right. I
+},
+{
+    474.76,478.32
+     mean maybe it'll stabilize, maybe it's going to take a little bit but you know
+},
+{
+    478.32,481.84
+     you'd like to see something improving in the hand or if it doesn't go all the way
+},
+{
+    481.84,487.56
+     to the hand it's just it's not going into the shoulder as much. Yeah if you can eliminate the symptoms of tingling and
+},
+{
+    487.56,492.16
+     stuff from here to here and this is gone that's good progress. 80% of the
+},
+{
+    492.16,496.52
+     people get better with this. That's that you know 80% of the people. Alright the
+},
+{
+    496.52,500.64
+     third exercise this is the one that helped me Brad. Let's say having pain on
+},
+{
+    500.64,504.56
+     the right side you're actually going to do first going to get into kind of a good
+},
+{
+    504.56,507.72
+     position good posture and you're actually going to do first going to get into kind of a good position, good posture, and you're actually going to side bend
+},
+{
+    507.72,515.36
+     towards the side. Towards the side of the pain. So chin tuck, towards the
+},
+{
+    515.36,520.8
+     side of the pain. And again we should say symptoms technically because sometimes
+},
+{
+    520.8,525.72
+     it's numbness and tingling, but so we want to include everything with this.
+},
+{
+    525.72,529.12
+     The numbness and tingling might get better. I had a dentist that did this one,
+},
+{
+    529.12,534.12
+     worked beautifully. I mean this didn't work, this didn't work, went to this and
+},
+{
+    534.12,537.4
+     it went right away and he had it all the way into those hands. Did you get some
+},
+{
+    537.4,541.32
+     free dental work? No I didn't, as you can tell. No, the old barter system didn't go.
+},
+{
+    541.32,545.7
+     So that one works out really good. Again with all these there's
+},
+{
+    545.7,549.82
+     a lot of different things that can be tried by a therapist that works with you
+},
+{
+    549.82,553.84
+     and that's been trained in this. Right. I mean it's actually a it's a four day
+},
+{
+    553.84,557.58
+     course just for the back or five day course for the back. There's a four for the low back,
+},
+{
+    557.58,561.66
+     three I think for the neck. We've took it it's been a few years. Yeah so I mean
+},
+{
+    561.66,567.64
+     there's a lot of different things that can be tried so if you're not having a luck I would seek a McKenzie therapist out.
+},
+{
+    567.64,572.16
+     Exactly. Again you won't be disappointed this is your best chance of getting things
+},
+{
+    572.16,576.8
+     resolved without surgery. Right. Without you know being heavily medicated all the
+},
+{
+    576.8,582.02
+     time. Exactly. So the whole concept is how to learn how to treat yourself. So
+},
+{
+    582.02,584.48
+     watch the videos at the end if you're having trouble with your low back I'll
+},
+{
+    584.48,586.04
+     put that one on the end too.
+},
+{
+    586.04,586.88
+     Over there?
+},
+{
+    586.88,587.84
+     Well, I don't know, it'll be somewhere.
+},
+{
+    587.84,588.68
+     Okay.
+},
+{
+    588.68,589.52
+     All right, thanks.
+},
+{
+    589.52,590.34
+     Take care.
+},

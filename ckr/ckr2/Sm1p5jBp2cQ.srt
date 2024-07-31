@@ -1,0 +1,536 @@
+{
+    0.0,4.56
+     Hi guys, I'm Ben Welch, editor of 442 Performance and I'm here to show you how to recover from your
+},
+{
+    4.56,8.56
+     ankle injury. Now before we get started I want to alert you to the description below where you'll
+},
+{
+    8.56,12.72
+     find some time code so you can skip to the part of the video you're most interested in. Now it's
+},
+{
+    12.72,16.72
+     time to get started with my rehab and I need to get a scan to see what's giving me all my problems.
+},
+{
+    33.0,36.24
+     Okay guys this is it, this is the upright MRI scanner, there are only two in the country, footballers, athletes, everyday people come here, this is where they get scanned to find
+},
+{
+    36.24,40.72
+     out what the injuries are before I jump in, I'm going to find out what this MRI scanner
+},
+{
+    40.72,41.72
+     is all about, Juliana hello.
+},
+{
+    41.72,42.72
+     Hello Bill.
+},
+{
+    42.72,45.56
+     So for a footballer probably it's kind of,
+},
+{
+    45.56,47.92
+     this is really helpful because when you get a scan,
+},
+{
+    47.92,49.48
+     normally it's like a perfect snapshot
+},
+{
+    49.48,51.68
+     of what body sort of position you're in,
+},
+{
+    51.68,52.76
+     whereas when you're playing sport,
+},
+{
+    52.76,54.36
+     not a directional movement.
+},
+{
+    54.36,55.2
+     Absolutely, absolutely.
+},
+{
+    55.2,56.16
+     It does help.
+},
+{
+    56.16,58.24
+     Sometimes we get athletes that got problems
+},
+{
+    58.24,59.76
+     from their knees up next.
+},
+{
+    59.76,62.04
+     So we're able to scan them with an knee to next
+},
+{
+    62.04,66.24
+     or extended or weight bearing you know so any of those
+},
+{
+    66.24,71.68
+     positions are impossible to be done or scanned in the conventional scanners that's why a
+},
+{
+    71.68,73.68
+     threat scanners is the best one to do in that.
+},
+{
+    73.68,77.44
+     Okay right well my uncle's an echo so let's get me in there and let's get it sorted.
+},
+{
+    83.68,88.68
+     Right I'm in the scanner I'm not sure if this is going to fire me off somewhere or
+},
+{
+    88.68,93.44
+     is some sort of electric chair set up by some sick Tottenham fan to punish me for all the
+},
+{
+    93.44,110.6
+     things I've said about their club. Hold on tight, it's about to get real. So overall what's your what's your assessment of my ankle?
+},
+{
+    110.6,116.92
+     I've seen worse. It's slightly narrowed. I think there's a loose bit of either cartilage
+},
+{
+    116.92,123.4
+     from the joint or a tiny little flak of bone sitting in between these two larger bones between
+},
+{
+    123.4,125.44
+     the tibia and the dome of the tail.
+},
+{
+    125.44,131.6
+     You probably need to go and see the physio and see if I can do some things up on the inside.
+},
+{
+    131.6,133.04
+     But the dream is not over.
+},
+{
+    133.04,134.4
+     Oh, the dream is not over.
+},
+{
+    134.4,135.68
+     I can get this fixed.
+},
+{
+    135.68,137.36
+     I'm sure you can get this fixed.
+},
+{
+    137.36,138.72
+     And I'm going to make a comeback.
+},
+{
+    138.72,140.32
+     And you're going to make a comeback.
+},
+{
+    140.32,141.12
+     Okay.
+},
+{
+    141.12,142.8
+     But only if you do as you're told.
+},
+{
+    144.32,146.36
+     Right, scan done. Now it's time to get some
+},
+{
+    146.36,150.0
+     physio so I can get back out on one of these.
+},
+{
+    154.64,158.24
+     I'm here at Pure Sports Medicine's clinic and I'm with Alistair Null
+},
+{
+    158.24,161.48
+     Muscular Skeletal Physio Therapist. Alistair what are we going to do to
+},
+{
+    161.48,164.6
+     help my dodgy ankle? So the first thing is we're going to look at your ankle range
+},
+{
+    164.6,165.4
+     of movement. Secondly we'll film some functional assessment tests to make sure Alistar, ydych yn ddod i'r ddod i'r angylch? Yn ystod, ydych yn ddod i'r angylch yn ymgyrch.
+},
+{
+    165.4,167.92
+     Yn ystod, ydych yn ddod i'r functiol ysgrifennu
+},
+{
+    167.92,170.4
+     i'n ddod i'r angylch yn ymgyrch o'r angylch.
+},
+{
+    170.4,185.4
+     Yn ystod, ydych yn ddod i'r angylch yn ymgyrch i'r angylch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgylch yn ddoriflechio. Felly, mae'n ddweud yng Nghymru
+},
+{
+    185.4,188.24
+     ac mae'n ddweud y bydd y cyflwyno a'r ddweud
+},
+{
+    188.24,191.72
+     ar y gweithio, y front o'r ddweud o'r angylch.
+},
+{
+    191.72,194.64
+     Yr ystod, mae'n ddweud yng nghymru yw'r plantyflchio.
+},
+{
+    194.64,197.16
+     Felly, mae'n ddweud yng nghymru o'r ddweud.
+},
+{
+    197.16,200.72
+     A'r ddweud, mae'n ddweud yng nghymru o'r angylch o'r ddweud
+},
+{
+    200.72,204.08
+     mae'n ddweud yng nghymru o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    204.08,227.4
+     Felly, mae'n ddweud yng nghymru o'r ddweud. Yr drwy'r ddweud, mae'n ddweud yng Nghymru o'r dhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o'r rhan o'r rhan o'r rhan o'r rhan o'rhan o'r rhan o a mae'n gwybod y tro i'r ddweud. A'r ddweud yw'r ddweud yw'r ddweud yw'r cyffredinol,
+},
+{
+    227.4,230.4
+     mae'n ddweud yw'r cyffredinol, yw'r ddweud yw'r heil,
+},
+{
+    230.4,234.4
+     ddweud yw'r ddweud, a'r ddweud yw'r cyffredinol,
+},
+{
+    234.4,237.4
+     yw'r ddweud, o'r ddweud, o'r ddweud yw'r ddweud,
+},
+{
+    237.4,240.4
+     o'r ddweud yw'r cyffredinol.
+},
+{
+    240.4,243.4
+     Mae'r gweithio'r cyffredinol yn ymddi'r cyffredinol.
+},
+{
+    243.4,246.5
+     1. Rwy'n cael teimlo'r ysgol ar y ddweud. 2. Rwy'n cael teimlo'r cyfnod yw'r cyfnod yn ystod y cyfnod yw'r cyfnod. 1. Mae'r cyfnod yn ystod y flwr ar y flwr.
+},
+{
+    246.5,252.5
+     2. Mae'r cyfnod yn ystod y flwr a'r cyfnod yn ystod y flwr ar y flwr.
+},
+{
+    252.5,256.7
+     3. Mae'r cyfnod yn ystod y flwr.
+},
+{
+    256.7,260.0
+     4. Mae'r cyfnod yn ystod y flwr yn ystod y flwr.
+},
+{
+    260.0,264.8
+     5. Mae'r cyfnod yn ystod y flwr yn ystod y flwr.
+},
+{
+    264.8,265.0
+     Mae'r cyfnod ynwl ar gweithio. 5. Rwy'n meddwl ar gyfer y gweithio,
+},
+{
+    265.0,267.0
+     mae'r gweithio ar gweithio ar gweithio.
+},
+{
+    267.0,268.0
+     6.
+},
+{
+    268.0,270.0
+     Rwy'n meddwl ar gyfer y gweithio ar gweithio
+},
+{
+    270.0,273.0
+     ac mae'r gweithio ar y gweithio ar y gweithio.
+},
+{
+    273.0,275.0
+     Yn ymddangos ymddangos ymddangos ymddangos yma,
+},
+{
+    275.0,278.0
+     mae'r gweithio ar gyfer y gweithio ar gyfer y gweithio.
+},
+{
+    278.0,279.0
+     1.
+},
+{
+    279.0,282.0
+     Mae'r gweithio ar gweithio ar gweithio.
+},
+{
+    282.0,283.0
+     2.
+},
+{
+    283.0,286.0
+     Mae'r gweithio ar gweithio. 3. Mae'r llwy o'r llwy o'r llwy. 2. Llywodraeth yn ddwych yn ddwych.
+},
+{
+    287.0,292.0
+     3. Rwy'n ddwych yn ddwych o'r ddwych yn ddwych yn ddwych, a'r ddwych yn ddwych yn ddwych.
+},
+{
+    293.0,297.0
+     4. Rwy'n ddwych yn ddwych yn ddwych yn ddwych yn ddwych.
+},
+{
+    298.0,302.0
+     Y ddwych yn ddwych yn ddwych yn ddwych yn ddwych yn ddwych yn ddwych.
+},
+{
+    303.0,305.64
+     1. Rwy'n ddwych yn ddwych yn ddwych yn ddwych yn ddwych yn ddwych. single leg calf strength and endurance. Number one, using a step or stairs, place
+},
+{
+    305.64,312.0
+     the toes of one foot on the edge. Two, keep your knee straight and body upright.
+},
+{
+    312.0,318.4
+     Three, slowly go up and down until your calf fatigues. Four, count how many you
+},
+{
+    318.4,324.44
+     can do. Five, repeat the test on your other leg and compare results.
+},
+{
+    324.44,328.0
+     Okay Alistair, we've looked to my range of movement, we've done some functional tests,
+},
+{
+    328.0,331.16
+     now we're going to go into exercises that will help me rehab my ankle.
+},
+{
+    331.16,336.04
+     Perfect. So one of the first things we can work on is your single leg balance and proprioception.
+},
+{
+    336.04,340.8
+     So if you put your injured ankle straight in the middle of the star, keeping your right knee nice and straight,
+},
+{
+    340.8,344.96
+     you're going to reach out with your good side along the lines,
+},
+{
+    344.96,345.16
+     trying to keep that right ankle nice and still and you're going to reach out with your good side along the lines, trying
+},
+{
+    345.16,350.04
+     to keep that right ankle nice and still and flat on the ground.
+},
+{
+    350.04,354.76
+     Now if you were doing this at home and you kind of wanted to see, get an indication of
+},
+{
+    354.76,357.56
+     what your injury like and what the move would be, what would be the kind of symptoms of
+},
+{
+    357.56,360.72
+     someone who had a weak ankle or an injured ankle.
+},
+{
+    360.72,387.48
+     So somebody with an injured or weak ankle might find this quite painful or they might Mae'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r I'd pretty restricted movement and if you're playing football and you planted your foot like that and you could kind of jolt causing injury elsewhere and make your ankle worse,
+},
+{
+    387.48,390.92
+     what exercise can we do to improve the range of movement in my ankle?
+},
+{
+    390.92,393.04
+     So one of the things we can practice is a similar movement.
+},
+{
+    393.04,397.32
+     So if you put your right foot on the step and the whole idea is you're going to lunge
+},
+{
+    397.32,400.0
+     forward with that right knee, perfect.
+},
+{
+    400.0,403.88
+     Again keeping your heel down and trying to get your knee in line with your second toe
+},
+{
+    403.88,425.56
+     and then bring it back and then repeat the process. i'w ddweud i'r llwydd i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w ddweud i'w d It's very much a mobility-based exercise so it's trying to loosen up your ankle joint
+},
+{
+    425.56,431.0
+     and because of any damage and injury to that ankle, you will most likely become stiff in
+},
+{
+    431.0,432.0
+     there.
+},
+{
+    432.0,434.48
+     So Alison, one of the other assessments we were doing was looking at the tightness in
+},
+{
+    434.48,437.24
+     my calf and we noticed my calf was pretty tight.
+},
+{
+    437.24,440.68
+     So what can we do to kind of loosen that up and improve the mobility around the ankle?
+},
+{
+    440.68,442.28
+     So one of the good things is to use a foam roller.
+},
+{
+    442.28,447.92
+     So if you want to pop down on the floor, so okay put your right ankle on the roller, keeping your knee nice and
+},
+{
+    447.92,452.0
+     straight and then put your left leg over the top and what you're going to do is slightly
+},
+{
+    452.0,456.6
+     lift your bottom up in the air and roll up and down nice and slowly from the back of
+},
+{
+    456.6,461.68
+     your knee towards your ankle and it might be quite sore and tender in certain areas
+},
+{
+    461.68,465.88
+     but should hopefully give some quite good nice relief and relieve any tightness in that calf.
+},
+{
+    465.88,467.72
+     So Alistair, we just loosened up my calf
+},
+{
+    467.72,468.56
+     with the foam roller,
+},
+{
+    468.56,469.96
+     but when we were doing the functional test earlier,
+},
+{
+    469.96,471.52
+     we noticed that my calf and my ankle
+},
+{
+    471.52,472.88
+     were pretty weak there for T quickly
+},
+{
+    472.88,473.72
+     and they didn't have much strength.
+},
+{
+    473.72,476.2
+     What exercises can we do to increase the strength
+},
+{
+    476.2,477.72
+     and endurance in my right side?
+},
+{
+    477.72,479.12
+     Okay, so if you could hop on the step,
+},
+{
+    479.12,481.08
+     it's similar to the way we assessed it.
+},
+{
+    481.08,482.96
+     You might have to start off against the wall
+},
+{
+    482.96,484.48
+     if it's too challenging,
+},
+{
+    484.48,489.36
+     but the whole idea would be to go up and down on your toes, nice and slowly, keeping your
+},
+{
+    489.36,491.88
+     body nice and upright and tall.
+},
+{
+    491.88,495.64
+     So you'd move it away from the wall, so what you're having to challenge is a couple of
+},
+{
+    495.64,500.56
+     things, working on your balance and proprioception along with working on your car strength.
+},
+{
+    500.56,504.36
+     That just makes it more challenging and more mimics what you're doing everyday life where
+},
+{
+    504.36,505.34
+     you haven't got the support of
+},
+{
+    505.66,508.9
+     Holding on to something but it is quite a challenging exercise
+},
+{
+    509.1,515.16
+     But if you can do it slowly three sets of ten maybe not a two sets of 15
+},
+{
+    515.62,520.06
+     That generally shows you've got good calf strength and endurance. Okay guys, that's it
+},
+{
+    520.06,524.1
+     Hopefully this video has given you some nice advice and tips on how to rehab your injured ankle
+},
+{
+    524.1,526.88
+     If you do have any questions, please leave them in the comment section below.
+},
+{
+    526.88,539.52
+     If you like the video, hit like, and if you're new to the channel, make sure you subscribe.
+},

@@ -1,0 +1,96 @@
+{
+    0.0,7.84
+     Bleeding control training is of utmost importance in the pediatric population.
+},
+{
+    7.84,12.76
+     In those age 1 to 17, injury is a leading cause of mortality.
+},
+{
+    12.76,16.48
+     So understanding how to control bleeding is of huge importance.
+},
+{
+    16.48,22.08
+     A ternicate is a device that is used on an extremity and it provides a circumferential,
+},
+{
+    22.08,25.18
+     a pressure around the extremity that stops that blood
+},
+{
+    25.18,30.32
+     flow and so blood can't flow through the extremity to the area that is bleeding.
+},
+{
+    30.32,34.16
+     Turnickets can only be used on arms or legs and if there's life-threatening bleeding there,
+},
+{
+    34.16,37.72
+     putting the tourniquet on and tightening it will put pressure on that extremity.
+},
+{
+    37.72,41.44
+     For all other wounds, use direct pressure and that basically means taking your hand and
+},
+{
+    41.44,44.28
+     available material if you have gauze, great.
+},
+{
+    44.28,46.88
+     If you don't, a t-shirt, newspaper, necktie,
+},
+{
+    46.88,48.68
+     whatever you have, you push that on the wound
+},
+{
+    48.68,50.04
+     and then push as hard as you can on it.
+},
+{
+    50.04,52.0
+     And so those are the two basic ways
+},
+{
+    52.0,54.08
+     that you can apply pressure for life-threatening bleeding.
+},
+{
+    54.08,55.64
+     Unfortunately, accidents happen
+},
+{
+    55.64,57.8
+     and they happen around the home every day.
+},
+{
+    57.8,60.76
+     Bleeding to death can occur within a couple of minutes
+},
+{
+    60.76,62.12
+     with a severe bleed.
+},
+{
+    62.12,64.6
+     This can be before EMS providers arrive.
+},
+{
+    64.6,66.24
+     Blood that is spurting
+},
+{
+    66.24,71.36
+     from a wound, blood that is pooling on the ground, if the person is starting to get faint or pale
+},
+{
+    71.36,75.68
+     appearing. These are signs of life-threatening bleeding and this is when a tourniquet should be
+},
+{
+    75.68,84.8
+     applied. Everyone can learn how to use a tourniquet and they can be used to save a life.
+},

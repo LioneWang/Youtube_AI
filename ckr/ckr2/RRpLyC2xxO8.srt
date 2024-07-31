@@ -1,0 +1,280 @@
+{
+    0.0,7.64
+     Bob and Brad the two most famous physical therapists on the internet
+},
+{
+    9.6,14.68
+     Hi, I'm Bob Schrupp physical therapist, Brad Heineck physical therapist, together we are the most famous physical therapists on the internet
+},
+{
+    14.68,21.24
+     In our opinion of course Bob, today Brad we're gonna do three tests to tell whether or not your SI is actually causing your back pain
+},
+{
+    22.2,26.66
+     Right, sacred liliac, sacrediac. Let's show what that is.
+},
+{
+    26.66,32.0
+     All right this is the back of your spine, so Brad show which way we're
+},
+{
+    32.0,38.1
+     oriented like this. And the pelvis here you have the sacrum which is a
+},
+{
+    38.1,42.98
+     triangle shaped bone right there on Brad and you have the pelvis or the
+},
+{
+    42.98,47.88
+     ilium so this is the sacrum and this is the iliac and this is this joint right in here
+},
+{
+    47.88,51.0
+     Or this joint right in here that's giving you trouble
+},
+{
+    51.32,55.86
+     And if we move this if you can see that move
+},
+{
+    57.12,60.12
+     There's a little bit of controversy on whether there's movement
+},
+{
+    61.28,66.18
+     Exactly so in the medical field this is not settled yet. Alright so on Brad
+},
+{
+    67.06,71.26
+     Brad's having pain on his right side, so we're gonna check whether or not
+},
+{
+    71.84,76.36
+     It's actually coming from his sacroiliac or not or SI, so we're gonna start off the first
+},
+{
+    76.36,79.54
+     That's what the red tape for is by the way, it indicates it's on his right side
+},
+{
+    79.54,82.1
+     Okay, why don't you lay flat back on your back Brad
+},
+{
+    83.38,87.3
+     Very simple test figure four or Patrick test this is called
+},
+{
+    88.4,93.4
+     Yeah, but he's gonna put this one down and this one across like that so he's crossing his leg
+},
+{
+    93.4,95.24
+     He's making a four here
+},
+{
+    95.24,101.6
+     If you can see that and all you do is you push down here and you hold right here and you push down
+},
+{
+    102.16,106.04
+     Not too hard, gentle pressure and if he gets
+},
+{
+    106.04,110.48
+     pain, if he gets his same pain, if it reproduces his pain on the right side
+},
+{
+    110.48,115.98
+     that's a possibility that's the SI. The more tests that are positive the more
+},
+{
+    115.98,119.48
+     likely it's going to be your SI. Alright let's go right into the next one Brad.
+},
+{
+    119.48,122.68
+     Next one you're going to go ahead and put the leg off the edge here, don't fall
+},
+{
+    122.68,129.12
+     off the bed, don't fall off the bed., so this one goes down. This one goes up like this
+},
+{
+    129.8,132.6
+     Like that. You can actually hold on
+},
+{
+    133.64,139.6
+     But I'm gonna actually push down on this one while I'm pushing on that one too. So again gentle pressure
+},
+{
+    140.32,150.34
+     Same thing does this reproduce your pain Brad does this make the pain? Replicated, okay, no it doesn't, you're not helping me at all. Alright next one
+},
+{
+    150.34,156.06
+     We're gonna do is we're gonna actually have Brad lay on his side like this and what I'm doing on this one
+},
+{
+    158.4,161.4
+     On the pelvis I'm gonna push right on the pelvis here
+},
+{
+    162.32,164.32
+     Okay, so I'll
+},
+{
+    168.72,176.64
+     right on the pelvis here. Okay so he's right like this I'm just gonna go ahead and push right on the pelvis right on the flare of here of the ilium. Easy one
+},
+{
+    176.64,183.28
+     to do so we're just gonna go ahead and push, pressure on, pressure on, any pain
+},
+{
+    183.28,188.84
+     with that Brad? Pain with pressure yes. okay so now we got a positive one right there
+},
+{
+    189.24,195.48
+     So again obviously with all these tests you're gonna need someone to help you, the last one we're gonna do very simple
+},
+{
+    195.84,199.24
+     We're actually gonna throw an extra one in there that we said three tests, this is gonna be four
+},
+{
+    199.56,201.56
+     Lay flat on your stomach Brad
+},
+{
+    204.48,206.68
+     On this one, we're just going to go right you know
+},
+{
+    206.68,210.4
+     where the belt is we're going to push right on the sacrum itself, right on
+},
+{
+    210.4,213.96
+     that triangle. So I'm just putting a hand here, pushing another hand on here and
+},
+{
+    213.96,218.96
+     pushing down like that. Yeah and actually it's below the belt. Yeah a little bit
+},
+{
+    218.96,223.36
+     exactly. I'm not I'm not I'm putting pressure on my palm is what I'm doing so.
+},
+{
+    223.36,225.82
+     So I'm putting pressure right on the sacrum
+},
+{
+    226.42,228.42
+     Pressure on pressure off
+},
+{
+    228.42,237.44
+     Now to be honest the gold standard of tests for checking whether or not you have an SI problem is if the doctor themselves
+},
+{
+    238.26,244.26
+     Actually does an injection of an anesthetic into the SI joint and if that makes it feel better
+},
+{
+    246.04,248.04
+     Anesthetic into the SI joint and if that makes it feel better, greatly relieves your pain It's likely there was an SI problem
+},
+{
+    248.16,252.92
+     But if you do these tests, if you do all four tests and they're all positive or three of them are positive
+},
+{
+    253.04,257.56
+     There's a pretty good chance you have an SI problem. The other thing I do want to mention Bob is
+},
+{
+    257.96,264.44
+     SI pain can refer down the leg, but they always say it almost never refers past the knee
+},
+{
+    264.44,266.72
+     So from here down to here
+},
+{
+    266.72,269.76
+     But if you're getting pain here all the way down to your foot
+},
+{
+    269.92,274.88
+     It's probably not as bad. I'll often see SI pain even in the groin or the front here
+},
+{
+    274.88,277.08
+     Now one thing you can do just real quickly
+},
+{
+    277.8,283.76
+     Another test by the way stand up Brad is if to see whether or not an SI belt would help
+},
+{
+    283.76,284.24
+     Sure
+},
+{
+    284.24,285.96
+     There's these SI belts you can order
+},
+{
+    286.2,290.62
+     What you do is you actually push on his pelvis, have someone squeeze a little strange
+},
+{
+    291.36,298.28
+     Pushing right on the pelvis right there and we have them walk and before if they were having pain
+},
+{
+    298.64,302.52
+     When they walked when they were walking and now they don't
+},
+{
+    303.04,305.98
+     That's a good indicator that that SI belt might help
+},
+{
+    305.98,308.88
+     Right because when do you have pain with SI?
+},
+{
+    309.36,313.88
+     Weight-bearing, typically, and it's usually worse with stairs and
+},
+{
+    315.0,319.84
+     Running and you can't even feel it sitting when you're weight-bearing on the pelvis with that
+},
+{
+    319.84,324.08
+     Some impact activities where it puts the weight through but the SI belt just
+},
+{
+    324.76,327.04
+     Squeezes around, let's get bullie part in here
+},
+{
+    328.44,335.9
+     It's just like a two inch belt and it comes around and you pull it, velcro goes on real easy and it just supports that area
+},
+{
+    336.26,342.98
+     Thank you. Yeah, thanks, and remember we can fix just about anything, but well Bob, it's that broken heart
+},
+{
+    342.98,346.18
+     We're still working and we're gonna try to come up with an answer for you
+},

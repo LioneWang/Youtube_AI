@@ -1,0 +1,148 @@
+{
+    0.0,11.16
+     Hi, I'm Dr. Tom McClellan.
+},
+{
+    11.16,13.96
+     One issue you would example today of a Jackson Pratt drain.
+},
+{
+    13.96,15.48
+     JP drains are very important.
+},
+{
+    15.48,17.8
+     I use them a lot in my practice.
+},
+{
+    17.8,23.16
+     This will be remedial for the med students and the physicians, viewers of the channel,
+},
+{
+    23.16,29.84
+     but it's really important for my patients and other patients out there that want to understand a JP drain, specifically how
+},
+{
+    29.84,34.8
+     it works and what are some of the important features about the drain. So
+},
+{
+    34.8,37.8
+     I'll show you an example of that today and I greatly appreciate you watching.
+},
+{
+    37.8,41.76
+     Obviously email if you have any questions or leave a comment and thank you
+},
+{
+    41.76,45.58
+     for watching. The drain comes in a couple parts.
+},
+{
+    45.58,52.24
+     Here you can see a graduated bulb which will serve to store the fluid.
+},
+{
+    52.24,56.54
+     It has a small connector where you can attach it to your dressing.
+},
+{
+    56.54,57.54
+     Here's the tubing.
+},
+{
+    57.54,61.74
+     There's a sharp point which the surgeon will use to take it through your skin.
+},
+{
+    61.74,65.44
+     So from the pocket it needs to be drained to the outside.
+},
+{
+    73.44,77.12
+     And then on the business end of the drain is a perforated tubing with the black marked meaning five centimeters outside the wound and ten centimeters outside the wound. So you note
+},
+{
+    77.12,85.56
+     approximately where the the distal, I'm sorry the most proximal hole is. So if I attach the drain to the collection reservoir,
+},
+{
+    87.48,89.2
+     this is what it's gonna look like.
+},
+{
+    89.2,91.2
+     And I'll take my coffee cup full of water
+},
+{
+    91.2,93.44
+     and I'll add some coloring to it.
+},
+{
+    93.44,95.74
+     This happens to be some crystal light.
+},
+{
+    100.6,103.76
+     And I'll place the drain into the coffee cup.
+},
+{
+    103.76,106.84
+     And as you can see, I'm going to put the top on I see many
+},
+{
+    106.84,111.56
+     Patients that show up to my office with drains that look like this and as you can see
+},
+{
+    112.0,119.76
+     No draining is occurring when the cap is on and there is no compression of the actual bulb itself
+},
+{
+    120.04,124.32
+     So now I'm going to compress the bulb this generates the vacuum and then I'll put the top on
+},
+{
+    124.6,127.8
+     While the the collection reservoir is still compressed.
+},
+{
+    128.6,137.0
+     And as you'll notice when I let go of the drain it creates a vacuum and starts to remove the fluid slowly from the coffee cup.
+},
+{
+    140.2,145.4
+     And what we'll do here is as it starts to fill up with the fluid and it's the patient
+},
+{
+    145.4,149.36
+     is home on a certain day, when it reaches a certain level and you need to empty it a
+},
+{
+    149.36,157.44
+     couple times a day, you'll simply hold the bulb and you'll pop the top off.
+},
+{
+    157.44,162.12
+     In general you will give the patient a cup to measure in the amount and cc's that comes
+},
+{
+    162.12,165.84
+     out. You'll pop the top off, you'll gently
+},
+{
+    165.84,173.84
+     drain out the fluid that's on the inside, and you'll record the amount that comes
+},
+{
+    173.84,178.36
+     out on a sheet, much like this one that I give to my patients, generally twice a
+},
+{
+    178.36,185.44
+     day from each JP drain. Then after you record it, you compress the bulb and you simply put the top back on.
+},
+{
+    185.44,190.72
+     And this recharges the reservoir to remove the fluid.
+},

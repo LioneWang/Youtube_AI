@@ -1,0 +1,688 @@
+{
+    0.0,3.16
+     Our next guest thought she had a wart on her foot,
+},
+{
+    3.16,6.4
+     but it ended up being something much more
+},
+{
+    6.4,7.9
+     and it nearly took her life.
+},
+{
+    8.96,10.84
+     Rachel, a 40 year old mom of three,
+},
+{
+    10.84,13.8
+     says she felt like a piece of glass was stuck in her foot
+},
+{
+    13.8,16.64
+     and brushed it off thinking it was a plantar wart.
+},
+{
+    16.64,19.54
+     She started self-medicating with wart removal creams,
+},
+{
+    19.54,21.44
+     but more growth appeared on her foot
+},
+{
+    21.44,23.28
+     and she started to worry.
+},
+{
+    23.28,24.48
+     After seeing a dermatologist,
+},
+{
+    24.48,30.1
+     she learned she had melanoma, which had spread to other areas of her body. She had several surgeries
+},
+{
+    30.1,36.04
+     to remove the melanoma from her foot and reconstructive surgeries to replace part of her heel. Doctors
+},
+{
+    36.04,41.88
+     also removed melanoma from lymph nodes in her groin and tumors in her stomach lining.
+},
+{
+    41.88,47.36
+     Now Rachel wants to share her traumatic experience to help raise awareness and save lives.
+},
+{
+    51.24,53.44
+     Friend of the show oncologist Dr. Lawrence Pirro
+},
+{
+    53.44,57.92
+     is here along with Rachel who joins us now via Skype.
+},
+{
+    57.92,61.44
+     Rachel so very sorry that you've been through all of this
+},
+{
+    61.44,63.28
+     and I know how scary it must have been
+},
+{
+    63.28,65.56
+     and probably still is, but how are you doing now?
+},
+{
+    65.56,67.12
+     I'm doing really well, thank you.
+},
+{
+    67.12,70.0
+     I've just had my latest scan,
+},
+{
+    70.0,73.48
+     which is really reassuring.
+},
+{
+    73.48,78.0
+     Showed no further spread at this stage, which is amazing.
+},
+{
+    78.0,80.32
+     But unfortunately, as we know in melanoma,
+},
+{
+    80.32,84.6
+     there's still the chance that the cells still present.
+},
+{
+    84.6,87.24
+     Melanomas can look like almost anything.
+},
+{
+    87.24,91.36
+     We tend to think of them as black spots that are growing,
+},
+{
+    91.36,94.4
+     but they can have a cover over them
+},
+{
+    94.4,96.08
+     from the outer layer of the skin
+},
+{
+    96.08,98.56
+     and look like a wart, like was in your case.
+},
+{
+    98.56,101.44
+     They occur in areas where the sun doesn't shine.
+},
+{
+    101.44,104.12
+     Most of us think that they're only in sun exposed areas,
+},
+{
+    104.12,105.56
+     but this is a good example.
+},
+{
+    105.56,108.46
+     And I think the really important points are that
+},
+{
+    108.46,111.12
+     anything that's persistent on your skin
+},
+{
+    111.12,113.02
+     and doesn't look like a bronzo,
+},
+{
+    113.02,114.96
+     you should see a dermatologist.
+},
+{
+    114.96,117.98
+     Skin cancer by far the most common of all cancers,
+},
+{
+    117.98,119.74
+     as you often tell us,
+},
+{
+    119.74,121.76
+     we all know the importance of protecting your skin
+},
+{
+    121.76,122.86
+     from the sun.
+},
+{
+    122.86,127.92
+     But when it comes to protecting your children, what's so different about baby versus adult
+},
+{
+    127.92,133.24
+     sunscreens? Have a look. With one in five Americans developing skin cancer in their
+},
+{
+    133.24,138.6
+     lifetime, protection from harmful UV rays is so important. When it comes to
+},
+{
+    138.6,142.8
+     protecting children from the sun, many opt for general versions of sunscreen
+},
+{
+    142.8,145.52
+     labeled specifically for kids or babies.
+},
+{
+    145.52,150.08
+     But what makes baby sunscreen gentler? According to a new study done by the
+},
+{
+    150.08,155.42
+     Clean Label Project, nothing. The organization examined 95 of the best
+},
+{
+    155.42,159.72
+     selling sunscreens and sunblocks and found no significant difference between
+},
+{
+    159.72,165.2
+     baby, kid, and adult versions of sunscreen. But when it comes to toxins,
+},
+{
+    165.2,166.88
+     they did find something unsettling
+},
+{
+    166.88,169.88
+     in many bottles of black, lead.
+},
+{
+    169.88,171.88
+     Five of the tested brands had enough lead
+},
+{
+    171.88,175.16
+     in a dime-sized amount to exceed California's
+},
+{
+    175.16,177.24
+     mandated safety levels.
+},
+{
+    177.24,179.86
+     So what's the best way to protect yourself from the sun?
+},
+{
+    179.86,182.52
+     And is baby sunscreen just clever marketing?
+},
+{
+    184.56,186.34
+     Joints now to shed some light on the study
+},
+{
+    186.34,189.28
+     as executive director of the Clean Label Project,
+},
+{
+    189.28,191.12
+     Jackie Bowen.
+},
+{
+    191.12,191.96
+     Welcome, Jackie.
+},
+{
+    191.96,193.16
+     Welcome, Jackie.
+},
+{
+    194.16,198.12
+     We all want to do what's best for babies.
+},
+{
+    198.12,199.04
+     What did you find?
+},
+{
+    199.04,201.48
+     Is there a difference out there between the safety
+},
+{
+    201.48,203.72
+     of the Baby Sunscreen versus adult ones?
+},
+{
+    203.72,207.96
+     So the short answer is no, there's no difference. Clean Libra Project tested the
+},
+{
+    207.96,209.8
+     top ninety five products,
+},
+{
+    209.8,212.6
+     tested them for things like heavy metals, efficacy,
+},
+{
+    212.6,215.2
+     anti-oxidant activity, sulfites,
+},
+{
+    215.2,218.76
+     and what we found is no difference between baby and adult sunscreens.
+},
+{
+    218.76,222.48
+     So you're a consumer, we need to protect ourselves from skin cancer, what do we do now?
+},
+{
+    222.48,225.52
+     So the point of this discussion is not to scare people off sunscreen.
+},
+{
+    225.52,228.44
+     So sunscreen is really necessary, as you said,
+},
+{
+    228.44,231.36
+     because even if you wear a hat and sun protective clothing
+},
+{
+    231.36,233.68
+     and you avoid peak hours of UV exposure
+},
+{
+    233.68,235.4
+     between 10 a.m. and 2 p.m.,
+},
+{
+    235.4,236.86
+     you're still gonna get some sun
+},
+{
+    236.86,239.16
+     and hopefully you're out there enjoying your life.
+},
+{
+    239.16,242.64
+     So how, Jackie, how do you recommend people determine
+},
+{
+    242.64,247.08
+     if the product they're considering is safe?
+},
+{
+    247.08,248.16
+     Well, let's say a few things.
+},
+{
+    248.16,250.16
+     Our findings did show that consistent
+},
+{
+    250.16,252.6
+     with American Academy of Dermatology,
+},
+{
+    252.6,255.92
+     SPF greater than 30 SPF, broad spectrum,
+},
+{
+    255.92,258.12
+     and waterproof is always important.
+},
+{
+    258.12,260.04
+     Of course, work with your family practitioner
+},
+{
+    260.04,262.48
+     or dermatologist to determine what's the best fit.
+},
+{
+    262.48,264.8
+     And overall, you can check out our website
+},
+{
+    264.8,267.12
+     at kalinaweproject.org as well.
+},
+{
+    267.12,269.56
+     It's time to...
+},
+{
+    269.56,271.06
+     Ask the doctor!
+},
+{
+    272.56,273.4
+     Woo!
+},
+{
+    273.4,274.24
+     Woo!
+},
+{
+    274.24,275.32
+     Woo!
+},
+{
+    275.32,279.36
+     This question came to us via video through social media.
+},
+{
+    279.36,281.12
+     Hey doctors, quick question.
+},
+{
+    281.12,283.36
+     I'm active and I'm logged to be outside,
+},
+{
+    283.36,285.24
+     but I feel like because I'm a ginger,
+},
+{
+    285.24,287.42
+     I get burnt really easily.
+},
+{
+    287.42,288.88
+     Ah!
+},
+{
+    288.88,291.28
+     Do I get sunburnt just because I have red hair?
+},
+{
+    291.28,293.08
+     And if that's the case, does that mean
+},
+{
+    293.08,295.88
+     that I'm in a greater chance of infallifying skin cancer?
+},
+{
+    297.64,299.56
+     People with red hair are special, right Drew?
+},
+{
+    299.56,303.44
+     She is a lovely young redhead, I love it.
+},
+{
+    303.44,306.16
+     And less than 2% of the world's population, unique.
+},
+{
+    306.16,307.92
+     Less than 2%.
+},
+{
+    307.92,309.16
+     And what's unique about them,
+},
+{
+    309.16,312.52
+     their melanin is different than the rest of us.
+},
+{
+    312.52,314.68
+     We have U melanin.
+},
+{
+    314.68,317.76
+     They have pheomelanin, which is a different type
+},
+{
+    317.76,322.44
+     of melanin, which makes them more susceptible to UV rays.
+},
+{
+    322.44,323.76
+     What's causing it?
+},
+{
+    323.76,325.06
+     A gene mutation.
+},
+{
+    325.06,329.24
+     There's a specific gene, MC1R.
+},
+{
+    329.24,332.64
+     In redheads, they have a pair of those.
+},
+{
+    332.64,335.12
+     So it changes their genetic makeup
+},
+{
+    335.12,336.78
+     when it comes to melanin.
+},
+{
+    336.78,340.14
+     So clearly more prone to sunburns.
+},
+{
+    340.14,343.4
+     That being said, more prone to skin cancers.
+},
+{
+    343.4,346.08
+     And we know our skin cancers, most common type,
+},
+{
+    346.08,350.32
+     basal cell, carcinoma, second scrimacell carcinoma,
+},
+{
+    350.32,353.44
+     and finally melanoma, the most lethal form
+},
+{
+    353.44,354.56
+     of skin cancers.
+},
+{
+    354.56,359.56
+     Unfortunately, redheads do have a higher chance
+},
+{
+    359.88,362.0
+     of developing these skin cancers.
+},
+{
+    362.0,364.92
+     That's why they have to be particularly vigilant.
+},
+{
+    364.92,366.54
+     What can you add to your diet
+},
+{
+    366.54,371.04
+     to decrease your risk of skin cancer by up to 15%?
+},
+{
+    373.34,377.6
+     Foods with Dr. Batra?
+},
+{
+    377.6,378.94
+     Vitamin A.
+},
+{
+    378.94,380.28
+     Woo!
+},
+{
+    380.28,381.84
+     Let's give it up for Vitamin A.
+},
+{
+    381.84,384.72
+     Yes, so this is actually a really interesting study
+},
+{
+    384.72,387.2
+     that was just published in JAMA Dermatology.
+},
+{
+    387.2,390.6
+     They looked at over 125,000 people
+},
+{
+    390.6,392.6
+     and looked at their long-term risk
+},
+{
+    392.6,395.4
+     of developing the second most common type of skin cancer,
+},
+{
+    395.4,397.24
+     which is called a squamous cell carcinoma,
+},
+{
+    397.24,400.76
+     and they found that those with the highest dietary intake
+},
+{
+    400.76,405.0
+     of Vitamin A had a 15% lower risk of SCC.
+},
+{
+    405.2,407.52
+     And so this is really interesting because vitamin A
+},
+{
+    407.52,410.76
+     is known to help promote skin cell differentiation,
+},
+{
+    410.76,412.2
+     turnover, growth.
+},
+{
+    412.2,414.12
+     It's something that we give us a synthetic form
+},
+{
+    414.12,416.66
+     to people at very high risk of skin cancer,
+},
+{
+    416.66,418.4
+     but the problem with vitamin A medications
+},
+{
+    418.4,420.0
+     is they have a lot of side effects,
+},
+{
+    420.0,424.0
+     like dry lips, dry eyes, hair loss, sun sensitivity.
+},
+{
+    424.0,425.74
+     And so in this case, none of these people
+},
+{
+    425.74,428.64
+     with the higher dietary vitamin A had these side effects,
+},
+{
+    428.64,431.1
+     but they did have the protective effect.
+},
+{
+    431.1,435.52
+     So super easy, carrots, kale, sweet potatoes, eggs.
+},
+{
+    435.52,436.84
+     I mean, all of these are things
+},
+{
+    436.84,438.96
+     that you should be incorporating in your diet anyway.
+},
+{
+    438.96,440.92
+     And if it decreases your risk
+},
+{
+    440.92,443.52
+     of the most common type of cancer in the United States,
+},
+{
+    443.52,444.92
+     I really feel like it's a no brainer.
+},
+{
+    444.92,445.22
+     Absolutely, and you do not need to study to get this A. increases your risk of the most common type of cancer in the United States, I really feel like it's a no brainer.
+},
+{
+    445.22,448.5
+     Absolutely, and you do not need to study to get this A.
+},
+{
+    448.5,451.34
+     Unless you're needy like me.
+},
+{
+    451.34,452.42
+     Eat those veggies.
+},
+{
+    452.42,454.14
+     But I will say one thing as a side note,
+},
+{
+    454.14,456.56
+     because I was mentioning those synthetic forms,
+},
+{
+    456.56,458.64
+     too much vitamin A can be dangerous.
+},
+{
+    458.64,463.1
+     Remember for men, the recommended daily amount is 3000 IU,
+},
+{
+    463.1,465.04
+     for women it's 2200 IU. So these shouldn't get you over that by any stretch, but do for women. It's 2,200 IU.
+},
+{
+    465.04,467.16
+     So these shouldn't get you over that by any stretch,
+},
+{
+    467.16,469.28
+     but do take it from the diet, not from something.
+},
+{
+    469.28,472.04
+     And I love how the food you put in your body
+},
+{
+    472.04,474.84
+     can protect you from the outside of your body.
+},

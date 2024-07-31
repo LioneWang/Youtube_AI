@@ -1,0 +1,544 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.68,8.02
+     on the internet.
+},
+{
+    9.32,11.08
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    11.08,12.14
+     Brad Heineck, physical therapist.
+},
+{
+    12.14,13.8
+     Together we are the most famous physical therapists
+},
+{
+    13.8,14.64
+     on the internet.
+},
+{
+    14.64,15.88
+     In our opinion, of course, Bob.
+},
+{
+    15.88,17.68
+     Today we're gonna talk about some tips
+},
+{
+    17.68,20.0
+     for wearing, cleaning, sleeping with,
+},
+{
+    20.0,23.0
+     and bathing with a neck brace or cervical collar.
+},
+{
+    24.44,26.16
+     If you have to wear a collar,
+},
+{
+    26.16,29.08
+     this is probably indicated by your physician,
+},
+{
+    29.08,31.24
+     usually ordered by him,
+},
+{
+    31.24,35.16
+     and they probably will provide you with some instructions.
+},
+{
+    35.16,37.52
+     In case they don't, or even if they do,
+},
+{
+    37.52,39.04
+     here's some general rules.
+},
+{
+    39.04,40.36
+     Right, do you say you forgot,
+},
+{
+    40.36,43.28
+     or you wanna just see what's gonna happen
+},
+{
+    43.28,45.7
+     or for a relative or a friend or a lover.
+},
+{
+    45.7,47.74
+     And some of these are quite common sense,
+},
+{
+    47.74,49.44
+     but some of them you may not be aware of.
+},
+{
+    49.44,53.04
+     The first thing is you wanna make sure the fit is okay.
+},
+{
+    53.04,56.22
+     You wanna make sure that it's comfortable and not too tight,
+},
+{
+    56.22,58.64
+     but it has to be tight enough to provide support.
+},
+{
+    58.64,59.96
+     You can't keep it so loose.
+},
+{
+    59.96,61.48
+     They're like, oh, it feels really good then,
+},
+{
+    61.48,62.84
+     but your neck is moving around.
+},
+{
+    62.84,65.76
+     So you gotta find that happy medium.
+},
+{
+    65.76,70.08
+     And most of them are adjustable with Velcro or snaps
+},
+{
+    70.08,72.2
+     or some type of adjustment.
+},
+{
+    72.2,74.72
+     Number two, despite the fact you're wearing a braids,
+},
+{
+    74.72,76.76
+     you think, oh, that's gonna put me in good posture.
+},
+{
+    76.76,79.96
+     You can kind of have bad posture yet when you're in it.
+},
+{
+    79.96,82.72
+     And you really wanna focus on good posture.
+},
+{
+    82.72,85.28
+     Trying to get those ears over the shoulders.
+},
+{
+    85.28,88.44
+     Yeah, so you know, you can, if you're leaning forward
+},
+{
+    88.44,91.44
+     and you're kinda got your jaw or something
+},
+{
+    91.44,93.24
+     resting on the brace, you know,
+},
+{
+    93.24,95.96
+     we don't want that, we wanna get it up here.
+},
+{
+    95.96,98.36
+     And look how his ears line up with his shoulders.
+},
+{
+    98.36,99.36
+     This way.
+},
+{
+    99.36,100.76
+     Yep.
+},
+{
+    100.76,102.84
+     Number three, this one's probably not obvious to you,
+},
+{
+    102.84,104.6
+     but actually walking a lot,
+},
+{
+    104.6,106.68
+     while you have the brace in place,
+},
+{
+    106.68,109.72
+     it's gonna get increased blood flow to the neck.
+},
+{
+    109.72,111.56
+     It's gonna help it heal faster.
+},
+{
+    111.56,113.4
+     You just wanna make it a point of,
+},
+{
+    113.4,115.88
+     if you can, walk in 15 to 20 minutes.
+},
+{
+    115.88,119.2
+     That's usually when you start getting a good oxygenation
+},
+{
+    119.2,121.16
+     to the neck and to the body parts.
+},
+{
+    121.16,123.16
+     And you know, your doctor will give you precautions
+},
+{
+    123.16,126.84
+     if the gyrin of walking is gonna irritate your neck.
+},
+{
+    126.84,128.36
+     But so, you know, they'll let you know
+},
+{
+    128.36,129.92
+     if you have precautions.
+},
+{
+    129.92,133.72
+     Number four, avoid carrying or lifting heavy objects.
+},
+{
+    133.72,136.28
+     You may think, oh, that just puts stress on my arms
+},
+{
+    136.28,137.12
+     or my back.
+},
+{
+    137.12,140.08
+     No, no, your whole neck muscles constrain
+},
+{
+    140.08,142.64
+     when you're lifting something heavier or carrying something
+},
+{
+    142.64,143.48
+     heavy.
+},
+{
+    143.48,148.4
+     A lot of your muscles that support your shoulders go and do connect to the cervical spine,
+},
+{
+    148.4,153.28
+     the upper traps, the medium traps, and the elevator scapula crosses that.
+},
+{
+    153.28,156.08
+     There's a lot of little muscles that it's all connected.
+},
+{
+    156.08,159.0
+     You know, the hip bones connected to the knee bone kind of that sound.
+},
+{
+    159.0,159.68
+     That's right.
+},
+{
+    159.68,161.0
+     But we're talking the neck.
+},
+{
+    161.0,167.56
+     So you also want to avoid sitting in like soft, low chairs or couches, because when you sit in those,
+},
+{
+    167.56,170.8
+     you sink in, this might not be a low enough for me
+},
+{
+    170.8,174.08
+     even to demonstrate, but you sink in,
+},
+{
+    174.08,175.08
+     what's the first thing you're gonna do?
+},
+{
+    175.08,176.68
+     You're round out.
+},
+{
+    176.68,178.64
+     And so a lot of times we'll take like a throw pillow
+},
+{
+    178.64,180.96
+     and put it behind you if you have to do that.
+},
+{
+    180.96,184.04
+     But generally you kind of want to avoid those low surfaces
+},
+{
+    184.04,187.56
+     to start off with like bleachers, be another one.
+},
+{
+    187.56,189.72
+     When you got that collar and you do,
+},
+{
+    189.72,192.4
+     it's nice to have, just have some different sized
+},
+{
+    192.4,194.82
+     pillows around so you can support your back
+},
+{
+    194.82,196.36
+     and maybe one on your head because that-
+},
+{
+    196.36,197.68
+     Yeah, do you wanna show that real quick?
+},
+{
+    197.68,201.4
+     Just bread for lying down, like when you're lying
+},
+{
+    201.4,204.44
+     on your back, you only want one pillow on your side.
+},
+{
+    204.44,205.94
+     You probably wanna be on this side though, because you're lying on your back, you only have one pillow on your side. You probably want to be on this side though,
+},
+{
+    205.94,207.44
+     because you're Mike.
+},
+{
+    207.44,209.68
+     Yeah, so I'll just move on the way.
+},
+{
+    211.32,213.68
+     So you're not gonna use two pillows
+},
+{
+    213.68,216.96
+     where it forces your head in this flex position.
+},
+{
+    218.68,220.12
+     Even if you're not wearing a brace,
+},
+{
+    220.12,220.96
+     you don't want to do this.
+},
+{
+    220.96,222.12
+     Yeah, right.
+},
+{
+    222.12,222.96
+     One pillow.
+},
+{
+    222.96,224.6
+     Yeah, one pillow here.
+},
+{
+    224.6,226.2
+     Now again, look how his ears line up
+},
+{
+    226.2,228.32
+     with his shoulders roll while they're.
+},
+{
+    228.32,229.96
+     And I don't, you know,
+},
+{
+    229.96,231.76
+     whether they're gonna make you wear the brace at night,
+},
+{
+    231.76,233.46
+     I don't know, sometimes they don't.
+},
+{
+    234.48,235.6
+     And if you're on your side,
+},
+{
+    235.6,239.84
+     then you're gonna have two pillows to fill in that gap.
+},
+{
+    239.84,242.32
+     And, you know, so that everything is comfortable
+},
+{
+    242.32,244.6
+     and in line in regards to the spine.
+},
+{
+    244.6,245.92
+     Yep, very good.
+},
+{
+    245.92,246.76
+     Thanks, Brad.
+},
+{
+    246.76,250.2
+     So it's a couple of tips for cleaning the brace.
+},
+{
+    250.2,251.8
+     You should wash it daily.
+},
+{
+    251.8,255.28
+     These things, bacteria can grow on it.
+},
+{
+    255.28,258.08
+     It gets pretty scummy pretty quick.
+},
+{
+    258.08,261.28
+     Especially if it's warm climate temperature out there
+},
+{
+    261.28,263.48
+     and you perspire it, that's pretty obvious.
+},
+{
+    263.48,264.8
+     We don't have to get into details.
+},
+{
+    264.8,266.8
+     It can lead to skin irritation.
+},
+{
+    266.8,269.0
+     You have that is very uncomfortable.
+},
+{
+    269.0,272.8
+     So you wash it with just warm water and gentle soap.
+},
+{
+    272.8,275.4
+     Don't use a harsh detergent, obviously bleaches or soap
+},
+{
+    275.4,277.8
+     because they can irritate the skin.
+},
+{
+    279.04,281.4
+     The hard collars, I guess you can rinse the front
+},
+{
+    281.4,283.16
+     and back panels.
+},
+{
+    283.16,286.36
+     And of course you wouldn't replace any dirty pads.
+},
+{
+    286.36,288.12
+     A lot of times the pads are Velcro,
+},
+{
+    288.12,289.48
+     so you can take it apart.
+},
+{
+    289.48,291.2
+     They're made to be clean typically.
+},
+{
+    292.52,294.16
+     When you put it back on again,
+},
+{
+    294.16,296.28
+     always again make sure that it fits correctly.
+},
+{
+    296.28,298.28
+     Don't have a tool loose or too tight,
+},
+{
+    298.28,299.64
+     because again the problems,
+},
+{
+    299.64,301.68
+     if it's too tight it could rub and cause
+},
+{
+    301.68,302.8
+     skin breakdown also.
+},
+{
+    302.8,305.04
+     So that's really it, Brad.
+},
+{
+    305.04,305.88
+     That's all.
+},
+{
+    305.88,307.04
+     Dry it out before you put it.
+},
+{
+    307.04,308.92
+     Yeah, yeah, that's a good point.
+},
+{
+    308.92,309.76
+     That's not bad though.
+},
+{
+    309.76,311.36
+     It's pretty straightforward.
+},
+{
+    311.36,312.56
+     Yeah.
+},
+{
+    312.56,None
+     Good luck. you
+},

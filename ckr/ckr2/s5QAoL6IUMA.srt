@@ -1,0 +1,264 @@
+{
+    0.0,3.92
+     I'm going to talk to you a little bit about noise exposure and some of the issues that
+},
+{
+    3.92,6.0
+     we see with patients.
+},
+{
+    6.0,12.22
+     The two most common cause of what we call sensory neuro or nerve type hearing loss are
+},
+{
+    12.22,13.22
+     aging.
+},
+{
+    13.22,17.5
+     As we get older, many of us will lose some of our hearing.
+},
+{
+    17.5,19.72
+     And noise exposure.
+},
+{
+    19.72,26.48
+     Noise exposure is more common in younger and middle-aged people if they're involved with the military
+},
+{
+    26.48,34.28
+     or their work environment. Or unfortunately in some cases, recreation, rock concerts,
+},
+{
+    34.28,41.88
+     discos, loud parties, loud music, all of these things can affect the ear. So let me explain
+},
+{
+    41.88,45.6
+     to you a little bit about what we're talking about when we
+},
+{
+    45.6,52.6
+     talk about a noise induced or hearing loss caused by noise. The ear is divided into
+},
+{
+    52.6,57.64
+     three parts. We have the outer part of the ear which we call the external ear. This is
+},
+{
+    57.64,64.12
+     the canal where sound enters. It causes the ear drum to vibrate and the vibration is
+},
+{
+    64.12,65.0
+     then transmitted
+},
+{
+    65.0,66.84
+     through what we call the middle ear.
+},
+{
+    66.84,69.56
+     Well none of this is really affected by exposure
+},
+{
+    69.56,70.96
+     to loud noise.
+},
+{
+    70.96,74.12
+     The area that's affected is what we call the inner ear,
+},
+{
+    74.12,76.16
+     and this is called the cochlea.
+},
+{
+    76.16,78.84
+     And the cochlea is filled with fluid,
+},
+{
+    78.84,82.48
+     and as the ear drum vibrates, the ear bones vibrate,
+},
+{
+    82.48,91.92
+     it'll set, transmit that to the fluid of the inner ear, which then will stimulate thousands of delicate little nerve cells, which we call hair cells.
+},
+{
+    91.92,98.24
+     In the normal ear there is 15,000 of these little hair cells, and this is what they look like
+},
+{
+    98.8,104.08
+     in a normal situation. You can see they're all lined up and very neat and lined up,
+},
+{
+    107.04,109.52
+     You can see they're all lined up and very neat and lined up ready to receive sound and transmit it to the brain.
+},
+{
+    109.52,112.8
+     After noise exposure, this is what happens.
+},
+{
+    112.8,119.2
+     So over the years with repeated noise exposure, we begin to lose these delicate little nerve
+},
+{
+    119.2,121.16
+     endings.
+},
+{
+    121.16,127.82
+     We know from previous studies that were done at the House Institute many years ago that
+},
+{
+    127.82,136.02
+     established the criteria for safe noise levels and of course dangerous noise levels.
+},
+{
+    136.02,143.82
+     A safe level is anything below 90 decibels, but anything above 90 decibels of sound is
+},
+{
+    143.82,145.0
+     too loud.
+},
+{
+    145.56,150.56
+     As we increase the amount of decibels of noise exposure,
+},
+{
+    151.56,156.04
+     we actually double the amount of energy.
+},
+{
+    156.04,159.58
+     So if a person is safe at eight hours at 90,
+},
+{
+    159.58,162.96
+     they would be safe for four hours at 95,
+},
+{
+    162.96,165.0
+     two hours at 100, and so on.
+},
+{
+    166.08,170.64
+     Well, many rock concerts that are 120 or more
+},
+{
+    170.64,175.16
+     or guns are way up in the 170, which is impulse sound,
+},
+{
+    175.16,179.2
+     but still well above what's safe for the human ear.
+},
+{
+    179.2,180.36
+     So what do we do about that?
+},
+{
+    180.36,182.04
+     Well, we protect our ears.
+},
+{
+    182.04,185.68
+     And they're, I'm always asked, what is the best? The best ear
+},
+{
+    185.68,191.68
+     protection is what the person's going to use. You know, it doesn't matter, it's the most fancy and
+},
+{
+    191.68,195.04
+     the best, but if you don't put it in the ears, it's not going to help. Let me just show you.
+},
+{
+    196.24,208.4
+     These are nice little ear plugs. These are the foam ear plugs. They work very, very well but it's important when you put them in to reach behind your ear pull it back
+},
+{
+    209.76,217.04
+     and insert the earplugs all the way in. If they're in loose and you're able to hear real well
+},
+{
+    217.68,231.0
+     they're not going to provide protection. Another type is just the little rubber earplugs. These also are very effective at blocking out sound.
+},
+{
+    231.0,240.0
+     And then lastly I'm asked, what about the ear muffs? These are great. They provide a little bit more protection.
+},
+{
+    240.0,246.2
+     And then people will say, what about both? Is it better to use both of them or just one?
+},
+{
+    246.2,251.92
+     Actually, for example, these will block out about 32 decibels.
+},
+{
+    251.92,254.4
+     The earplugs about 28.
+},
+{
+    254.4,257.64
+     If you combine them, it doesn't double the number.
+},
+{
+    257.64,259.04
+     You add about five.
+},
+{
+    259.04,270.0
+     So you use these plus the foam earplugs and you now have got about 35 to 36 decibels of what we call attenuation.
+},
+{
+    270.0,276.0
+     So another guide that I want to mention and that is people say well how much is too much noise?
+},
+{
+    276.0,283.0
+     If you cannot carry on a conversation without having to raise your voice then it's too loud.
+},
+{
+    283.0,286.04
+     And people say what about a commercial airplane?
+},
+{
+    286.04,288.96
+     Well, you can carry on a conversation with your seat made.
+},
+{
+    288.96,291.88
+     You can hear the attendant, no problem.
+},
+{
+    291.88,293.56
+     So that's safe.
+},
+{
+    293.56,297.8
+     If you were riding in a helicopter, it's too noisy.
+},
+{
+    297.8,299.72
+     So you'd want to wear your protection.
+},
+{
+    299.72,301.88
+     Thank you for your attention.
+},
+{
+    301.88,303.54
+     Thank you for watching this video.
+},
+{
+    303.54,324.32
+     To support the House Institute Foundation's research, education, and global health hearing efforts, your attention.
+},

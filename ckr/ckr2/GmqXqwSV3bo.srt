@@ -1,0 +1,72 @@
+{
+    0.0,12.16
+     If you've done a primary survey and established that your casualty is unresponsive but breathing
+},
+{
+    12.16,19.84
+     normally, they should be placed into the recovery position to help maintain the airway.
+},
+{
+    19.84,23.84
+     To do this, kneel next to them on the floor.
+},
+{
+    23.84,26.9
+     Remove their glasses and any bulky objects in the pockets
+},
+{
+    26.9,32.9
+     but do not search the pockets for small items. Make sure both of the casualties legs are
+},
+{
+    32.9,47.0
+     straight. Then take the arm nearest to you and place it at the right angle to the body with the palm facing upwards, like so.
+},
+{
+    48.68,53.28
+     Take the other arm and bring across the chest and place the back of the hand against the
+},
+{
+    53.28,60.6
+     cheek nearest to you and hold it there.
+},
+{
+    60.6,70.52
+     With your other hand, lift the far knee up until the foot is flat on the floor.
+},
+{
+    70.52,75.32
+     Once keeping the casually's hand, press against the cheek, put on a far leg and carefully
+},
+{
+    75.32,91.8
+     roll the casually towards you and onto this, adjust the top leg so that it is at the right angle.
+},
+{
+    91.8,95.04
+     Tilt the casings head back so that the air remains open.
+},
+{
+    95.04,110.64
+     If needed, adjust the hand or 112 for emergency help.
+},
+{
+    110.64,115.44
+     Keep checking the level of response until help arrives.
+},
+{
+    115.44,122.72
+     So remember, if the casualty stops breathing at any time, call 999 or 112 and prepare to
+},
+{
+    122.72,126.62
+     get them CPR. And that's how you place someone in the
+},
+{
+    126.62,132.46
+     recovery position. If this video has been helpful to you, help support St. John
+},
+{
+    132.46,149.0
+     Ambulance by going to sj.org.uk forward slash donate. Music
+},

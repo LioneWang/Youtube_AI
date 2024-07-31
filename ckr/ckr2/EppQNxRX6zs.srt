@@ -1,0 +1,48 @@
+{
+    0.0,9.0
+     Kekot kawasan, kekot kawasan, kekot kawasan, kawasan kawasan.
+},
+{
+    10.0,16.0
+     Kekot kawasan, kawasan kawasan, kawasan kawasan.
+},
+{
+    16.0,19.0
+     Bersihkan kawasan atau kawasan kawasan di kawasan.
+},
+{
+    19.0,23.0
+     Kekot kawasan kawasan kawasan harus dikejar sehingga kawasan berlaku.
+},
+{
+    23.0,25.0
+     Kekot kawasan kawasanenda yang harus dikembangkan dulu.
+},
+{
+    25.0,27.0
+     Keputuskan ke belakang pertama.
+},
+{
+    27.0,29.0
+     Benda yang harus dikembangkan di kawasan dan kawasan di bawah kawasan.
+},
+{
+    29.0,31.0
+     Selain di bawah kawasan.
+},
+{
+    32.0,34.0
+     Benda yang harus dikembangkan sehingga rata menjaga ke depan.
+},
+{
+    34.0,37.0
+     Selepas rata rata rata rata rata rata dikembangkan di kawasan.
+},
+{
+    37.0,40.0
+     Selepas rata rata rata rata rata rata rata dikembangkan di kawasan.
+},
+{
+    41.0,43.0
+     Keputusan akan dikembangkan.
+},

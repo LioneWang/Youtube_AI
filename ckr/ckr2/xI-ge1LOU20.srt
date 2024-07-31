@@ -1,0 +1,252 @@
+{
+    0.0,10.5
+     Hi, Eric. I'm Lari. I'm your nurse. I'm going to teach you how to use the Bragg Polar Ice
+},
+{
+    10.5,15.56
+     machine for your knee. And I'm also going to show you how to use it with a mobilized
+},
+{
+    15.56,21.88
+     brace if you need one. We give you some paperwork. This will be in your folder upon discharge.
+},
+{
+    21.88,30.54
+     And then this pamphlet, it goes over everything I'm explaining to you and on the side of your machine also has how to use it in case you need to reference
+},
+{
+    30.54,32.72
+     it at home.
+},
+{
+    32.72,39.6
+     The first thing you do is you're going to take your pad and it's all velcroed and it's
+},
+{
+    39.6,41.16
+     the Breg ice pad.
+},
+{
+    41.16,47.2
+     You're going to have either a pair of thinner tight pants or a t-shirt type material
+},
+{
+    47.2,52.4
+     between the skin and the pad and that protects your skin from getting any kind of redness
+},
+{
+    52.4,55.6
+     or ice burn.
+},
+{
+    55.6,59.44
+     This connects and I usually tell my patients to keep this at the top so you can connect
+},
+{
+    59.44,62.0
+     and disconnect on your own.
+},
+{
+    62.0,65.8
+     These are velcroed and all you have to do is velcro, lift your leg
+},
+{
+    65.8,72.8
+     up and bring it around, not too snug but enough to keep it in place and then the lower part.
+},
+{
+    72.8,79.12
+     Okay, when you get up and connect and disconnect you can keep this pad on rather than having
+},
+{
+    79.12,86.3
+     to put it on and off all day long. Then you bring the ice cooler and this opens.
+},
+{
+    86.3,90.7
+     You push the handle down and lift this top off.
+},
+{
+    93.7,95.4
+     Put it to the side.
+},
+{
+    95.4,99.3
+     Inside of here, it shows you fill it to top with ice
+},
+{
+    99.3,101.4
+     and the lower line with water.
+},
+{
+    101.4,103.6
+     You want to make sure that you keep the levels correct
+},
+{
+    103.6,106.0
+     so that the machine performs
+},
+{
+    106.0,129.06
+     correctly. You're going to get ice and then you fill it. And again, fill it right to the top line.
+},
+{
+    129.06,141.24
+     The lower line is a little bit below it and you get water and fill it to that second line.
+},
+{
+    141.24,146.0
+     Then you're going to keep the Kodiak ice machine close to where the knee is.
+},
+{
+    146.0,152.0
+     You don't want it on a high bureau on the floor because it helps the pump work more efficiently.
+},
+{
+    152.0,158.0
+     Take the cover and you're always going to put the blue cord away from where it lifts off.
+},
+{
+    158.0,165.0
+     Hold it down firmly and seal it in.
+},
+{
+    168.0,170.0
+     It's going to go to a two-prong plug. You're going to plug it in,
+},
+{
+    170.0,173.0
+     and you're going to bring this
+},
+{
+    173.0,175.0
+     and connect to the back.
+},
+{
+    175.0,177.0
+     There is no power on-roff switch.
+},
+{
+    177.0,180.0
+     You just put the plug in here,
+},
+{
+    180.0,182.0
+     and that gives it the electricity
+},
+{
+    182.0,190.0
+     needs to run the pump system. These two silver discs prior to putting it on need to be engaged.
+},
+{
+    190.0,193.0
+     From grip and opposites connect.
+},
+{
+    193.0,198.0
+     You're going to make sure that the tubing is placed so that it's not kinked or anything
+},
+{
+    198.0,200.0
+     because icy water pumps through the system.
+},
+{
+    200.0,206.0
+     And then that nice cold icy water gives you good pain relief and helps with swelling.
+},
+{
+    206.0,213.0
+     When you go to disconnect, you're going to, again, go to the power source, power it down.
+},
+{
+    213.0,218.0
+     I usually tell patients a good idea is to use a face cloth underneath
+},
+{
+    218.0,222.0
+     because when you disengage it, icy water drips out.
+},
+{
+    222.0,226.0
+     So depress these, disconnect and shake it out.
+},
+{
+    226.0,234.0
+     And then you can get up and about and do your business and not worry about having to put that on and off.
+},
+{
+    234.0,241.0
+     Now the second part of this is if you have an immobilizer brace, this is the immobilizer brace,
+},
+{
+    241.0,246.98
+     you can use this underneath it and all you would do is put it underneath.
+},
+{
+    246.98,254.4
+     You would put it on pry with your pants, then the ice pad, then lift your leg up, and you
+},
+{
+    254.4,260.34
+     can then just put this underneath over the ice pad.
+},
+{
+    260.34,264.46
+     You just want to make sure that sometimes because it's a little bulkier than if you
+},
+{
+    264.46,269.52
+     didn't have it on, that you readjust your straps and just make it fit firmly but not
+},
+{
+    269.52,270.52
+     too snug.
+},
+{
+    270.52,274.64
+     And you just go all the way down.
+},
+{
+    274.64,290.26
+     And if you do need to make it a you connect as I showed you before and it
+},
+{
+    290.26,291.4
+     works.
+},
+{
+    291.4,295.8
+     The other thing is a lot of people that have these immobilizer braces, if you're in a
+},
+{
+    295.8,301.28
+     CPM machine, you can, when you're in bed, obviously you can come out of your immobilizer
+},
+{
+    301.28,307.56
+     brace, but you can keep this ice pad on, just lift your leg up,
+},
+{
+    307.56,310.4
+     and connect when you're in the CPM machine.
+},
+{
+    310.4,314.84
+     You're going to get periodic breaks from this ice cooler, but it is again regulated between
+},
+{
+    314.84,319.6
+     47 and 52, so if you have a thickness of like a T-shirt material between the skin and the
+},
+{
+    319.6,321.48
+     pad, that's usually okay.
+},
+{
+    321.48,325.72
+     But periodically just check your skin to make sure it doesn't get too red, but it isn't
+},
+{
+    325.72,326.72
+     like ice packs.
+},

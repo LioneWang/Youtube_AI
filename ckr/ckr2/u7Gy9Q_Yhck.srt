@@ -1,0 +1,1520 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.04,14.32
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    14.32,15.64
+     Brad Heineck, physical therapist.
+},
+{
+    15.64,17.2
+     Together we are the most famous physical therapists
+},
+{
+    17.2,18.04
+     on the internet.
+},
+{
+    18.04,18.88
+     In our opinion, of course, Bob.
+},
+{
+    18.88,19.84
+     Time to work, Brad.
+},
+{
+    19.84,22.96
+     Today we'll talk about the most important exercises
+},
+{
+    22.96,27.08
+     to help pinch, nerve, and neck pain fast relief.
+},
+{
+    27.08,28.96
+     This is an updated video, by the way.
+},
+{
+    28.96,30.08
+     We did this one before.
+},
+{
+    30.08,32.6
+     Yeah, but now we've got a nice new stretch in there.
+},
+{
+    32.6,34.6
+     We're gonna review it, look at it from a different look.
+},
+{
+    34.6,36.52
+     A little angled, the angle I'm talking about.
+},
+{
+    36.52,37.8
+     Yeah, the old one, by the way,
+},
+{
+    37.8,40.24
+     we got interrupted by some nursing home staff.
+},
+{
+    40.24,41.08
+     Yeah, they were rude.
+},
+{
+    41.08,42.2
+     Came in and started talking to us.
+},
+{
+    42.2,44.8
+     They were rude and we had the reprimandum.
+},
+{
+    44.8,45.92
+     By the way, if you're new to our channel,
+},
+{
+    45.92,47.58
+     please take a second to subscribe to us.
+},
+{
+    47.58,49.6
+     We provide videos how to stay healthy, fit, pain-free,
+},
+{
+    49.6,51.0
+     and we upload every day.
+},
+{
+    51.0,53.76
+     Also go to bobandbrad.com, go to the giveaway section.
+},
+{
+    53.76,55.32
+     We're always giving something away.
+},
+{
+    55.32,57.64
+     This week we're giving away one of our.
+},
+{
+    60.12,61.32
+     You can also go to Facebook,
+},
+{
+    61.32,63.24
+     it'll be pinned to the top of the page.
+},
+{
+    63.24,67.2
+     Go to Twitter, Instagram, TikTok. If you want a 60 second version of our program.
+},
+{
+    67.2,70.52
+     We also have Bob and Brad Clubs, which is 60 seconds.
+},
+{
+    70.52,72.76
+     Yeah, another short little clip.
+},
+{
+    72.76,74.44
+     All right, and we got the podcast, Bob.
+},
+{
+    74.44,75.44
+     And we got the podcast.
+},
+{
+    75.44,77.24
+     Podcast is up and running.
+},
+{
+    77.24,79.4
+     You know, there's something I want to mention that
+},
+{
+    79.4,84.92
+     there's a couple complaints about our sign is getting beat up a little bit.
+},
+{
+    84.92,85.0
+     But you know, we like to get every last bit out of it. That's right. A couple complaints about our sign is getting feet up a little bit.
+},
+{
+    85.0,87.2
+     But you know, we like to get every last bit out of it.
+},
+{
+    87.2,89.78
+     So anyways, neck, pinched nerve,
+},
+{
+    89.78,92.08
+     we're talking about pinched nerve in the neck,
+},
+{
+    92.08,93.36
+     associated with neck pain,
+},
+{
+    93.36,96.0
+     but oftentimes as a result of that pinched nerve,
+},
+{
+    96.0,99.0
+     you can get referred pain into the shoulder blade,
+},
+{
+    99.0,101.7
+     which is really common, down the shoulder,
+},
+{
+    101.7,104.16
+     into the arm and all the way up to the fingers actually.
+},
+{
+    104.16,105.6
+     And if it's into the fingers,
+},
+{
+    105.6,108.52
+     it generally means you got a pinched nerve somewhere.
+},
+{
+    108.52,110.52
+     Right, exactly.
+},
+{
+    110.52,114.4
+     So what we need to do is kind of show you how this works
+},
+{
+    114.4,115.68
+     and why the nerve gets pinched.
+},
+{
+    115.68,117.6
+     So we're gonna use our friend Sam
+},
+{
+    117.6,120.68
+     and Gumby as his sidekick.
+},
+{
+    120.68,122.44
+     We're gonna look, what I do,
+},
+{
+    122.44,124.76
+     I have a nerve put in here
+},
+{
+    124.76,126.18
+     and we're going at a low level do, I have a nerve put in here and we're going on low level
+},
+{
+    126.18,130.48
+     because typically a pinched nerve happens at C6 or C7.
+},
+{
+    130.48,131.32
+     And that's cervical.
+},
+{
+    131.32,132.68
+     That's this bone or this bone.
+},
+{
+    132.68,134.52
+     Those cervical bones.
+},
+{
+    134.52,137.52
+     And then the nerves, here's the little nerves
+},
+{
+    137.52,139.36
+     coming out here.
+},
+{
+    139.36,143.32
+     And they're coming out of the frame and over the holes.
+},
+{
+    143.32,148.48
+     And they can get pinched there from bony overgrowth
+},
+{
+    148.48,152.08
+     or they can get pinched from the disc itself.
+},
+{
+    152.08,155.08
+     Right, so the nerves here are cut off.
+},
+{
+    155.08,156.68
+     So I put an extended one,
+},
+{
+    156.68,159.28
+     because this is the route that the nerves get down.
+},
+{
+    159.28,161.96
+     Actually, more than just one come off, they come out,
+},
+{
+    161.96,164.4
+     I believe there's three years at four that come together
+},
+{
+    164.4,165.82
+     and they form the brachial plexus,
+},
+{
+    165.82,168.98
+     but the route is the same underneath the clavicle.
+},
+{
+    168.98,170.46
+     It kind of goes through the axillary.
+},
+{
+    170.46,171.78
+     I don't know if you say collar bone?
+},
+{
+    171.78,172.78
+     Yep, under the collar bone.
+},
+{
+    172.78,173.62
+     Go through your armpit.
+},
+{
+    173.62,175.46
+     Yep, there, and then it goes down.
+},
+{
+    175.46,178.9
+     It starts the branch off down into the arm.
+},
+{
+    178.9,182.32
+     So what we're going to do is we need to unpinch it,
+},
+{
+    182.32,184.3
+     probably most of the time,
+},
+{
+    184.3,187.12
+     the nerve is pinched up in the neck,
+},
+{
+    187.12,188.92
+     in the cervical column.
+},
+{
+    188.92,191.76
+     It could possibly pinch be somewhere else,
+},
+{
+    191.76,192.92
+     possibly in the elbow.
+},
+{
+    194.16,195.48
+     But we're looking at this here
+},
+{
+    195.48,197.44
+     because the majority of the time that's where it is.
+},
+{
+    197.44,199.76
+     And you'll know just by some movement
+},
+{
+    199.76,201.2
+     of your neck typically.
+},
+{
+    201.2,204.44
+     So, any other questions with Sam?
+},
+{
+    204.44,205.84
+     No, I was just gonna say Brad,
+},
+{
+    205.84,207.88
+     so the first thing you really need to do
+},
+{
+    207.88,209.88
+     is we need to stop the cause.
+},
+{
+    209.88,212.16
+     Because if you do these exercises
+},
+{
+    212.16,214.52
+     and you haven't stopped what's causing it,
+},
+{
+    214.52,216.0
+     it's just gonna keep getting bad.
+},
+{
+    216.0,217.6
+     It's gonna keep getting worse.
+},
+{
+    217.6,219.16
+     So one of the causes?
+},
+{
+    220.08,220.92
+     Causes of what?
+},
+{
+    220.92,223.24
+     One of the causes is a head form posture.
+},
+{
+    223.24,224.92
+     I know, I had another thought though, Bob.
+},
+{
+    224.92,225.76
+     Oh, all right.
+},
+{
+    225.76,227.28
+     I just wanted to say one way you can confirm
+},
+{
+    227.28,229.84
+     it's in a low neck and this is what I do with
+},
+{
+    229.84,233.48
+     most of my patients is I have them set up
+},
+{
+    233.48,235.8
+     good and tall and straight in their chair.
+},
+{
+    235.8,237.52
+     I have them get their head over the ears
+},
+{
+    237.52,240.16
+     with a mild chin tuck and then I say,
+},
+{
+    240.16,242.52
+     can you look back like this really far?
+},
+{
+    242.52,245.6
+     And if they go back like that and it hurts,
+},
+{
+    245.6,248.28
+     I'm thinking, and I don't know what the percentage is,
+},
+{
+    248.28,252.56
+     but a high percentage, it's definitely in the neck.
+},
+{
+    252.56,255.46
+     We work the neck, we free the neck up,
+},
+{
+    255.46,257.42
+     things get better, the neck feels better,
+},
+{
+    257.42,259.16
+     down the arm goes better.
+},
+{
+    259.16,261.92
+     That's the majority of cases in my experience.
+},
+{
+    261.92,264.52
+     Yeah, really, if we treat the neck and it gets better,
+},
+{
+    264.52,266.28
+     obviously it was in the neck. Yeah, really, if we treat the neck and it gets better, obviously it was in the neck.
+},
+{
+    266.28,267.12
+     Right, so.
+},
+{
+    267.12,268.02
+     Exactly.
+},
+{
+    268.02,272.04
+     So yeah, posture, posture, posture, posture,
+},
+{
+    272.04,274.48
+     the three big things in our society
+},
+{
+    274.48,277.6
+     that causes poor head and neck posture,
+},
+{
+    277.6,279.72
+     which can create a pinched nerve,
+},
+{
+    279.72,282.12
+     is looking at your cell phone.
+},
+{
+    282.12,284.04
+     Yep, looking down like this.
+},
+{
+    284.04,284.88
+     Yep.
+},
+{
+    284.88,287.64
+     And, you know, moving the head forward.
+},
+{
+    287.64,289.12
+     Yep.
+},
+{
+    289.12,291.3
+     Driving a car, same thing.
+},
+{
+    291.3,293.44
+     People that have their head over their steering wheel,
+},
+{
+    293.44,295.52
+     I'm exaggerating a little bit, but you know what I mean.
+},
+{
+    295.52,298.96
+     Well, one thing, if they have the seat leaning back too far,
+},
+{
+    298.96,301.6
+     it causes you to move your head forward like that.
+},
+{
+    301.6,303.36
+     So that's why I want the seat upright
+},
+{
+    303.36,306.24
+     so you're in good posture. Exactly.
+},
+{
+    306.24,310.8
+     Sitting at a desk, computers, a little laptop.
+},
+{
+    310.8,312.16
+     Especially the laptops.
+},
+{
+    312.16,314.8
+     Because you're gonna go down like this.
+},
+{
+    314.8,316.64
+     We gotta get those screens raised up.
+},
+{
+    316.64,318.16
+     You gotta get the screens raised up,
+},
+{
+    318.16,319.96
+     get your chair positioned properly.
+},
+{
+    319.96,321.56
+     We've got videos on that as well.
+},
+{
+    321.56,324.12
+     We're not gonna go into detail, but posture is big.
+},
+{
+    324.12,328.12
+     So adjust your posture, make sure you're sitting up tall,
+},
+{
+    328.12,330.88
+     head over your ears if you will.
+},
+{
+    330.88,332.0
+     We like chin tucks.
+},
+{
+    332.0,332.84
+     Yep.
+},
+{
+    332.84,334.52
+     I mean, that'll be part of the exercise program.
+},
+{
+    334.52,336.16
+     As a matter of fact, we throw it in right now
+},
+{
+    336.16,338.24
+     because then we're gonna show exercises.
+},
+{
+    338.24,341.6
+     While you're sitting at your desk in your car.
+},
+{
+    341.6,343.2
+     It's a great correction exercise.
+},
+{
+    343.2,344.24
+     Do chin tucks.
+},
+{
+    344.24,346.6
+     Yep. Chin goes in towards your throat,
+},
+{
+    346.6,348.4
+     not down like this, but.
+},
+{
+    348.4,349.32
+     Or not up.
+},
+{
+    349.32,350.16
+     Right.
+},
+{
+    350.16,351.76
+     It's a reminder to you,
+},
+{
+    351.76,355.12
+     not only does it does the job of moving your head back,
+},
+{
+    355.12,357.48
+     but it's a reminder where your head should be positioned.
+},
+{
+    357.48,358.32
+     Right.
+},
+{
+    358.32,359.92
+     I've had a number of patients, I say,
+},
+{
+    359.92,361.44
+     can you do a chin tuck?
+},
+{
+    361.44,362.96
+     And they got the pinched nerve.
+},
+{
+    362.96,365.6
+     And even that will start to irritate it.
+},
+{
+    365.6,367.6
+     And it's like, so then we have to work into that gently
+},
+{
+    367.6,368.44
+     but we work with the-
+},
+{
+    368.44,370.72
+     Or even do a lined on on your back.
+},
+{
+    370.72,371.56
+     Right.
+},
+{
+    371.56,372.4
+     Just work on it.
+},
+{
+    372.4,373.76
+     With the towel behind your head.
+},
+{
+    373.76,375.12
+     Exactly.
+},
+{
+    375.12,379.0
+     So we're gonna start with the chin tucks and good posture.
+},
+{
+    379.0,382.4
+     Another exercise to,
+},
+{
+    382.4,383.8
+     so you know you've got good posture,
+},
+{
+    383.8,386.38
+     can you swing over this way, Mike?
+},
+{
+    386.38,389.66
+     As we use our friend, the wall.
+},
+{
+    389.66,392.54
+     And make sure you put your butt up against the wall.
+},
+{
+    392.54,394.1
+     This is the way I teach it.
+},
+{
+    394.1,395.66
+     And then your shoulder blades.
+},
+{
+    395.66,399.2
+     And then if you can get your shoulders back like this,
+},
+{
+    399.2,401.02
+     as opposed to forward.
+},
+{
+    401.02,402.38
+     So we'll get the shoulders back.
+},
+{
+    402.38,403.62
+     Now we've got good posture,
+},
+{
+    403.62,405.48
+     but then the last critical thing
+},
+{
+    405.48,409.48
+     is can you get your head to touch the wall there
+},
+{
+    409.48,411.24
+     with a little bit of a chin tuck?
+},
+{
+    411.24,414.12
+     That might be difficult at first with this pinched nerve,
+},
+{
+    414.12,416.32
+     but we're gonna show you a trick to get out of it.
+},
+{
+    416.32,420.44
+     And then from there, do the famous W's.
+},
+{
+    420.44,422.56
+     Now you can do this without the wall,
+},
+{
+    422.56,424.92
+     but the wall lets you know for sure
+},
+{
+    424.92,426.56
+     if you've got that good posture
+},
+{
+    426.56,429.08
+     because you touch your elbows in your hands
+},
+{
+    429.08,431.92
+     and you can work wall angels up and down.
+},
+{
+    431.92,434.48
+     It depends on how tight your shoulders are
+},
+{
+    434.48,436.44
+     and just do some repetitions like this,
+},
+{
+    436.44,440.0
+     five to 10 repetitions and do that throughout the day.
+},
+{
+    440.0,441.84
+     And why we do wall angels
+},
+{
+    441.84,444.24
+     and why we do this next one is because
+},
+{
+    444.24,446.44
+     if you are rounded out
+},
+{
+    446.44,450.08
+     in this position right up here in the upper back,
+},
+{
+    450.08,451.44
+     that if you're rounded out there,
+},
+{
+    451.44,453.32
+     there's no way you can straighten your neck out.
+},
+{
+    453.32,455.32
+     I mean, it's gonna affect your neck.
+},
+{
+    455.32,458.84
+     So we gotta get that all stretched out to
+},
+{
+    458.84,462.6
+     the wall angels do it, do it, a foam roller does it.
+},
+{
+    462.6,465.44
+     Do you wanna go lengthwise or do you want to go roll it?
+},
+{
+    465.44,466.56
+     Well, we could do both.
+},
+{
+    466.56,468.84
+     If they got a roller, they might as well do both.
+},
+{
+    468.84,473.84
+     So the one is you just, you can just work on the upper back.
+},
+{
+    474.06,475.94
+     And a lot of times if you fold your arms,
+},
+{
+    475.94,478.6
+     you can really get between the shoulder blades as well.
+},
+{
+    478.6,482.08
+     And you can just work on that area and stretch it out.
+},
+{
+    482.08,484.24
+     If you're doing a roller, don't do it on your bed.
+},
+{
+    484.24,485.76
+     You can see on this soft cushion,
+},
+{
+    485.76,486.84
+     it doesn't work well.
+},
+{
+    486.84,488.68
+     You know, on the floor works a lot better.
+},
+{
+    488.68,490.0
+     With the exception of this next one,
+},
+{
+    490.0,490.84
+     you could do this on the bed.
+},
+{
+    490.84,492.18
+     I'm gonna let you do this one, Brad.
+},
+{
+    492.18,494.44
+     I never get on that thing well.
+},
+{
+    494.44,497.28
+     So then you turn, if you got a three foot foam roller,
+},
+{
+    497.28,500.36
+     you turn it this way, right down your spine,
+},
+{
+    500.36,502.56
+     especially if you got the one that the lower density,
+},
+{
+    502.56,504.28
+     it's more comfortable.
+},
+{
+    504.28,505.56
+     And then you get your chin.
+},
+{
+    505.56,507.06
+     Now this is just like doing a chin tuck.
+},
+{
+    507.06,509.88
+     As a matter of fact, you can do baby chin tucks
+},
+{
+    509.88,511.52
+     while you're just relaxed.
+},
+{
+    511.52,514.88
+     And you're gonna relax for five or 10 minutes.
+},
+{
+    514.88,516.88
+     And straighten out your entire posture here.
+},
+{
+    516.88,519.28
+     It's straightening out that upper back, lower back,
+},
+{
+    519.28,521.2
+     and it's stretching out your pecs.
+},
+{
+    521.2,522.04
+     Exactly.
+},
+{
+    522.04,525.4
+     So it's an easy one to do in a relaxed position.
+},
+{
+    525.4,527.4
+     Your head might not be able to get all the way back
+},
+{
+    527.4,530.84
+     to start off, you might not use a rolled towel or something.
+},
+{
+    530.84,532.16
+     But, yeah.
+},
+{
+    532.16,534.28
+     If it doesn't go back, you could put a,
+},
+{
+    534.28,536.32
+     yeah, a rolled towel or folded up towel.
+},
+{
+    536.32,538.84
+     They make this device as well.
+},
+{
+    538.84,541.76
+     But you want to get rid of that and get your head down.
+},
+{
+    541.76,544.96
+     That's going to help free up that pinched nerve as well.
+},
+{
+    546.08,548.6
+     One last thing Brad, real quickly,
+},
+{
+    548.6,551.48
+     works for my patients a lot is if you're having pain down,
+},
+{
+    551.48,554.44
+     let's say the right arm, just whenever possible,
+},
+{
+    554.44,556.0
+     put your arm up on a pillow.
+},
+{
+    556.0,558.84
+     Because if the arm is being hung like this,
+},
+{
+    558.84,560.6
+     it's gonna pull your shoulder forward.
+},
+{
+    560.6,562.76
+     It's gonna put more stress on that nerve.
+},
+{
+    562.76,566.22
+     This is just a great way to start getting good posture
+},
+{
+    566.22,567.62
+     and taking stress off the nerve.
+},
+{
+    567.62,568.94
+     Sure, sure.
+},
+{
+    568.94,572.46
+     Should we show that the new exercise by Stuart McGill?
+},
+{
+    572.46,573.98
+     Sure, this is a,
+},
+{
+    573.98,577.3
+     we're just strengthening the neck without putting stress on it.
+},
+{
+    577.3,579.62
+     So you're gonna be in good posture.
+},
+{
+    579.62,582.74
+     I want you to put your tongue behind your teeth,
+},
+{
+    582.74,584.1
+     front of your teeth, right?
+},
+{
+    584.1,584.94
+     Okay.
+},
+{
+    584.94,588.28
+     And then you squeeze and tighten up the muscles
+},
+{
+    588.28,589.26
+     here in the neck.
+},
+{
+    589.26,590.1
+     And the front of the neck.
+},
+{
+    590.1,591.48
+     Yup, in the front of the neck.
+},
+{
+    591.48,593.32
+     Then you're gonna take your hands,
+},
+{
+    593.32,594.84
+     your two fists here,
+},
+{
+    594.84,595.84
+     and you're gonna,
+},
+{
+    595.84,597.44
+     if I wasn't holding it,
+},
+{
+    597.44,599.48
+     I would actually be pushing the neck up.
+},
+{
+    599.48,601.04
+     Okay, so it's like an isometric?
+},
+{
+    601.04,602.68
+     Yeah, it's isometric.
+},
+{
+    602.68,607.52
+     One, two, three, four, five, six, seven, eight, nine, 10.
+},
+{
+    607.52,609.44
+     So we could do 10 of those.
+},
+{
+    609.44,612.88
+     Two, three, four, five, six, seven, eight, nine, 10.
+},
+{
+    612.88,616.64
+     What it does, it strengthens the correct muscles
+},
+{
+    616.64,620.32
+     without putting shear force on the bones.
+},
+{
+    620.32,623.6
+     So it's a comfortable way to strengthen,
+},
+{
+    623.6,625.16
+     is what I'm trying to say.
+},
+{
+    625.16,626.72
+     And that should help posture.
+},
+{
+    626.72,628.48
+     It's just gonna take pressure off that nerve.
+},
+{
+    628.48,631.12
+     It's strengthening the deep flexors which get weak
+},
+{
+    631.12,634.08
+     because you're strengthening the extensor
+},
+{
+    634.08,635.92
+     when you're dead for it.
+},
+{
+    635.92,636.76
+     Yeah.
+},
+{
+    636.76,637.6
+     Bad posture.
+},
+{
+    637.6,639.68
+     And now the other exercise.
+},
+{
+    639.68,640.52
+     What happened to all my...
+},
+{
+    640.52,641.48
+     Right here, sorry Brad.
+},
+{
+    641.48,645.08
+     Oh, I wonder, you can take a towel roll.
+},
+{
+    645.08,648.72
+     And what we're gonna do, I got a towel rolled up.
+},
+{
+    648.72,651.26
+     This is how a lot of times I have patients start.
+},
+{
+    651.26,653.96
+     As I mentioned earlier in the video,
+},
+{
+    653.96,656.68
+     if you can't go back like this and it hurts.
+},
+{
+    656.68,658.68
+     This is a McKenzie exercise by the way.
+},
+{
+    658.68,660.44
+     Robin McKenzie developed it.
+},
+{
+    660.44,664.0
+     You take a towel roll and go back in your chair,
+},
+{
+    664.0,665.68
+     good posture. And gently go back in your chair, good posture.
+},
+{
+    665.68,668.36
+     And gently go back like this.
+},
+{
+    668.36,669.56
+     And oftentimes I say,
+},
+{
+    669.56,671.64
+     oh, that support there feels better.
+},
+{
+    671.64,673.32
+     And I can go back farther.
+},
+{
+    673.32,676.24
+     And then you gently work that,
+},
+{
+    676.24,678.8
+     you know, five, maybe 10 repetitions.
+},
+{
+    678.8,680.08
+     Then you gotta take a break
+},
+{
+    680.08,682.64
+     and then come back at it in an hour or so.
+},
+{
+    682.64,685.72
+     If your arm in your hand is feeling better,
+},
+{
+    685.72,687.4
+     it's a really good sign.
+},
+{
+    687.4,689.98
+     If you start to do this and it starts to hurt
+},
+{
+    689.98,691.88
+     worst start on the arm, that means you're pinching
+},
+{
+    691.88,693.3
+     the nerve a little bit harder
+},
+{
+    693.3,695.76
+     and then you have to go to the next option.
+},
+{
+    695.76,698.2
+     Now, Brad was saying that the towel
+},
+{
+    698.2,699.84
+     helps better than no towel.
+},
+{
+    699.84,700.68
+     Right.
+},
+{
+    700.68,704.24
+     If you just try these, if you can do these without the towel,
+},
+{
+    704.24,706.2
+     do them with the towel, out the towel.
+},
+{
+    706.2,708.28
+     I've had people that have success just by putting
+},
+{
+    708.28,710.72
+     their hands back with your fingers down.
+},
+{
+    710.72,711.68
+     Give it some support.
+},
+{
+    711.68,713.08
+     Low on the neck.
+},
+{
+    713.08,715.12
+     And then you don't even have to use that towel
+},
+{
+    715.12,717.64
+     and you get similar results.
+},
+{
+    717.64,720.76
+     And that depends on the situation and the individual.
+},
+{
+    720.76,725.0
+     You can use what can work well is just the edge of a towel.
+},
+{
+    725.22,729.32
+     So instead of a thick towel, we get more specific.
+},
+{
+    729.32,730.16
+     The salvage.
+},
+{
+    730.16,732.56
+     Yep, the edge of the towel or the salvage.
+},
+{
+    732.56,737.04
+     I'm gonna get it low on the neck and kinda adjust it.
+},
+{
+    737.04,739.76
+     And yeah, that's the advantage of using the salvage
+},
+{
+    739.76,744.0
+     is you can really get focused in on one area of the spine.
+},
+{
+    744.0,745.96
+     Right where that nerve is.
+},
+{
+    745.96,748.8
+     It will do the same thing and we can roll up and pull up.
+},
+{
+    748.8,750.62
+     Pull up towards the eyes.
+},
+{
+    751.92,752.84
+     If you want to.
+},
+{
+    752.84,756.08
+     I've had people do it this way and this way
+},
+{
+    756.08,758.68
+     in whichever way works better, feels better,
+},
+{
+    758.68,759.52
+     it gives you more range.
+},
+{
+    759.52,763.28
+     Often I might recommend is grabbing it with one hand.
+},
+{
+    763.28,765.0
+     Like if you have a painful arm, grab with a non-painful arm and it with one hand. Like if you have a painful arm,
+},
+{
+    765.0,768.8
+     grab with a non-painful arm and just do one hand.
+},
+{
+    768.8,771.04
+     Because it's just gonna be more comfortable.
+},
+{
+    771.04,774.28
+     Yeah, cause with the injured, the arm that's sore,
+},
+{
+    774.28,777.52
+     it can even irritate it so you can relax it, put a pillow.
+},
+{
+    777.52,778.68
+     Now the thing about this,
+},
+{
+    778.68,780.24
+     you can do these throughout the day.
+},
+{
+    780.24,782.2
+     You don't just do them once and say,
+},
+{
+    782.2,784.04
+     oh, I'm done, I did what Bob and Brad said.
+},
+{
+    784.04,786.68
+     No, you do it like every hour if you can.
+},
+{
+    786.68,789.28
+     And that's how you're gonna get some relief.
+},
+{
+    789.28,791.4
+     You know, you're gonna get the benefit of it.
+},
+{
+    791.4,793.84
+     As long as the symptoms are getting better out of the arm
+},
+{
+    793.84,796.24
+     or moving from the shoulder up to the neck.
+},
+{
+    796.24,797.92
+     And you don't have to do it forever.
+},
+{
+    797.92,799.32
+     You're only gonna do that for,
+},
+{
+    799.32,802.52
+     usually I've had patients do that within a couple of days.
+},
+{
+    802.52,803.92
+     They start seeing some relief.
+},
+{
+    803.92,805.6
+     Right. And then they're motivated.
+},
+{
+    805.6,807.72
+     Right, and then the maintenance exercises,
+},
+{
+    807.72,811.6
+     usually posture, the posture exercises, and chin tucks.
+},
+{
+    811.6,812.44
+     Yeah.
+},
+{
+    812.44,814.36
+     By the way, Brad, you can also use the strap.
+},
+{
+    814.36,815.92
+     Yeah, if you have one of these,
+},
+{
+    815.92,817.12
+     these work really well.
+},
+{
+    817.12,817.96
+     Those work really well.
+},
+{
+    817.96,822.84
+     Particularly if you have arthritic hands
+},
+{
+    822.84,824.16
+     or you don't have good grip,
+},
+{
+    824.16,826.94
+     because you can go like this in the loops.
+},
+{
+    826.94,830.14
+     But they just, they can hit right on a spot.
+},
+{
+    830.14,833.62
+     You can get specific and then again, not gripping
+},
+{
+    833.62,837.58
+     but I'm using my hands and it does really work well.
+},
+{
+    837.58,840.38
+     And of course you can use these for a lot of other stretches
+},
+{
+    840.38,842.94
+     and whatnot to stretch out strap.
+},
+{
+    842.94,844.22
+     They're not very expensive either,
+},
+{
+    844.22,846.64
+     but I wouldn't buy it just for this.
+},
+{
+    846.64,847.48
+     Just for this.
+},
+{
+    847.48,848.7
+     If you got it laying around.
+},
+{
+    848.7,849.98
+     Give the towel a try.
+},
+{
+    849.98,851.98
+     So thanks for watching folks.
+},
+{
+    851.98,None
+     Good luck. you
+},

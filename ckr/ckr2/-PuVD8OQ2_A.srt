@@ -1,0 +1,1232 @@
+{
+    0.0,2.22
+     Hey, what's going on guys?
+},
+{
+    2.22,5.6
+     Jared Bechstrand here, doctor of physical therapy at tonentighting.com.
+},
+{
+    5.6,9.24
+     And today I wanted to talk all about muscle knots in your lower back, specifically what
+},
+{
+    9.24,14.12
+     they are, why you get them, and about 10 simple exercises that you can do right now at home
+},
+{
+    14.12,15.68
+     to help eliminate yours.
+},
+{
+    15.68,23.36
+     Let's get started right now.
+},
+{
+    23.36,27.2
+     All right, so one of my more popular videos here on YouTube is all about how to get rid
+},
+{
+    27.2,30.84
+     of muscle knots in your neck and shoulders and upper back.
+},
+{
+    30.84,33.96
+     I'm going to leave a link to this in the description to this video.
+},
+{
+    33.96,36.36
+     I'll also drop in a little tag right up here above.
+},
+{
+    36.36,40.44
+     You can click that link that's floating around up there, and that will take you to that video.
+},
+{
+    40.44,42.76
+     That's again, probably one of my more popular ones.
+},
+{
+    42.76,48.08
+     However, one of the questions that I'm getting a lot in the comments to that video are, well,
+},
+{
+    48.08,49.08
+     this is great for the upper back.
+},
+{
+    49.08,50.56
+     What do I do about my lower back?
+},
+{
+    50.56,54.08
+     And if my lower back has these muscle knots in it, what are some things that I can do
+},
+{
+    54.08,57.96
+     to eliminate tension and to eliminate knots in my lower back?
+},
+{
+    57.96,58.96
+     And here you go, you guys.
+},
+{
+    58.96,61.24
+     I'm all about helping you guys out.
+},
+{
+    61.24,64.76
+     Let me shoot a quick video about that and show you some things that I like to recommend
+},
+{
+    64.76,68.96
+     to patients in order to eliminate these muscle knots in kind of your lower back and in the
+},
+{
+    68.96,73.2
+     top of your hip. Now of course before we do that I've got to give you the anatomy lesson and I've
+},
+{
+    73.2,78.64
+     got to give you the physiology lesson. So what is a muscle knot? So the muscles in our bodies,
+},
+{
+    78.64,83.84
+     the fibers in those muscles are lined up like this and in the relaxed state they're nice and
+},
+{
+    83.84,86.3
+     elongated and nice and loose like this.
+},
+{
+    86.3,89.02
+     In the contracted state, they slide over each other
+},
+{
+    89.02,91.06
+     and they come closer together just like this.
+},
+{
+    91.06,92.92
+     So relaxed and contracted.
+},
+{
+    92.92,96.64
+     What a muscle knot is, it's an area of a muscle,
+},
+{
+    96.64,98.46
+     so certain fibers in that muscle
+},
+{
+    98.46,100.12
+     that get into this contracted state
+},
+{
+    100.12,101.4
+     and then don't let go.
+},
+{
+    101.4,106.84
+     And so they stay in this constant contracted state without that relaxation.
+},
+{
+    106.84,107.96
+     That's what causes that tension.
+},
+{
+    107.96,109.44
+     That's what causes that pain.
+},
+{
+    109.44,111.42
+     You can actually feel it in your back.
+},
+{
+    111.42,113.68
+     If you've kind of, you know, feel around in your lower back.
+},
+{
+    113.68,118.92
+     If you've got one area that feels tighter than the others, that's most likely a muscle
+},
+{
+    118.92,120.92
+     knot that you've got going on back there.
+},
+{
+    120.92,123.28
+     There are some things that you can do to get rid of it.
+},
+{
+    123.28,128.72
+     That's what I want to teach you about right now. Before we do that, however, let's talk a little bit more about why these muscle
+},
+{
+    128.72,133.2
+     knots occur, why you get these muscle knots, so that we can better understand how we treat them.
+},
+{
+    133.2,137.36
+     The three main causes that I see why people develop these muscle knots in their lower back
+},
+{
+    137.36,143.28
+     are going to be weakness, lack of activity, or like a sedentary lifestyle, and then some postural
+},
+{
+    143.28,145.48
+     issues as well. Now weakness,
+},
+{
+    145.48,149.66
+     we all know how important it is to keep a nice strong core. If your core is not
+},
+{
+    149.66,153.98
+     strong and if you develop weakness over time, that's one of those predisposing
+},
+{
+    153.98,158.2
+     factors to causing those muscle knots to get tight and then to not let go. And so
+},
+{
+    158.2,161.18
+     weakness is a big thing. We're going to show you some strengthening exercises in
+},
+{
+    161.18,168.72
+     this video. The second one is a lack of activity or a sedentary lifestyle. Your muscles are designed to move. Your muscles are
+},
+{
+    168.72,172.96
+     designed to contract and relax. If you spend all day maybe sitting at a desk,
+},
+{
+    172.96,176.72
+     sitting on your couch, laying in your bed, whatever you're doing, if you don't live
+},
+{
+    176.72,180.76
+     a very active lifestyle, you're not getting that muscle contraction in those
+},
+{
+    180.76,184.72
+     areas and then that can be another reason why those muscles get tight and
+},
+{
+    184.72,188.72
+     bound up. So definitely a lack of activity is another one. Finally,
+},
+{
+    188.72,192.8
+     posture is a big issue as well. Specifically what I call a desk job
+},
+{
+    192.8,197.44
+     posture. So if you spend all day seated and especially if your hip flexors are
+},
+{
+    197.44,201.4
+     in this shortened state and then you stand up and they pull excessively on
+},
+{
+    201.4,205.14
+     your lower back, that can be another big predisposing factor
+},
+{
+    205.14,206.6
+     for these muscle knots.
+},
+{
+    206.6,209.52
+     And so those are the three things that we certainly want to address.
+},
+{
+    209.52,211.76
+     We're going to do those with a bunch of exercises.
+},
+{
+    211.76,215.44
+     I'm going to go grab my wife, we'll bring her in and we'll demonstrate again about
+},
+{
+    215.44,219.72
+     10 different ways that you can help to alleviate some of these muscle knots and this muscle
+},
+{
+    219.72,221.48
+     tension in your lower back.
+},
+{
+    221.48,224.48
+     All right, so I brought in my lovely assistant.
+},
+{
+    224.48,225.88
+     You guys are used to seeing my wife.
+},
+{
+    225.88,228.08
+     She pops up in my videos quite regularly.
+},
+{
+    228.08,232.08
+     But we're going to run through, again, about 10 different ways that you can treat those
+},
+{
+    232.08,234.24
+     muscle knots that you're getting in your lower back.
+},
+{
+    234.24,239.24
+     Now, the first thing that I always recommend to people is just some heat on that area.
+},
+{
+    239.24,244.04
+     So if you grab a heating pad, and what I'll do is I've got a couple favorites that I like.
+},
+{
+    244.04,248.16
+     I'll leave a link in the description to this video you click on that if you don't have a heating pad
+},
+{
+    248.8,252.4
+     Between the two of us. We use ours like almost every day
+},
+{
+    253.16,258.2
+     They're great. It's a great way to open up capillaries to promote blood flow into an area
+},
+{
+    258.36,264.16
+     Also to promote some relaxation in those knots and so a heating pad and so I would just put that down
+},
+{
+    264.16,268.6
+     She would lay on it on her back. We use it in our chairs, like sitting up in your chair.
+},
+{
+    268.6,273.0
+     It works well right there. Leave it on for about 10 or 15 minutes. Take it off
+},
+{
+    273.0,276.64
+     for about 10 or 15 minutes, and then you can really do that all day long. So a
+},
+{
+    276.64,281.12
+     heating pad is the first thing that you're going to reach for. Now the second
+},
+{
+    281.12,284.4
+     thing that we need to do is stretch out some of those tight muscles. So what
+},
+{
+    284.4,287.32
+     Camille's going to do is get down up here on her hands and knees.
+},
+{
+    287.32,290.88
+     We're going to show you my favorite, it's a popular yoga pose to stretch your lower
+},
+{
+    290.88,293.02
+     back, it's called the child's pose.
+},
+{
+    293.02,297.36
+     And so she's down on her knees and basically you sit down on your heels, your hands stay
+},
+{
+    297.36,301.72
+     out here in front of you and that's how you're going to stretch out that lower back.
+},
+{
+    301.72,306.72
+     Now the thing that I like about this is you can actually bias it from one side to another,
+},
+{
+    306.72,309.36
+     depending on maybe which side your muscle knots are.
+},
+{
+    309.36,312.24
+     She's gonna walk her hands over here to the right side,
+},
+{
+    312.24,314.64
+     and then if she kinda sits down and to the left,
+},
+{
+    314.64,317.6
+     what that's going to do is increase the stretch
+},
+{
+    317.6,320.76
+     on the lower left side of her back down here.
+},
+{
+    320.76,323.58
+     So you can really kinda facilitate that stretch.
+},
+{
+    323.58,327.36
+     A lot of these muscles that you're gonna to get knots in, basically from your pelvis
+},
+{
+    327.36,331.96
+     to your bottom rib with some attachment in your lower spine, in your lumbar spine, your
+},
+{
+    331.96,336.04
+     lower back right here, anything we can do to kind of pull the pelvis away from the rib
+},
+{
+    336.04,338.72
+     is actually going to stretch that out a little more effectively.
+},
+{
+    338.72,340.54
+     So that's her over here to the right side.
+},
+{
+    340.54,342.5
+     She can also walk over to the left side.
+},
+{
+    342.5,347.76
+     That's going to facilitate and enhance that stretch over here on the right. She's going to hold that for about 20 seconds
+},
+{
+    347.76,351.6
+     and repeat that about three times. The other stretch that I love, Camille's going to roll
+},
+{
+    351.6,357.22
+     over onto her back and we're going to do what we call a piriformis stretch. Now, 10 low
+},
+{
+    357.22,361.12
+     back pain patients can walk into my clinic and I guarantee about nine of them are going
+},
+{
+    361.12,365.48
+     to have tension through that upper hip, kind of that piriformis area.
+},
+{
+    365.48,369.76
+     It's a popular place to get knots in your back or in the back of your hip.
+},
+{
+    369.76,373.72
+     To stretch that out, what she's going to do is cross this right leg over her left with
+},
+{
+    373.72,374.72
+     her hand.
+},
+{
+    374.72,377.48
+     She's going to reach down and she's going to grab right around the back of that left
+},
+{
+    377.48,381.52
+     leg and then pull her left knee up towards her left shoulder.
+},
+{
+    381.52,385.84
+     Now the higher she pulls on that, she's going gonna fill that stretch, correct me if I'm wrong,
+},
+{
+    385.84,387.4
+     right through the top,
+},
+{
+    387.4,389.28
+     right through the top of that right glute
+},
+{
+    389.28,390.48
+     is what we're going for.
+},
+{
+    390.48,391.32
+     That's a good one.
+},
+{
+    391.32,393.64
+     And so we're gonna hold that in a comfortable position,
+},
+{
+    393.64,396.04
+     same thing, 20 seconds, three times,
+},
+{
+    396.04,398.28
+     to just try to promote some relaxation
+},
+{
+    398.28,400.04
+     in those muscle fibers in there.
+},
+{
+    400.04,401.76
+     So those are the stretches that I like.
+},
+{
+    401.76,402.6
+     She's gonna do it on the other side.
+},
+{
+    402.6,404.24
+     I gotta even it out.
+},
+{
+    404.24,405.72
+     She doesn't walk around in circles. She's gonna do it on the other side. I gotta even it out. She doesn't walk around in circles.
+},
+{
+    405.72,407.52
+     She's gotta even it out.
+},
+{
+    407.52,408.36
+     Awesome.
+},
+{
+    408.36,411.32
+     So then let's get into some actual resisted exercises.
+},
+{
+    411.32,412.76
+     We mentioned how, oh, let's go ahead and stay there.
+},
+{
+    412.76,413.68
+     I'm sorry.
+},
+{
+    413.68,416.48
+     We mentioned how the weakness
+},
+{
+    416.48,418.24
+     and the lack of muscle activation
+},
+{
+    418.24,420.44
+     are a couple of factors that can predispose you
+},
+{
+    420.44,421.8
+     to get these muscle knots.
+},
+{
+    421.8,423.96
+     And so let's show you some resisted exercises.
+},
+{
+    423.96,427.0
+     We'll even just some body weight exercises to help those out.
+},
+{
+    427.0,430.0
+     So on her back, just like this, what Camille's going to do first
+},
+{
+    430.0,431.0
+     is we're going to do some bridges.
+},
+{
+    431.0,434.0
+     She's going to squeeze her butt together, so contract the glutes,
+},
+{
+    434.0,437.0
+     and then lift your hips straight up towards the ceiling.
+},
+{
+    437.0,439.0
+     And so then it looks just like that.
+},
+{
+    439.0,441.0
+     She's going to hold that for about three to five seconds,
+},
+{
+    441.0,443.0
+     and then come right back down.
+},
+{
+    443.0,446.72
+     Now the emphasis here, you really want to focus on contracting your glutes to lift your
+},
+{
+    446.72,450.4
+     hips up towards the ceiling but you're also going to feel a lot of activation
+},
+{
+    450.4,455.12
+     in those lower back muscles. This one is safe for I'd say most people go ahead and
+},
+{
+    455.12,458.52
+     come back down. Most people who are experienced low back pain can tolerate
+},
+{
+    458.52,462.2
+     this exercise. This is a popular one that I give out. It's just a great way to
+},
+{
+    462.2,467.92
+     strengthen what we call the posterior chain, meaning your hamstrings, your glutes, and your lower back, go ahead and come up
+},
+{
+    467.92,472.92
+     again, are all active as she's doing this bridging exercise. Typically I'll recommend
+},
+{
+    472.92,479.64
+     do that 10 reps and then repeat that for three sets, just once a day on that one should be
+},
+{
+    479.64,483.4
+     adequate for you. The other one that I like, go ahead, she's going to roll over onto her
+},
+{
+    483.4,489.7
+     hands and knees, and we're going to run through what we call a cat cow or a cat camel. I make a
+},
+{
+    489.7,494.94
+     point, I try not to say cat cow, I don't know, there's something about it that sounds
+},
+{
+    494.94,500.16
+     offensive to me. Anyway, we're going to go with a cat camel, sometimes referred to as
+},
+{
+    500.16,504.96
+     a cat cow. This is another great yoga pose to just work on stretching and some muscle
+},
+{
+    504.96,509.64
+     activation in this lower part of her back. So to get into the angry cat part of the stretch,
+},
+{
+    509.64,514.64
+     she's going to basically raise her back up towards the ceiling as high as she can go.
+},
+{
+    514.64,518.08
+     Looks just like that. Hold that for about five seconds and then she's going to lower
+},
+{
+    518.08,524.12
+     back down and this is the cow or the camel part of the pose right here. Now Camille
+},
+{
+    524.12,529.06
+     and I have worked enough on this that she does it actually really well. The thing that I see the most
+},
+{
+    529.06,533.32
+     often in people is that you get a ton of mobility up here but not a ton of
+},
+{
+    533.32,536.72
+     mobility down through here. This is the area that I really want you to focus on.
+},
+{
+    536.72,540.28
+     So she comes back up into that angry cat. What you're gonna see is she's actually
+},
+{
+    540.28,544.32
+     gonna tuck her hips kind of underneath herself. She's gonna roll her pelvis
+},
+{
+    544.32,547.24
+     underneath herself to really get a good stretch through
+},
+{
+    547.24,548.24
+     the back.
+},
+{
+    548.24,551.6
+     And then as she comes down into the cow part of the pose, she's actually going to roll
+},
+{
+    551.6,553.72
+     her hips, roll her pelvis forward.
+},
+{
+    553.72,557.56
+     You can see how much that's really going to enhance that stretch and facilitate that
+},
+{
+    557.56,560.6
+     motion right through that lower back part right there.
+},
+{
+    560.6,562.52
+     And so I tell people about 10 reps on this.
+},
+{
+    562.52,564.92
+     So you're going to come up and down 10 times.
+},
+{
+    564.92,566.48
+     And then that's usually good. So about 10 times on this so you're gonna come up and down 10 times and then that's that's usually good
+},
+{
+    566.48,570.26
+     So about 10 times just once a day on that one looks great just like that
+},
+{
+    570.26,572.26
+     I might not get hurt
+},
+{
+    572.58,576.94
+     Nice okay, and so those are the stretches and the exercises that I like
+},
+{
+    576.94,582.52
+     Let me show you guys some trigger point release techniques that I like we're gonna get rid of this table coming right at you right now
+},
+{
+    583.94,584.62
+     All right
+},
+{
+    584.62,587.56
+     So another great way that you're to eliminate these muscle knots in your lower
+},
+{
+    587.56,592.72
+     back would be to do some actual what we call trigger point release techniques.
+},
+{
+    592.72,595.76
+     Basically it's also called an acupressure technique.
+},
+{
+    595.76,600.56
+     You find that knot, you load it up with pressure, you hold it for a certain amount of time and
+},
+{
+    600.56,608.28
+     what happens is that muscle knot kind of melts underneath that tension or underneath that pressure. Basically what you're doing is you're starting that
+},
+{
+    608.28,614.2
+     area of blood flow causing it to relax and to reset if you will and then when
+},
+{
+    614.2,618.04
+     you release it blood rushes back in and hopefully what you've done is again help
+},
+{
+    618.04,621.96
+     that area to reset. And so what we're going to do is we've got some tennis
+},
+{
+    621.96,624.76
+     balls here. Well I've got a couple I've got some tennis balls and I've got some
+},
+{
+    624.76,625.2
+     golf balls. Camille's going to lay down we've got some tennis balls here. Well, I've got a couple. I've got some tennis balls and I've got some golf balls.
+},
+{
+    625.2,631.16
+     Camille's going to lay down on her lower back and then what she would do, if you just
+},
+{
+    631.16,637.32
+     have that knot on one side of your back, let's say it's on the right side of her back, she's
+},
+{
+    637.32,642.84
+     going to take this tennis ball, roll slightly to her left and then find where that spot
+},
+{
+    642.84,646.12
+     is in her lower back and then just roll right
+},
+{
+    646.12,650.0
+     back onto the top of it. And again you might have to adjust it up or down,
+},
+{
+    650.0,655.12
+     in or out. It shouldn't be right on your spine, it should be just to the side of
+},
+{
+    655.12,659.04
+     your spine of your vertebrae column and then you'll be able to find some of those
+},
+{
+    659.04,663.2
+     muscle knots in there. And then what she can do is she can just lay right on that.
+},
+{
+    663.2,669.52
+     Now if a tennis ball is too big, or a racket ball or a golf ball works well, golf ball is
+},
+{
+    669.52,674.22
+     obviously a lot harder. There's not as much forgiveness with a golf ball, but I
+},
+{
+    674.22,679.02
+     wouldn't go necessarily too much bigger than this. The other technique that I like
+},
+{
+    679.02,688.0
+     to show people is if you get these muscle knots on both sides of your spine, you can actually grab two tennis balls, stuff them in a sock,
+},
+{
+    691.0,695.0
+     and now all the sock does is just kind of hold them in place and keep them together
+},
+{
+    695.0,697.0
+     so you can roll onto it a little easier.
+},
+{
+    697.0,700.0
+     So you can see that depending on how big your spine is
+},
+{
+    700.0,703.0
+     or how wide you want those tennis balls to be,
+},
+{
+    703.0,705.92
+     you can kind of pull them apart or put them closer together.
+},
+{
+    705.92,711.56
+     So now she can take that, put one of those balls on each side of her spine, and then
+},
+{
+    711.56,715.96
+     you're actually performing this acupressure technique on both sides.
+},
+{
+    715.96,717.84
+     And now it's going to be uncomfortable.
+},
+{
+    717.84,722.36
+     That's not the most comfortable thing in the world to lay on those balls.
+},
+{
+    722.36,725.36
+     But what you do is, again again about 20 to 30 seconds or
+},
+{
+    725.36,729.98
+     just until you feel that not kind of melting away, that's about the recommended amount
+},
+{
+    729.98,731.88
+     of time on there.
+},
+{
+    731.88,734.16
+     The last thing that you can do, are you doing okay?
+},
+{
+    734.16,735.16
+     Is that right?
+},
+{
+    735.16,736.16
+     Lay on those.
+},
+{
+    736.16,741.2
+     The last thing you can do is actually promote what we would call a muscle flossing while
+},
+{
+    741.2,743.2
+     you're doing that acupressure.
+},
+{
+    743.2,748.08
+     And so what she's going to do is lay one leg down straight and then simply what you have
+},
+{
+    748.08,752.88
+     to do is raise this knee all the way up and then all the way down.
+},
+{
+    752.88,757.88
+     And now what we're doing here, and she can even facilitate that by grabbing it.
+},
+{
+    757.88,763.36
+     So she's going to bring it up and then pull and then release and then bring it up and
+},
+{
+    763.36,765.24
+     then pull and then release. And then bring it up and then pull and then release.
+},
+{
+    765.24,769.92
+     And what we're doing there is we're actually promoting some motion in that muscle while
+},
+{
+    769.92,772.24
+     we've got that pressure on there.
+},
+{
+    772.24,775.48
+     It's just a way that we can actually facilitate that release.
+},
+{
+    775.48,777.2
+     What do you think?
+},
+{
+    777.2,778.2
+     She hates that one.
+},
+{
+    778.2,779.2
+     That's a good one.
+},
+{
+    779.2,780.2
+     That's a really good one.
+},
+{
+    780.2,782.0
+     It's one who gets muscle knots.
+},
+{
+    782.0,783.6
+     You can go ahead and bail off of there.
+},
+{
+    783.6,786.48
+     Now what I never recommend to people,
+},
+{
+    786.48,789.4
+     what I see a lot, especially here on YouTube,
+},
+{
+    789.4,791.52
+     people will grab their foam roller
+},
+{
+    791.52,793.76
+     and say you've got to foam roll your low back
+},
+{
+    793.76,795.52
+     to release those muscle knots.
+},
+{
+    795.52,798.68
+     Now, I really don't like that.
+},
+{
+    798.68,801.3
+     I think the foam roller is great for your upper back,
+},
+{
+    801.3,804.3
+     but for your lower back, it's just too big.
+},
+{
+    804.3,805.84
+     This is a six inch foam roller and you can lower back, it's just too big. This is a six-inch foam roller,
+},
+{
+    805.84,811.04
+     and you can see the diameter on this is really big. We've got to get pressure basically between
+},
+{
+    811.04,818.4
+     your ribs and your pelvis. That's not really a lot of space. This is too big to fit into that space.
+},
+{
+    818.4,823.92
+     The other thing, go ahead and try this out. The other thing, if she were to foam roll her lower
+},
+{
+    823.92,825.4
+     back, there's just A, there's no comfortable way to do it, but you to foam roll her lower back. There's just a
+},
+{
+    825.4,829.48
+     there's no comfortable way to do it but you can see what she's doing. She's
+},
+{
+    829.48,834.64
+     doing ab crunch while we're doing it. The idea is to relax and mobilize. You're
+},
+{
+    834.64,840.4
+     good. The idea is to relax and mobilize not to sustain an aggressive contraction
+},
+{
+    840.4,847.2
+     while you're on a foam roll. And so if it's me, I don't like to foam roll the lower back.
+},
+{
+    847.2,851.4
+     Now one thing that I do like to foam roll is going to be kind of the top of the hip,
+},
+{
+    851.4,853.56
+     top of the glute and the piriformis muscle.
+},
+{
+    853.56,857.12
+     To do that, she's going to go ahead and sit up right onto that foam roll.
+},
+{
+    857.12,859.86
+     She's going to cross one leg over the other.
+},
+{
+    859.86,864.24
+     And then if she rolls kind of to that right side, put your hands back behind it.
+},
+{
+    864.24,871.04
+     There it is and then we can roll up and down over the top of that piriformis muscle that way again a popular
+},
+{
+    871.48,876.64
+     Popular a common place to get muscle knots is in the top of the hip the top of that glute
+},
+{
+    876.64,883.04
+     This is a great way that you can mobilize and and kind of get to those muscle knots in those areas
+},
+{
+    883.28,886.0
+     Just like that. So don't foam roll your lower back,
+},
+{
+    886.0,888.32
+     but definitely foam roll your upper glute
+},
+{
+    888.32,889.68
+     and your piriformis.
+},
+{
+    889.68,891.44
+     Finally, the last thing that I like
+},
+{
+    891.44,893.56
+     is going to be one of these theracanes.
+},
+{
+    893.56,895.64
+     Now, again, I mentioned to you earlier
+},
+{
+    895.64,898.12
+     that I did another video that was all about
+},
+{
+    898.12,900.58
+     muscle knots in the neck and upper back.
+},
+{
+    900.58,903.2
+     We kind of introduced the theracane in that spot.
+},
+{
+    903.2,907.84
+     It's a great way that you can just kind of apply that pressure to that spot in
+},
+{
+    907.84,912.2
+     your back. But then with this, you can also do it so you can turn it this way.
+},
+{
+    912.4,915.2
+     And then you can do it with your lower back as well.
+},
+{
+    915.4,919.36
+     And so she's going to just grab both handles on that theracane and find the
+},
+{
+    919.36,923.28
+     spot that she wants to massage and mobilize in there. So a pressure point.
+},
+{
+    923.28,930.36
+     So then as soon as she finds that trigger point, you would just hold it on that spot to again apply that acupressure
+},
+{
+    930.36,935.92
+     into those areas until you get those muscle knots to release. Now again, these Theracanes,
+},
+{
+    935.92,939.28
+     this is another one. I had to go get this from our office upstairs just because that's
+},
+{
+    939.28,945.56
+     where it's always at. I will leave a link in the description to this video for the
+},
+{
+    945.56,948.72
+     theracane as well. That's another thing that will really help you guys out. And
+},
+{
+    948.72,953.6
+     so then finally the thing that we talked about was going to be some posture
+},
+{
+    953.6,957.84
+     and some posture issues. What I would recommend there and one more link for you.
+},
+{
+    957.84,961.84
+     I'll leave a link in this video. I'll also have it pop up right up here. I've
+},
+{
+    961.84,966.96
+     got a video all about how to correct your low back posture.
+},
+{
+    966.96,969.84
+     It's got some good exercises, it's got some good stretches.
+},
+{
+    969.84,973.72
+     So make sure that you go and check that one out.
+},
+{
+    973.72,974.72
+     That will be easier.
+},
+{
+    974.72,976.04
+     I know this video is getting long.
+},
+{
+    976.04,977.04
+     That will be easier.
+},
+{
+    977.04,978.64
+     So just go and check that video out.
+},
+{
+    978.64,979.64
+     It does a much better job.
+},
+{
+    979.64,982.12
+     It goes into a lot more detail than I want to go into right here.
+},
+{
+    982.12,984.0
+     So I hope you guys check that out.
+},
+{
+    984.0,985.12
+     So there you have them, you guys,
+},
+{
+    985.12,988.68
+     about what, 10 to 12 different things that you can do
+},
+{
+    988.68,990.94
+     to help eliminate some of the muscle knots
+},
+{
+    990.94,993.76
+     and some of the pressure that you feel in your lower back.
+},
+{
+    993.76,996.24
+     Again, I give those to my patients all the time.
+},
+{
+    996.24,997.96
+     I give those to my wife all the time.
+},
+{
+    997.96,1000.16
+     I do them on myself all the time.
+},
+{
+    1000.16,1001.16
+     They work, you guys.
+},
+{
+    1001.16,1002.28
+     They help your back.
+},
+{
+    1002.28,1004.08
+     They're maybe a little uncomfortable at first.
+},
+{
+    1004.08,1007.08
+     But consistency over time yields great results. And so I hope you guys. They help your back. They're maybe a little uncomfortable at first, but consistency over time yields great results.
+},
+{
+    1007.08,1011.88
+     And so I hope you guys check those out. I hope that they help you out. Hey, I hope you found this video beneficial.
+},
+{
+    1011.88,1018.44
+     I hope you found it helpful. If you did, do me a favor, hit that thumbs up button down below and thank you so much for those likes in advance.
+},
+{
+    1018.68,1022.36
+     Also, if you haven't done so already, it's a great chance to subscribe to Tone and Titan.
+},
+{
+    1022.36,1025.56
+     I try to share a lot of great physical therapy tips some rehab tips
+},
+{
+    1025.56,1029.08
+     I try to answer you guys's questions those things that you write to me about
+},
+{
+    1029.08,1033.14
+     This is an easy way for me to kind of convey that knowledge to you
+},
+{
+    1033.14,1036.16
+     So I hope that that helps you guys out. I hope you subscribe to this channel
+},
+{
+    1036.4,1040.24
+     Also, if you have any questions or comments on this video or anything that we talked about
+},
+{
+    1040.44,1042.84
+     Please feel free to leave that down below on a comment
+},
+{
+    1042.84,1046.84
+     I'll get to that just as soon as I can and And until next time, we'll see you right back here on
+},
+{
+    1046.84,1049.52
+     Tone and Titan.
+},

@@ -1,0 +1,200 @@
+{
+    0.0,25.68
+     Welcome to the tradition of the first aid show. In this episode we're going to look at blood
+},
+{
+    25.68,30.8
+     volume. We're recently filming on our F-POS blended course. You might be quite surprised
+},
+{
+    30.8,35.6
+     at some of the results. So now what we're going to do is a small demonstration how
+},
+{
+    35.6,40.92
+     different surfaces affect blood volumes. So what you come across, you need to relate
+},
+{
+    40.92,46.56
+     to the surface the blood is actually sitting on to give you some idea of how much blood the potential patient has lost.
+},
+{
+    46.64,49.4
+     And you will see from this demonstration
+},
+{
+    49.48,53.16
+     how different surfaces absorb blood at a different rate.
+},
+{
+    53.24,56.08
+     In front of me, there are four glasses
+},
+{
+    56.16,59.64
+     with a quarter of a pint of blood in each glass.
+},
+{
+    59.72,62.36
+     Also in front of me are four different surfaces.
+},
+{
+    62.44,68.48
+     We've got sand, we've got gravel, we've got blanket and we've got brick. yn y ffordd o'i fynd o'i ddweud o 4 oed. Rwy'n ddweud, rwy'n ddweud, rwy'n ddweud, rwy'n ddweud, a'r ddweud.
+},
+{
+    69.44,74.48
+     Yn ymdwy'n ddweud, mae'n ddweud y blod o'r ddweud yn y same amdd,
+},
+{
+    74.48,82.0
+     felly mae'n ddweud y ddweud yn ysgrifennu i'r blod. Yn ymdwy'n ddweud, mae'n ddweud o'r ddweud,
+},
+{
+    82.0,93.4
+     mae'n ddweud o'r ddweud, ac mae'n ddweud o'r ddweud. The first surface we're going to actually pour blood onto is actually ground soil and this is a very sandy surface.
+},
+{
+    93.4,97.88
+     You can clearly see how the blood absorbs into the soil but it also runs and trickles
+},
+{
+    97.88,99.52
+     and travels quite a long way.
+},
+{
+    99.52,104.32
+     It hasn't absorbed directly into the ground very quickly but it has spread an awful long
+},
+{
+    104.32,125.2
+     way. The second surface that we're going to demonstrate is gravel. yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch, ond mae'n dweud yn ymddiwch yn ymddiwch. Yr ysgrifennu yma yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch yn ym ysgol yn y ffordd yn y ffordd yn y ffordd yn y ffordd.
+},
+{
+    125.2,128.56
+     Yr ysgol yma yn y ffordd yn y ffordd yn y ffordd.
+},
+{
+    128.56,132.56
+     Yn y ffordd, y same yma yn y ffordd, yn y same yma.
+},
+{
+    139.2,143.68
+     A mae'n gweithio'r ffordd yn y ffordd yn y ffordd yn y ffordd.
+},
+{
+    143.68,146.24
+     Yn y ffordd yn y ffordd yn y ffordd, ond nid yn y gafod, ond yn y ystod o'r blod. Mae'r ffynir yn fwy o'r ffynir, ond yn y fawr,
+},
+{
+    146.24,149.12
+     ond yn ymweld yn ymweld yn ymweld yn y fawr.
+},
+{
+    149.12,152.24
+     Yn ystod o'r ffordd o'r blancaid am ymweld,
+},
+{
+    152.24,155.96
+     o'r ffordd o'r blod, yw'r blod yn ymweld yn ymweld.
+},
+{
+    155.96,159.52
+     Mae'r bwysig yn ymweld yn ymweld yn ymweld,
+},
+{
+    159.52,162.48
+     ac yn ymweld yn ymweld yn ymweld.
+},
+{
+    162.48,166.56
+     Felly, rwy'n meddwl, dwi'n meddwl ar y gweithio, mae'n meddwl ar 4 o'r blancaid amweld spreads out underneath. So again, don't be fooled from the pattern on the top, that's
+},
+{
+    166.56,171.6
+     gone through four layers of ambulance blanket and spread out on the surface below. The final
+},
+{
+    171.6,177.2
+     surface we're going to use is brick paving. So again, exactly the same amount of blood
+},
+{
+    177.2,187.0
+     poured on a brick paving surface. Now you can see there's no absorption, it looks like Felly mae'n gwneud i'r ffordd o'r blod yn ymdill, ac mae'n ddweud yn y ddweud yn y ddweud.
+},
+{
+    187.0,193.0
+     Felly mae'n gwneud i'r ffordd o'r blod yn y ddweud, ac mae'n gwneud i'r ffordd o'r blod yn y ddweud,
+},
+{
+    193.0,197.0
+     ac mae'n gwneud i'r ffordd o'r blod yn y ddweud,
+},
+{
+    197.0,201.0
+     i'r ffordd o'r blod yn y ddweud, i'r ffordd o'r blod,
+},
+{
+    201.0,204.0
+     ac yn y ddweud, y ffordd o'r blod yn y ddweud,
+},
+{
+    204.0,206.96
+     mae'n gwneud i'r ffordd o'r blod yn y ddweud, to gravel and onto the soil itself the massive difference pattern that you will get from the same
+},
+{
+    206.96,213.44
+     amount of blood depending on the surface it falls on. So remember what might not look a lot of blood
+},
+{
+    214.4,219.84
+     could actually be an awful lot of blood it's just the way it's being presented because of the surface
+},
+{
+    219.84,226.0
+     it's lying on. So finally we're going to have a look at is the absorbency of two different types of dressing.
+},
+{
+    226.0,234.0
+     A size 4 ambulance dressing and a major trauma or battlefield dressing used in the military or for gunshots and bullet wounds.
+},
+{
+    234.0,254.84
+     Again we've got the same amount of blood but we'll blood that we've just applied to the dressing.
+},
+{
+    254.84,261.68
+     You will note it's absorbed the quarter of a point of blood but very quickly it's penetrated
+},
+{
+    261.68,264.36
+     through the bandage.
+},
+{
+    264.36,268.24
+     The carrying capacity of this bandage is nowhere enough to cope with quarter of a point of yn ymgyrchol, mae'n ddwy'r bandwg. Y ddwy'r bandwg yn cael ei ddwy'r bandwg yn ymdill yn ymdill,
+},
+{
+    268.24,271.16
+     yn ymdill, yn ymdill, yn ymdill,
+},
+{
+    271.16,274.6
+     sy'n ddwy'r bandwg.
+},
+{
+    274.6,292.0
+     Felly, rwy'n meddwl, mae'n gwneud.
+},
+{
+    297.0,298.0
+     Mae'r bandwch yw'r amser yn ystod o'r amser o blod,
+},
+{
+    301.0,302.0
+     ond nid o'r bandwch yn ymddiadau.
+},
+{
+    327.22,329.86
+     Mae'n amser yn ymddiadau, mae llwy, all y blod yn y ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud i'r llwy, ddweud using the appropriate bandages to deal with the appropriate bleed is extremely important as I think you'll see this demonstration clearly shows.
+},

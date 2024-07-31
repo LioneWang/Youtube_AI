@@ -1,0 +1,120 @@
+{
+    0.0,5.0
+     Hello, in this video we're going to show you how to do a mouth cancer check.
+},
+{
+    5.0,9.44
+     This simple check only takes 45 seconds, however it could save your life.
+},
+{
+    9.44,13.68
+     Last year, 8,722 adults in the UK were diagnosed with mouth cancer.
+},
+{
+    13.68,16.6
+     That's an average of one every hour.
+},
+{
+    16.6,20.2
+     The number of new cases has doubled in the last 20 years, while more people are losing
+},
+{
+    20.2,25.28
+     their life to the disease than cervical cancer and tisicular cancer combined.
+},
+{
+    25.28,28.48
+     The key to beating mouth cancer is spotting it quickly, so it's really important that
+},
+{
+    28.48,34.16
+     everybody knows what the early warning signs are. Without further ado, let's get into it.
+},
+{
+    34.16,39.0
+     Firstly, take a quick look at your face and have a feel for any unusual lumps or bumps
+},
+{
+    39.0,44.76
+     around your head and neck. Once that's clear, you can then start checking the inside of
+},
+{
+    44.76,45.12
+     your mouth.
+},
+{
+    45.12,48.4
+     Check your tongue for any unusual red or white patch,
+},
+{
+    48.4,51.16
+     lump or an ulcer that has lasted for longer than three weeks.
+},
+{
+    51.16,54.12
+     Make sure to check both sides and underneath.
+},
+{
+    54.12,58.6
+     Next, run your finger along the inside of both your cheeks.
+},
+{
+    58.6,60.24
+     Are there any lumps or bumps?
+},
+{
+    60.24,62.76
+     Again, can you see any red or white patches?
+},
+{
+    62.76,64.52
+     All clear?
+},
+{
+    64.52,66.2
+     Great. Now you should
+},
+{
+    66.2,70.12
+     check the roof of your mouth. It can be tricky to get the right angle and you will need to
+},
+{
+    70.12,74.4
+     tilt your head back slightly. Also run your finger along the roof of your mouth, check
+},
+{
+    74.4,77.24
+     for any lumps or swelling.
+},
+{
+    82.24,87.0
+     Finally, you should then check your lips. Simply use your thumb and index fingers to
+},
+{
+    87.0,91.4
+     pull down your lip and check for any red or white patches or lumps. Do this for both the
+},
+{
+    91.4,97.68
+     top and bottom lip.
+},
+{
+    97.68,101.8
+     That's our step by step guide to performing a simple mouth cancer check at home. Most
+},
+{
+    101.8,108.24
+     likely you won't find anything, but if you do spot something while you're doing your check that doesn't seem quite right, make sure to book an appointment
+},
+{
+    108.24,113.44
+     with your dentist or doctor. Be mouth aware and if in doubt, get checked out.
+},
+{
+    113.44,116.76
+     For more information about mouth cancer or to find out more about our mouth cancer action
+},
+{
+    116.76,119.96
+     month campaign, head to www.mouthcancer.org.
+},

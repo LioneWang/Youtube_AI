@@ -1,0 +1,68 @@
+{
+    0.0,8.0
+     Ascites, shifting dullness.
+},
+{
+    8.0,14.08
+     The most reliable clinical sign to detect ascites is checking for bilateral flank dullness.
+},
+{
+    14.08,19.22
+     If a patient with ascites is lying supine, fluid accumulates in the flank regions, leading
+},
+{
+    19.22,22.32
+     to dullness on percussion.
+},
+{
+    22.32,25.16
+     At the same time, the air-filled bowel loops
+},
+{
+    25.16,28.44
+     are forced upwards by the free fluid due to buoyancy,
+},
+{
+    28.44,30.96
+     resulting in tympanitic percussion.
+},
+{
+    31.82,34.76
+     To locate specifically where dullness shifts to tympani
+},
+{
+    34.76,36.8
+     or the air fluid level,
+},
+{
+    36.8,39.22
+     percussion should be performed from the sides
+},
+{
+    39.22,40.22
+     towards the middle.
+},
+{
+    41.88,44.92
+     To confirm that the dullness is caused by ascites,
+},
+{
+    44.92,46.8
+     ask the patient to switch to a lateral
+},
+{
+    46.8,48.88
+     decubitus position.
+},
+{
+    48.88,53.56
+     If acides is present, the air-filled bowel loops will shift accordingly and remain at
+},
+{
+    53.56,55.48
+     the surface of the fluid.
+},
+{
+    55.48,None
+     As a result, the air fluid level will shift as well. Shifting dullness. you
+},

@@ -1,0 +1,164 @@
+{
+    0.0,9.0
+     Oh hey everybody, it's Dr. Jo and Brian. He is my model for today. Isn't he great?
+},
+{
+    9.0,16.0
+     Today I'm going to show you the Clunk Test, which tests for laboral chairs. So let's clunk away.
+},
+{
+    16.0,19.0
+     Disclaimer alert, disclaimer alert.
+},
+{
+    21.0,30.6
+     So the Clunk Test, I'm going to let Brian go ahead and lie down. You want to get the person lying down is for the labrum in your shoulder and just to remind
+},
+{
+    30.6,33.0
+     you that there's a labrum in your shoulder and your hip.
+},
+{
+    33.0,34.32
+     And this one's for the shoulder.
+},
+{
+    34.32,37.38
+     And the reason it's called a clunk test, I always think it's funny because it sounds
+},
+{
+    37.38,44.1
+     kind of clunky, but that's because it is because you're trying to reproduce a clunk or a grinding
+},
+{
+    44.1,45.44
+     kind of feeling in the shoulder.
+},
+{
+    45.44,49.56
+     And that just means that the labrum has been torn and it's no longer stable in
+},
+{
+    49.56,52.72
+     that shoulder and you can sometimes get it to clunk in and out.
+},
+{
+    52.92,57.92
+     But also remember that these special tests have false positives and have
+},
+{
+    57.92,58.72
+     false negatives.
+},
+{
+    58.88,62.48
+     So just because you have a positive doesn't necessarily mean you have a
+},
+{
+    62.48,67.5
+     labral tear and just because you have a negative doesn't mean that you don't. I've had a liberal tear,
+},
+{
+    67.5,71.0
+     I've had it repaired already, but I didn't have a positive clunk test and
+},
+{
+    71.0,76.2
+     sometimes that is because if your patient or the person that you're testing is
+},
+{
+    76.2,82.68
+     really painful, I've had patients before. Yeah exactly, he's being silly, but
+},
+{
+    82.68,86.32
+     they can't even get to hear before they start getting painful.
+},
+{
+    86.32,93.28
+     So it's really hard to do a special test when they're already having pain and limited range of motion because this really needs to be
+},
+{
+    93.48,97.78
+     them being completely relaxed for the test. So if they are able to,
+},
+{
+    98.04,107.0
+     the way you do the test is you put your hand underneath their shoulder joint, that glenohumo joint, the GH joint,
+},
+{
+    107.0,112.0
+     just to make sure that you can feel and push that area for that clunk.
+},
+{
+    112.0,117.4
+     Bring them into abduction coming up this way and then kind of grab them at the elbow because
+},
+{
+    117.4,123.28
+     you're going to laterally rotate or externally rotate while you're pushing up anteriorly.
+},
+{
+    123.28,125.04
+     So I'm just trying to get that
+},
+{
+    125.04,129.76
+     clunk or grinding sound and again it might be really painful for them as
+},
+{
+    129.76,134.16
+     well. And I said sound you might hear it but they might feel it too. They might
+},
+{
+    134.16,139.0
+     say it feels really grindy. So what I'm doing is I'm externally rotating as I'm
+},
+{
+    139.0,144.28
+     pushing up and if they do that or you might even feel a little clunk in
+},
+{
+    144.28,146.86
+     there then that's a positive sign for that test.
+},
+{
+    146.86,153.28
+     But again, remember pain is usually a positive, but that doesn't necessarily mean that there's a labor tear.
+},
+{
+    153.28,158.66
+     It could be a rotator cuff issue. It could be an impingement issue. It could be a whole lot of things.
+},
+{
+    158.66,161.44
+     So this is really just to help narrow down what's going on.
+},
+{
+    161.56,164.42
+     So that was your clunk test to test for shoulder
+},
+{
+    164.46,169.14
+     narrow down what's going on. So that was your clunk test to test for shoulder labral tears. If you'd like to find some stretches and exercises to help with
+},
+{
+    169.14,172.26
+     that, if you happen to have a positive, make sure you click on the link up here.
+},
+{
+    172.26,175.94
+     But remember just because it's a positive doesn't necessarily mean there is a
+},
+{
+    175.94,179.86
+     labral tear. It just means you should definitely look further into it. If you
+},
+{
+    179.86,190.72
+     like to help support my channel, make sure you click up here and don't forget to subscribe by clicking down here and remember be safe no clunking have fun
+},
+{
+    190.72,194.4
+     and I hope you feel better soon
+},

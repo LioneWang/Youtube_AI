@@ -1,0 +1,1136 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.64,13.64
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.64,14.8
+     Brad Heineck, physical therapist.
+},
+{
+    14.8,16.36
+     Together we are the most famous physical therapists
+},
+{
+    16.36,17.2
+     on the internet.
+},
+{
+    17.2,18.24
+     In our opinion, of course, Bob.
+},
+{
+    18.24,19.36
+     Today we're gonna show you how to get rid
+},
+{
+    19.36,23.2
+     of painful stiff neck with just one exercise.
+},
+{
+    23.2,28.28
+     Bob, we got some good information on this.
+},
+{
+    28.28,29.72
+     I think it's gonna help a lot of people.
+},
+{
+    29.72,31.4
+     Just worked with three of your patients, right?
+},
+{
+    31.4,32.24
+     Exactly, right.
+},
+{
+    32.24,33.08
+     I'm not trying to steal your thunder,
+},
+{
+    33.08,34.72
+     but if you're new to our channel,
+},
+{
+    34.72,36.24
+     please take a second to subscribe to us.
+},
+{
+    36.24,38.84
+     We provide videos on Stay Healthy, Pit Pain Free,
+},
+{
+    38.84,40.6
+     and we upload every day.
+},
+{
+    40.6,43.16
+     Also, you wanna go to bobandbrad.com
+},
+{
+    44.28,46.04
+     because we're always giving something away.
+},
+{
+    46.04,48.68
+     Today we're not, it starts tomorrow.
+},
+{
+    48.68,50.48
+     But if you go on the Bob and Brad,
+},
+{
+    50.48,52.8
+     you'll see it listed for tomorrow.
+},
+{
+    52.8,53.76
+     Well, not probably not.
+},
+{
+    53.76,54.6
+     It's going Sunday.
+},
+{
+    54.6,56.04
+     It'll be on there on Sunday for sure.
+},
+{
+    56.04,57.16
+     We start on Sundays with the new product.
+},
+{
+    57.16,59.92
+     Yeah, it finishes on Friday and starts on Sunday.
+},
+{
+    59.92,62.24
+     Go to Bob and Brad on Facebook.
+},
+{
+    62.24,64.44
+     It also will be pinned to the top of the page.
+},
+{
+    64.44,66.12
+     If you want a shorter version of us,
+},
+{
+    66.12,67.36
+     go to Instagram or Twitter.
+},
+{
+    67.36,69.0
+     We got a 60 second version of our show.
+},
+{
+    69.0,69.84
+     There you go.
+},
+{
+    69.84,70.72
+     I got through it, Brad.
+},
+{
+    70.72,72.08
+     Yeah, excellent job, Bob.
+},
+{
+    72.08,72.92
+     All right, thanks.
+},
+{
+    72.92,73.76
+     Shall we continue?
+},
+{
+    73.76,74.6
+     Yes, let's go.
+},
+{
+    74.6,78.0
+     All right, so neck pain is oftentimes associated
+},
+{
+    78.0,79.72
+     with a stiff neck.
+},
+{
+    79.72,81.24
+     And not only that, particularly,
+},
+{
+    81.24,84.08
+     I had three patients had very similar symptoms
+},
+{
+    84.08,86.9
+     and we've heard these complaints over the years.
+},
+{
+    86.9,88.94
+     Many times it's very common.
+},
+{
+    88.94,93.94
+     Neck pain oftentimes refers down into the scapular area.
+},
+{
+    94.72,96.76
+     Sometimes down into the shoulder blade.
+},
+{
+    96.76,97.96
+     Yep, shoulder blade here.
+},
+{
+    97.96,100.0
+     And that's what all three of these were.
+},
+{
+    100.0,103.64
+     Neck pain down into the scapular or the shoulder blade area.
+},
+{
+    103.64,106.24
+     Oftentimes one side, not the other.
+},
+{
+    106.24,107.8
+     It could be both sides.
+},
+{
+    107.8,110.84
+     And all three of these people were limited
+},
+{
+    110.84,114.76
+     with range of motion, right and left rotation,
+},
+{
+    114.76,117.2
+     one side's typically worse than the other.
+},
+{
+    117.2,119.76
+     And then say, can you look up to the ceiling like this?
+},
+{
+    119.76,123.04
+     And all of them were like, that hurts.
+},
+{
+    124.0,125.12
+     It was a very typical. Right. And a lot of times they feel, well hurts. Which is very typical.
+},
+{
+    125.12,126.84
+     Right, and a lot of times they feel,
+},
+{
+    126.84,128.68
+     well, because it hurts, I shouldn't do it.
+},
+{
+    128.68,132.2
+     Right, and I had one patient,
+},
+{
+    132.2,134.52
+     he's been taking his IV a profen,
+},
+{
+    134.52,136.08
+     he's been doing some stretching.
+},
+{
+    136.08,139.52
+     He had a 10s unit from another injury, he tried there.
+},
+{
+    139.52,141.48
+     He says, nothing's working.
+},
+{
+    141.48,143.52
+     So I said, well, let's give this a try.
+},
+{
+    143.52,144.36
+     Let's give this a go.
+},
+{
+    144.36,146.8
+     Okay, so now all three of these people,
+},
+{
+    146.8,149.92
+     I used all, this is the same exercise,
+},
+{
+    149.92,152.4
+     but various options, three variations.
+},
+{
+    152.4,154.76
+     So just kind of hold, hold with me.
+},
+{
+    154.76,156.8
+     And if you try one of these three,
+},
+{
+    156.8,159.84
+     there's a good chance that you're gonna increase
+},
+{
+    159.84,163.08
+     your range of motion and decrease your pain.
+},
+{
+    163.08,166.68
+     Yeah, actually Brad, I saw a study that was done all across
+},
+{
+    166.68,168.8
+     that if you increase your extension,
+},
+{
+    168.8,170.32
+     you also increase your rotations.
+},
+{
+    170.32,171.2
+     Yep, yep.
+},
+{
+    171.2,174.4
+     So by the way, should we mention that if you should
+},
+{
+    174.4,177.56
+     never do this, if it makes you dizzy or lightheaded,
+},
+{
+    177.56,180.24
+     right, you know, you're gonna hold off then
+},
+{
+    180.24,182.52
+     and you're gonna wanna have a professional work with that.
+},
+{
+    182.52,184.24
+     Yeah, you're gonna go on and seek some help.
+},
+{
+    184.24,186.16
+     Yeah. Good point, Bob. The next thing is you need wanna have a professional. Yeah, you're gonna go on and seek some help. Good point, Bob.
+},
+{
+    186.16,189.44
+     The next thing is you need to have a chair
+},
+{
+    189.44,192.52
+     with a backrest that is low enough.
+},
+{
+    192.52,194.36
+     Now this one is just about,
+},
+{
+    194.36,196.04
+     I wouldn't want any higher than this.
+},
+{
+    196.04,198.96
+     It's nice if it can go below the shoulder blades, actually.
+},
+{
+    198.96,201.0
+     Just right below the shoulder blades.
+},
+{
+    201.0,203.48
+     This one kinda hits you right on the tip, doesn't it?
+},
+{
+    203.48,205.28
+     But it works because it rotates.
+},
+{
+    205.28,206.12
+     It rotates, yeah.
+},
+{
+    206.12,206.96
+     And it'll work.
+},
+{
+    206.96,207.8
+     It's right on the borderline.
+},
+{
+    207.8,209.14
+     You can do it on a stiff back,
+},
+{
+    209.14,210.24
+     but it should be lower than.
+},
+{
+    210.24,211.08
+     Yeah.
+},
+{
+    211.08,212.48
+     One of these office chairs really work well.
+},
+{
+    212.48,213.48
+     They're a little cushiony.
+},
+{
+    213.48,214.52
+     Yeah, they're low cushions.
+},
+{
+    214.52,216.0
+     Yeah, they kind of work.
+},
+{
+    216.0,216.84
+     It's important.
+},
+{
+    216.84,218.4
+     That's why we want to emphasize that.
+},
+{
+    218.4,219.64
+     And then the repetition,
+},
+{
+    219.64,221.88
+     so we remember it as,
+},
+{
+    221.88,225.84
+     you usually five, no more than 10 repetitions at a time.
+},
+{
+    225.84,229.0
+     And as long as the pain gets better
+},
+{
+    229.0,231.32
+     and the motion improves,
+},
+{
+    231.32,233.68
+     you can do it as much as one time per hour
+},
+{
+    233.68,234.52
+     and get rid of this.
+},
+{
+    234.52,236.08
+     Yeah, I think that's a good point, Brad,
+},
+{
+    236.08,237.76
+     because a lot of people think that
+},
+{
+    237.76,239.64
+     I'm gonna do this my exercise once a day,
+},
+{
+    239.64,240.48
+     like I'm supposed to.
+},
+{
+    240.48,243.96
+     It's like, no, you would really wanna do this quite often.
+},
+{
+    243.96,247.24
+     I mean, five to seven times, five to eight times a day.
+},
+{
+    247.24,249.8
+     And that's where you're gonna see some gains made.
+},
+{
+    249.8,250.64
+     Right.
+},
+{
+    250.64,252.56
+     There's one more thing I know you're interested,
+},
+{
+    252.56,254.16
+     you really want to start seeing the exercise,
+},
+{
+    254.16,257.0
+     but all these are absolutely critical to be successful.
+},
+{
+    257.0,260.52
+     Is monitor your posture while you're sitting,
+},
+{
+    260.52,263.7
+     particularly at a computer watching TV in your car.
+},
+{
+    263.7,265.5
+     Because if you do these exercises
+},
+{
+    265.5,268.9
+     and you go back to head forward slouch posture,
+},
+{
+    268.9,269.9
+     it's just gonna-
+},
+{
+    269.9,270.82
+     It's gonna come right back.
+},
+{
+    270.82,272.46
+     One step forward, two steps back.
+},
+{
+    272.46,273.3
+     That's critical.
+},
+{
+    273.3,274.62
+     You won't be able to stay ahead of it.
+},
+{
+    274.62,275.46
+     Right.
+},
+{
+    275.46,277.7
+     Okay, now I need to take my mic off,
+},
+{
+    277.7,279.9
+     so then you don't have to list the me talk anymore.
+},
+{
+    279.9,281.26
+     Bob gets to do all the talking.
+},
+{
+    281.26,283.42
+     If you say something, Brad, I'll just repeat it.
+},
+{
+    283.42,284.62
+     I mean, if there's something I miss.
+},
+{
+    284.62,285.44
+     Right, right, that'll be entertaining mean, if there's something I miss. Right, right.
+},
+{
+    285.44,287.4
+     That'll be entertaining in itself.
+},
+{
+    287.4,288.24
+     It's like a puppet.
+},
+{
+    288.24,290.56
+     Yup, so because what happens is
+},
+{
+    290.56,292.48
+     we're gonna use a towel roll first.
+},
+{
+    292.48,296.6
+     It binds up with the wires and everything else.
+},
+{
+    296.6,299.48
+     So I'll just talk and it'll be like a mime.
+},
+{
+    299.48,300.32
+     Yeah.
+},
+{
+    301.82,303.08
+     I got that out of it.
+},
+{
+    303.08,304.88
+     What a wonderful world.
+},
+{
+    304.88,306.6
+     Okay, so he's gonna take the towel,
+},
+{
+    306.6,308.32
+     he's gonna roll it up,
+},
+{
+    308.32,311.28
+     he's got a quite heavy thick towel here.
+},
+{
+    311.28,313.32
+     And you have just like the old days
+},
+{
+    313.32,316.82
+     where you used to snap his buddy's butts.
+},
+{
+    316.82,317.66
+     Yeah.
+},
+{
+    318.88,320.88
+     So he's actually in this case,
+},
+{
+    320.88,322.22
+     cause there's a couple ways you can do this,
+},
+{
+    322.22,324.48
+     but he's actually pulling down.
+},
+{
+    324.48,331.92
+     And you can work a little bit on the level that you're putting it, but generally we just start
+},
+{
+    331.92,338.24
+     right at the base of the deck. And what you'll find is a lot of times without a towel, you can't do it.
+},
+{
+    338.24,344.56
+     It just hurts too much. And most patients I have have to use the towel to start. And they always
+},
+{
+    344.56,346.24
+     seem to really enjoy the fact
+},
+{
+    346.24,348.68
+     that all of a sudden they can start moving back.
+},
+{
+    348.68,352.2
+     And you may not be able to go that far to start,
+},
+{
+    352.2,355.32
+     you'll be able to go farther than without the towel.
+},
+{
+    355.32,359.32
+     But yeah, just take the movement that it allows.
+},
+{
+    359.32,361.0
+     So maybe for a couple of days,
+},
+{
+    361.0,363.96
+     you're only gonna go about 50% of how far,
+},
+{
+    363.96,365.16
+     the total amount. But eventually, you wanna only gonna go about 50% of how far, you know, the total amount.
+},
+{
+    365.16,367.08
+     But eventually, you know, you wanna see
+},
+{
+    367.08,368.88
+     if you can get further and further.
+},
+{
+    371.4,374.44
+     Yeah, so what Brad is saying is a lot of times,
+},
+{
+    374.44,376.5
+     you start, instead of just going back,
+},
+{
+    376.5,380.66
+     we start getting your posture correct by chin tucking,
+},
+{
+    380.66,383.32
+     tucking the chin in and then going back.
+},
+{
+    383.32,387.08
+     Cause what we don't want is somebody going like this.
+},
+{
+    387.08,390.24
+     So that's why we chin tuck and go back.
+},
+{
+    390.24,391.08
+     So.
+},
+{
+    395.16,397.64
+     So we're not having good success with this.
+},
+{
+    397.64,399.08
+     If we're not having good success with this
+},
+{
+    399.08,400.52
+     then the next step, I'm sorry Bob,
+},
+{
+    400.52,402.68
+     I can't just let you do it.
+},
+{
+    402.68,406.0
+     We're gonna go to, you can use a belt.
+},
+{
+    406.0,407.0
+     Usually not a slip belt.
+},
+{
+    407.0,408.52
+     Are you hearing, a little closer.
+},
+{
+    408.52,410.2
+     Little closer, oh, how about that?
+},
+{
+    410.2,412.4
+     Hello, and then, look at,
+},
+{
+    412.4,413.24
+     you can use a belt.
+},
+{
+    413.24,416.12
+     Yeah, a strap that has cloth,
+},
+{
+    416.12,417.96
+     versus a shiny one.
+},
+{
+    417.96,419.68
+     Okay. Oh, these are sensitive.
+},
+{
+    419.68,420.52
+     Yeah.
+},
+{
+    420.52,421.76
+     Oh, Bob, I'll let you go.
+},
+{
+    421.76,425.6
+     All right, so he's got, I mean, you could use a belt too.
+},
+{
+    425.6,428.4
+     I mean, I've done it with a belt actually.
+},
+{
+    428.4,431.16
+     What Brad was saying is it's nicer if they're very thin
+},
+{
+    431.16,434.08
+     because then you can really get onto specific levels
+},
+{
+    434.08,436.92
+     of the neck and you can,
+},
+{
+    436.92,439.76
+     because sometimes you'll find out that it works out
+},
+{
+    439.76,441.64
+     really well, quite low.
+},
+{
+    441.64,444.56
+     Sometimes it's better doing it further up.
+},
+{
+    444.56,446.72
+     And so you can vary and figure out
+},
+{
+    447.68,454.0
+     which which level actually works for you. How do you know it's the right level?
+},
+{
+    454.88,461.68
+     It actually feels better. I mean that and the more range right it's going to allow you to move
+},
+{
+    461.68,465.36
+     further. So right now Brad moved it up a little further
+},
+{
+    465.36,467.4
+     and there you go.
+},
+{
+    467.4,470.0
+     He's about an inch at a time
+},
+{
+    470.0,471.9
+     and he's starting to pull down.
+},
+{
+    473.96,476.24
+     Yeah, and now he's starting to get more motion.
+},
+{
+    480.6,482.82
+     All right, so yeah, Brad's mentioned
+},
+{
+    482.82,484.92
+     that all three of the people he worked with,
+},
+{
+    484.92,488.14
+     there was definitely a specific level
+},
+{
+    488.14,489.16
+     that worked better.
+},
+{
+    491.16,492.76
+     And one was up higher, yes.
+},
+{
+    492.76,495.7
+     And I found, yeah, I found that myself sometimes,
+},
+{
+    495.7,497.42
+     but yeah, a lot of times you,
+},
+{
+    497.42,500.08
+     normally the stress is on the lower neck,
+},
+{
+    500.08,504.36
+     but I've seen it myself too, where sometimes,
+},
+{
+    504.36,506.44
+     are you getting feedback?
+},
+{
+    506.44,507.88
+     You're hitting the mic, Brad.
+},
+{
+    507.88,512.72
+     So, okay.
+},
+{
+    514.04,517.32
+     And now he's actually gonna go the other direction.
+},
+{
+    517.32,519.76
+     And this is a different variation.
+},
+{
+    519.76,523.06
+     The joints actually are angled like this.
+},
+{
+    523.06,526.12
+     So he's gonna kind of go along with the joint itself.
+},
+{
+    526.12,528.22
+     And then he's gonna actually,
+},
+{
+    528.22,529.64
+     when he's going back like this,
+},
+{
+    529.64,531.76
+     you see his hands are moving along with him.
+},
+{
+    531.76,533.24
+     He's not just doing this.
+},
+{
+    533.24,534.56
+     He's not doing this and not go back.
+},
+{
+    534.56,536.2
+     Yeah, he's going with it.
+},
+{
+    536.2,540.9
+     The eyes are staying level with the fists or the thumbs.
+},
+{
+    540.9,544.56
+     So this is another variation on how you can do it.
+},
+{
+    544.56,549.52
+     I was going to do the thumbs it. That's a good cue.
+},
+{
+    549.52,551.16
+     So he said if you put the thumbs out,
+},
+{
+    551.16,552.32
+     they point right into your eyes
+},
+{
+    552.32,555.16
+     and they should stay with the eyes.
+},
+{
+    555.16,557.44
+     And again, you can try different levels
+},
+{
+    557.44,559.24
+     using the center strap.
+},
+{
+    560.24,564.28
+     But this one, you know, I'd start with the thicker one.
+},
+{
+    564.28,565.4
+     Got the mic here. You start with the thicker one. Got the mic here.
+},
+{
+    567.24,568.88
+     You start with the thicker one.
+},
+{
+    568.88,571.2
+     He's going back on.
+},
+{
+    571.2,574.06
+     And then usually if you can try a thinner one,
+},
+{
+    574.06,575.56
+     it's gonna often help.
+},
+{
+    575.56,576.9
+     Can you hear me Liz?
+},
+{
+    576.9,578.12
+     Everything's okay.
+},
+{
+    578.12,579.48
+     Why was really hard, Bob?
+},
+{
+    579.48,581.04
+     Yeah, I was.
+},
+{
+    581.04,584.28
+     It's like I've had patients that can't speak our language.
+},
+{
+    584.28,585.96
+     I've used interpreters.
+},
+{
+    585.96,587.28
+     And I think, oh, it's just terrible.
+},
+{
+    587.28,588.96
+     Yeah, it's challenging.
+},
+{
+    588.96,593.28
+     So you're gonna show one more with the,
+},
+{
+    593.28,594.64
+     with the attraction, right?
+},
+{
+    595.64,597.52
+     Nope, we just did that one.
+},
+{
+    597.52,599.72
+     Oh, I see that's, I see what you're saying.
+},
+{
+    599.72,600.56
+     Okay.
+},
+{
+    600.56,601.4
+     That, that, that,
+},
+{
+    601.4,602.24
+     because you're pulling,
+},
+{
+    602.24,603.08
+     you're pulling up,
+},
+{
+    603.08,605.64
+     it actually almost gives a little traction. Right, right.
+},
+{
+    605.64,607.44
+     It's about what we're trying to make.
+},
+{
+    607.44,608.78
+     Exactly.
+},
+{
+    608.78,609.62
+     Yeah.
+},
+{
+    609.62,612.0
+     Yeah, give these a try, experiment around with them.
+},
+{
+    612.0,615.72
+     Always remember though, it should be no pain
+},
+{
+    615.72,618.36
+     or less, certainly less pain than you would be doing it
+},
+{
+    618.36,620.28
+     if you were doing it without using the device.
+},
+{
+    620.28,621.76
+     Right, with repetition.
+},
+{
+    622.76,623.76
+     You're always gonna be pretty safe
+},
+{
+    623.76,627.6
+     if you keep that no pain credoedle, and no dizziness.
+},
+{
+    627.6,628.88
+     And you know, so.
+},
+{
+    628.88,629.72
+     Lightheadedness.
+},
+{
+    629.72,633.84
+     Those are critical red flags to watch out for.
+},
+{
+    633.84,635.88
+     And remember, Brad and I are not just pretty.
+},
+{
+    635.88,638.4
+     Oh yeah, we're pretty ugly.
+},
+{
+    638.4,640.08
+     Yeah, now we're pretty handy.
+},
+{
+    640.08,640.92
+     Yeah.
+},
+{
+    640.92,642.44
+     So make sure you subscribe to us.
+},
+{
+    642.44,643.28
+     That's right.
+},
+{
+    643.28,644.96
+     We can just fix about anything.
+},
+{
+    644.96,647.08
+     Oh yeah, we can't double up.
+},
+{
+    647.08,647.92
+     You can't double up.
+},
+{
+    647.92,648.76
+     Oh, sorry.
+},
+{
+    648.76,None
+     Don't you dare. you
+},

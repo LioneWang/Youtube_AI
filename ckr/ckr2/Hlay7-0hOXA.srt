@@ -1,0 +1,104 @@
+{
+    0.0,5.6
+     This is Dr. Story. I'm a chiropractor. I've been a chiropractor for over 22 years.
+},
+{
+    5.6,10.6
+     And I'm going to tell you how to know if you have carpal tunnel syndrome.
+},
+{
+    10.6,16.1
+     A carpal tunnel syndrome is a pinched nerve in the wrist. The nerve pinching is right here.
+},
+{
+    16.1,29.24
+     And you will actually get tingling, burning, achiness, a deep, boring type of pain in the thumb, the first finger, the second finger, the middle finger,
+},
+{
+    29.24,35.48
+     and half of the ring finger. Carpal tunnel syndrome will not give you numbness in the
+},
+{
+    35.48,41.88
+     little finger. Very often sometimes if the nerve is pinched up a little higher or more proximal,
+},
+{
+    41.88,45.0
+     you'll get a palm type of tingling too.
+},
+{
+    46.12,48.96
+     The symptoms will usually be from some type
+},
+{
+    48.96,51.84
+     of repetitive motion where you're typing a lot
+},
+{
+    51.84,54.14
+     or you're sleeping in a funny position
+},
+{
+    54.14,58.4
+     or you have a job or there's a lot of vibration to the wrist.
+},
+{
+    58.4,60.44
+     In addition to this, most of the time
+},
+{
+    60.44,63.9
+     people complain about symptoms at night
+},
+{
+    63.9,65.8
+     because for some reason we're resting
+},
+{
+    65.8,67.74
+     or we're sleeping like this.
+},
+{
+    67.74,71.28
+     If you can take your hand and put your wrist in this position
+},
+{
+    71.28,74.98
+     to get more and more symptoms into this part of the hand,
+},
+{
+    74.98,77.58
+     that is very likely carpal tunnel syndrome.
+},
+{
+    77.58,79.46
+     Now most people try to wear a brace
+},
+{
+    79.46,80.86
+     and the brace is very uncomfortable,
+},
+{
+    80.86,84.5
+     so I made another video regarding how to make
+},
+{
+    84.5,85.2
+     a do-it-yourself
+},
+{
+    85.2,90.98
+     wrist brace without causing all the uncomfortable things that occur with
+},
+{
+    90.98,96.94
+     normal braces. I'm gonna post that video down below so just look at this. So if
+},
+{
+    96.94,100.54
+     you thought this was interesting give me a thumbs up, subscribe to my channel and
+},
+{
+    100.54,103.94
+     have a great day!
+},

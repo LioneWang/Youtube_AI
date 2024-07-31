@@ -1,0 +1,460 @@
+{
+    0.0,3.6
+     Today we're going over the pinky toe right here.
+},
+{
+    3.6,9.0
+     Is this toe broken? Is it sprained? We're going to go over how to take care of it,
+},
+{
+    9.0,13.74
+     how to diagnose it, and when to panic and see your doctor. And we're starting
+},
+{
+    13.74,16.44
+     right now.
+},
+{
+    18.44,24.6
+     So the real key is how do you tell if it's broken or sprained? So number one, if
+},
+{
+    24.6,27.16
+     it's black, blue, it's more
+},
+{
+    27.16,32.72
+     likely to be broken, although it's not 100%. If it's deformed, so if your toes like bent
+},
+{
+    32.72,39.38
+     like this right here, very likely there's a good chance that it's broken. Number two,
+},
+{
+    39.38,45.56
+     if it's open, that's an emergency. You have to see your podiatrist at that point.
+},
+{
+    45.56,49.48
+     As you can see right here, there's a lot of nerves on top of your foot.
+},
+{
+    49.48,57.76
+     If you're having severe numbness, burning, tingling, spasms at night, if they onset rapidly,
+},
+{
+    57.76,61.08
+     that might mean you might have some type of nerve injury.
+},
+{
+    61.08,63.24
+     You probably want to see your doctor.
+},
+{
+    63.24,66.4
+     It might be a blood flow injury at the same time.
+},
+{
+    66.4,70.0
+     Sometimes it's a blood clot, not a broken toe for some people, although young healthy
+},
+{
+    70.0,72.08
+     people that's very unlikely.
+},
+{
+    72.08,78.08
+     So if you break your fifth toe right here, it's going to be black and bruised and swollen.
+},
+{
+    78.08,88.08
+     The only 100% way to know for sure if it's broken or sprained is to get an X-ray. But generally, a deformity, a black-blue swelling,
+},
+{
+    89.16,91.84
+     a really aching throb that doesn't get better
+},
+{
+    91.84,95.56
+     after a day or two means that it is broken.
+},
+{
+    95.56,98.36
+     That sharp shooting tingling pain
+},
+{
+    98.36,100.4
+     is due to these nerves right here.
+},
+{
+    100.4,104.02
+     So you can see that there's nerves running across here.
+},
+{
+    104.02,105.76
+     That's gonna create that shooting and zapping. So as can see that there's nerves running across here. That's going to create that shooting
+},
+{
+    105.76,111.2
+     and zapping. So as that toe is swollen, that's what causes those pain and symptoms. So you
+},
+{
+    111.2,117.28
+     can see there's a lot of tendons. Here's the actual joint right here. And then you have your actual
+},
+{
+    117.28,128.28
+     toe right here. So the problem is you want to stop it from rubbing and bumping against your foot, and you also want to stop it from bending like this.
+},
+{
+    128.28,131.52
+     So you can see that's what's gonna cause you your pain,
+},
+{
+    131.52,135.52
+     is when that toe is bending like this.
+},
+{
+    135.52,138.92
+     So what you can do is, number one,
+},
+{
+    138.92,140.84
+     you can see there's these gel pads
+},
+{
+    140.84,143.34
+     that can slip on the toe.
+},
+{
+    143.34,146.28
+     So the easiest thing right here, this will help.
+},
+{
+    146.28,151.28
+     It's not perfect, but you can see the gel pad goes on here.
+},
+{
+    152.42,154.08
+     And when your foot turns out,
+},
+{
+    154.08,156.96
+     it's gonna stop it from rubbing quite as much
+},
+{
+    156.96,159.88
+     on the outside of the shoe.
+},
+{
+    159.88,163.64
+     When you put your sock on, this stays tilted back.
+},
+{
+    163.64,168.0
+     So the sock helps that if it's just the tip of your toe.
+},
+{
+    168.0,174.16
+     So if it's just the tip of this toe, you have this little guy right here.
+},
+{
+    174.16,179.92
+     Some people affectionately call it like a, well, you already know what it looks like,
+},
+{
+    179.92,183.08
+     but you can see these cones look really good.
+},
+{
+    183.08,186.64
+     And then you also have this heavier duty one right here.
+},
+{
+    186.64,189.24
+     So you could see this one goes on like this.
+},
+{
+    193.24,195.4
+     And then you put your sock on
+},
+{
+    195.4,198.56
+     and that'll protect the outside of your foot from rubbing.
+},
+{
+    198.56,201.6
+     And you can see I have it sitting on an orthotic.
+},
+{
+    201.6,205.0
+     The orthotic provides some bend protection. So see, without the orthotic, the orthotic provides some bend protection.
+},
+{
+    205.0,210.0
+     So see, without the orthotic, how easily the foot bends,
+},
+{
+    210.08,212.4
+     whereas with the orthotic, see,
+},
+{
+    212.4,214.18
+     it's a little bit harder to bend.
+},
+{
+    214.18,217.68
+     It gives it a little bit more stability inside a good shoe.
+},
+{
+    217.68,222.2
+     Also, if you have a good slipper inside the house,
+},
+{
+    222.2,224.1
+     you can see the slipper,
+},
+{
+    224.1,225.28
+     this slipper has an
+},
+{
+    225.28,230.56
+     orthotic in here. So that can protect it. So you can see an orthotic slipper.
+},
+{
+    230.56,235.88
+     An orthotic slipper right there could really help protect things. And another
+},
+{
+    235.88,242.2
+     thing is you can see a shoe like this. What you want is I can feel the fifth
+},
+{
+    242.2,245.92
+     toe right there. And what you can see with the shoe is
+},
+{
+    245.92,247.76
+     it's all mesh right here.
+},
+{
+    247.76,250.4
+     See where this stitching is right here?
+},
+{
+    250.4,252.92
+     Some shoes have the stitching right here.
+},
+{
+    252.92,254.8
+     So especially dress shoes,
+},
+{
+    254.8,258.4
+     you wanna be careful where your fifth toe is
+},
+{
+    258.4,260.56
+     that you only have mesh.
+},
+{
+    260.56,262.98
+     Otherwise your broken toe is gonna hurt.
+},
+{
+    262.98,266.28
+     If you don't have these gel pads at home,
+},
+{
+    266.28,271.0
+     what you can do is grab the Kleenex and a piece of tape.
+},
+{
+    271.0,275.5
+     So what I like to do is a piece of duct tape,
+},
+{
+    277.28,280.76
+     you rip the duct tape in half right there.
+},
+{
+    280.76,285.0
+     And here is all you do for your fifth toe.
+},
+{
+    285.24,288.86
+     So here's the fifth toe buddy fracture.
+},
+{
+    288.86,293.86
+     So you take this, I like to pad in between the toe.
+},
+{
+    296.56,300.28
+     And this right here, I just wrap it a few times.
+},
+{
+    300.28,301.44
+     See what I'm doing?
+},
+{
+    301.44,304.72
+     I just like to go up in between.
+},
+{
+    304.72,305.76
+     So be careful so you don't
+},
+{
+    305.76,312.84
+     injure your fifth toe. And then up above
+},
+{
+    315.28,332.0
+     and then up around like that so you can see it's nice and padded. And then you take your tape right there.
+},
+{
+    332.0,335.76
+     So see what I did. I just taped around here.
+},
+{
+    335.76,355.24
+     Then you take your other tape like this. And right now you have yourself a toe cast right there. So that
+},
+{
+    355.24,362.96
+     toe cast is the equivalent of something like this or something like this. So how
+},
+{
+    362.96,366.24
+     do you treat this? So number one you can see there's a lot of tendons
+},
+{
+    366.24,368.12
+     on top of your foot right here.
+},
+{
+    368.12,370.82
+     The problem is that when you're walking,
+},
+{
+    370.82,374.84
+     these tendons are firing and they're pulling on the toe.
+},
+{
+    374.84,378.36
+     And what happens is you wanna wear a walking boot.
+},
+{
+    378.36,382.76
+     So a walking boot, even though it's really overkill,
+},
+{
+    382.76,384.96
+     if you're having pain, it will help you get better
+},
+{
+    384.96,385.12
+     because it will stop you get better because
+},
+{
+    385.12,388.32
+     it will stop those tendons from firing.
+},
+{
+    388.32,392.12
+     It will stop your toe from bending and that will let it heal the quickest.
+},
+{
+    392.12,397.44
+     The whole point of the walking boot is that it will stop the tendons to your toes from
+},
+{
+    397.44,403.36
+     crossing your ankle and firing there because all these tendons start on the leg.
+},
+{
+    403.36,405.6
+     And at first people seem like it's crazy to wear a boot
+},
+{
+    405.6,411.28
+     But when they're not getting better for weeks or months and their toes are still aching without relief
+},
+{
+    411.4,415.44
+     That's when this makes sense if you want this to heal as quick as possible
+},
+{
+    416.12,420.92
+     You want to get yourself a walking boot and you want to heal as quickly as possible
+},
+{
+    421.92,427.44
+     So this is reserved for people who aren't getting better or have a major toe
+},
+{
+    427.44,433.28
+     fracture that's worse than it seems. So there's a lot of evidence behind stopping the tendons
+},
+{
+    433.28,437.92
+     crossing your ankle and that's the point of the walking boot. Surgical shoes good but if you're
+},
+{
+    437.92,445.84
+     doing a surgical shoe you might as well just get a great shoe like this with a stiff insert. So this one has a stiff insert.
+},
+{
+    445.84,447.68
+     See how it can't really bend?
+},
+{
+    447.68,449.92
+     I can't bend, that's as hard as I'm pushing.
+},
+{
+    449.92,451.8
+     And the fifth toe right here,
+},
+{
+    451.8,455.28
+     you can see there's a mesh where the fifth toe is.
+},
+{
+    455.28,457.04
+     So there's some links,
+},
+{
+    457.04,458.82
+     but that's called the carbon fiber insert.
+},
+{
+    458.82,460.92
+     They're like 50 bucks.
+},
+{
+    460.92,463.68
+     It's an alternative if you can't wear a walking boot,
+},
+{
+    463.68,469.12
+     but otherwise a walking boot will help you heal the quickest. If that's not working you got to see your
+},
+{
+    469.12,473.16
+     podiatrist. You have to get an x-ray. There's no substitute for getting an x-ray
+},
+{
+    473.16,478.0
+     imaging and making sure none of those critically wrong things are going on. So
+},
+{
+    478.0,483.08
+     that's how you tell your fifth toe. Is it broken? Is it sprayed? And that's how you
+},
+{
+    483.08,493.68
+     take care of it with body taping.
+},

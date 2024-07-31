@@ -1,0 +1,56 @@
+{
+    0.0,5.0
+     In this demonstration we're going to look at wound cleansing and debridement.
+},
+{
+    5.0,11.0
+     Again we're going to use our simulated wound model and look at this sacral pressure injury here.
+},
+{
+    11.0,17.0
+     In assessing the tissue types before we actually do cleansing or debridement,
+},
+{
+    17.0,22.0
+     we can see we have some red healthy granulation tissue in the base,
+},
+{
+    22.0,30.88
+     although as you can see there is a bit of visible bone at the deepest part. We also have some gelatinous slough at the upper
+},
+{
+    30.88,36.92
+     aspect here, some more tenacious slough over on the side and a small area of
+},
+{
+    36.92,48.76
+     dry necrotic tissue. So our granulation tissue needs to be cleansed using gentle techniques.
+},
+{
+    48.76,69.76
+     We're going to use an aseptic non-touch technique to fold our gauze, moisten it with some saline. So that can be used to gently clean the granulation tissue.
+},
+{
+    74.64,86.66
+     However, your gelatinous slough may need a little bit more aggressive cleansing and or some mechanical debriement to remove that. In this case
+},
+{
+    86.66,89.48
+     your woven gauze can be very helpful
+},
+{
+    89.48,93.4
+     for that. Again using a non-touch
+},
+{
+    93.4,99.2
+     technique and some increased force to
+},
+{
+    99.2,102.08
+     pick up and mechanically remove that
+},
+{
+    102.08,105.0
+     gelatinous slough.
+},

@@ -1,0 +1,156 @@
+{
+    0.0,4.12
+     So I want to talk today about how you should really treat a broken toe and the reason I
+},
+{
+    4.12,8.72
+     want to talk about that is because today I had the third patient this week who came
+},
+{
+    8.72,12.72
+     in complaining of months of pain after stubbing their toe.
+},
+{
+    12.72,15.52
+     So here's the foot, here's the toes.
+},
+{
+    15.52,19.08
+     Most common toe to injure is usually this little one over here but you can injure any
+},
+{
+    19.08,20.08
+     of them.
+},
+{
+    20.08,23.48
+     Most commonly injure it because you stub it on something.
+},
+{
+    23.48,25.98
+     It's actually pretty easy to fracture these toes.
+},
+{
+    25.98,31.34
+     The problem is most people who stub their toes end up going to an emergency room or
+},
+{
+    31.34,35.98
+     an urgent care center or sometimes their primary care doctor's office and they're told to simply
+},
+{
+    35.98,37.9
+     tape their toes together.
+},
+{
+    37.9,39.54
+     And that's called buddy taping.
+},
+{
+    39.54,47.04
+     And what you do is you take a piece of tape and you essentially tape the toes together. The problem here is that does
+},
+{
+    47.04,52.72
+     absolutely nothing to stop the toes from moving. So now you have a fracture but it continues to move
+},
+{
+    52.72,58.72
+     and so weeks and months later it's still causing a lot of pain and a lot of swelling. Even though
+},
+{
+    58.72,63.76
+     it's just a toe and even though it's very small there's really only one way that you can properly
+},
+{
+    63.76,67.5
+     treat a broken toe and that is to immobilize it.
+},
+{
+    67.5,71.94
+     What that means is whenever you break a bone, big or small, you have to stop the motion
+},
+{
+    71.94,74.86
+     at the joints on either side of that bone.
+},
+{
+    74.86,81.02
+     So this may seem like overkill, but the only way to really treat a broken toe is with this,
+},
+{
+    81.02,82.32
+     a big walking boot.
+},
+{
+    82.32,86.4
+     Now a lot of people think I'm a little crazy when I say this because it just looks so big
+},
+{
+    86.4,88.84
+     to treat this little broken toe right here.
+},
+{
+    88.84,92.52
+     But the problem is not only do you have the motion here,
+},
+{
+    92.52,95.16
+     but you've got tendons that start in your leg
+},
+{
+    95.16,96.4
+     and go down into your toe,
+},
+{
+    96.4,98.2
+     and those cause motion of the toe.
+},
+{
+    98.2,100.68
+     So a taller walking boot like this
+},
+{
+    100.68,103.8
+     is the only way that you can actually stop the motion
+},
+{
+    103.8,105.6
+     of those tendons and stop the
+},
+{
+    105.6,109.92
+     motion of the foot because this boot has what's called a rocker on it. So it prevents you from
+},
+{
+    109.92,115.28
+     moving it. So getting into this boot as soon as possible is the best way to treat it. First of
+},
+{
+    115.28,120.32
+     all, if you do stub your toe, I highly recommend you try not to treat this yourself. Go see a doctor,
+},
+{
+    120.32,125.12
+     get an x-ray, but then make sure you get a walking boot. You can find more information
+},
+{
+    125.12,129.36
+     on how to treat a broken toe on our website. Just do a search for broken toe. If you have
+},
+{
+    129.36,134.12
+     no ability to see a doctor, you can actually find recommendations on the types of walking
+},
+{
+    134.12,139.52
+     boots you can use there. But otherwise, again, get an x-ray and see someone about it. But
+},
+{
+    139.52,144.04
+     get into a walking boot. Don't let them tape your toes together to try and treat a broken
+},
+{
+    144.04,None
+     toe.
+},

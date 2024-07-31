@@ -1,0 +1,156 @@
+{
+    0.0,5.56
+     What is a concentrator?
+},
+{
+    5.56,13.26
+     It is a machine that literally squeezes oxygen out of air and provides it to you.
+},
+{
+    13.26,17.3
+     Normal concentration of oxygen in room air is 21%.
+},
+{
+    17.3,22.94
+     And this is what the concentrator takes out and then provides to you in a relatively pure
+},
+{
+    22.94,30.84
+     form of oxygen. Now when we use oxygen outside of a hospital setting at home or as we discussed in a RWA
+},
+{
+    30.84,38.76
+     designated area, oxygen can be delivered by nasal cannula or by a mask, face mask.
+},
+{
+    38.76,44.2
+     Now typically we would start with the nasal cannula which is a simple tubing and the tubing
+},
+{
+    44.2,46.34
+     has two ports which
+},
+{
+    46.34,48.98
+     are placed inside your nostril.
+},
+{
+    48.98,55.24
+     After placing them in your nostril then on either side the tube hooks around your ears
+},
+{
+    55.24,60.28
+     and then they and then you can tighten it so that it is secure.
+},
+{
+    60.28,65.72
+     The tube is then connected to the oxygen tube that comes from the oxygen concentrator.
+},
+{
+    65.72,70.68
+     So, it attaches to the oxygen concentrator, then you set it to the level required, it
+},
+{
+    70.68,73.08
+     can be 2 liters or 3 liters.
+},
+{
+    73.08,76.76
+     Alternatively, if it is an oxygen cylinder, it is the same mechanism and you connect it
+},
+{
+    76.76,77.84
+     to the oxygen cylinder.
+},
+{
+    77.84,82.84
+     While you are doing this, it is important to monitor the with the pulse oximeter what
+},
+{
+    82.84,85.28
+     the patients oxygen levels are.
+},
+{
+    85.28,91.32
+     So, the oxygen level less than 94 is the indication for oxygen and once you have given the person
+},
+{
+    91.32,95.16
+     oxygen we expect it to go above 94 percent.
+},
+{
+    95.16,97.96
+     The next question is how do we use an oxygen concentrator?
+},
+{
+    97.96,100.84
+     It is a very simple thing to use it works on electricity.
+},
+{
+    100.84,106.64
+     So, it has to be connected and it has to be pressed on. Now, humidification
+},
+{
+    106.64,112.72
+     which is a common thing we use is provided by filling the bottle with distilled water
+},
+{
+    112.72,118.92
+     and connecting it. The tube dips into it and we can see the oxygen bubbling when we set
+},
+{
+    118.92,125.96
+     the rate at 1, 2, 3 or 4 liter. Most concentrators give oxygen up to 5 liters per minute, but we do
+},
+{
+    125.96,130.88
+     have high flow ones which give up to 10 liters per minute. There is also a device called
+},
+{
+    130.88,137.92
+     an oxymizer which can increase this oxygen rate flow rate. It can it concentrates oxygen
+},
+{
+    137.92,142.56
+     even further and gives a more pure form of oxygen and this is just one of the devices
+},
+{
+    142.56,145.52
+     that can be used with the concentrator.
+},
+{
+    145.52,151.72
+     Once the humidifier has been attached then once again the oxygen tube is attached to
+},
+{
+    151.72,157.68
+     the humidifier port and that tubing is further connected to the nasal prongs that the patient
+},
+{
+    157.68,158.68
+     is using.
+},
+{
+    158.68,166.56
+     We set it at the right level, we check the patient's oxygen saturation with the pulse oximeter. So this is the way one can
+},
+{
+    166.56,172.88
+     use the setup at home but again the key thing to remember in the circumstance in the situation of
+},
+{
+    172.88,180.24
+     COVID-19 infection is that if your levels are low, oxygen level less than 94% or respiratory rate more
+},
+{
+    180.24,185.64
+     than 24% or you are a feeling subjective feeling of breathlessness you must seek medical
+},
+{
+    185.64,187.64
+     attention immediately.
+},
+{
+    187.64,188.36
+     Thank you very much.
+},

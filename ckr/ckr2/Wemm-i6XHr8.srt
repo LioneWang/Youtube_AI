@@ -1,0 +1,104 @@
+{
+    0.0,16.04
+     The first exercise in our relaxation toolkit involves something we've all experienced
+},
+{
+    16.04,28.32
+     at some point or have been very close to experiencing, shortness of breath during times of stress. When we're anxious or stressed, our breathing becomes very shallow.
+},
+{
+    28.32,32.92
+     The breath we take isn't fully drawn into the lungs
+},
+{
+    32.92,36.4
+     and there's more contained in our chest.
+},
+{
+    36.4,40.6
+     This brings us to our very first exercise of stress
+},
+{
+    40.6,43.44
+     reduction. Deep breathing.
+},
+{
+    43.44,47.5
+     It's also known as abdominal breathing, belly
+},
+{
+    47.5,53.88
+     breathing, or diaphragmatic breathing. This technique consists of breathing
+},
+{
+    53.88,61.6
+     through the belly and not the chest in a slower and deeper fashion. There are many
+},
+{
+    61.6,65.36
+     physical benefits to this simple technique.
+},
+{
+    65.36,71.92
+     Deep breathing lowers your heart rate, your blood pressure, increases your energy levels,
+},
+{
+    71.92,75.56
+     and decreases your muscle tension and pain.
+},
+{
+    75.56,81.6
+     Not to mention the mental health benefits, including decreased anxiety and stress, as
+},
+{
+    81.6,89.56
+     well as improved sleep and a more focused mind. Let's practice. Sit or lie down
+},
+{
+    89.56,109.0
+     in a comfortable position. Begin by taking a deep breath in and a long relaxing breath breath out. The idea here is to achieve a slow and steady breath.
+},
+{
+    109.0,115.52
+     Go ahead and place one hand on your chest and your other on your abdomen if this feels
+},
+{
+    115.52,118.94
+     comfortable for you.
+},
+{
+    118.94,124.56
+     Now try and keep your chest rather still and have your abdomen expand and contract as you
+},
+{
+    124.56,128.36
+     deeply breathe.
+},
+{
+    128.36,145.0
+     Some people find it helpful to count while they take their deep breaths. four, out, two, three, four.
+},
+{
+    146.4,150.72
+     In, two, three, four,
+},
+{
+    150.72,153.84
+     out, two, three, four.
+},
+{
+    155.12,158.36
+     This counting can help you with consistency.
+},
+{
+    159.68,162.6
+     Try to practice this regularly a few times
+},
+{
+    162.6,165.58
+     throughout the day for a few minutes. It
+},
+{
+    165.58,172.24
+     will relax you physically and mentally during times of stress.
+},

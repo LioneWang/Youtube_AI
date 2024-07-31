@@ -1,0 +1,140 @@
+{
+    0.0,22.62
+     Hi, I'm Dr. Matthew Bose and welcome to our video series.
+},
+{
+    22.62,25.0
+     Proper therapy exercises are important for recovery
+},
+{
+    25.0,27.0
+     from most orthopedic conditions.
+},
+{
+    27.0,31.0
+     I've designed this series to provide you with up-to-date therapy regimens
+},
+{
+    31.0,34.0
+     that you can access at home, in the gym, or on the road.
+},
+{
+    34.0,38.0
+     I hope you find these videos helpful, and best of luck in your recovery.
+},
+{
+    48.32,54.18
+     Passive stretching can be done on the table. This is generally done when you have very little motion.
+},
+{
+    54.18,57.52
+     Use a towel under your hand.
+},
+{
+    57.52,62.92
+     Lean forward and gently slide the arm out until you feel a gentle stretch at the shoulder
+},
+{
+    62.92,65.98
+     and hold that position for 30 seconds.
+},
+{
+    66.82,68.82
+     Back off.
+},
+{
+    70.64,74.1
+     Same thing can be done with your shoulder directly facing the table,
+},
+{
+    75.24,79.66
+     allowing a stretch out to the side. Again, go to the stretched position.
+},
+{
+    80.3,82.3
+     Hold for 30 seconds.
+},
+{
+    82.74,86.6
+     Back off for 15 seconds and repeat.
+},
+{
+    86.6,93.8
+     After you've regained some motion up to shoulder level, you can perform a similar exercise against
+},
+{
+    93.8,96.0
+     the wall.
+},
+{
+    96.0,102.88
+     The opposite arm is used to push the arm up or the fingers can walk up the wall, keeping
+},
+{
+    102.88,106.72
+     your shoulders level without hiking of one shoulder.
+},
+{
+    106.72,109.72
+     Go to where you feel a stretch and hold.
+},
+{
+    111.84,113.76
+     At the end of the motion, you can bend your knees
+},
+{
+    113.76,117.96
+     and lean into the wall to get that last few degrees
+},
+{
+    117.96,119.64
+     of full elevation overhead.
+},
+{
+    124.56,130.08
+     Rotation stretching can be done against the pole or a wall or in a doorway.
+},
+{
+    130.08,136.48
+     You put your arm or hand up against the threshold, keep your elbow at your side, and rotate your
+},
+{
+    136.48,150.26
+     torso away until and feeling a stretch
+},
+{
+    150.26,153.12
+     in front of the shoulder.
+},
+{
+    156.5,162.6
+     You can also be done above shoulder level, rotating your body till you feel a
+},
+{
+    162.6,168.0
+     stretch in front of the shoulder and holding that position.
+},
+{
+    172.0,180.0
+     Stretch is done with the uninvolved arm, bringing the involved elbow across your body until you feel a stretch behind the shoulder.
+},
+{
+    193.0,213.84
+     The stick can be used.
+},
+{
+    213.84,219.64
+     The involved arm is the left arm in this case.
+},
+{
+    219.64,225.84
+     Opposite arm lifts overhead and brings that involved arm up into a nice stretch behind the back
+},
+{
+    225.84,233.72
+     and the position is held.
+},
+{
+    233.72,256.48
+     This generally gets the last few degrees of full internal rotation. Music
+},

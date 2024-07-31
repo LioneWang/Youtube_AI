@@ -1,0 +1,112 @@
+{
+    0.0,8.8
+     Hi everyone, my name is David and I'm a therapist here at So As Massage and Body Work.
+},
+{
+    8.8,14.4
+     I'm going to give you a quick tip on self care massage for headaches.
+},
+{
+    14.4,17.84
+     First off you can just get your fingertips and just kind of work them in a circle on
+},
+{
+    17.84,21.48
+     your forehead, around a circle all the way out to the edge.
+},
+{
+    21.48,26.0
+     Then move up your scalp, just kind of along your hair and all the way to the the edge. And then move up your scalp. Just kind of along your hair.
+},
+{
+    26.0,28.0
+     And all the way to the base of your skull.
+},
+{
+    29.64,32.24
+     Then out around your sides towards your temples.
+},
+{
+    33.88,35.72
+     And then you can get your thumbs.
+},
+{
+    35.72,39.92
+     And just kind of rest your head on them right where,
+},
+{
+    39.92,42.0
+     it's the sensitive spots right along
+},
+{
+    42.0,43.96
+     where your eyes meet your nose.
+},
+{
+    43.96,48.0
+     And just kind of let your head rest and move them in little circles back and forth.
+},
+{
+    48.0,52.0
+     Just move them outwards, slowly.
+},
+{
+    52.0,56.0
+     And you can focus on those little sensitive spots.
+},
+{
+    56.0,60.0
+     Once you do that, you can get those thumbs again, and you take your index fingers
+},
+{
+    60.0,67.0
+     and kind of pinch and pull them down all the way along your eyebrows.
+},
+{
+    67.0,74.0
+     And then next you get your fingers again and kind of do circles around your temples.
+},
+{
+    74.0,78.0
+     And then down past your ears.
+},
+{
+    78.0,82.0
+     And along your jawline, those be some sensitive spots.
+},
+{
+    82.0,83.0
+     You'll feel some bumps.
+},
+{
+    83.0,85.0
+     Let's go back and forth across them.
+},
+{
+    88.0,92.0
+     And then you can take your fingertips again around your nose and cheeks.
+},
+{
+    94.0,95.0
+     Little circles.
+},
+{
+    98.0,99.0
+     And then you can take your thumbs.
+},
+{
+    99.0,102.0
+     And you're going to want to stretch your jaw down as far as you can go.
+},
+{
+    102.0,105.76
+     So just put your thumbs on your jaw and kind of look upwards.
+},
+{
+    111.88,113.2
+     And that's it.
+},
+{
+    113.2,115.24
+     Thank you very much.
+},

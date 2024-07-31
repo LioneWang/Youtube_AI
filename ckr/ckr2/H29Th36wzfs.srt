@@ -1,0 +1,760 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    8.0,11.4
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    11.4,12.4
+     Brad Heineck, physical therapist.
+},
+{
+    12.4,14.4
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    14.4,15.9
+     In our opinion, of course, Bob.
+},
+{
+    15.9,20.52
+     Brad, today we're going to talk about absolute best growing pain, self-treatments, exercises
+},
+{
+    20.52,22.32
+     and stretches that you can do.
+},
+{
+    22.32,23.32
+     Guaranteed.
+},
+{
+    23.32,27.0
+     So that's quite a complex sentence, Bob. Let's get into it.
+},
+{
+    27.0,31.0
+     Today we're going to talk about this, where you get a common injury,
+},
+{
+    31.0,34.0
+     especially in football and soccer, especially soccer, I think,
+},
+{
+    34.0,36.0
+     when you're doing those cross passes.
+},
+{
+    36.0,38.0
+     Right, lateral motion.
+},
+{
+    38.0,41.0
+     So it's very, you know, pretty easy to diagnose a lot of times.
+},
+{
+    41.0,44.0
+     You're going to get any pain in the groin or in the inner thigh.
+},
+{
+    44.0,49.78
+     Right. There's some actually some pretty good sized muscles in here the groin muscles consist of what four muscles?
+},
+{
+    49.78,54.56
+     Yep, at least a Dr. Longus, a Dr. Brevis, Pectinius. Now in addition to
+},
+{
+    55.54,57.54
+     Bringing the legs in and across
+},
+{
+    57.74,60.28
+     They also flex the the hip, right?
+},
+{
+    60.28,64.84
+     So you may have some pain Brad when you lift your leg up like this, right?
+},
+{
+    68.08,73.04
+     You're going to have some pain when you stretch your leg out to the side Right, one of the good tell-tale signs is if you squeeze your legs together like if you put a fist
+},
+{
+    73.44,75.76
+     Squeeze your legs together and that hurts in that area
+},
+{
+    76.16,79.52
+     Pretty good sign that you pulled the muscle there and pulled the groin muscle
+},
+{
+    79.6,84.56
+     Now the primary job of the groin is to bring the leg to the midline or to the center
+},
+{
+    84.72,87.08
+     But they do stabilize they do some flexion
+},
+{
+    87.2,90.04
+     There's no muscle. It just goes one thing. Right, right
+},
+{
+    90.28,96.4
+     So there's usually third degrees of injury, three degrees of injury, third degree, three degrees of injury
+},
+{
+    96.84,100.44
+     And the third degree is where you actually tear the muscle
+},
+{
+    100.64,105.36
+     So in that instance my guess is you're going to be seeing orthopedic surgeon quite often
+},
+{
+    105.36,110.72
+     because it's complete tear. Very uncommon I wouldn't think that happens that much. Yeah we're going
+},
+{
+    110.72,115.2
+     to kind of put that to the side. So we're talking about the first degree or second degree tears.
+},
+{
+    116.64,120.24
+     The first thing you're going to want to do is you're going to ice. You're going to start by
+},
+{
+    120.24,126.34
+     icing. Yeah cold pack. Because it's not going to feel very good. You got one? Yeah, we got one right here.
+},
+{
+    126.34,128.38
+     And you may do that in a recliner, laying down
+},
+{
+    128.38,130.9
+     and get that cold pack in there and just relax for 20,
+},
+{
+    130.9,132.06
+     30 minutes.
+},
+{
+    132.06,134.54
+     Avoid things that irritate it, that make it hurt.
+},
+{
+    134.54,136.3
+     Yeah, we actually have an old video, Brad,
+},
+{
+    136.3,137.5
+     of how to make an ice pack.
+},
+{
+    137.5,138.38
+     I think I'll link that up.
+},
+{
+    138.38,139.3
+     Yeah, put it up there, Brad.
+},
+{
+    139.3,141.02
+     Because it's actually very helpful.
+},
+{
+    141.02,144.06
+     Right, because especially some of these are new people who
+},
+{
+    144.06,145.76
+     haven't watched this before
+},
+{
+    145.76,147.88
+     and realize that we have a lot of videos
+},
+{
+    147.88,149.88
+     that can help them stay safe, healthy, strong,
+},
+{
+    149.88,151.88
+     vibrant, et cetera, et cetera.
+},
+{
+    151.88,153.84
+     Which makes us beg you that if you're watching
+},
+{
+    153.84,155.96
+     for the first time, please take a second to go ahead
+},
+{
+    155.96,157.52
+     and hit the subscribe button,
+},
+{
+    157.52,159.12
+     because we upload every day.
+},
+{
+    159.12,160.6
+     Back to the old, the Dr. Muscle.
+},
+{
+    160.6,161.64
+     Okay, growing through.
+},
+{
+    161.64,163.24
+     So we started off with some ice
+},
+{
+    163.24,164.64
+     and you're actually gonna rest it too.
+},
+{
+    164.64,168.04
+     I mean, you can't be out there playing when you're injured this.
+},
+{
+    168.04,169.04
+     Right.
+},
+{
+    169.04,170.04
+     Sorry.
+},
+{
+    170.04,176.44
+     You know, you maybe can do some things that don't hurt and probably like walking, but
+},
+{
+    176.44,180.28
+     anything that's going to put stress on that muscle you can't be doing.
+},
+{
+    180.28,184.36
+     So then this is kind of the crux of the treatment Brad, is you're going to start off some cross
+},
+{
+    184.36,185.6
+     fiber friction massage
+},
+{
+    185.6,187.6
+     Sure, and
+},
+{
+    187.92,193.56
+     Ideally you'd like to do this in long stretches, but you probably won't be able to because your hands are going to fatigue
+},
+{
+    193.56,197.4
+     Right, but very simply what you're gonna do is you're gonna get yourself in a position where
+},
+{
+    199.0,202.68
+     I'm gonna go this way Brad actually, let's say this is my injured leg Brad
+},
+{
+    202.76,205.92
+     I'll put it up here and the injury is going to be quite
+},
+{
+    205.92,211.84
+     up near the groin quite often, in the musculoskeletal tendonous junction, it can be in the muscle
+},
+{
+    211.84,217.84
+     itself, it can be where the tendon attaches to the bone too, but most often it's at where
+},
+{
+    217.84,220.56
+     the tendon beats the muscle.
+},
+{
+    220.56,222.16
+     And you'll know because it's going to be the tender spot.
+},
+{
+    222.16,226.62
+     It's going to be the tender spot, that's all you need to look for. Where does it hurt?
+},
+{
+    226.62,229.56
+     You can take one finger on top of another two fingers together
+},
+{
+    229.56,234.08
+     Whatever which are we going to do and you're going to go in there and you're going to find this tender spot and you're going to rub
+},
+{
+    234.28,240.88
+     Up and down across the fibers. That's why it's called cross fiber. The fibers go lengthwise to the leg
+},
+{
+    240.88,244.64
+     We're going to cross them. And this is going to get more blood flow to the area
+},
+{
+    244.64,248.32
+     The other thing that's going to help with Brad as you know is it's going to help
+},
+{
+    248.96,252.48
+     take care of some of that scar tissue that's getting laid down. Break up that scar tissue so
+},
+{
+    252.48,256.64
+     that when it heals it heals healthy and strong. Right because when scar tissue is laid down it's
+},
+{
+    256.64,262.4
+     a laid down in an erratic fashion so it's kind of like chaos. Right. It's like a web. You're doing
+},
+{
+    262.4,265.68
+     wonderful words today Bob. Yeah, I'm trying to come up
+},
+{
+    270.08,272.08
+     All right, we better keep going so this is gonna help those fibers align now The problem like I said is you know
+},
+{
+    272.08,277.12
+     Syriac's who invented this and by the way, you're gonna push pretty hard breath. Yeah, there's a lot of muscle there
+},
+{
+    277.12,282.4
+     So you want to get deep you want to get really onto that and and ideally what you should feel after
+},
+{
+    282.96,289.0
+     30 seconds 40 seconds maybe a minute is that it actually starts to feel a little bit better or the pain levels out.
+},
+{
+    289.0,296.0
+     If you do this and it just hurts, hurts, hurts and gets worse, back off, ice for a while and then come back to it again.
+},
+{
+    296.0,297.0
+     Right, it's too early.
+},
+{
+    297.0,302.0
+     So, but they recommend, C-rex recommends 20 minutes, 2 times a week for 3 to 4 weeks.
+},
+{
+    302.0,303.0
+     Sure.
+},
+{
+    303.0,305.32
+     But most people can't do it, there's nobody
+},
+{
+    305.32,309.32
+     there. When you're doing that cross-fiction your fingers get tired, mine get tired after
+},
+{
+    309.32,313.36
+     about five minutes. And that's usually what I would say is five minutes you could do that
+},
+{
+    313.36,321.48
+     four times a week and you know it you can actually ice then afterwards if you fire it
+},
+{
+    321.48,328.88
+     up a little bit. Then what are we going to do? Well after that then after a few I'd say you know after the pain starts to come down
+},
+{
+    328.88,332.4
+     You're gonna want to start doing some strengthening and stretching to that area
+},
+{
+    332.96,337.12
+     One of the strengthening techniques you can do is just take a small ball
+},
+{
+    338.72,342.96
+     I'm having trouble saying that. Yeah here just use it. Okay. I don't know what you're talking about
+},
+{
+    342.96,346.0
+     You can do this laying down or you can do it sitting like this, Brad.
+},
+{
+    346.0,348.2
+     You can just gonna do some squeezes.
+},
+{
+    348.2,350.0
+     And they're gonna be gentle to start with.
+},
+{
+    350.0,350.84
+     Yeah.
+},
+{
+    350.84,352.32
+     If they shouldn't create any sharp pain,
+},
+{
+    352.32,354.96
+     maybe a little discomfort, like a good working pain.
+},
+{
+    354.96,355.8
+     Right.
+},
+{
+    355.8,357.68
+     Little, you know, you're bumping into the pain,
+},
+{
+    357.68,358.6
+     as we like to say.
+},
+{
+    358.6,361.52
+     10, 15 at the most is what I typically say.
+},
+{
+    361.52,363.16
+     Sure, start off with that.
+},
+{
+    363.16,365.94
+     And then eventually you can do like three sets of ten sure
+},
+{
+    365.94,370.82
+     Sure, give a little you know minute rest in between and you can work and rub that muscle a little bit
+},
+{
+    370.82,374.72
+     And then if you want to work some other parts of the fiber you can actually take a larger ball
+},
+{
+    376.02,379.56
+     You know and you could do the same thing here or again you could do a laying down
+},
+{
+    379.88,382.82
+     Right and start doing squeezes like this right again
+},
+{
+    382.82,385.6
+     It's getting some of the different fibers now because we're further upright.
+},
+{
+    385.6,388.88
+     The hips are more abducted so different fibers have to work.
+},
+{
+    388.88,392.56
+     And you can even go to the largest ball of all, the exercise ball.
+},
+{
+    392.56,395.72
+     For those athletic people who are getting full range of motion,
+},
+{
+    395.72,399.12
+     plastic, plain soccer, football, they're going to really work those legs.
+},
+{
+    399.12,401.28
+     And I would even start doing a little bit,
+},
+{
+    401.28,404.0
+     later on Brad, maybe do a little bit of dynamics.
+},
+{
+    404.0,405.82
+     Go ahead and squeeze and bring it up here. Now you get a little bit of you know, later on Brad maybe do a little bit of dynamics. Go ahead and squeeze and bring it up here.
+},
+{
+    405.82,411.48
+     Now you got a little bit of getting the hip flexors that it's I mean it's acting as a hip flexor and a hip adductor.
+},
+{
+    411.88,415.16
+     Absolutely. So this is a little more advanced. Okay, that's enough Bob.
+},
+{
+    417.56,420.0
+     Brad, try just to keep me on track. It's really difficult.
+},
+{
+    420.32,426.12
+     All right, if you don't have a ball one of the simple things you can start with is just laying on your side and doing hip adduction
+},
+{
+    426.12,430.76
+     Sure, sure. You want to do it? No, okay? I'll do it. I had something else on my mind
+},
+{
+    430.76,433.58
+     That's why I said no, I didn't want to miss going okay
+},
+{
+    433.68,438.6
+     So really just lay on your side got the other leg up and you're gonna just start doing some lifts like this
+},
+{
+    438.6,443.6
+     And this is this is one of those that looks a lot harder than it looks a lot easier than it is right
+},
+{
+    443.6,449.36
+     Yeah, I know I didn't say that right. I think I get that speech therapist. Yeah, you can do a little bit of hold when you bring it up
+},
+{
+    450.0,455.08
+     It's not hard for the first six and then it starts getting a little bit more difficult
+},
+{
+    455.08,459.52
+     Right, you have to understand I'm 56 years old though too. So I might not be a good example
+},
+{
+    459.52,464.36
+     He left the information out. I let it out. Yeah. All right. What about the stretch of the bob?
+},
+{
+    464.8,470.64
+     Do you yeah, we'll show the other the band? Oh, yeah, cuz that's a little more advanced
+},
+{
+    470.68,477.52
+     All right, the stretches that we're gonna want you to do before an event are different than what we want you to do after an event
+},
+{
+    477.88,479.88
+     Especially when you're in what we call
+},
+{
+    480.4,484.44
+     Sports where you need a lot of power and you know quick stop and start yeah
+},
+{
+    484.92,485.64
+     You want to
+},
+{
+    485.64,490.04
+     do dynamic stretching because if you stretch the fibers too much before an
+},
+{
+    490.04,496.12
+     event like that you actually take some of the power away. So very simple
+},
+{
+    496.12,502.84
+     what you're gonna do, I'll give Lonnie a second to adjust the camera. This is my
+},
+{
+    502.84,505.62
+     involved leg. You're gonna do it on both sides but you're going
+},
+{
+    505.62,509.46
+     to do some swings like this and I think you've seen people doing this right Brad?
+},
+{
+    509.46,512.08
+     I think in a lot of sports these are very common.
+},
+{
+    512.08,513.08
+     Right.
+},
+{
+    513.08,517.84
+     And the leg is relaxed, you're just getting the muscles to stretch and relax at the same
+},
+{
+    517.84,518.84
+     time.
+},
+{
+    518.84,521.48
+     So you can go straight back and you can also turn your foot this way a little bit because
+},
+{
+    521.48,524.98
+     it starts getting a little bit of, but the other one you're going to want to do is actually
+},
+{
+    524.98,526.84
+     going back and forth like this.
+},
+{
+    526.84,528.64
+     This is one where if you're up against a wall
+},
+{
+    528.64,530.92
+     in front of you is the way I kinda like to do it,
+},
+{
+    530.92,533.72
+     then you're swinging this way if the wall is here,
+},
+{
+    533.72,536.96
+     use your imagination there, let that leg relax.
+},
+{
+    536.96,539.96
+     And obviously, you wanna, don't take it to the point
+},
+{
+    539.96,541.48
+     where you're actually injuring things,
+},
+{
+    541.48,547.44
+     but start off with small spans, oscill oscillations and then work to larger ones
+},
+{
+    548.08,551.76
+     Yeah, use good judgment. You remember you got to injure muscle there
+},
+{
+    551.76,557.32
+     You don't want to re-injure it by doing too aggressive of a warm-up now in the evenings then you can do static stretches
+},
+{
+    557.32,561.12
+     That's where you can do a stretch where you can go ahead and you know go ahead
+},
+{
+    561.8,565.66
+     Well, I'm gonna show this one Brad. Give me a pillow. Yeah, this is a good one to do
+},
+{
+    565.66,568.54
+     You're gonna put your knee down your down Lonnie
+},
+{
+    569.36,571.36
+     I'm stretching this side
+},
+{
+    571.74,573.78
+     I'm gonna bring the foot out like this and
+},
+{
+    574.96,576.96
+     This chair is in the way Brad
+},
+{
+    578.32,580.32
+     I'll come over here more
+},
+{
+    580.88,588.1
+     So it happens when you're six and a half foot tall, you need a big room So I'm starting with the toe forward first for 30 seconds
+},
+{
+    588.1,588.6
+     Sure
+},
+{
+    588.6,596.0
+     Okay, and then I'm gonna put the toe at a 45 degree angle Brad. Yeah, so we're talking about this right here
+},
+{
+    596.0,598.0
+     So straightforward
+},
+{
+    598.0,601.32
+     45 and then you're gonna go up to 90 for the last 30 seconds
+},
+{
+    601.32,607.0
+     And what that's doing is that's rotating the hip where these muscles connect where we're getting a stretch in the hip as well
+},
+{
+    607.0,611.0
+     again one of those things that looks looks mini-skill but it can be real
+},
+{
+    611.0,614.16
+     helpful. Right this is just a good stretch you want to have good posture right
+},
+{
+    614.16,618.48
+     you want to don't want to be leaning this way or this way sure and when we
+},
+{
+    618.48,625.48
+     finish off Brad what with that dynamic strengthening oh yeah with the band. This is a if you can use some
+},
+{
+    625.96,627.96
+     Thera-tubing you get a wrist
+},
+{
+    629.6,637.0
+     Or foot strap foot strap ankle strap and with this I will start how we doing on you can you
+},
+{
+    638.36,640.36
+     Yeah, that's fine if you just that's all you're yeah
+},
+{
+    640.36,642.72
+     We don't they don't want to see my face and that anyways
+},
+{
+    643.04,646.32
+     So you see the resistance, I vary the resistance
+},
+{
+    646.32,651.36
+     obviously by how far I walk way or by the color of the band, but I'm going to go in flexion
+},
+{
+    652.48,659.36
+     Then I can turn 90 degrees and here we're going right directly at those hip abductors that growing muscles working directly right now
+},
+{
+    659.72,662.6
+     Don't overwork it when it gets fatigued stop
+},
+{
+    662.88,666.8
+     But you know and you could go all four directions you could work this way
+},
+{
+    667.6,671.04
+     Certainly not going to hurt you that's certainly that's going to be good for your hip overall
+},
+{
+    671.6,677.04
+     Exactly and this way and it's good for your balance. It's one of those things like Bob mentioned
+},
+{
+    677.04,682.8
+     This is getting you ready for the activity again. It's that right before you're going to go out and do the real thing
+},
+{
+    683.12,685.12
+     Exactly so thanks for watching.
+},
+{
+    685.12,685.62
+     All right.
+},

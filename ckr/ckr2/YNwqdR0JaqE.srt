@@ -1,0 +1,48 @@
+{
+    0.0,8.44
+     Cuts and scrapes are a part of childhood. In most cases, they are not serious and can
+},
+{
+    8.44,14.16
+     be treated at home. If the wound is bleeding, press sterogaz or a clean cloth firmly on
+},
+{
+    14.16,19.7
+     it until the bleeding stops. Hold the area under cool, gentle running water. You can
+},
+{
+    19.7,27.0
+     also use bottled water or saline wound spray. Remove any debris by rubbing gently with a clean cloth
+},
+{
+    27.0,29.4
+     or use clean tweezers.
+},
+{
+    29.4,33.08
+     Don't apply any disinfecting solutions to the wound.
+},
+{
+    33.08,36.08
+     They don't help and will only cause pain.
+},
+{
+    36.08,40.0
+     Use a bandage to cover the wound until a scab has formed.
+},
+{
+    40.0,42.96
+     Change the dressing every day or more often
+},
+{
+    42.96,45.28
+     if it gets wet or dirty.
+},
+{
+    45.28,50.56
+     Once a cut or scrape has formed a scab, you can leave it open to the air.
+},
+{
+    50.56,55.0
+     If the scrape is in an area that is likely to get irritated or dirty, keep it covered.
+},

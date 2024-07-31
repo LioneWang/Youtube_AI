@@ -1,0 +1,36 @@
+{
+    0.0,38.12
+     In this video you'll learn to administer fast aid for a chest wound. it's serious.
+},
+{
+    38.12,42.96
+     Call the emergency services immediately.
+},
+{
+    42.96,46.56
+     Place the casualty in a comfortable position.
+},
+{
+    46.56,52.68
+     They can be encouraged to adopt a half sitting position if this aids breathing.
+},
+{
+    52.68,58.68
+     If it is an open wound, apply a dressing using sterile gauze pads, taped on three sides only,
+},
+{
+    58.68,63.24
+     and leaving the fourth open.
+},
+{
+    63.24,69.0
+     If gauze pads are not available, use clean cloth.
+},
+{
+    69.0,74.0
+     If there's a foreign object in the wound, do not try to remove it.
+},
+{
+    74.0,None
+     If the wound is bleeding profusely, apply pressure on the dressing to stem the flow. Cover the casualty. you
+},

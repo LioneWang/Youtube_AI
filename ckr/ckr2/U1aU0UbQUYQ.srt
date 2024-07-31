@@ -1,0 +1,360 @@
+{
+    0.0,15.04
+     Would you like to know what options you have if you're unable to use your inhaler or if
+},
+{
+    15.04,16.4
+     your asthma symptoms get worse?
+},
+{
+    16.4,17.4
+     Sure.
+},
+{
+    17.4,20.28
+     One of the things that you may need to use is a nebulizer.
+},
+{
+    20.28,22.28
+     A lot of times the inhaler is much more convenient.
+},
+{
+    22.28,25.94
+     The nebulizer will take a little bit longer, but what it does is it delivers the medication
+},
+{
+    25.94,28.4
+     over 10 to 15 minutes.
+},
+{
+    28.4,32.64
+     And if you're having really severe symptoms, you may not be able to concentrate to do the
+},
+{
+    32.64,36.2
+     proper procedure for the inhaler, which we've talked about before.
+},
+{
+    36.2,40.32
+     This allows you to get that medication if you're in really, really bad asthma attack.
+},
+{
+    40.32,42.56
+     With this, there's two options that you can use.
+},
+{
+    42.56,46.64
+     There's a mouthpiece or a mask, which we do for little kids,
+},
+{
+    46.64,49.52
+     or if somebody is older and can't hold the mouthpiece.
+},
+{
+    49.52,51.24
+     But for most people, the mouthpiece
+},
+{
+    51.24,52.4
+     is gonna be the best option,
+},
+{
+    52.4,54.24
+     because you're gonna get the medicine down into your lungs
+},
+{
+    54.24,55.68
+     instead of into your nose.
+},
+{
+    55.68,57.48
+     The mask, if you do have to use a mask,
+},
+{
+    57.48,59.68
+     make sure that you do still breathe through your nose,
+},
+{
+    59.68,60.84
+     or in through your mouth,
+},
+{
+    60.84,62.92
+     to get the medicine down into your lungs.
+},
+{
+    62.92,64.04
+     And again, it's beneficial,
+},
+{
+    64.04,65.32
+     because if you're really,
+},
+{
+    65.32,67.4
+     really tight when you take that inhaler,
+},
+{
+    67.4,69.16
+     the first dose of medication is only gonna get
+},
+{
+    69.16,70.6
+     to those larger airways.
+},
+{
+    70.6,72.88
+     And then if you wait a couple minutes in between,
+},
+{
+    72.88,74.46
+     the next dose might not get deep enough.
+},
+{
+    74.46,75.96
+     So taking the inhaler over 10,
+},
+{
+    75.96,78.76
+     or the nebulizer over 10 minutes will let you get
+},
+{
+    78.76,80.8
+     more of the medicine, really open you up,
+},
+{
+    80.8,82.92
+     really make you start to feel better.
+},
+{
+    82.92,84.94
+     So as far as how to use this,
+},
+{
+    84.94,87.48
+     there's a few pieces of equipment that you're gonna need.
+},
+{
+    87.48,88.4
+     One of the things you're gonna need
+},
+{
+    88.4,90.2
+     is a handheld nebulizer device.
+},
+{
+    90.2,92.86
+     They come in all different kinds of varieties.
+},
+{
+    92.86,94.36
+     Different companies make them.
+},
+{
+    95.4,97.66
+     So they're all gonna have similar parts.
+},
+{
+    97.66,99.24
+     They're all gonna have a medicine cup,
+},
+{
+    99.24,101.24
+     the mouthpiece or the option for a mask,
+},
+{
+    102.28,103.92
+     the nebulizer tubing,
+},
+{
+    103.92,106.24
+     which is what you're gonna hook up to the compressor.
+},
+{
+    106.24,112.8
+     So the compressor generally plugs into an electrical outlet, but they do make ones that have an adapter
+},
+{
+    112.8,117.28
+     that you can use in your car, and some of them also have a battery. So if you're, you know,
+},
+{
+    117.28,121.52
+     into camping or going out and do stuff where you might not have the option of plugging it in,
+},
+{
+    121.52,129.8
+     the batteries are going to be there for you. This is just a tabletop one, so it just uses the regular outlet. But it's important to
+},
+{
+    129.8,133.2
+     remember that if you have one of the devices that has a battery, make sure
+},
+{
+    133.2,135.92
+     you check the battery because the last thing you want to worry about when
+},
+{
+    135.92,139.6
+     you're out and about is that your battery has died and now you can't get your
+},
+{
+    139.6,144.04
+     medicine. So always make sure you double check that. To use the nebulizer, it's
+},
+{
+    144.04,145.38
+     very simple.
+},
+{
+    145.38,150.22
+     It's going to come in pieces and you just basically assemble it all together.
+},
+{
+    150.22,155.78
+     You attach the tubing to the compressor wherever the nozzle is.
+},
+{
+    155.78,161.02
+     And then the liquid medications will come in these little foil pouches.
+},
+{
+    161.02,163.38
+     Sometimes it will come with five of them in one pouch.
+},
+{
+    163.38,170.24
+     And then you can just keep those. And they're typically a pre-measured medication that also has saline in it. If
+},
+{
+    170.24,174.28
+     your doctor orders you a different medicine, it may come in a separate bottle, in which
+},
+{
+    174.28,177.88
+     case you'd have to put the bottle medicine in and then add saline to it. These are just
+},
+{
+    177.88,182.2
+     much more convenient. So it makes it nice and easy for you to use. So once you have all
+},
+{
+    182.2,186.76
+     of your equipment ready, the next step will be to put your medication in
+},
+{
+    186.76,189.0
+     and these just twist off nice and easy.
+},
+{
+    189.0,190.12
+     You squirt it in there.
+},
+{
+    192.88,194.68
+     Attach your mouthpiece
+},
+{
+    194.68,196.24
+     and then you're gonna turn the device on.
+},
+{
+    196.24,198.36
+     And when you turn it on, you're gonna see a mist
+},
+{
+    198.36,200.16
+     that starts to come out of the end of the tubing.
+},
+{
+    200.16,201.8
+     You also see come out of the mouthpiece.
+},
+{
+    201.8,203.4
+     So to take the treatment,
+},
+{
+    203.4,206.0
+     what you do is make a nice tight seal on the mouthpiece and just
+},
+{
+    206.0,209.56
+     nice slow easy breathing in and out.
+},
+{
+    209.56,213.6
+     Every couple breaths, take it a little bit deeper breath and hold it for about three
+},
+{
+    213.6,215.2
+     to five seconds.
+},
+{
+    215.2,218.92
+     That lets that medicine really deposit that into your lungs so that it can really help
+},
+{
+    218.92,220.8
+     you breathe and open you up.
+},
+{
+    220.8,224.56
+     If you start to feel dizzy or lightheaded while you're taking this, just slow your breathing
+},
+{
+    224.56,225.0
+     down.
+},
+{
+    225.0,230.0
+     It's common for people while they're using this device to breathe a little too fast.
+},
+{
+    230.0,233.0
+     And when that happens, you'll hyperventilate and it can make you dizzy.
+},
+{
+    233.0,240.0
+     But like I said, real simple, you just slow down your breathing and then continue to breathe for the 10 to 15 minutes that it takes to get your treatment.
+},
+{
+    240.0,244.0
+     When it's getting towards the end of the medicine, it'll actually start to make a sputtering sound.
+},
+{
+    244.0,248.08
+     And in that case, you can just kind of tap the sides of it a little bit to get all that medicine
+},
+{
+    248.08,253.04
+     down. Once the mist has stopped appearing, that means that the medication is gone and your treatment
+},
+{
+    253.04,258.48
+     is finished. So you would just turn your compressor off. And then if there's any residual liquid
+},
+{
+    258.48,263.36
+     medication, then you can just dump it out and then maintain the equipment by just rinsing it
+},
+{
+    263.36,268.52
+     and then just letting it air dry. So it's pretty simple. Really important to remember though with this that it has
+},
+{
+    268.52,274.16
+     to be kept upright. If you lay down or lean back and tilt this, the medication
+},
+{
+    274.16,277.16
+     is not going to hit that part where it needs to actually create a mist. So you
+},
+{
+    277.16,280.36
+     always have to make sure that you keep it upright.
+},
+{
+    281.16,286.56
+     Visit Breed Pennsylvania's website for more information on programs and services.
+},

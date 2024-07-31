@@ -1,0 +1,44 @@
+{
+    0.0,7.04
+     Hello, this is a video about how to take your temperature.
+},
+{
+    7.04,15.6
+     Make sure you wait 15 minutes after drinking, eating, or smoking before you use the thermometer.
+},
+{
+    15.6,18.08
+     The first step is to wash your hands.
+},
+{
+    18.08,31.64
+     This is the best way to prevent the spread of infection. Take the thermometer out of the case. Clean the thermometer with warm
+},
+{
+    31.64,46.0
+     soapy water or rubbing alcohol. Push the button once to turn it on. The number that appears is the last temperature the thermometer took.
+},
+{
+    46.0,53.0
+     When the thermometer reads low, it's ready to take your temperature.
+},
+{
+    53.0,59.0
+     Place the silver end of the thermometer under your tongue and close your lips.
+},
+{
+    59.0,65.0
+     Try to keep your mouth and the thermometer still until it beeps.
+},
+{
+    69.0,75.0
+     Write down the number or take a picture of the number to tell your healthcare provider when you talk to them.
+},
+{
+    76.0,80.0
+     Do not use this thermometer rectally or under your arm.
+},
+{
+    93.48,98.4
+     A temperature of 100.4 degrees Fahrenheit or 38.0 degrees Celsius or more is a fever. Clean the thermometer again and once again wash your hands.
+},

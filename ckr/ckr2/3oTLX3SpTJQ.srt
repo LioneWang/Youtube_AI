@@ -1,0 +1,236 @@
+{
+    0.0,24.64
+     Hi, my name is Dr. David Kwan and I'm here to teach you about blood clots and what you
+},
+{
+    24.64,29.08
+     can do to prevent them from occurring here in the hospital.
+},
+{
+    29.08,34.64
+     Blood clots consist of deep vein thrombosis, DVT, clots found in the legs, and pulmonary
+},
+{
+    34.64,39.12
+     embolism, PE, clots found in the lungs.
+},
+{
+    39.12,47.42
+     For the sake of this video, we will refer to DVT as leg clots and PE as lung clots.
+},
+{
+    47.42,51.38
+     Blood clots found in the legs can form in shallow or deep veins.
+},
+{
+    51.38,56.72
+     The good news is leg clots are preventable and treatable if discovered early.
+},
+{
+    56.72,61.12
+     Blood clots in the lung are a clot that travels to the lung from another location, usually
+},
+{
+    61.12,62.52
+     the leg.
+},
+{
+    62.52,65.84
+     If the clot is small, with treatment, people can recover
+},
+{
+    65.84,71.22
+     from a lung clot. A clot in the lung is a serious life-threatening complication
+},
+{
+    71.22,77.4
+     that can be fatal. All patients in the hospital are at risk for developing
+},
+{
+    77.4,81.28
+     blood clots. However, they can be prevented when patients and the health
+},
+{
+    81.28,87.3
+     care team work together. Remember, prevention is the key.
+},
+{
+    87.3,88.54
+     Based on your risk factors,
+},
+{
+    88.54,91.78
+     your doctor will tell you what to do before and after surgery
+},
+{
+    91.78,93.3
+     to prevent blood clots.
+},
+{
+    95.64,99.34
+     Walking, it is important to walk while you're in the hospital
+},
+{
+    99.34,100.58
+     because when you walk,
+},
+{
+    100.58,103.74
+     your blood does not sit still long enough to clot.
+},
+{
+    103.74,110.82
+     So get up and walk in the hallway every two to three hours if you are able. If not, do the leg exercises provided
+},
+{
+    110.82,115.72
+     by the staff while you are sitting in a chair.
+},
+{
+    115.72,121.2
+     Leg machines or sequential compression devices are mechanical devices placed on your lower
+},
+{
+    121.2,125.56
+     legs. They massage your legs to keep the blood flowing when you are not moving.
+},
+{
+    125.56,128.0
+     It is really important to wear them at all times
+},
+{
+    128.0,129.76
+     when you are not up and walking.
+},
+{
+    130.84,131.8
+     Medication.
+},
+{
+    132.8,134.64
+     There are several medications available
+},
+{
+    134.64,137.04
+     to prevent you from developing a blood clot.
+},
+{
+    138.84,141.28
+     Based on your risk factors or health condition,
+},
+{
+    141.28,143.64
+     your doctor will prescribe an appropriate treatment
+},
+{
+    143.64,149.68
+     which consists of a shot under the skin or a pill.
+},
+{
+    149.68,153.5
+     If you actually develop a blood clot while in the hospital, your medical team will put
+},
+{
+    153.5,160.5
+     you on a continuous medication through the IV to help dissolve the blood clot.
+},
+{
+    160.5,163.44
+     Risk factors for blood clots.
+},
+{
+    163.44,166.0
+     Not moving for a long period of time.
+},
+{
+    166.0,168.0
+     Severe illness.
+},
+{
+    168.0,171.0
+     Cancer and cancer treatment.
+},
+{
+    171.0,172.0
+     Smoking.
+},
+{
+    172.0,174.0
+     Pregnancy.
+},
+{
+    174.0,176.0
+     Being overweight.
+},
+{
+    176.0,178.0
+     Heart disease.
+},
+{
+    178.0,181.0
+     Recent trauma like broken bones or an auto accident.
+},
+{
+    181.0,183.0
+     Recent surgery.
+},
+{
+    183.0,188.44
+     Or a previous blood clot or a lung clot.
+},
+{
+    188.44,191.16
+     These are not all the risk factors for blood clots.
+},
+{
+    191.16,195.0
+     Make sure you talk to your doctor about your personal and medical history.
+},
+{
+    195.0,208.0
+     Also, make sure to tell your doctor if you've ever had a blood clot include tenderness, swelling, redness, or pain in the leg.
+},
+{
+    210.0,216.0
+     Most people with a leg clot have no signs or symptoms. For this reason, prevention is very important.
+},
+{
+    217.0,218.0
+     Signs of a lung clot.
+},
+{
+    219.0,222.0
+     Unexpected shortness of breath or difficulty breathing.
+},
+{
+    223.0,224.0
+     Chest pain.
+},
+{
+    229.12,234.0
+     Anxiety. Sweating. a breath or difficulty breathing. Chest pain, anxiety, sweating, coughing up blood. The diagnosis of a blood clot requires special tests that can only be performed
+},
+{
+    234.0,238.4
+     by your medical team. If you experience any of these symptoms while you're in
+},
+{
+    238.4,243.36
+     the hospital, notify your medical team as soon as possible. See your doctor or go
+},
+{
+    243.36,245.12
+     to the nearest emergency room if
+},
+{
+    245.12,249.8
+     you experience any of these signs or symptoms while at home. By working
+},
+{
+    249.8,254.24
+     together we can prevent these blood cuts from occurring. Prevention is key and
+},
+{
+    254.24,257.24
+     together we can.
+},

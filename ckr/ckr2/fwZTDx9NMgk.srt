@@ -1,0 +1,796 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    12.0,14.0
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    14.0,15.0
+     Brad Heineck, physical therapist.
+},
+{
+    15.0,17.0
+     We are the most famous physical therapists on the internet.
+},
+{
+    17.0,18.0
+     In our opinion, of course, Bob.
+},
+{
+    18.0,22.0
+     Today we're going to talk about extreme shoulder pain and arm pain gone instantly.
+},
+{
+    22.0,25.8
+     Now we're talking about shoulder and arm pain coming from the neck.
+},
+{
+    25.8,28.68
+     Right, exactly Bob, which is not unusual.
+},
+{
+    28.68,30.48
+     Right, not unusual, a lot of times you do get
+},
+{
+    30.48,31.44
+     the symptoms all the way down.
+},
+{
+    31.44,33.08
+     But by the way, if you're new to our channel,
+},
+{
+    33.08,34.72
+     please take a second to subscribe to us.
+},
+{
+    34.72,37.08
+     We provide videos on how to stay healthy, fit, pain-free,
+},
+{
+    37.08,38.52
+     and we upload every day.
+},
+{
+    38.52,39.84
+     And yes, you're gonna wanna join us
+},
+{
+    39.84,41.08
+     on our social media channels
+},
+{
+    41.08,43.12
+     because we're always giving something away.
+},
+{
+    43.12,44.16
+     Right, Brad?
+},
+{
+    44.16,49.6
+     Yeah, we're giving away the Renpo Hand Massager, cordless massager. I'm not sure what you call it. So
+},
+{
+    49.6,54.96
+     it's cordless, but not handless. Anyways, it works nicely. It's great for getting some
+},
+{
+    54.96,61.7
+     muscle tissue reciprocates handheld massage. Yeah. Anyways, where can they get it? Go to
+},
+{
+    61.7,67.0
+     BobandBrad.com go to the giveaway section or go to Bob and Brad on Facebook, and like us.
+},
+{
+    67.0,68.24
+     There you go.
+},
+{
+    68.24,69.08
+     Okay.
+},
+{
+    69.08,73.96
+     All right, so symptoms in the shoulder and on the arm
+},
+{
+    73.96,77.76
+     can often be a result of a pinched nerve in the neck.
+},
+{
+    77.76,80.6
+     And those are the cases that we're talking about
+},
+{
+    80.6,83.92
+     where you can get some immediate relief.
+},
+{
+    83.92,84.76
+     We could do the right thing.
+},
+{
+    84.76,86.6
+     Right, we've got three options. That doesn't mean you're going get some immediate relief. We've got three options.
+},
+{
+    86.6,89.2
+     That doesn't mean you're going to get immediate relief
+},
+{
+    89.2,90.64
+     with one of these three, but it can.
+},
+{
+    90.64,93.08
+     And as a therapist, when this happens,
+},
+{
+    93.08,95.32
+     the patients absolutely love you.
+},
+{
+    95.32,97.12
+     And they say, how did you do that?
+},
+{
+    97.12,98.72
+     That's a good day.
+},
+{
+    98.72,100.72
+     Right, so we're gonna show you some secrets
+},
+{
+    100.72,102.96
+     that therapists know to help with these things.
+},
+{
+    102.96,104.0
+     It's a miracle in the clinic.
+},
+{
+    104.0,105.16
+     Yes, it is.
+},
+{
+    105.16,108.92
+     So the first one, okay, should we talk with just a little bit?
+},
+{
+    108.92,110.24
+     Why don't you sit down, Bob?
+},
+{
+    110.24,111.08
+     Sure.
+},
+{
+    112.12,113.76
+     Look at that, I just said why don't you sit down
+},
+{
+    113.76,115.48
+     and you immediately did it.
+},
+{
+    115.48,117.24
+     Do you act like that for your wife too, I bet.
+},
+{
+    117.24,119.12
+     Oh, I do, I listen to everybody.
+},
+{
+    119.12,120.84
+     So let's turn you this way.
+},
+{
+    120.84,121.68
+     Sure.
+},
+{
+    121.68,127.26
+     So the lower part of the neck is where some nerves come out and they go down through the
+},
+{
+    127.26,129.46
+     shoulders, down the arm, all the way to the hand.
+},
+{
+    129.46,136.14
+     And this is the area where if a nerve can get pinched, you'll get pain, numbness, tingling,
+},
+{
+    136.14,140.1
+     symptoms down in the shoulder, all the way down into the hand.
+},
+{
+    140.1,145.76
+     And this is one of the things, as I'm doing my screening, I'll check the cervical area,
+},
+{
+    145.76,148.4
+     and the first thing I'll do is I'll put
+},
+{
+    148.4,151.44
+     a real gentle pressure down on the head.
+},
+{
+    151.44,154.96
+     If they say, oh, that doesn't make anything feel any better,
+},
+{
+    154.96,156.32
+     I quit doing it immediately.
+},
+{
+    156.32,157.52
+     I don't push hard.
+},
+{
+    157.52,158.68
+     It might even make it worse.
+},
+{
+    158.68,159.52
+     Right.
+},
+{
+    159.52,161.08
+     Because you're squishing everything together,
+},
+{
+    161.08,162.32
+     and if the nerve's getting pinched,
+},
+{
+    162.32,164.0
+     it could be getting pinched even worse.
+},
+{
+    164.0,165.6
+     Pinched worse. Right.
+},
+{
+    165.6,166.96
+     So I'll have the person sit up tall.
+},
+{
+    166.96,172.32
+     I'll take my hand like this, go underneath the jaw, say Bob can you put your teeth together
+},
+{
+    172.32,176.4
+     gently so that we have a good solid mandible foundation.
+},
+{
+    176.4,180.56
+     This hand's going to go under the axoput, the bump right here and I'm just going to
+},
+{
+    180.56,183.6
+     gently pull up, up, up.
+},
+{
+    183.6,185.18
+     I'll hold it for a few seconds.
+},
+{
+    185.18,187.9
+     I'm gonna go down, ask what the results are.
+},
+{
+    187.9,190.58
+     Now this is where when the pressure is going on,
+},
+{
+    190.58,192.58
+     they'll say, patient will say,
+},
+{
+    192.58,194.22
+     boy, when the pressure is on,
+},
+{
+    194.22,195.74
+     my arms start feeling better.
+},
+{
+    195.74,197.82
+     It'll happen just like that.
+},
+{
+    197.82,199.46
+     Not always, but when it does,
+},
+{
+    199.46,200.74
+     then you know you're on to something.
+},
+{
+    200.74,202.7
+     Your traction is probably gonna be
+},
+{
+    202.7,204.62
+     a great option for treatment.
+},
+{
+    204.62,208.68
+     So then we've got another one laying down and also there's some other options.
+},
+{
+    208.68,213.2
+     But I'm going to go to what I'll do next.
+},
+{
+    213.2,214.56
+     Cervical extension?
+},
+{
+    214.56,219.12
+     Cervical extension is a McKenzie technique, Rob and the McKenzie therapist who's really
+},
+{
+    219.12,228.64
+     done a lot with therapy and this is one of his techniques. I'll take a towel roll and put it there for support.
+},
+{
+    230.76,233.96
+     And Bob, you wanna lean back up against the chair
+},
+{
+    233.96,236.32
+     and we may do a gentle chin tuck
+},
+{
+    236.32,238.48
+     and I'll say, support in your neck.
+},
+{
+    238.48,240.92
+     See how far back you can look.
+},
+{
+    240.92,242.4
+     So I'm gonna pull down a little bit.
+},
+{
+    242.4,244.36
+     Yup, give a little support there.
+},
+{
+    244.36,246.08
+     And I'm gonna start to work my way back.
+},
+{
+    246.08,247.72
+     Now I may only get so far.
+},
+{
+    247.72,248.56
+     Right.
+},
+{
+    248.56,250.52
+     And it might start making the pain worse.
+},
+{
+    250.52,251.36
+     That's fine.
+},
+{
+    251.36,252.2
+     Right.
+},
+{
+    252.2,254.52
+     You know, work in the area that allows you to work.
+},
+{
+    254.52,257.96
+     If it lets you go this far, do repeated ones
+},
+{
+    257.96,259.9
+     just in this range.
+},
+{
+    259.9,262.28
+     And this might be the first day, that's all you can do.
+},
+{
+    262.28,263.12
+     Sure.
+},
+{
+    264.08,265.96
+     And then eventually hopefully you can start going
+},
+{
+    265.96,266.96
+     further and further.
+},
+{
+    266.96,270.08
+     You wanna be able to get as far back as you can.
+},
+{
+    270.08,272.32
+     That's generally when the magic happens,
+},
+{
+    272.32,273.6
+     as McKenzie says.
+},
+{
+    273.6,276.68
+     But I have had it on the first day, the first session,
+},
+{
+    276.68,278.88
+     I'll have the person go like this,
+},
+{
+    278.88,280.52
+     and the first time it kinda hurts,
+},
+{
+    280.52,283.08
+     and they'll repeat it three or four times,
+},
+{
+    283.08,285.8
+     and all of a sudden they see my arms starting to feel better. If that's the case, then I say, let's repeat it more and they'll repeat it three or four times and all of a sudden they see my arms starting to feel better.
+},
+{
+    285.8,287.52
+     If that's the case, then I say,
+},
+{
+    287.52,289.08
+     let's repeat it more and more.
+},
+{
+    289.08,292.08
+     We may do up to 10 or 15 repetitions
+},
+{
+    292.08,294.0
+     and if the neck starts to go back farther,
+},
+{
+    294.0,297.76
+     like Bob is showing and the arm is clearly getting better
+},
+{
+    297.76,299.72
+     and if you say the patient will say,
+},
+{
+    299.72,301.48
+     boy, my fingers feel good now.
+},
+{
+    301.48,305.92
+     All the way up into my elbow, then that's the really-
+},
+{
+    305.92,307.68
+     One thing I tend to do Brad is,
+},
+{
+    307.68,310.32
+     because let's say this is the bad arm,
+},
+{
+    310.32,314.36
+     I'll grab with just one arm, one arm, the towel too.
+},
+{
+    314.36,316.36
+     So this one's not having to do the work.
+},
+{
+    316.36,319.6
+     Yeah, because I can kind of mask the symptoms a little bit.
+},
+{
+    319.6,321.36
+     So I'll do this.
+},
+{
+    321.36,324.8
+     Sometimes I'll even do this.
+},
+{
+    324.8,326.4
+     I'll pull up like this and go,
+},
+{
+    326.4,328.4
+     that's gonna throw my mic off.
+},
+{
+    328.4,331.44
+     As a therapist sometimes, if things are going really well
+},
+{
+    331.44,334.28
+     and they say, I say, well, maybe it'll work better
+},
+{
+    334.28,336.32
+     if I'm holding onto this event.
+},
+{
+    336.32,337.16
+     I've done that too.
+},
+{
+    337.16,338.32
+     And I'll do this.
+},
+{
+    338.32,340.52
+     I don't recommend anybody at home doing that.
+},
+{
+    340.52,342.64
+     That's just something that you need to be trained,
+},
+{
+    342.64,344.12
+     you need some experience.
+},
+{
+    344.12,345.44
+     However,
+},
+{
+    350.72,351.36
+     and then the next one, if I'm going to go, I went back to this before, if the cervical traction
+},
+{
+    356.48,359.28
+     shows some immediate relief in the arm, then I might have the person lay down on the table
+},
+{
+    366.04,370.52
+     and sometimes just changing position like this, getting the weight of the head going through the neck, the arm will feel better just from the position change.
+},
+{
+    370.52,373.04
+     And it may or may not.
+},
+{
+    373.04,376.16
+     What I'm gonna do now is same thing as before.
+},
+{
+    376.16,379.12
+     Seated cervical traction, I'm gonna do supine
+},
+{
+    379.12,381.48
+     or laying on your back cervical traction.
+},
+{
+    381.48,387.94
+     And I'm gonna do that by putting my hand right here Again under that accident that's the big bone right above your neck
+},
+{
+    387.94,393.76
+     And then Bob is gonna close his teeth gently and I'm gonna come here and very gently
+},
+{
+    394.48,398.84
+     Pull some traction and what I say is because it's hard to talk when I'm doing this
+},
+{
+    399.16,405.54
+     Bob if you have any problems and things are painful, just wave your hand or kind of say,
+},
+{
+    405.54,409.56
+     hmm, yeah, thumbs are up if things are going good.
+},
+{
+    409.56,412.92
+     So if I do this and I hold it for five or 10 seconds
+},
+{
+    412.92,416.44
+     and thumbs are up, then I'm gonna hold it up to 30 seconds
+},
+{
+    416.44,418.48
+     as long as thumb stays up.
+},
+{
+    418.48,420.36
+     And then I'm gonna take it off
+},
+{
+    420.36,424.16
+     and I'm only gonna do that again if thumb stays up
+},
+{
+    424.16,426.72
+     and I'll say, Bob, how does your arm feel now?
+},
+{
+    426.72,427.64
+     It feels better.
+},
+{
+    427.64,429.16
+     And then I'll wait a couple of minutes.
+},
+{
+    429.16,430.22
+     Does it still feel better?
+},
+{
+    430.22,433.28
+     If it still feels better, then I may repeat that.
+},
+{
+    433.28,436.92
+     Only doing it if it's clearly making the arm feel better.
+},
+{
+    436.92,439.78
+     Again, sometimes that happens just like that.
+},
+{
+    439.78,441.32
+     Other times there are some other options
+},
+{
+    441.32,443.24
+     that the therapist has to work with.
+},
+{
+    443.24,445.08
+     And when I do this, Brad,
+},
+{
+    445.08,448.56
+     my idea here is eventually we want to get to the extension.
+},
+{
+    448.56,449.4
+     Right.
+},
+{
+    449.4,453.12
+     I mean, I do this, especially maybe if the extension
+},
+{
+    453.12,455.44
+     is not working, right away to start off.
+},
+{
+    455.44,456.4
+     I'll do a little bit of this,
+},
+{
+    456.4,458.16
+     and then I'll go back to the extension
+},
+{
+    458.16,459.96
+     and see if we can do it now.
+},
+{
+    459.96,462.16
+     Because the end goal, to me,
+},
+{
+    462.16,465.2
+     the end goal to make this go away is to do the extensions.
+},
+{
+    465.2,470.4
+     Right. I mean, typically when the arm gets better, the extension, the range of motion improves.
+},
+{
+    470.96,476.4
+     So again, this can be one of those things that works out very well, very quickly. Other times
+},
+{
+    476.4,481.6
+     you have to work into a little bit. And oftentimes some of these things, you need a therapist,
+},
+{
+    481.6,486.36
+     an experienced therapist to do it. But. Yeah, this will give you the option
+},
+{
+    486.36,488.84
+     of maybe seeking out a therapist
+},
+{
+    488.84,490.4
+     that's trained in the McKenzie Method.
+},
+{
+    490.4,491.24
+     Right.
+},
+{
+    491.24,492.08
+     And we actually have a video on that
+},
+{
+    492.08,495.2
+     on how to find a McKenzie therapist.
+},
+{
+    495.2,496.44
+     Right, because they're throughout the world.
+},
+{
+    496.44,497.68
+     It's a worldwide system.
+},
+{
+    497.68,499.84
+     Yeah, 36 countries, I think they're in.
+},
+{
+    499.84,502.08
+     I think it's up to 38 miles, couldn't be more.
+},
+{
+    502.08,503.96
+     But you just, you type in where you live
+},
+{
+    503.96,505.92
+     and it'll pop up where these therapists are for you more. But you just, you type in where you live and they all, you know, it'll pop up
+},
+{
+    505.92,507.84
+     where these therapists are for you to.
+},
+{
+    507.84,509.56
+     So yeah, if you type in Bob and Brad
+},
+{
+    509.56,510.8
+     and type in Mackenzie.
+},
+{
+    510.8,511.64
+     Yep.
+},
+{
+    511.64,513.96
+     M-C-K-E-N-Z-I-E.
+},
+{
+    513.96,515.12
+     I believe you're exactly right.
+},
+{
+    515.12,516.64
+     Your spelling is getting better, Bob.
+},
+{
+    516.64,517.96
+     All right.
+},
+{
+    517.96,None
+     All right, thanks everybody for watching. you
+},

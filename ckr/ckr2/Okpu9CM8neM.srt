@@ -1,0 +1,876 @@
+{
+    0.0,1.0
+     We're taking a closer look at
+},
+{
+    1.0,2.0
+     skin cancer and how you can
+},
+{
+    2.0,3.0
+     protect yourself.
+},
+{
+    3.0,4.0
+     There are three main types of
+},
+{
+    4.0,5.0
+     skin cancer.
+},
+{
+    5.0,6.0
+     Basal cell carcinoma,
+},
+{
+    6.0,7.0
+     squamous cell carcinoma, and
+},
+{
+    7.0,8.0
+     melanoma.
+},
+{
+    8.0,9.0
+     According to skin cancer
+},
+{
+    9.0,10.0
+     foundation statistics, one in
+},
+{
+    10.0,11.0
+     every five Americans will
+},
+{
+    11.0,12.0
+     develop skin cancer in their
+},
+{
+    12.0,13.0
+     lifetime.
+},
+{
+    13.0,14.0
+     The three main types are broken
+},
+{
+    14.0,15.0
+     down by different cells in our
+},
+{
+    15.0,16.0
+     skin.
+},
+{
+    16.0,17.0
+     Basal cell carcinoma is the most
+},
+{
+    17.0,18.0
+     common form of skin cancer.
+},
+{
+    18.0,19.0
+     It begins in the basal cells,
+},
+{
+    19.0,20.0
+     which sit just below the cell
+},
+{
+    20.0,21.0
+     cell.
+},
+{
+    21.0,22.0
+     The three main types are
+},
+{
+    22.0,23.0
+     broken down by different cells
+},
+{
+    23.0,24.0
+     in our skin.
+},
+{
+    24.0,25.0
+     Basal cell carcinoma is the most common form of skin cancer. It begins in
+},
+{
+    25.06,26.0
+     the basal cells which sit
+},
+{
+    26.06,27.0
+     just below the skin
+},
+{
+    27.06,28.0
+     surface and produce new
+},
+{
+    28.06,29.0
+     skin cells as old ones die
+},
+{
+    29.06,30.0
+     off. Basal cell carcinoma
+},
+{
+    30.06,31.0
+     often appears as a
+},
+{
+    31.06,32.0
+     slightly transparent bump
+},
+{
+    32.06,33.0
+     on the skin that won't go
+},
+{
+    33.06,34.0
+     away, but it can take
+},
+{
+    34.06,35.0
+     other forms.
+},
+{
+    35.06,36.0
+     It's kind of pink and
+},
+{
+    36.06,37.0
+     pearly, shiny, has little
+},
+{
+    37.06,38.0
+     blood vessels that can go
+},
+{
+    38.06,39.0
+     through it here. This is
+},
+{
+    39.06,40.0
+     also a basal cell but it
+},
+{
+    40.06,41.0
+     can look like a squamous
+},
+{
+    41.06,42.0
+     cell like the eczema.
+},
+{
+    42.06,43.0
+     It's a very common
+},
+{
+    43.06,44.0
+     cell that can be used
+},
+{
+    44.06,45.0
+     to treat the skin. It's a very common cell that can be used to treat the skin. It's a very pink and pearly, shiny, has little blood vessels that can go through it here.
+},
+{
+    45.0,46.0
+     This is also a basal cell,
+},
+{
+    46.0,47.0
+     but it can look like a
+},
+{
+    47.0,48.0
+     squamous cell like the
+},
+{
+    48.0,49.0
+     eczema look.
+},
+{
+    49.0,50.0
+     Basal cells are easily
+},
+{
+    50.0,51.0
+     damaged by ultraviolet
+},
+{
+    51.0,52.0
+     rays.
+},
+{
+    52.0,53.0
+     According to skincancer.org,
+},
+{
+    53.0,54.0
+     an estimated 4.3 million
+},
+{
+    54.0,55.0
+     cases of basal cell
+},
+{
+    55.0,56.0
+     carcinoma are diagnosed in
+},
+{
+    56.0,57.0
+     the U.S. each year, but it
+},
+{
+    57.0,58.0
+     can be treated if caught
+},
+{
+    58.0,59.0
+     early.
+},
+{
+    59.0,60.0
+     Basal cells are, I say, the
+},
+{
+    60.0,61.0
+     best kind of skin cancer to
+},
+{
+    61.0,62.0
+     get because they're
+},
+{
+    62.0,63.0
+     very, very, very, very
+},
+{
+    63.0,64.0
+     important to get.
+},
+{
+    64.0,65.6
+     And they're very, very, very, very, very, very important to get. And they're very, very, very, very, very, very are diagnosed in the U.S. each year. But it can be treated if caught early. SQUAMA CELL CARSONOMA is the second most common
+},
+{
+    65.6,66.2
+     type of skin cancer.
+},
+{
+    66.2,67.0
+     It forms when squamous
+},
+{
+    67.0,67.6
+     cells begin to grow
+},
+{
+    67.6,68.0
+     uncontrollably in the
+},
+{
+    68.0,68.6
+     top layers of the skin.
+},
+{
+    68.6,69.0
+     SQUAMA CELLS can
+},
+{
+    69.0,69.6
+     invade but they usually
+},
+{
+    69.6,70.2
+     don't metastasize very
+},
+{
+    70.2,70.4
+     often.
+},
+{
+    70.4,71.0
+     If someone did have a
+},
+{
+    71.0,71.8
+     squamous cell on their
+},
+{
+    71.8,72.4
+     lower lip, they can
+},
+{
+    72.4,73.0
+     get a little bit of
+},
+{
+    73.0,73.6
+     skin cancer.
+},
+{
+    73.6,74.2
+     But if they have a
+},
+{
+    74.2,74.8
+     skin cancer, they can
+},
+{
+    74.8,75.2
+     get a little bit of skin
+},
+{
+    75.2,75.6
+     cancer.
+},
+{
+    75.6,76.2
+     SQUAMA CELL CARSONOMA
+},
+{
+    76.2,76.6
+     is the second most
+},
+{
+    76.6,77.0
+     common type of skin
+},
+{
+    77.0,77.6
+     cancer.
+},
+{
+    77.6,78.4
+     It forms when squamous
+},
+{
+    78.4,79.0
+     cells begin to grow
+},
+{
+    79.0,79.6
+     uncontrollably in the
+},
+{
+    79.6,80.4
+     top layers of the skin.
+},
+{
+    80.4,80.8
+     SQUAMA CELLS can
+},
+{
+    80.8,81.4
+     invade but they usually
+},
+{
+    81.4,82.0
+     don't metastasize very
+},
+{
+    82.0,82.6
+     often.
+},
+{
+    82.6,83.2
+     If someone did have a
+},
+{
+    83.2,83.8
+     squamous cell on their
+},
+{
+    83.8,84.4
+     lower lip, they can
+},
+{
+    84.4,85.0
+     get a little bit of skin cancer. SQUAMA CELL CARSONELLS CAN invade but they usually don't metastasize very
+},
+{
+    85.0,86.0
+     often.
+},
+{
+    86.0,87.0
+     If someone did have a
+},
+{
+    87.0,88.0
+     squamous cell on their
+},
+{
+    88.0,89.0
+     lower lip or if they were
+},
+{
+    89.0,90.0
+     immunocompromised or if
+},
+{
+    90.0,91.0
+     they were a transplant
+},
+{
+    91.0,92.0
+     patient they too can
+},
+{
+    92.0,93.0
+     spread throughout the
+},
+{
+    93.0,94.0
+     body.
+},
+{
+    94.0,95.0
+     More than one million
+},
+{
+    95.0,96.0
+     cases of squamous cell
+},
+{
+    96.0,97.0
+     carcinoma are diagnosed in
+},
+{
+    97.0,98.0
+     the U.S. each year
+},
+{
+    98.0,99.0
+     reportedly resulting in
+},
+{
+    99.0,100.0
+     more than 15,000 deaths.
+},
+{
+    100.0,101.0
+     And it can be easily
+},
+{
+    101.0,102.0
+     confused with other
+},
+{
+    102.0,103.0
+     skin disorders.
+},
+{
+    103.0,104.0
+     SQUAMISCELLS
+},
+{
+    104.0,105.0
+     can invade but they usually don't metastasize very often. If someone did have a squamous cell on their are diagnosed in the U.S. each year, reportedly resulting in more than 15,000 deaths. And it can be easily
+},
+{
+    105.0,106.0
+     confused with other skin
+},
+{
+    106.0,107.0
+     disorders.
+},
+{
+    107.0,108.0
+     It's kind of just pink
+},
+{
+    108.0,109.0
+     and scaly.
+},
+{
+    109.0,110.0
+     It almost can look like
+},
+{
+    110.0,111.0
+     something that someone
+},
+{
+    111.0,112.0
+     would call psoriasis.
+},
+{
+    112.0,113.0
+     This is actually a
+},
+{
+    113.0,114.0
+     squamous cell around a nail.
+},
+{
+    114.0,115.0
+     And here you can see the
+},
+{
+    115.0,116.0
+     scale and the redness
+},
+{
+    116.0,117.0
+     around here.
+},
+{
+    117.0,118.0
+     Same thing, this looks
+},
+{
+    118.0,119.0
+     like eczema on someone's
+},
+{
+    119.0,120.0
+     finger, but that is
+},
+{
+    120.0,121.0
+     actually skin cancer,
+},
+{
+    121.0,122.0
+     squamous cell carcinoma.
+},
+{
+    122.0,123.0
+     The third and most
+},
+{
+    123.0,124.0
+     dangerous type of skin
+},
+{
+    124.0,125.0
+     cancer is melanoma. It's a type of skin cancer someone's finger, but that is actually skin cancer squamous cell
+},
+{
+    125.0,126.0
+     carcinoma.
+},
+{
+    126.0,127.0
+     The third and most dangerous
+},
+{
+    127.0,128.0
+     type of skin cancer is
+},
+{
+    128.0,129.0
+     melanoma.
+},
+{
+    129.0,130.0
+     And statistically one person
+},
+{
+    130.0,131.0
+     dies of melanoma every hour in
+},
+{
+    131.0,132.0
+     the United States.
+},
+{
+    132.0,133.0
+     There are several ways to spot
+},
+{
+    133.0,134.0
+     melanoma.
+},
+{
+    134.0,135.0
+     It's asymmetrical, so it's not
+},
+{
+    135.0,136.0
+     the same on either side. You
+},
+{
+    136.0,137.0
+     have border irregularity, or
+},
+{
+    137.0,138.0
+     what we call like the coast of
+},
+{
+    138.0,139.0
+     Maine. You have color
+},
+{
+    139.0,140.0
+     variation, there's some brown,
+},
+{
+    140.0,141.0
+     some really dark brown, lighter
+},
+{
+    141.0,142.0
+     color, and you have a
+},
+{
+    142.0,143.0
+     color variation.
+},
+{
+    143.0,144.0
+     And that's what we call the
+},
+{
+    144.0,145.54
+     color variation. And that's what we call the color variation. And, or what we call like the coast of Maine.
+},
+{
+    145.54,147.0
+     You have color variation.
+},
+{
+    147.0,149.44
+     There's some brown, some really dark brown,
+},
+{
+    149.44,152.48
+     lighter colors, almost a blue-black color.
+},
+{
+    152.48,155.74
+     And then diameter, greater than a pencil eraser.
+},
+{
+    155.74,159.82
+     And then evolution, so definitely this is probably changed
+},
+{
+    159.82,161.56
+     and spread on this individual,
+},
+{
+    161.56,163.6
+     and you have another new bump coming up here.
+},
+{
+    163.6,165.0
+     There is hope for people diagnosed with melanoma if they're diagnosed early.
+},
+{
+    165.0,165.6
+     They're caught early.
+},
+{
+    165.6,166.0
+     We call that melanoma
+},
+{
+    166.0,167.0
+     in situ.
+},
+{
+    167.0,167.6
+     And those lesions and
+},
+{
+    167.6,168.0
+     those cancers can be
+},
+{
+    168.0,168.4
+     cured 100 percent of
+},
+{
+    168.4,169.0
+     the time.
+},
+{
+    169.0,169.8
+     Now many of us wish we
+},
+{
+    169.8,170.4
+     had done a better job
+},
+{
+    170.4,171.0
+     protecting our skin from
+},
+{
+    171.0,171.6
+     the sun through the
+},
+{
+    171.6,172.0
+     years.
+},
+{
+    172.0,172.6
+     On news 5 at 10 we'll
+},
+{
+    172.6,173.0
+     examine ways to actually
+},
+{
+    173.0,173.6
+     reverse some of the
+},
+{
+    173.6,174.0
+     damage.
+},
+{
+    174.0,174.4
+     KATHRYN
+},
+{
+    174.4,175.0
+     Now we're looking at
+},
+{
+    175.0,175.8
+     how many of you have
+},
+{
+    175.8,176.4
+     been diagnosed with
+},
+{
+    176.4,177.0
+     melanoma in the past.
+},
+{
+    177.0,177.4
+     We're looking at how many
+},
+{
+    177.4,177.8
+     of you have been
+},
+{
+    177.8,178.2
+     diagnosed with
+},
+{
+    178.2,178.8
+     melanoma in the past.
+},
+{
+    178.8,179.2
+     We're looking at how many
+},
+{
+    179.2,179.4
+     of you have been
+},
+{
+    179.4,179.8
+     diagnosed with
+},
+{
+    179.8,180.4
+     melanoma in the past.
+},
+{
+    180.4,180.8
+     We're looking at how many
+},
+{
+    180.8,181.2
+     of you have been
+},
+{
+    181.2,181.4
+     diagnosed with
+},
+{
+    181.4,182.0
+     melanoma in the past.
+},
+{
+    182.0,182.4
+     We're looking at how many
+},
+{
+    182.4,182.8
+     of you have been
+},
+{
+    182.8,183.0
+     diagnosed with
+},
+{
+    183.0,183.6
+     melanoma in the past.
+},
+{
+    183.6,183.8
+     We're looking at how
+},
+{
+    183.8,184.4
+     many of you have been
+},
+{
+    184.4,184.8
+     diagnosed with
+},
+{
+    184.8,185.4
+     melanoma in the past.
+},
+{
+    185.4,185.8
+     We're looking at how
+},
+{
+    185.8,186.4
+     many of you have been
+},
+{
+    186.4,186.6
+     diagnosed with
+},
+{
+    186.6,187.0
+     melanoma in the past.
+},
+{
+    187.0,187.4
+     We're looking at how
+},
+{
+    187.4,187.6
+     many of you have been
+},
+{
+    187.6,188.0
+     diagnosed with
+},
+{
+    188.0,188.6
+     melanoma in the past.
+},
+{
+    188.6,189.0
+     We're looking at how
+},
+{
+    189.0,189.6
+     many of you have
+},
+{
+    189.6,189.8
+     been diagnosed with
+},

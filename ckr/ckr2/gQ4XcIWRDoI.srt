@@ -1,0 +1,492 @@
+{
+    0.0,5.2
+     Hi, my name is Francis Nguyen and today we're going to be talking about simple oxygen mass.
+},
+{
+    5.2,24.4
+     So stay tuned for the next couple of minutes.
+},
+{
+    24.4,26.36
+     So simple oxygen masks.
+},
+{
+    26.36,31.56
+     You've seen these, they're all on the medical shows, also just about everywhere in the healthcare
+},
+{
+    31.56,37.36
+     systems, hospital, urgent care, wherever they have oxygen.
+},
+{
+    37.36,42.84
+     Not seen as much use in the clinical setting, something that's usually used in place of
+},
+{
+    42.84,50.0
+     a nasal cannula. If more of FIO2 is needed and a patient is keeping their mouth open while wearing a nasal cannula,
+},
+{
+    50.0,53.0
+     this would be probably a better fit device for that patient.
+},
+{
+    53.0,58.0
+     Now this device still falls into our low flow oxygen devices category.
+},
+{
+    58.0,66.0
+     And as I said before, a low flow oxygen device is defined as a device that can only meet
+},
+{
+    66.0,72.88
+     part of a patient's inspiratory demands. Again, just simply means for your less critical patients
+},
+{
+    72.88,80.48
+     who do not have very large respiratory requirements, who are not working to breathe.
+},
+{
+    81.28,88.72
+     Now, some indications for this device. Patients with a PAO2 of less than 60 millimeters
+},
+{
+    88.72,95.52
+     of mercury or an SPO2 of less than 90%. Now in the chronic settings like COPD patients,
+},
+{
+    96.08,103.84
+     anywhere less than 55 millimeters of mercury of oxygen or an SPO2 of less than 88%, which is indicated.
+},
+{
+    108.88,114.4
+     and sp02 of less than 88% which is indicated. And again the main functions is to decrease the work of the heart, decrease work of breathing and obviously
+},
+{
+    114.4,120.0
+     reverse hypoxemia. Now some contraindications for the device. You're
+},
+{
+    120.0,125.74
+     gonna be having patients who are apnick, you know, they need to be breathing.
+},
+{
+    125.74,132.76
+     Patients who are going into or are already in respiratory failure or patients who have
+},
+{
+    132.76,138.48
+     some sort of facial injury or deformities that prohibit use of the device.
+},
+{
+    138.48,145.2
+     Okay, so let's get into some of the specs for this device.
+},
+{
+    145.2,152.16
+     Now this device requires a minimum of 5 liters per minute, oxygen running through your flow
+},
+{
+    152.16,157.76
+     meter and can be all the way up to about 10 liters per minute.
+},
+{
+    157.76,168.88
+     You know, FIO2 delivered by this device is around 35 to 55 percent, Not accounting for anatomy or anything of that nature.
+},
+{
+    168.88,173.68
+     That's something that your professor will probably talk more about later on in your anatomy and your
+},
+{
+    173.68,186.44
+     procedure scores. So things to remember. Always get rid of your packaging or your equipment when it's either visibly soiled, torn packaging,
+},
+{
+    186.44,196.08
+     falls on the floor, or maybe defective in some manner, way, shape, or form. So now
+},
+{
+    196.08,200.04
+     after this all this information is said let's go and get our equipment ready
+},
+{
+    200.04,205.48
+     you go. Alright so we're back from the equipment room.
+},
+{
+    205.48,207.64
+     So here's everything you're going to need.
+},
+{
+    207.64,210.44
+     You're going to listen to the left right here.
+},
+{
+    210.44,213.84
+     You're going to need a flow meter nipple adapter.
+},
+{
+    213.84,219.48
+     You're going to need a flow meter for the wall or for an oxygen source like this one.
+},
+{
+    219.48,224.44
+     And then you're also going to need your simple oxygen mask packaging, which includes your
+},
+{
+    224.44,227.2
+     mask, the headstrap, plus
+},
+{
+    227.2,233.84
+     your oxygen tubing to go with it. So with that being said, let's go into looking at up close what
+},
+{
+    233.84,242.48
+     this device looks like. Alright, so looking at the packaging here, we have just your simple
+},
+{
+    242.48,245.6
+     sterile seal package. You're going to simply
+},
+{
+    245.6,251.6
+     open which this is a very good package. It actually opens really easily. So get rid of
+},
+{
+    251.6,262.08
+     your plastic, your paper. So first off you got your mask, okay. Okay, now you got your
+},
+{
+    262.08,267.8
+     nose clip on the top, just aluminum piece. You squeeze down to fit the patient's nose.
+},
+{
+    267.8,272.0
+     You have your oxygen tubing port here on the mask.
+},
+{
+    272.0,276.12
+     So if you can see it from the side, let me show this to you right here.
+},
+{
+    276.12,277.18
+     So you see this right here.
+},
+{
+    277.18,280.02
+     This is where your oxygen tubing is going to connect.
+},
+{
+    280.02,285.48
+     You got your green head strap that goes around the back of the patient's head right here,
+},
+{
+    285.48,287.36
+     all this right here.
+},
+{
+    287.36,293.6
+     And if you'll notice, when you're looking at this mask, so there's no valves on this,
+},
+{
+    293.6,298.64
+     so this is open to the room air, which is mainly why this device only delivers up to
+},
+{
+    298.64,307.84
+     about 55, maybe 60% FiO2, just because it's mixing with the room air and so you won't get as high concentrations
+},
+{
+    307.84,310.08
+     but it's pretty good for most patients.
+},
+{
+    310.92,319.18
+     So, easy to set up, all you simply do, you just take one end of your oxygen tubing right here,
+},
+{
+    319.56,322.8
+     you're gonna take it, connect it to the end and that's it.
+},
+{
+    323.94,325.62
+     You're pretty much ready to go.
+},
+{
+    325.62,327.36
+     So let's go over to the flow meter
+},
+{
+    327.36,330.0
+     and you can kinda see how we connect it,
+},
+{
+    330.0,332.16
+     which is just one easy step.
+},
+{
+    332.16,336.88
+     So, all right, so now I got your oxygen mask here, okay?
+},
+{
+    336.88,340.0
+     So while holding this in one hand,
+},
+{
+    340.0,341.4
+     you're gonna take your other hand
+},
+{
+    341.4,344.0
+     and you're gonna connect this to your flow meter.
+},
+{
+    344.0,349.78
+     But before that happens, first you'll notice that this flow meter has no nipple adapter.
+},
+{
+    349.78,356.68
+     So you wanna take your flow adapter, you wanna put it on here, right, tidy, lefty-loosey.
+},
+{
+    356.68,359.44
+     Make sure there's tight, no leaks.
+},
+{
+    359.44,365.0
+     Okay, so once it's secured, then all you gotta do is take this,
+},
+{
+    365.76,369.16
+     take the oxygen tube, simply snug it on to the bottom
+},
+{
+    369.16,372.66
+     of your flow meter nipple adapter, turn on your flow,
+},
+{
+    374.28,375.6
+     and you are good to go.
+},
+{
+    375.6,378.96
+     So that's it for the device as far as setting it up
+},
+{
+    378.96,381.68
+     to the wall, so let me show you how this should go
+},
+{
+    381.68,383.92
+     on the patient and what to look for
+},
+{
+    383.92,387.68
+     when you're setting this up on a patient. Alright so here we are we have reached the patient's
+},
+{
+    387.68,394.84
+     room we've gotten our two identifiers named date of birth and so now doctors
+},
+{
+    394.84,401.8
+     has ordered 60% FIO2 by simple mass so we've already turned on airflow to about
+},
+{
+    401.8,405.28
+     10 liters per minute on our flow meter. Now what we're
+},
+{
+    405.28,409.64
+     gonna do, we're gonna come around the patient, okay, we're gonna be in front of
+},
+{
+    409.64,414.36
+     them. I'm just doing it from behind for demonstration purposes. So you're gonna
+},
+{
+    414.36,421.32
+     take your strap, run it to the back of their head over the ear, okay, and then
+},
+{
+    421.32,425.0
+     you're gonna simply fit the mask to the patient.
+},
+{
+    426.82,429.54
+     Now, you'll wanna come with the nose clip
+},
+{
+    429.54,431.78
+     to the bridge of the nose,
+},
+{
+    431.78,434.66
+     and you wanna kinda pinch it in
+},
+{
+    434.66,436.9
+     so it kinda fits their nose better,
+},
+{
+    436.9,438.3
+     so it kinda hold on.
+},
+{
+    439.26,441.98
+     And you wanna kinda adjust the mask
+},
+{
+    441.98,446.08
+     to make sure that you got an appropriate seal. So you see,
+},
+{
+    447.12,452.24
+     see right here, you got a pretty good seal here. Now it's not going to be perfect obviously because
+},
+{
+    452.24,456.72
+     you got the little ports on the sides, but you want to best of a seal as you can around the nose
+},
+{
+    456.72,463.2
+     and mouth just so they're getting the optimal amount of FIO2 that's required. So you're going to
+},
+{
+    463.2,465.04
+     look from the side here, so you gotta make
+},
+{
+    465.04,469.36
+     sure your straps not like you know down here, you know you kind of want to appear
+},
+{
+    469.36,475.12
+     above their ear, just right to the back of their head, and then you can always
+},
+{
+    475.12,481.32
+     adjust accordingly with your straps on the front here with a little shoelace.
+},
+{
+    481.32,486.02
+     So some notes to know for this device.
+},
+{
+    486.02,493.58
+     When you're using this device right here, now you'll want to observe your patient's
+},
+{
+    493.58,507.92
+     vital signs, look at their work of breathing, how hard they are working to breathe and you know if it's not enough let's say you're
+},
+{
+    507.92,512.48
+     only at five liters per minute and they're trying to work a little bit and
+},
+{
+    512.48,518.12
+     you're noticing some misting in the mask it's probably a good sign that they're
+},
+{
+    518.12,522.24
+     probably still not getting enough flow so try to give them a couple more liters
+},
+{
+    522.24,525.5
+     on the flow meter maybe up up to six, seven, eight
+},
+{
+    525.5,529.58
+     liters per minute, or just go all the way up to ten, which it should be pretty safe
+},
+{
+    529.58,533.1
+     most times unless indicated.
+},
+{
+    533.1,537.18
+     And if you don't see the missing anymore in the mask, which you'll see it, you know, around
+},
+{
+    537.18,542.14
+     the mouth there, the nose, if you don't see the missing anymore, then pretty good chance
+},
+{
+    542.14,545.2
+     that you have enough flow going to the patient.
+},
+{
+    545.2,550.72
+     So it's just enough for them. They're comfortable, you make sure their vitals are stable and you're
+},
+{
+    550.72,558.64
+     good to go. So that's pretty much all you need to use this device. Not very hard, very easy, and
+},
+{
+    560.48,567.64
+     literally takes about 10 seconds to set up. So not too difficult, but again, if you're
+},
+{
+    567.64,572.44
+     new to this, you might be nervous, don't be, you'll do this plenty of times, I'm sure of
+},
+{
+    572.44,578.72
+     it, and you'll get great at it. So let's try to summarize what we talked about in this
+},
+{
+    578.72,591.0
+     video. So let's summarize what we've talked about in this video. Simple mask, it's very simple to use, hence the name, simple hydrogen mask.
+},
+{
+    591.0,597.08
+     Five to ten liters per minute on the flow meter as far as flow goes, delivers approximately
+},
+{
+    597.08,602.76
+     35 to 55 percent FiO2, non-clinic anatomy.
+},
+{
+    602.76,606.64
+     And again, just like all our oxygen devices, it reduces work
+},
+{
+    606.64,612.12
+     at breathing, reduces work at the heart, and reverses hypoxemia. Great alternative
+},
+{
+    612.12,619.64
+     to the nasal cannula. Again, not used as often as you would think, but it still
+},
+{
+    619.64,625.74
+     exists in the hospital and is still used on a regular basis, but I wouldn't say as much as say things
+},
+{
+    625.74,628.12
+     like nasal cannula.
+},
+{
+    628.12,632.48
+     So again, keep practicing.
+},
+{
+    632.48,636.4
+     If you don't feel comfortable with it, you know, you always have a lab like this to come
+},
+{
+    636.4,642.28
+     into the practice, plug it in, put it in on your classmates, do what you need to do to
+},
+{
+    642.28,645.36
+     feel comfortable before your first clinicals.
+},
+{
+    645.36,652.12
+     So as always, study hard and breathe easy and we'll see you in the next one.
+},

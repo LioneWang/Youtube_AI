@@ -1,0 +1,140 @@
+{
+    0.0,6.6
+     How to Make a Sling.
+},
+{
+    6.6,11.28
+     Making a sling is a simple procedure, and it's very handy to immobilize an injured shoulder,
+},
+{
+    11.28,13.64
+     arm, or collarbone.
+},
+{
+    13.64,20.76
+     You will need A large piece of cloth Scissors A long, thin piece of cloth.
+},
+{
+    20.76,24.68
+     Optional A long-sleeved shirt or sweater.
+},
+{
+    24.68,25.68
+     Step 1.
+},
+{
+    25.68,31.76
+     Cut a large piece of cloth into a square that's at least 40 inches on each side.
+},
+{
+    31.76,40.44
+     If necessary, dress any wounds or make a splint before putting the arm in a sling.
+},
+{
+    40.44,41.64
+     Step 2.
+},
+{
+    41.64,45.0
+     Fold the cloth diagonally in half, forming a triangle.
+},
+{
+    45.0,51.0
+     Step 3. Drape the triangle so its base runs up and down the chest opposite the injured
+},
+{
+    51.0,56.0
+     side, with the top corner dangling over and behind the shoulder on the un-injured side
+},
+{
+    56.0,61.0
+     and the bottom corner hanging below the waist. The corner opposite the base should wrap part
+},
+{
+    61.0,65.6
+     way around the waist, lying between the torso and the injured arm's elbow.
+},
+{
+    65.6,66.6
+     Step 4.
+},
+{
+    66.6,70.24
+     Gently support the injured arm at the elbow across the torso.
+},
+{
+    70.24,71.8
+     Step 5.
+},
+{
+    71.8,75.4
+     Lift the bottom corner up so the sling now cradles the injured arm.
+},
+{
+    75.4,79.96
+     The hand should extend just past the base of the triangle, and the elbow should be supported
+},
+{
+    79.96,82.52
+     by the corner that's opposite the base.
+},
+{
+    82.52,86.72
+     Drape that same corner you just lifted over and behind the shoulder above the injured
+},
+{
+    86.72,88.04
+     arm.
+},
+{
+    88.04,89.52
+     Step 6.
+},
+{
+    89.52,93.4
+     Tie the two corners that are behind either shoulder to each other so they loop behind
+},
+{
+    93.4,94.4
+     the neck.
+},
+{
+    94.4,99.32
+     Adjusting the knot so the elbow is bent at a right angle, not drooping low, or pulled
+},
+{
+    99.32,100.32
+     too high.
+},
+{
+    100.32,106.1
+     If you don't have a piece of cloth available, you can use a long-sleeve shirt or sweater.
+},
+{
+    106.1,109.98
+     Simply tie the sleeves together behind the neck and anchor the arm with the body of the
+},
+{
+    109.98,111.98
+     shirt.
+},
+{
+    111.98,112.98
+     Step 7.
+},
+{
+    112.98,117.86
+     To further immobilize the arm, wrap a long, thin piece of cloth around the body to keep
+},
+{
+    117.86,121.3
+     the arm securely against the body.
+},
+{
+    121.3,130.84
+     Did you know After his arm was shattered in a car accident, legendary guitarist Les Paul
+},
+{
+    130.84,136.56
+     instructed surgeons to set his arm at an angle, allowing him to continue to play.
+},

@@ -1,0 +1,140 @@
+{
+    0.0,7.0
+     Whenever your skin is injured, whether by accident or from surgery, your body works to repair the wound.
+},
+{
+    7.0,13.0
+     As your skin heals, a scar may form, as this is a natural part of the healing process.
+},
+{
+    13.0,17.0
+     The appearance of a scar often depends on how well the wound heals.
+},
+{
+    17.0,23.0
+     While scars from surgery or over joints like the knees and elbows are hard to avoid,
+},
+{
+    23.0,26.0
+     scars caused by minor cuts and scrapes
+},
+{
+    26.0,31.0
+     can become less noticeable by properly treating the wound at home.
+},
+{
+    31.0,36.0
+     Here are dermatologists' tips for reducing the appearance of scars caused by injuries
+},
+{
+    36.0,39.64
+     such as skin knees or deep scratches.
+},
+{
+    39.64,43.92
+     Always keep your cut, scrape, or other skin injury clean.
+},
+{
+    43.92,47.8
+     Wash the injury with mild soap and water to keep out germs.
+},
+{
+    47.8,52.84
+     While the injured skin heals, use petroleum jelly to keep the wound moist.
+},
+{
+    52.84,57.52
+     This will prevent the skin from drying out and forming a scab, as scabs take longer to
+},
+{
+    57.52,58.52
+     heal.
+},
+{
+    58.52,65.66
+     It will also help prevent a scar from getting too large, deep, or itchy. As long as the wound is clean daily,
+},
+{
+    65.66,69.8
+     it is not necessary to use antibacterial ointments.
+},
+{
+    69.8,72.94
+     After cleaning the wound and applying petroleum jelly
+},
+{
+    72.94,74.84
+     or a similar ointment, cover the skin
+},
+{
+    74.84,77.4
+     with an adhesive bandage.
+},
+{
+    77.4,81.94
+     For large scrapes, sores, burns, or persistent redness,
+},
+{
+    81.94,87.0
+     it may be helpful to use hydrogel or silicone gel sheets.
+},
+{
+    87.0,90.74
+     Change your bandage daily to keep the wound clean while it heals.
+},
+{
+    90.74,96.86
+     If you have skin that is sensitive to adhesives, try a non-adhesive gauze pad with paper tape.
+},
+{
+    96.86,101.5
+     If silicone gel or hydrogel sheets are used, follow the instructions on the package for
+},
+{
+    101.5,103.58
+     changing the sheets.
+},
+{
+    103.58,109.02
+     If your cut requires stitches, follow your doctor's advice on how to care for them. This may help
+},
+{
+    109.02,114.96
+     minimize the appearance of a scar. After the wound has healed, apply sunscreen to
+},
+{
+    114.96,120.42
+     protect it from the sun and prevent the scar from becoming red or brown. Always
+},
+{
+    120.42,126.34
+     use a broad spectrum sunscreen with an SPF of 30 or higher and reapply frequently.
+},
+{
+    126.34,129.46
+     Sun protection may help the scar fade faster.
+},
+{
+    130.68,137.52
+     If you have minor cuts or scrapes, you can help reduce the appearance of a scar by properly treating the injury at home.
+},
+{
+    137.52,145.88
+     However, if your injury is deep, very painful, or if your skin becomes infected, seek immediate medical care.
+},
+{
+    145.88,151.12
+     Although no scar can be completely eliminated, most scars fade over time.
+},
+{
+    151.12,156.6
+     If you're worried about the appearance of your scar, see a board certified dermatologist.
+},
+{
+    156.6,161.6
+     A dermatologist can answer your questions and talk about ways to make your scar less visible.
+},
+{
+    163.12,169.64
+     To find a dermatologist in your area visit aad.org
+},

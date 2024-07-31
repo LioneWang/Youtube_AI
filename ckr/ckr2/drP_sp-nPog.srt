@@ -1,0 +1,1436 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.3,13.32
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.32,14.64
+     Brad Heineck, physical therapist.
+},
+{
+    14.64,16.06
+     Because we are the most famous physical therapists
+},
+{
+    16.06,16.9
+     on the internet.
+},
+{
+    16.9,18.24
+     In our opinion, of course, Bob.
+},
+{
+    18.24,20.36
+     Here we are in our secret bunker again, Brad.
+},
+{
+    20.36,23.62
+     And today we're gonna talk about instant relief,
+},
+{
+    23.62,25.88
+     how to treat a pinched nerve. We got physical therapy, exercises, and today we're gonna talk about instant relief, how to treat a pinched nerve.
+},
+{
+    25.88,28.68
+     We got physical therapy, exercises, and tips
+},
+{
+    28.68,30.52
+     to help you with that problem.
+},
+{
+    30.52,34.16
+     This is, by the way, representing the pain of a pinched nerve,
+},
+{
+    34.16,36.76
+     how it can go all the way down the arm into the hand.
+},
+{
+    36.76,37.6
+     Right.
+},
+{
+    37.6,38.44
+     By the way.
+},
+{
+    38.44,39.28
+     Oh, yes.
+},
+{
+    39.28,40.24
+     If you're new to our channel,
+},
+{
+    40.24,41.72
+     please take a second to subscribe to us.
+},
+{
+    41.72,44.04
+     We provide videos on how to stay healthy, fit, pain-free,
+},
+{
+    44.04,45.68
+     and we upload every day.
+},
+{
+    45.68,48.48
+     Also, you get a moment, and you probably have a moment,
+},
+{
+    48.48,51.2
+     go to bobandbrad.com and go to the giveaway section.
+},
+{
+    51.2,53.22
+     Sign up for our giveaway contest.
+},
+{
+    53.22,54.2
+     Is that showing?
+},
+{
+    54.2,55.04
+     There we go.
+},
+{
+    55.04,55.96
+     Oh yeah.
+},
+{
+    55.96,58.72
+     We don't have any cameraman today, or camera woman.
+},
+{
+    58.72,60.92
+     You can also find it on Facebook.
+},
+{
+    60.92,64.08
+     It'll be pinned to the top of the page, the contest that is.
+},
+{
+    64.08,67.02
+     Join us on Instagram or Twitter or TikTok
+},
+{
+    67.02,69.46
+     and we'll give you 60 seconds to bottom Brad.
+},
+{
+    69.46,72.7
+     All right, is it TikTok or TikTok?
+},
+{
+    72.7,75.06
+     T-O-K, Toc.
+},
+{
+    75.06,75.9
+     All right.
+},
+{
+    75.9,77.26
+     So I like the clock.
+},
+{
+    77.26,78.42
+     All right.
+},
+{
+    78.42,80.54
+     All right, so here let's jump right into it, Brad.
+},
+{
+    80.54,82.74
+     You're getting pain from a pinched nerve.
+},
+{
+    82.74,84.22
+     It's going all the way down your arm,
+},
+{
+    84.22,86.4
+     possibly even into the hand.
+},
+{
+    86.4,89.12
+     The first thing you wanna do is you wanna avoid,
+},
+{
+    89.12,93.08
+     this is a tip, avoid sitting and sleep postures
+},
+{
+    93.08,95.64
+     that will make your pain worse.
+},
+{
+    95.64,99.36
+     And just mention it could be numbness, burning, tingling,
+},
+{
+    99.36,102.64
+     cause a pinched nerve has all these weird,
+},
+{
+    102.64,103.68
+     some sensations.
+},
+{
+    103.68,106.64
+     They describe as cold water running down their arm,
+},
+{
+    106.64,107.56
+     things like that.
+},
+{
+    107.56,110.0
+     Yeah, whenever you get something really strange
+},
+{
+    110.0,112.84
+     as far as sensations, it's often a nerve issue.
+},
+{
+    112.84,113.68
+     Exactly.
+},
+{
+    113.68,116.76
+     So the first thing, I'm gonna show you
+},
+{
+    116.76,118.92
+     how to sleep correctly with,
+},
+{
+    118.92,121.68
+     let's say this is the painful arm.
+},
+{
+    121.68,123.76
+     So what you wanna do, number one,
+},
+{
+    123.76,125.96
+     you wanna avoid sleeping on this shoulder. Right. If you can. So what you wanna do, number one, you wanna avoid sleeping on this shoulder.
+},
+{
+    125.96,127.72
+     If you can.
+},
+{
+    127.72,131.0
+     So what you're gonna do, I'm gonna sleep on my side here.
+},
+{
+    131.0,134.12
+     By the way, these are my actual pillows
+},
+{
+    134.12,136.32
+     because Brad, you're gonna pry out the pan down here.
+},
+{
+    136.32,137.16
+     Oh yeah.
+},
+{
+    137.16,138.0
+     Yeah.
+},
+{
+    138.0,140.36
+     Do you sleep with your eyes closed, Bob?
+},
+{
+    140.36,141.2
+     Why?
+},
+{
+    141.2,143.96
+     I was just curious.
+},
+{
+    143.96,145.44
+     It's funny that you should say that because my wife often claims I don't. Oh well, I was just curious. It's funny that you should say that
+},
+{
+    145.44,147.92
+     because my wife often claims I don't.
+},
+{
+    147.92,149.44
+     Oh, well, I could just imagine.
+},
+{
+    149.44,151.0
+     So anyway, I'm gonna sleep on my,
+},
+{
+    151.0,153.16
+     I said these are my actual pillows.
+},
+{
+    154.16,157.32
+     So what I do is this is my throw pillow that I use.
+},
+{
+    157.32,160.6
+     Oh, you've mentioned that one many times over the last few years.
+},
+{
+    160.6,161.92
+     Yeah, I'll show that in a minute.
+},
+{
+    161.92,163.54
+     I don't need that right now.
+},
+{
+    163.54,166.56
+     But I got two pillows on my side,
+},
+{
+    166.56,169.88
+     and then, actually here's my sleep evasion pillow too,
+},
+{
+    169.88,171.28
+     by the way.
+},
+{
+    171.28,173.44
+     So I'm gonna use all these pillows here.
+},
+{
+    173.44,175.46
+     I sleep on my side like this,
+},
+{
+    176.6,179.22
+     and so this is the painful arm,
+},
+{
+    179.22,182.6
+     and then you're gonna put a pillow here,
+},
+{
+    182.6,185.12
+     but the key is to put another pillow on top of it
+},
+{
+    185.12,186.28
+     to give it support.
+},
+{
+    186.28,188.76
+     Otherwise, the arm is down and curled around
+},
+{
+    188.76,190.08
+     like this all night long,
+},
+{
+    190.08,193.56
+     and that's pinching that nerve even more.
+},
+{
+    193.56,195.28
+     You can stretch it a little bit too.
+},
+{
+    195.28,197.88
+     Yeah, you can also sleep with just putting the arm up
+},
+{
+    197.88,199.8
+     on your body like this.
+},
+{
+    199.8,201.96
+     That's a good position for it too.
+},
+{
+    201.96,204.16
+     But it's more comfortable.
+},
+{
+    204.16,206.52
+     It might be better to go this way actually.
+},
+{
+    206.52,209.68
+     You put this arm, this pillow underneath the arm like that.
+},
+{
+    209.68,211.08
+     All right, I'm gonna show,
+},
+{
+    211.08,214.6
+     let's say you're just stubborn like we are
+},
+{
+    214.6,217.4
+     and you're gonna sleep on that shoulder no matter what.
+},
+{
+    218.44,221.84
+     In that case, then you need to throw a pillow
+},
+{
+    221.84,225.54
+     and you've seen this maybe many I'm any times on other videos,
+},
+{
+    225.54,227.8
+     you're gonna create the canal here.
+},
+{
+    227.8,231.04
+     And so I'm gonna get my two pillows here,
+},
+{
+    231.04,233.2
+     and this creates a canal.
+},
+{
+    233.2,234.96
+     I'm gonna be careful with my mic,
+},
+{
+    234.96,236.32
+     but this takes pressure.
+},
+{
+    236.32,240.0
+     Now the pressure is on my rib cage and my head,
+},
+{
+    240.0,242.08
+     not so much on my shoulder.
+},
+{
+    242.08,242.92
+     So it's-
+},
+{
+    242.92,243.76
+     What about your feet?
+},
+{
+    243.76,244.58
+     You gotta get them back up.
+},
+{
+    244.58,246.84
+     Well, I'm just trying to go halfway on here.
+},
+{
+    246.84,248.76
+     I'm just going anyway.
+},
+{
+    248.76,252.2
+     That'll help you with sleeping, with sitting.
+},
+{
+    252.2,254.0
+     You wanna make sure you're not sitting
+},
+{
+    254.0,255.84
+     with a slumped posture.
+},
+{
+    255.84,258.56
+     So like when you're in your recliner,
+},
+{
+    258.56,261.4
+     you may wanna take again a throw pillow like this,
+},
+{
+    261.4,264.4
+     and it'll help you give you some support in the low back
+},
+{
+    264.4,267.02
+     and put your body into a better position,
+},
+{
+    267.02,269.86
+     better the position the neck is in,
+},
+{
+    269.86,272.72
+     the less stress there's gonna be on the nerve.
+},
+{
+    272.72,276.9
+     We probably should mention sleeping supine on your back.
+},
+{
+    276.9,278.58
+     Oh yeah, yeah, exactly.
+},
+{
+    278.58,279.64
+     Good point, Brad.
+},
+{
+    279.64,282.5
+     So when you're sleeping on your back,
+},
+{
+    282.5,283.82
+     it's gonna be the same thing here.
+},
+{
+    283.82,286.04
+     I'm gonna sleep, usually with one pillow.
+},
+{
+    286.04,286.88
+     Right.
+},
+{
+    286.88,288.96
+     Usually one of the thin pillow or just one.
+},
+{
+    288.96,290.34
+     Thin pillow.
+},
+{
+    290.34,293.32
+     So I'm gonna sleep on my back.
+},
+{
+    293.32,295.32
+     Heck, I'm gonna put one underneath my legs.
+},
+{
+    295.32,296.42
+     This is what I do here.
+},
+{
+    296.42,299.88
+     I put one here again and one here like this.
+},
+{
+    299.88,301.48
+     Again, nice and supported.
+},
+{
+    302.4,303.24
+     How does that look Brad?
+},
+{
+    303.24,304.64
+     That pillow, it always drives me nuts
+},
+{
+    304.64,306.64
+     when people have their pillow under their shoulders.
+},
+{
+    306.64,308.8
+     Well, I know, I'm just trying.
+},
+{
+    308.8,311.32
+     I just, I'm watching my mic.
+},
+{
+    311.32,314.12
+     I know, I know, I just, I wanted to clarify.
+},
+{
+    314.12,317.48
+     The big idea is to get the arm supported like that.
+},
+{
+    317.48,319.32
+     But these are not minor things.
+},
+{
+    319.32,322.24
+     If you're irritating your neck all day long
+},
+{
+    322.24,325.28
+     and all night long, it's not gonna go away.
+},
+{
+    325.28,327.08
+     It's, you know, once you pinch that nerve,
+},
+{
+    327.08,328.56
+     it's gonna get flared up.
+},
+{
+    328.56,329.84
+     All right, the next thing, Brad,
+},
+{
+    329.84,331.16
+     you can maybe come on back in
+},
+{
+    331.16,332.56
+     and you wanna flip the camera so we can see.
+},
+{
+    332.56,333.4
+     Oh yeah.
+},
+{
+    335.0,336.2
+     There we go, yeah.
+},
+{
+    336.2,338.36
+     The next thing is you're gonna wanna do
+},
+{
+    338.36,341.2
+     what we call directional exercises.
+},
+{
+    341.2,344.4
+     And there's usually three of them that we try.
+},
+{
+    344.4,347.26
+     But the point of the reason for the exercises
+},
+{
+    347.26,350.42
+     is we want the pain to centralize.
+},
+{
+    350.42,353.9
+     Now Brad's gonna show you what that means on me,
+},
+{
+    353.9,356.54
+     using me as the example.
+},
+{
+    356.54,358.26
+     So you're gonna show one of the exercises
+},
+{
+    358.26,360.5
+     that kind of oftentimes centralizes,
+},
+{
+    360.5,361.7
+     or should we do it first?
+},
+{
+    361.7,362.7
+     What do you think?
+},
+{
+    362.7,364.74
+     Well, why don't we do one of the exercises
+},
+{
+    364.74,366.76
+     and then we can show what we hope to see.
+},
+{
+    366.76,367.6
+     Right, exactly.
+},
+{
+    367.6,369.8
+     So how about we start with extension?
+},
+{
+    369.8,371.4
+     Usually that's the one we're gonna start with.
+},
+{
+    371.4,372.4
+     Do you wanna grab the towel?
+},
+{
+    372.4,373.24
+     Oh, you bet.
+},
+{
+    374.2,377.96
+     Now with most people that when they start off,
+},
+{
+    377.96,378.96
+     I thought you were gonna do it.
+},
+{
+    378.96,380.0
+     Oh yeah, okay.
+},
+{
+    380.0,382.24
+     With most people when they start off,
+},
+{
+    383.4,386.38
+     usually is extension what we're gonna have them do.
+},
+{
+    386.38,390.04
+     And with extension, usually, you wanna chair
+},
+{
+    390.04,391.24
+     or what are you gonna do?
+},
+{
+    392.24,394.72
+     With extension, usually it hurts
+},
+{
+    396.48,398.72
+     to do it without a towel.
+},
+{
+    398.72,401.2
+     So we have most people start with a towel.
+},
+{
+    401.2,403.6
+     Yeah, so going back like this goes,
+},
+{
+    403.6,405.92
+     oh, it hurts right about halfway back.
+},
+{
+    405.92,408.28
+     And oftentimes it may, if it goes down the arm,
+},
+{
+    408.28,409.84
+     you really know you've got to pinch,
+},
+{
+    409.84,412.4
+     nerve that is pinching it more.
+},
+{
+    412.4,414.08
+     So what we're gonna do is we'll start out
+},
+{
+    414.08,416.16
+     with a little chin tuck,
+},
+{
+    416.16,420.08
+     get the towel around the base and get it so it's rolled up
+},
+{
+    420.08,421.36
+     a little bit thicker.
+},
+{
+    421.36,423.76
+     It's usually comfortable at first.
+},
+{
+    423.76,426.16
+     And you can lean right back into the chair
+},
+{
+    426.16,428.64
+     and relax the shoulders, chin tuck,
+},
+{
+    428.64,431.64
+     and gently go back until you feel that pinch
+},
+{
+    431.64,434.6
+     and then come forward and you can kind of pull forward.
+},
+{
+    434.6,437.76
+     You're not pulling hard on the towels, just support.
+},
+{
+    437.76,439.36
+     And Brad, you might actually,
+},
+{
+    439.36,442.52
+     if you're in the same case with me as I am
+},
+{
+    442.52,444.04
+     with the right arm on the right pain,
+},
+{
+    444.04,448.08
+     you might just use one arm to pull on the towel
+},
+{
+    448.08,449.44
+     and let this one relax.
+},
+{
+    449.44,450.28
+     You could even.
+},
+{
+    450.28,452.08
+     Yeah, and that's a good point, by the way.
+},
+{
+    452.08,455.68
+     This is another thing I want you to do throughout the day
+},
+{
+    455.68,457.68
+     is I want you to go ahead and put a pillow
+},
+{
+    457.68,460.24
+     underneath your arm whenever you sit in a chair
+},
+{
+    460.24,462.68
+     under the arm of the painful side
+},
+{
+    462.68,466.16
+     because that can actually help, again, also take away,
+},
+{
+    466.16,468.44
+     oh, you can't even see that, there we go.
+},
+{
+    468.44,471.32
+     That'll help take away the stresses on the nerve
+},
+{
+    471.32,473.3
+     as it's pulling on the neck.
+},
+{
+    474.76,477.88
+     And as it goes further and further back,
+},
+{
+    477.88,480.44
+     eventually, eventually you might get to the point
+},
+{
+    480.44,482.08
+     where you don't need to tell anymore.
+},
+{
+    482.08,482.92
+     Right.
+},
+{
+    482.92,485.04
+     But for most people, it seems that they
+},
+{
+    485.04,487.68
+     need it to start off with.
+},
+{
+    487.68,488.84
+     You wanna get here, Bob?
+},
+{
+    488.84,490.52
+     We'll show what happens to the symptoms.
+},
+{
+    490.52,493.08
+     I'm gonna put this back up again and flip it.
+},
+{
+    494.8,495.88
+     This is like old school.
+},
+{
+    495.88,497.88
+     Brad and I used to do this all the time.
+},
+{
+    497.88,500.28
+     We used to not have a camera person.
+},
+{
+    500.28,502.08
+     When we first started off.
+},
+{
+    502.08,507.08
+     So if the towel is working, the extension is working,
+},
+{
+    507.96,511.02
+     you should start, what you wanna see is that the pain
+},
+{
+    511.02,513.08
+     that's furthest away from your neck
+},
+{
+    513.08,514.4
+     starts to be relieved first.
+},
+{
+    514.4,517.42
+     So if this resembles the pain, boom, God,
+},
+{
+    517.42,520.44
+     it's no longer in my hand, the numbness or the tingling.
+},
+{
+    520.44,521.7
+     It's not necessarily just the pain.
+},
+{
+    521.7,523.92
+     Let's say the tingling even gets better.
+},
+{
+    523.92,527.24
+     You know, look for something that's making it better.
+},
+{
+    527.24,528.54
+     Then the next step would be,
+},
+{
+    528.54,531.9
+     hopefully the pain's gonna go out of the upper arm here,
+},
+{
+    531.9,533.32
+     or the upper lower arm.
+},
+{
+    533.32,537.82
+     So, see now, now I'm not having any symptoms
+},
+{
+    537.82,539.58
+     with my hand or my forearm.
+},
+{
+    539.58,540.42
+     That's golden.
+},
+{
+    540.42,542.1
+     That means you're doing the right thing.
+},
+{
+    542.1,545.12
+     Now those exercises though, you must realize this,
+},
+{
+    545.12,547.08
+     they aren't just done once a day.
+},
+{
+    547.08,549.1
+     You're doing them like every hour,
+},
+{
+    549.1,551.36
+     maybe five to eight times a day,
+},
+{
+    551.36,554.44
+     10 repetitions, you know, doing 10 times.
+},
+{
+    554.44,557.56
+     And that's where we're gonna start getting some results.
+},
+{
+    557.56,561.44
+     And you have to continue to monitor your posture,
+},
+{
+    561.44,565.98
+     no head forward posture, slipping, sleeping pillow, no recliner
+},
+{
+    565.98,568.58
+     with your head forward on a pillow behind it.
+},
+{
+    568.58,570.78
+     Those things have to be maintained.
+},
+{
+    570.78,573.02
+     So the next thing would be,
+},
+{
+    573.02,575.72
+     hopefully as it starts to improve,
+},
+{
+    575.72,579.66
+     you're gonna actually see the pain leave the upper arm
+},
+{
+    579.66,582.02
+     and you have to turn so they can see this.
+},
+{
+    583.42,584.42
+     Stand up, oh.
+},
+{
+    584.42,586.28
+     I don't know if I can stand up.
+},
+{
+    586.28,587.56
+     Cut your head off.
+},
+{
+    587.56,589.0
+     So is there anything left?
+},
+{
+    589.0,591.76
+     Yeah, yeah, that's fine.
+},
+{
+    591.76,593.4
+     So right here, the pain will be here.
+},
+{
+    593.4,595.62
+     Even as the pain is getting better in the arm,
+},
+{
+    595.62,597.36
+     if it's starting to hurt a little bit more
+},
+{
+    597.36,600.52
+     up by the shoulder and the neck, that is okay.
+},
+{
+    600.52,605.06
+     As long as the pain is gone from further down the arm.
+},
+{
+    605.06,608.08
+     They call it centralizing the McKenzie technique.
+},
+{
+    608.08,610.74
+     And as it gets better then actually,
+},
+{
+    610.74,612.34
+     it all the way goes away
+},
+{
+    612.34,614.52
+     and you're feeling pretty darn good by this time.
+},
+{
+    614.52,617.84
+     So now if you find the extension gets to a point
+},
+{
+    617.84,619.88
+     where it just doesn't seem to be helping anymore,
+},
+{
+    619.88,621.92
+     the pain is kind of stuck,
+},
+{
+    621.92,623.44
+     you then might try,
+},
+{
+    624.44,626.92
+     actually you might try side bending.
+},
+{
+    627.64,631.56
+     Right, so you might try with really good posture, Brad.
+},
+{
+    631.56,632.64
+     You wanna show to the side?
+},
+{
+    632.64,635.0
+     Yep, we're gonna chin tuck,
+},
+{
+    635.0,640.0
+     and then we're gonna sideways flex towards the side of pain.
+},
+{
+    640.28,641.84
+     So if the pain's on this side,
+},
+{
+    641.84,644.48
+     you're gonna chin tuck and go to that side.
+},
+{
+    644.48,646.56
+     Chin tuck and go to that side. And you're gonna see if that's gonna help take away the pain's on this side, you're gonna chin tuck and go to that side. Chin tuck and go to that side.
+},
+{
+    646.56,648.16
+     And you're gonna see if that's gonna help
+},
+{
+    648.16,649.92
+     take away the pain.
+},
+{
+    649.92,651.8
+     This is always an experiment.
+},
+{
+    651.8,653.68
+     We're trying to figure out what it is
+},
+{
+    653.68,656.72
+     that's gonna, you know, as far as tips and exercises,
+},
+{
+    656.72,658.08
+     what takes away the pain,
+},
+{
+    658.08,661.12
+     especially if it takes away down here first
+},
+{
+    661.12,663.72
+     and then starts, you know, centralizing up
+},
+{
+    663.72,666.04
+     so that you no longer have it in the entire arm.
+},
+{
+    666.04,667.96
+     So this one, you bend to the side,
+},
+{
+    667.96,670.12
+     that doesn't mean you should grab and pull hard.
+},
+{
+    670.12,674.12
+     Just the movement is typically all you need to assess that.
+},
+{
+    674.12,675.64
+     One thing I kind of forgot, Brad,
+},
+{
+    675.64,678.56
+     is before you start extensions,
+},
+{
+    678.56,680.96
+     you might just do some chin tucks to start off with.
+},
+{
+    680.96,682.24
+     Yeah, yeah.
+},
+{
+    682.24,684.52
+     So Brad's showing it from the side,
+},
+{
+    684.52,686.12
+     I'm showing it from the front, I'm showing it from the front.
+},
+{
+    686.12,688.4
+     Just as this kind of the warmup,
+},
+{
+    688.4,690.44
+     and you can do these throughout the day.
+},
+{
+    690.44,692.44
+     One thing I'd forgotten is that
+},
+{
+    693.48,695.48
+     prior to doing the extension,
+},
+{
+    695.48,697.78
+     you might wanna do some chin tucks,
+},
+{
+    697.78,699.64
+     because that'll warm up the neck,
+},
+{
+    699.64,702.08
+     and it's kinda putting the neck in the right position.
+},
+{
+    702.08,705.96
+     So you're gonna go ahead and tuck the chin in.
+},
+{
+    705.96,707.72
+     You're not going down, you're not going up,
+},
+{
+    707.72,709.48
+     you're just bringing it straight back.
+},
+{
+    709.48,712.04
+     And these are the ones you can do prior to doing
+},
+{
+    712.04,714.44
+     the extensions, and it's also ones you can do
+},
+{
+    714.44,716.7
+     throughout the day also.
+},
+{
+    716.7,719.16
+     So that's the directional exercise.
+},
+{
+    719.16,722.44
+     Find out what's gonna work for you and work with it.
+},
+{
+    722.44,724.84
+     The other, number three, you wanna avoid
+},
+{
+    724.84,725.54
+     the pain makers
+},
+{
+    725.54,726.38
+     in your life.
+},
+{
+    727.4,732.4
+     Any activities or any work that increases your pain,
+},
+{
+    732.4,733.44
+     you shouldn't be doing it.
+},
+{
+    733.44,737.3
+     You know, a common one is people looking at their phone.
+},
+{
+    737.3,739.28
+     And a lot of them have to do with posture.
+},
+{
+    739.28,740.12
+     I mean, if you're posture-
+},
+{
+    740.12,740.96
+     Very much so.
+},
+{
+    740.96,744.08
+     Yeah, almost most of them have to do with posture.
+},
+{
+    744.08,746.36
+     So you wanna go ahead, you wanna avoid this.
+},
+{
+    746.36,751.36
+     Wanna make sure you have the Tyrannosaurus Rex arms
+},
+{
+    751.52,753.88
+     and bring it up right up to you.
+},
+{
+    753.88,757.4
+     You wanna avoid slouching in your chair
+},
+{
+    757.4,759.88
+     while you're watching TV and having to head forward
+},
+{
+    759.88,761.04
+     like this.
+},
+{
+    761.04,764.16
+     You don't wanna drive with your seat too reclined.
+},
+{
+    764.16,766.24
+     Right. Cause it's gonna be the same thing again.
+},
+{
+    766.24,768.16
+     Yep, you look how your head's going to go forward
+},
+{
+    768.16,770.08
+     as you reach up to the wheel.
+},
+{
+    770.08,772.64
+     These are, you know, pretty much anything,
+},
+{
+    772.64,773.88
+     if you're having pain with it,
+},
+{
+    773.88,776.4
+     like lifting a heavy object, don't do it right now.
+},
+{
+    776.4,778.12
+     You got to get that pain to calm down.
+},
+{
+    778.12,782.24
+     So the last thing I'm going to mention is,
+},
+{
+    782.24,784.2
+     we've covered a lot of information here today
+},
+{
+    784.2,787.2
+     and we just touched upon it and there's a lot more.
+},
+{
+    787.2,790.0
+     An excellent resource is Robin McKenzie's
+},
+{
+    790.0,791.36
+     Treat Your Own Neck.
+},
+{
+    791.36,793.36
+     These are, these are,
+},
+{
+    793.36,795.64
+     that's what everything we said today is based upon.
+},
+{
+    795.64,796.48
+     Right.
+},
+{
+    796.48,797.64
+     Just excellent books.
+},
+{
+    797.64,799.08
+     They're only like 10 bucks, aren't they?
+},
+{
+    799.08,801.8
+     Yeah, and they're written for the layperson that's not,
+},
+{
+    801.8,803.28
+     you know, so you build, understand it,
+},
+{
+    803.28,807.28
+     it'll follow along with what we recited here in the video.
+},
+{
+    807.28,810.48
+     It's a great source and, you know, the price is good.
+},
+{
+    810.48,812.36
+     You'll be happy that you purchased it.
+},
+{
+    812.36,813.36
+     Yeah, you'll see that.
+},
+{
+    813.36,816.12
+     It actually has great reviews.
+},
+{
+    816.12,818.56
+     I mean, people all over the world have used this.
+},
+{
+    818.56,820.28
+     So, all right, remember Brad,
+},
+{
+    820.28,821.72
+     I can fix just about anything?
+},
+{
+    821.72,823.48
+     Except for a broken heart.
+},
+{
+    823.48,825.66
+     There you go, Bob, but we're working on it,
+},
+{
+    825.66,827.08
+     even through this issue.
+},
+{
+    827.08,828.48
+     Yep, all right, thanks.
+},

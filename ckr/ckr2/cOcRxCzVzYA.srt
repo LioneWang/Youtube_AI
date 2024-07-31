@@ -1,0 +1,1136 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.04,13.04
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.04,14.56
+     Brad, I'm the physical therapist.
+},
+{
+    14.56,16.4
+     I'm the most famous physical therapist on the internet.
+},
+{
+    16.4,17.24
+     Why, Bob?
+},
+{
+    17.24,18.64
+     Why, in our opinion, of course.
+},
+{
+    18.64,19.48
+     I need your heart rate, Bob.
+},
+{
+    19.48,20.32
+     I'm glad I'm there, too.
+},
+{
+    20.32,21.64
+     Right on the patella.
+},
+{
+    21.64,22.8
+     Right on the patella.
+},
+{
+    22.8,24.44
+     None's ever hit you?
+},
+{
+    24.44,26.56
+     By the way, we're gonna talk about three stretches
+},
+{
+    26.56,28.4
+     to fix your wrist pain in minutes,
+},
+{
+    28.4,30.36
+     including decompression.
+},
+{
+    30.36,31.28
+     If you're new to our channel,
+},
+{
+    31.28,32.64
+     please take a second to subscribe to us.
+},
+{
+    32.64,34.64
+     We provide videos on stay healthy, fit, pain-free,
+},
+{
+    34.64,36.04
+     and we upload every day.
+},
+{
+    36.04,39.88
+     Also go to bobandbrad, our website, dot com,
+},
+{
+    39.88,41.76
+     and you're gonna find, go to the giveaway section.
+},
+{
+    41.76,42.88
+     We're always giving something away.
+},
+{
+    42.88,44.84
+     This week we're giving away some of the,
+},
+{
+    44.84,46.36
+     actually balance pads.
+},
+{
+    46.36,47.68
+     These are really well made.
+},
+{
+    47.68,51.08
+     And really work well for seat cushions too by the way.
+},
+{
+    51.08,52.24
+     If you go to Facebook,
+},
+{
+    52.24,54.6
+     you'll find it also pinned at the top of the page.
+},
+{
+    54.6,57.72
+     Short version of us, go to Twitter, Instagram or TikTok.
+},
+{
+    57.72,58.56
+     There you go, Bob.
+},
+{
+    58.56,59.6
+     All right, let's go to work, Brad.
+},
+{
+    59.6,60.44
+     That's right.
+},
+{
+    60.44,62.96
+     Okay, wrist pain.
+},
+{
+    62.96,64.88
+     You know, it's one of those things
+},
+{
+    64.88,67.76
+     that you're probably gonna have wrist pain sooner or later,
+},
+{
+    67.76,70.38
+     whether you're an active person and overuse your wrist,
+},
+{
+    70.38,73.44
+     or just as the aging process goes along.
+},
+{
+    73.44,76.82
+     And the reason is we're gonna look right away to Sam.
+},
+{
+    76.82,78.88
+     Sam, I am.
+},
+{
+    78.88,80.96
+     He's our skeleton.
+},
+{
+    80.96,84.56
+     But we look at the anatomy of the wrist,
+},
+{
+    84.56,88.34
+     and you'll see there's a lot of little bones.
+},
+{
+    88.34,89.38
+     There's eight of them actually.
+},
+{
+    89.38,91.34
+     I'm not gonna go through all the names of them.
+},
+{
+    91.34,94.16
+     But they're there and they're all there for a good reason.
+},
+{
+    94.16,96.48
+     They all have joint surfaces on them.
+},
+{
+    96.48,99.04
+     They have cartilage and they're snowvial fluid.
+},
+{
+    99.04,102.84
+     And they allow the wrist to flex, to extend,
+},
+{
+    102.84,106.92
+     to ulnar DVA, radial deviate, and make circles.
+},
+{
+    106.92,108.48
+     It's a complicated joint.
+},
+{
+    108.48,110.44
+     It really does a lot of motion.
+},
+{
+    110.44,111.28
+     It does.
+},
+{
+    111.28,113.76
+     It's gotta be stable, but yet it has to move too.
+},
+{
+    113.76,116.72
+     So that's always a tricky proposition.
+},
+{
+    116.72,117.56
+     Right.
+},
+{
+    117.56,119.6
+     Again, you got a lot of joints there.
+},
+{
+    119.6,120.44
+     Exactly.
+},
+{
+    120.44,122.0
+     If you think about all the times
+},
+{
+    122.0,123.64
+     when you open and close the doors,
+},
+{
+    123.64,124.8
+     if you're doing some manual work,
+},
+{
+    124.8,125.78
+     you're pushing, you're pushing,
+},
+{
+    125.78,128.88
+     you're pulling, and it's really, that joint,
+},
+{
+    128.88,132.16
+     you know, all those bones are really going to work.
+},
+{
+    132.16,133.0
+     A lot of work.
+},
+{
+    133.0,134.04
+     A lot of abuse.
+},
+{
+    134.04,137.86
+     So what happens is, you know, you can have some swelling
+},
+{
+    137.86,140.48
+     in there and a little bit of swelling in each joint
+},
+{
+    140.48,144.52
+     adds up to a lot of pain, lot of loss or range of motion,
+},
+{
+    144.52,147.84
+     a good place for arthritis to set in,
+},
+{
+    147.84,151.12
+     as you get into your 50s and 60s, et cetera.
+},
+{
+    151.12,152.74
+     So how do you get rid of it?
+},
+{
+    152.74,155.52
+     We need to increase the range of motion.
+},
+{
+    155.52,156.54
+     Right.
+},
+{
+    156.54,157.68
+     Not only increase it,
+},
+{
+    157.68,161.2
+     but just by doing range of motion without stress on it,
+},
+{
+    161.2,163.52
+     it increases what is called synovial fluid.
+},
+{
+    163.52,166.72
+     It's almost like a motor oil for the joint.
+},
+{
+    166.72,168.72
+     So a natural motor oil.
+},
+{
+    168.72,169.72
+     Right.
+},
+{
+    169.72,171.28
+     There's one thing we do wanna mention.
+},
+{
+    171.28,174.92
+     If you have success with your wrist pain
+},
+{
+    174.92,177.68
+     and range of motion, like after you take a shower
+},
+{
+    177.68,180.64
+     or in a bath or if you're washing dishes in warm water
+},
+{
+    180.64,184.28
+     and it consistently feels better, loosens up, feels good,
+},
+{
+    184.28,185.48
+     there's an option that even one step above warm water and it consistently feels better, loosens up, feels good.
+},
+{
+    188.34,189.88
+     There's an option that even one step above that would be superficial heat,
+},
+{
+    189.88,192.6
+     water or a typical hot pack,
+},
+{
+    192.6,196.16
+     but they make hot packs like this, Thermotex.
+},
+{
+    196.16,198.36
+     It's a Thermotex infrared,
+},
+{
+    198.36,201.08
+     fire infrared heating system.
+},
+{
+    201.08,203.64
+     And we, Brad and I, you know,
+},
+{
+    203.64,207.28
+     you have one in your house, I have one in my house, the one I use actually,
+},
+{
+    207.28,210.6
+     and I just keep it in my chair all the time for my back.
+},
+{
+    210.6,213.32
+     It's just a great treatment for my back all night.
+},
+{
+    213.32,215.56
+     I'm getting off tangent here,
+},
+{
+    215.56,219.26
+     but the thing about far infrared heat,
+},
+{
+    219.26,222.14
+     it penetrates much deeper than normal heat.
+},
+{
+    222.14,223.48
+     Right, right.
+},
+{
+    223.48,225.56
+     Normal heating pad will just go, as far as we have marked here, just a few millimeters,. Right, right. So a normal heating pad will just go,
+},
+{
+    225.56,226.8
+     as far as we have marked here,
+},
+{
+    226.8,229.32
+     just a few millimeters, skin deep, essentially.
+},
+{
+    229.32,230.32
+     Right.
+},
+{
+    230.32,231.92
+     Thermotext, the fire and fret,
+},
+{
+    231.92,233.66
+     if you look at the yellow tape on the rule,
+},
+{
+    233.66,236.94
+     they're 2.36 inches, it's that deep.
+},
+{
+    236.94,239.36
+     Now, if you consider that on your wrist,
+},
+{
+    239.36,241.56
+     that's gonna heat not only your skin,
+},
+{
+    241.56,243.2
+     but all the way through the whole joint.
+},
+{
+    243.2,244.28
+     Right, exactly.
+},
+{
+    244.28,248.84
+     So it's gonna really provide increased blood flow,
+},
+{
+    248.84,251.56
+     which always helps heal or feel better.
+},
+{
+    251.56,253.56
+     Right, and it's not an aggressive heat.
+},
+{
+    253.56,256.8
+     It gets up to about 104 degrees Fahrenheit.
+},
+{
+    256.8,259.66
+     And the nice thing about, they make one just for the wrist,
+},
+{
+    259.66,261.12
+     but I don't see any sense in doing that
+},
+{
+    261.12,264.68
+     because this one wraps up just like one of those-
+},
+{
+    264.68,265.52
+     A muff. Yeah, there you go. Yeah. Had one wraps up just like one of those- A moth.
+},
+{
+    265.52,266.64
+     Yeah, there you go.
+},
+{
+    266.64,268.68
+     Had one, well, I didn't, my sister had one.
+},
+{
+    268.68,269.76
+     Boys didn't worm when I was a kid.
+},
+{
+    269.76,270.6
+     That's right.
+},
+{
+    270.6,271.56
+     And you put your hands in here
+},
+{
+    271.56,273.44
+     and you give both wrists at once.
+},
+{
+    273.44,275.94
+     And not only that, then you have the full,
+},
+{
+    278.2,280.84
+     the full pad for your knee, your hip, your back.
+},
+{
+    280.84,284.16
+     Right, it's just a great thing.
+},
+{
+    284.16,286.0
+     We need a portable battery so you can use it in deer hunting, right? Ooh. So you can keep your back. You know, it's just a great thing. We need a portable battery so you can use it
+},
+{
+    286.0,287.04
+     in deer hunting, right?
+},
+{
+    287.04,288.56
+     So you can keep your hands warm.
+},
+{
+    288.56,290.0
+     Well, yeah, it's not far away.
+},
+{
+    290.0,292.4
+     And then you can disconnect the cord.
+},
+{
+    292.4,293.24
+     That's a nice thing.
+},
+{
+    293.24,295.88
+     But anyways, let's go to the exercises Bob.
+},
+{
+    295.88,297.8
+     Cause if heat's not, you know,
+},
+{
+    297.8,301.2
+     it doesn't seem to change the pain or increase it.
+},
+{
+    301.2,303.3
+     Or this, even if you do heat it up,
+},
+{
+    303.3,308.76
+     you still want to do the exercises actually. So the first one, now these are relatively simple.
+},
+{
+    308.76,310.12
+     We've got some tricky ones at the end
+},
+{
+    310.12,312.72
+     that are going to be some nice pearls,
+},
+{
+    312.72,314.02
+     if you will, to get you going.
+},
+{
+    314.02,318.48
+     But just simply extend the wrist and flex it.
+},
+{
+    318.48,320.76
+     And just work it back and forth.
+},
+{
+    320.76,323.6
+     It starts out slow, if it's tight one direction,
+},
+{
+    323.6,326.64
+     go, I say it hurts and it's tight this way.
+},
+{
+    326.64,328.06
+     Don't push it.
+},
+{
+    328.06,330.7
+     Just kind of work into it back and forth.
+},
+{
+    330.7,333.08
+     And after about 10 repetitions,
+},
+{
+    333.08,334.22
+     and it starts to loosen up,
+},
+{
+    334.22,337.2
+     then you can give it a little over pressure each time.
+},
+{
+    337.2,339.2
+     As long as it doesn't increase your pain.
+},
+{
+    339.2,340.04
+     Right.
+},
+{
+    340.04,342.64
+     If you do it each time when the pain gets better,
+},
+{
+    342.64,345.28
+     clearly improves, then you can go a little bit,
+},
+{
+    345.28,346.2
+     but use good judgment.
+},
+{
+    346.2,348.04
+     Some people will do it off the edge of a table.
+},
+{
+    348.04,348.88
+     Sure, yep.
+},
+{
+    348.88,350.72
+     So you can, you know, you can support the forearm.
+},
+{
+    350.72,351.56
+     Right.
+},
+{
+    351.56,354.92
+     And yeah, kind of a little pressure on, pressure off,
+},
+{
+    354.92,356.96
+     pressure on, pressure off.
+},
+{
+    356.96,359.0
+     I heard one instructor say,
+},
+{
+    359.0,360.84
+     don't enter the pain cave.
+},
+{
+    360.84,361.68
+     Oh.
+},
+{
+    361.68,362.52
+     Stay on the pain cave.
+},
+{
+    362.52,364.04
+     That's a good way to think about it.
+},
+{
+    364.04,366.64
+     You know, along with wrist, if you got wrist,
+},
+{
+    366.64,368.36
+     your fingers are probably a little tight.
+},
+{
+    368.36,369.84
+     You may wanna work that.
+},
+{
+    369.84,371.8
+     I know personally in my experience,
+},
+{
+    371.8,372.8
+     that's what I need to do.
+},
+{
+    372.8,375.88
+     But then the next thing you wanna do is circles.
+},
+{
+    375.88,376.72
+     Sure.
+},
+{
+    376.72,378.32
+     Not a tight fist, but a loose fist.
+},
+{
+    378.32,380.84
+     And you could do it straight or with a fist,
+},
+{
+    380.84,382.4
+     whatever works better.
+},
+{
+    382.4,385.8
+     And you go clockwise, start out small,
+},
+{
+    385.8,390.2
+     and as it feels better, work bigger and bigger.
+},
+{
+    390.2,392.12
+     Make sure you go both directions.
+},
+{
+    392.12,393.76
+     You know, 10, 15 repetitions.
+},
+{
+    393.76,394.92
+     I always liked that one, Brad,
+},
+{
+    394.92,397.16
+     that you'd show people is you put your fist like this
+},
+{
+    397.16,398.88
+     and then you'd twist out like that.
+},
+{
+    398.88,399.72
+     Sure.
+},
+{
+    399.72,401.84
+     And that's actually a good stretch for your forearm.
+},
+{
+    401.84,402.68
+     Yeah.
+},
+{
+    402.68,403.68
+     Right, I just always liked that one.
+},
+{
+    403.68,404.52
+     It just feels really good.
+},
+{
+    404.52,406.12
+     Yeah, that's a nice option.
+},
+{
+    406.12,407.2
+     Yeah, we always like to give people
+},
+{
+    407.2,409.0
+     a little more than we would say.
+},
+{
+    409.0,412.44
+     Now this next one is one I like personally,
+},
+{
+    412.44,414.76
+     but it's the decompression or traction.
+},
+{
+    414.76,415.6
+     Sure.
+},
+{
+    415.6,418.04
+     So all these joints, particularly if you're doing
+},
+{
+    418.04,421.48
+     a lot of pushing, you wanna decompress them,
+},
+{
+    421.48,423.76
+     pull them apart, let that synovial fluid
+},
+{
+    423.76,425.6
+     be able to get into those joint
+},
+{
+    425.6,427.24
+     crevasses, if you will.
+},
+{
+    427.24,431.64
+     So just relax, this is a hand I'm gonna do the traction on
+},
+{
+    431.64,433.56
+     or the decompression, relax it.
+},
+{
+    433.56,437.08
+     This hand's gonna grab around the back of the hand
+},
+{
+    437.08,442.08
+     and then I'm gonna support the weight of my elbow
+},
+{
+    442.12,443.12
+     on my thigh here.
+},
+{
+    443.12,444.44
+     You could do this on a table.
+},
+{
+    444.44,446.2
+     You probably wanna have a towel there
+},
+{
+    446.2,447.32
+     so it's comfortable.
+},
+{
+    447.32,449.92
+     Here, as a matter of fact, I'm going to use this.
+},
+{
+    449.92,451.36
+     Oh yeah, that helps a little bit.
+},
+{
+    451.36,452.88
+     And you just relax it.
+},
+{
+    452.88,457.16
+     The other hand, gently pulls and relax.
+},
+{
+    457.16,458.68
+     So you got kind of a pumping motion.
+},
+{
+    458.68,461.56
+     It's very slow and relax.
+},
+{
+    461.56,463.04
+     Now what you can do,
+},
+{
+    463.04,464.6
+     this is one of my little tricks I do
+},
+{
+    464.6,467.08
+     when my wrist gets kinda sore
+},
+{
+    467.08,469.48
+     and it kinda locks up, so I'll pull
+},
+{
+    469.48,470.88
+     and then I'll do some rotation.
+},
+{
+    470.88,471.72
+     Can you see that, Mike?
+},
+{
+    471.72,473.24
+     Oh, so the forearm is rotating.
+},
+{
+    473.24,474.72
+     You're not rotating the hand.
+},
+{
+    474.72,475.56
+     Exactly.
+},
+{
+    475.56,476.48
+     The forearm rotates.
+},
+{
+    476.48,478.8
+     This hand is stabilizing the hand.
+},
+{
+    478.8,480.04
+     I could see that, that would work.
+},
+{
+    480.04,482.72
+     And then I'm just rotating the wrist.
+},
+{
+    482.72,485.7
+     And that really gets some nice motion.
+},
+{
+    485.7,486.9
+     Did you see that, Mike?
+},
+{
+    488.34,489.6
+     You know, along with that,
+},
+{
+    489.6,492.08
+     I bet you could even just do a little bit of,
+},
+{
+    492.08,493.44
+     you know, pushing up and down.
+},
+{
+    493.44,494.76
+     Right, exactly.
+},
+{
+    494.76,497.16
+     Yep, you could go up and down this way.
+},
+{
+    497.16,498.8
+     Yep, move it all, yep.
+},
+{
+    498.8,500.44
+     And with all these things,
+},
+{
+    500.44,503.28
+     if you find one direction that feels really good,
+},
+{
+    503.28,504.68
+     that's what you wanna keep doing.
+},
+{
+    504.68,505.24
+     Exactly, exactly. I wanna show the Mulligan technique very similar to this, to some extent. If you find one direction that feels really good, right? That's what you want to keep doing exactly
+},
+{
+    505.24,509.4
+     Exactly, I want to show them all again technique very similar to this. Sure some extent
+},
+{
+    509.4,511.32
+     Do you want to have the that's a nice little rest?
+},
+{
+    511.32,516.96
+     So what you're gonna do is I'm gonna take my hand and the thumb is gonna push the bones
+},
+{
+    517.6,523.02
+     This way sure and my fingers are gonna push it the other way provide a counter force
+},
+{
+    523.24,525.84
+     So I go like this I push it over and this is pushing that counter force. So I go like this, I push it over,
+},
+{
+    525.84,527.32
+     and this is pushing that way,
+},
+{
+    527.32,529.48
+     and then I do flexion and extension while I'm doing that.
+},
+{
+    529.48,533.44
+     Oh, yep, yep, yeah, this is a typical Mulligan philosophy.
+},
+{
+    533.44,535.2
+     And I've had this where I had,
+},
+{
+    535.2,537.68
+     I felt like a wrist need to be cracked
+},
+{
+    537.68,538.84
+     or there was a kink in it.
+},
+{
+    538.84,540.0
+     Yeah, I know what you mean.
+},
+{
+    540.0,541.28
+     And that's where I did that one.
+},
+{
+    541.28,543.52
+     And I was like, wow, that felt really good.
+},
+{
+    543.52,544.36
+     You saw.
+},
+{
+    544.36,545.2
+     You mobilized it. I mobilized it, right. that felt really good. You saw- You mobilized it.
+},
+{
+    545.2,546.04
+     I mobilized it.
+},
+{
+    546.04,546.88
+     There you go.
+},
+{
+    546.88,548.0
+     Again, pain-free.
+},
+{
+    548.0,549.68
+     If it hurts, you do not do it.
+},
+{
+    549.68,550.6
+     Right.
+},
+{
+    550.6,553.76
+     But you'll know right away, does it, oh, it feels fine.
+},
+{
+    553.76,555.0
+     No, it doesn't hurt.
+},
+{
+    555.0,556.2
+     If it does hurt, you stop.
+},
+{
+    556.2,557.04
+     Yeah.
+},
+{
+    557.04,557.88
+     Very simple.
+},
+{
+    557.88,558.72
+     Exactly, Bob.
+},
+{
+    558.72,559.56
+     It's very, very simple.
+},
+{
+    559.56,561.6
+     A lot of these treatments are not that difficult.
+},
+{
+    561.6,563.52
+     You just have to understand the concept
+},
+{
+    563.52,564.9
+     and don't overdo it.
+},
+{
+    564.9,568.16
+     Take the way that is pain-free and there you go.
+},
+{
+    568.16,569.0
+     It's like a hammer.
+},
+{
+    569.0,571.52
+     If you keep hitting your thumb and it hurts,
+},
+{
+    571.52,573.44
+     stop hitting your thumb with the hammer.
+},
+{
+    573.44,575.2
+     Yeah, then you don't have to take ibuprofen.
+},
+{
+    575.2,576.04
+     That's right.
+},
+{
+    576.04,578.64
+     So these things are very simple in life if you just follow.
+},
+{
+    578.64,581.16
+     Remember Brad and I can fix just about anything.
+},
+{
+    581.16,582.8
+     Except for a broken heart.
+},
+{
+    582.8,583.64
+     There you go.
+},
+{
+    583.64,584.48
+     But we're working on that.
+},
+{
+    584.48,585.76
+     I don't know, I feel like Brad
+},
+{
+    585.76,587.44
+     hasn't been working hard enough on it.
+},
+{
+    587.44,589.28
+     It seems like you're slacking.
+},
+{
+    589.28,592.16
+     I know, but I'm gonna work on slacking too.
+},
+{
+    592.16,None
+     He's good at that. you
+},

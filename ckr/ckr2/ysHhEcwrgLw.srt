@@ -1,0 +1,388 @@
+{
+    0.0,10.2
+     Alright, welcome back to for bottom of your solutions.
+},
+{
+    10.2,15.04
+     Today I'm going to be showing you some basic techniques on locating difficult veins.
+},
+{
+    15.04,21.2
+     Now some people will have some problems locating veins with arms that maybe are larger arms,
+},
+{
+    21.2,29.32
+     somebody who's maybe obese or veins that are a lot deeper. So I'm going to show you some basic techniques that might help you to be able to locate a
+},
+{
+    29.32,34.64
+     vein with someone who has typical veins or again who might be obese and has larger arms.
+},
+{
+    34.64,36.28
+     Now, a couple of things.
+},
+{
+    36.28,41.96
+     Now I do have the setup here right here and I have the cap from the needle.
+},
+{
+    41.96,45.44
+     When I assembled this, I took off this white cap and then I placed it in
+},
+{
+    45.44,50.48
+     the vacutainer hub here. I'm going to show you that you can mark the site before you
+},
+{
+    50.48,55.56
+     alcohol so that you can actually see where you might be drawing. Now this is one little
+},
+{
+    55.56,61.08
+     tip as well as showing you how we can palpate in located difficult veins. Now after you're
+},
+{
+    61.08,66.28
+     done finding which arm you want to use, and even if you're just assessing the arm,
+},
+{
+    66.28,69.2
+     you want to be able to put your tourniquet on
+},
+{
+    69.2,71.92
+     and of course try to locate a vein first and foremost.
+},
+{
+    71.92,74.68
+     So usually what you do is you take your index finger here
+},
+{
+    74.68,77.6
+     and you'll actually start to push down and locate a vein.
+},
+{
+    77.6,80.8
+     Now I might have the person make a little fist like this,
+},
+{
+    80.8,83.64
+     but don't squeeze, just make a fist.
+},
+{
+    83.64,85.38
+     And I also don't want them to be pumping,
+},
+{
+    85.38,86.32
+     so I don't want them pumping,
+},
+{
+    86.32,88.36
+     because this can also cause hemoconcentration
+},
+{
+    88.36,90.08
+     and kind of mess up the test.
+},
+{
+    90.08,91.8
+     So I'll have them just close the fist
+},
+{
+    91.8,94.92
+     and just kind of squeeze a little bit, a little tighter,
+},
+{
+    94.92,96.84
+     okay, and that helps a little bit of the vein
+},
+{
+    96.84,98.2
+     to just stand up a little bit.
+},
+{
+    98.2,100.6
+     So then what I'll do is I'll start to palpate,
+},
+{
+    100.6,103.0
+     and I'll start to locate a vein if I can find one.
+},
+{
+    103.0,104.76
+     Now if I'm having a hard time here,
+},
+{
+    104.76,107.16
+     what I will do is I'll take the wrist, and I'll slightly to locate a vein if I can find one. Now if I'm having a hard time here, what I will do is I'll take the wrist and I'll
+},
+{
+    107.16,110.52
+     slightly bend the arm up as I'm palpating the area.
+},
+{
+    110.52,113.32
+     Make sure you know anatomically where your veins are.
+},
+{
+    113.32,116.76
+     The median cubital, the cephalic and the bacillic vein.
+},
+{
+    116.76,119.72
+     So you want to be locating and pushing in those areas.
+},
+{
+    119.72,130.64
+     The median cubital, kind of slightly bend the arm a little bit and locating in this aphalic area and slightly bend the arm. This will help you feel the vein as it's moving
+},
+{
+    130.64,134.88
+     in the arm. Keep your face close and just kind of push down a little bit. Now if
+},
+{
+    134.88,138.64
+     I'm still having a little bit of a difficult time with this part then what
+},
+{
+    138.64,144.0
+     I'll do is I'll slightly turn the wrist and pump up a little bit here while I'm
+},
+{
+    144.0,145.4
+     feeling and just turn the wrist as I'm feeling little bit here while I'm feeling.
+},
+{
+    145.4,149.32
+     And just turn the wrist as I'm feeling and locating.
+},
+{
+    149.32,153.16
+     Now a lot of times you'll see that when you're doing this you could actually feel where the
+},
+{
+    153.16,156.04
+     vein is, no matter how deep it is.
+},
+{
+    156.04,161.86
+     So once I find it, what I will do is I'll take this little cap here that I took off
+},
+{
+    161.86,165.24
+     and I'll put where the vein is if I feel it. I'll push
+},
+{
+    165.24,171.28
+     down on that site for a few seconds and as I'm pushing down I lift up there's a
+},
+{
+    171.28,178.28
+     little mark there. Now that mark if you lift up you might be able to see it.
+},
+{
+    178.28,189.28
+     There should be a little mark there on the arm. Okay that's an impression that's left from this little cap. Now do
+},
+{
+    189.28,195.36
+     not take it and do not twist it. Just put a little pressure here on the site, push
+},
+{
+    195.36,200.56
+     down, hold it for a few seconds, lift up and that should leave a little circle here that
+},
+{
+    200.56,208.78
+     actually tells you where you want to put the needle. So when you're ready to draw the blood, you want to make sure you're going to go right into that center you where you want to put the needle So when you're ready to draw the blood you want to make sure you're gonna go right into that center circle where you locate the vein
+},
+{
+    209.04,210.52
+     so again
+},
+{
+    210.52,213.32
+     You want to make sure that you bend the elbow a little bit or
+},
+{
+    213.88,217.42
+     You can twist and bend and push as you're locating the vein
+},
+{
+    218.24,221.32
+     Believe me that makes a big difference most people just like to push
+},
+{
+    221.4,224.08
+     But if you actually start to bend the elbow a little bit or
+},
+{
+    224.92,230.44
+     Turn as you're bending you can feel the vein. It makes it a lot easier and even on the back of the hands a
+},
+{
+    230.96,233.52
+     Lot of times it's a little difficult to find the back of the hands
+},
+{
+    233.68,240.8
+     But that's okay once you push down a lot times if you have someone who has larger hands and large hands from either
+},
+{
+    240.88,245.8
+     Medication they're swollen sometimes if you push down and hold pressure
+},
+{
+    245.8,248.12
+     and you lift up, it might leave an imprint,
+},
+{
+    248.12,251.06
+     you might be able to see a vein through that imprint
+},
+{
+    251.06,252.4
+     and kind of see where the veins are.
+},
+{
+    252.4,254.32
+     So I usually will push down here,
+},
+{
+    254.32,256.2
+     hold it for a few seconds, lift up,
+},
+{
+    256.2,258.56
+     and sometimes you can see the vein pushed down
+},
+{
+    258.56,261.2
+     from the pressure at the skin.
+},
+{
+    261.2,262.88
+     So if you're having difficult time,
+},
+{
+    262.88,264.8
+     tourniquet should be on right here as well,
+},
+{
+    264.8,266.52
+     three to four inches above the site,
+},
+{
+    266.52,267.88
+     push down here as well,
+},
+{
+    267.88,269.84
+     push down, hold pressure, lift up.
+},
+{
+    269.84,272.8
+     The other one again is right here,
+},
+{
+    272.8,274.24
+     three to four inches above the site,
+},
+{
+    274.24,275.08
+     and got one minute.
+},
+{
+    275.08,277.68
+     Once I do that, I can release the tourniquet.
+},
+{
+    277.68,278.84
+     I have my marking here.
+},
+{
+    278.84,280.52
+     So when I'm ready to draw,
+},
+{
+    280.52,282.24
+     I'm gonna put the tourniquet back on
+},
+{
+    282.24,284.08
+     and relocate my vein.
+},
+{
+    284.08,285.08
+     If I have to remark it, I will. But again, I'm gonna use the bending of theet back on and relocate my vein if I have to remark it
+},
+{
+    285.08,286.38
+     I will but again
+},
+{
+    286.38,291.42
+     I'm gonna use the bending of the elbow technique to try and locate a vein and once I find it and I marked it
+},
+{
+    291.52,294.24
+     Then I can go ahead and draw right where I marked it
+},
+{
+    294.56,296.84
+     Okay, so and if you don't want to use this that's fine
+},
+{
+    296.84,303.88
+     You don't have to but I use you will push down first here then alcohol the site once you all call you can never repalpate the site
+},
+{
+    304.16,308.68
+     Your hands your gloves are not sterile, so you don't want to repalpate.
+},
+{
+    308.68,316.8
+     So once again, locating a vein, put the tourniquet on, palpate the area, use the bending technique,
+},
+{
+    316.8,320.68
+     bend and twist if you have to, locating the three major veins, doing it in the back of
+},
+{
+    320.68,323.6
+     the hand as well, putting some pressure and then locating.
+},
+{
+    323.6,327.28
+     Then marking the site, alcoholing, and doing your technique.
+},
+{
+    327.28,330.08
+     So this is a little tip on how to locate difficult veins.
+},
+{
+    330.08,330.92
+     It works great.
+},
+{
+    330.92,334.32
+     Try it in your classroom or try it with a patient
+},
+{
+    334.32,337.04
+     and you'll see that you'll be able to find deeper veins
+},
+{
+    337.04,339.16
+     or veins are a little bit harder to find.
+},
+{
+    339.16,342.36
+     So thank you again for watching Fulbotomy Solutions,
+},
+{
+    342.36,None
+     Fulbotomy videos, and have a great day.
+},

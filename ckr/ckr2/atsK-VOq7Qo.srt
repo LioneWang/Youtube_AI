@@ -1,0 +1,376 @@
+{
+    0.0,10.0
+     Hi, I'm Bob Schrupp, physical therapist. Brad Heineck, physical therapist. Together we are the most famous physical therapists on the internet. In our opinion of course Bob. We should try to see how fast we can say that sometimes.
+},
+{
+    10.0,25.0
+     Alright, today we're going to talk about bone on bone arthritis and three things you can try for it are probably the hip and the knee.
+},
+{
+    25.0,27.0
+     We're really good on identifying joints.
+},
+{
+    27.0,31.0
+     What is bone-on-bone arthritis? Let's just real quickly talk about that.
+},
+{
+    31.0,38.0
+     On the end of the joint here or on the end of the bone, you actually have a really smooth surface.
+},
+{
+    38.0,46.0
+     Really, and this is a cartilage actually, hyaline cartilage, really thin layer, but it's very hard and it's very slippery.
+},
+{
+    46.0,50.0
+     And what can happen after a time, it starts to wear down or wear off.
+},
+{
+    50.0,52.0
+     Brad, give your analogy.
+},
+{
+    52.0,59.0
+     Like a bearing sort of steel on steel is really smooth and shiny with little lubrication in it, it works well.
+},
+{
+    59.0,66.08
+     But if things start to rust, they get pitted and things all of a sudden start to grind and it's just no good and that's kind of what's going on
+},
+{
+    66.08,68.08
+     Yeah, you can get little cavities here
+},
+{
+    68.52,70.52
+     cavitations and you can actually
+},
+{
+    70.92,72.92
+     pieces of it can break off so
+},
+{
+    73.52,78.42
+     It's you know little deficits there. I guess right. So it's no good. All right bone on bone
+},
+{
+    78.42,83.62
+     You can tell you know it's making noise a lot of times crepitus. It hurts. So these are the three things you want to try
+},
+{
+    83.62,87.2
+     Okay, okay number one. Maybe you want to back up a little bit Lonnie
+},
+{
+    87.2,89.76
+     Brad you want to throw me the cane there
+},
+{
+    92.76,98.12
+     Number one, the thing about arthritis, it tends to kind of flare up and calm down again
+},
+{
+    98.12,103.0
+     So especially when you're having a flare up, you want to go ahead and make sure you're using a gait aid
+},
+{
+    103.0,110.24
+     And by a gait aid, I mean a walker or a cane or something to take some of the weight off the knee. Now that's not saying that
+},
+{
+    110.24,114.96
+     you're going to keep using it forever but we do want you to try it just for a short while just to
+},
+{
+    114.96,121.76
+     calm the knee down. So we have a video on the proper way to measure a cane and we have videos on how
+},
+{
+    121.76,128.94
+     to proper way to use a cane but generally a lot of of times with the knee You're gonna use it in the opposite hand and whenever the knee is out there the cane is out there
+},
+{
+    128.94,130.74
+     Sure, you're taking weight on it
+},
+{
+    130.74,132.96
+     Some people do the Dr. House method
+},
+{
+    132.96,138.48
+     They actually keep the cane with the knee and they lean like this whatever floats your boat
+},
+{
+    138.72,141.46
+     Whatever makes the knee feel better. Yeah, so that's number one
+},
+{
+    141.46,145.64
+     You want to decrease some of the weight on the knee for a while to help decrease
+},
+{
+    146.14,152.78
+     Calm it down get the inflammation calm down. Number two the second thing you want to do you want to get some movement in that knee
+},
+{
+    152.78,158.86
+     Yeah movement without weight-bearing. So a lot of times biking works really well with that Brad
+},
+{
+    158.86,163.84
+     Why don't you bring this on over? This is an elliptical machine
+},
+{
+    164.46,168.76
+     This is the E1000 I'll put a link down below to our website
+},
+{
+    168.76,174.68
+     It's on the website. The thing about this Brad and I, we use this in every clinic we have
+},
+{
+    174.68,178.68
+     We've been using it for years and we use it in a seated position like this
+},
+{
+    178.68,181.52
+     You can use it standing too, but that's not the idea here
+},
+{
+    181.52,185.96
+     The idea is you're gonna get some movement in the knee without putting weight through it
+},
+{
+    185.96,191.96
+     Right and this is a great way to keep your knees healthy because it's it's generating the synovial fluid
+},
+{
+    191.96,198.24
+     And it's getting more oxygen to the knee and you know it helps even I think smooth the joint out a little bit
+},
+{
+    198.24,203.24
+     Sure, so this is a great thing you want to get some movement if you don't have
+},
+{
+    204.0,209.64
+     One of these like I said you could try a bike or I suppose even just
+},
+{
+    209.64,217.12
+     even some towels on the floor, maybe some sheet, a pan, what's the tin if you're just
+},
+{
+    217.12,219.32
+     making cookies, something like that.
+},
+{
+    219.32,221.16
+     We'll get through this Bob.
+},
+{
+    221.16,225.2
+     Alright, so that's number two, you want to get some movement in the knee.
+},
+{
+    225.2,230.0
+     The third thing, by the way this runs about 100, 120 bucks.
+},
+{
+    230.0,235.08
+     So the third thing you want to do is you want to strengthen the hip and the knee.
+},
+{
+    235.08,239.08
+     The reason I say the hip and the knee, quite often because people are having pain in the
+},
+{
+    239.08,241.4
+     knee that whole leg becomes weaker.
+},
+{
+    241.4,248.28
+     And if the hip becomes weaker it's going to put a harder more stress on the knee. Right because what happens at the hip changes
+},
+{
+    248.28,251.44
+     the mechanics at the knee. Right so they're both going to be weak so we
+},
+{
+    251.44,254.56
+     want to do some exercises to help strengthen. Brad why don't you talk about
+},
+{
+    254.56,260.48
+     your deal with what you do with patients. Oh yeah if you have symptoms getting out
+},
+{
+    260.48,266.92
+     of a chair and it hurts and we're getting up and down in those knees. I just had this this week with a patient.
+},
+{
+    266.92,269.6
+     I said just simply do kicks.
+},
+{
+    269.6,272.92
+     Okay, we call them learning our cries or just kicks like this.
+},
+{
+    272.92,278.16
+     Good slow motion up and hold and then come back down up and hold and then.
+},
+{
+    278.16,282.0
+     So if you've been sitting in someplace for an hour, you've been watching TV and
+},
+{
+    282.0,284.32
+     you know, oh Jesus, gonna hurt when I get up.
+},
+{
+    284.32,288.16
+     Take a few seconds and do ten of these so you're getting some
+},
+{
+    288.16,290.8
+     movement and you're getting some strengthening right and you're gonna do
+},
+{
+    290.8,295.32
+     on each leg and I bet you anything when you get up it's not gonna get rid of it
+},
+{
+    295.32,299.16
+     but it's gonna help a little bit okay okay all right some strengthening
+},
+{
+    299.16,307.2
+     exercise you can do on the floor in bed, wherever you want to try them.
+},
+{
+    307.2,310.52
+     Go ahead start with some straight leg raises.
+},
+{
+    310.52,315.36
+     You can bring, I'm actually going to work on this one right here, Brad.
+},
+{
+    315.36,317.64
+     I want to make sure my mic's okay.
+},
+{
+    317.64,320.08
+     This leg you can put up like this and you're going to go ahead and
+},
+{
+    320.08,321.92
+     bring the leg up like this.
+},
+{
+    321.92,322.76
+     Straight leg.
+},
+{
+    322.76,329.94
+     One, two, three, four, five, 6, 7, 8, 9, 10. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+},
+{
+    329.94,336.62
+     Toast straight up. It really does help to have this leg up like this. Yeah, it's easier on the back.
+},
+{
+    336.62,341.54
+     It's easier on a position. These are not that easy to do. You're gonna find out that, you know,
+},
+{
+    341.54,346.8
+     it's gonna be hard work. The second thing you can do then is just roll over onto your side
+},
+{
+    348.8,355.22
+     And now you can start going up like that. So again the leg is straight out to the side this leg is bent
+},
+{
+    355.22,360.38
+     So he's got some stability on the bottom and how high you can go as high as you feel you can
+},
+{
+    361.28,364.78
+     Because you may not be able to go that high you can go up. I can go higher.
+},
+{
+    365.9,368.3
+     But you don't need to go that high but you're gonna go up.
+},
+{
+    368.3,370.3
+     This is working right now.
+},
+{
+    370.3,374.1
+     And we're working that hip all the way down on the side of the knee.
+},
+{
+    374.1,376.4
+     And then you go ahead and talk Brad in case my mic goes away.
+},
+{
+    376.4,381.9
+     Okay now straight leg again back here laying down you know if you're on your
+},
+{
+    381.9,385.84
+     elbows or whatever you're comfortable with here so you can breathe and your shoulders aren't
+},
+{
+    386.72,389.32
+     uncomfortable and the same thing up and hold
+},
+{
+    389.84,396.52
+     Straight knee here a lot of people here will will do this and that's not what we're looking for we're looking for a
+},
+{
+    397.0,399.0
+     straight leg raise
+},
+{
+    399.16,400.4
+     again
+},
+{
+    400.4,406.48
+     And you know you can do that on both legs even if the other one's not hurting it's nice to even things out I think
+},
+{
+    406.48,410.32
+     Exactly, so you do about 10 repetitions typically on each of them
+},
+{
+    410.32,414.92
+     Right and if you know get to the point you can actually use some weights to induce some quads
+},
+{
+    415.32,417.92
+     In this position you can do some strap-on weights
+},
+{
+    417.92,419.92
+     Right the Velcro ones
+},
+{
+    419.92,422.62
+     As long as there's no pain that go around the ankle not the dumbbells
+},
+{
+    422.62,429.62
+     So all right very good give those three things to try if you have the bone-on-bone and hopefully you can get some relief for you. You better believe it
+},
+{
+    430.34,432.34
+     Thanks
+},

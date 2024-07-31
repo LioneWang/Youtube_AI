@@ -1,0 +1,792 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.68,8.02
+     on the internet.
+},
+{
+    9.44,11.28
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    11.28,12.56
+     Brad Heineck, physical therapist.
+},
+{
+    12.56,14.88
+     We are the most famous physical therapists on the internet.
+},
+{
+    14.88,16.36
+     In our opinion, of course, Bob.
+},
+{
+    16.36,17.96
+     Today, my friends, we're gonna show you
+},
+{
+    17.96,21.76
+     how to heal golfer's elbow with self massage.
+},
+{
+    21.76,25.42
+     So, golfer's elbow is a medical,
+},
+{
+    25.42,28.76
+     the medical term for it is meal epicondylitis.
+},
+{
+    28.76,29.6
+     Right there.
+},
+{
+    29.6,30.44
+     That sounds really fancy doesn't it?
+},
+{
+    30.44,31.34
+     Right.
+},
+{
+    31.34,32.88
+     So yeah, if you look at the elbow,
+},
+{
+    32.88,34.34
+     we've got the bump here.
+},
+{
+    34.34,36.54
+     You got a bump here and you got a bump here.
+},
+{
+    36.54,38.1
+     That's the inside bump.
+},
+{
+    38.1,40.16
+     That's what the medial, medial means that.
+},
+{
+    40.16,41.9
+     Epicondyl is the name of that bone.
+},
+{
+    41.9,43.24
+     Itis means inflammation.
+},
+{
+    43.24,44.08
+     There you go.
+},
+{
+    44.08,44.92
+     There you go.
+},
+{
+    44.92,45.74
+     Really easy. So to that bone, Itis means inflammation. There you go. There you go. Really easy.
+},
+{
+    45.74,49.76
+     So to that bone, coming to the bone is a tendon
+},
+{
+    49.76,51.76
+     which attaches a bunch of,
+},
+{
+    51.76,53.16
+     oh sorry, go the wrong way.
+},
+{
+    54.64,57.34
+     A bunch of these forearm muscles attach to this bone
+},
+{
+    57.34,59.52
+     through a heavy tendon here.
+},
+{
+    59.52,62.84
+     Now when these muscles are being overused,
+},
+{
+    62.84,67.0
+     like in golf, which it's never possible to play too much golf, but if they're being overused, like in golf, which is never possible to play too much golf.
+},
+{
+    67.0,68.88
+     But if they're being overused,
+},
+{
+    68.88,71.68
+     they can start to develop maybe minor tears
+},
+{
+    71.68,73.72
+     and inflammation in that tendon.
+},
+{
+    73.72,76.76
+     And it gets to the point where it really hurts.
+},
+{
+    76.76,77.68
+     And you can't do anything.
+},
+{
+    77.68,79.36
+     Now you had tennis level, right?
+},
+{
+    79.36,81.92
+     Yeah, I've had this too, but that's near so bad.
+},
+{
+    81.92,82.76
+     Sure.
+},
+{
+    82.76,84.52
+     I don't golf, you know,
+},
+{
+    84.52,88.12
+     so you don't, it can get it from a lot of different activities.
+},
+{
+    88.12,91.8
+     Any, like with tennis elbow, it's more extension activities
+},
+{
+    91.8,93.64
+     and with golf, it's more flexion actually.
+},
+{
+    93.64,94.88
+     Sure, right.
+},
+{
+    94.88,97.48
+     So it can be very tender.
+},
+{
+    98.6,102.76
+     You know, the approach that we take is that
+},
+{
+    102.76,106.48
+     there's some scar tissue in there that is trying to heal.
+},
+{
+    106.48,109.0
+     So we wanna get more blood flow over the area.
+},
+{
+    109.0,111.64
+     And we may even try to realign those fibers
+},
+{
+    111.64,113.4
+     according to James Sirrex,
+},
+{
+    113.4,115.4
+     the father of orthopedic medicine.
+},
+{
+    115.4,117.68
+     So this is the technique he came up with.
+},
+{
+    117.68,120.52
+     So we're gonna do cross fiber friction massage.
+},
+{
+    120.52,124.52
+     You can take your fingers and put one by the other
+},
+{
+    124.52,126.74
+     or you can put one on top of the other
+},
+{
+    126.74,129.72
+     and you're gonna go right and find that tender spot.
+},
+{
+    129.72,132.18
+     Usually you off the bone a little bit
+},
+{
+    132.18,134.7
+     and go in right over the tendon.
+},
+{
+    134.7,137.46
+     And you'll know if you get on the really tender spot,
+},
+{
+    137.46,139.26
+     it's just gonna hurt like a dick.
+},
+{
+    139.26,141.02
+     And so you need to get away from it.
+},
+{
+    141.02,142.1
+     Get away from it a little bit.
+},
+{
+    142.1,144.1
+     And go this direction more towards you,
+},
+{
+    144.1,145.24
+     more on the muscle.
+},
+{
+    145.24,147.96
+     Now Brad's using the thumb there, which would work
+},
+{
+    147.96,149.28
+     for the angle.
+},
+{
+    149.28,150.9
+     You can also use the fingers.
+},
+{
+    150.9,154.64
+     Now you're going to really dig in fairly deep.
+},
+{
+    154.64,157.08
+     And the fibers run this way.
+},
+{
+    157.08,159.12
+     So you're going to go across the fiber.
+},
+{
+    159.12,163.28
+     That's what it's called, a cross fiber friction massage.
+},
+{
+    163.28,164.92
+     Blind some friction there.
+},
+{
+    164.92,167.6
+     So you start massaging and in fact,
+},
+{
+    167.6,171.8
+     after 30 seconds to 60 seconds, it's just too tender.
+},
+{
+    171.8,174.52
+     It just keeps getting worse and worse and worse.
+},
+{
+    174.52,177.4
+     In that case, I'm gonna have you try massage number two
+},
+{
+    177.4,179.24
+     and I'll show that to you in a minute.
+},
+{
+    179.24,182.48
+     But let's say it starts to plateau the pain
+},
+{
+    182.48,187.7
+     and maybe even gets a little bit better. Then you can continue for up to 15 minutes now
+},
+{
+    187.7,193.92
+     We recommend because that's such a long time that maybe you want to split it up to three times a day for five minutes
+},
+{
+    193.92,195.92
+     Your fingers or your thumb will wear out right
+},
+{
+    196.56,200.32
+     Either that or you're gonna get some kind of itus in the hand
+},
+{
+    200.32,203.16
+     Yeah, you're gonna have really sore fingers and we'll show you an alternative for that
+},
+{
+    203.16,206.64
+     Brad wanted to show that right now? That you can use a massage gun.
+},
+{
+    206.64,207.48
+     Yep.
+},
+{
+    207.48,209.68
+     So let's take, well this one,
+},
+{
+    209.68,211.6
+     cause you have a round head actually works good.
+},
+{
+    211.6,214.08
+     You know, there's different types of heads.
+},
+{
+    214.08,216.52
+     Yeah, you can, I don't know if you can see those.
+},
+{
+    216.52,217.36
+     Well, that was good.
+},
+{
+    217.36,218.92
+     Black on black.
+},
+{
+    218.92,221.92
+     They come in the kit with the massage gun.
+},
+{
+    221.92,224.28
+     So we'll get this moving here.
+},
+{
+    224.28,225.64
+     And you need, when you get a gun,
+},
+{
+    225.64,229.74
+     they reciprocate or they travel percuss,
+},
+{
+    229.74,232.82
+     in one direction, you're not gonna go into it this way.
+},
+{
+    232.82,235.54
+     That is just gonna make it really inflamed and sore
+},
+{
+    235.54,236.54
+     and be painful.
+},
+{
+    236.54,238.64
+     So you turn the gun sideways
+},
+{
+    238.64,241.4
+     and you may wanna start more on the muscle belly
+},
+{
+    241.4,244.34
+     and you work your way closer to the area.
+},
+{
+    244.34,246.72
+     And you know, you can have a little pain with it
+},
+{
+    246.72,250.2
+     but like Bob said, after 30 seconds or a little more
+},
+{
+    250.2,253.2
+     it should plateau or even start to feel better
+},
+{
+    253.2,255.6
+     and then you can move a little closer.
+},
+{
+    255.6,258.16
+     So you gotta find that happy medium
+},
+{
+    258.16,261.44
+     but if it's just too painful and it hurts
+},
+{
+    261.44,262.8
+     and it's getting worse,
+},
+{
+    262.8,264.8
+     then you gotta back up and get into the muscle belly.
+},
+{
+    264.8,266.84
+     Yeah, get into the muscle belly, work the belly
+},
+{
+    266.84,269.36
+     and see if you can loosen up that belly.
+},
+{
+    269.36,270.72
+     I'm gonna show you one other thing you can do
+},
+{
+    270.72,273.68
+     on a tendon too, but that would definitely be something
+},
+{
+    273.68,276.2
+     you can do, and that you can go directly into right Brad.
+},
+{
+    276.2,277.44
+     Yep, then you can work it.
+},
+{
+    277.44,279.6
+     And the idea is if you get the tightness
+},
+{
+    279.6,282.72
+     out of the muscle belly, it'll take stress
+},
+{
+    282.72,283.56
+     off where the injury is.
+},
+{
+    283.56,284.68
+     Yeah, well, pull us hard on that.
+},
+{
+    284.68,285.52
+     There you go. Yeah. So, pull us hard on that. There you go.
+},
+{
+    285.52,288.92
+     So, the other thing you can try is,
+},
+{
+    288.92,291.76
+     if it's just really tender over the tendon yet,
+},
+{
+    291.76,294.04
+     you can actually put your thumb right on it.
+},
+{
+    294.04,296.94
+     This is a McKenzie technique, Robin McKenzie.
+},
+{
+    296.94,299.44
+     Just put your thumb on it and squeeze it a little bit,
+},
+{
+    299.44,301.88
+     and then you're gonna bend the wrist
+},
+{
+    301.88,304.36
+     and do this just 10 times.
+},
+{
+    304.36,307.08
+     So with your thumb, you can feel the muscles contract.
+},
+{
+    307.08,309.28
+     You can feel the tendon.
+},
+{
+    309.28,311.12
+     I'm right on the tendon.
+},
+{
+    311.12,315.56
+     And this is just to start preparing the tendon
+},
+{
+    315.56,316.78
+     for some pressure.
+},
+{
+    318.52,321.52
+     And a lot of times that pressure, it actually feels good.
+},
+{
+    321.52,322.36
+     Right.
+},
+{
+    322.36,323.4
+     You know, if it's not too tender,
+},
+{
+    323.4,326.94
+     depending on, you know, you just adjust the low position.
+},
+{
+    326.94,329.96
+     So in essence, you know, the fallback position
+},
+{
+    329.96,332.4
+     is you work on the muscle belly.
+},
+{
+    332.4,333.24
+     Sure, yep.
+},
+{
+    333.24,335.44
+     And you can always almost always do that.
+},
+{
+    335.44,339.16
+     And that'll again, take more pressure off the tendon itself.
+},
+{
+    340.16,343.6
+     And the massage gun will save your hands
+},
+{
+    343.6,348.62
+     and maybe save your marriage if your spouse needs it done.
+},
+{
+    348.76,349.6
+     So.
+},
+{
+    349.6,351.8
+     You could actually even use the balls on that
+},
+{
+    351.8,353.44
+     if you didn't have a gun or whatever.
+},
+{
+    353.44,355.88
+     You could roll your forearm on there
+},
+{
+    355.88,359.56
+     or you could roll the ball on the forearm.
+},
+{
+    359.56,363.04
+     So you can't do cross fiber with these though.
+},
+{
+    363.04,363.88
+     No.
+},
+{
+    363.88,364.72
+     That really wouldn't work.
+},
+{
+    364.72,366.92
+     But it does get in and it gives some relief.
+},
+{
+    366.92,369.24
+     Brad, I'm gonna show a little bit of a bonus here.
+},
+{
+    369.24,371.96
+     Just some forearm stretches you can do to help.
+},
+{
+    371.96,375.98
+     Sometimes with a forearm problem.
+},
+{
+    375.98,378.74
+     Now you can first tell whether or not your forearm
+},
+{
+    378.74,381.08
+     is tight with pronation supination.
+},
+{
+    381.08,381.92
+     Sure.
+},
+{
+    381.92,385.92
+     By you first put your hands, pull up,
+},
+{
+    385.92,388.8
+     and if you put a ruler across your wrist,
+},
+{
+    388.8,391.16
+     they should be nearly level.
+},
+{
+    392.04,393.84
+     Now the other way, the same thing.
+},
+{
+    393.84,395.92
+     They should be nearly level.
+},
+{
+    395.92,398.28
+     If you find one that's like this,
+},
+{
+    398.28,400.08
+     and the other one's all the way down,
+},
+{
+    400.08,402.68
+     this one needs a lot of stretching.
+},
+{
+    402.68,405.14
+     So what you're gonna do is you're gonna bring it up
+},
+{
+    405.14,408.16
+     and you can stretch it this way
+},
+{
+    409.66,410.8
+     with a palm away from you
+},
+{
+    410.8,413.26
+     and you can stretch it palm toward you.
+},
+{
+    413.26,415.42
+     So the elbows bent all the way?
+},
+{
+    415.42,417.88
+     Elbows bent, you're into your side.
+},
+{
+    417.88,418.72
+     Yep, right there.
+},
+{
+    418.72,421.28
+     You're stretching it palm out.
+},
+{
+    421.28,422.8
+     You're stretching it palm in.
+},
+{
+    422.8,424.08
+     So you're not grabbing the hand,
+},
+{
+    424.08,427.4
+     you're grabbing the wrist. The wrist and try to get a good hold of that.
+},
+{
+    427.4,429.72
+     So I'll show you on the left side now.
+},
+{
+    429.72,430.64
+     I'm gonna grab the wrist,
+},
+{
+    430.64,434.92
+     I'm gonna take it palm out and then take it palm in.
+},
+{
+    436.8,437.76
+     There we go.
+},
+{
+    437.76,440.92
+     Yep, so we got flat here and it's down there.
+},
+{
+    440.92,445.12
+     Yep, and if you're lacking motion,
+},
+{
+    445.12,447.6
+     that elbow and the tendon
+},
+{
+    447.6,449.68
+     need to take up the extra motion
+},
+{
+    449.68,450.88
+     and they're gonna work harder.
+},
+{
+    450.88,454.44
+     It's just as simple as physics, I guess it would be, Brad.
+},
+{
+    454.44,455.88
+     Yep, physics, mechanics.
+},
+{
+    455.88,457.24
+     Yep, biomechanics.
+},
+{
+    457.24,458.08
+     There you go.
+},
+{
+    458.08,460.32
+     So, all right.
+},
+{
+    460.32,461.16
+     Thanks for watching.
+},
+{
+    461.16,462.0
+     That's it?
+},
+{
+    462.0,462.82
+     Yeah, that's it.
+},
+{
+    462.82,463.66
+     Oh, excellent.
+},
+{
+    463.66,465.32
+     Well, what about, are we gonna? No. Oh, we'll do on the next one. Okay. That's it? Yeah, that's it. Oh, excellent. Well, what about, are we gonna?
+},
+{
+    465.32,466.16
+     Oh, we'll do on the next one.
+},
+{
+    466.16,467.0
+     Oh, okay.
+},
+{
+    467.0,467.84
+     Just a surprise.
+},

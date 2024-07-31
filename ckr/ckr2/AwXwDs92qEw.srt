@@ -1,0 +1,1276 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.16,12.96
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    12.96,14.12
+     Brad Heineck, physical therapist.
+},
+{
+    14.12,16.08
+     We're the most famous physical therapists on the internet.
+},
+{
+    16.08,17.36
+     In our opinion, of course, Bob.
+},
+{
+    17.36,19.56
+     Today we're gonna talk about how to use a TENS unit
+},
+{
+    19.56,22.92
+     with low back pain and basically we're gonna show you
+},
+{
+    22.92,24.92
+     correct pad placement.
+},
+{
+    24.92,26.86
+     As a bonus, at the end of this video, we're gonna show you correct pad placement. As a bonus, at the end of this video,
+},
+{
+    26.86,28.8
+     we're gonna show you a treatment that you can do
+},
+{
+    28.8,30.92
+     along with the pain, you know, pain.
+},
+{
+    30.92,31.76
+     Two of them, right?
+},
+{
+    31.76,32.58
+     Along with the 10s, yeah.
+},
+{
+    32.58,37.04
+     Two different treatments that work with a lot of back patients.
+},
+{
+    37.04,40.32
+     And you can sometimes, by using the 10s,
+},
+{
+    40.32,41.68
+     it calms down the pain enough
+},
+{
+    41.68,44.36
+     that you can do the treatments successfully.
+},
+{
+    44.36,46.22
+     So yeah, they're two exercises.
+},
+{
+    46.22,47.06
+     Yeah.
+},
+{
+    47.06,50.36
+     So what we're doing here is we're not really showing you
+},
+{
+    50.36,51.88
+     how to use a 10s unit.
+},
+{
+    51.88,54.62
+     And we're not trying to be deceptive here,
+},
+{
+    54.62,55.72
+     but what we're gonna talk-
+},
+{
+    55.72,57.24
+     We do show it on other videos.
+},
+{
+    57.24,58.92
+     We show it on other videos.
+},
+{
+    58.92,63.0
+     Brad and I have tried dozens and dozens of 10s units
+},
+{
+    63.0,65.98
+     and they all worked. they all worked great.
+},
+{
+    65.98,67.42
+     A lot of them are really powerful,
+},
+{
+    67.42,69.88
+     a lot of them work out fantastic.
+},
+{
+    69.88,72.76
+     Some of them have really poor instructions.
+},
+{
+    72.76,76.32
+     So we decided after a while, after we've viewed quite a few
+},
+{
+    76.32,79.04
+     that we're gonna endorse just one brand.
+},
+{
+    79.04,83.32
+     And we endorse the Irelieve because it's FDA approved,
+},
+{
+    83.32,87.76
+     it's compact, it's powerful, it has it all, it's good instructions.
+},
+{
+    87.76,89.64
+     Yeah, they work well, we're happy with them.
+},
+{
+    89.64,91.08
+     In addition to their instructions,
+},
+{
+    91.08,94.42
+     we've actually done a step-by-step video
+},
+{
+    94.42,97.56
+     on how to use three of their different models.
+},
+{
+    97.56,101.76
+     The 1313, the 8080 and the 5050.
+},
+{
+    101.76,104.12
+     And that varies from their low priced one
+},
+{
+    104.12,106.92
+     up to their highest priced one, which is a wireless one.
+},
+{
+    106.92,111.28
+     So if you wanna see those, go to bobandbrad.com,
+},
+{
+    111.28,115.88
+     go to our program section and look for the TENS program.
+},
+{
+    115.88,118.76
+     And under TENS program, you'll find a video
+},
+{
+    118.76,123.24
+     that says 1313 step-by-step or 8080 step-by-step.
+},
+{
+    123.24,125.88
+     And along with that, as well as these,
+},
+{
+    125.88,128.2
+     there's PDF printouts for each video.
+},
+{
+    128.2,129.32
+     Oh, thanks for reminding me Brad.
+},
+{
+    129.32,130.72
+     We didn't mention it on the last video.
+},
+{
+    130.72,132.32
+     Yes, I forgot too.
+},
+{
+    132.32,133.88
+     But that makes it very convenient.
+},
+{
+    133.88,135.96
+     Watch a video, get the printout,
+},
+{
+    135.96,138.24
+     and then, well, you don't have to refer back to the video.
+},
+{
+    138.24,141.36
+     You can look at the printout and it'll remind you
+},
+{
+    141.36,142.2
+     of what we talked about.
+},
+{
+    142.2,145.16
+     Yeah, so like if you find this video on our website,
+},
+{
+    145.16,147.96
+     there'll be a printout of what we talked about today
+},
+{
+    147.96,149.92
+     so you know where to place the pads.
+},
+{
+    149.92,151.64
+     And that's what we're gonna talk about next.
+},
+{
+    151.64,153.72
+     So we're low back pain,
+},
+{
+    153.72,156.84
+     we're gonna show you one sided with one channel,
+},
+{
+    156.84,158.96
+     and then we're gonna show you low back pain,
+},
+{
+    158.96,161.32
+     let's say you have a more larger area,
+},
+{
+    161.32,163.84
+     so we'll show two sided with two channels.
+},
+{
+    163.84,166.76
+     Now, all of you have told us that you don't want to see us
+},
+{
+    166.76,170.8
+     with our shirts off, so we're gonna have our cameraman,
+},
+{
+    170.8,173.7
+     Mike, come on out, and I'm gonna be the camera person.
+},
+{
+    173.7,174.54
+     Oh, you are?
+},
+{
+    174.54,175.54
+     Yeah, you can handle it, can't you?
+},
+{
+    175.54,177.16
+     Well, I'll give it a go, Bob.
+},
+{
+    177.16,179.12
+     I can comment still behind the camera, too.
+},
+{
+    179.12,180.46
+     Sure.
+},
+{
+    180.46,182.48
+     All right, Mike's gonna come on out,
+},
+{
+    182.48,187.52
+     and everybody take note of his SpongeBob, Bob,
+},
+{
+    187.52,189.4
+     SpongeBob, SpongeBob.
+},
+{
+    189.4,190.9
+     SpongeBob, yeah.
+},
+{
+    190.9,195.82
+     SpongeBob shirt, that's his pride and joy.
+},
+{
+    195.82,199.76
+     So luckily Mike is not mic'd up so we can't hear him.
+},
+{
+    199.76,202.44
+     So Mike, if you wanna go ahead and...
+},
+{
+    202.44,204.36
+     I know the camera.
+},
+{
+    204.36,205.5
+     Mike, you wanna go ahead? Faint know the camera. Mike, you wanna go ahead.
+},
+{
+    205.5,206.34
+     Faintly.
+},
+{
+    207.64,208.96
+     All right, there we go.
+},
+{
+    209.9,212.22
+     So Brad's gonna start off with the low back.
+},
+{
+    212.22,214.94
+     Again, one-sided, that means one channel.
+},
+{
+    214.94,215.78
+     Yep.
+},
+{
+    215.78,218.68
+     Okay, so we're gonna start one channel.
+},
+{
+    218.68,221.02
+     We have our pads here.
+},
+{
+    221.02,225.0
+     Typically, all of these will come with four pads,
+},
+{
+    226.2,227.4
+     two pads per channel.
+},
+{
+    227.4,231.52
+     We colored them yellow and green, each channel,
+},
+{
+    231.52,232.88
+     just so it's easier to see.
+},
+{
+    232.88,233.92
+     They'll come black.
+},
+{
+    233.92,235.28
+     Sometimes they're white,
+},
+{
+    235.28,237.76
+     but they're not colored when you pull them out of the box.
+},
+{
+    237.76,240.68
+     It's just for instructional purposes.
+},
+{
+    240.68,243.28
+     Each channel gets one wire,
+},
+{
+    243.28,245.0
+     which actually has two wires.
+},
+{
+    246.36,248.36
+     Yeah, leads that are also called.
+},
+{
+    248.36,252.62
+     Yep, leads, pigtails, you'll hear different terminology
+},
+{
+    252.62,254.52
+     for that, so I'm gonna take a pad.
+},
+{
+    254.52,256.52
+     Let's see, Mike, my fingers are cold, Mike,
+},
+{
+    256.52,257.72
+     so he might jump.
+},
+{
+    257.72,258.56
+     He's gonna jump.
+},
+{
+    258.56,262.86
+     On the right side, let's see, belt line pain right there.
+},
+{
+    262.86,264.24
+     Yep.
+},
+{
+    264.24,266.1
+     If the pain is right there,
+},
+{
+    266.1,267.7
+     it's kind of a focal point.
+},
+{
+    267.7,272.7
+     One option is to put one pad right over the painful spot.
+},
+{
+    273.14,273.98
+     Okay.
+},
+{
+    274.9,277.38
+     And then take the second pad
+},
+{
+    278.9,280.82
+     and you could go above.
+},
+{
+    280.82,284.5
+     Now, you can, the big thing you do not wanna do
+},
+{
+    284.5,285.6
+     is go too close.
+},
+{
+    285.6,287.48
+     You should never be touching.
+},
+{
+    287.48,289.64
+     You want to keep the width of one pad
+},
+{
+    289.64,293.12
+     that's about there, that much distance between,
+},
+{
+    293.12,294.32
+     or you can go a little farther,
+},
+{
+    294.32,296.16
+     but you're not going to go way up here.
+},
+{
+    296.16,299.44
+     You know, so you're going to be that one to two inches there.
+},
+{
+    299.44,303.28
+     And then Mike could take this and turn it on
+},
+{
+    303.28,307.84
+     and increase the intensity and see how it responds.
+},
+{
+    307.84,309.6
+     Yeah, so it's always an experiment.
+},
+{
+    309.6,313.64
+     There's really no specific right or wrong.
+},
+{
+    313.64,317.2
+     Mike's gonna give it a try if he feels good.
+},
+{
+    317.2,318.04
+     Yeah.
+},
+{
+    318.04,319.44
+     Yeah, leave him there.
+},
+{
+    319.44,321.48
+     If he doesn't like the way it's feeling,
+},
+{
+    321.48,324.48
+     it's not managing the pain or reducing the pain.
+},
+{
+    324.48,326.0
+     You could try over here. You could try over here.
+},
+{
+    326.0,327.54
+     You could try over here.
+},
+{
+    327.54,329.1
+     I'm not gonna have him pull his pants down,
+},
+{
+    329.1,330.48
+     but we could go below.
+},
+{
+    330.48,333.04
+     We're not gonna obviously go over the cloth.
+},
+{
+    333.04,335.48
+     And one thing I didn't mention yet is
+},
+{
+    335.48,338.88
+     make sure you clean the skin very well with soap and water.
+},
+{
+    338.88,340.52
+     Dry it well.
+},
+{
+    340.52,341.76
+     Keep the pads clean.
+},
+{
+    341.76,346.76
+     They always keep these plastic keepers, I'm gonna call it,
+},
+{
+    346.76,348.12
+     available.
+},
+{
+    348.12,351.4
+     You always put them back on there when you're done.
+},
+{
+    351.4,353.36
+     And pull them off here.
+},
+{
+    353.36,357.4
+     You can take off the oils of the skin with soap and water
+},
+{
+    357.4,359.16
+     because that would also affect the pads.
+},
+{
+    359.16,360.0
+     Right.
+},
+{
+    360.0,360.84
+     Didn't I mention that?
+},
+{
+    360.84,361.68
+     Oh, did you?
+},
+{
+    361.68,363.6
+     That's all right.
+},
+{
+    363.6,364.96
+     It's always good to hear it twice.
+},
+{
+    364.96,366.4
+     It's really important.
+},
+{
+    366.4,368.44
+     Mike has a gorilla back with hair on it.
+},
+{
+    368.44,370.6
+     You're gonna have to shave it, but he looks pretty smooth.
+},
+{
+    370.6,371.44
+     Exactly.
+},
+{
+    371.44,374.84
+     If you do have a hairy back, you really need to shave it
+},
+{
+    374.84,376.76
+     because that will interfere with the conduction
+},
+{
+    376.76,379.16
+     of the current and the effects of it
+},
+{
+    379.16,382.08
+     as well as keeping the pads last longer.
+},
+{
+    382.08,384.92
+     So, how should we go to four?
+},
+{
+    384.92,386.8
+     No, how about the other option of,
+},
+{
+    386.8,389.12
+     let's say you surround the pain.
+},
+{
+    389.12,391.34
+     Let's say you only have two pads,
+},
+{
+    391.34,394.48
+     but let's say, point to where the pain is.
+},
+{
+    394.48,396.76
+     The pain is still the same location,
+},
+{
+    396.76,400.12
+     but we're gonna go on both sides of it.
+},
+{
+    400.12,402.0
+     So we're gonna cross.
+},
+{
+    402.0,406.04
+     So the current actually goes from one pad to the other.
+},
+{
+    406.04,408.7
+     And so just imagine that's where it's going.
+},
+{
+    408.7,410.32
+     We can go there.
+},
+{
+    410.32,414.56
+     You know, we could go here and then below the pain.
+},
+{
+    414.56,418.2
+     I'm gonna go there, pretend the pain is up higher
+},
+{
+    418.2,420.24
+     so that I can go on the skin.
+},
+{
+    420.24,423.18
+     Or you can, you know, you can go crisscrosses.
+},
+{
+    423.18,426.1
+     It really doesn't matter where you put it,
+},
+{
+    426.1,428.46
+     but you wanna cross the pain.
+},
+{
+    428.46,432.26
+     If the pain is a global area on this side,
+},
+{
+    432.26,434.9
+     you could, are we gonna go four channels on one side?
+},
+{
+    434.9,437.56
+     I would also say Brad, right from the start,
+},
+{
+    437.56,440.16
+     I probably wouldn't put it right on the spine,
+},
+{
+    440.16,441.3
+     right on the bony spine.
+},
+{
+    441.3,442.14
+     Sure, yep.
+},
+{
+    442.14,443.9
+     I would stay off that area.
+},
+{
+    443.9,446.4
+     I would stick more into the soft tissue.
+},
+{
+    446.4,448.24
+     Sure, like that.
+},
+{
+    448.24,449.08
+     Yep.
+},
+{
+    449.08,450.6
+     Yep, and then over here.
+},
+{
+    451.76,453.08
+     Let's say if it is,
+},
+{
+    454.84,456.36
+     we're gonna go way up to here.
+},
+{
+    456.36,459.52
+     Let's say it's kind of a global area.
+},
+{
+    459.52,462.08
+     Then you take both channels,
+},
+{
+    462.08,465.0
+     which works fine to use them both at the same time.
+},
+{
+    465.0,468.26
+     So yeah, now he's using all four pads.
+},
+{
+    468.26,473.12
+     And I'm going to take channel one and place them as such.
+},
+{
+    473.12,477.06
+     Channel two, we're going to go here.
+},
+{
+    477.06,479.56
+     Oops.
+},
+{
+    479.56,486.84
+     And again, on the PDF, it's got actually pictures of this, so you can get that reinforced as to where you might try it.
+},
+{
+    486.84,489.4
+     But do you wanna show how the current travels
+},
+{
+    489.4,490.24
+     between the two, Brad?
+},
+{
+    490.24,492.24
+     Yeah, so it's gonna go yellow to yellow.
+},
+{
+    492.24,495.72
+     Channel one to channel one, channel two to channel two.
+},
+{
+    495.72,499.64
+     So it crisscrosses and that way you get a more
+},
+{
+    499.64,504.64
+     broad area for pain management and to decrease that pain.
+},
+{
+    504.64,508.18
+     You know, again, I can get these little farther apart
+},
+{
+    508.18,509.88
+     without any problem.
+},
+{
+    509.88,512.4
+     I'm certainly not gonna go this far apart.
+},
+{
+    512.4,514.0
+     I think that's too far.
+},
+{
+    514.0,516.64
+     So, you know, you can cover one side of the back easy.
+},
+{
+    516.64,519.2
+     And actually we're gonna show both sides of the back.
+},
+{
+    519.2,520.38
+     Yeah, if you go both sides of the back,
+},
+{
+    520.38,524.48
+     you could put one on one side and one on the other side.
+},
+{
+    524.48,526.06
+     Yep, just like that.
+},
+{
+    526.06,528.0
+     And this works nice if it's more central,
+},
+{
+    528.0,529.46
+     but a larger area.
+},
+{
+    529.46,531.98
+     If you're feeling it on the spine,
+},
+{
+    531.98,534.18
+     but we don't wanna put pads on there,
+},
+{
+    534.18,537.66
+     there we go, and then we got a crisscross going on.
+},
+{
+    537.66,539.82
+     Now, I just wanna repeat this again.
+},
+{
+    539.82,542.34
+     I've had a lot of patients where the pain
+},
+{
+    542.34,544.3
+     is at the belt line,
+},
+{
+    544.3,547.12
+     so then obviously you gotta drop the pants down.
+},
+{
+    547.12,552.12
+     And you'll have the pads actually on one butt.
+},
+{
+    552.24,555.48
+     On each cheek and these will drop down.
+},
+{
+    555.48,557.2
+     Then you just pull the pants up over the top.
+},
+{
+    557.2,558.04
+     And that works good,
+},
+{
+    558.04,561.4
+     because that actually holds the pads in place a little bit.
+},
+{
+    561.4,562.96
+     Yeah, see what works for you.
+},
+{
+    562.96,563.8
+     Exactly.
+},
+{
+    563.8,565.42
+     It's nice, you can hook up the pads
+},
+{
+    565.42,567.26
+     and then you just put the unit in your pocket
+},
+{
+    567.26,570.54
+     and you've got some relief all, you know,
+},
+{
+    570.54,571.7
+     for a couple of hours.
+},
+{
+    571.7,575.66
+     And luckily with 10 sometimes you get some relief afterwards
+},
+{
+    575.66,576.7
+     even after you stop using it.
+},
+{
+    576.7,579.38
+     Yeah, that's very common report.
+},
+{
+    579.38,581.9
+     So these would be all hooked up accordingly.
+},
+{
+    581.9,584.58
+     This would go in his pocket and.
+},
+{
+    584.58,585.56
+     All right, set it up.
+},
+{
+    585.56,587.84
+     Mike, why don't you come on back?
+},
+{
+    587.84,589.04
+     Brad, you wanna take those off?
+},
+{
+    589.04,590.62
+     Oh!
+},
+{
+    590.62,593.08
+     And then we'll show the exercise next.
+},
+{
+    593.08,593.92
+     Oh, okay.
+},
+{
+    593.92,595.32
+     So I'm gonna take them off.
+},
+{
+    595.32,596.8
+     And like I mentioned before,
+},
+{
+    596.8,600.36
+     we'll put them back on the holding plastic.
+},
+{
+    600.36,602.12
+     They're home to stay clean.
+},
+{
+    602.12,603.36
+     Thank you, Mike.
+},
+{
+    603.36,604.76
+     Good work, Mike.
+},
+{
+    604.76,607.28
+     Putting up with my nice cold hands.
+},
+{
+    607.28,609.12
+     He does have cold hands.
+},
+{
+    609.12,611.6
+     All right, Brad, if you wanna stand up,
+},
+{
+    611.6,612.84
+     if you don't mind for a second,
+},
+{
+    612.84,614.56
+     I'm gonna go ahead and jump right in there.
+},
+{
+    614.56,615.56
+     Yep, go ahead.
+},
+{
+    615.56,619.32
+     Now a common exercise for just the average person,
+},
+{
+    619.32,620.88
+     let's say you're not too old,
+},
+{
+    620.88,622.52
+     like when you get into your 50s and 60s,
+},
+{
+    622.52,625.12
+     a lot of you are gonna have spinal stenosis
+},
+{
+    625.12,628.12
+     and some arthritis and this may not feel good.
+},
+{
+    628.12,631.6
+     So this is probably maybe for a little bit younger person,
+},
+{
+    631.6,633.96
+     but this is one that you should always try
+},
+{
+    633.96,635.86
+     is trunk extensions.
+},
+{
+    635.86,638.4
+     So what you're gonna do is lay flat on your stomach,
+},
+{
+    638.4,640.56
+     hopefully not crush your tie,
+},
+{
+    640.56,643.12
+     put your hands right underneath your shoulders
+},
+{
+    643.12,644.24
+     and you're gonna press up.
+},
+{
+    644.24,647.76
+     And we start off with like mini press ups,
+},
+{
+    647.76,648.6
+     Brad calls them.
+},
+{
+    648.6,650.08
+     Yeah.
+},
+{
+    650.08,653.32
+     So notice he keeps his waistline at the belt.
+},
+{
+    653.32,655.12
+     Yeah, I'm not lifting up like this.
+},
+{
+    655.12,658.12
+     I'm getting movement in the spine.
+},
+{
+    658.12,661.04
+     And it's kind of the opposite of what you typically put
+},
+{
+    661.04,663.52
+     stress on the back during the day.
+},
+{
+    663.52,666.0
+     You're doing a lot of bending forward during the day.
+},
+{
+    666.0,667.6
+     This helps counteract that.
+},
+{
+    667.6,670.12
+     It helps it stretch in the other direction.
+},
+{
+    670.12,671.92
+     And then eventually you wanna see if you can get
+},
+{
+    671.92,675.92
+     all the way up like this without lifting your pelvis off.
+},
+{
+    675.92,677.4
+     You'll get up to here,
+},
+{
+    677.4,679.52
+     and then your pelvis starts coming off.
+},
+{
+    679.52,682.2
+     You have to keep working this area here.
+},
+{
+    682.2,685.92
+     Keep in mind if this irritates or this causes pain,
+},
+{
+    685.92,688.76
+     or particularly pain down the leg,
+},
+{
+    688.76,690.28
+     then you're not gonna wanna do it.
+},
+{
+    690.28,691.64
+     You should just do this gently.
+},
+{
+    691.64,694.64
+     It should feel good while you do it,
+},
+{
+    694.64,695.96
+     and after you get done.
+},
+{
+    695.96,698.0
+     People often say it hurts so good.
+},
+{
+    698.0,700.56
+     You know, it feels like the right kind of pain.
+},
+{
+    700.56,703.92
+     Now, one that you almost everybody can do
+},
+{
+    703.92,707.76
+     would be the gentle, what we call trunk rotations.
+},
+{
+    707.76,712.32
+     So you lay in, you lie down in the hook line position,
+},
+{
+    712.32,715.72
+     your feet are on the bed or on the floor,
+},
+{
+    715.72,718.28
+     and you're just gonna keep your knees together,
+},
+{
+    718.28,720.72
+     and you call it the windshield wipers, don't you Brad?
+},
+{
+    720.72,723.76
+     Well, that's what I instructed to my patients,
+},
+{
+    723.76,725.58
+     because if you look at it from your view,
+},
+{
+    725.58,727.88
+     you're going back and forth like windshield wipers.
+},
+{
+    727.88,730.7
+     So it's like windshield wipers, and like you said,
+},
+{
+    730.7,735.4
+     it's a way of remembering visually what's going on.
+},
+{
+    735.4,740.0
+     And if this bothers you going in one direction,
+},
+{
+    740.0,741.28
+     don't go in that direction,
+},
+{
+    741.28,743.24
+     go in the other direction for a while,
+},
+{
+    743.24,744.3
+     and then try it again.
+},
+{
+    744.3,745.56
+     Yep. But this can really loosen up the back, it's a great one to do in the other direction for a while, and then try it again.
+},
+{
+    747.4,748.76
+     But this can really loosen up the back. It's a great one to do in the morning
+},
+{
+    748.76,750.44
+     before you get out of bed.
+},
+{
+    750.44,755.44
+     It gets the back warmed up prior to starting the day.
+},
+{
+    756.36,759.44
+     And this is, with both of these exercises,
+},
+{
+    759.44,762.22
+     something you can do not just once a day,
+},
+{
+    762.22,764.56
+     you can actually do it every hour
+},
+{
+    764.56,767.12
+     as a way to keep the back moving and relax it
+},
+{
+    767.12,769.36
+     and just start combating pain.
+},
+{
+    769.36,771.96
+     So, I'll re-end up so long on this video Brad.
+},
+{
+    771.96,774.72
+     I don't know Bob, we're just a little blamin' on Mike.
+},
+{
+    774.72,776.16
+     Okay, yeah, that's Mike's fault.
+},
+{
+    776.16,778.36
+     That's SpongeBob's, sir.
+},
+{
+    778.36,None
+     Thanks for watching. you
+},

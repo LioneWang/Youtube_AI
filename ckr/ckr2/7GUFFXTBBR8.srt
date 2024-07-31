@@ -1,0 +1,236 @@
+{
+    0.0,3.92
+     So, what is a tibial plateau fracture?
+},
+{
+    3.92,8.9
+     A fracture or a break in the upper part of the shin bone, the tibia, may be the result
+},
+{
+    8.9,13.8
+     of a low impact injury, such as a fall or from a high impact injury, such as a motor
+},
+{
+    13.8,15.46
+     vehicle accident.
+},
+{
+    15.46,20.16
+     Proper identification and management of these injuries will help to restore limb function,
+},
+{
+    20.16,26.32
+     such as strength, motion and stability, and reduce the overall risks of arthritis.
+},
+{
+    26.32,31.46
+     The bone comprising the tibial plateau is cancelous, or crunchy, as opposed to the thicker
+},
+{
+    31.46,34.12
+     cortical bone of tibial shaft.
+},
+{
+    34.12,39.68
+     Whether the injury is treated with surgery or without, both the bony injury or the fracture,
+},
+{
+    39.68,44.16
+     and any soft tissue injuries must be treated together.
+},
+{
+    44.16,48.44
+     Fractures that involve the upper fourth of the lower leg, or tibia, may or may not involve
+},
+{
+    48.44,50.0
+     the knee joint.
+},
+{
+    50.0,54.16
+     Fractures that enter the knee joint may render the joint imperfect and the joint surface
+},
+{
+    54.16,55.16
+     irregular.
+},
+{
+    55.16,59.12
+     Additionally, these fractures may result in improper limb alignment.
+},
+{
+    59.12,64.36
+     Either of these factors may contribute to excessive joint wear, which can cause arthritis,
+},
+{
+    64.36,65.36
+     instability,
+},
+{
+    65.36,66.92
+     and loss of motion.
+},
+{
+    66.92,71.72
+     Where a fracture is located within the knee and how much it is displaced is referred to
+},
+{
+    71.72,73.24
+     as its pattern.
+},
+{
+    73.24,77.4
+     The pattern of a fracture is determined by the force of the injury, in addition to how
+},
+{
+    77.4,80.32
+     and where that force is applied to the limb.
+},
+{
+    80.32,83.88
+     There are several symptoms of a tibial plateau fracture.
+},
+{
+    83.88,85.28
+     Pain when bearing weight,
+},
+{
+    90.0,96.64
+     tenseness and swelling around the knee, resulting in the limitation of leg bending, deformity around the knee, pale, cool foot, numbness around the foot, numbness or the
+},
+{
+    96.64,101.92
+     feeling of pins and needles within the region of the foot raises concern about whether nerve
+},
+{
+    101.92,105.36
+     injury or excessive swelling within the leg has occurred.
+},
+{
+    110.48,116.8
+     If these symptoms are present after a fracture, you should have an assessment done in the emergency room as soon as possible. In rare instances, soft tissue swelling may be so severe that it
+},
+{
+    116.8,121.68
+     threatens the blood supply to the leg and foot, a condition referred to as compartment syndrome.
+},
+{
+    122.24,127.32
+     This may require emergency surgery in which vertical incisions are made to release the
+},
+{
+    127.32,131.52
+     skin and muscle coverings, also known as a fasciotomy.
+},
+{
+    131.52,136.62
+     These incisions are often left open and then closed, or covered days or weeks later as
+},
+{
+    136.62,140.14
+     the soft tissues recover and swelling resolves.
+},
+{
+    140.14,144.84
+     If the condition of the soft tissues is such that the application of a cast or splint would
+},
+{
+    144.84,148.22
+     be unwise, an external fixator may be considered.
+},
+{
+    148.22,153.76
+     With this device, often temporary, pins are inserted above and below the joint.
+},
+{
+    153.76,159.38
+     These pins exit the skin and are connected by bars, which stabilize the knee joint.
+},
+{
+    159.38,163.82
+     Non-surgical treatment may include restrictions on motion and weight bearing, in addition
+},
+{
+    163.82,168.32
+     to the application of external devices devices such as braces or casts.
+},
+{
+    168.32,173.72
+     Typically the soft tissues are assessed and x-rays are taken at prescribed intervals.
+},
+{
+    173.72,178.44
+     Knee motion and weight bearing begin as the injury and method of treatment allow.
+},
+{
+    178.44,182.48
+     If surgical treatment is elected, several devices may be considered.
+},
+{
+    182.48,185.5
+     In some cases where the upper one-four fourth of the tibia is broken,
+},
+{
+    185.5,187.5
+     but the joint is intact,
+},
+{
+    187.5,190.0
+     a rotter plate may be used to stabilize the fracture.
+},
+{
+    190.0,193.5
+     A rot is placed in the hollow cavity in the center of the bone,
+},
+{
+    193.5,196.5
+     whereas a plate is placed on the external surface of the bone.
+},
+{
+    196.5,200.0
+     Plates are commonly used for fractures that enter the joint.
+},
+{
+    200.0,202.5
+     If the fracture enters the joint and depresses the bone,
+},
+{
+    202.5,207.0
+     lifting the bone fragments may be required to restore joint function.
+},
+{
+    207.0,214.5
+     Lifting these fragments, however, creates a defect or hole in the cancellus or crunchy bone of the region.
+},
+{
+    214.5,219.0
+     This defect must be filled with material to keep the joint from collapsing.
+},
+{
+    219.0,223.0
+     This material can be a bone graft from the patient or from a bone bank.
+},
+{
+    223.0,228.66
+     Synthetic or naturally occurring products which stimulate bone healing can also be used.
+},
+{
+    228.66,232.9
+     To further stabilize this area, a plate with screws is applied.
+},
+{
+    232.9,237.84
+     In some cases, the condition of the soft tissue is so poor that the use of a plate or rod
+},
+{
+    237.84,239.5
+     might threaten it further.
+},
+{
+    239.5,246.0
+     An external fixator, described under emergency care above, may then be considered as final treatment.
+},
+{
+    246.0,249.04
+     The external fixator is removed when the injury is healed.
+},

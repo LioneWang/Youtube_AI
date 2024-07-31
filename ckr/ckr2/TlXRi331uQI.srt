@@ -1,0 +1,308 @@
+{
+    0.0,2.4
+     Hey, welcome to another video from SkinnyMedics.
+},
+{
+    2.4,5.4
+     So I have a product here that I want to demo, kind of tell you about.
+},
+{
+    5.4,9.8
+     It's kind of an expensive product for what it is, but in the big scheme of things, not
+},
+{
+    9.8,10.96
+     really.
+},
+{
+    10.96,12.52
+     This is some burn gel dressing.
+},
+{
+    12.52,16.12
+     So it's a Biden $7, $8 pack here.
+},
+{
+    16.12,19.52
+     So you don't want to open yours up, just take a look at it so it's inside when you need
+},
+{
+    19.52,20.52
+     it.
+},
+{
+    20.52,23.4
+     So I'm going to open it up, show you what's inside this package, and kind of give you
+},
+{
+    23.4,25.68
+     an idea of what I would use it for.
+},
+{
+    25.68,29.24
+     So that way you can put this in your first aid kit and you know what it looks like before
+},
+{
+    29.24,30.8
+     you have to pull it out and use it.
+},
+{
+    30.8,32.76
+     So I'll give a quick recap of burns here.
+},
+{
+    32.76,34.56
+     You have first, second, and third re-burns.
+},
+{
+    34.56,37.96
+     That's called an old terminology, but people still use it.
+},
+{
+    37.96,42.56
+     Some of the new terminology you may hear is superficial, partial thickness, full thickness
+},
+{
+    42.56,46.32
+     burns, same thing, just different terminology.
+},
+{
+    46.32,48.6
+     So the first three burns are superficial.
+},
+{
+    48.6,50.42
+     That's gonna be kind of your redness to the skin.
+},
+{
+    50.42,52.76
+     That's your sun burns, maybe your steam burns,
+},
+{
+    52.76,56.0
+     but it's just kind of redness to the skin, no blisters.
+},
+{
+    56.0,58.32
+     Once you get blisters,
+},
+{
+    58.32,62.2
+     you're into the secondary burns, partial thickness.
+},
+{
+    62.2,63.56
+     Don't pop the blisters.
+},
+{
+    63.56,64.92
+     And then you have full thickness,
+},
+{
+    64.92,65.08
+     which is
+},
+{
+    65.08,68.6
+     your third degree burns, and this is kind of like charring. You'll see the skin kind
+},
+{
+    68.6,76.08
+     of turn white, waxy, really nasty. But infections is what's huge for these burns. We want to
+},
+{
+    76.08,79.68
+     try to keep them clean and let physicians take care of it.
+},
+{
+    79.68,86.2
+     Other thing is pain. So first, second degree burns are painful. Third degree are two, but it's just around
+},
+{
+    86.2,90.28
+     the edges. Like, because third degree burns burn all the way down through the nerve endings.
+},
+{
+    90.28,94.16
+     So where you actually have third degree burns is not very painful, but it's around the edges
+},
+{
+    94.16,99.76
+     is painful. So if you can put some dressing like the burn gel dressing here on there,
+},
+{
+    99.76,103.4
+     you're going to have a pain management, you're going to help it keep it clean. I just would
+},
+{
+    103.4,105.92
+     not use this for a large surface area.
+},
+{
+    105.92,107.8
+     Like someone's entire arm is burnt,
+},
+{
+    107.8,110.72
+     someone's entire leg, someone's entire chest.
+},
+{
+    110.72,113.4
+     It's only one 4x4 here, but I wouldn't be putting
+},
+{
+    113.4,116.78
+     a bunch of 4x4s on someone's chest or back.
+},
+{
+    116.78,120.32
+     What happens is this is a gel, obviously,
+},
+{
+    120.32,122.6
+     but you can cool their core body temperature down
+},
+{
+    122.6,124.92
+     pretty quick because the skin helps
+},
+{
+    124.92,125.2
+     regulate our body temperature. You quick because the skin helps regulate
+},
+{
+    125.2,126.2
+     our body temperature.
+},
+{
+    126.2,129.84
+     You start putting some gel on there over a large surface area.
+},
+{
+    129.84,132.08
+     The body's going to have a real difficult time.
+},
+{
+    132.08,135.28
+     You're going to make them hypothermic and you're going to cause a lot of problems.
+},
+{
+    135.28,141.88
+     But if you have a localized burn, say someone touches a suppressor, someone touches a barrel,
+},
+{
+    141.88,146.8
+     happens, you get someone to burn on the palm, this is a great bandage for something like that.
+},
+{
+    146.8,148.36
+     All right, so I'm gonna open up the package that way.
+},
+{
+    148.36,152.0
+     You can see inside of it before you actually have to use it.
+},
+{
+    152.0,153.7
+     So you have some tear tabs here.
+},
+{
+    155.14,155.98
+     Okay.
+},
+{
+    157.0,158.72
+     And this gel is gonna do a couple things.
+},
+{
+    158.72,161.2
+     It's gonna help cool off the burn.
+},
+{
+    161.2,163.56
+     It's gonna help it not stick as well.
+},
+{
+    163.56,167.2
+     So we can ply this four by four bandage directly onto the burn. It's going to help it not stick as well. So we can apply this 4x4 bandage directly onto the burn here
+},
+{
+    168.8,173.28
+     and then we could wrap it in another clean, some dressing, maybe a pressure bandage, whatever you
+},
+{
+    173.28,179.12
+     have to wrap it to keep it onto the wound. So once you applied the 4x4 on top of the burn,
+},
+{
+    179.12,183.52
+     say it was on top of my hand here, you could use some regular clean, pressure bandage,
+},
+{
+    183.52,188.5
+     some co-bands, something like that just to secure this bandage in place doesn't move around be
+},
+{
+    188.5,191.66
+     careful wrapping this tight because you don't want to make a turner kit out of
+},
+{
+    191.66,195.54
+     it you're gonna get some swelling with a burn possibly so you want to kind of
+},
+{
+    195.54,199.34
+     wrap it kind of loose but this is just gonna help hold this bandage in place
+},
+{
+    199.34,204.5
+     alright so we can pretend this same is a skinny man it grabbed a barrel of the
+},
+{
+    204.5,206.66
+     gun and she has some burns here
+},
+{
+    206.66,209.3
+     Maybe it's a first second reburns got some blisters popping up on her palm
+},
+{
+    209.72,212.16
+     This bandage would be great for something like that
+},
+{
+    212.16,218.44
+     So you could take this really nice wet bandage and place it there now we have it onto the burn
+},
+{
+    220.34,223.16
+     Grab some of this rolled cling here
+},
+{
+    229.8,234.52
+     grab some of this rolled cling here and like I said just loosely wrap this here just kind of help hold it in place so the bandage doesn't want to move because
+},
+{
+    234.52,237.48
+     you're gonna get some swelling stuff like that I would just wrap this pretty
+},
+{
+    237.48,242.24
+     loose to help keep it clean so you're gonna help keep it from getting infected
+},
+{
+    242.24,247.0
+     and you're gonna help with pain control.
+},
+{
+    247.0,248.12
+     Perfect.
+},
+{
+    248.12,251.16
+     So I hope this video helps you never know when you'll be the first responder from the
+},
+{
+    251.16,None
+     right gear and the right training. you
+},

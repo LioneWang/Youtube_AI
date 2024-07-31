@@ -1,0 +1,964 @@
+{
+    0.0,4.8
+     When I sit for too long when I'm working from home, I get this deep pain in my butt.
+},
+{
+    4.8,9.2
+     When I go for a run or when I do deadlifts, that pain gets worse and even starts to shoot
+},
+{
+    9.2,12.0
+     down the back of my leg. Do you have any idea what this can be?
+},
+{
+    12.96,17.76
+     You've been diagnosed with piriformis syndrome. Today, we're going to teach you exactly what it is,
+},
+{
+    17.76,21.36
+     how you can test if you have it, and more importantly, ways to treat it at home.
+},
+{
+    22.0,29.24
+     Ways to treat it at home
+},
+{
+    32.4,35.88
+     Welcome back to the channel dr. Craig alone Della here dr. Rosh McSue. And today we're gonna be teaching you everything that you need to know about
+},
+{
+    36.6,40.08
+     Pyriforma syndrome so if you're dealing with that deep pain in your butt
+},
+{
+    40.36,42.3
+     Maybe it's after a really hard workout
+},
+{
+    42.3,46.68
+     Maybe you've been sitting way too much at home, working from home, and now you're doing
+},
+{
+    46.68,49.84
+     with this deep, non-specific pain in your butt,
+},
+{
+    49.84,51.96
+     starting to run down the back of your thigh,
+},
+{
+    51.96,53.16
+     and you looked up on the internet
+},
+{
+    53.16,55.72
+     and you diagnosed yourself with piriformis syndrome
+},
+{
+    55.72,57.44
+     because Dr. Google said so.
+},
+{
+    57.44,58.96
+     So let's break this down.
+},
+{
+    58.96,61.36
+     We have these anatomical models here
+},
+{
+    61.36,62.8
+     because we wanna show you sort of
+},
+{
+    62.8,68.62
+     what is the piriformis muscle, where it is, and what does it do and Arash is going to help demonstrate some stuff as well
+},
+{
+    68.86,74.46
+     So if we're taking a look at the anatomy the piriformis it inserts on our greater
+},
+{
+    74.8,82.58
+     Trocancer and find this by using your palm on the outside of your hip and then log roll your foot sort of in and out
+},
+{
+    82.7,86.68
+     You're gonna feel this bone and just know that's where it inserts.
+},
+{
+    86.68,89.0
+     And now what it's gonna do is it's gonna wrap around,
+},
+{
+    89.0,91.22
+     run in this diagonal fashion,
+},
+{
+    91.22,93.44
+     and it's wrapping around this way,
+},
+{
+    93.44,95.16
+     and then it's going to insert actually
+},
+{
+    95.16,97.76
+     on the front of our sacrum, our tailbone.
+},
+{
+    97.76,100.06
+     So think it runs around this way,
+},
+{
+    100.06,102.68
+     comes back around and inserts here.
+},
+{
+    102.68,106.12
+     The piriformis is going to help with extension.
+},
+{
+    106.2,110.8
+     It's going to help with abduction, but primarily it's really going to help with
+},
+{
+    111.0,116.68
+     rotation, external rotation, as well as internal rotation, depending on
+},
+{
+    117.0,121.4
+     how much the hip is flexed, how we were taught in school that the piriformis
+},
+{
+    121.4,123.52
+     actually becomes an internal rotator.
+},
+{
+    123.8,126.4
+     Once the hip becomes 90 degrees flex.
+},
+{
+    126.4,129.24
+     So your knee is about parallel to the ground,
+},
+{
+    129.24,131.3
+     but depending on who you talk to,
+},
+{
+    131.3,133.36
+     there's some contrary to this belief
+},
+{
+    133.36,134.3
+     and people think that,
+},
+{
+    134.3,136.72
+     oh, maybe it doesn't play that much of a role.
+},
+{
+    136.72,139.48
+     Now, what's really important for us to educate you on
+},
+{
+    139.48,141.56
+     is that piriformis syndrome,
+},
+{
+    141.56,143.8
+     that diagnosis is sort of going away
+},
+{
+    143.8,145.28
+     and we're leaning towards deep gluteal syndrome. That's because the piriformis syndrome, that diagnosis is sort of going away and we're leaning towards deep
+},
+{
+    145.28,150.88
+     gluteal syndrome. That's because the piriformis we can't blame it all the time. It's not always
+},
+{
+    150.88,156.08
+     the piriformis. There's so many more muscles down here, and there's way more structures,
+},
+{
+    156.08,160.08
+     one of them being the sciatic nerve. So all these little branches of these nerves,
+},
+{
+    160.08,169.9
+     they come together to form this really big nerve that runs down the back of the thigh. That piriformis muscle is actually behind the sciatic nerve.
+},
+{
+    169.9,172.02
+     So the sciatic nerve sits in front of it.
+},
+{
+    172.02,176.74
+     And what we think is when the muscle either becomes spastic or it's spasming because it
+},
+{
+    176.74,180.66
+     got overworked, it got over fatigued or stretched too much.
+},
+{
+    180.66,186.56
+     If it's growing, if it's getting bigger muscle hypertrophy or it's weak and then it's really
+},
+{
+    186.56,190.84
+     compressing that nerve that we're getting this deep pain in your butt, we're getting
+},
+{
+    190.84,195.32
+     maybe some numbness, some tingling that can be in the butt and run down the back of the
+},
+{
+    195.32,196.32
+     thigh.
+},
+{
+    196.32,199.44
+     How do you know if you're actually dealing with piriformis syndrome?
+},
+{
+    199.44,201.68
+     How do you know if you're not dealing with something else?
+},
+{
+    201.68,209.2
+     So remember, we're leaning towards the term deep gluteal syndrome, because it's typically much more than just the piriformis. And also know that there's
+},
+{
+    209.2,214.32
+     many other different diagnoses that can present similar to piriformis syndrome. That's why we've
+},
+{
+    214.32,220.4
+     created this infographic, you can learn about that as well as piriformis syndrome more in an
+},
+{
+    220.4,224.64
+     article that we wrote entirely dedicated to this topic. And that's going to help you more than what
+},
+{
+    224.64,225.8
+     we're going to show. But I'm going gonna help you more than what we're gonna show.
+},
+{
+    225.8,227.68
+     But I'm gonna show you two different movements
+},
+{
+    227.68,230.12
+     that you can do preferably with a friend
+},
+{
+    230.12,232.6
+     that's gonna help tell you if you're actually dealing
+},
+{
+    232.6,235.98
+     with that deep gluteal syndrome, that piriformis syndrome.
+},
+{
+    235.98,237.88
+     So I'm gonna demonstrate it with a roach.
+},
+{
+    237.88,241.12
+     Typically he's laying flat on his back completely relaxed.
+},
+{
+    241.12,242.24
+     The first one that we're gonna do
+},
+{
+    242.24,244.48
+     is just a straight leg raise.
+},
+{
+    244.48,248.68
+     So I'm not putting any extra tension here because that's really a move to
+},
+{
+    248.68,252.8
+     sensitize the sciatic nerve. But we're just looking at, hey, if we bring his hip
+},
+{
+    252.8,257.6
+     into flexion with his knee straight and he's completely relaxed, does he get a
+},
+{
+    257.6,261.92
+     reproduction of symptoms at his piriformis? Remember where we showed
+},
+{
+    261.92,267.02
+     that to you earlier in this video? So that's one, it's just a straight leg raise.
+},
+{
+    267.3,270.7
+     And if you want attention more to tension the sciag nerve,
+},
+{
+    271.06,273.14
+     you would want your toes pulled up towards you.
+},
+{
+    273.74,276.38
+     The other one is it's called a fair test.
+},
+{
+    276.5,278.22
+     So with a rush laying on his side,
+},
+{
+    278.22,281.34
+     the most important thing is I want his pelvis staying like this.
+},
+{
+    281.62,284.14
+     If his belt buckle, if you're wearing a belt buckle,
+},
+{
+    284.38,289.08
+     it's parallel to the ground. So rush, keep your pelvis still on this side.
+},
+{
+    289.12,292.04
+     Remember, piriformis runs from here to there.
+},
+{
+    292.36,294.56
+     We're going to bring his knee up in the flexion.
+},
+{
+    294.92,297.24
+     We're going to let his hip adduct.
+},
+{
+    297.44,300.96
+     It's important that he doesn't let his pelvis completely rotate because we're
+},
+{
+    300.96,303.84
+     trying to put tension on that muscle adduct.
+},
+{
+    304.16,307.08
+     And now here we're going to put tension on that muscle. Adduct, and now here we're going to internally
+},
+{
+    307.08,308.8
+     rotate the hip.
+},
+{
+    308.8,312.44
+     This is going to put max tension on the piriformis,
+},
+{
+    312.44,314.32
+     but no, a lot of the muscles back here
+},
+{
+    314.32,315.84
+     and the muscles on the side of the hip,
+},
+{
+    315.84,318.84
+     there's anterior fibers, there's posterior fibers.
+},
+{
+    318.84,322.12
+     So personally, I like to look at internal rotation
+},
+{
+    322.12,324.44
+     as well as external rotation.
+},
+{
+    324.44,326.3
+     And I just wanted to know if he's getting
+},
+{
+    326.3,328.52
+     any reproduction of symptoms here.
+},
+{
+    328.52,329.72
+     And this can tell us, hey,
+},
+{
+    329.72,331.84
+     maybe it is the piriformis involved.
+},
+{
+    331.84,334.98
+     Maybe it is some of those deep gluteal rotators.
+},
+{
+    336.08,338.48
+     Here's some prehab tips for piriformis syndrome.
+},
+{
+    338.48,341.08
+     So let's start out with what can you change on a daily basis?
+},
+{
+    341.08,343.98
+     And if you're dealing with pain in your butt while sitting,
+},
+{
+    343.98,349.4
+     offload that area. Maybe you just need to put more weight on your opposite butt. Maybe you just need to stand
+},
+{
+    349.4,353.6
+     up and get standing, right? Stop sitting for so long or change your posture throughout the day.
+},
+{
+    353.6,358.68
+     Try to do work from home while you're standing like Rasha's showing. If it hurts while just
+},
+{
+    358.68,363.76
+     standing with both feet up, maybe put one foot up on a stool, maybe switch. While you're standing,
+},
+{
+    363.76,365.58
+     don't stand lazy
+},
+{
+    365.58,367.86
+     while you're just leaning to one hip or the other.
+},
+{
+    367.86,369.42
+     You're actually just putting more stretching
+},
+{
+    369.42,370.74
+     compression on that area.
+},
+{
+    370.74,373.54
+     And maybe even though it's just a little bit of a stretch,
+},
+{
+    373.54,375.38
+     that long duration stretch,
+},
+{
+    375.38,377.42
+     adding all that compression to that nerve
+},
+{
+    377.42,379.58
+     or anything else in that area that's aggravated
+},
+{
+    379.58,381.3
+     is what's really gonna piss it off.
+},
+{
+    381.3,382.5
+     Now let's dive into stretching
+},
+{
+    382.5,384.5
+     because honestly, everyone thinks that stretching
+},
+{
+    384.5,388.16
+     is going to fix piriformis syndrome. That's what is always prescribed.
+},
+{
+    388.16,392.56
+     But Arash and I would agree this is where people do things wrong and they actually get the late
+},
+{
+    392.56,399.12
+     onset of symptoms by pissing it off. So we want to do easier stretches. We want to do smaller
+},
+{
+    399.12,403.44
+     loaded stretches versus putting our entire body weight into it. So let's start with the general
+},
+{
+    403.44,409.36
+     supine piriformis stretch. Arash is going to demonstrate this. Remember the piriformis, we can stretch
+},
+{
+    409.36,416.24
+     it with flexion, adduction and rotation. But the piriformis as well as other muscles in that area
+},
+{
+    416.24,422.16
+     have anterior and posterior fibers. So rotating the hip this way may be able to stretch the
+},
+{
+    422.16,425.16
+     muscle pretty good. but also maybe let's
+},
+{
+    425.16,430.92
+     do that supine internal rotation stretch aroch where you have both feet bent and then on
+},
+{
+    430.92,435.2
+     the table and then you cross one over the other or exactly and you're letting this hip
+},
+{
+    435.2,436.68
+     fall this way.
+},
+{
+    436.68,441.64
+     Really just any sort of adduction, flexion and rotation, you're going to get stretching
+},
+{
+    441.64,443.84
+     of the muscles on the outside of the hip.
+},
+{
+    443.84,446.8
+     We're just going for gentle range of motion.
+},
+{
+    446.8,451.48
+     Now let's flip over and let's get into a quadruped position, Narash.
+},
+{
+    451.48,456.36
+     Really the big focus that I think a lot of people aren't mindful of is pelvic position.
+},
+{
+    456.36,460.8
+     So remember the piriformis runs from our sacrum to the outside of our hip.
+},
+{
+    460.8,469.48
+     So not only moving our hip can stretch the muscle but really being mindful of our pelvis. So, Arash, let's just do a little bit of a gentle posterior
+},
+{
+    469.48,474.84
+     mobilization or show me a pigeon and really Arash is being really gentle with
+},
+{
+    474.84,478.72
+     this. Say that you start to feel a lot of your symptoms there. You don't need to go
+},
+{
+    478.72,481.72
+     further. You're not going for the biggest stretch of your life. You can hang out
+},
+{
+    481.72,490.2
+     here but now Arash, rotate your pelvis on your hip versus moving your hip more. So a rush, if you can think about it, he's rotating
+},
+{
+    490.2,495.2
+     his pelvis this way. He's stretching from the origin, not the insertion. And that's
+},
+{
+    495.2,499.96
+     something that you can be really mindful of with all this stretches as well as the exercises
+},
+{
+    499.96,505.16
+     that we're going to dive into and show us the more aggressive one with a pigeon.
+},
+{
+    508.56,509.92
+     And again, maybe you just feel stretch here, say that he's like, oh, I feel a giant stretch of barricade.
+},
+{
+    509.92,514.32
+     Just move up more and now just rotate your pelvis on your hip.
+},
+{
+    514.58,518.84
+     So getting that rotation is actually stretching from a different area.
+},
+{
+    519.16,522.4
+     And that's a great way where you're still feeling the stretch that you want,
+},
+{
+    522.64,524.16
+     but you're not going crazy with it.
+},
+{
+    525.44,530.24
+     Exercises for piriformis syndrome. This is the most important part of this video,
+},
+{
+    530.24,534.0
+     because it's not stretching that's just going to fix piriformis syndrome.
+},
+{
+    534.0,538.8
+     You have to do exercises. And Arash and I would agree, people that are dealing with
+},
+{
+    538.8,543.36
+     piriformis syndrome or deep gluteal syndrome are probably dealing with a muscle that is getting
+},
+{
+    543.36,549.1
+     overworked, is getting lengthened too much. it's working eccentrically, compressing everything that's
+},
+{
+    549.1,550.1
+     below it.
+},
+{
+    550.1,554.5
+     So with that being said early on, we need to not only try to strengthen the piriformis,
+},
+{
+    554.5,557.2
+     but we need to strengthen the musculature around it.
+},
+{
+    557.2,561.1
+     If the piriformis is getting overworked, that means that the glute muscles are not doing
+},
+{
+    561.1,567.68
+     their job, the glute max, the glute med, other muscles that control adduction and internal rotation.
+},
+{
+    567.68,569.86
+     So I have a rot set up here on the table.
+},
+{
+    569.86,572.08
+     We're gonna start with lower level exercises.
+},
+{
+    572.08,573.36
+     We're gonna do our clam, right?
+},
+{
+    573.36,575.72
+     We're working on external rotation.
+},
+{
+    575.72,578.96
+     Piriformis is a really strong external rotator,
+},
+{
+    578.96,582.48
+     but you not only wanna do clams in hip flexion,
+},
+{
+    582.48,586.96
+     but you also wanna do them in hip extension. So getting those knees back,
+},
+{
+    586.96,592.32
+     getting that hip in an extended position, and Arash is doing a really good job being mindful of
+},
+{
+    592.32,598.32
+     his pelvis. You have to keep the pelvis completely still to make sure that we're really working that,
+},
+{
+    598.32,604.24
+     all the external rotators and the hip musculature. Now we know that there's more than just the fibers
+},
+{
+    604.24,608.08
+     for the piriformis that contribute to external rotation. We also want to work
+},
+{
+    608.08,613.04
+     internal rotation. So, Raj, show us that reverse clam. This is a really good one.
+},
+{
+    613.04,617.72
+     You're not only working that muscle. No muscle works perfectly in isolation, but
+},
+{
+    617.72,623.16
+     we're working all the deep gluteal rotators. Now, Raj, flop up on your back.
+},
+{
+    623.16,628.0
+     Probably the muscle is getting overworked and stretched too much, not because the hip is moving too much,
+},
+{
+    628.0,630.0
+     but also because the pelvis is moving too much.
+},
+{
+    630.0,632.0
+     So, Arash, bridge up.
+},
+{
+    632.0,635.0
+     This is a great exercise to work on pelvic stability.
+},
+{
+    635.0,637.0
+     We're going to do marching.
+},
+{
+    637.0,641.0
+     So, as Arash picks up one foot, his pelvis is not rotating at all.
+},
+{
+    641.0,643.0
+     His hips are not dropping.
+},
+{
+    643.0,645.12
+     So, we're working the glutes, but we're also
+},
+{
+    645.12,650.56
+     really focused on pelvic stability. Again, he's not letting his pelvis rotate at all,
+},
+{
+    650.56,655.36
+     so that we're not making that muscle get stretched and overworked. Last but not least, let's flip
+},
+{
+    655.36,660.4
+     over on your hands and knees. We're going to get into a quadruped position, and we're going to do
+},
+{
+    660.4,670.36
+     a fire hydrant. So we're not only working the piriformis, but we're working all the rest of the glutes, keeping the pelvis still as best as possible. And I'm going to be mean,
+},
+{
+    670.36,676.0
+     but let's get this thing moving. We're going to get a good glute pump here. We're extending,
+},
+{
+    676.0,682.08
+     we're abducting, and we're rotating. Now, Haraj, you can take that band off. Actually,
+},
+{
+    682.08,690.72
+     we'll keep the band on. We're going to get into standing exercises. So, once you master that stuff, now, Arash, let's have you stand on this. Again, especially if you're
+},
+{
+    690.72,696.4
+     the person that's dealing with pain while running or with standing, with walking, you want to get
+},
+{
+    696.4,702.24
+     exercising while standing. So, Arash, just single leg balance. Try to stand a little bit taller,
+},
+{
+    702.24,706.68
+     no leaning. Keep your knees straighter versus more bent,
+},
+{
+    706.68,709.04
+     and now just get tension on that band.
+},
+{
+    709.04,711.9
+     Arash is being mindful of his pelvis.
+},
+{
+    711.9,714.92
+     I like to tell people, your pelvis is a glass of water,
+},
+{
+    714.92,716.82
+     don't let the water spill.
+},
+{
+    716.82,720.0
+     This is really gonna be working his stability leg,
+},
+{
+    720.0,721.16
+     the one that he's standing on,
+},
+{
+    721.16,723.4
+     but also working this leg.
+},
+{
+    723.4,725.04
+     Now, what we can do is, Arash,
+},
+{
+    725.04,726.88
+     I want you to go to the wall.
+},
+{
+    726.88,728.16
+     I'm gonna move this table out of the way
+},
+{
+    728.16,729.88
+     so that you can get centered.
+},
+{
+    729.88,733.24
+     And let's do that foot supported clam.
+},
+{
+    733.24,735.16
+     So again, like we said, the piriformis
+},
+{
+    735.16,739.16
+     is a really strong rotator while the hip is extended.
+},
+{
+    739.16,741.72
+     And we're getting some support from the wall,
+},
+{
+    741.72,744.0
+     but Arash is gonna focus on doing a clam
+},
+{
+    744.0,746.88
+     in that back leg, the one that is more extended.
+},
+{
+    746.88,751.92
+     Not only is he working that front leg too, but he's going to be working the rotators
+},
+{
+    751.92,753.44
+     in that back leg.
+},
+{
+    753.44,755.2
+     So this is a really good exercise.
+},
+{
+    755.2,758.88
+     I'd say Arash, even if you can get a little bit taller, focus on trying to get that back
+},
+{
+    758.88,763.04
+     leg, getting that hip into more of an extended position.
+},
+{
+    763.04,765.92
+     It may make the rotation range of motion a little bit
+},
+{
+    765.92,772.32
+     smaller, but he's going to be working all those rotators, the hip extenders, the abductors,
+},
+{
+    772.32,776.8
+     those glutes and those deep rotators in different ranges of motion, which is really important.
+},
+{
+    778.4,782.56
+     What are exercises that you shouldn't do if you're dealing with piriformis syndrome?
+},
+{
+    782.56,786.94
+     Probably what we've seen the most when people come in, they're dealing with this deep buttock pain.
+},
+{
+    786.94,788.8
+     They're overstretching that muscle.
+},
+{
+    788.8,791.8
+     So, Arash, can you show us like a curtsy lunge
+},
+{
+    791.8,794.44
+     as well as show us a pretty crappy RDL?
+},
+{
+    794.44,795.76
+     So if you're doing exercises
+},
+{
+    795.76,797.8
+     where you're going into a ton of hip flexion,
+},
+{
+    797.8,800.7
+     a ton of hip adduction rotation,
+},
+{
+    800.7,802.04
+     where you're doing an RDL,
+},
+{
+    802.04,804.12
+     where you have poor pelvic stability,
+},
+{
+    804.12,809.08
+     and instead of saying parallel like this,'re letting this rotate your pelvis rotate your hip
+},
+{
+    809.08,813.56
+     fall out that way you're just stretching the muscle you're putting a ton of
+},
+{
+    813.56,817.56
+     compression on the structures under that muscle you're just really going to
+},
+{
+    817.56,822.88
+     aggravate that area cause more spasm cause more pain numbness and tingling so
+},
+{
+    822.88,826.62
+     avoid that stuff for now but eventually eventually you wanna work back into it.
+},
+{
+    826.62,828.14
+     All right, thanks for tuning in.
+},
+{
+    828.14,830.92
+     Again, we hope that you really enjoyed this video.
+},
+{
+    830.92,832.98
+     Let us know, leave us a comment.
+},
+{
+    832.98,835.14
+     Be sure to subscribe to the channel
+},
+{
+    835.14,836.74
+     and tell us what you wanna see more of.
+},
+{
+    836.74,837.68
+     Until next time.
+},
+{
+    839.46,841.5
+     Thank you so much for watching this video.
+},
+{
+    841.5,842.98
+     Craig here from Team Pre-App.
+},
+{
+    842.98,845.74
+     If you wanna continue taking control of your own health,
+},
+{
+    845.74,847.42
+     be sure to subscribe to our channel
+},
+{
+    847.42,849.34
+     and continue watching our videos.
+},

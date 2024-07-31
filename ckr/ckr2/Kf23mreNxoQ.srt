@@ -1,0 +1,260 @@
+{
+    0.0,11.36
+     Change is to swallowing, communication, and ability to think can occur as a result of
+},
+{
+    11.36,13.08
+     a stroke.
+},
+{
+    13.08,18.72
+     Speech-language pathologists and communicative disorders assistants are members of the Stroke
+},
+{
+    18.72,24.38
+     Rehabilitation Team and will find ways to help you and those supporting you manage these
+},
+{
+    24.38,26.0
+     changes as you recover.
+},
+{
+    29.0,35.0
+     A stroke can affect the muscles in the lips, tongue, and throat that we use to eat and swallow.
+},
+{
+    35.0,43.0
+     When these muscles are weak or uncoordinated, changes can occur in your ability to safely eat and drink.
+},
+{
+    44.8,48.28
+     occur in your ability to safely eat and drink. Swallowing difficulty is called dysphagia.
+},
+{
+    48.28,50.88
+     Dysphagia may cause food or drink
+},
+{
+    50.88,54.12
+     to go down your airway instead of the tube to the stomach
+},
+{
+    54.12,56.08
+     and may cause problems like pneumonia.
+},
+{
+    59.24,62.6
+     With dysphagia, you may also have difficulties chewing
+},
+{
+    62.6,66.4
+     or clearing food from the throat or mouth, especially on the weaker side.
+},
+{
+    69.4,76.4
+     Coughing, choking, throat clearing, or a sensation of food sticking in your throat may occur.
+},
+{
+    77.36,84.16
+     If it is not safe to eat or drink by mouth, you may be fed through a tube until it is safe again to swallow.
+},
+{
+    86.72,90.88
+     So what can be done to make swallowing safer?
+},
+{
+    90.88,94.96
+     Food can be chopped or pureed.
+},
+{
+    94.96,100.16
+     Liquids can be thickened to allow more time to swallow.
+},
+{
+    100.16,105.68
+     You and those helping you can learn how to prepare foods and drinks into safer textures.
+},
+{
+    107.68,113.68
+     Swallowing exercises may also be recommended to help strengthen your ability to swallow.
+},
+{
+    114.96,119.92
+     At Mealtimes, shut off the TV or radio to focus on your meal.
+},
+{
+    121.6,129.92
+     Sit upright when eating and drinking and for at least 20 to 30 minutes afterwards.
+},
+{
+    129.92,135.16
+     Eat and drink slowly and take small bites and sips.
+},
+{
+    135.16,140.12
+     Swallow all the food in your mouth before taking another bite.
+},
+{
+    140.12,145.04
+     Use your tongue to clear out food on the weaker side of your mouth.
+},
+{
+    145.04,149.24
+     If you are helping at meals, sit at eye level.
+},
+{
+    149.24,155.06
+     Place the food close by to encourage the person to feed themselves if possible.
+},
+{
+    155.06,161.44
+     If someone is too tired or not alert, it is better to wait and eat later.
+},
+{
+    161.44,166.0
+     Medications can make you less alert or lead to a dry mouth, making swallowing more difficult.
+},
+{
+    166.0,171.0
+     Talk to your doctor if you think medications may be affecting your swallowing.
+},
+{
+    171.0,176.0
+     Be sure to brush your teeth, gums, and tongue, especially after meals.
+},
+{
+    176.0,181.0
+     A clean mouth can help prevent lung infections if you have swallowing problems.
+},
+{
+    190.92,196.68
+     Changes to communication can also happen after a stroke. You may have difficulties speaking clearly, saying what you want to say, or understanding
+},
+{
+    196.68,202.08
+     what others are saying. You may also have challenges with reading and writing.
+},
+{
+    202.08,205.74
+     A stroke can change the strength and coordination of
+},
+{
+    205.74,213.02
+     our face, lips and tongue. This can make your speech sound slurred, weak or too
+},
+{
+    213.02,221.74
+     slow. This is called dysarthria. You may have difficulties planning the movements
+},
+{
+    221.74,225.32
+     needed for speech. Talking may have many
+},
+{
+    225.32,232.04
+     stops and starts and in some cases no sounds come out. This is called a praxea
+},
+{
+    232.04,238.56
+     of speech. A stroke can also affect the areas of the brain that control language.
+},
+{
+    238.56,251.0
+     This is called a phasia. With a phasia you may have difficulty finding words or making sentences, reading and writing,
+},
+{
+    251.0,254.4
+     or understanding what you hear.
+},
+{
+    254.4,261.48
+     Aphasia means that you have difficulty with language, not with thinking or decision making.
+},
+{
+    261.48,267.0
+     Changes to communication can be frustrating, as day-to-day conversation may now be difficult.
+},
+{
+    267.0,274.0
+     Often, you know what you want to say. You're just having difficulty getting the message out.
+},
+{
+    274.0,281.0
+     There are many things that you, your caregiver, and friends can do to make communication easier.
+},
+{
+    281.0,288.8
+     Give yourself time to communicate. Try other ways of getting your message out, such as writing,
+},
+{
+    288.8,296.16
+     drawing, pointing, gesturing, or using a communication board. Use another word to
+},
+{
+    296.16,311.6
+     say it in a different way. If you are a friend, family, or caregiver, and want to help someone to understand what is being said. Use simple language and speak slowly. Repeat what you are saying. Use
+},
+{
+    311.6,319.5
+     gestures, objects, draw pictures, or write out keywords. Clarify when you're
+},
+{
+    319.5,326.66
+     starting a new topic and be sure to check back that the person has understood. If you are not
+},
+{
+    326.66,333.06
+     sure what the person is trying to say, ask simple questions that involve a yes or no
+},
+{
+    333.06,347.92
+     answer or give a few choices. Tell them what you did understand. It's okay to try again later, they will appreciate the effort.
+},
+{
+    347.92,351.76
+     A stroke can also affect your ability to focus.
+},
+{
+    351.76,357.72
+     Think clearly, learn tasks, and remember new information.
+},
+{
+    357.72,370.4
+     These changes to thinking skills can affect your ability to have a conversation. Therapy can help you find ways to manage these changes and stay engaged.
+},
+{
+    370.4,375.4
+     Some find it helpful to join community groups or programs to practice
+},
+{
+    375.4,379.4
+     communication with other stroke survivors.
+},
+{
+    379.4,384.4
+     Understanding how a stroke can affect communication is important in helping to
+},
+{
+    384.4,385.12
+     reconnect with
+},
+{
+    385.12,388.32
+     loved ones and friends.
+},
+{
+    388.32,392.5
+     Work with your speech-language pathologist and healthcare team to identify the best
+},
+{
+    392.5,396.28
+     ways to support your communication and swallowing.
+},
+{
+    396.28,401.48
+     Be sure to check out the next video in the series, Adjustment After Stroke, The Patient
+},
+{
+    401.48,None
+     and Caregiver Experience. stroke, the patient and caregiver experience.
+},

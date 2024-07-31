@@ -1,0 +1,524 @@
+{
+    0.0,5.6
+     Hey everybody, it's Doctor Jo and my good friend, Doctor Jen, and today we're going to show you ways to relieve tailbone pain.
+},
+{
+    5.6,7.0
+     So let's get started.
+},
+{
+    7.0,9.4
+     Disclaimer alert, disclaimer alert!
+},
+{
+    14.4,17.1
+     Alright, so Doctor Jen, tell us a little bit about you.
+},
+{
+    17.1,29.62
+     Well, I am a pelvic floor physical therapist, so what that means is I specialize in treating men, women, and children with bowel, bladder, sexual complaints, or pain in the pelvis. So the tailbone is the very base of the spine.
+},
+{
+    29.62,34.72
+     It's a small triangular bone at the very bottom and it serves as attachments
+},
+{
+    34.72,38.0
+     for the pelvic floor muscles. So the muscles that wrap around the urethra,
+},
+{
+    38.0,42.84
+     the vagina, and the anus, and they stabilize the bottom part of the pelvis.
+},
+{
+    42.84,45.32
+     Oftentimes, whether it's childbirth
+},
+{
+    45.32,47.32
+     or a fall on the tailbone
+},
+{
+    47.32,49.4
+     or just prolonged sitting and compression,
+},
+{
+    49.4,51.28
+     people will start to experience
+},
+{
+    51.28,53.56
+     terrible pain in sitting and don't know what to do.
+},
+{
+    53.56,56.42
+     So we'll find a cushion and sometimes that helps,
+},
+{
+    56.42,58.32
+     but there is a lot that you can do
+},
+{
+    58.32,60.36
+     without actually touching the tailbone
+},
+{
+    60.36,63.04
+     to move it and help give you some relief in your symptoms.
+},
+{
+    63.04,65.08
+     If I may go on a tangent for just a minute,
+},
+{
+    65.08,66.86
+     I think it's important that when someone has
+},
+{
+    66.86,69.22
+     pelvic floor dysfunction or pain in the pelvis,
+},
+{
+    69.22,71.44
+     they hop on the internet and oftentimes we'll find
+},
+{
+    71.44,73.04
+     something called Kegel exercises.
+},
+{
+    73.04,76.16
+     So squeeze the muscles down below as tight as you can.
+},
+{
+    76.16,78.78
+     And I just want to reiterate that if you have pain
+},
+{
+    78.78,82.52
+     anywhere in the pelvic girdle, groin, hip, tailbone,
+},
+{
+    82.52,83.76
+     Kegels are not for you.
+},
+{
+    83.76,87.0
+     The last thing you need to do is add fuel to the fire
+},
+{
+    87.0,89.42
+     and continue to tighten those muscles.
+},
+{
+    89.42,91.48
+     So find a pelvic floor PT
+},
+{
+    91.48,93.8
+     or a general orthopedic PT near you
+},
+{
+    93.8,95.14
+     and figure out what's going on
+},
+{
+    95.14,96.92
+     with your muscles down below.
+},
+{
+    96.92,99.58
+     Oftentimes they might need to be strengthened,
+},
+{
+    99.58,102.0
+     but first and foremost, we address the pain.
+},
+{
+    102.0,103.68
+     We learn to breathe into the space
+},
+{
+    103.68,107.2
+     at the bottom of the pelvis, and we do not squeeze.
+},
+{
+    107.2,111.64
+     So let me show you ways that you can mobilize the spine and pelvis, improve tailbone pain
+},
+{
+    111.64,114.16
+     without contracting the pelvic floor.
+},
+{
+    114.16,118.16
+     So one of the first things that we want to do is we want to move the joints that the
+},
+{
+    118.16,119.64
+     pelvic floor attaches to.
+},
+{
+    119.64,123.08
+     Remember I said pelvic floor attaches pubic bone to tailbone, and so we're going to move
+},
+{
+    123.08,124.08
+     those joints.
+},
+{
+    124.08,125.88
+     One of the best ways to do that freely
+},
+{
+    125.88,128.64
+     is on hands and knees or in a tabletop position.
+},
+{
+    128.64,130.44
+     So if you'll go ahead,
+},
+{
+    130.44,132.88
+     I think a lot of people have heard about cat cow
+},
+{
+    132.88,134.56
+     or cat camel from yoga,
+},
+{
+    134.56,136.36
+     and that's very similar to what we're doing.
+},
+{
+    136.36,139.8
+     Oftentimes that will emphasize movement of the entire spine,
+},
+{
+    139.8,141.48
+     but when somebody has pain in the pelvis,
+},
+{
+    141.48,143.8
+     sometimes we tend to just kind of ignore that area
+},
+{
+    143.8,145.08
+     and keep it rigid. So I really want you to focus on just moving the pelvis, sometimes we tend to just kind of ignore that area and keep it rigid.
+},
+{
+    145.08,148.38
+     So I really want you to focus on just moving the pelvis, Joe.
+},
+{
+    148.38,154.2
+     So the pelvis can move forward and backwards or arching and rounding, very good.
+},
+{
+    154.2,159.52
+     So just kind of slowly moving into that anterior tilt and then the posterior tilt, getting
+},
+{
+    159.52,162.42
+     some movement in the low back and pelvis.
+},
+{
+    162.42,165.82
+     The other direction that the pelvis can move is side to side.
+},
+{
+    165.82,167.12
+     So if you'll find middle,
+},
+{
+    167.12,170.44
+     these are called lateral pelvic tilts or wag in your tail.
+},
+{
+    170.44,172.42
+     So I'd like for you to draw one side of your pelvis
+},
+{
+    172.42,174.94
+     up into the armpit very good.
+},
+{
+    174.94,176.8
+     And then the other direction,
+},
+{
+    176.8,179.8
+     trying to find pain-free movement,
+},
+{
+    179.8,182.18
+     maybe moving with your breath.
+},
+{
+    182.18,184.12
+     Some patients find freedom in their movement
+},
+{
+    184.12,185.2
+     and they can start to do almost
+},
+{
+    185.2,190.8
+     like hula hoops or circles. We can see it's a little choppy and uncoordinated and so it takes
+},
+{
+    190.8,195.6
+     some practice. We do get stiff and rigid. You can take a break. So remembering we can find freedom
+},
+{
+    195.6,200.48
+     in our movement moving side to side, forward and backwards because that's how the pelvis was made to
+},
+{
+    200.48,205.92
+     move. You can also do the same thing on your back so that's where we'll head next, okay?
+},
+{
+    205.92,210.96
+     So hitting your back we can do pelvic mobility here as well. Remembering that it should be
+},
+{
+    210.96,215.68
+     effortless, no straining, not excessively contracting any muscles, but what I'd like for
+},
+{
+    215.68,221.52
+     you to do is find that gentle forward and backwards motion. It's a little harder on your back so we
+},
+{
+    221.52,231.04
+     won't see as much movement but I just want you to start feeling those joints moving while maintaining normal breathing. The breath is going to allow the
+},
+{
+    231.04,235.6
+     abdominal contents to come down and stretch the pelvic floor a little bit without you having to
+},
+{
+    235.6,241.2
+     do anything. So we want to maintain breathing as we find that movement. Remembering the pelvis also
+},
+{
+    241.2,245.44
+     goes side to side so wag in your tail a little bit while you're here.
+},
+{
+    250.56,255.2
+     Usually I just have patients perform about five to ten repetitions in each direction. And once you feel like you've gotten a little bit more motion, then we can work on the flexibility
+},
+{
+    255.2,258.96
+     and the stretching. So now that we've moved the pelvis in a few different directions,
+},
+{
+    258.96,263.04
+     now we really want to start stretching and breathing some length into the pelvic floor.
+},
+{
+    263.04,270.0
+     One of my favorite stretches is happy baby or just a wide knees, knees to chest. So whenever you're ready, Dr. Joe, bring those
+},
+{
+    270.0,275.04
+     knees up to your chest and then pull them a little bit wider because our goal is to separate the
+},
+{
+    275.04,280.48
+     sit bones and again get length down below. So while you're here, I want you to inhale,
+},
+{
+    280.48,284.96
+     fill the belly, fill up with air, no breathing through the chest and then long exhale.
+},
+{
+    285.0,291.44
+     fill the belly fill up with air, no breathing through the chest, and then long exhale. Remembering the arms are doing all of the work, you're not pulling those legs up,
+},
+{
+    291.44,295.6
+     that will increase tension down below, but the arms are pulling the knees up and out.
+},
+{
+    295.6,301.3
+     As you inhale, abdomen expands, pelvic floor descends, and then long exhale.
+},
+{
+    301.3,307.7
+     Usually breathing for 30 to 60 seconds will get you some good release in the pelvic floor.
+},
+{
+    307.7,310.06
+     A progression of this is true happy baby,
+},
+{
+    310.06,312.56
+     where Dr. Jo, if you can, you can reach for your toes.
+},
+{
+    312.56,314.14
+     Yes, very, very good.
+},
+{
+    314.14,317.42
+     And we get even more length and separation,
+},
+{
+    317.42,319.2
+     giving us more relief in our tailbone pain.
+},
+{
+    319.2,320.56
+     So again, while we're here,
+},
+{
+    320.56,322.22
+     arms are doing all the work.
+},
+{
+    322.22,325.84
+     Find that breath, connect, inhale, belly gets big, long,
+},
+{
+    325.84,333.52
+     exhale, soft for 30 to 60 seconds. Let's progress one more time and see if you can do the same thing
+},
+{
+    333.52,338.8
+     in standing. So the last stretch that I'm going to show you guys is a little bit more aggressive.
+},
+{
+    338.8,343.12
+     And so I want you to know that you can modify this or if you're feeling any hip groin or back pain,
+},
+{
+    343.12,350.24
+     just don't do it. Breathe into the pelvic floor on your back. But I'm going to have Dr. Joe get into a deep squat position or also known
+},
+{
+    350.24,357.04
+     as melasana squat in yoga where we're now doing happy baby but using gravity to help push some weight
+},
+{
+    357.04,362.64
+     through the pelvic floor. You may hold on to a chair, the edge of the bed, a door frame, whatever
+},
+{
+    362.64,368.4
+     that looks like. You can even put some pillows up under your hips to really sink into this position a little bit more.
+},
+{
+    368.4,371.52
+     But this will be excellent in help getting you some length at the pelvic floor.
+},
+{
+    371.84,377.44
+     So same rules apply as you're here. Inhale, belly gets big, let everything drop and sag.
+},
+{
+    378.16,380.16
+     Feel some length with that exhale.
+},
+{
+    381.08,383.08
+     Inhale, belly gets big,
+},
+{
+    383.52,388.96
+     soften into the stretch. Again, holding for 30 to 60 seconds. You can
+},
+{
+    388.96,393.8
+     come on out of that. So now what we've done is we've moved the joints that the muscles attached
+},
+{
+    393.8,398.76
+     to. So we've gotten a little bit more mobility and lubrication in those joints. But then we also
+},
+{
+    398.76,404.6
+     stretch to get some length because with tailbone pain, often the pelvic floor is tight and contracted,
+},
+{
+    404.6,408.22
+     drawing the tailbone up under. Last but not least, there are some great
+},
+{
+    408.22,412.52
+     cushions out there, but if you're still feeling tailbone pain, reach out to a
+},
+{
+    412.52,418.48
+     pelvic floor physical therapist near you. Awesome. Now for everybody out there
+},
+{
+    418.48,422.24
+     probably asking, do you often feel immediate relief with these or is it
+},
+{
+    422.24,424.6
+     gonna take a little while to get it loosened up or does it just depend on
+},
+{
+    424.6,426.22
+     how tight everything is?
+},
+{
+    426.22,427.22
+     That's a great question.
+},
+{
+    427.22,431.78
+     If you are feeling tailbone pain in sitting and you get off your bottom, which is generally
+},
+{
+    431.78,435.98
+     typical with tailbone pain, once you relieve the pressure, you feel a little bit better.
+},
+{
+    435.98,439.38
+     Hit your back, do those stretches, move the pelvis a little bit.
+},
+{
+    439.38,442.26
+     Upon sitting, you should feel relief in your symptoms.
+},
+{
+    442.26,448.96
+     What you'll start to find is that you gradually can increase your sitting tolerance. And that might mean you have to set a timer, right? Get up every hour,
+},
+{
+    448.96,453.84
+     do your stretches in whatever position you can comfortably, and then sit back down. That can be
+},
+{
+    453.84,458.24
+     really powerful. But remember, tailbone pain generally doesn't happen overnight, so it's not
+},
+{
+    458.24,463.76
+     going to get better overnight. But stay faithful with the movement, breathing and relaxing, no
+},
+{
+    463.76,466.16
+     kegels, and you should find some relief in your
+},
+{
+    466.16,470.4
+     symptoms. So there you have it, that was Ways to Relief Tailbone Pain. If you'd like to check out
+},
+{
+    470.4,474.48
+     more of Dr. Jin's videos, make sure and click on the link up there. We've made a playlist for you
+},
+{
+    474.48,478.96
+     because there are some awesome ones. And don't forget to subscribe by clicking down there. And
+},
+{
+    478.96,484.24
+     remember, be safe, have fun, and I hope you feel better soon. Bye.
+},

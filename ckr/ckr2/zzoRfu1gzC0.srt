@@ -1,0 +1,420 @@
+{
+    0.0,4.32
+     What's up guys? Hey, Jed Bechstrand here, doctor of physical therapy, tonentine.com.
+},
+{
+    4.32,8.88
+     And you know, if I could pick just one thing to work on to help your knee pain to feel better,
+},
+{
+    8.88,9.44
+     this is it.
+},
+{
+    16.64,21.44
+     When you think about it, your knee is actually a pretty dumb joint. It flexes and it extends,
+},
+{
+    21.44,25.06
+     it bends, and it straightens, and really that's about it.
+},
+{
+    25.06,28.02
+     So why are there so many things that can go wrong with it?
+},
+{
+    28.02,32.66
+     Well, believe it or not, the majority of knee pain that I treat in my clinic, whatever it
+},
+{
+    32.66,38.7
+     may be, if it's a meniscus injury or patellar tracking or patellar tendon or IT band, whatever
+},
+{
+    38.7,43.42
+     it is, the primary reason why the majority of people are experiencing that pain in their
+},
+{
+    43.42,52.28
+     knee can be attributed to one common factor, and that is hip weakness, and specifically hip abductor or lateral hip
+},
+{
+    52.28,58.28
+     weakness. Think about it like this, yeah your knee flexes and extends, it bends and it straightens,
+},
+{
+    58.28,64.24
+     but where that flexion and extension occurs is primarily controlled by your hips and by
+},
+{
+    64.24,65.0
+     your ankles.
+},
+{
+    65.0,69.64
+     Now, if you do have weakness in those hip abductor muscles, the result is typically
+},
+{
+    69.64,72.0
+     an abduction motion at the knee.
+},
+{
+    72.0,78.0
+     Basically, the knee buckles to the inside in what we refer to as a knee valgus position.
+},
+{
+    78.0,82.6
+     When it buckles to the inside, it's typically also accompanied by internal rotation at the
+},
+{
+    82.6,85.52
+     femur, which throws off the patellar alignment,
+},
+{
+    85.52,90.8
+     which redistributes forces within the knee. Basically, the easiest way to say that is,
+},
+{
+    90.8,94.96
+     it's not a good position for the knee to be in. Now, to have this happen once or twice,
+},
+{
+    94.96,100.0
+     or to get your knee into this position once or twice, probably isn't going to be too serious.
+},
+{
+    100.0,105.36
+     But if it's something that you do every step that you walk or every rep in the squat rack
+},
+{
+    105.36,111.12
+     or even every stride while running, eventually that can lead to irritation and inflammation
+},
+{
+    111.12,116.72
+     and even breakdown in your knee. So honestly, if there's one thing that I work on with every knee
+},
+{
+    116.72,122.4
+     patient that comes into my clinic, it's definitely improving strength of these hip abductor muscles.
+},
+{
+    123.92,128.22
+     So how can you tell if your hip abductors are weak and if this is something that you
+},
+{
+    128.22,130.72
+     need to work on to help your knee to feel better?
+},
+{
+    130.72,135.36
+     Well there are two incredibly simple tests that you can do right now to test the strength
+},
+{
+    135.36,137.44
+     of those hip abductor muscles.
+},
+{
+    137.44,139.36
+     The first is a trendelum burt test.
+},
+{
+    139.36,143.76
+     What I want you to do is stand up with your feet pretty close together and put your hands
+},
+{
+    143.76,144.76
+     on your hip.
+},
+{
+    144.76,150.32
+     Now simply bend one leg so that you're standing on one foot. You should notice that your hips
+},
+{
+    150.32,156.0
+     stay nice and level, meaning your hands don't move when you're standing just on that one leg.
+},
+{
+    156.0,160.96
+     This would be an indication that those hip abductor muscles are strong and stable.
+},
+{
+    160.96,170.16
+     If however you bend your leg and you notice that the side where your leg is bent drops down towards the floor that would be an indication of hip
+},
+{
+    170.16,175.22
+     abductor weakness. The other thing that I noticed is an excessive lean over to the
+},
+{
+    175.22,179.22
+     side that you're standing on in order to counterbalance that weight
+},
+{
+    179.22,183.42
+     distribution. The other test that you can do is to perform a squat or a lunge
+},
+{
+    183.42,187.24
+     and simply notice where your knee tracks in relation to your toes.
+},
+{
+    187.24,192.72
+     As you drop down into a squat, you should be able to keep your knees directly over your toes.
+},
+{
+    192.72,197.92
+     If they buckle to the inside, this can be an indication of hip abductor weakness.
+},
+{
+    198.56,205.16
+     Similarly with a lunge, as you lunge forward onto your foot, that knee should be right in line with your
+},
+{
+    205.16,209.92
+     toe. If it buckles to the inside, that is an indication that we have some work to
+},
+{
+    209.92,214.44
+     do on that lateral hip muscle. Now of course I'm curious to hear your results.
+},
+{
+    214.44,218.68
+     If you try any of these tests, leave me a comment down below. Let me know how they
+},
+{
+    218.68,222.88
+     turned out for you. Now if you do have knee pain and you try these tests and you
+},
+{
+    222.88,227.88
+     find out that your hips are weak, obviously we need to work on strengthening those hips.
+},
+{
+    227.88,230.24
+     What I'd like to do now is run you through a progression
+},
+{
+    230.24,233.24
+     of four exercises that are going to help to improve
+},
+{
+    233.24,237.08
+     that gluteus medius strength or that hip abductor strength
+},
+{
+    237.08,239.58
+     and hopefully help your knee to feel better.
+},
+{
+    239.58,241.28
+     Again, there are four exercises.
+},
+{
+    241.28,244.32
+     I want to start with easiest and then work up to the hardest.
+},
+{
+    244.32,249.4
+     So hopefully we find a solution that's going to be perfect for you.
+},
+{
+    249.4,253.12
+     Exercise number one may seem simple at first glance, but don't count it out.
+},
+{
+    253.12,257.0
+     It's actually pretty tough, especially if you're weak in those hip abductors.
+},
+{
+    257.0,259.64
+     Let's do some sideline hip abduction.
+},
+{
+    259.64,261.8
+     Lay down on your uninjured side.
+},
+{
+    261.8,270.4
+     That means your injured knee is going to be up towards the ceiling. Keep your hips stacked, one right on top of the other, and then what you're going to do is activate
+},
+{
+    270.4,275.92
+     those lateral muscles and lift your heel up towards the ceiling. Try not to let your hips
+},
+{
+    275.92,282.16
+     roll backward. Try to keep your toe pointed down and try to drive that heel up towards the ceiling.
+},
+{
+    282.16,288.84
+     That's what should be directing this movement. And you should feel that right up on top of your hip. Now this isn't an exercise
+},
+{
+    288.84,293.24
+     that I typically recommend we only do 30 to 40 reps of. Usually my
+},
+{
+    293.24,298.12
+     recommendation here is three sets of 15 to 20 reps. We're really trying to go
+},
+{
+    298.12,302.0
+     for fatigue and we're really trying to wear that muscle out in order to
+},
+{
+    302.0,305.6
+     stimulate that strength progression.
+},
+{
+    305.6,310.2
+     Exercise number two is also a sideline abduction exercise, but now we're going to add some
+},
+{
+    310.2,311.2
+     resistance.
+},
+{
+    311.2,315.68
+     You can do this by grabbing a mini band and sticking it around your knees.
+},
+{
+    315.68,320.2
+     Now as you move your leg up towards the ceiling and work on those hip abductors, you have
+},
+{
+    320.2,323.32
+     to do so against the resistance of the band.
+},
+{
+    323.32,325.04
+     Makes this exercise a little more
+},
+{
+    325.04,326.04
+     difficult.
+},
+{
+    326.04,330.6
+     This one I typically recommend about three sets of 15 to 20 reps.
+},
+{
+    330.6,335.96
+     Next, let's progress things into standing a little more functional position with some
+},
+{
+    335.96,337.36
+     lateral band walks.
+},
+{
+    337.36,339.84
+     You're still going to need that same mini band.
+},
+{
+    339.84,346.16
+     Start with it up around your knees, get into a partial squat position, take a big step to the side
+},
+{
+    346.16,348.4
+     and then a half step to follow it.
+},
+{
+    348.4,352.76
+     So a big step with the leading leg and then a half step with the trailing leg.
+},
+{
+    352.76,356.84
+     Depending on the amount of space you have, you might take one step to the left and then
+},
+{
+    356.84,358.36
+     one step to the right.
+},
+{
+    358.36,363.08
+     Or if you have more room, you can do an entire walk progression one direction and then an
+},
+{
+    363.08,370.48
+     entire walk progression back to that starting point. 15 to 20 steps in each direction is a great number to shoot for and then try to
+},
+{
+    370.48,376.0
+     repeat that three times. Now if you don't have those mini bands or have access to those mini bands,
+},
+{
+    376.0,381.92
+     they are inexpensive. They are a great addition to any home workout for any home gym. Check the
+},
+{
+    381.92,389.48
+     link down below in the description. I've left links to the bands that I used in this video. I hope that helps you out. And finally, our
+},
+{
+    389.48,394.22
+     last exercise is a side plank with a hip abduction. This is one way that we can
+},
+{
+    394.22,398.12
+     just take this lateral strengthening to a whole new level. What I want you to do
+},
+{
+    398.12,402.9
+     is get down into a side plank position with your injured leg up. For the
+},
+{
+    402.9,409.68
+     demonstration in this video, I've got my left elbow down and I'm on the outside of my left ankle. Now what we're going to do is hold that
+},
+{
+    409.68,416.08
+     position as we abduct our right hip up towards the ceiling. You're going to feel this not only
+},
+{
+    416.08,422.08
+     in that right hip, but it's actually the left hip that's working harder to keep yourself up in this
+},
+{
+    422.08,429.36
+     side plank position while that right leg is moving. So it's actually a great way that you can work both sides and both hips at
+},
+{
+    429.36,433.88
+     the same time in one convenient exercise. Keep in mind this is a pretty tough
+},
+{
+    433.88,437.8
+     exercise. These motions are pretty advanced, they are pretty rigorous. That
+},
+{
+    437.8,442.92
+     being said, three sets of 10 repetitions on each side is a great number to shoot
+},
+{
+    442.92,447.7
+     for. Strengthening those hip abductors, those lateral hip muscles,
+},
+{
+    447.7,451.22
+     to keep your knee in a better position during functional movements
+},
+{
+    451.22,453.78
+     is honestly one of the best things that you can do
+},
+{
+    453.78,455.9
+     to help improve your knee pain.
+},
+{
+    455.9,457.78
+     I hope you find that to be the case.
+},
+{
+    457.78,459.22
+     I hope this video helped you out
+},
+{
+    459.22,461.58
+     and I hope that your knee feels better soon.
+},

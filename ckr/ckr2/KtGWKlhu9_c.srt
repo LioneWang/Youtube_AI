@@ -1,0 +1,104 @@
+{
+    0.0,8.32
+     For some patients, compression therapy may be ordered to help with your wound healing.
+},
+{
+    8.32,13.48
+     This type of therapy uses multi-layered wraps to reduce and control the swelling or edema
+},
+{
+    13.48,16.64
+     in your legs and keep it from coming back.
+},
+{
+    16.64,22.2
+     The wraps are made of different materials and may be two, three, or four layers.
+},
+{
+    22.2,25.04
+     Your doctor will decide which one is best for you.
+},
+{
+    30.72,35.52
+     Usually the wrap stays on for a full week, but sometimes it might need to be changed more often. You may need larger shoes or special footwear because the wrap may be too bulky to wear with
+},
+{
+    35.52,41.76
+     your regular shoes. Multilayered wraps are wrapped one layer at a time in circles, starting at the
+},
+{
+    41.76,50.08
+     base of the toes and going up to just below the knee. The layers are wrapped so no skin is visible. Wrinkles in your wrap can bother
+},
+{
+    50.08,55.52
+     your skin. The wrap must stay clean and dry. Do not get it wet in the shower or
+},
+{
+    55.52,60.72
+     tub. You may do a partial bath. Use plastic protectors like the ones made to
+},
+{
+    60.72,70.32
+     cover casts or you can cover the wrap with a large plastic bag closed at the top so that no water can get in. If you use a plastic cover be
+},
+{
+    70.32,74.88
+     sure it has a special bottom so you do not slip. To ensure you have the best
+},
+{
+    74.88,78.96
+     possible outcome please call us immediately if any of the following
+},
+{
+    78.96,84.56
+     symptoms occur. If you feel increased pain in the affected area your toes
+},
+{
+    84.56,86.36
+     become swollen.
+},
+{
+    86.36,92.08
+     If the drainage smells very bad, your toes or legs feel numb or they tingle.
+},
+{
+    92.08,96.46
+     If there's a change in the color of your toes or if your toes become hotter or colder
+},
+{
+    96.46,98.36
+     than normal.
+},
+{
+    98.36,108.8
+     The Center for Wound Care can be reached at 614-293-4811 or go to your local emergency department.
+},
+{
+    108.8,111.92
+     Your wrap may need to be changed if the following happens.
+},
+{
+    111.92,117.14
+     Your wrap starts falling down if it gets wet or if the drainage from your wound starts coming
+},
+{
+    117.14,119.08
+     through the wrap.
+},
+{
+    119.08,123.44
+     Multilayer wraps are only worn for a maximum of 7 days at a time.
+},
+{
+    123.44,125.56
+     It is very important to your recovery that
+},
+{
+    125.56,130.32
+     you do not leave it in place for more than seven days. If you are going to miss your
+},
+{
+    130.32,135.76
+     appointment, call the OSU Comprehensive Wound Care Center for instructions.
+},

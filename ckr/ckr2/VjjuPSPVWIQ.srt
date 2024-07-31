@@ -1,0 +1,460 @@
+{
+    0.0,10.0
+     Hi, I'm Bob Schrupp, physical therapist. Brad Heineck, physical therapist. We're going to be on the most famous physical therapist on the internet. In our opinion, of course Bob.
+},
+{
+    10.0,16.0
+     Today we're going to talk about how to recover from muscle soreness and we're going to show you basically the number one method to do so. Sure.
+},
+{
+    16.0,27.4
+     And we're talking about doms, aren't we? D-O-M-S. Yes, doms. Delayed onset muscle soreness. So this is the soreness that comes on usually a day or two later after you've done lifting or something like that
+},
+{
+    27.68,29.36
+     It occurs
+},
+{
+    29.36,36.76
+     Basically that type of soreness occurs when the muscle is lengthening. We're not when you're lifting. So let's say I'm curling
+},
+{
+    37.48,42.32
+     If I'm curling I'm going up like this. The muscle is shortening my bicep
+},
+{
+    42.44,45.2
+     Now when I bring it down it's lengthening.
+},
+{
+    45.2,49.96
+     That's when the soreness can occur. That's when the microtrauma or tears can occur.
+},
+{
+    49.96,54.16
+     Sure. If I'm squatting, right, when I'm going down like this, my quads are
+},
+{
+    54.16,58.8
+     lengthening as I squat and that's where the soreness can occur. Again, it's
+},
+{
+    58.8,66.96
+     microtrauma in the muscles and your body is starting to repair those muscles and there's an inflammatory response.
+},
+{
+    66.96,72.72
+     Sure. It's also called muscle fever. And the other thing, you know, you weight lifters out there,
+},
+{
+    72.72,77.76
+     they refer to that as negatives. If you're doing a negative, just another term that we'll throw on it.
+},
+{
+    77.76,82.48
+     So what are some of the things that you better believe in? Okay, all right, so what are you
+},
+{
+    82.48,91.44
+     going to do for this? The biggest, the thing they have found, they found the things that don't work are like cryotherapy which is ice. They have also found
+},
+{
+    91.44,97.6
+     that stretching does not really help. And I'm here to say because I eat both cryotherapy and stretch,
+},
+{
+    97.6,101.92
+     I don't think it makes it worse, it may not help but it feels better. It feels better so you go ahead
+},
+{
+    101.92,108.66
+     and absolutely there's no problem at doing it all. I also might be a big one taking ibuprofen just because of the other side effects of
+},
+{
+    108.66,111.6
+     taking ibuprofen all the time.
+},
+{
+    111.6,116.6
+     And the other thing, by the way, it is not due to lactic acid buildup, by the way, which
+},
+{
+    116.6,123.12
+     obviously can give you pain while you're working out, but it's just due to microtrauma.
+},
+{
+    123.12,127.92
+     So the number one method, Brad, is you wanna increase blood flow to that area.
+},
+{
+    127.92,129.36
+     So there's two ways to do that.
+},
+{
+    129.36,132.08
+     One is what you call active recovery,
+},
+{
+    132.08,135.08
+     where, so let's say the next day you're really sore,
+},
+{
+    135.08,139.38
+     what you're gonna do is something a lot less intense.
+},
+{
+    139.38,141.16
+     Maybe using the same muscle group,
+},
+{
+    141.16,143.08
+     but let's say your legs are real sore,
+},
+{
+    143.08,144.96
+     you might just do some walking,
+},
+{
+    144.96,150.6
+     or some really, maybe gentle biking or something like that. For example I did a
+},
+{
+    150.6,155.24
+     really hard bike last night on hills getting ready for a race and my muscles
+},
+{
+    155.24,158.96
+     are sore so what I'm going to do I'm not going to do it today but I should do but
+},
+{
+    158.96,164.66
+     I got things to do at home is get on my bike and ride on the flat at a very low
+},
+{
+    164.66,166.2
+     level. As a matter of fact
+},
+{
+    166.2,170.12
+     you're gonna feel like why am I even doing this if your heart rate should not
+},
+{
+    170.12,175.48
+     get up into that aerobic range even if so at the low level. It's so simple that
+},
+{
+    175.48,179.76
+     it's gonna feel like a waste of time. That's an active recovery and it's really
+},
+{
+    179.76,183.6
+     hard if you're a go-getter. It's gonna drive you nuts but it's important to do it.
+},
+{
+    183.6,186.64
+     Very good example. You want to just get blood flowing.
+},
+{
+    186.64,191.84
+     Just blood flow for 20 minutes is good enough get flesh out all those that
+},
+{
+    191.84,195.44
+     waste material and get some fresh blood in it's going to heal those muscles.
+},
+{
+    195.44,199.96
+     Yeah the other thing is that is what you can do is basically massage and we do
+},
+{
+    199.96,207.48
+     we have two ways to do that one is the foam roller Which we've done some videos on that we'll do we'll show some today, right?
+},
+{
+    207.48,210.0
+     So some of the muscles and the other one is
+},
+{
+    210.4,216.72
+     Well, there's a product you can buy called the intracell body stick and we've done a video on that
+},
+{
+    217.2,224.48
+     And that works really well, but we also discovered you can just take a rolling pin right like this and this will actually help you
+},
+{
+    226.92,228.16
+     Apply a self massage to a lot of the sore muscles.
+},
+{
+    228.16,229.0
+     Like this?
+},
+{
+    229.0,231.12
+     Yeah, that works out really good.
+},
+{
+    231.12,233.74
+     I think it's, yeah, this is a nice one.
+},
+{
+    233.74,235.96
+     It's very a lot easier to apply to yourself
+},
+{
+    235.96,237.28
+     than the foam roller.
+},
+{
+    237.28,239.9
+     As you'll see, the foam roller is a little more difficult.
+},
+{
+    239.9,242.04
+     So yeah, your quads are sore,
+},
+{
+    242.04,243.36
+     just roll them out like that.
+},
+{
+    243.36,245.28
+     It's getting more blood flowing to them
+},
+{
+    245.64,247.64
+     Kind of easy to do isn't it?
+},
+{
+    247.64,252.92
+     Yeah, I really got some my quads and I was working on pulling up on this pedal stroke
+},
+{
+    252.92,257.32
+     Which gets my hamstrings sore and a great one for doing the hamstrings
+},
+{
+    259.12,266.44
+     Worked on here a little bit. Good one for sore. Oh my goodness. Could you do your chest muscle with this one Brad?
+},
+{
+    266.44,268.4
+     No, I'm not doing that in front of a camera.
+},
+{
+    269.72,271.8
+     No, yeah, we could work that too.
+},
+{
+    271.8,273.76
+     Yeah, I just think that would almost be easier
+},
+{
+    273.76,275.56
+     than using a foam roller on the chest muscle.
+},
+{
+    275.56,276.52
+     Maybe I'm wrong.
+},
+{
+    276.52,279.72
+     You can lay on this and roll over it.
+},
+{
+    279.72,280.64
+     All right.
+},
+{
+    280.64,282.2
+     You could.
+},
+{
+    282.2,283.8
+     I don't know, I never do, but.
+},
+{
+    283.8,287.0
+     You wanna get on the floor Brad? show some of the stretches you can do
+},
+{
+    287.0,289.0
+     Home rolling you can do with this
+},
+{
+    289.0,293.0
+     Why don't you do the piriformis, the butt muscle first
+},
+{
+    293.0,297.0
+     We'll stir it up here, as a matter of fact I was just working with a woman who was having some
+},
+{
+    297.0,301.0
+     wanted to learn how to use this from the hips on down
+},
+{
+    301.0,312.12
+     and she was talking about that but muscle right in there And you gotta be kind of active in a mobile person to do this. You're not gonna do it if you're 80 years old and having some issues
+},
+{
+    312.12,314.12
+     Oh, yeah, work on that.
+},
+{
+    314.12,318.12
+     You can actually cross that leg over, can't you Brad? And that'll put even more stress on it.
+},
+{
+    318.12,320.12
+     I don't want to put more stress on it.
+},
+{
+    320.12,322.12
+     Alright, it's a good amount.
+},
+{
+    322.12,324.12
+     And then the hamstrings
+},
+{
+    324.68,329.2
+     Here like this You know if you want to do one at a time you can cross
+},
+{
+    329.2,332.24
+     and get right on there.
+},
+{
+    332.24,335.72
+     Once you do this you'll know how you can adjust the pressure by where you put your hands on
+},
+{
+    335.72,336.72
+     the floor.
+},
+{
+    336.72,337.72
+     How about IT band Brad?
+},
+{
+    337.72,338.72
+     Oh you can do calves.
+},
+{
+    338.72,342.08
+     And we might as well go right on down to the calf.
+},
+{
+    342.08,343.64
+     And this one's even different.
+},
+{
+    343.64,346.72
+     This is pretty aggressive, OE, OE, OE, but it's
+},
+{
+    346.72,355.04
+     really getting in there, oh that's better, and the IT band on the side, man we gotta do something
+},
+{
+    355.04,362.64
+     with our carpet, we gotta stitch it up, we have a video done on that too, and here you really,
+},
+{
+    362.64,365.36
+     this is sensitive, if you do this you're gonna
+},
+{
+    365.36,369.32
+     really put weight through your arm and adjust it accordingly because it will
+},
+{
+    369.32,375.56
+     work that IT band and be a little painful so adjust to your own judgment
+},
+{
+    375.56,381.8
+     all right you could also get hip flexor oh yeah but I got this is a good one this
+},
+{
+    381.8,385.84
+     is really good for the mid-back I don't know that I would do this to the low back
+},
+{
+    385.84,388.26
+     Would you Brad? I don't because it's uncomfortable
+},
+{
+    388.26,393.88
+     Yeah, it's uncomfortable for me too. So we do it in the thoracic area. I never do it in the lumbar area
+},
+{
+    395.28,397.88
+     My patient yesterday said can I do my laps?
+},
+{
+    398.48,402.54
+     Yeah, you can do your laps on it, but you really have to adjust because that's the rib cage
+},
+{
+    402.54,405.24
+     It's so sensitive and maybe painful, but boy, this is quite the the rib cage, it's so sensitive and maybe painful
+},
+{
+    407.24,407.72
+     But boy, this is quite the device
+},
+{
+    411.84,414.24
+     You know it's not very expensive and it really worked. What was the other one you said? A hymphlexer. Oh, can you do it?
+},
+{
+    414.24,416.24
+     Now let's see what we can do
+},
+{
+    418.08,423.6
+     The big thing with that, I would move it over Brad or yeah, because you don't want to get your package caught in there
+},
+{
+    429.0,434.0
+     Yes, that would be an issue. My wife would not be happy. Okay, well let's not skip that Bob. This is a clean show.
+},
+{
+    434.0,439.0
+     A lot of times people do get sore up in those hip flexors all the way up where the detachment is.
+},
+{
+    439.0,443.0
+     So that's a good one to do. So this gives you options. By the way, they do have
+},
+{
+    443.0,445.68
+     foam rollers now that actually have
+},
+{
+    452.64,456.88
+     like ripples or undulations and they really will work on, you know, undulation. Nice work. I thought the other thought thrown in there. So I'm feeling strong like bull going on.
+},
+{
+    457.6,467.68
+     I remember now nobody should have to live in pain except Pain Minnesota? Yeah you betcha it's a northern Minnesota dubbed by the
+},
+{
+    467.68,473.56
+     North Lake they call it the North Shore. Superior but I think the other thing is
+},
+{
+    473.56,477.64
+     you shouldn't have to live with pain so unless you have a dog named Payne or
+},
+{
+    477.64,481.32
+     maybe a son named Payne. I don't think anybody should have to live with me.
+},
+{
+    481.32,485.16
+     That's true. Thanks.
+},

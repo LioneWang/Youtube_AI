@@ -1,0 +1,272 @@
+{
+    0.0,26.46
+     Now we're going to cover arterial bleeding in the workplace.
+},
+{
+    26.46,30.5
+     In this setup, what we saw as a person who knew he probably should have used something
+},
+{
+    30.5,35.78
+     to help put the wood through, but the problem was it was inconvenient, which is so common,
+},
+{
+    35.78,41.44
+     puts it down, uses his hand but slips and cuts his radial artery.
+},
+{
+    41.44,45.12
+     We know that it's an arterial bleed because it's pulsating and bright
+},
+{
+    45.12,51.22
+     red in color. Vanus bleeding is more oozing and is darker in color. Now when
+},
+{
+    51.22,55.48
+     we come across this most people automatically they grab their bleeding
+},
+{
+    55.48,60.96
+     part of their body. They put a hand over it. That's natural, it's normal, but they
+},
+{
+    60.96,64.56
+     may not even have a bandage. So when we respond we're going to make sure our
+},
+{
+    64.56,69.48
+     scene is safe, the machinery is off, our gloves are on and we're ready to rescue.
+},
+{
+    69.48,74.2
+     I like to come at least with a 4x4 or a 5x9 immediately. Sir, I'm going to go ahead and
+},
+{
+    74.2,80.32
+     replace your hand with this 4x4. Ready? Go ahead and change it out. Now we saw that it
+},
+{
+    80.32,90.14
+     was obviously pulsating. Go ahead and put pressure on that right there there you go he puts direct pressure himself he can assist as long as he's
+},
+{
+    90.14,95.06
+     conscious and not losing responsiveness I can see that it's already leaking
+},
+{
+    95.06,99.28
+     through so I don't take the first one away go ahead and cover that now and I
+},
+{
+    99.28,109.04
+     put a second one on there he puts firm pressure it you know getting it above the heart was something that we used to teach, but again, if they're not
+},
+{
+    109.04,114.0
+     comfortable doing that, it's more important to put the direct pressure instead of worrying
+},
+{
+    114.0,119.68
+     about elevating it. We're sitting the person down so that if they do get a little light-headed,
+},
+{
+    119.68,123.76
+     they're in a sitting position. Eventually, maybe a chair, and if it gets real bad, we'll
+},
+{
+    123.76,126.44
+     lower them all the way down to the ground.
+},
+{
+    126.44,131.16
+     Now once we have controlled the bleeding, and it's not like arterial bleeding cannot
+},
+{
+    131.16,136.6
+     be controlled with direct pressure, it's something that we need to keep an eye on.
+},
+{
+    136.6,142.72
+     Every time we see it starting to leak through, we put another fresh bandage, here's a 5x9,
+},
+{
+    142.72,150.36
+     go ahead and put direct pressure there, and now we see that it's not leaking through this 5x9 bandage. Here's a 5x9, go ahead and put direct pressure there. And now we see that it's not leaking through this 5x9 bandage. If we could not control
+},
+{
+    150.36,157.36
+     this arterial bleeding, we might move to a proper tourniquet device. This is for
+},
+{
+    157.36,163.04
+     delayed emergency response of greater than 10 to 15 minutes. Major arterial
+},
+{
+    163.04,166.68
+     bleeding that cannot be controlled and life
+},
+{
+    166.68,171.04
+     threatening bleeding that if we don't stop the bleeding the person's going to
+},
+{
+    171.04,175.68
+     lose their life. That's the proper use of tourniquets and when to use them. In
+},
+{
+    175.68,181.6
+     most cases direct pressure and pressure bandages are going to work just fine. You
+},
+{
+    181.6,186.24
+     can also make a makeshift tourniquet if you don't have a proper
+},
+{
+    186.24,189.0
+     tourniquet device. In this case we're
+},
+{
+    189.0,190.56
+     controlling it with direct pressure.
+},
+{
+    190.56,193.26
+     Now it's not leaking through. The
+},
+{
+    193.26,195.52
+     person's consciousness is fine. He's
+},
+{
+    195.52,197.52
+     responding to me well. He's still helping.
+},
+{
+    197.52,199.04
+     And now I'm going to go ahead and wrap
+},
+{
+    199.04,202.48
+     this sir. I wrap it from the distal end
+},
+{
+    202.48,204.52
+     which means all the way to the end. I
+},
+{
+    204.52,207.36
+     start at the end of the extremity.
+},
+{
+    207.36,210.92
+     I'm using an ace wrap to hold pressure with this,
+},
+{
+    210.92,214.36
+     so it could actually work like a tourniquet by accident.
+},
+{
+    214.36,215.36
+     Not my point.
+},
+{
+    215.36,217.36
+     And I'm going to show you how to check to make sure
+},
+{
+    217.36,220.52
+     we're not causing a tourniquet in just a minute.
+},
+{
+    220.52,223.32
+     But I'm able to wrap that pad in place.
+},
+{
+    223.32,224.08
+     Look it.
+},
+{
+    224.08,228.0
+     If I need a little extra pressure once I get over the wound itself,
+},
+{
+    228.0,231.52
+     I do a little twist. Then I come back around,
+},
+{
+    231.52,235.84
+     another little twist straight over it, and now I can finish out that bandage.
+},
+{
+    235.84,239.2
+     And now I just tuck the end
+},
+{
+    239.2,242.96
+     into the actual ace wrap to hold it there. Now,
+},
+{
+    242.96,245.72
+     I want to check nail beds. I squeeze the
+},
+{
+    245.72,249.84
+     nail bed and look at this. You can see that when I pinch the nail bed and it
+},
+{
+    249.84,254.96
+     blanches white and then I let it go, it only takes like one to maybe two seconds
+},
+{
+    254.96,259.64
+     to refill with blood. That's what tells me this is not so tight that it's cutting
+},
+{
+    259.64,263.88
+     off circulation, but it's tight enough that it's holding direct pressure and
+},
+{
+    263.88,265.18
+     keeping the arterial
+},
+{
+    265.18,268.82
+     bleeding from still losing a certain amount of blood.
+},
+{
+    268.82,270.64
+     So this is a great vantage.
+},
+{
+    270.64,275.3
+     Now we can decide whether we're going to transport this patient to the emergency room by private
+},
+{
+    275.3,278.62
+     vehicle or whether we need to activate EMS.
+},
+{
+    278.62,283.22
+     At the point that this person started to lose consciousness or show signs of shock like
+},
+{
+    283.22,286.5
+     cool, pale, sweaty skin, decreased
+},
+{
+    286.5,290.88
+     level of consciousness or I could not get this bleeding to stop and they were losing
+},
+{
+    290.88,292.38
+     a large amount.
+},
+{
+    292.38,297.16
+     That's when I activate EMS by calling 911 and get help on the way and treat the patient
+},
+{
+    297.16,300.1
+     for shock or any other life threatening conditions.
+},

@@ -1,0 +1,72 @@
+{
+    0.0,6.0
+     You know blunt force trauma to the chest area can create significant problems for people.
+},
+{
+    6.0,12.0
+     I am Captain Joe Bruni and what I'm going to talk about is how to treat the suspected rib fracture.
+},
+{
+    12.0,25.64
+     Individuals who have a rib fracture may be guarding the area and experiencing pain when they breathe. These are signs and symptoms after blunt force trauma to the chest has
+},
+{
+    25.64,34.14
+     occurred that a rib fracture may have occurred in the individual. Taking something like ice
+},
+{
+    34.14,40.02
+     or commercially bought cold pack and applying it to the rib area to reduce swelling and
+},
+{
+    40.02,47.44
+     pain for 10 to 15 minutes will help to alleviate some of that pain that they're feeling from
+},
+{
+    47.44,49.22
+     a rib fracture.
+},
+{
+    49.22,61.48
+     After 10 to 15 minutes, remove the cold compress and make something like a grocery bag filled
+},
+{
+    61.48,69.0
+     with clothing or other material like soft rags that can be placed up against the chest area where the injury has occurred
+},
+{
+    69.0,85.94
+     and then taking some type of elastic bandage and wrapping around that individual to hold that in place. what may be necessary or what may help if you have it available is to take some
+},
+{
+    85.94,91.96
+     type of adhesive tape or medical tape and tape that suspected area under the
+},
+{
+    91.96,98.84
+     skin from breast bone around the side to the spine. Place several pieces of tape
+},
+{
+    98.84,108.4
+     and layer it across the injury site area and then place the bag in that location and apply the pressure
+},
+{
+    108.4,114.8
+     bandage or have the person hold it in place if necessary. This will help to reduce pain
+},
+{
+    114.8,121.64
+     and increase their breathing rate back to a normal level. Rib fractures can be a pretty
+},
+{
+    121.64,126.18
+     painful experience but helping to reduce that pain and swelling
+},
+{
+    126.18,131.22
+     is the first step while en route to the emergency department for x-rays and evaluation.
+},
+{
+    131.22,133.68
+     I'm Captain Joe Bruni, stay safe and we'll see you next time.
+},

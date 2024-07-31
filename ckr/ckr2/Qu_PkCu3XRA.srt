@@ -1,0 +1,352 @@
+{
+    0.0,5.84
+     The Unconscious Casualty
+},
+{
+    5.84,11.12
+     When you come across an unconscious casualty you must complete the primary survey.
+},
+{
+    11.12,19.06
+     The primary survey can be broken down into Drab, D for Danger, R for Response,
+},
+{
+    19.06,23.52
+     Shower for Help, Airway and Breathing.
+},
+{
+    23.52,25.82
+     Let's put all those things together now. help, airway and breathing.
+},
+{
+    28.26,29.14
+     Let's put all those things together now.
+},
+{
+    30.78,32.78
+     As soon as you come across a casualty that's unconscious on the floor,
+},
+{
+    32.78,35.46
+     the first thing you've gotta do is check the air for danger.
+},
+{
+    35.46,37.94
+     You must look up, you must look around
+},
+{
+    37.94,39.94
+     and look to see if anything that can hurt you,
+},
+{
+    39.94,43.14
+     for example, falling objects, electrical wires,
+},
+{
+    43.14,44.86
+     and also any scary people around
+},
+{
+    44.86,46.62
+     that might have had a fight with this person.
+},
+{
+    46.62,49.48
+     So always make sure it's safe before you start to approach.
+},
+{
+    49.48,51.06
+     After you've checked the air for danger,
+},
+{
+    51.06,53.74
+     the next thing you need to do is check for response.
+},
+{
+    53.74,55.88
+     Now, ideally you want to try and approach casually,
+},
+{
+    55.88,57.8
+     if at all possible, from the feet.
+},
+{
+    57.8,60.26
+     That way, they don't injure their neck by looking up,
+},
+{
+    60.26,61.96
+     because if you just suddenly stood over their head,
+},
+{
+    61.96,63.72
+     they actually have to lift their head upwards
+},
+{
+    63.72,66.26
+     in order to be able to see where you are. So try and approach them for their
+},
+{
+    66.26,71.18
+     feet and see if they can respond to your verbal commands such as hi there can you open your
+},
+{
+    71.18,76.54
+     eyes for me? They're going to say they respond by pain so you're going to push down on the
+},
+{
+    76.54,81.54
+     collarbone like so or pinch the ears so you can get a pain response. If you don't get
+},
+{
+    81.54,90.0
+     no response shout for for help. Help! Then we need to open the airway. We lift the chin up and tip the head back.
+},
+{
+    90.0,97.0
+     This opens the airway by moving the tongue out of the way, as these two pictures clearly show you.
+},
+{
+    97.0,99.0
+     Then you need to assess whether they're breathing or not.
+},
+{
+    99.0,105.04
+     You need to look, listen and feel for up to 10 seconds for normal breathing.
+},
+{
+    105.04,108.28
+     So I'm feeling with my cheek, I'm listening with my ear
+},
+{
+    108.28,112.28
+     and I'm watching for normal chest rise.
+},
+{
+    112.28,114.52
+     Now it's so important to look, listen, feel
+},
+{
+    114.52,118.76
+     for a whole 10 seconds because an adult will be breathing
+},
+{
+    118.76,122.2
+     around about two to four times in these 10 seconds
+},
+{
+    122.2,124.8
+     and a baby ran about 10 times
+},
+{
+    124.8,125.28
+     so a child's
+},
+{
+    125.28,130.08
+     somewhere in between. If it wasn't normal breathing then we're going to have to
+},
+{
+    130.08,135.48
+     start CPR on the catapult tree so we must take those 10 seconds to be sure if
+},
+{
+    135.48,140.72
+     they are breathing normally or not. If they are breathing normally, CPI is not
+},
+{
+    140.72,145.5
+     required and you know the situation and therefore you can tell someone to go and call the ambulance because they are breathing but you could have put them in Mae'r CPI yn ymdweud, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod,
+},
+{
+    145.5,147.5
+     ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod,
+},
+{
+    147.5,151.5
+     ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod,
+},
+{
+    151.5,155.5
+     ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod,
+},
+{
+    155.5,160.5
+     ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod,
+},
+{
+    160.5,164.5
+     ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod,
+},
+{
+    164.5,165.84
+     ac mae'n gweithio'r cyfnod, ac mae'n gweithio'r cyfnod, open and to ensure that they cannot choke around vomit we all need to place them as I mentioned before
+},
+{
+    165.84,171.04
+     into the recovery position. Now before we can place them into the recovery position we need to
+},
+{
+    171.04,176.64
+     do what we call a secondary survey where we see we can find anything else that could explain why
+},
+{
+    176.64,182.24
+     this child is unconscious and not responding to us but they are still breathing. So we check the
+},
+{
+    182.24,186.4
+     head for any lumps and bumps we then check one arm at a time,
+},
+{
+    186.4,188.66
+     trying to feel for anything that's deformed,
+},
+{
+    188.66,192.28
+     and bruising, swelling, maybe any fluids.
+},
+{
+    192.28,194.48
+     We look down one leg at a time,
+},
+{
+    194.48,198.24
+     making sure again we're feeling anything abnormal.
+},
+{
+    198.24,200.8
+     We're checking the pockets to make sure there's nothing sharp
+},
+{
+    200.8,202.52
+     that's going to affect them when we move them
+},
+{
+    202.52,204.3
+     into the recovery position.
+},
+{
+    206.16,211.04
+     When we're happy and satisfied there's no other injuries and moving into the recovery position
+},
+{
+    211.04,215.04
+     is not going to hurt them anymore then we're going to get them in the recovery position.
+},
+{
+    215.04,220.0
+     And the reason we do that is because it allows the casualty to stay on their side,
+},
+{
+    220.0,224.72
+     it keeps the airway open for us and allows any vomit to drain out.
+},
+{
+    224.72,230.4
+     So in order to get them into the recovery position we need to move the arm that's closest to us out at 90 degrees.
+},
+{
+    230.4,233.4
+     We lean over the casualty and grab their hand.
+},
+{
+    233.4,236.0
+     We then place his hand against the cheek.
+},
+{
+    236.0,240.8
+     We lift their knee up and we push on their knee so they roll towards us.
+},
+{
+    240.8,249.32
+     We make sure the knees at 90 degrees, that stops them from rolling onto their belly and keeps them on their side. We then make sure we lift their chin up
+},
+{
+    249.32,254.92
+     which opens the airway. Dealing with an infant we can't easily lay an infant on
+},
+{
+    254.92,258.68
+     their side, it just doesn't work that well because of the shape and the way the
+},
+{
+    258.68,263.8
+     head falls. So we need to put them in a position where they're safe. We don't want
+},
+{
+    263.8,266.9
+     to leave an infant because if they're in any medical emergency we want to make felly mae'n cael ei wneud i'r pwysig i'r ddweud yn y ddweud. Mae'n gweithio i'r ddweud yn y ddweud, bo'r ddweud yn y ddweud yn y ddweud,
+},
+{
+    266.9,269.8
+     mae'n gweithio i'r ddweud yn y ddweud yn y ddweud.
+},
+{
+    269.8,271.9
+     Felly mae'n gweithio i'r ddweud yn y ddweud,
+},
+{
+    271.9,273.9
+     mae'n gweithio i'r ddweud yn y ddweud,
+},
+{
+    273.9,276.9
+     a mae'n gweithio i'r ddweud.
+},
+{
+    276.9,278.7
+     Felly mae'n gweithio i'r ddweud,
+},
+{
+    278.7,280.4
+     mae'n gweithio i'r ddweud,
+},
+{
+    280.4,282.9
+     mae'n gweithio i'r ddweud,
+},
+{
+    282.9,284.0
+     a'n gweithio i'r ddweud,
+},
+{
+    284.0,285.6
+     fel y gallwch yn y ddweud. Byddai'n gweithio i'r ddweud, mae'n gweithio i'r ddweud i'r llwyffol, ac rwy'n ddweud i'r llwyffol, fel y gallwn yn ddweud.
+},
+{
+    285.6,289.8
+     Byddwn i'r llwyffol, rwy'n ddweud i'r llwyffol, rwy'n ddweud i'r llwyffol yn ddweud.
+},
+{
+    289.8,293.6
+     Rwy'n ddweud i'r llwyffol yn ddweud i'r llwyffol yn y ddweud.
+},
+{
+    293.6,296.2
+     Rwy'n ddweud i'r llwyffol yn y ddweud.
+},
+{
+    296.2,301.2
+     Mae'r llwyffol yn ddweud o'r llwyffol, oherwydd yn ychydig, oherwydd yn y ddweud o'r llwyffol yn ddweud.
+},
+{
+    301.2,309.5
+     Rwy'n ddweud i'r llwyffol, oherwydd yn y ddweud i'r llwyffol, oherwydd yn y ddweud i'r llwyffol, oherwydd yn y ddweud i'r llwyffol. just actually close. They're feeling your heartbeat, they're feeling the warmth and they're feeling that they're being cared for. It's reassurance. This is quite a
+},
+{
+    309.5,313.68
+     straightforward way of keeping babies safe.
+},
+{
+    313.68,317.92
+     Thank you for watching. I hope you really enjoyed the video and if you did please
+},
+{
+    317.92,321.8
+     don't forget to like and subscribe to our channel where you can receive lots
+},
+{
+    321.8,330.0
+     more videos on really important and life-saving first-aid skills. Thanks very much have a nice day!
+},

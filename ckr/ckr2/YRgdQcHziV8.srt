@@ -1,0 +1,448 @@
+{
+    0.0,8.0
+     Welcome back guys. Today I'm going to show you some neck stretches and exercises to restore the natural neck curve, also known as the cervical lardosis.
+},
+{
+    8.0,14.0
+     Now we tend to have a reduction of cervical lardosis, especially if we have to lean forward and do daily tasks.
+},
+{
+    14.0,28.02
+     For example, working at a desk on a laptop or factory work where we have the position our head forward and work in front of us. This position can cause a lot of stress and strain in this area and cause crushing of the nerves
+},
+{
+    28.02,31.96
+     that go down the neck, into the shoulder and into the arm,
+},
+{
+    31.96,33.4
+     causing a lot of referral pain.
+},
+{
+    33.4,35.84
+     So if you do have pain in the wrist, pain in the arm,
+},
+{
+    35.84,37.96
+     pain in the shoulder or pain in the neck,
+},
+{
+    37.96,40.12
+     these stretches will definitely help you out
+},
+{
+    40.12,42.32
+     and restore that neck curve,
+},
+{
+    42.32,45.52
+     especially also reduce headaches and migraines as well
+},
+{
+    45.52,47.04
+     because a lot of stress and strain
+},
+{
+    47.04,48.64
+     can cause tightness in the neck
+},
+{
+    48.64,50.74
+     and back up into the head as well.
+},
+{
+    50.74,52.9
+     Try out these neck stretches and exercises out.
+},
+{
+    52.9,55.04
+     I reckon they're definitely gonna help you out.
+},
+{
+    55.04,57.88
+     ["Mobile Sighted"]
+},
+{
+    63.82,67.32
+     Passive towel mobilizations with rotation.
+},
+{
+    67.32,73.68
+     Place a hand towel around your neck, now cross the towel over and grab both ends of the towel
+},
+{
+    73.68,74.68
+     with your hands.
+},
+{
+    74.68,79.52
+     And with one end of the towel, raise it so it presses up against one of the sides of
+},
+{
+    79.52,80.52
+     your jaw.
+},
+{
+    80.52,86.72
+     Make sure your neck is nice and relaxed and there is no resistance and then pull the towel over that jaw
+},
+{
+    86.72,92.2
+     This will mobilize and stretch the muscles and ligaments that don't really get stretched on
+},
+{
+    92.72,98.7
+     rotation in the neck hold this stretch for about 30 seconds and then alternate on each side
+},
+{
+    98.88,109.2
+     Four to five times make sure you don't cross the towel under your jaw because you will choke yourself out and possibly make yourself pass out or even die and that is not very constructive. Nothing I like to add
+},
+{
+    109.2,114.88
+     is make sure you remember to take long breaths in a relaxed manner, deep and slow, to allow a more
+},
+{
+    114.88,120.8
+     effective stretch. Neck flexion and extension mobilizations. Grab both ends of the towel and
+},
+{
+    120.8,128.88
+     allow the weight of your arms to pull the towel down. This will add pressure from the behind of the neck from the towel towards the front.
+},
+{
+    128.88,133.8
+     This will promote cervical lidosis which is a natural curve that you have in your neck
+},
+{
+    133.8,135.12
+     in the cervical spine.
+},
+{
+    135.12,140.12
+     Now with gentle pressure from the towel flex your neck back and forth in a controlled manner.
+},
+{
+    140.12,144.92
+     This will mobilize and open up the cervical spine and promote movement where there isn't
+},
+{
+    144.92,145.76
+     much movement before especially in the mid movement where there isn't much movement.
+},
+{
+    145.76,152.4
+     Before, especially in the mid-servical where there is a lot of stress and strain that is caused by the weight of the skull.
+},
+{
+    152.4,161.68
+     For this exercise do about 20 to 30 reps at one position and move it slightly up from the base of the skull and repeat the process again.
+},
+{
+    161.68,166.96
+     Do this 3 to 4 times at each position. Remember, this is not an exercise.
+},
+{
+    166.96,168.88
+     So your neck shouldn't feel sore
+},
+{
+    168.88,171.72
+     or you shouldn't feel your muscles in your neck get sore.
+},
+{
+    171.72,173.68
+     This is a mobilization technique.
+},
+{
+    173.68,175.44
+     So you should feel a slight stretch
+},
+{
+    175.44,178.52
+     or only a little bit of movement that changes in your neck.
+},
+{
+    178.52,180.52
+     You might hear some cracks or pops,
+},
+{
+    180.52,182.36
+     but this is perfectly normal.
+},
+{
+    182.36,186.32
+     If you want to get more of a dynamic resistance from this exercise,
+},
+{
+    186.32,191.52
+     I highly recommend you use a power band. I'll put a link in the description box below on where
+},
+{
+    191.52,196.8
+     to get them. It's great to use a resistance band or a power band you might call it because it only
+},
+{
+    196.8,202.08
+     increases resistance when it reacts to pressure that you press against it with your neck and will
+},
+{
+    202.08,208.88
+     retain to its relaxed position or looser position when you return it to its normal state and therefore it
+},
+{
+    208.88,213.2
+     creates a dynamic resistance. I like to use a towel between the power band and
+},
+{
+    213.2,217.12
+     my neck. This is because from my experience if I use the power band only
+},
+{
+    217.12,220.88
+     I feel like the power band does cut into my neck muscles and my skin and that's
+},
+{
+    220.88,224.32
+     just irritating and you can cause a bit of friction in your skin and it can
+},
+{
+    224.32,225.44
+     irritate the skin. This is just personal. And you can cause a bit of friction in your skin and it can irritate the skin.
+},
+{
+    225.44,230.08
+     This is just personal preference and you don't exactly need a towel between your neck and
+},
+{
+    230.08,231.08
+     the power band.
+},
+{
+    231.08,232.76
+     Upper Trapezius Stretch.
+},
+{
+    232.76,236.72
+     To stretch the upper trapezius, look straight ahead and with your opposite hand, place it
+},
+{
+    236.72,239.8
+     on the side of your head and pull your head over.
+},
+{
+    239.8,243.72
+     Now with the weight of your arm, allow your head to sink into the stretch.
+},
+{
+    243.72,247.6
+     There should be no muscles contracted or activated in this stretch.
+},
+{
+    247.6,252.96
+     We are trying to create a stretch in the muscles, ligaments and opening any of the spaces between
+},
+{
+    252.96,258.96
+     each vertebrae in your spine to create space for the nerves to flow through freely and
+},
+{
+    258.96,263.54
+     reduce any impingement along the way that could cause referral pain from the neck down
+},
+{
+    263.54,269.36
+     into your hands. For each stretch hold it for eight long breaths and alternate both sides four to
+},
+{
+    269.36,274.4
+     five times. Now with each stretch I would like you to exhale nice and slow and
+},
+{
+    274.4,278.24
+     allow your shoulders to melt into the stretch. This will increase the stretch.
+},
+{
+    278.24,283.46
+     To accentuate this stretch all you have to do is anchor the hand on the same side
+},
+{
+    283.46,285.64
+     that you were trying to stretch under your bum
+},
+{
+    285.64,289.88
+     Then with your opposite hand pull your head over and do the stretch
+},
+{
+    289.96,297.6
+     The upper trapezius is notorious to get tight in the neck and cause a lot of pain in the neck and the shoulders and sometimes even
+},
+{
+    297.6,299.78
+     Refer into the head creating headaches
+},
+{
+    299.78,305.2
+     This tends to happen when you spend a lot of time at work, at a desk, or leaning over something,
+},
+{
+    305.2,309.84
+     for example factory work, or even working at a cashier. These things can cause you to lean over
+},
+{
+    309.84,314.16
+     with your head and cause you to tighten up your upper traps. Even if you don't have this issue,
+},
+{
+    314.16,318.56
+     I highly recommend you do the stretch because it will definitely help you out. Even for myself,
+},
+{
+    318.56,323.12
+     I don't suffer from headaches or tight neck, I still do it to prevent myself from getting headaches
+},
+{
+    323.12,326.04
+     and live a better quality of life.
+},
+{
+    326.04,327.6
+     Lovator Scab Stretch.
+},
+{
+    327.6,331.6
+     To stretch the Lovator Scab, turn your head away from the side that you are trying to
+},
+{
+    331.6,337.36
+     stretch and then place the hand on the opposite side behind your head and allow the weight
+},
+{
+    337.36,340.64
+     of the arm to pull your head down.
+},
+{
+    340.64,344.12
+     This will create a stretch in the Lovator Scab muscle.
+},
+{
+    344.12,348.42
+     Because this position kinda looks like sniffing your armpit, I like to mention to my patients
+},
+{
+    348.42,350.9
+     to allow them to remember this position.
+},
+{
+    350.9,355.26
+     With this type of stretch, you tend to feel it more at the back and side of the neck compared
+},
+{
+    355.26,358.72
+     to the upper trap stretch, which is more to the side of the neck.
+},
+{
+    358.72,366.0
+     Hold this stretch for about 8 long deep breaths and alternate on both sides four to five times. And remember to
+},
+{
+    366.0,370.8
+     center at this stretch all you have to do is place the hand on the side that you're trying to
+},
+{
+    370.8,376.24
+     stretch under your bum to anchor that side down and then start the stretch. The levator
+},
+{
+    376.24,381.6
+     scap is attached from the cervical spine and inserted onto the superior border of your shoulder
+},
+{
+    381.6,388.26
+     blade also known as the scapula. And the main function of this muscle is to bring the shoulders towards the neck and elevate
+},
+{
+    388.26,392.64
+     the shoulder blade towards the neck, therefore giving it's name, levator scap.
+},
+{
+    392.64,397.34
+     This muscle tends to get tight, especially with poor posture and changes in biomechanics
+},
+{
+    397.34,401.96
+     of the body, especially if you tend to spend a lot of time on your phone, at a desk or
+},
+{
+    401.96,405.16
+     do a lot of writing or leaning over the laptop.
+},
+{
+    405.16,409.36
+     You tend to push your shoulders up and put your head forward, creating a smaller space
+},
+{
+    409.36,412.28
+     between the base of your skull and your shoulders.
+},
+{
+    412.28,413.84
+     Therefore this muscle gets tightened.
+},
+{
+    413.84,419.16
+     It's really important to do this type of stretch to prevent you from degenerative change.
+},
+{
+    419.16,423.88
+     For example arthritis, or pain in the neck, or even headaches in the future.
+},
+{
+    423.88,425.54
+     Once again guys, thanks for watching.
+},
+{
+    425.54,427.66
+     Now if you do have tight forearm muscles
+},
+{
+    427.66,429.8
+     that could be referring pain down into the wrist,
+},
+{
+    429.8,432.14
+     check out my wrist stretches video out.
+},
+{
+    432.14,434.18
+     Now if you do have pain in the shoulders
+},
+{
+    434.18,436.32
+     from the upper traps and referring pain into the neck
+},
+{
+    436.32,438.08
+     and into the head causing headaches,
+},
+{
+    438.08,440.86
+     check out my upper trap release video.
+},
+{
+    440.86,442.2
+     Remember to support my channel,
+},
+{
+    442.2,444.04
+     hit subscribe, hit like, comment below
+},
+{
+    444.04,445.4
+     if you have any questions
+},
+{
+    445.4,447.32
+     and I'll see you guys in the next one.
+},

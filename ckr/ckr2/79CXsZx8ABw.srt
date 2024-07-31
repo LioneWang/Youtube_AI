@@ -1,0 +1,196 @@
+{
+    0.0,11.0
+     This video will show you how to milk the tubing of your Jackson Pratt drain, empty the drainage
+},
+{
+    11.0,13.76
+     bulb and record the drainage.
+},
+{
+    13.76,17.36
+     You'll want to make sure you have all the supplies you need in front of you.
+},
+{
+    17.36,23.84
+     You'll need a measuring container, an alcohol pad, and your Jackson Pratt drainage record.
+},
+{
+    23.84,28.0
+     There are two parts to your Jackson Pratt drain, the tubing and the bulb.
+},
+{
+    28.0,32.4
+     Before you empty the drainage bulb, you'll need to milk the tubing so it can drain properly.
+},
+{
+    33.6,34.88
+     First, clean your hands.
+},
+{
+    36.32,40.88
+     If you're washing your hands with soap and water, wet your hands, apply soap,
+},
+{
+    40.88,48.52
+     rub your hands together thoroughly for 15 seconds, then rinse.
+},
+{
+    48.52,58.52
+     Dry your hands with a disposable towel and use that same towel to turn off the faucet.
+},
+{
+    58.52,63.64
+     If you're using an alcohol-based hand sanitizer, be sure to cover all of your hands with it,
+},
+{
+    63.64,70.12
+     rubbing them together until they're dry. Cleaning your hands properly, also called hand hygiene, is an important
+},
+{
+    70.12,76.36
+     part of caring for your drainage catheter. Now, look in the mirror at the tubing. Pinch
+},
+{
+    76.36,81.86
+     the tubing close to where it goes into your skin. You may want to use an alcohol pad to
+},
+{
+    81.86,85.6
+     make it easier to slide your fingers down the tubing.
+},
+{
+    90.8,93.2
+     With your thumb and forefinger of your other hand, pinch the tubing right below your other fingers.
+},
+{
+    96.4,97.84
+     Keeping your fingers pinched, slide them down the tubing.
+},
+{
+    101.6,108.72
+     Keep doing this until any clots are out of the tubing and into the bulb. Once all the clots are in the bulb, you're ready to empty it.
+},
+{
+    111.76,112.96
+     Unplug the stopper.
+},
+{
+    115.44,118.48
+     Then, turn the bulb upside down and gently squeeze it,
+},
+{
+    119.76,122.32
+     pouring the contents into the measuring container.
+},
+{
+    123.0,128.7
+     pouring the contents into the measuring container.
+},
+{
+    131.7,134.7
+     Now, turn the bulb right side up. Squeeze the bulb enough so that all the air comes out
+},
+{
+    134.7,138.3
+     and keep squeezing it while you re-plug the stopper.
+},
+{
+    138.3,140.0
+     The bulb should remain compressed
+},
+{
+    140.0,143.5
+     so that it provides continuous, gentle suction.
+},
+{
+    143.5,146.12
+     The stopper must be closed for the drain to work.
+},
+{
+    147.88,149.62
+     If you're wearing a surgical bra,
+},
+{
+    149.62,152.94
+     attach the Jackson Pratt using the Velcro straps.
+},
+{
+    155.16,157.74
+     It's important that you never let the drain dangle.
+},
+{
+    159.16,161.48
+     Check the amount and the color of the drainage
+},
+{
+    161.48,163.04
+     in the measuring container,
+},
+{
+    163.04,166.68
+     and write both on your Jackson Pratt drainage record.
+},
+{
+    166.68,168.52
+     Note the measurements on the container
+},
+{
+    168.52,171.56
+     are in millimeters, MLS for short.
+},
+{
+    171.56,173.24
+     If you have more than one drain,
+},
+{
+    173.24,176.6
+     measure and write down each one separately.
+},
+{
+    176.6,179.28
+     Remember, the color and consistency of the drainage
+},
+{
+    179.28,180.12
+     will vary.
+},
+{
+    180.12,183.92
+     It might be dark red, the color of cranberry juice,
+},
+{
+    183.92,186.0
+     or a yellowish straw color. If the drainage is dark red, the color of cranberry juice, or a yellowish straw color.
+},
+{
+    186.0,191.0
+     If the drainage is bright red, you should call your surgeon's office right away.
+},
+{
+    191.0,196.0
+     Empty the drainage down the toilet and rinse the measuring container with water.
+},
+{
+    196.0,202.0
+     At the end of every day, add the amount of drainage for the 24-hour period and write it down.
+},
+{
+    202.0,205.6
+     Remember, each drain should be recorded separately.
+},
+{
+    205.6,209.4
+     For more information on caring for your Jackson Pratt drainage system,
+},
+{
+    209.4,212.6
+     refer to the printed materials your nurse gave you.
+},
+{
+    212.6,220.0
+     You can also find this information online by visiting www.mskcc.org.
+},
+{
+    220.0,225.4
+     If you have any questions, call your surgeon's office.
+},

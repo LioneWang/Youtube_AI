@@ -1,0 +1,204 @@
+{
+    0.0,12.64
+     When you find a person who appears to be unconscious, follow the emergency action steps.
+},
+{
+    12.64,13.64
+     Check.
+},
+{
+    13.64,14.64
+     Call.
+},
+{
+    14.64,15.64
+     Care.
+},
+{
+    15.64,16.64
+     Check the scene for safety.
+},
+{
+    16.64,20.36
+     For a child, obtain consent from a parent or guardian if present.
+},
+{
+    20.36,22.88
+     Then check the person for responsiveness.
+},
+{
+    22.88,25.8
+     If the person doesn't respond, call for help.
+},
+{
+    25.8,29.64
+     If the person is face down, gently roll the person face up,
+},
+{
+    29.64,32.92
+     keeping the head, neck, and back in a straight line
+},
+{
+    32.92,34.52
+     so you can provide care.
+},
+{
+    38.84,40.76
+     Once the person is on her back,
+},
+{
+    40.76,44.72
+     open the airway by using the head tilt, chin lift technique.
+},
+{
+    45.8,51.52
+     To perform the head tilt, chin lift technique. To perform the head tilt, chin lift technique, place one hand on the forehead and two fingers
+},
+{
+    51.52,53.76
+     on the bony part of the chin.
+},
+{
+    53.76,57.36
+     Then tilt the head back as you lift up on the chin.
+},
+{
+    57.36,59.12
+     Maintain this position.
+},
+{
+    59.12,63.56
+     For a child, do not tilt the head back as far as you would for an adult.
+},
+{
+    63.56,66.44
+     Check for breathing for no more than 10 seconds.
+},
+{
+    66.44,70.68
+     Look to see if the person's chest clearly rises and falls.
+},
+{
+    70.68,73.96
+     Listen for escaping air from the mouth and nose.
+},
+{
+    73.96,76.88
+     Feel for escaping air against the side of your face.
+},
+{
+    76.88,81.44
+     Normal, effective breathing is quiet, regular, and effortless.
+},
+{
+    81.44,84.56
+     In an unconscious adult, you may detect an irregular,
+},
+{
+    84.56,86.16
+     gasping, or shallow breath.
+},
+{
+    86.88,92.08
+     This is known as an agonal breath. Do not confuse this with effective breathing.
+},
+{
+    92.08,94.64
+     Care for the person as if there is no breathing at all.
+},
+{
+    96.24,101.6
+     If an adult is not breathing, quickly check for severe bleeding, then begin chest compressions.
+},
+{
+    103.84,107.2
+     If a child is not breathing, give two rescue breaths,
+},
+{
+    107.2,109.96
+     one after the other, before checking for bleeding
+},
+{
+    109.96,112.36
+     and giving care for the conditions you find.
+},
+{
+    112.36,115.22
+     Use a CPR breathing barrier if available.
+},
+{
+    116.44,118.76
+     Tilt the head back and lift the chin up.
+},
+{
+    120.12,123.24
+     Then pinch the nose shut and make a complete seal
+},
+{
+    123.24,124.62
+     over the child's mouth.
+},
+{
+    124.62,127.3
+     Blow gently for about one second.
+},
+{
+    127.3,131.8
+     Each breath should make the chest clearly rise.
+},
+{
+    131.8,137.7
+     If the chest does not rise, retilt the child's head and try another rescue breath.
+},
+{
+    137.7,140.7
+     After two successful rescue breaths,
+},
+{
+    140.7,145.0
+     quickly scan the body for severe bleeding and care for the conditions you find.
+},
+{
+    145.0,152.0
+     If at any time an unconscious person begins vomiting, the airway could become blocked.
+},
+{
+    152.0,158.0
+     Roll the person onto one side and then use a finger to clear out the mouth.
+},
+{
+    158.0,166.8
+     Once the mouth is clear, continue to provide care based on the conditions you find. If the person is unconscious but breathing,
+},
+{
+    166.8,170.5
+     maintain an open airway with the head tilt, chin lift technique,
+},
+{
+    170.5,173.3
+     and monitor breathing and for any changes in condition
+},
+{
+    173.3,176.0
+     until EMS personnel take over.
+},
+{
+    182.5,187.56
+     If you cannot maintain an open and clear airway because of fluids or vomit, place the person
+},
+{
+    187.56,192.42
+     in a modified Hain's recovery position by moving the person to her side while keeping
+},
+{
+    192.42,198.76
+     the head, neck, and back in a straight line with the knees bent.
+},
+{
+    198.76,203.9
+     If you need to leave the scene to call 911, modify this position by tucking the hand under
+},
+{
+    203.9,None
+     the head.
+},

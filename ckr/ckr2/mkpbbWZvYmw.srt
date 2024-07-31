@@ -1,0 +1,120 @@
+{
+    0.0,7.0
+     When someone is having a stroke, every minute counts.
+},
+{
+    7.0,11.0
+     Just as putting out a fire quickly can stop it from spreading,
+},
+{
+    11.0,15.0
+     treating a stroke quickly can reduce damage to the brain.
+},
+{
+    15.0,19.0
+     If you learn how to recognize the tell-tale signs of a stroke,
+},
+{
+    19.0,23.0
+     you can act quickly and save a life, maybe even your own.
+},
+{
+    23.0,28.64
+     For both men and women, look for these five signs of a stroke,
+},
+{
+    28.64,31.08
+     all of which come on suddenly.
+},
+{
+    31.08,35.8
+     One, numbness or weakness in the face, arm, or leg,
+},
+{
+    35.8,39.4
+     especially when felt on just one side of the body.
+},
+{
+    39.4,42.92
+     Two, confusion, including trouble speaking
+},
+{
+    42.92,45.68
+     or understanding speech.
+},
+{
+    49.28,50.8
+     Three, trouble seeing from one or both eyes.
+},
+{
+    54.64,55.92
+     Four, trouble walking or problems with balance or dizziness.
+},
+{
+    60.24,62.0
+     Five, headache, especially a severe one that comes on suddenly.
+},
+{
+    65.88,69.52
+     The clock begins ticking as soon as you spot the signs of a stroke, Because some treatments can only be used if the patient reaches the hospital in the first
+},
+{
+    69.52,71.68
+     three hours after symptoms appear.
+},
+{
+    71.68,72.68
+     So don't wait.
+},
+{
+    72.68,77.68
+     Call 911 right away and get the person to a hospital immediately, even if the symptoms
+},
+{
+    77.68,79.32
+     go away.
+},
+{
+    79.32,83.76
+     If you think someone is having a stroke, remember the word FAST.
+},
+{
+    83.76,86.88
+     F is for FACE. Ask the person to smile and
+},
+{
+    86.88,92.2
+     check whether one side of their face is drooping. A is for arms. Have the person
+},
+{
+    92.2,98.48
+     raise both arms and see if one arm drifts downwards. S is for speech. Ask the
+},
+{
+    98.48,102.6
+     person to repeat a short phrase and notice if their word sounds slurred. And
+},
+{
+    102.6,105.34
+     finally, T is for time.
+},
+{
+    105.34,109.0
+     If you spot any of these signs, call 911 right away
+},
+{
+    109.0,111.54
+     to get the person to a hospital fast.
+},
+{
+    111.54,114.54
+     Strokes are medical emergencies.
+},
+{
+    114.54,116.34
+     The sooner a patient gets treatment,
+},
+{
+    116.34,None
+     the better their chance of a good recovery. you you
+},

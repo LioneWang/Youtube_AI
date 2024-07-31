@@ -1,0 +1,556 @@
+{
+    0.0,8.66
+     If you want to lose your gains in the fastest way possible then it's simple, get injured.
+},
+{
+    8.66,12.52
+     Because nothing is going to set you back more than injuries will in your quest to build
+},
+{
+    12.52,14.34
+     muscle and lose fat.
+},
+{
+    14.34,19.12
+     With the shoulder injury is not only being one of the most common injuries lifters experience,
+},
+{
+    19.12,23.84
+     but also one of the worst injuries for your gains since it often prevents you from doing
+},
+{
+    23.84,26.28
+     any upper body training whatsoever.
+},
+{
+    26.28,29.04
+     So how can you prevent this from happening?
+},
+{
+    29.04,34.28
+     Well, aside from choosing the right exercises and performing them correctly, there's also
+},
+{
+    34.28,39.58
+     a key set of four muscles surrounding the shoulder joint collectively termed the rotator
+},
+{
+    39.58,45.34
+     cuff that lifters often unknowingly overlook, leading to these muscles becoming underdeveloped
+},
+{
+    45.34,46.7
+     and weak as a result.
+},
+{
+    46.7,48.98
+     This is detrimental since these four muscles
+},
+{
+    48.98,51.98
+     collectively act to help stabilize your shoulder joint
+},
+{
+    51.98,54.5
+     during the various pushing and pulling movements
+},
+{
+    54.5,55.94
+     you perform in the gym.
+},
+{
+    55.94,57.74
+     And when these muscles become weak,
+},
+{
+    57.74,59.9
+     it causes a great deal of instability
+},
+{
+    59.9,61.58
+     in the shoulder during your lifts,
+},
+{
+    61.58,64.34
+     which often leads to shoulder pain, impigement,
+},
+{
+    64.34,67.2
+     and eventually even rotator cuff tears.
+},
+{
+    67.2,71.68
+     And although these muscles do get indirectly worked in many of the gym exercises that you're
+},
+{
+    71.68,76.4
+     doing, they often end up getting taken over by stronger muscle groups like the delts in
+},
+{
+    76.4,80.94
+     the chest, which creates harmful imbalances in your shoulders over time.
+},
+{
+    80.94,85.04
+     Meaning that you should be directly training and strengthening the rotator cuff,
+},
+{
+    85.04,89.64
+     because by doing so you'll be better able to prevent shoulder injury from occurring,
+},
+{
+    89.64,94.2
+     alleviate any shoulder pain that you're currently feeling, and likely boost your strength in
+},
+{
+    94.2,96.36
+     the gym as well.
+},
+{
+    96.36,100.88
+     But in order to best strengthen these four muscles and bulletproof your shoulders, it's
+},
+{
+    100.88,105.22
+     vital that you both choose the right exercises for each of them and perform them
+},
+{
+    105.22,106.64
+     in the right manner.
+},
+{
+    106.64,111.32
+     And in this video, with the help of current scientific literature and or anatomical understanding
+},
+{
+    111.32,116.32
+     of these muscles, that's exactly what I'll show you how to do.
+},
+{
+    116.32,121.2
+     The first exercise is something called the full can, which is going to target the supraspinatus
+},
+{
+    121.2,123.24
+     muscle of the rotator cuff.
+},
+{
+    123.24,128.68
+     And this exercise is likely your best bet for strengthening this muscle since it's shown
+},
+{
+    128.68,135.48
+     in a 2007 EMG analysis when compared to other rotator cuff exercises, the full can elicits
+},
+{
+    135.48,142.4
+     a high amount of EMG activity of the supraspinatus with the least amount of deltoid activity.
+},
+{
+    142.4,145.92
+     Which is beneficial as this has been shown to reduce shear force
+},
+{
+    145.92,150.88
+     placed on the shoulder joint and better help strengthen the rotator cuff without having
+},
+{
+    150.88,154.12
+     the deltoid compensate by overpowering it.
+},
+{
+    154.12,158.68
+     But in order to maximize the effectiveness of this exercise, it's crucial that you perform
+},
+{
+    158.68,161.52
+     the full can exercise correctly.
+},
+{
+    161.52,165.92
+     Start with your arms by your sides with a set of light weights in your hand.
+},
+{
+    165.92,170.04
+     Keep your arms straight and raise them up in the scapular plan as shown here, which is
+},
+{
+    170.04,173.88
+     about 30 degrees from directly sideways.
+},
+{
+    173.88,178.0
+     Point your thumbs up towards the ceiling and raise your arms up until you reach your round
+},
+{
+    178.0,182.0
+     shoulder height. Since research has shown that this is the range of motion where the
+},
+{
+    182.0,189.0
+     supraspinatus is most active. Pause at the top position for a second or two before lowering down.
+},
+{
+    189.0,192.64
+     And as you perform the movement, you'll want to keep your shoulder blades pinned together
+},
+{
+    192.64,197.96
+     and pulled down, as research indicates that this both increases joint space and allows
+},
+{
+    197.96,203.92
+     you to strengthen the supraspinatus in a more mechanical advantageous position. In addition,
+},
+{
+    203.92,208.52
+     as you raise, avoid shrugging your shoulders up and instead, keep them down
+},
+{
+    208.52,214.14
+     with your upper traps remaining as relaxed as possible throughout each rep.
+},
+{
+    214.14,218.0
+     Implementing the aforementioned tips will help you best strengthen the supraspinatus
+},
+{
+    218.0,222.06
+     while minimizing any compensations from other stronger muscle groups.
+},
+{
+    222.06,225.44
+     I'd suggest starting out with lighter weight for two to three sets of
+},
+{
+    225.44,231.2
+     15 to 20 reps with a focus on form and then over time continue progressing from there.
+},
+{
+    232.64,238.64
+     The next exercise, sideline external rotation, is going to be used to target the two posterior
+},
+{
+    238.64,248.36
+     rotator cuff muscles at once, the infraspinatus and the teres minor. And this exercise is your best bet at doing so since as shown in the following two weekend
+},
+{
+    248.36,254.48
+     g-grass from a 2004 analysis of the rotator cuff muscles, this exercise elicits the highest
+},
+{
+    254.48,260.96
+     infraspinatus and teres minor activation when compared to several other rotator cuff exercises,
+},
+{
+    260.96,265.06
+     in addition to having the lowest strain on the shoulder joint as well.
+},
+{
+    265.06,269.28
+     But again, to reap the full benefits of this exercise, it's vital that you perform it
+},
+{
+    269.28,270.36
+     correctly.
+},
+{
+    270.36,275.28
+     To start, assume a sideline position with a towel roll pinned between your top side
+},
+{
+    275.28,277.04
+     arm and rib cage.
+},
+{
+    277.04,281.4
+     The towel is a really important step since research has shown that adding a towel roll
+},
+{
+    281.4,285.28
+     to the exercise boosts EMG activation of the two posterior
+},
+{
+    285.28,291.08
+     rotator cuff muscles by roughly 20% as it helps minimize any movement compensation from
+},
+{
+    291.08,296.44
+     a current. Next, pull your shoulder blades back and down and keep them this way as you
+},
+{
+    296.44,301.92
+     start doing reps. Start with your arm parallel to the floor and then while keeping your
+},
+{
+    301.92,309.12
+     elbow pinned to your side, slowly externally rotate outwards by pulling your hand up towards the ceiling.
+},
+{
+    309.12,311.92
+     And then return back down to parallel and repeat.
+},
+{
+    311.92,316.76
+     You want to focus on avoiding letting the elbow drift up off your side as you raise
+},
+{
+    316.76,320.48
+     the weight, as this will start involving more of the deltoids.
+},
+{
+    320.48,325.06
+     Instead, keep the elbow locked in place against the towel at your side as you perform each
+},
+{
+    325.06,326.06
+     rep.
+},
+{
+    326.06,330.86
+     But if you struggle to do so or you feel pain at the very top position, then you can start
+},
+{
+    330.86,336.02
+     with partial reps in a pain-free zone and then progressively increase the range of motion
+},
+{
+    336.02,337.7
+     from there over time.
+},
+{
+    337.7,342.7
+     As such I start out with a lighter weight or even no weight at first for 2-3 sets of
+},
+{
+    342.7,346.2
+     15-20 reps each side, and then progressing from there
+},
+{
+    346.2,348.6
+     as you get stronger.
+},
+{
+    348.6,352.8
+     For the last exercise, we're going to move on to something called the external rotation
+},
+{
+    352.8,359.52
+     press, which is going to challenge and strengthen all 4 rotator cuff muscles to a certain degree.
+},
+{
+    359.52,363.8
+     Now while the prior 2 exercises are great at strengthening the various rotator cuff
+},
+{
+    363.8,365.12
+     muscles, many of
+},
+{
+    365.12,370.0
+     the movements lifters perform in the gym take place above shoulder height in positions where
+},
+{
+    370.0,374.24
+     the shoulder joint becomes more vulnerable to instability and injury.
+},
+{
+    374.24,378.96
+     Therefore it is vital to include this exercise to enhance your shoulder stability by training
+},
+{
+    378.96,384.04
+     the rotator cuff muscles in a more functional manner.
+},
+{
+    384.04,388.92
+     To perform it, get down on one knee with an upright posture and grab either a band or
+},
+{
+    388.92,393.24
+     a cable handle attachment set at roughly shoulder height.
+},
+{
+    393.24,398.6
+     Pull the cable towards you in a rowing motion with your elbow kept high at shoulder height.
+},
+{
+    398.6,402.64
+     Your hand should now be directly in front of your elbow with your arm parallel to the
+},
+{
+    402.64,403.64
+     ground.
+},
+{
+    403.64,405.2
+     Hold this position briefly and then
+},
+{
+    405.2,410.4
+     externally rotate the shoulder by bringing the hand up towards the ceiling with the elbow still
+},
+{
+    410.4,417.36
+     locked in the same place. Next, press your arm up overhead and hold the top position briefly. Then
+},
+{
+    417.36,422.88
+     reverse the pattern and repeat for more reps. Throughout the movement your rotator cuff muscles
+},
+{
+    422.88,427.76
+     will be working hard to counteract the resistance by pulling your arm forward.
+},
+{
+    427.76,431.92
+     But as you perform each rep, you'll want to avoid compensating by arching the lower
+},
+{
+    431.92,433.6
+     back as you press up.
+},
+{
+    433.6,438.92
+     Instead, keep the core tight and contracted to maintain a neutral back as you perform
+},
+{
+    438.92,439.92
+     the movement.
+},
+{
+    439.92,445.56
+     I suggest starting out with light resistance for roughly 2-3 sets of 10-15 reps with a
+},
+{
+    445.56,450.2
+     focus on slow and controlled execution for each rep.
+},
+{
+    450.2,454.52
+     Now some of you canes may have noticed with the previous exercise selection that one of
+},
+{
+    454.52,459.12
+     the rotator cuff muscles, the subscapularis, hasn't really been emphasized as much as
+},
+{
+    459.12,460.92
+     the other three have.
+},
+{
+    460.92,467.0
+     And this is for good reason, since the subscapularis is the only rotator cuff that performs internal
+},
+{
+    467.0,472.36
+     rotation of the shoulder, which most people actually have too much of from poor posture
+},
+{
+    472.36,477.32
+     and or from the many pressing movements in the gym that involve internal rotation.
+},
+{
+    477.32,482.8
+     So in this case, it would be best not to emphasize the subscapularis as much and instead focus
+},
+{
+    482.8,485.52
+     more so on the other three rotator cuff muscles
+},
+{
+    485.52,491.6
+     responsible for external rotation, which is exactly what we've done. So with that being said,
+},
+{
+    491.6,496.56
+     here is the full rotator cuff strengthening routine that you can do using the exercises
+},
+{
+    496.56,501.44
+     previously discussed. I'd suggest doing this routine roughly two to three times per week,
+},
+{
+    501.44,506.4
+     but it's absolutely vital that you treat your rotator cuff muscles just like any other
+},
+{
+    506.4,511.84
+     muscle group by progressing these exercises over time as you continue to get stronger.
+},
+{
+    511.84,514.74
+     Otherwise you'll honestly just be wasting your time.
+},
+{
+    514.74,519.66
+     And for a completely free downloadable PDF of this rotator cuff routine that will show
+},
+{
+    519.66,527.56
+     you exactly how to safely progress these exercises over time, how much weight to use, and how to perform each exercise step by step,
+},
+{
+    527.56,530.52
+     then just head on over to buildwithscience.com
+},
+{
+    530.52,535.34
+     forward slash rcpdf, and I'll send it right over to you.
+},
+{
+    535.34,537.68
+     It's key muscle groups like the rotator cuff
+},
+{
+    537.68,538.92
+     that are often overlooked,
+},
+{
+    538.92,541.7
+     but really are what's going to protect you from injury
+},
+{
+    541.7,544.44
+     and enable you to progress that much faster.
+},
+{
+    544.44,545.6
+     That's exactly why
+},
+{
+    545.6,550.72
+     within my Build With Science programs, there's a high priority placed on key muscle groups like
+},
+{
+    550.72,556.32
+     the rotator cuff, which is all integrated into your weekly weights routine such that you can
+},
+{
+    556.32,562.32
+     effectively transform your body without developing imbalances in the process. To join today, simply
+},
+{
+    562.32,565.28
+     head on over to buildwithscience.com and take
+},
+{
+    565.28,570.72
+     this starting point analysis quiz to determine what program is best for you. Anyways, I hope
+},
+{
+    570.72,574.8
+     you all enjoyed the video. Please don't forget to give it a like, leave a comment down below
+},
+{
+    574.8,579.44
+     as to what you'd like to see me cover next, subscribe to the channel and turn on notifications
+},
+{
+    579.44,583.36
+     for my channel as well as this all truly does help me out. Thank you so much for all your support,
+},
+{
+    583.36,586.88
+     everyone. I really do appreciate it and I'll see you next time.
+},

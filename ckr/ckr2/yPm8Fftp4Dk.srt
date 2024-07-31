@@ -1,0 +1,532 @@
+{
+    0.0,16.0
+     Welcome.
+},
+{
+    16.0,18.36
+     Hundreds of emails are flowing in.
+},
+{
+    18.36,19.64
+     All about the neck.
+},
+{
+    19.64,23.96
+     People crack on their neck, stretch their neck and wondering what they're doing to themselves
+},
+{
+    23.96,29.12
+     when they're hearing the videos or kind of panicking, getting scared.
+},
+{
+    29.12,33.36
+     They're asking questions, doc, how do I stop cracking my neck?
+},
+{
+    33.36,35.16
+     I've been doing this for years.
+},
+{
+    35.16,38.08
+     I'm developing these problems neurologically.
+},
+{
+    38.08,42.04
+     I continue to have this chronic problem that I used to have is getting worse, tingling
+},
+{
+    42.04,44.64
+     or burning into the arm or hands.
+},
+{
+    44.64,45.88
+     The symptoms are getting worse. Tingling or burning into the arm or hands. The symptoms are getting worse.
+},
+{
+    45.88,47.66
+     What do I do?
+},
+{
+    47.66,50.4
+     Well, you're going to stop.
+},
+{
+    50.4,52.72
+     And I'm going to tell you some ways
+},
+{
+    52.72,55.6
+     and different alternative things that you can do
+},
+{
+    55.6,57.36
+     to combat this problem.
+},
+{
+    57.36,60.0
+     But I need to give you a quick review for our new listeners.
+},
+{
+    60.0,61.84
+     We have a normal curve in the neck.
+},
+{
+    61.84,63.4
+     Between the neck, we have discs.
+},
+{
+    63.4,65.8
+     We have nerves that come out between the levels of the spine.
+},
+{
+    65.8,69.04
+     They control the different areas throughout the entire body.
+},
+{
+    69.04,73.0
+     The nerves in the neck primarily control the back of the head, the shoulders down the arm
+},
+{
+    73.0,75.44
+     into the hand, the chest between the shoulder blades.
+},
+{
+    75.44,80.32
+     Obviously, the nerves control different organs and muscles as you make its way down.
+},
+{
+    80.32,85.16
+     But for our sake, people that are just taking their head and pulling it over and just yanking
+},
+{
+    85.16,87.16
+     their head, you're stretching ligaments.
+},
+{
+    87.16,89.04
+     The ligaments hold bones together.
+},
+{
+    89.04,90.72
+     There are muscles in here.
+},
+{
+    90.72,96.12
+     If the muscles, in order for the muscles to work correctly, those ligaments got to be
+},
+{
+    96.12,97.12
+     tight.
+},
+{
+    97.12,100.88
+     If you take a rubber band and you overstretch it like you just crack it and stretch it,
+},
+{
+    100.88,103.84
+     the ligaments become loose, putting more stress on the muscles.
+},
+{
+    103.84,107.68
+     The muscles start to contract when they contract and get tight it gives you the
+},
+{
+    107.68,113.12
+     urge to want to pull again and the more you pull the more stretching you are
+},
+{
+    113.12,119.08
+     making in the same area of the neck so the big question is how do I get rid of
+},
+{
+    119.08,124.16
+     this these are the things you need to do when the next urge comes what I like
+},
+{
+    124.16,125.92
+     you to do is take your head
+},
+{
+    125.92,129.16
+     and I'd like you to bring your chin down to your chest
+},
+{
+    129.16,131.28
+     and bring it all the way down.
+},
+{
+    131.28,133.28
+     Let your head fall.
+},
+{
+    133.28,136.48
+     As you fall, you'll feel stretching behind the neck muscles
+},
+{
+    136.48,138.0
+     and just kind of lean it to the right
+},
+{
+    138.0,139.68
+     as you let it fall forward.
+},
+{
+    139.68,142.24
+     You'll feel muscles pull on the other side.
+},
+{
+    142.24,143.78
+     Then you go the other side.
+},
+{
+    143.78,145.04
+     You'll feel the other muscles pull behind the back of the neck and go the other side. You'll feel the other muscles pull
+},
+{
+    145.04,150.08
+     behind the back of the neck and shoulders. I want you to get in the habit of using the weight of
+},
+{
+    150.08,156.48
+     your head, the 12 pound weight. And I like you just to let that neck go forward. What we're doing is
+},
+{
+    156.48,163.52
+     we're stretching those tight muscles naturally. And as we continue to continue to do that over time,
+},
+{
+    163.52,166.48
+     the body will start responding in a positive way.
+},
+{
+    166.84,171.04
+     The next thing I want you to do is do some light neck rolls. As we do light neck rolls,
+},
+{
+    171.2,177.32
+     we're taking different areas of the neck and those muscles and we are beading it. We're kind of like
+},
+{
+    178.04,183.34
+     pacifying it. We're saying, okay neck muscles, I know you want to be pulled on, but we're gonna do it gently.
+},
+{
+    183.34,190.32
+     So what we're gonna do is just do some nice clockwise neck rolls.
+},
+{
+    190.32,192.76
+     You can just do maybe about 10 or 12 of them.
+},
+{
+    192.76,195.52
+     Then you go counterclockwise.
+},
+{
+    195.52,196.64
+     Light neck rolls.
+},
+{
+    196.64,200.32
+     You may feel a little clicking and cracking in your neck but don't worry about that.
+},
+{
+    200.32,202.48
+     Just light neck rolls.
+},
+{
+    202.48,203.48
+     Very gentle.
+},
+{
+    203.48,206.08
+     Passify those muscles.
+},
+{
+    206.08,207.88
+     The next thing I like you to do,
+},
+{
+    207.88,210.64
+     I like you to take your fingers and clasp them
+},
+{
+    210.64,213.24
+     around the back of your neck like this.
+},
+{
+    213.24,214.48
+     And when you clasp them,
+},
+{
+    214.48,216.52
+     I want you to push into that neck
+},
+{
+    216.52,219.04
+     and squeeze that neck as you clasp.
+},
+{
+    219.04,220.04
+     Go ahead and squeeze it.
+},
+{
+    220.04,221.44
+     Now what I want you to do,
+},
+{
+    221.44,223.4
+     I want you to take your chin
+},
+{
+    223.4,225.78
+     and bring your chin to your chest
+},
+{
+    225.78,228.52
+     as you continue to squeeze those muscles.
+},
+{
+    228.52,235.02
+     And you'll feel those muscles kind of release and you'll hold it there about 30 seconds.
+},
+{
+    235.02,240.88
+     As you take deep breaths and blow it out, keep squeezing as you let your chin fall on your
+},
+{
+    240.88,242.38
+     chest.
+},
+{
+    242.38,243.38
+     Beautiful.
+},
+{
+    243.38,247.64
+     And you'll feel those deep muscles start to release.
+},
+{
+    247.64,250.32
+     You'll hold that about 30 seconds.
+},
+{
+    251.4,253.2
+     That's a great exercise.
+},
+{
+    253.2,256.18
+     We're targeting different muscles behind the neck
+},
+{
+    256.18,259.44
+     that attach behind the head that's going to release
+},
+{
+    259.44,261.94
+     to give you a lot of relief.
+},
+{
+    261.94,264.72
+     The last one I'd like you to do are chin tucks
+},
+{
+    264.72,268.22
+     and shoulder blade squeezes together.
+},
+{
+    268.22,271.28
+     The chin tuck, you're gonna keep your chin neutral
+},
+{
+    271.28,274.58
+     with the floor, do not flex your head forward or backwards.
+},
+{
+    274.58,277.06
+     And what you're gonna do is you're gonna tuck your chin in
+},
+{
+    277.06,280.46
+     just like this from the side, as if you have a double chin.
+},
+{
+    282.28,283.12
+     Okay.
+},
+{
+    284.46,286.88
+     You go forward and you come back.
+},
+{
+    286.88,292.06
+     Now at the same time when we do that, we're going to do our shoulder blade squeeze.
+},
+{
+    292.06,296.84
+     So we're going to pinch our shoulder blades back together towards the spine as we stick
+},
+{
+    296.84,298.44
+     the chest out.
+},
+{
+    298.44,299.84
+     So we're going to do it together.
+},
+{
+    299.84,302.12
+     We'll do like 10 or 12 of them.
+},
+{
+    302.12,305.36
+     So what we're going to do, we're going to bring the chin back,
+},
+{
+    305.36,311.0
+     stick the chest out, squeeze the shoulder blades. Good. Hold it for like two seconds,
+},
+{
+    311.0,317.88
+     three seconds, come back. Good. Chin tuck, squeeze the shoulder blades, three seconds.
+},
+{
+    317.88,328.66
+     You'll actually feel the abs stretch open a little bit too. Come back down. Back shoulder blades. Good. You hold it about three
+},
+{
+    328.66,332.96
+     seconds, do about 10 or 12 of those. Now what we're doing is we're doing the
+},
+{
+    332.96,337.06
+     chin tuck, bringing it back. That's going to stretch the suboccipital muscles
+},
+{
+    337.06,341.86
+     underneath the skull. It's actually going to work the deep neck flexors to have
+},
+{
+    341.86,348.46
+     better posture because generally we find a lot of people who cracked their neck have very poor posture, rounded shoulders and forward
+},
+{
+    348.46,349.46
+     head posture.
+},
+{
+    349.46,354.08
+     And at the same time when we do that chin tuck, we're going to squeeze those shoulder
+},
+{
+    354.08,356.64
+     blades back, lift the chest up.
+},
+{
+    356.64,359.04
+     So this is what it's going to look like from the side.
+},
+{
+    359.04,360.04
+     Okay?
+},
+{
+    360.04,365.76
+     As the chin comes in, it tucks, chest comes up, shoulder blades come together.
+},
+{
+    365.76,367.68
+     Three seconds, and you relax.
+},
+{
+    367.68,373.78
+     Again, chin back, double chin, shoulder blades together, chest up, good.
+},
+{
+    373.78,378.0
+     So by doing the chin tuck and the shoulder blades squeeze, we're not only helping forward
+},
+{
+    378.0,382.12
+     head posture, we're strengthening the deep anterior neck flexors.
+},
+{
+    382.12,385.12
+     We're actually contracting the upper traps as well as utilizing
+},
+{
+    385.12,389.2
+     the back of the muscles that go behind the skull. We're working actually the scaleness
+},
+{
+    389.2,394.4
+     muscles as well as the sternocleidomastoid, the SCM muscles, and we're actually contracting
+},
+{
+    394.4,399.56
+     them. We're utilizing different muscles. This is a great little stretch. Now, do all
+},
+{
+    399.56,403.72
+     those stretches. You could do one after the other and that's really going to help you.
+},
+{
+    403.72,405.56
+     You can do this several times a day.
+},
+{
+    405.56,407.36
+     But now here's the key thing.
+},
+{
+    407.36,411.56
+     Within 21 days, your subconscious mind will break that habit.
+},
+{
+    411.56,415.88
+     This is a habit you've been doing for a long time and you can't afford that because if
+},
+{
+    415.88,421.72
+     you start degenerating discs causing osteoarthritis, pinched nerves and this, this degeneration
+},
+{
+    421.72,425.92
+     as well as herniated discs, this is going to give you a lot of problems in the future.
+},
+{
+    425.92,428.0
+     So I hope this video was very helpful.
+},
+{
+    428.0,433.12
+     Please leave your comments below, particularly for those worldwide, for those that read these
+},
+{
+    433.12,434.12
+     comments.
+},
+{
+    434.12,435.4
+     I'm sure you can be a big help for them.
+},
+{
+    435.4,438.6
+     I'm sure that they'll like to respond and you guys can respond together.
+},
+{
+    438.6,443.08
+     I ask you to subscribe if you haven't so you can continue to receive the best of the self-help
+},
+{
+    443.08,448.24
+     videos for postural and spinal for your spinal well-being.
+},
+{
+    448.24,452.4
+     And most important, I ask you to make it a great day.
+},
+{
+    452.4,459.0
+     I'm Dr. Alan Mandel.
+},

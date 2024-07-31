@@ -1,0 +1,128 @@
+{
+    0.0,13.72
+     Not uncommonly, antibiotic eardrops may be prescribed to resolve an ear infection.
+},
+{
+    13.72,17.94
+     The ear infection may be a mild swimmer's ear that afflicts the skin of the ear canal
+},
+{
+    17.94,22.92
+     or the middle ear which would involve the eardrum and the space behind it.
+},
+{
+    22.92,23.92
+     Step 1.
+},
+{
+    23.92,27.16
+     Lean the head over such that the affected ears point it straight up.
+},
+{
+    27.16,28.16
+     Step 2.
+},
+{
+    28.16,31.8
+     Pull the ear gently towards the top and back part of the head.
+},
+{
+    31.8,35.8
+     This straightens the ear canal which is normally curved so the drops can fall as deeply into
+},
+{
+    35.8,38.2
+     the ear canal as possible.
+},
+{
+    38.2,39.2
+     Step 3.
+},
+{
+    39.2,43.28
+     Squeeze the correct number of drops into the ear after the bottle has been shaken and warmed
+},
+{
+    43.28,45.36
+     to body temperature.
+},
+{
+    51.2,56.32
+     Step 4. During and after drop placement, pump the trigal cartilage in order to force the drops as deeply down into the ear canal as possible. Otherwise, due to water surface tension, it
+},
+{
+    56.32,62.08
+     tends to float near their entrance where it does no good. Here is an internal view of an ear model
+},
+{
+    62.08,66.32
+     demonstrating why triggal pumping is important.
+},
+{
+    66.32,71.24
+     Notice that the ear drops colored with blue does not go very far down into the ear canal
+},
+{
+    71.24,81.4
+     until tragal pumping has been performed.
+},
+{
+    81.4,89.12
+     Here's another view of trigal pumping.
+},
+{
+    89.12,90.12
+     Step 5.
+},
+{
+    90.12,94.76
+     Keep the head tilted for 2-5 minutes to allow gravity to disperse the ear drops as thoroughly
+},
+{
+    94.76,96.68
+     as possible.
+},
+{
+    96.68,101.48
+     Only if there is a lot of ear drainage present, prior to placing drops into the ear, try to
+},
+{
+    101.48,110.28
+     wick as much of the drainage out of the ear as possible by inserting a rolled up corner of a tissue or paper towel into the ear canal. This step
+},
+{
+    110.28,115.76
+     will allow the antibiotic ear drops to penetrate more easily deep into the ear.
+},
+{
+    115.76,119.88
+     Keep in mind that ear drops used to treat middle ear infections will only work if a
+},
+{
+    119.88,126.48
+     hole or tube is present in the ear drum. Why? With a middle ear infection, infected pus
+},
+{
+    126.48,132.2
+     accumulates behind the eardrum. This would be an enclosed space that eardrums would not
+},
+{
+    132.2,137.76
+     be able to reach due to an intact eardrum. However, a hole or tube in the eardrum can
+},
+{
+    137.76,147.88
+     allow pus to escape through the tube and out the ear canal. What allows pus to come out can also allow ear drops to go in. But
+},
+{
+    147.88,152.68
+     because the opening of the tube is so small, it is important to pump the tracheal cartilage
+},
+{
+    152.68,157.24
+     to gently push the drops through the tube and into the space where the ear infection
+},
+{
+    157.24,None
+     is located. To reiterate, don't forget to pump the tracal cartilage after placing ear drops.
+},

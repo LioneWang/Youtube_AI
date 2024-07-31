@@ -1,0 +1,96 @@
+{
+    0.0,8.12
+     When you get this auto-injector from the pharmacy, it will come in a box of two and a training
+},
+{
+    8.12,9.96
+     auto-injector.
+},
+{
+    9.96,13.52
+     Each auto-injector will be in its own carrying case.
+},
+{
+    13.52,15.82
+     Do not carry the trainer around with you.
+},
+{
+    15.82,19.72
+     You may grab it by mistake during the allergic emergency.
+},
+{
+    19.72,24.68
+     The training auto-injector is gray and contains no epinephrine and that is what I will be
+},
+{
+    24.68,27.06
+     using today.
+},
+{
+    27.06,31.34
+     The auto-injector that you will want to use during the allergic emergency will be either
+},
+{
+    31.34,36.56
+     yellow or green depending on which strength your doctor has prescribed for you.
+},
+{
+    36.56,40.02
+     You will want to remove your auto-injector from its tube-like case.
+},
+{
+    40.02,50.44
+     This is a training injector I don't have a case to show you. Place the auto-injector in the palm of your hand and wrap your hand around it like a fist.
+},
+{
+    50.44,59.84
+     Do not put your fingers or thumb or hand on either end of the auto-injector.
+},
+{
+    59.84,63.96
+     Place the orange end of the auto-injector near the middle of the outer part of your
+},
+{
+    63.96,66.3
+     thigh.
+},
+{
+    66.3,70.58
+     Remove the blue safety cap by pulling straight up.
+},
+{
+    70.58,75.36
+     If you do not remove the blue cap, the auto-injector will not work.
+},
+{
+    75.36,82.64
+     Swing and push the auto-injector firmly on the thigh until you hear a click.
+},
+{
+    82.64,86.36
+     The click means the injection has started. You may feel some
+},
+{
+    86.36,91.14
+     pressure from the auto injector pushing back. This is expected because the
+},
+{
+    91.14,96.66
+     auto injector is under pressure. You want to hold it tightly and firmly in place
+},
+{
+    96.66,109.12
+     for three seconds. One, two, three. The injection is now complete and you can remove the auto-injector from your thigh.
+},
+{
+    109.12,112.68
+     The orange tip will cover the needle.
+},
+{
+    112.68,119.24
+     You'll want to massage the injection area for 10 seconds and call 911.
+},
+{
+    119.24,121.6
+     Do not try to reuse the auto-injector.
+},

@@ -1,0 +1,176 @@
+{
+    0.0,10.44
+     People always ask us in the event of a mass casualty incident, what could they do?
+},
+{
+    10.44,12.2
+     What could they do differently?
+},
+{
+    12.2,17.46
+     Today I'm going to talk about the few little things that people can do to save a life.
+},
+{
+    17.46,28.92
+     In the event that somebody is bleeding in a place where you can act to save their life. The first thing you can do is take a jacket,
+},
+{
+    28.92,33.3
+     take something soft and you're going to apply it to where they're bleeding. If it's their
+},
+{
+    33.3,37.28
+     arms, legs or where they attach, you're going to just simply place it on the area that's
+},
+{
+    37.28,44.14
+     bleeding and push really hard and hold it until help comes or the bleeding stops. If
+},
+{
+    44.14,48.0
+     help doesn't come right away and you need to sustain this and you're tired,
+},
+{
+    48.0,54.0
+     you can either secure it with an ace wrap or a belt or anything that's going to hold that pressure in place.
+},
+{
+    54.0,60.0
+     At the very least, switch out with somebody else who can maintain the pressure until help arrives.
+},
+{
+    60.0,64.0
+     The Hemorrhage Control Kit is very, very simple.
+},
+{
+    64.0,75.24
+     The ones that we have here at Bumsy say traumatic bleeding and on the other side have the instructions.
+},
+{
+    75.24,81.28
+     So even in a bad situation when people are panicking they can see the pictures and know
+},
+{
+    81.28,82.38
+     what to do.
+},
+{
+    82.38,83.84
+     It's very simple.
+},
+{
+    83.84,86.32
+     Within this kit are all the tools
+},
+{
+    86.32,88.68
+     that you need to make this happen.
+},
+{
+    88.68,92.96
+     So if you've got somebody who is bleeding from a bad wound,
+},
+{
+    92.96,96.28
+     and we're gonna say for instance, this is on their leg,
+},
+{
+    96.28,99.12
+     and I have access to this kit,
+},
+{
+    99.12,101.56
+     and somebody has been holding pressure,
+},
+{
+    101.56,103.2
+     someone brings the kit,
+},
+{
+    103.2,107.72
+     and now I need to move to a tourniquet in order to stop the bleeding.
+},
+{
+    107.72,113.28
+     I have the ability to take this tourniquet, open it up,
+},
+{
+    113.28,118.88
+     place it above the wound, turn.
+},
+{
+    118.88,121.4
+     And people ask, how many times do you turn?
+},
+{
+    121.4,123.48
+     You turn until the bleeding stops,
+},
+{
+    123.48,134.64
+     and you'll see that it's actually a very physical thing. Secure it and over. If you're lucky enough to have
+},
+{
+    134.64,139.56
+     a pen, you can write the time here but I don't really care where you put it. Just
+},
+{
+    139.56,142.56
+     make note of the time it helps with decision-making when the patient is
+},
+{
+    142.56,150.8
+     taken to the emergency department to get further care. If you have something that is within a shoulder or you're
+},
+{
+    150.8,160.4
+     unable to put a tourniquet on, the reason why we have gauze and this combat gauze is
+},
+{
+    160.4,166.92
+     what they call that or quick clot is that then you can pack the wound and stop
+},
+{
+    166.92,169.72
+     the bleeding by constructing the vessels on the inside.
+},
+{
+    169.72,173.08
+     Well, that sounds kind of complicated, but basically all you're doing is putting pressure
+},
+{
+    173.08,175.8
+     on the inside instead of pressure on the outside.
+},
+{
+    175.8,191.36
+     And again, what you do is you open up this package and you would pack the wound until you cannot do it anymore.
+},
+{
+    191.36,194.46
+     And at that point you're going to hold pressure.
+},
+{
+    194.46,199.92
+     And again you're going to hold pressure for at least two to four minutes, if not longer,
+},
+{
+    199.92,205.0
+     sometimes up to ten minutes, or until help arrives.
+},
+{
+    205.0,210.0
+     What you've done is you've given that person every opportunity to survive in a bad situation.
+},
+{
+    210.0,213.0
+     This is just a few steps that you can do.
+},
+{
+    213.0,218.0
+     It doesn't guarantee that there will be a bad outcome or a good outcome.
+},
+{
+    218.0,223.0
+     It just means that there's something that you can do to help in a time of need.
+},

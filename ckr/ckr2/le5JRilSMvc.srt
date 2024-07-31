@@ -1,0 +1,548 @@
+{
+    0.0,10.0
+     No, no, no, I can't believe it not again that stupid Raph.
+},
+{
+    10.0,11.0
+     What is wrong with him?
+},
+{
+    11.0,14.0
+     Oh, I'm going to lose so much money on this game.
+},
+{
+    14.0,17.0
+     Oh, this is just unbelievable.
+},
+{
+    17.0,19.0
+     I can't believe it.
+},
+{
+    19.0,21.0
+     Hey, Joe, what's going on, man?
+},
+{
+    21.0,23.0
+     Oh, I watched this game and this Raph.
+},
+{
+    23.0,24.0
+     He doesn't know what he's doing.
+},
+{
+    24.0,25.56
+     Oh, this is horrible.
+},
+{
+    25.56,28.52
+     Well, the game is one thing, but you don't look like you're
+},
+{
+    28.52,29.32
+     doing so well.
+},
+{
+    29.32,30.44
+     What's going on?
+},
+{
+    30.44,31.44
+     Oh, I don't know.
+},
+{
+    31.44,33.0
+     I think I'm just stressed out.
+},
+{
+    33.0,35.88
+     I've got a lot of pain right up here in my chest.
+},
+{
+    35.88,38.24
+     It's almost like someone's sitting on my chest.
+},
+{
+    38.24,40.12
+     Well, I tell you what.
+},
+{
+    40.12,42.6
+     That's pretty classic signs and symptoms, along with you
+},
+{
+    42.6,45.28
+     sweating so bad of a possible heart attack.
+},
+{
+    45.28,47.76
+     Have you ever had a history of a heart attack or heart problems before?
+},
+{
+    47.76,50.32
+     No, I've never had any problems like that before.
+},
+{
+    50.32,54.88
+     Well, I'll tell you what, to be on the safe side, why don't we just call an ambulance and have them check you out?
+},
+{
+    54.88,55.36
+     No.
+},
+{
+    55.36,57.2
+     Just to make sure that it's not a heart attack.
+},
+{
+    57.2,58.56
+     No, I don't need an ambulance.
+},
+{
+    58.56,61.36
+     If I got to go to the hospital, I'm just going to drive if I have to.
+},
+{
+    61.36,63.04
+     Well, listen, listen, here's the deal.
+},
+{
+    63.76,67.32
+     If it is possibly a heart attack,
+},
+{
+    67.32,69.92
+     it is gonna be so important for you to be seen
+},
+{
+    69.92,72.68
+     and get whatever it is that's causing it removed
+},
+{
+    72.68,75.08
+     so that you don't have more serious problems.
+},
+{
+    75.08,77.46
+     And you would never wanna drive yourself to the hospital
+},
+{
+    77.46,79.76
+     because if you go unconscious while you're driving
+},
+{
+    79.76,82.96
+     that vehicle, you not only run the risk of hurting yourself
+},
+{
+    82.96,89.84
+     or killing yourself, but could you imagine running into another car that's filled with children and family members and wiping
+},
+{
+    89.84,90.84
+     them out?
+},
+{
+    90.84,91.84
+     I mean, that's just too much.
+},
+{
+    91.84,93.4
+     No, I understand.
+},
+{
+    93.4,98.08
+     So I tell you what, why don't we just call 911, let's get them on the way.
+},
+{
+    98.08,100.6
+     If it's nothing, they'll be able to let us know that.
+},
+{
+    100.6,104.8
+     But if it is something serious, then we're going to be able to get you in for treatment.
+},
+{
+    104.8,108.64
+     Let's give them a call, All right. Yeah, 9-1-1. Listen, you know what?
+},
+{
+    108.64,113.32
+     There's a lot of research that shows that heart attack patients, if they can
+},
+{
+    113.32,117.4
+     take aspirin, has your doctor ever said anything about not taking aspirin or that
+},
+{
+    117.4,123.4
+     you cannot take aspirin? Any allergies to medications that you know of?
+},
+{
+    123.4,125.2
+     No. Any bleeding
+},
+{
+    125.2,128.92
+     problems that would stop you from being able to take aspirin? No, nothing like that. Okay,
+},
+{
+    128.92,132.88
+     well here's a couple baby aspirin you can take between two and four of those. Just pop them
+},
+{
+    132.88,139.28
+     in, chew it up and swallow it and that's going to help reduce the risk of further blood clot
+},
+{
+    139.28,144.96
+     formation. It's not guaranteed but it has been shown to be very helpful. So just swallow that down
+},
+{
+    143.96,148.4
+     It's not guaranteed, but it has been shown to be very helpful. So just swallow that down and just get into a nice position of comfort.
+},
+{
+    148.4,153.32
+     If anything's tight or constricting, feel free to loosen that up and just kind of try
+},
+{
+    153.32,154.32
+     to relax.
+},
+{
+    154.32,155.32
+     Okay, buddy.
+},
+{
+    155.32,158.14
+     So let's take a closer look at heart attacks.
+},
+{
+    158.14,160.92
+     First of all, what are they and why do they happen?
+},
+{
+    160.92,166.08
+     Secondly, is there anything we can control or are we out of control when it comes to heart
+},
+{
+    166.08,171.6
+     attacks? Thirdly, let's review the signs and symptoms so that we know that they may be having a heart
+},
+{
+    171.6,177.12
+     attack and that it's important to call 911 or activate emergency medical services. Well, first
+},
+{
+    177.12,185.0
+     of all, what's a heart attack? Well, a heart attack is anything that actually occludes a vessel that feeds the heart.
+},
+{
+    185.0,188.7
+     And when that heart muscle begins to starve of oxygen,
+},
+{
+    188.7,194.2
+     it causes pain. And that pain is usually what they feel when they say,
+},
+{
+    194.2,197.0
+     yeah, it felt like an elephant was sitting on my chest or
+},
+{
+    197.0,202.2
+     it's the squeezing feeling and sometimes it may even radiate to one or both arms.
+},
+{
+    202.2,205.32
+     It can also potentially radiate up into the neck.
+},
+{
+    205.32,208.56
+     And in some cases, they've even said it feels like jaw pain
+},
+{
+    208.56,210.0
+     or a toothache.
+},
+{
+    210.0,212.6
+     In women, it's very characteristic for it
+},
+{
+    212.6,214.32
+     to actually go to the back,
+},
+{
+    214.32,217.0
+     and it makes them feel like they might have pulled a muscle
+},
+{
+    217.0,219.16
+     or have muscle strain.
+},
+{
+    219.16,221.28
+     And in many cases, they might put it off
+},
+{
+    221.28,224.56
+     because it's not that classic drenched in sweat,
+},
+{
+    224.56,228.88
+     diaphoresis, diaphoresis being the technical term for heavy sweating.
+},
+{
+    228.88,232.88
+     They might just feel like they're achy or that they've got indigestion.
+},
+{
+    232.88,236.18
+     And so they can sometimes put it off for too long
+},
+{
+    236.18,239.08
+     and then suffer other consequences as a result.
+},
+{
+    239.08,242.38
+     But in the case where it's classic signs and symptoms,
+},
+{
+    242.38,250.8
+     the heavy sweating, this crushing chest pain, radiating to one or both arms, up into the neck or jaw, shortness of breath,
+},
+{
+    250.8,256.32
+     difficulty breathing, weakness, nausea, these are all classic signs and symptoms of a heart
+},
+{
+    256.32,257.32
+     attack.
+},
+{
+    257.32,261.68
+     Yeah, that isn't to say that other things can sometimes mimic that.
+},
+{
+    261.68,265.16
+     They could be that they have angina that comes and goes and so it
+},
+{
+    265.16,268.88
+     feels like that for a little bit but then it goes away. It's still kind of
+},
+{
+    268.88,272.2
+     like thunder on the horizon and they should take note of that and maybe
+},
+{
+    272.2,276.56
+     rule out the chance that it is an active heart attack but it can also be
+},
+{
+    276.56,281.64
+     things like pneumonia or pleuritis or even a broken rib. But in the end it's
+},
+{
+    281.64,284.76
+     better to rule out the heart attack and make sure it's not something that's
+},
+{
+    284.76,285.5
+     life-threatening. So if in doubt call 911 and make sure that it's better to rule out the heart attack and make sure it's not something that's life-threatening.
+},
+{
+    285.5,289.5
+     So if in doubt, call 911 and make sure that it's not a heart attack.
+},
+{
+    289.5,294.5
+     So what are some of the risk factors? What do we eat? How much do we exercise?
+},
+{
+    294.5,298.5
+     Are we smoking cigarettes or other things that are bad for us?
+},
+{
+    298.5,304.5
+     If we have diabetes and we can control it, are we controlling it or is it out of control?
+},
+{
+    304.5,305.52
+     Those would be classified as the controllable risk factors. diabetes and we can control it, are we controlling it? Or is it out of control?
+},
+{
+    309.0,309.96
+     Those would be classified as the controllable risk factors.
+},
+{
+    315.52,315.96
+     Uncontrollable is more things like genetic predisposition. Like I have this incredibly high
+},
+{
+    319.72,320.16
+     cholesterol level and I'm a vegetarian. Well, that can happen.
+},
+{
+    326.0,330.5
+     Things like diabetes that just won't stay in control no matter how much we treat it. Things like race. Things like being male.
+},
+{
+    330.5,337.5
+     These are all the things that we have by research found to predispose certain people to cardiovascular disease.
+},
+{
+    337.5,340.0
+     And there's not much they can do to change that.
+},
+{
+    340.0,345.28
+     Not to say that there isn't other things they can do to help prevent heart disease.
+},
+{
+    347.28,348.2
+     Now let's talk about the signs and symptoms.
+},
+{
+    355.08,355.68
+     When they have those signs and symptoms like profuse sweating, chest pain, arm pain, neck pain, jaw pain,
+},
+{
+    359.12,359.56
+     dizziness, shortness of breath, nausea, weakness,
+},
+{
+    364.24,367.72
+     these are all classic signs and symptoms that the person might be having a heart attack. And if they display those signs and symptoms,
+},
+{
+    367.72,369.36
+     our job is pretty clear.
+},
+{
+    369.36,372.12
+     Call 911 immediately.
+},
+{
+    372.12,373.92
+     Get the ambulance on the way.
+},
+{
+    373.92,376.6
+     If it's not a heart attack, it's okay.
+},
+{
+    376.6,378.68
+     We can always disregard the ambulance
+},
+{
+    378.68,380.68
+     or they can rule that out then.
+},
+{
+    380.68,384.2
+     But if it is a heart attack, time is of the essence.
+},
+{
+    384.2,386.7
+     And we don't wanna slow any of that treatment down.
+},
+{
+    386.7,389.18
+     Their life could depend on it.
+},
+{
+    389.18,392.42
+     Remember that most people will want to deny that it's really a heart attack.
+},
+{
+    392.42,396.18
+     They'll also probably want to drive themselves into the hospital.
+},
+{
+    396.18,401.14
+     Both are extremely dangerous, not only for themselves, but for anybody who becomes a
+},
+{
+    401.14,408.36
+     victim of a person who's unconscious behind a wheel, careening into that vehicle and hurting other people.
+},
+{
+    408.36,413.96
+     So remember, if you're waiting for the ambulance and they can take aspirin,
+},
+{
+    413.96,417.7
+     it's one of the first treatments that even the paramedics would do.
+},
+{
+    417.7,421.0
+     Because aspirin, when it's absorbed into the bloodstream,
+},
+{
+    421.0,424.24
+     works like a platelet lubricant.
+},
+{
+    424.24,426.24
+     It actually helps blood platelets slide
+},
+{
+    426.24,432.0
+     by each other so that they don't stick and make a bigger clot. So it's actually
+},
+{
+    432.0,436.24
+     one thing that you can do if the patient allows you to give it to them where
+},
+{
+    436.24,441.0
+     they can take aspirin and help themselves prevent a worse heart attack or
+},
+{
+    441.0,448.28
+     actually relieve some of the symptoms. If they have say nitroglycerin tabs or a spray
+},
+{
+    448.28,450.44
+     and they can't get up to get it,
+},
+{
+    450.44,452.4
+     you can assist them by going to get it
+},
+{
+    452.4,453.4
+     and giving it to them.
+},
+{
+    454.4,457.68
+     Remember to keep the patient as calm as possible.
+},
+{
+    457.68,459.84
+     You can't lie to them and tell them everything's
+},
+{
+    459.84,462.32
+     gonna be okay because we don't know if that's true.
+},
+{
+    462.32,464.56
+     But we could reassure them that they're gonna be
+},
+{
+    464.56,467.52
+     in good hands and that you're not going to leave them alone.
+},
+{
+    467.52,472.12
+     If they have tight garments we can loosen those up and then allow the patient to
+},
+{
+    472.12,479.08
+     be in the best position of comfort they can find while we wait for EMS to arrive.
+},

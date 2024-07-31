@@ -1,0 +1,76 @@
+{
+    0.0,10.0
+     Felly, mae'r ddweud yn ymddangos, oedd yna'r ddweud yn y ddweud, oedd yna'r ddweud yn y ddweud, oedd yna'r ddweud yn y ddweud yn y ddweud yn y ddweud.
+},
+{
+    10.0,14.0
+     Felly, mae'r ddweud yn y ddweud yn y ddweud, oedd yna'r ddweud yn y ddweud yn y ddweud.
+},
+{
+    16.0,24.0
+     Felly, mae'n ddweud yn y ddweud yn y ddweud, oedd yna'r ddweud yn y ddweud, oedd yna'r ddweud yn y ddweud.
+},
+{
+    49.6,51.6
+     ychydig yma i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgol i'r ysgddangos ar y ddweud, yn ymddangos ar y ddweud.
+},
+{
+    53.2,54.4
+     A ddweud. Mae'r ddweud.
+},
+{
+    55.2,56.8
+     Mae'r ddweud yn ymddangos.
+},
+{
+    60.8,68.0
+     Mae'r ddwl. Rwy'n meddwl, rwy'n meddwl i'w ddweud y rhan,
+},
+{
+    68.0,71.0
+     y rhan ffynol, ar y ddweud y ddweud y ddweud,
+},
+{
+    71.0,73.0
+     fel yw'r ddweud.
+},
+{
+    76.0,78.0
+     Rwy'n meddwl i'w ddweud.
+},
+{
+    78.0,81.0
+     Rwy'n meddwl i'w ddweud y ddweud.
+},
+{
+    83.0,88.4
+     Mae'r anker yn ymddangos. Mae'n meddwl i'w ddweudr ddweud. A'r ddweud yn cael ei ddweud yn cael ei ddweud.
+},
+{
+    88.4,92.0
+     Mae'r ddweud yn cael ei ddweud yn cael ei ddweud.
+},
+{
+    92.0,93.6
+     Felly, ydych chi'n gweithio,
+},
+{
+    93.6,96.0
+     felly, ydych chi'n gweithio'n gweithio'n gweithio'n gweithio,
+},
+{
+    96.0,145.0
+     gallwn ni'n gweithio'n gweithio i'r ddweud i'r ddweud i'r ddweud. Felly, mae'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'r ddod o'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gwe dwi'n ddweud i'r ddechrau.
+},
+{
+    145.0,165.76
+     Dyna dwi'n ddweud i'r ddweud. Rwy'n ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ddweud i'r ffixer arall, yn ymwneud y llanchor arall yma,
+},
+{
+    167.52,175.2
+     fel yw'r ffixer, ac rwy'n dweud yw'r ffordd yma ar y bai, ac mae'r llanchor arall.
+},
+{
+    176.56,180.0
+     A dyna, mae'n dweud y ffordd yma ar y cwmhwyl.
+},

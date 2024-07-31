@@ -1,0 +1,60 @@
+{
+    0.0,7.0
+     Twist the square tissue or toilet paper spirally into a rat's tail using the thumb and forefinger of both hands.
+},
+{
+    8.0,15.0
+     Continue to twist until tight. If the tissue spear is too fat, it will be difficult to insert into the ear canal.
+},
+{
+    19.0,31.24
+     Break off the tip, which may become floppy, and also the remaining tissue from the other end so that it does not impede insertion of the tissue spear.
+},
+{
+    31.24,35.4
+     Gently push the tissue spear into the ear canal while pulling the ear back.
+},
+{
+    35.4,38.52
+     Carefully rotate the spear while inserting it.
+},
+{
+    38.52,44.36
+     Insert into the ear canal about 2-3 centimeters or until the child blinks, coughs, or cries.
+},
+{
+    44.36,45.68
+     If the spear is not inserted
+},
+{
+    45.68,49.56
+     far enough, it may not reach the bottom of the ear canal and so ineffective cleansing
+},
+{
+    49.56,55.88
+     will result. Leave the tissue spear in place for three to five minutes to enable absorption
+},
+{
+    55.88,69.04
+     of drainage. Make additional spears while waiting. This is also a good opportunity to teach children how to make their own spears correctly.
+},
+{
+    69.04,73.12
+     Should both ears suffer drainage, spearing both ears concurrently when possible will
+},
+{
+    73.12,75.4
+     save time.
+},
+{
+    75.4,78.92
+     After 3-5 minutes, remove the spear slowly and discard.
+},
+{
+    78.92,81.96
+     The pus will adhere to the spear when removed.
+},
+{
+    81.96,87.0
+     Repeat the process with a new tissue spear until the tissue is dry when it emerges from the ear canal.
+},

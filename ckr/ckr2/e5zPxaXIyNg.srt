@@ -1,0 +1,692 @@
+{
+    0.0,8.68
+     Hi, I'm Alastair from Leisure's Training and in this video we're going to look at how to
+},
+{
+    8.68,19.16
+     treat an open chest wound using simple first aid techniques.
+},
+{
+    19.16,23.6
+     So in this video about how to treat an open chest wound using basic first aid techniques,
+},
+{
+    23.6,25.8
+     I need to make a couple of quick disclaimers
+},
+{
+    25.8,27.42
+     before we begin.
+},
+{
+    27.42,29.12
+     The guidelines I'm going to show you come from
+},
+{
+    29.12,31.12
+     the faculty of pre-hospital care,
+},
+{
+    31.12,32.86
+     the Royal College of Chesundre, Edinburgh,
+},
+{
+    32.86,34.24
+     and therefore may be slightly different
+},
+{
+    34.24,37.0
+     from some of the guidelines taught internationally.
+},
+{
+    37.0,38.76
+     The second thing is that this video is being made
+},
+{
+    38.76,41.72
+     during the social distancing lockdown here in the UK
+},
+{
+    41.72,44.76
+     due to COVID-19, and therefore, once again,
+},
+{
+    44.76,46.32
+     Dave is going to be my casualty.
+},
+{
+    47.68,53.6
+     Depending what training protocol you're familiar with you may start with Dr. Cab Danger Response
+},
+{
+    53.6,59.68
+     Catastrophic Bleed Airway Breathing, it may be March, Massive Hemorrhage, Airway Respiration and so on
+},
+{
+    60.32,67.0
+     but breathing ventilation, respiration whatever it's, comes very high in a holder of priority.
+},
+{
+    67.0,72.0
+     Probably only after our own safety, dealing with any massive catastrophic bleed
+},
+{
+    72.0,74.0
+     and making sure that the person has an airway.
+},
+{
+    74.0,78.0
+     So here we have poor Dave. Dave has been injured in the chest.
+},
+{
+    78.0,82.0
+     Now we're not going to worry about the mechanism of injury too much for the purposes of our video,
+},
+{
+    82.0,88.88
+     but we'll say that he's safe here, that I've dealt with any other injuries that I might be worried about such as a large bleed.
+},
+{
+    88.88,93.76
+     He's clearly got an airway that he's managing by himself and he is breathing.
+},
+{
+    93.76,97.4
+     However, there is something wrong with his breathing.
+},
+{
+    97.4,101.12
+     Breathing should be noiseless and effortless and in this case I can see that Dave is struggling
+},
+{
+    101.12,106.6
+     to breathe, he's breathing much faster than we would expect and it is with difficulty.
+},
+{
+    106.6,108.44
+     These clues home in on the idea
+},
+{
+    108.44,110.2
+     that he's got a problem with his breathing,
+},
+{
+    110.2,112.48
+     with his respiration, with his ventilation,
+},
+{
+    112.48,113.88
+     whatever you wish to call it.
+},
+{
+    113.88,115.4
+     And so the first thing I need to do
+},
+{
+    115.4,116.76
+     is I need to expose his chest
+},
+{
+    116.76,118.56
+     so I can see what I'm dealing with.
+},
+{
+    118.56,120.44
+     And we say expose the person to their waistline
+},
+{
+    120.44,122.04
+     or to about their belly button.
+},
+{
+    127.58,131.52
+     Now on doing that, I can see that David's got another layer of clothing underneath. Now traditionally we would cut straight down
+},
+{
+    131.52,135.06
+     the middle however I'm going to do this slightly differently. I'm going to cut
+},
+{
+    135.06,142.82
+     across from the neck to the shoulder and then I'm going to cut down the side here.
+},
+{
+    151.08,155.44
+     down the side here. So I've cut from the neck to the shoulder and from the shoulder down the side. The idea of this is I can still open up the clothing to expose the injured
+},
+{
+    155.44,160.44
+     area but if later down the line I'm worried about his temperature which I probably should
+},
+{
+    160.44,168.16
+     be I've got the option then to cover him back up with his own clothing. It's only a light layer but it will make some difference whereas if I
+},
+{
+    168.16,171.96
+     cut it down through the middle it's much more difficult to achieve the same
+},
+{
+    171.96,177.6
+     aim. So I've exposed the area and we can see a wound straight away. Now the first
+},
+{
+    177.6,180.76
+     thing we have to do is we have to seal the wound. We have to make sure that
+},
+{
+    180.76,183.52
+     there's no air movement between it because that is what is causing Dave
+},
+{
+    183.52,185.56
+     difficulties here.
+},
+{
+    185.56,189.28
+     Now we could do it with your hand, we could perhaps try and get Dave to do it, but we
+},
+{
+    189.28,193.24
+     can see Dave whilst he's still conscious, he's unable to assist us.
+},
+{
+    193.24,196.72
+     If I had a colleague with me, I could get them to put pressure on, but as it's only
+},
+{
+    196.72,199.88
+     me here, it's going to have to be me that will put my hand on there and put pressure
+},
+{
+    199.88,200.88
+     on.
+},
+{
+    200.88,208.84
+     Now, just a quick reminder, again, we're not wearing gloves in this video with any PPE, personal protective equipment because it's valuable and needs to be used in the
+},
+{
+    208.84,212.84
+     front line rather than on our videos, but this would be a good example why we would
+},
+{
+    212.84,217.32
+     like to wear gloves when we're treating a patient. Some people talk about if you're
+},
+{
+    217.32,221.16
+     super cool, try and use the back of your hand to cover up the wound and this will leave
+},
+{
+    221.16,225.0
+     your fingers free for you to be able to open up any dressings that you may wish to use. ac mae'n gweithio'r ffingerdd ar gyfer y gallwn i'n gweithio'r dweud o'r dweud o'r dweud.
+},
+{
+    226.0,228.0
+     Mae'r amser yn ymddiol y dweud.
+},
+{
+    229.0,231.0
+     Felly, oherwydd o'r dweud o'r dweud, mae'n gweithio'n gweithio'n gweithio'n gweithio,
+},
+{
+    248.48,251.56
+     ac mae'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweithio'n gweith to allow the dressing that we're putting on there to hopefully stick properly without the blood causing it to be slippy. The first dressing that I'm going to show you is one of the more basic ones.
+},
+{
+    251.56,254.28
+     It's what's called a nightingale dressing.
+},
+{
+    254.28,257.28
+     And we see these in a lot of people's first aid kits.
+},
+{
+    257.28,261.0
+     When we open it up, we get quite a large dressing inside and that's one of the reasons
+},
+{
+    261.0,264.2
+     we think it's popular because it could cover large wounds.
+},
+{
+    264.2,269.96
+     But also you can cut it down to use it on multiple wound sites if required.
+},
+{
+    269.96,273.04
+     They're also quite good, you can see this one's been folded in someone's kit and they're
+},
+{
+    273.04,274.04
+     quite robust.
+},
+{
+    274.04,283.04
+     What we want to use it, we peel the main backing off and as the patient breathes out we stick
+},
+{
+    283.04,291.0
+     this over the wound, making sure that he sticks down well to the chest.
+},
+{
+    293.0,300.0
+     Now the Nightingale dressing has no valves in it, so it's purely designed for that idea of step one, seal the chest.
+},
+{
+    300.0,303.0
+     We can treat any consequences later on.
+},
+{
+    303.0,309.0
+     It's also very sticky, which is a plus. It means it will stick to people in awkward areas like the armpit.
+},
+{
+    309.0,312.0
+     It will stick to people who are hairy or covered in sand.
+},
+{
+    312.0,318.0
+     And it's also sticky enough that you can remove it and replace it if needed.
+},
+{
+    318.0,322.0
+     So maybe you miss the wound when you apply it in the heat of the moment,
+},
+{
+    322.0,327.44
+     or maybe you need to remove the dressing for other reasons which we'll come back to later.
+},
+{
+    327.44,331.36
+     Having sealed this wound, now that I've found one wound I must look for more and now would
+},
+{
+    331.36,335.36
+     be the time to search the patient very very carefully to make sure they now have no other
+},
+{
+    335.36,339.44
+     wounds. It's tempting just to concentrate on the areas that you can see but we would
+},
+{
+    339.44,342.6
+     need to get around the back of the patient and make sure there are no wounds on there
+},
+{
+    342.6,344.44
+     as well.
+},
+{
+    344.44,349.12
+     Here I have what is called a vented chest seal, this is one called a rustle chest seal.
+},
+{
+    349.12,353.2
+     The idea of the vents is there's, as the name implies, little vents or valves, whatever
+},
+{
+    353.2,357.92
+     you want to call them in them, that whilst they won't let air into the person, will let
+},
+{
+    357.92,361.08
+     air escape if air is building up.
+},
+{
+    361.08,364.04
+     So remember, step one, we must seal the chest.
+},
+{
+    364.04,369.32
+     So it's a big sticky dressing, we peel the backing off and as the person breathes out,
+},
+{
+    369.32,372.92
+     we apply this over the wound to their chest.
+},
+{
+    372.92,377.92
+     Once in place, we smooth it down, make sure it's stuck well and then we reassess the
+},
+{
+    377.92,378.92
+     casualty.
+},
+{
+    378.92,384.64
+     Let's imagine a situation where there are multiple wounds on the casualty's chest,
+},
+{
+    384.64,388.8
+     but at the same time you have the world's biggest first aid kit beside you.
+},
+{
+    388.8,392.52
+     The working guideline there is obviously you must seal all the wounds.
+},
+{
+    392.52,397.08
+     But on each side of the chest, you pick the wound that seems to be the largest,
+},
+{
+    397.08,401.36
+     the uppermost if you like, and we seal that with a vented chest seal.
+},
+{
+    401.36,405.54
+     So one vented seal per side, if you have them, everything else is
+},
+{
+    405.54,410.78
+     just sealed off. If the cashier is conscious they'll normally find the most comfortable
+},
+{
+    410.78,414.62
+     position for them to breathe in. If you've ever had a bad cold or chest infection and
+},
+{
+    414.62,418.38
+     you'll know yourself that laying in bed at night, you're struggling to breathe, you
+},
+{
+    418.38,423.78
+     instinctively roll on your side or sit up and find a more comfortable position. So if
+},
+{
+    423.78,425.0
+     the cashier is conscious,
+},
+{
+    425.0,428.0
+     as long as it's not causing you any problems in your treatment path,
+},
+{
+    428.0,431.0
+     we say pretty much let them find a comfortable position.
+},
+{
+    431.0,434.0
+     If however the cashier goes unconscious,
+},
+{
+    434.0,437.0
+     in first aid we're traditionally taught to put them on their side
+},
+{
+    437.0,439.0
+     in a position called the recovery position.
+},
+{
+    439.0,443.0
+     Now this can become significant with a chest injury.
+},
+{
+    443.0,448.72
+     The current guidelines that we work to, which remember are the faculty of pre-hospital care, Royal College of Surgeons, Edinburgh,
+},
+{
+    448.72,453.12
+     is that if the person has a chest injury and you need to put them on their side
+},
+{
+    453.12,457.2
+     into the recovery position, then you put them with the good side to the ground,
+},
+{
+    457.2,462.16
+     the good side to the ground, otherwise known as having the injury up.
+},
+{
+    462.16,465.04
+     Again, there's been different guidelines in the past,
+},
+{
+    465.04,466.24
+     there's probably different guidelines
+},
+{
+    466.24,468.0
+     in other parts of the world.
+},
+{
+    468.0,470.84
+     This is based on some sound research
+},
+{
+    470.84,474.8
+     that basically the good lung will contribute wherever it is.
+},
+{
+    474.8,476.24
+     So if it's at the top or the bottom,
+},
+{
+    476.24,479.04
+     you get the benefits of the good lung.
+},
+{
+    479.04,483.28
+     However, if the injured lung is uppermost
+},
+{
+    483.28,487.36
+     and particularly if the injury is in the top 10-15% of the person's
+},
+{
+    487.36,491.28
+     body, if you think of it measured from the ground to the highest point on the person as they lay
+},
+{
+    491.28,497.28
+     on the floor, then the injured lung will often contribute as well. Something found by accident
+},
+{
+    497.28,501.76
+     through pulse oximetry, you know, little machines that people put on the fingers and therefore brought
+},
+{
+    501.76,508.76
+     into first aid training guidelines. So if you can remember it in the heat of the moment and the casualty is unconscious and
+},
+{
+    508.76,513.08
+     you need to put them on their side and they have their chest injury so it's quite niche,
+},
+{
+    513.08,518.24
+     then we say good side to ground and this should improve the person's breathing.
+},
+{
+    518.24,522.16
+     But always remember, most important assessment is a reassessment and look at your patient,
+},
+{
+    522.16,529.28
+     look at the casualty and think is this making things better for them. There was a concern that over time air could
+},
+{
+    529.28,532.64
+     leak from the damaged lung and be building up inside the chest forming
+},
+{
+    532.64,536.24
+     essentially like an air pocket though there are posture medical words to
+},
+{
+    536.24,540.52
+     describe it and this could collapse the lung and therefore inhibit the person's
+},
+{
+    540.52,544.84
+     breathing further. Now if this was to be happening we would see that the
+},
+{
+    544.84,545.6
+     respiratory rate would see that the respiratory
+},
+{
+    545.6,551.12
+     rate would increase, the patient would become more distressed, their breathing would become more
+},
+{
+    551.12,556.08
+     noisy and more laboured and they'd probably become restless and anxious if they were conscious.
+},
+{
+    557.12,561.2
+     Now people talk about signs about the windpipe moving and so on but these are very very late
+},
+{
+    561.2,566.66
+     signs of very very difficult to notice. If we notice this deterioration
+},
+{
+    566.66,571.68
+     in the casualties breathing, an increase in respiratory rate, an increase in effort,
+},
+{
+    571.68,577.96
+     a decrease in the quality of their breathing, then we need to act. And if we have a chest
+},
+{
+    577.96,583.44
+     seal in place, the best thing we can do is peel the chest seal back slightly just to
+},
+{
+    583.44,586.0
+     reveal the wound to burp it as we call it.
+},
+{
+    586.0,593.0
+     The idea is that by peeling this back if there is air inside we've created another vent essentially for it to come out of.
+},
+{
+    595.0,600.0
+     Having ventured the chest, having burped the chest wound, we then replace the dressing.
+},
+{
+    600.0,603.0
+     Because remember step one is always to seal the chest.
+},
+{
+    603.08,608.96
+     because remember step one is always to seal the chest. We sometimes ask what should we do if we don't have our first aid kit with us or our first
+},
+{
+    608.96,611.8
+     aid kit is quite basic and doesn't contain chest seals.
+},
+{
+    611.8,616.08
+     Well remember the first thing we must do is seal the chest and therefore use anything
+},
+{
+    616.08,617.08
+     you can.
+},
+{
+    617.08,620.88
+     Earlier I talked about using my hand but if you can get anything that's plastic-y and
+},
+{
+    620.88,628.88
+     here this is actually the wrapping of another chest seal, we can place this over the area, and even just holding it here will have some positive
+},
+{
+    628.88,634.16
+     effects. However it might be better if you can bandage it down or indeed tape
+},
+{
+    634.16,638.88
+     it to the person. Now with regards to taping it to the person, the Factor
+},
+{
+    638.88,643.84
+     Prehospital Care recommended you actually tape it on all four sides, just to
+},
+{
+    643.84,645.6
+     make sure it sticks properly,
+},
+{
+    645.6,647.6
+     to make sure that you have stopped air movement
+},
+{
+    647.6,649.68
+     through the wound and to give the person
+},
+{
+    649.68,651.68
+     a good chance to breathe properly.
+},
+{
+    651.68,654.28
+     Now in the past, and probably still internationally,
+},
+{
+    654.28,656.48
+     different guidelines, some people talk about
+},
+{
+    656.48,659.08
+     trying to leave a gap to the air escape.
+},
+{
+    659.08,661.72
+     This rarely works in real life, so let's concentrate
+},
+{
+    661.72,663.32
+     on doing the simple things well
+},
+{
+    663.32,665.2
+     and treating it step by step.
+},
+{
+    665.2,670.72
+     So cover it with something that's plastic. If you can, tape it to the person, tape it on all four
+},
+{
+    670.72,675.44
+     sides and then reassess because remember the most important assessment is a reassessment.
+},
+{
+    676.72,681.84
+     So I hope you found this video about how to treat an open chest wound with simple first aid advice
+},
+{
+    681.84,687.0
+     useful. Hopefully it served as a timely reminder perhaps for those of you who have had first aid training before.
+},
+{
+    688.0,693.0
+     So if you've liked the video please do give it a thumbs up that always makes us feel better about our efforts behind the scenes.
+},
+{
+    694.0,699.0
+     I'd also urge you to subscribe so that we kind of know our audience out there and we can interact with you a bit better.
+},
+{
+    700.0,705.54
+     And every Wednesday evening 6pm UK time fresh content goes up onto our YouTube channel.
+},
+{
+    705.54,707.48
+     So why not hit that notification button
+},
+{
+    707.48,709.88
+     to make sure that you're notified when that happens
+},
+{
+    709.88,713.6
+     so that you can kind of see the fresh stuff as it comes out.
+},
+{
+    713.6,715.94
+     So until next time, take care.
+},

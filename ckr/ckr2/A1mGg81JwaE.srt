@@ -1,0 +1,356 @@
+{
+    0.0,7.12
+     Hey everyone, I'm Elise, the occupational therapist making stroke information simple.
+},
+{
+    7.12,11.68
+     And today I want to talk about one of those invisible issues that people often deal with
+},
+{
+    11.68,13.48
+     after stroke.
+},
+{
+    13.48,15.28
+     Trouble with memory.
+},
+{
+    15.28,20.32
+     This video is specifically for survivors with short-term memory issues impacting function
+},
+{
+    20.32,22.98
+     and daily activities.
+},
+{
+    22.98,26.12
+     When we have an injury to our brain, this can result in
+},
+{
+    26.12,31.76
+     both visible and invisible changes. Just like how some of you might experience
+},
+{
+    31.76,36.16
+     one-sided weakness, which is a very visible issue, brain injury can also
+},
+{
+    36.16,41.44
+     result in invisible changes like changes to our cognition. And cognition is
+},
+{
+    41.44,45.0
+     basically just how we take in information,
+},
+{
+    45.2,48.68
+     store it, process it and retrieve it.
+},
+{
+    48.68,52.6
+     The first thing I want you to know is that you are not alone.
+},
+{
+    52.6,54.68
+     I have worked with many survivors
+},
+{
+    54.68,56.42
+     who have dealt with memory issues
+},
+{
+    56.42,58.2
+     and changes in cognition.
+},
+{
+    58.2,61.76
+     And a 2015 study actually found that two thirds
+},
+{
+    61.76,69.84
+     of stroke survivors actually deal with cognitive changes after their first stroke. I'm going to walk you through two different
+},
+{
+    69.84,76.08
+     approaches to cognitive rehabilitation. The first approach is remediation.
+},
+{
+    76.08,81.48
+     Remediation uses exercises and activities to improve your memory and
+},
+{
+    81.48,86.44
+     cognition. The second approach is compensation.
+},
+{
+    87.42,90.78
+     Compensation uses techniques and strategies
+},
+{
+    90.78,93.08
+     to help you work around memory issues
+},
+{
+    93.08,96.52
+     so that you can still do what's important to you.
+},
+{
+    96.52,99.2
+     Now, both of these approaches have their merits,
+},
+{
+    99.2,101.6
+     and I'd argue that you actually need both of them
+},
+{
+    101.6,103.66
+     to improve your overall cognition.
+},
+{
+    104.8,107.12
+     Just like in physical rehabilitation,
+},
+{
+    107.12,111.16
+     it takes a lot of practice and repetition to improve memory.
+},
+{
+    111.16,114.84
+     Neuroplasticity principles apply here too.
+},
+{
+    114.84,118.36
+     Try to start thinking of your brain more like a muscle.
+},
+{
+    118.36,120.16
+     If you had bicep weakness,
+},
+{
+    120.16,123.96
+     you might pick up a dumbbell and start to do some bicep curls.
+},
+{
+    123.96,128.0
+     If you're having trouble with memory, you need to practice things that challenge your memory.
+},
+{
+    129.2,135.68
+     Let's start with remediation. The first remediation activity is card matching.
+},
+{
+    137.2,142.32
+     I like this activity because most of us have an old deck of cards lying around somewhere,
+},
+{
+    142.96,145.22
+     although I got these specific matching cards
+},
+{
+    145.22,148.78
+     from the Dollar Tree, you may be able to pick one up too.
+},
+{
+    148.78,151.36
+     You don't have to use the entire deck,
+},
+{
+    151.36,154.96
+     pick anywhere between six to 12 cards to start with
+},
+{
+    154.96,156.74
+     and just make sure that they're in pairs.
+},
+{
+    156.74,160.18
+     For example, red eights, black jacks, et cetera.
+},
+{
+    161.2,164.14
+     Place the cards face down on the table,
+},
+{
+    164.14,166.88
+     flip one over and then look for its match.
+},
+{
+    166.88,171.28
+     If they don't match, flip them both back over and repeat.
+},
+{
+    171.28,175.32
+     The goal with this activity is to work on that memory muscle by having you remember
+},
+{
+    175.32,179.28
+     where the card matches are located.
+},
+{
+    179.28,183.96
+     The second remediation activity is working puzzles.
+},
+{
+    183.96,186.96
+     Some people love them, and some people don't, but
+},
+{
+    186.96,192.56
+     puzzles can be a great way to challenge your memory and perception. Pour the
+},
+{
+    192.56,197.48
+     pieces out onto the table and set the box up so that you can look at it to give
+},
+{
+    197.48,202.56
+     you a reference. You'll have to refer to the picture and remember what it looks
+},
+{
+    202.56,210.56
+     like to start setting it up. Then you'll have to remember which pieces fit where.
+},
+{
+    210.56,215.2
+     The third remediation activity is meditation.
+},
+{
+    215.2,220.4
+     Meditation not only helps us feel more relaxed, less depressed, and connected to our bodies,
+},
+{
+    220.4,224.6
+     but researchers have also found that it can actually help increase brain connectivity,
+},
+{
+    224.6,227.44
+     which is a huge part of stroke recovery.
+},
+{
+    227.44,230.16
+     It might be hard to do when you're first starting out.
+},
+{
+    230.16,234.72
+     If you've ever tried to just sit quietly, you'll notice that you can get very distracted
+},
+{
+    234.72,236.88
+     by all the thoughts running through your brain.
+},
+{
+    236.88,242.04
+     I'd recommend using a free app like Insight Timer or even a paid app like Headspace to
+},
+{
+    242.04,245.12
+     help guide you through it.
+},
+{
+    247.76,248.88
+     Now let's move on to some compensatory strategies.
+},
+{
+    252.0,253.6
+     The first compensatory strategy is to set a reminder.
+},
+{
+    258.64,259.36
+     Although I haven't had a brain injury or a stroke, I do struggle with short-term memory issues.
+},
+{
+    266.18,271.26
+     I use reminders for everything. I set a recurring reminder for my nightly medication, I set a reminder when I start laundry, and I set a reminder when I'm cooking food and don't
+},
+{
+    271.26,277.08
+     want to forget that I have the oven on. My favorite app to use is the Reminders app on
+},
+{
+    277.08,282.48
+     my iPhone, which is what I'm showing you in this video. I like using my phone because
+},
+{
+    282.48,288.04
+     I always have it with me, but if you're old school, you can use a stopwatch or a kitchen timer.
+},
+{
+    288.04,294.72
+     They'll work too.
+},
+{
+    294.72,299.16
+     The second compensatory strategy is to make a list.
+},
+{
+    299.16,305.08
+     Many of us, myself included, enjoy the act of physically writing out a list.
+},
+{
+    305.08,308.76
+     I used to do this all the time when I was writing out my grocery list.
+},
+{
+    308.76,310.84
+     But you know what I also did?
+},
+{
+    310.84,313.6
+     I lost that list more times than I can count.
+},
+{
+    314.68,318.0
+     Using a digital list on your phone, using the notes or
+},
+{
+    318.0,320.92
+     reminders app can be really helpful.
+},
+{
+    320.92,324.0
+     I'm showing you the notes app on my iPhone in this video.
+},
+{
+    329.44,333.2
+     We tend to bring our phones everywhere with us, so if your grocery list is on your phone, you won't forget it.
+},
+{
+    333.2,337.76
+     The third compensatory strategy is everything in its place.
+},
+{
+    337.76,342.04
+     Make sure that the things you use most often all have their place.
+},
+{
+    342.04,344.96
+     Keep your keys in a bowl or hook by the door.
+},
+{
+    344.96,345.32
+     Keep your phone in your pocket or hook by the door. Keep your phone
+},
+{
+    345.32,349.52
+     in your pocket or plugged in to charge. That way when you go back to look for
+},
+{
+    349.52,354.64
+     them you won't have to guess where you left them. Okay everyone that's it for
+},
+{
+    354.64,360.32
+     today. I hope you found these exercises and strategies helpful. Let me know what
+},
+{
+    360.32,364.52
+     other topics you might like me to cover in the comments below. Remember to like,
+},
+{
+    364.52,368.08
+     subscribe, and hit the bell for notifications on when I post new videos.
+},
+{
+    368.08,371.6
+     I'll see you next time!
+},

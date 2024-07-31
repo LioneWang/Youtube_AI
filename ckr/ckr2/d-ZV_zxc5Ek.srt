@@ -1,0 +1,44 @@
+{
+    0.0,7.24
+     The dorsal nice fun is used to passively stretch while resting.
+},
+{
+    7.24,10.88
+     It is to treat plantar fasciitis and Achilles tendonitis.
+},
+{
+    10.88,15.2
+     You want to first slide your toe through the top of the sleeve, secure the Velcro straps
+},
+{
+    15.2,21.04
+     on top, and then up around your heel, securing the Velcro straps under the dorsal strap.
+},
+{
+    21.04,27.0
+     Next, you'll take the larger strap, wrap it around your calf and secure it at the top.
+},
+{
+    27.0,33.0
+     So slide your toe in first.
+},
+{
+    33.0,35.0
+     Secure both sides of the velcro.
+},
+{
+    35.0,46.0
+     Next, your heel will go into this hole and on top of your ankle. The largest one goes around your calf
+},
+{
+    46.0,50.0
+     and secures again with Velcro.
+},
+{
+    50.0,53.0
+     There's no need to touch the dorsal strap
+},
+{
+    53.0,55.0
+     on your dorsal night's leg.
+},

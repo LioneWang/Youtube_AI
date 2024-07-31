@@ -1,0 +1,468 @@
+{
+    0.0,5.12
+     Hey, this is Sarah with RegisterNurseRN.com and today I'm going to show you how to find
+},
+{
+    5.12,8.72
+     a vein on your patient before you start an IV.
+},
+{
+    8.72,13.0
+     Starting an IV takes skill and one of the skills to help you be successful at it is
+},
+{
+    13.0,18.44
+     to find a good vein that is viable that you're going to be able to stick first time and make
+},
+{
+    18.44,20.72
+     it easier for the patient and for yourself.
+},
+{
+    20.72,30.0
+     So in this video I'm going to show you how to find veins. Typically in males, males are a little bit easier to find veins on, especially if they're healthier,
+},
+{
+    30.0,36.0
+     because males, veins tend to be superficial and larger compared to a female.
+},
+{
+    36.0,44.0
+     Females, unless they do cardiovascular exercise or an athlete, their veins are a little bit more covered with subcutaneous fat.
+},
+{
+    44.0,45.28
+     So in a male, you're typically going to see larger veins. or an athlete, their veins are a little bit more covered with subcutaneous fat.
+},
+{
+    45.28,48.6
+     So in a male, you're typically gonna see larger veins.
+},
+{
+    48.6,52.24
+     So this person I'm using is male and he's healthy,
+},
+{
+    52.24,54.96
+     so his veins are a lot easier to find.
+},
+{
+    54.96,57.24
+     In the hospital setting, you're probably not gonna have
+},
+{
+    57.24,59.6
+     a patient with great veins like you're about to see
+},
+{
+    59.6,60.72
+     here in a second.
+},
+{
+    60.72,63.84
+     Patients in the hospital are usually really sick,
+},
+{
+    63.84,66.08
+     they're dehydrated, so their veins are
+},
+{
+    66.08,69.24
+     going to be smaller and a little bit more difficult to find.
+},
+{
+    69.24,73.52
+     So here we go and I'm going to show you how to do that.
+},
+{
+    73.52,78.88
+     Okay, first you'll want to tell the patient what you're doing that you're going to be
+},
+{
+    78.88,80.12
+     looking for a vein.
+},
+{
+    80.12,85.32
+     You probably want to spend a minute or two trying to find a vein.
+},
+{
+    85.32,90.0
+     And if you notice his veins, you can see them already without a tourniquet.
+},
+{
+    90.0,93.68
+     Most people, you have to put the tourniquet on to get these veins to pop out.
+},
+{
+    93.68,96.0
+     So here in a second, I'll put the tourniquet on.
+},
+{
+    96.0,98.52
+     But notice you can already see his veins.
+},
+{
+    98.52,101.24
+     So when you put the tourniquet on, tell them what you're doing, you're going to put the
+},
+{
+    101.24,106.92
+     tourniquet on, and try to put the tourniquet on tight, but not too tight, and ask them if it's too tight.
+},
+{
+    106.92,108.2
+     But you want it tight enough
+},
+{
+    108.2,110.8
+     so it makes the blood pool in the lower extremity.
+},
+{
+    112.64,116.52
+     And already these veins are starting to collect with blood
+},
+{
+    116.52,118.52
+     and becoming gorge.
+},
+{
+    118.52,122.48
+     Two tips to help engorge the veins the best you can.
+},
+{
+    122.48,125.88
+     Have the patient lower their arms so the blood
+},
+{
+    125.88,132.92
+     pulls down to the extremity. Next have the patient pump their hand. This causes
+},
+{
+    132.92,139.04
+     the blood to really pull. Okay, so they get nice and engorged and compared to
+},
+{
+    139.04,143.76
+     before these veins have became more engorged. So I'm going to talk about the
+},
+{
+    143.76,147.0
+     different areas that we typically start an IV on.
+},
+{
+    147.0,150.3
+     You always like to use the hand or the arm.
+},
+{
+    150.3,154.6
+     We very rarely go up, up into the shoulder or anything like that.
+},
+{
+    154.6,157.0
+     That's usually on really patient to your heart to stick.
+},
+{
+    157.0,160.0
+     Typically, the arm is sufficient enough.
+},
+{
+    160.0,162.9
+     So first I want to talk about the anti-cubital area.
+},
+{
+    162.9,164.6
+     This is the AC area.
+},
+{
+    164.6,167.28
+     You may hear in the hospital setting, the nurse say,
+},
+{
+    167.28,169.72
+     he has an 18 gauge and is right AC.
+},
+{
+    169.72,173.16
+     So this is the AC area that they're talking about.
+},
+{
+    173.16,176.92
+     Typically in the human, the veins are always in the same spot.
+},
+{
+    176.92,180.32
+     So everyone should have the same veins and same areas.
+},
+{
+    180.32,182.88
+     They can be a little bit to the left or to the right,
+},
+{
+    182.88,185.0
+     but generally they'll be in these areas.
+},
+{
+    185.0,190.0
+     Right here is a vein. This is a very large, great vein.
+},
+{
+    190.0,193.0
+     You could get an 18 gauge in this vein.
+},
+{
+    193.0,196.0
+     There's a vein right here in the middle.
+},
+{
+    196.0,203.0
+     I really like this vein. I normally use it a lot because it's in patients that I can easily find.
+},
+{
+    203.0,206.4
+     I don't see this vein a lot, especially in females.
+},
+{
+    206.4,211.68
+     I normally see this vein, so I stick that one, and then this one. This is another favorite one.
+},
+{
+    211.68,218.24
+     People really like to draw blood out of this one too. A key, some people are seers. They can see
+},
+{
+    218.24,225.34
+     the vein and they poke it. I'm a filler. I have to be able to fill the springiness of the vein. It tells me a lot about
+},
+{
+    225.82,230.76
+     How if the vein rolls if how large it is and where the placement of it is?
+},
+{
+    231.04,233.04
+     So if you're a filler
+},
+{
+    233.84,240.28
+     What you need to do is you need to take your index finger and always fill the vein veins have a unique feel to them
+},
+{
+    241.12,244.36
+     Compared to like if you're filling the skin it doesn't feel like a vein
+},
+{
+    244.36,249.56
+     So if you're new to starting IVs, I really recommend you practice on yourself with feeling your
+},
+{
+    249.56,253.72
+     veins. Like put a tourniquet on and just fill your veins. Get a feeling for them because
+},
+{
+    253.72,258.0
+     once you understand how they feel, you'll know whether you're feeling a vein or not.
+},
+{
+    258.0,261.4
+     That was the biggest thing. Whenever I was a student, I would always say, am I feeling
+},
+{
+    261.4,267.0
+     a vein? It's not a vein. But now I know without a doubt because I have it down so well of how the vein feels if it's a vein.
+},
+{
+    268.2,269.6
+     So that's your AC region.
+},
+{
+    269.9,273.5
+     Next region that people like to stick IVs in is the forearm.
+},
+{
+    273.5,276.2
+     Tip-flip forearm is from here to here.
+},
+{
+    276.2,278.1
+     So that's the forearm area.
+},
+{
+    279.3,281.4
+     There's a lot of veins in the forearm.
+},
+{
+    282.2,287.4
+     On this person, he has a a really really nice vein right here.
+},
+{
+    287.4,294.22
+     It's very large, a little bit of a skinnier one right here and then some more
+},
+{
+    294.22,299.54
+     in this area. Typically people like to go in this area but I have seen them on the
+},
+{
+    299.54,306.64
+     top of the arm. Not a lot of people have superficial bangs on the top of the arm and then on the back of the arm too.
+},
+{
+    308.08,317.04
+     There's some. If you have a man and he is hairy like this you'll want to like shave it with not the
+},
+{
+    317.04,323.12
+     straight blade but just little clippers and just trim the hair so whenever you do get your IV you
+},
+{
+    323.12,329.08
+     can tape it down because I've seen a lot of times where you take down the IV and the tape comes unloose
+},
+{
+    329.08,333.8
+     within an hour or two and you lose your IV so that's always disheartening when
+},
+{
+    333.8,336.84
+     you lose an IV because you didn't tape it down right so typically just clip the
+},
+{
+    336.84,342.44
+     hairs on a male patient if they have long hair. Next is your hand. People really
+},
+{
+    342.44,345.9
+     love to start IVs in the hand because the hand does not
+},
+{
+    345.9,351.44
+     have a lot of fat in it so they're really superficial and you can find them
+},
+{
+    351.44,357.58
+     very well. So in this person he has really nice hand veins but a problem with
+},
+{
+    357.58,362.32
+     the hand veins is when you start an IV these veins like to roll. So let me give
+},
+{
+    362.32,365.6
+     you some tips on how to prevent a rolling
+},
+{
+    365.6,369.36
+     vein. First of all, whenever you're assessing your veins, you want to make
+},
+{
+    369.36,373.52
+     sure it isn't a roller. How you can tell if a vein is a roller, you'll take your
+},
+{
+    373.52,379.2
+     finger and just sort of mess with it. And whenever you mess with it, do you see
+},
+{
+    379.2,386.0
+     how these, see how that vein right there, like, so rolls side to side. Okay, what's gonna happen?
+},
+{
+    386.0,389.0
+     If we didn't use this trick, I'm gonna show you.
+},
+{
+    389.0,392.0
+     If I poked him with a needle, or I poked the skin,
+},
+{
+    392.0,396.0
+     whenever I poked it, it would go to the side like that, okay?
+},
+{
+    396.0,400.0
+     And then your needle would go beside of the vein and set it in it.
+},
+{
+    400.0,403.0
+     And then it would roll, you'd miss, and you'd have to trial it over.
+},
+{
+    403.0,407.4
+     So what you would do is you have the patient hold their hand nice tight fist and
+},
+{
+    408.44,411.48
+     See it keeps really really tight
+},
+{
+    411.48,416.84
+     So whenever I stick him with this need with the needle it wouldn't roll less likely to roll
+},
+{
+    416.84,420.48
+     So that's always a tip now if you were starting it up in the forearm
+},
+{
+    420.48,425.64
+     And it was a rolling vein you could just keep it taut like that. Just
+},
+{
+    425.64,431.24
+     do your hand out like that and keep it taut and then poke it with a needle and
+},
+{
+    431.24,434.64
+     it should keep it from rolling. Sometimes veins are going to roll and it's just
+},
+{
+    434.64,438.24
+     going to happen but those are some little tips and tricks on how to prevent
+},
+{
+    438.24,442.24
+     that. And then whenever you're done of course starting your IV you'll pop the
+},
+{
+    442.24,447.84
+     turn it off real fast and then you're done, of course, starting your IV. You'll pop the turnip off real fast, and then you're done.
+},
+{
+    449.6,450.98
+     So that was just a little bit, some of the tips and tricks I've learned
+},
+{
+    450.98,454.36
+     over my nursing career on how to find a vein.
+},
+{
+    454.36,455.48
+     They've helped me throughout the year,
+},
+{
+    455.48,458.52
+     and I've increased my success rate with starting IVs.
+},
+{
+    458.52,460.52
+     I will be making a video on how to start IVs,
+},
+{
+    460.52,461.8
+     so please check that out.
+},
+{
+    461.8,463.84
+     And thank you so much for watching.
+},
+{
+    463.84,470.38
+     And if you like this video, please share it and subscribe to my youtube channel and be sure to visit my website register nurse rn.com
+},
+{
+    470.7,472.7
+     for a bunch of nursing tips and
+},
+{
+    473.44,475.44
+     Anything to help with your nursing school. Thanks
+},

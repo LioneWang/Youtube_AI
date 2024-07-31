@@ -1,0 +1,204 @@
+{
+    0.0,17.0
+     Music
+},
+{
+    17.0,26.6
+     Bone densitometry, or dual x-ray absorptiometry, is a radiological technique using low-intensity X-rays.
+},
+{
+    26.6,33.72
+     It measures the bone mineral content in grams per surface area unit in square centimeters.
+},
+{
+    33.72,39.56
+     Bone mineral density increases from birth until the age of 20 to 25, then remains stable
+},
+{
+    39.56,51.0
+     until the age of 35 to 40, and then progressively diminishes. Osteoporosis is a skeletal disease characterized by low bone mineral density and progressive
+},
+{
+    51.0,57.32
+     deterioration of the bone tissue's micro-architecture, with an increasing fracture risk.
+},
+{
+    57.32,62.76
+     Therefore, it is important to both measure bone mineral density as well as to determine
+},
+{
+    62.76,66.0
+     if the patient has any undetected vertical fractures.
+},
+{
+    66.0,69.0
+     This film is intended for anyone wishing to know more
+},
+{
+    69.0,72.0
+     about the examination procedure that lasts approximately
+},
+{
+    72.0,76.0
+     20 minutes and does not require any injection.
+},
+{
+    80.0,83.0
+     This device will determine your bone density by generating
+},
+{
+    83.0,85.0
+     four X-ray images.
+},
+{
+    85.0,88.0
+     It's painless and lasts no longer than 15 to 20 minutes.
+},
+{
+    88.0,91.0
+     As metal items can interfere with the quality of the x-rays,
+},
+{
+    91.0,95.0
+     I would like you to remove your clothes and any jewelry you might be wearing.
+},
+{
+    95.0,96.0
+     Okay.
+},
+{
+    96.0,100.0
+     Osteoporosis develops silently until one day a fracture may occur,
+},
+{
+    100.0,104.0
+     usually without any related trauma such as a simple fall.
+},
+{
+    104.0,105.84
+     Fractures resulting
+},
+{
+    105.84,112.08
+     from osteoporosis affect mainly vertebrae, hips and wrists. After the age of 50, one
+},
+{
+    112.08,117.76
+     woman out of every two and one man out of five will experience a bone fracture resulting
+},
+{
+    117.76,123.64
+     from a mild trauma. This constitutes a real public health problem. In Europe, a man or
+},
+{
+    123.64,128.92
+     a woman suffers from an osteoporosis-related bone fracture every 30 seconds.
+},
+{
+    128.92,133.0
+     Please slightly lift your feet, place them apart, then down there.
+},
+{
+    133.0,137.08
+     The technologist prepares the patient on the examination table.
+},
+{
+    137.08,142.24
+     We'll now use a special cushion to position your leg to get the best possible picture of your hip.
+},
+{
+    142.24,146.48
+     He will now scan the hip. This procedure is absolutely painless.
+},
+{
+    148.08,150.88
+     We usually scan three different areas of the body,
+},
+{
+    150.88,154.18
+     the hip, the lumbar spine, and the distal forearm.
+},
+{
+    155.6,157.68
+     We're starting now, so please don't move.
+},
+{
+    161.72,163.6
+     Lift your arms behind your head.
+},
+{
+    163.6,168.0
+     Potential vertebral fractures are detected using an additional picture of the spine.
+},
+{
+    170.0,175.0
+     The exam is over. You can get down now and we will measure your forearm.
+},
+{
+    175.0,180.0
+     The radiation level produced by a bone-dense-autometry scan is very small
+},
+{
+    180.0,185.1
+     and is fairly equivalent to the natural radiation dose received during a transatlantic
+},
+{
+    185.1,190.02
+     flight or a week in the mountains. Sometimes we need to acquire an extra picture of your
+},
+{
+    190.02,196.6
+     whole body. Aside from age, menopause and heredity, smoking or long-term oral cortisone treatments
+},
+{
+    196.6,203.92
+     or previous bone fractures may also represent risk factors of osteoporosis and fractures.
+},
+{
+    203.92,205.0
+     Do you smoke?
+},
+{
+    205.0,206.32
+     No.
+},
+{
+    206.32,212.48
+     The technologist completes the personal risk factor questionnaire with the patient.
+},
+{
+    212.48,214.72
+     Have you ever been treated with cortisone?
+},
+{
+    214.72,215.72
+     No.
+},
+{
+    215.72,217.92
+     Well, that's it.
+},
+{
+    217.92,218.92
+     Perfect.
+},
+{
+    218.92,227.0
+     A specialized physician will then analyze the images in detail with the technologist. L1, 9, 8, 7, 6.
+},
+{
+    227.0,230.0
+     Here we can define as high as the sixth thoracic vertebra.
+},
+{
+    230.0,234.0
+     A full medical report will be sent to the referring to physician.
+},
+{
+    234.0,238.0
+     We can see here that the first lumbar vertebra is fractured.
+},
+{
+    238.0,None
+     This is the only fracture diagnosed in this measurement. It was so sensei-mush.
+},

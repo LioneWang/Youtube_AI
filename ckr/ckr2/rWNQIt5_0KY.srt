@@ -1,0 +1,40 @@
+{
+    0.0,15.0
+     Olecronombocytus, commonly known as Popeyes elbow, is a condition characterized by inflammation
+},
+{
+    15.0,19.6
+     of the elbow bursa.
+},
+{
+    19.6,23.72
+     Wrapping a compression bandage around the affected area can help reduce symptoms and
+},
+{
+    23.72,28.1
+     decrease swelling. It is recommended to wrap more tight towards the bottom of the
+},
+{
+    28.1,33.28
+     elbow and not as tight as you progress further up the arm.
+},
+{
+    35.8,40.9
+     Rest is recommended but if you have to remain active an athletic compression
+},
+{
+    40.9,49.8
+     sleeve is recommended to protect the area.
+},
+{
+    49.8,54.76
+     During the recovery process, it is recommended to ice for 15 to 20 minutes for 1 to 2 times
+},
+{
+    54.76,61.0
+     per day to reduce swelling and symptoms. Effective treatment should yield results after 2 to 8
+},
+{
+    61.0,66.56
+     weeks. So we can continue to make these free educational videos, please subscribe to our channel.
+},

@@ -1,0 +1,100 @@
+{
+    0.0,8.52
+     A break or crack in a bone is called a fracture. A broken bone that does not punch the skin
+},
+{
+    8.52,13.32
+     is called a closed fracture. For sometimes a bone can punch the skin, this is called
+},
+{
+    13.32,18.56
+     an open fracture. Even if you can't see any blood, the break will have caused some internal
+},
+{
+    18.56,23.36
+     bleeding and the injured person may develop shock. Bones that are still growing, like
+},
+{
+    23.36,25.0
+     children's bones, are supple
+},
+{
+    25.0,29.68
+     and can split, crack or bend quite easily, a bit like a twig, but the injury is still
+},
+{
+    29.68,36.18
+     very painful. If you think someone has a fracture, you may see swelling and bruising. They may
+},
+{
+    36.18,41.08
+     have difficulty moving and have movement in an unnatural direction. The limb may look
+},
+{
+    41.08,47.0
+     shorter, twisted or bent. There may be a grating noise or feeling if the limb is moved.
+},
+{
+    47.0,51.0
+     Have loss of strength or see signs of shock.
+},
+{
+    52.0,56.0
+     If you think you've broken a bone, support the injured part to stop it from moving.
+},
+{
+    56.0,60.0
+     This should help ease the pain and prevent any further damage.
+},
+{
+    60.0,63.0
+     Place padding around the injury for extra support.
+},
+{
+    63.0,68.64
+     If it's an open fracture, cover the wound with a sterile dressing and secure it with a bandage.
+},
+{
+    68.64,73.6
+     Apply pressure around the wound and not over the protruding bone to control any bleeding.
+},
+{
+    73.6,76.8
+     Call 999 or 112 for emergency help.
+},
+{
+    76.8,81.84
+     While you're waiting for help to arrive, don't move the casualty unless they're in immediate danger.
+},
+{
+    81.84,121.16
+     Support the injured area, for example fractures on the arm can be secured against the uninjured leg with a triangular bandage.
+},
+{
+    121.16,129.16
+     Keep checking the person for signs of shock, but do not raise an injured leg. If necessary raise the uninjured leg. If they become unresponsive at any point
+},
+{
+    129.16,135.56
+     prepare to treat an unresponsive casualty. So remember pad and support the
+},
+{
+    135.56,140.84
+     injured area, use a sling or triangular bandage to keep it secure, cover any wounds
+},
+{
+    140.84,145.84
+     call 999 or 112 and that's how you treat someone with a fracture.
+},
+{
+    148.0,150.0
+     If this video has been helpful to you,
+},
+{
+    150.0,152.56
+     help support St John Ambulance by going to
+},
+{
+    152.56,166.0
+     sha.org.uk forward slash donate. Music
+},

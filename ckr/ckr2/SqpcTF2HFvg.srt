@@ -1,0 +1,44 @@
+{
+    0.0,9.56
+     I'm Brianna and today we are going to discuss the things that you need to know if you find
+},
+{
+    9.56,11.24
+     a person choking.
+},
+{
+    11.24,14.52
+     This is choking Charlie who's going to help me with the demonstration.
+},
+{
+    14.52,18.64
+     The universal sign for choking is the hands crossed at the neck.
+},
+{
+    18.64,22.28
+     If they are coughing then they are able to breathe and you would not perform the Heimlet
+},
+{
+    22.28,24.0
+     maneuver on them.
+},
+{
+    24.0,29.38
+     In order to do this you stand behind the person and make a fist with your thumb pointing
+},
+{
+    29.38,31.12
+     back against you.
+},
+{
+    31.12,34.76
+     Midline between the belly button and the rib cage.
+},
+{
+    34.76,42.12
+     Grasp that fist with your other hand and pull back and up quickly until the object is expelled
+},
+{
+    42.12,46.52
+     or the person loses consciousness and needs to be lowered to the ground to begin CPR.
+},

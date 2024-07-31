@@ -1,0 +1,160 @@
+{
+    0.0,31.28
+     Hi, I'm Shuin. I'm your physiotherapist for today. I'm going to teach you how to adjust
+},
+{
+    31.28,41.34
+     your crutch according to your height. The correct height of a crutch should be 3 fingers
+},
+{
+    41.34,45.2
+     spacing between the armpit and the top of the pad. The correct height of the hand pad Sebaiknya adalah 3 spesial tangan antara angka dan atas peta.
+},
+{
+    45.7,50.2
+     Hebat yang sesuai dari peta tangan di sini sebaiknya adalah di lelaki kawasan.
+},
+{
+    52.2,57.7
+     Hebat yang sesuai dari peta tangan dan peta tangan di sini sebaiknya adalah sekitar 6 inci.
+},
+{
+    61.4,63.3
+     Untuk menerima hebat yang sesuai dari peta tangan,
+},
+{
+    63.3,65.4
+     menemukan dua batang silam.
+},
+{
+    65.4,69.9
+     Pempatkan batang silam dan memasukkan kacauan kacauan.
+},
+{
+    69.9,71.9
+     Sebenarnya.
+},
+{
+    75.9,78.4
+     Untuk memasukkan kacauan kacauan,
+},
+{
+    78.4,80.9
+     menutupkan kacauan.
+},
+{
+    81.0,86.0
+     Kekot kaki.
+},
+{
+    87.0,88.0
+     Dibuatkan kawasan.
+},
+{
+    91.0,92.0
+     Dan menjadikan kawasan kawasan kawasan.
+},
+{
+    94.0,95.0
+     Ketepikan kawasan.
+},
+{
+    96.0,112.8
+     Dan kawasan kawasan. I'm going to teach you how to stand up from a seated position in a non-wig-faring situation.
+},
+{
+    112.8,120.72
+     First, place two crutches together, have one hand on the crutch, one hand on the chair,
+},
+{
+    120.72,123.28
+     and push yourself up.
+},
+{
+    123.28,126.16
+     Remember not to place any weight on your affected leg.
+},
+{
+    126.16,131.16
+     Once you have stated yourself, place the crutches under your armpit.
+},
+{
+    131.16,145.0
+     Have the crutches about six inches away from your leg. Remember not to press your armpit down on the crutch to avoid any nerve injury.
+},
+{
+    149.0,153.0
+     To sit down, move close to the chair.
+},
+{
+    153.0,159.0
+     To the back of your knee touches the chair, place both crutches together and have one
+},
+{
+    159.0,164.0
+     hand on the chair and lower yourself down slowly.
+},
+{
+    171.6,173.52
+     chair and lower yourself down slowly. To start walking, place your crutch one arm length forward,
+},
+{
+    206.0,208.0
+     push down on the hand pad and top forward. Kekututkan kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlukan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kaki yang diperlunakan untuk membuat kawasan dan ambil kawasan dengan kawasan yang tidak dihubungi.
+},
+{
+    208.0,210.0
+     Kepalau kawasan.
+},
+{
+    220.0,222.0
+     Untuk menghubungi kawasan,
+},
+{
+    222.0,224.0
+     bawa kawasan yang tidak dihubungi.
+},
+{
+    224.0,225.0
+     Pilih kawasan yang tidak dihubungi. Untuk mengeruskan stesen, bawa lepaskan ke dalam jat.
+},
+{
+    225.0,231.0
+     Teruskan kacauan ke dalam jat dan ke bawah dengan lepaskan yang baik.
+},
+{
+    241.0,242.0
+     Di dalam perjalanan jangkauan,
+},
+{
+    242.0,249.0
+     anda dapat menggunakan jangkauan untuk membantu anda mengeruskan dan ke bawah stesen. In the presence of a handrail, you can use the handrail to help you up and down the stairs.
+},
+{
+    249.0,256.0
+     First, move to the base of the stairs.
+},
+{
+    256.0,268.0
+     Hold both crutches with one hand and the other hand on the handrail. Kemudian di tangan. Pusah di atas kacang dan di tangan dan ambilkan kegeraian dengan lada.
+},
+{
+    284.0,285.0
+     Untuk meneruskan staz, mengembangkan berdua dengan satu tangan
+},
+{
+    285.0,288.0
+     Dan tangan yang lain di tangan tangan
+},
+{
+    288.0,291.0
+     Bawa tangan yang telah dikembangkan
+},
+{
+    291.0,295.0
+     Untuk kembangkan ke dalam satu staz, mengembangkan dengan tangan yang telah dikembangkan
+},
+{
+    302.0,None
+     non-injecting.
+},

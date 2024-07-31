@@ -1,0 +1,80 @@
+{
+    0.0,9.44
+     Asma is an inflammatory process that creates swelling in the airways and makes it difficult
+},
+{
+    9.44,10.44
+     for a child to breathe.
+},
+{
+    10.44,15.32
+     An Asma inhaler is a medical device used to deliver rescue medicine directly into a patient's
+},
+{
+    15.32,16.32
+     lungs.
+},
+{
+    16.32,20.44
+     Children age 12 and younger should use an Asma inhaler with a spacer and a mask.
+},
+{
+    20.44,24.56
+     A spacer is a chamber that holds the medicine so it is easier for a child to breathe it
+},
+{
+    24.56,25.0
+     in.
+},
+{
+    25.0,27.0
+     Today we're focusing on bronchodilators.
+},
+{
+    27.0,31.0
+     Bronchodilators are rescue medicines that will help your child if they're having a severe asthma attack.
+},
+{
+    31.0,36.0
+     Bronchodilators will ease your child's work of breathing and stop the shortness of breath.
+},
+{
+    36.0,40.0
+     Signs of an asthma attack are shortness of breath, cough, wheezing, and chest tightness.
+},
+{
+    40.0,43.0
+     Please be sure to check with your doctor if your child has asthma.
+},
+{
+    43.0,47.0
+     You should only use an asthma rescue inhaler if you've been diagnosed with asthma by your physician.
+},
+{
+    47.0,50.0
+     When you receive your asthma inhaler, make sure you prime it.
+},
+{
+    50.0,55.0
+     Remove the cap and pump it four times to make sure the medicine is coming out of the mouthpiece.
+},
+{
+    55.0,58.0
+     Insert the inhaler in the opening at the end of the spacer.
+},
+{
+    58.0,62.0
+     Gently push down on the inhaler once as your child inhales.
+},
+{
+    62.0,68.58
+     Have your child breathe normally six to ten times. Your child does not have to do any extreme exertion. Once your child is
+},
+{
+    68.58,73.0
+     taking the deep breath, make sure you see the flap moving back and forth. Repeat
+},
+{
+    73.0,80.1
+     this step again for a total of two puffs. Two puffs equals one treatment.
+},

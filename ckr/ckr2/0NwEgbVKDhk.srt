@@ -1,0 +1,96 @@
+{
+    0.0,9.32
+     Knives are extremely useful tools, but if you use a knife chances are at some point you'll
+},
+{
+    9.32,11.22
+     likely cut yourself.
+},
+{
+    11.22,14.6
+     Accidents happen, so what do you do when you get cut?
+},
+{
+    14.6,18.12
+     Proper knife safety will help prevent accidental cuts.
+},
+{
+    18.12,22.24
+     Knives should be used with respect and care and for their intended purpose, always cut
+},
+{
+    22.24,30.74
+     away from your body and re-sheath or close your knife when not in use. Since hands and fingers are closest to the blade when using a knife,
+},
+{
+    30.74,36.24
+     the majority of knife injuries occur here. Knife injuries come in two forms, cuts and
+},
+{
+    36.24,42.08
+     lacerations or punctures. Lacerations are long tears in the skin and are usually shallow,
+},
+{
+    42.08,46.78
+     whereas punctures have a small entry point and can disguise a deep wound.
+},
+{
+    46.78,52.98
+     If you do cut yourself, remain calm and take these steps to treat your injury.
+},
+{
+    52.98,55.82
+     The first thing you want to do is stop the bleeding.
+},
+{
+    55.82,59.82
+     Apply direct and constant pressure to the wound for 15 minutes.
+},
+{
+    59.82,63.54
+     Use gauze, a clean cloth, or your hand as a last resort.
+},
+{
+    63.54,68.88
+     You can also elevate the wound above your heart to help stop the bleeding. To clean the wound use clean
+},
+{
+    68.88,73.88
+     water and mild soap to wash out any dirt and bacteria. Lastly seal the wound.
+},
+{
+    73.88,78.76
+     Apply antibiotic ointment if available and use a sterile bandage and secure it
+},
+{
+    78.76,83.04
+     with tape. Now not all knife injuries are minor so how do you know if it's a
+},
+{
+    83.04,89.56
+     serious injury? Deep cuts or puncture wounds to vital areas of the body, such as the head, face, throat,
+},
+{
+    89.56,93.16
+     or stomach, chest, and back, are especially dangerous.
+},
+{
+    93.16,98.56
+     If there is heavy bleeding, visible muscle or bone, spurting blood, numbness, or loss
+},
+{
+    98.56,104.92
+     of sensation, or a digit has been amputated, you should seek out medical attention.
+},
+{
+    104.92,105.0
+     Knowing how to treat a minor knife wound is much easier with proper first aid, so make When the digit has been amputated, you should seek out medical attention.
+},
+{
+    105.0,109.0
+     Knowing how to treat a minor knife wound is much easier with proper first aid, so make
+},
+{
+    109.0,112.0
+     sure you have a first aid kit with you when using a knife.
+},

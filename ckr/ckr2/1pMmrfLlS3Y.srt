@@ -1,0 +1,132 @@
+{
+    0.0,7.32
+     Sore nipples might discourage you from breastfeeding, but with education, adjustments, and practice,
+},
+{
+    7.32,12.32
+     these issues can be corrected and make breastfeeding enjoyable for you and your baby. Be patient
+},
+{
+    12.32,16.06
+     with yourself and your baby remembering that you're both learning.
+},
+{
+    16.06,21.48
+     Look for feeding cues and try to latch your baby on before they get upset and start screaming.
+},
+{
+    21.48,28.2
+     Conely stroke and talk to your baby. Experiment with different positions to find those that work best for you both.
+},
+{
+    28.2,32.6
+     Know that it's normal to feel intense burning or stinging for the first 30 to 60 seconds
+},
+{
+    32.6,37.08
+     or so of a nursing session for the first two weeks of your baby's life.
+},
+{
+    37.08,42.52
+     But if you continue to feel pain past that point, your baby might be latched improperly.
+},
+{
+    42.52,45.04
+     Talk with a lactation specialist who can help you determine
+},
+{
+    45.04,49.16
+     if an improper latch is contributing to the pain that you're experiencing.
+},
+{
+    49.16,54.2
+     Most women do have sore nipples in the beginning. To relieve this discomfort, either express
+},
+{
+    54.2,58.44
+     some of your own breast milk or colostrum and rub that into your nipples or use a lanolin
+},
+{
+    58.44,63.92
+     cream. Put a small amount on your finger and rub it in well. Use nipple creams that are
+},
+{
+    63.92,67.72
+     specifically designed for breastfeeding because they're purified and you don't have to
+},
+{
+    67.72,72.36
+     wash them off before your baby's next feeding. You can also use black tea bags.
+},
+{
+    72.36,78.56
+     Soak the tea bags, get them very moist and wet, squeeze out the excess water, then
+},
+{
+    78.56,82.4
+     place it on your nipple with a nursing pad over it and leave it there for 15
+},
+{
+    82.4,85.24
+     minutes. Take it off and wipe your nipples
+},
+{
+    85.24,91.4
+     clean. Dry them off and then put ointment on. Sailing soaks work well too. Mix one
+},
+{
+    91.4,95.52
+     cup of warm water with one teaspoon of salt and let the salt dissolve into the
+},
+{
+    95.52,100.36
+     water. Pour it onto the nursing pad and let it soak in then put that pad on your
+},
+{
+    100.36,104.72
+     nipple and let it sit for about 15 minutes. When you're finished gently
+},
+{
+    104.72,106.08
+     wipe your nipples off,
+},
+{
+    106.08,112.64
+     let them air dry, and then you can apply lamylin cream. Comfort gel pads work too. If your nipples
+},
+{
+    112.64,118.56
+     are not healing, if they're becoming cracked, scabbed, or bleeding, get help from a lactation
+},
+{
+    118.56,127.34
+     consultant. After your baby is done nursing or between nursing sessions, you might notice that your baby likes to passively suck.
+},
+{
+    127.34,133.52
+     This is called non-nutritive sucking and babies do it because it brings them comfort.
+},
+{
+    133.52,138.24
+     Encourage nutritive sucking, which is when your baby is sucking deeply, drinking and
+},
+{
+    138.24,140.0
+     swallowing.
+},
+{
+    140.0,144.24
+     Always be sure to break the suction or seal with your finger before removing the baby
+},
+{
+    144.24,145.64
+     from the breast. If you pull your baby your finger before removing the baby from the breast.
+},
+{
+    145.64,149.56
+     If you pull your baby off or they pull themselves off from the breast, it can actually cause
+},
+{
+    149.56,150.86
+     damage to your breast tissue.
+},

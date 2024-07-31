@@ -1,0 +1,120 @@
+{
+    0.0,6.68
+     Just like any gland in the body, the salivary gland can become infected or obstructed with
+},
+{
+    6.68,9.78
+     a stone, causing swelling and pain.
+},
+{
+    9.78,14.88
+     There are two main salivary glands in the body called the parotid gland in purple, located
+},
+{
+    14.88,22.38
+     in the cheek and the subminibular gland located under the jawline in green.
+},
+{
+    22.38,29.4
+     The subminibular gland drains out through an opening under the tongue tip, whereas the
+},
+{
+    29.4,33.2
+     parodic gland drains out through an opening in the cheek.
+},
+{
+    33.2,37.96
+     If the gland swells due to an obstructed stone, the salivary gland will fluctuate in size
+},
+{
+    37.96,43.28
+     becoming much larger with eating, followed by decreasing size after eating.
+},
+{
+    43.28,46.48
+     But if the gland is infected, such size fluctuation will
+},
+{
+    46.48,53.52
+     not occur. Regardless whether the salivary gland is inflamed a due to a stone or infection,
+},
+{
+    53.52,57.52
+     there are a few things you can start doing at home immediately to treat this problem.
+},
+{
+    59.92,61.84
+     Number one, drink lots of water.
+},
+{
+    62.24,66.04
+     Number one, drink lots of water.
+},
+{
+    73.04,75.54
+     With water, you are trying to thin out the saliva as much as possible to either help flush the infection out of the salivary gland or to help push the stone out.
+},
+{
+    75.54,85.84
+     If you are dehydrated, the saliva becomes thicker, making it harder to pass just like it is harder to suck on a milkshake compared to water through a straw. To reiterate, drink
+},
+{
+    85.84,91.44
+     lots of water, not just one large cup, but multiple large cups a day.
+},
+{
+    91.44,96.92
+     Number 2. Massage the area. With massage, you are manually helping to push the stone or
+},
+{
+    96.92,105.88
+     infection out of the gland. Always massage from the back towards the front. If the parotid gland is involved, massage from the ear towards the lip.
+},
+{
+    112.1,114.4
+     If the sub-nebular gland is involved,
+},
+{
+    114.4,117.16
+     massage from below the ear towards the chin.
+},
+{
+    126.9,131.44
+     Number three, use worm compresses.
+},
+{
+    131.44,134.78
+     Apply worm compresses to the affected salivary gland.
+},
+{
+    134.78,141.34
+     With worm compresses, you are opening up the salivary gland to help with salivary flow.
+},
+{
+    141.34,142.34
+     Number 4.
+},
+{
+    142.34,149.68
+     Suck on Sour Candy Sucking on sour candy like lemon drops many
+},
+{
+    149.68,154.56
+     times a day increases salivary production more than any other flavor to help push a
+},
+{
+    154.56,160.24
+     stone out or to help flush the infection out of the gland if infected. Of course, with
+},
+{
+    160.24,170.04
+     an infection beyond these four steps antibiotics with or without steroids may be needed so make sure you make an appointment to see your doctor if that's the case.
+},
+{
+    170.04,174.76
+     Keep in mind that it is not uncommon for complete salivary gland swelling to take a few weeks
+},
+{
+    174.76,175.52
+     to resolve.
+},

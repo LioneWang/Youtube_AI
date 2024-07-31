@@ -1,0 +1,936 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.02
+     on the internet.
+},
+{
+    9.26,11.2
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    11.2,12.4
+     Brad Heineck, physical therapist.
+},
+{
+    12.4,14.08
+     Because we are the most famous physical therapists
+},
+{
+    14.08,14.92
+     on the internet.
+},
+{
+    14.92,16.6
+     In our opinion, of course, Bob.
+},
+{
+    16.6,18.16
+     Today we're gonna talk about five tests
+},
+{
+    18.16,21.0
+     to determine if you have a pinched nerve in your neck.
+},
+{
+    21.0,22.4
+     Let's get right into it, Brad.
+},
+{
+    22.4,23.56
+     So. Yeah, why waste time?
+},
+{
+    23.56,26.32
+     A pinched nerve means there's pressure applied
+},
+{
+    26.32,28.56
+     to a nerve as it's exiting the neck.
+},
+{
+    28.56,29.4
+     Right.
+},
+{
+    29.4,31.56
+     It comes into your arms and provides sensation
+},
+{
+    31.56,32.68
+     and strength.
+},
+{
+    32.68,35.02
+     Now the pressure could be from a disc.
+},
+{
+    35.02,37.4
+     It could be from a bony, like overgrowth.
+},
+{
+    37.4,38.24
+     You're right.
+},
+{
+    39.28,41.12
+     Spur, I suppose.
+},
+{
+    41.12,42.44
+     It could be from muscle even.
+},
+{
+    42.44,43.8
+     Muscle been tightened up over.
+},
+{
+    43.8,46.2
+     Some inflammation, maybe we had some trauma
+},
+{
+    46.2,47.56
+     or whatever reason, but yeah,
+},
+{
+    47.56,51.12
+     the nerve becomes irritated up here, impinged,
+},
+{
+    51.12,53.88
+     sends symptoms and pain down the arm
+},
+{
+    53.88,55.64
+     all the way to the fingertips sometimes.
+},
+{
+    55.64,57.32
+     And that's the number one thing.
+},
+{
+    57.32,59.72
+     We'll first talk about five things you might see
+},
+{
+    59.72,62.12
+     and then we'll show you the five tests.
+},
+{
+    62.12,64.36
+     You might see pain radiating to the arm,
+},
+{
+    64.36,66.88
+     especially if it goes beyond the elbow. Because might see pain radiating to the arm, and it's especially difficult to be on the elbow.
+},
+{
+    66.88,69.72
+     Because regular pain can even go to the elbow.
+},
+{
+    69.72,72.28
+     Or sometimes shoulder pain will radiate died.
+},
+{
+    72.28,74.3
+     Typically to the elbow.
+},
+{
+    74.3,78.8
+     If you have hand, arm, or shoulder weakness,
+},
+{
+    78.8,81.44
+     that could be a pinched nerve.
+},
+{
+    81.44,82.44
+     It could be other things too,
+},
+{
+    82.44,84.4
+     so you always wanna make sure you go into a doctor
+},
+{
+    84.4,85.32
+     to check these things out.
+},
+{
+    85.32,89.88
+     If you have numbness or decreased sensation
+},
+{
+    89.88,92.24
+     in your arm, wrist or hand.
+},
+{
+    92.24,95.04
+     Now this again could be carpal tunnel or-
+},
+{
+    95.04,99.84
+     Yeah, they overlap and this is one of those tough ones
+},
+{
+    99.84,101.64
+     that's not always easy to clarify.
+},
+{
+    101.64,104.2
+     Yeah, it could be pinched nerve anywhere.
+},
+{
+    104.2,106.08
+     You know, it could be a pinched nerve in your elbow
+},
+{
+    106.08,110.12
+     that can send pain down to your forearm and hand.
+},
+{
+    110.12,111.96
+     All right, if you have tingling,
+},
+{
+    111.96,113.76
+     pins and needles sensations,
+},
+{
+    113.76,116.22
+     the same thing down in this area,
+},
+{
+    116.22,118.92
+     that would often, or can be a sign
+},
+{
+    118.92,120.44
+     of a pinched nerve in the neck.
+},
+{
+    120.44,122.52
+     So sometimes you have both.
+},
+{
+    122.52,125.0
+     Pain in the arm, wrist and hand
+},
+{
+    126.32,130.08
+     which is aggravated by any neck movements.
+},
+{
+    130.08,133.64
+     So like if you move your neck and oh, that hurts down here.
+},
+{
+    133.64,137.28
+     That's a pretty good sign actually that you have a pinched nerve.
+},
+{
+    138.68,141.12
+     Before you finish, I wanna add one more I think.
+},
+{
+    141.12,144.52
+     All right, feeling the hand fall asleep,
+},
+{
+    144.52,146.72
+     which you know, my hand will fall asleep
+},
+{
+    146.72,148.96
+     if I sleep with my arms up over him.
+},
+{
+    148.96,149.8
+     I had it.
+},
+{
+    149.8,150.64
+     Right, yeah.
+},
+{
+    150.64,152.32
+     But if it's falling asleep
+},
+{
+    152.32,154.56
+     and you're not really doing anything to it,
+},
+{
+    154.56,156.4
+     it could be a pinch of the arm.
+},
+{
+    156.4,157.4
+     Turn around once Bob.
+},
+{
+    157.4,158.24
+     Sure.
+},
+{
+    158.24,160.6
+     Another all the way around.
+},
+{
+    160.6,161.44
+     All right.
+},
+{
+    161.44,165.0
+     So if you're having pain in the shoulder blade area,
+},
+{
+    165.76,169.44
+     that's a good possibility it's coming from the low neck too.
+},
+{
+    169.44,173.2
+     Typically shoulder pain goes down the armor in front,
+},
+{
+    173.2,175.52
+     it doesn't refer backwards.
+},
+{
+    175.52,178.08
+     So that's another thing to keep in mind as well.
+},
+{
+    178.08,179.4
+     And sometimes you get shoulder pain
+},
+{
+    179.4,180.84
+     and then it radiates down.
+},
+{
+    180.84,182.0
+     Right, right.
+},
+{
+    182.0,183.56
+     So good point Brad.
+},
+{
+    183.56,187.68
+     So all right, I'm gonna have Mike now put up an image
+},
+{
+    187.68,189.56
+     of the nerves in your hand.
+},
+{
+    189.56,192.4
+     We have what is called dermatones in our hands.
+},
+{
+    192.4,194.64
+     And when you have,
+},
+{
+    194.64,198.52
+     each nerve provides sensation to a certain part of the hand.
+},
+{
+    198.52,202.16
+     So like the medium nerve is more like the thumb
+},
+{
+    202.16,205.0
+     and the two and a half digits, you know?
+},
+{
+    207.4,210.7
+     So if there's numbness and tingling or pain in this area,
+},
+{
+    210.7,212.62
+     that might be your median nerve.
+},
+{
+    212.62,214.92
+     All their nerve is over on this side.
+},
+{
+    214.92,218.06
+     And then radial nerve is in the back.
+},
+{
+    218.06,219.92
+     Right, so all three of these nerves come
+},
+{
+    219.92,222.2
+     from different levels out of the neck.
+},
+{
+    222.2,224.68
+     They go down into, they form into one nerve
+},
+{
+    224.68,226.44
+     and the brachial plexus through the shoulder
+},
+{
+    226.44,228.28
+     and then they start to branch off.
+},
+{
+    228.28,229.52
+     And it's really like a map.
+},
+{
+    229.52,231.88
+     Sure. And it can kind of give you a sensation.
+},
+{
+    231.88,233.84
+     Like, you know, if it's a median nerve,
+},
+{
+    233.84,236.96
+     that's often that is the carpal tunnel nerve.
+},
+{
+    236.96,240.84
+     So that'd be a sign that maybe you do have carpal tunnel
+},
+{
+    240.84,243.96
+     or maybe you have a pension and median nerve up in the neck.
+},
+{
+    243.96,245.18
+     Or you could have both.. Or you could have both.
+},
+{
+    245.18,246.24
+     Yep, you could have both.
+},
+{
+    246.24,248.52
+     So we're gonna show you five tests now.
+},
+{
+    248.52,250.24
+     The first one's for the median nerve.
+},
+{
+    250.24,251.08
+     Okay.
+},
+{
+    251.08,253.56
+     So you just take your arm out like this.
+},
+{
+    253.56,255.06
+     Yeah, I'm gonna smack you.
+},
+{
+    255.06,256.48
+     You bend it down like this.
+},
+{
+    256.48,259.16
+     And one thing you might find that I find quite often, Brad,
+},
+{
+    259.16,263.16
+     is that like if you have a good arm and an involved arm,
+},
+{
+    263.16,266.86
+     the good arm, the wrist will bend forward further
+},
+{
+    266.86,269.16
+     than the bad one or the involved one.
+},
+{
+    269.16,271.96
+     So you could do the bad side
+},
+{
+    271.96,274.04
+     and then go over to the side that's symptom free.
+},
+{
+    274.04,275.8
+     I'd gotta do it probably the good side first
+},
+{
+    275.8,277.16
+     so you can know what it feels like.
+},
+{
+    277.16,278.2
+     But not at the same time.
+},
+{
+    278.2,279.04
+     Not at the same time.
+},
+{
+    279.04,282.04
+     So you bend it and then you bend your neck away.
+},
+{
+    282.04,284.04
+     So you bend the wrist and then bend your neck away.
+},
+{
+    284.04,285.72
+     Balbo needs to be straight.
+},
+{
+    285.72,288.32
+     Right, yep, that's putting a lot of stress on that nerve
+},
+{
+    288.32,289.16
+     is what you're doing.
+},
+{
+    289.16,291.76
+     So same way on this side, you bend away.
+},
+{
+    291.76,294.4
+     So you get it up level and tilt your head away.
+},
+{
+    294.4,295.24
+     Yep.
+},
+{
+    295.24,297.04
+     Not looking but sideways.
+},
+{
+    297.04,298.52
+     So this next one's a little weird.
+},
+{
+    298.52,299.8
+     So this is the alder nerve.
+},
+{
+    299.8,303.08
+     So to get the alder nerve, you make a circle like this
+},
+{
+    303.08,305.0
+     and you actually bring your wrist like this. Now what I found with a lot of people is they can't even get it very far. you make a circle like this and you actually bring your wrist like this.
+},
+{
+    305.0,306.9
+     Now, what I found with a lot of people is
+},
+{
+    306.9,308.12
+     they can't even get it very far.
+},
+{
+    308.12,309.86
+     They can open it like this.
+},
+{
+    309.86,311.36
+     If you're younger you can.
+},
+{
+    311.36,314.56
+     Yeah, if you got good motion of the ulnar nerve
+},
+{
+    314.56,315.4
+     you can get all of it.
+},
+{
+    315.4,317.64
+     You're trying to make an eyeglass actually.
+},
+{
+    317.64,320.26
+     But don't do this at the same time.
+},
+{
+    320.26,322.4
+     But that, you know when we were kids we used to do this.
+},
+{
+    322.4,323.24
+     Yeah, yeah, yeah.
+},
+{
+    323.24,324.72
+     That's how I remembered it in PTSD.
+},
+{
+    324.72,327.1
+     Right, so you test it,
+},
+{
+    327.1,330.22
+     and then you actually can bend away while you're doing it.
+},
+{
+    331.76,332.6
+     There you go.
+},
+{
+    332.6,334.48
+     And if that brings out pain,
+},
+{
+    334.48,336.68
+     that might be your own nerve involved.
+},
+{
+    336.68,339.24
+     Radial nerve, so you're gonna stand,
+},
+{
+    339.24,340.92
+     I'm gonna go ahead and stand on this one, Brad,
+},
+{
+    340.92,344.92
+     face away, and then you're gonna lift up like this.
+},
+{
+    344.92,346.48
+     Okay.
+},
+{
+    346.48,348.46
+     And bend away at the same time.
+},
+{
+    349.4,352.48
+     So stand, face palm away,
+},
+{
+    352.48,354.24
+     palm up to the ceiling,
+},
+{
+    354.24,355.36
+     then neck away.
+},
+{
+    356.8,358.6
+     And you should do that standing up.
+},
+{
+    358.6,360.16
+     Well, it's just, it's hard to do it here.
+},
+{
+    360.16,362.96
+     Oh, because I, so if you're off the edge like this,
+},
+{
+    362.96,364.24
+     what I'm gonna do is. Yeah, you could certainly do it.
+},
+{
+    364.24,365.84
+     I just thought we'd clarify it.
+},
+{
+    365.84,366.68
+     Yeah.
+},
+{
+    366.68,368.84
+     All right, these are a little bit easier tests,
+},
+{
+    368.84,369.88
+     I think to do.
+},
+{
+    369.88,371.38
+     So the neck compression test,
+},
+{
+    371.38,374.96
+     this is just called Spurling's test or Spurling test.
+},
+{
+    374.96,378.8
+     This is an overall to check kind of all the nerves here.
+},
+{
+    378.8,382.2
+     And what you're gonna do is you're gonna extend your head
+},
+{
+    382.2,384.32
+     and tilt to the painful side.
+},
+{
+    384.32,386.6
+     Then you can actually apply a little pressure,
+},
+{
+    386.6,387.84
+     gentle pressure.
+},
+{
+    387.84,388.68
+     Straight down.
+},
+{
+    388.68,389.52
+     Yeah, straight down.
+},
+{
+    389.52,391.96
+     You're compressing the spine together
+},
+{
+    391.96,395.4
+     and you're closing off those holes for Raymond.
+},
+{
+    395.4,399.16
+     And if there's a pinched nerve there from that area,
+},
+{
+    399.16,400.44
+     it's gonna make it worse.
+},
+{
+    400.44,403.84
+     Now, if you just do this, that might be enough
+},
+{
+    403.84,409.56
+     to irritate it and cause, you don't have to continue. You don't have to go any further then same thing if you're gonna do the other side
+},
+{
+    409.68,413.4
+     you're gonna extend the head tilt to that side and
+},
+{
+    415.88,421.64
+     You can like I said a little pressure if you want it. Yeah, typically it's the arm that's not involved because
+},
+{
+    421.84,425.88
+     The other one's gonna hurt and it kind of gets in the way. Now this is the opposite of this.
+},
+{
+    425.88,428.8
+     This is, this is once you check out,
+},
+{
+    428.8,432.28
+     see if you get relief from a position.
+},
+{
+    432.28,436.0
+     So let's say I'm having pain in this arm here.
+},
+{
+    436.0,438.4
+     I'm gonna put it on a pillow and support it.
+},
+{
+    438.4,440.44
+     And I'm gonna tilt away.
+},
+{
+    440.44,442.6
+     And now I'm opening the holes up here.
+},
+{
+    442.6,445.16
+     There's plenty of room now for the nerve to come through.
+},
+{
+    445.16,446.56
+     It's being supported.
+},
+{
+    446.56,448.96
+     And does this give you pain relief?
+},
+{
+    448.96,452.48
+     Well, if it does, then you may have a nerve issue.
+},
+{
+    452.48,455.56
+     And that's actually a lot of times
+},
+{
+    455.56,457.48
+     with people that have nerve problems,
+},
+{
+    457.48,460.32
+     I actually have them use a pill all the time.
+},
+{
+    460.32,463.08
+     Because it provides some relief,
+},
+{
+    463.08,464.6
+     even if it's a shoulder problem too.
+},
+{
+    464.6,465.8
+     Exactly. Now that one if it's a shoulder problem too. Exactly.
+},
+{
+    465.8,468.96
+     Now that one, it's possible,
+},
+{
+    468.96,470.8
+     if I got a patient and they do this
+},
+{
+    470.8,472.68
+     and it hurts down here,
+},
+{
+    472.68,475.04
+     or this sometimes that way it'll pinch it more,
+},
+{
+    475.04,476.8
+     but you know if it's a bulging disc,
+},
+{
+    476.8,479.0
+     that might actually push it out a little bit too.
+},
+{
+    479.0,481.8
+     It might, it could make it worse,
+},
+{
+    481.8,486.28
+     but generally I don't think it pushes it out enough to cause the problem,
+},
+{
+    486.28,487.76
+     but I see what you're saying.
+},
+{
+    487.76,488.72
+     I see what you're saying.
+},
+{
+    488.72,492.12
+     So really, associated neck movement creates pain in the ear.
+},
+{
+    492.12,492.96
+     Right, right.
+},
+{
+    492.96,495.56
+     It's probably up there in that purple tunnel.
+},
+{
+    495.56,497.68
+     Good point, Brad, very good point.
+},
+{
+    497.68,499.92
+     All right, this video is part of a series of videos
+},
+{
+    499.92,501.76
+     on neck pain.
+},
+{
+    501.76,502.84
+     They're all free.
+},
+{
+    502.84,504.72
+     Just go to bobandbrad.com.
+},
+{
+    504.72,507.82
+     Go to the program section and look for neck pain, they're all free. Just go to bobandbrad.com. Go to the program section, look for neck pain.
+},
+{
+    507.82,512.82
+     And Brad, along with it, we have a PDF printout
+},
+{
+    513.14,516.3
+     with a review of the video and exercises,
+},
+{
+    516.3,517.38
+     pictures of them.
+},
+{
+    517.38,520.98
+     It's a wonderful way to know exactly what you're gonna do.
+},
+{
+    520.98,522.68
+     You don't have to come back and look at us
+},
+{
+    522.68,525.28
+     and we don't expect anything from you.
+},
+{
+    525.28,527.36
+     Oh Bob, why would they wanna keep looking at us?
+},
+{
+    527.36,529.0
+     They got a piece of paper, you know?
+},
+{
+    529.0,532.48
+     Yeah, and there's like 20, 30 videos I believe on neck pain.
+},
+{
+    532.48,534.32
+     Just watch the ones that pertain to you.
+},
+{
+    534.32,535.64
+     Right, just look at the titles.
+},
+{
+    535.64,537.52
+     They're usually around 10 minutes or less.
+},
+{
+    537.52,538.36
+     So there we go.
+},
+{
+    538.36,539.44
+     This one's only nine.
+},
+{
+    539.44,540.28
+     Take care.
+},
+{
+    540.28,None
+     Thanks. Thank you.
+},

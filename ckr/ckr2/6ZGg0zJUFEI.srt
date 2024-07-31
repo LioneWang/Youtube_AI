@@ -1,0 +1,212 @@
+{
+    0.0,1.0
+     Yeah.
+},
+{
+    1.0,2.0
+     Let's do that.
+},
+{
+    2.0,3.0
+     Oh, I don't think I could do that.
+},
+{
+    3.0,4.0
+     You okay, Jeff?
+},
+{
+    4.0,5.0
+     No, I don't think I am.
+},
+{
+    5.0,6.0
+     No?
+},
+{
+    6.0,7.0
+     Oh!
+},
+{
+    7.0,8.0
+     All right.
+},
+{
+    8.0,9.0
+     But Jeff, I'm going to go get you.
+},
+{
+    9.0,10.0
+     I'm going to get you.
+},
+{
+    10.0,11.0
+     I'm going to get you.
+},
+{
+    11.0,12.0
+     I'm going to get you.
+},
+{
+    12.0,13.0
+     I'm going to get you.
+},
+{
+    13.0,14.0
+     I'm going to get you.
+},
+{
+    14.0,15.0
+     I'm going to get you.
+},
+{
+    15.0,16.0
+     I'm going to get you.
+},
+{
+    16.0,17.0
+     I'm going to get you.
+},
+{
+    17.0,18.0
+     I'm going to get you.
+},
+{
+    18.0,19.0
+     I'm going to get you.
+},
+{
+    19.0,20.0
+     I'm going to get you.
+},
+{
+    20.0,21.0
+     I'm going to get you.
+},
+{
+    21.0,22.0
+     I'm going to get you.
+},
+{
+    22.0,23.0
+     I'm going to get you.
+},
+{
+    23.0,24.0
+     I'm going to get you.
+},
+{
+    24.0,25.0
+     I'm going to get you. I'm going to get you. I'm going to get you. I'm going to get you. I'm't think I have. No?
+},
+{
+    25.0,27.0
+     Oh!
+},
+{
+    27.0,28.0
+     Alright.
+},
+{
+    29.0,32.0
+     But Geoff, I'm going to need you to get down on the floor for me please.
+},
+{
+    32.0,34.0
+     Oh, oh, oh, it's hurting.
+},
+{
+    34.0,36.0
+     Alright, just lower yourself down.
+},
+{
+    39.0,46.0
+     Geoff, I'm going to get some help, okay? Ah! Ah!
+},
+{
+    46.0,48.0
+     Ah!
+},
+{
+    48.0,50.0
+     Ah!
+},
+{
+    50.0,52.0
+     Ah!
+},
+{
+    52.0,54.0
+     But Jeff, I've got you an aspirin. I'm going to need you to bring your knees up.
+},
+{
+    54.0,56.0
+     Ah!
+},
+{
+    56.0,58.0
+     It's going to help split you.
+},
+{
+    58.0,60.0
+     I've got an aspirin.
+},
+{
+    60.0,62.0
+     I feel like I'm dying.
+},
+{
+    62.0,64.0
+     I need you to pop this one in your mouth for me, please.
+},
+{
+    64.0,69.16
+     Open up your hands. Pop it in your mouth and give it a good chew and then put it under your tongue.
+},
+{
+    69.16,70.16
+     Ambulance is on its way.
+},
+{
+    70.16,71.16
+     I have.
+},
+{
+    71.16,72.16
+     I feel like I'm dying.
+},
+{
+    72.16,73.16
+     Steep breaths.
+},
+{
+    73.16,74.16
+     That's it.
+},
+{
+    74.16,75.16
+     Well done.
+},
+{
+    75.16,84.12
+     If you suspect a heart attack, be sure to look for the four Ps.
+},
+{
+    84.12,88.04
+     Pain in the chest. Pale skin, a pulse that's
+},
+{
+    88.04,96.56
+     weak and rapid, and perspiration. You need to act quickly. First, sit the casualty on
+},
+{
+    96.56,110.0
+     the floor with their head and shoulders supported. Call 999 or 112 and ask for an ambulance. If you're in a care home environment, only administer aspirin if you're authorized to do so.
+},
+{
+    111.0,115.0
+     Keep checking breathing, pulse and responsiveness.
+},
+{
+    115.0,123.0
+     If the patient loses responsiveness, open the airway and prepare to give CPR if breathing stops.
+},

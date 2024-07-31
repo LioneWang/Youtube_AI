@@ -1,0 +1,280 @@
+{
+    0.0,8.52
+     Hi, I'm Dr. Kirsten Muanig and I'm coming to you from River Valley Chiropractic where
+},
+{
+    8.52,11.2
+     we teach you to move well so that you can live well.
+},
+{
+    11.2,14.44
+     And I wanted to talk a little bit about some neck pain today.
+},
+{
+    14.44,18.8
+     I had several patients come in last week and they all have been to have spasm in the same
+},
+{
+    18.8,21.6
+     muscle which was the levator scapula muscle.
+},
+{
+    21.6,25.44
+     And if you're not familiar with the levator scapula muscle, it actually runs,
+},
+{
+    26.24,30.88
+     it attaches up here on the top of your first and second bones in your neck, your first and second
+},
+{
+    30.88,37.68
+     vertebra, and then it runs down to the bone in the back of your shoulder, your scapula, and attaches
+},
+{
+    37.68,45.62
+     at the superior and inside medial border of the scapula. And the action of the levator scapula muscle
+},
+{
+    45.62,51.34
+     is to elevate the scapula and medially retract the scapula. That's the action
+},
+{
+    51.34,55.98
+     of the muscle. Now what can cause this muscle to spasm up and hurt? Well one of
+},
+{
+    55.98,60.58
+     my patients had been out had been doing back workouts so he had been doing
+},
+{
+    60.58,65.64
+     rows and flies. Both of those involve movement of the scapula,
+},
+{
+    65.64,67.32
+     especially if there's some imbalance
+},
+{
+    67.32,69.2
+     or weakness in some of the back muscles.
+},
+{
+    69.2,70.64
+     And as you're doing a row,
+},
+{
+    70.64,73.12
+     you find that your shoulders pull up a little bit
+},
+{
+    73.12,75.56
+     instead of rowing straight back.
+},
+{
+    75.56,77.24
+     But again, even rowing straight back,
+},
+{
+    77.24,79.6
+     you're bringing your scapula in
+},
+{
+    79.6,81.66
+     and you're getting that movement
+},
+{
+    81.66,83.14
+     of that levator scapula muscle.
+},
+{
+    83.14,85.4
+     So overworking the back doing a
+},
+{
+    85.4,91.36
+     really long back workout, he was also doing flies which moves the scapula.
+},
+{
+    91.36,97.04
+     Both of those things can cause spasm in that muscle especially if it's overused.
+},
+{
+    97.04,102.52
+     Another patient had been on a long car ride over the mountains and had slept in
+},
+{
+    102.52,107.74
+     a different bed and maybe it was the way she was sitting in the car or just the act of sitting for a longer period of
+},
+{
+    107.74,110.9
+     time. Who knows what it was but for whatever reason she had that same
+},
+{
+    110.9,116.06
+     muscle spasm up on her and then another patient just woke up with spasm and it
+},
+{
+    116.06,120.1
+     may been that her pillow was not quite right for her neck and so the way she
+},
+{
+    120.1,124.18
+     slept it caused spasm again in that muscle but it can be extremely painful.
+},
+{
+    124.18,128.14
+     It can cause a lot of pain in the neck and or the shoulder.
+},
+{
+    128.14,130.2
+     And so they come in and they start, they're complaining,
+},
+{
+    130.2,131.04
+     hey, my neck hurts.
+},
+{
+    131.04,133.0
+     You know, I feel like I can't move my neck very well.
+},
+{
+    133.0,133.84
+     It's really tight.
+},
+{
+    133.84,134.66
+     It's right here.
+},
+{
+    134.66,135.6
+     It keeps spasming up.
+},
+{
+    135.6,137.08
+     It hurts especially when I move.
+},
+{
+    137.08,140.24
+     So how can we do what is one easy stretch
+},
+{
+    140.24,143.52
+     that we can do to help alleviate that spasm
+},
+{
+    143.52,148.88
+     or muscle tightness in the levator scapula muscle. So one easy stretch you can do is keeping your
+},
+{
+    148.88,152.72
+     shoulders pulled away from your ears. So keeping your shoulders down, you're
+},
+{
+    152.72,156.56
+     going to bring your nose, if it's the right side that we're stretching, towards
+},
+{
+    156.56,164.6
+     your left knee. So I'm going to look and stretch down towards my left knee. I'm
+},
+{
+    164.6,166.96
+     going to hold that stretch for 30 seconds to two
+},
+{
+    166.96,172.0
+     minutes. You can add a little extra pressure by pulling forward on your head
+},
+{
+    172.0,177.84
+     gently and you're going to feel stretch from up here down to the top of your
+},
+{
+    177.84,181.68
+     shoulder. Another one you can do to further stretch it. If that doesn't feel
+},
+{
+    181.68,190.04
+     like that's getting it, you can actually bring your arm behind your back, again shoulder out of the ear. This is going to
+},
+{
+    190.04,195.0
+     pull the scapula down this way and then you're going to do the same thing. So
+},
+{
+    195.0,204.4
+     we're stretching the right side, nose towards your left knee and hold. And then
+},
+{
+    204.4,207.08
+     we would repeat the same thing on the left side. If the left side
+},
+{
+    207.08,212.54
+     was affected then you'd be bringing your nose towards your right knee. And that's
+},
+{
+    212.54,215.42
+     going to stretch that muscle. That's an easy stretch you can do. Again you're
+},
+{
+    215.42,219.5
+     going to want to hold that for 30 seconds to two minutes to stretch that muscle.
+},
+{
+    219.5,224.14
+     If you're having spasm in the levator scapula specifically, this will also get
+},
+{
+    224.14,225.8
+     some of the upper trap in there. But we're addressing the levator scapula specifically. This will also get some of the upper trap in there,
+},
+{
+    225.8,228.0
+     but we're addressing the levator scapula.
+},
+{
+    228.0,230.44
+     If you have any questions about what this muscle does
+},
+{
+    230.44,231.72
+     or questions about this stretch,
+},
+{
+    231.72,233.72
+     go ahead and pop it in the comments below.
+},
+{
+    233.72,236.76
+     If you have further questions or other questions on videos
+},
+{
+    236.76,238.28
+     that you would like to see us do,
+},
+{
+    238.28,240.56
+     go ahead and put that in the comments below as well.
+},
+{
+    240.56,243.0
+     And I'd like you to ask you to please like, share,
+},
+{
+    243.0,248.4
+     and subscribe to our channel and share this video. I want to say have a wonderful day thank you
+},
+{
+    248.4,251.92
+     for joining me again I'm Dr. Kirsten Lee Wannig and I'm coming to you from River
+},
+{
+    251.92,256.16
+     Valley Chiropractic where we teach you to move well live live well have a great
+},
+{
+    256.16,260.72
+     day. Bye! That was my goal. Bye.
+},

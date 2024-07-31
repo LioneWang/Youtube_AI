@@ -1,0 +1,112 @@
+{
+    0.0,5.28
+     The spine protects the spinal cord which connects the brain to the rest of the body.
+},
+{
+    5.28,10.2
+     If the spinal cord is damaged, it can cause temporary or permanent paralysis from the
+},
+{
+    10.2,12.38
+     point of injury downwards.
+},
+{
+    12.38,17.02
+     If you think someone may have injured their spine, these are the seven key things to look
+},
+{
+    17.02,18.02
+     for.
+},
+{
+    18.02,20.44
+     Pain in their neck or back.
+},
+{
+    20.44,24.6
+     Unusual shape or twist in the normal curve of their spine.
+},
+{
+    24.6,25.8
+     Soreness and or bruising in normal curve of their spine, soreness and or
+},
+{
+    25.8,30.88
+     bruising in the skin over their spine, loss of control over their limbs for
+},
+{
+    30.88,35.96
+     example they may not be able to move their arms or legs, loss of sensation or
+},
+{
+    35.96,42.6
+     abnormal sensations such as burning or tingling, loss of bladder and or bowel
+},
+{
+    42.6,46.0
+     control,hing difficulties.
+},
+{
+    46.0,50.0
+     If you suspect a spinal injury, this is what to do.
+},
+{
+    50.0,57.0
+     Don't move them. Call emergency services immediately or ask someone else to call for you.
+},
+{
+    57.0,61.0
+     If they are unresponsive, kneel or lie behind their head.
+},
+{
+    61.0,65.12
+     Open their airway by putting your fingertips at the angles of the
+},
+{
+    65.12,72.96
+     jaw and gently lifting to open the airway, avoiding tilting their neck. Check their breathing.
+},
+{
+    72.96,78.28
+     If they're not breathing, you'll need to give them CPR. If the casualty is conscious
+},
+{
+    78.28,83.2
+     or they're unresponsive but breathing, you need to stop their head or neck from moving
+},
+{
+    83.2,85.52
+     to prevent any further damage.
+},
+{
+    85.52,91.48
+     To do this, kneel or lie behind their head. Rest your elbows on the ground or on your
+},
+{
+    91.48,96.96
+     knees to keep your arms steady. Grip each side of their head without covering the ears
+},
+{
+    96.96,102.56
+     so they can still hear you, to support their head in this position so that the head, neck
+},
+{
+    102.56,105.32
+     and spine are in a straight line.
+},
+{
+    105.32,109.98
+     You'll need to support the head until the emergency services can take over, no matter
+},
+{
+    109.98,112.48
+     how long it takes for them to come.
+},
+{
+    112.48,117.02
+     If there is someone who can help you, ask them to put rolled up blankets, towels or
+},
+{
+    117.02,120.44
+     clothes on either side of the head to help support it.
+},

@@ -1,0 +1,108 @@
+{
+    0.0,8.08
+     Examining the ear is one of the primary methods used for diagnosing patient complaints for
+},
+{
+    8.08,11.68
+     the entire ear-nose throat complex.
+},
+{
+    11.68,16.4
+     The otoscope helps you view the ear canal and the tympanic membrane with clarity.
+},
+{
+    16.4,20.2
+     The basic steps are the same for any otoscope, but we'll be showing you how to use our Welch
+},
+{
+    20.2,32.78
+     Allen MacroView Otoscope, which allows you to see three times the area of the ear canal and to panic membrane than a traditional scope in a single view.
+},
+{
+    32.78,37.04
+     There are two common ways to hold the otoscope and it's all a matter of preference.
+},
+{
+    37.04,40.24
+     Some clinicians choose to hold the otoscope like a hammer, gripping the power handle
+},
+{
+    40.24,44.88
+     between your thumb and forefinger close to the light source.
+},
+{
+    44.88,48.66
+     For more control, some clinicians choose to hold the otoscope like a pencil between the
+},
+{
+    48.66,53.0
+     thumb and the forefinger with the ulnar aspect of the hand resting firmly but gently against
+},
+{
+    53.0,55.72
+     the patient's cheek.
+},
+{
+    55.72,58.96
+     With any ear exam, you'll want the patient to sit down and slightly tilt their head
+},
+{
+    58.96,62.88
+     away from you to obtain easier access to their ear.
+},
+{
+    62.88,65.56
+     Turn the scope on at full intensity. Align the
+},
+{
+    65.56,68.4
+     green marks on the focus wheel to ensure you're operating at the default
+},
+{
+    68.4,74.68
+     position. Attach a new disposable ear tip or speculum. It's best practice to
+},
+{
+    74.68,78.76
+     examine the healthy ear first. This allows you to see the patient's normal ear
+},
+{
+    78.76,82.12
+     anatomy and compare to the other ear while helping to prevent the spread of
+},
+{
+    82.12,88.36
+     infection. Straighten the outer ear canal to make insertion of the speculum easier.
+},
+{
+    88.36,93.2
+     Guide the otoscope into the patient's ear to view the canal and to panic membrane.
+},
+{
+    93.2,97.2
+     Adjust the focus wheel during the examination if necessary.
+},
+{
+    97.2,101.64
+     With a basic otoscope, you may need to pan around more to get a complete view.
+},
+{
+    101.64,109.4
+     After the examination, the used disposable speculums should be removed and discarded. Twist the speculum off by hand or rotate the macroview tip
+},
+{
+    109.4,113.8
+     grip to eject the speculum. The insufflator bulb can be used to help determine if
+},
+{
+    113.8,117.76
+     there is fluid behind the eardrum, which can be a sign of infection. Using well
+},
+{
+    117.76,120.84
+     challenged soft seal tips can help provide a better seal against the ear
+},
+{
+    120.84,128.0
+     canal wall, making it easier to see movement of the tympanic membrane. Use the insufflator bulb to gently puff air at the thin membrane.
+},

@@ -1,0 +1,896 @@
+{
+    0.0,22.4
+     If you can't be doing this, then you probably shouldn't be doing this.
+},
+{
+    22.4,23.4
+     What's up everybody?
+},
+{
+    23.4,25.72
+     Dr. Craig Lindell here from the Prehab guys.
+},
+{
+    25.72,26.72
+     Dr. Rosh.
+},
+{
+    26.72,32.44
+     We're going to be talking about how to assess and improve overhead mobility. Before we get
+},
+{
+    32.44,37.88
+     into the assessment and how to improve it, let's define it. What is overhead mobility?
+},
+{
+    37.88,43.12
+     It's just, it's reaching overhead. It's not too complicated.
+},
+{
+    43.12,47.4
+     Exactly like it sounds.
+},
+{
+    50.6,54.48
+     But now let's actually get into some of the science stuff. So let's define it from osteokinematic standpoint.
+},
+{
+    54.48,55.72
+     What is osteokinematic?
+},
+{
+    55.72,58.52
+     It's just explaining bone movement.
+},
+{
+    58.52,60.88
+     So either we can do it by shoulder flexion,
+},
+{
+    60.88,63.52
+     where you're reaching your arms up overhead in front of you.
+},
+{
+    63.52,64.96
+     Or let's face the camera now.
+},
+{
+    64.96,65.0
+     I'll wrap this up. Bring it down. Let's do short abduction. where you're reaching your arms up overhead in front of you. Or let's face the camera now,
+},
+{
+    65.0,66.56
+     or I'll just bring it down.
+},
+{
+    66.56,69.0
+     Let's do shoulder abduction.
+},
+{
+    69.0,70.88
+     These are two ways that you can reach your arms
+},
+{
+    70.88,72.08
+     up overhead.
+},
+{
+    72.08,74.24
+     Now, let's talk about what's happening at the shoulder,
+},
+{
+    74.24,76.24
+     right, so we've got shoulder flexion,
+},
+{
+    76.24,78.92
+     we've got shoulder abduction,
+},
+{
+    78.92,81.24
+     but there's a lot more moving parts.
+},
+{
+    81.24,84.0
+     So have your face the other way.
+},
+{
+    84.0,88.06
+     Yeah, there we go. Now, keep going. There's a lot happening
+},
+{
+    88.06,92.84
+     at the scapula, the shoulder blade, right? So there's so many different joints. We're talking
+},
+{
+    92.84,98.1
+     about the glenohumeral joint. This is happening at the shoulder. We got the scapula thoracic joint.
+},
+{
+    98.1,103.46
+     So your shoulder blade moving on your ribcage and your thorax. What's happening is it's
+},
+{
+    103.46,107.28
+     protraction. Protraction is a combination of
+},
+{
+    107.28,112.0
+     abduction where your shoulder blade moves away from the spine and then there's going to be
+},
+{
+    112.64,120.08
+     elevation and then there's also going to be some posterior tilting. What else? I'm forgetting
+},
+{
+    120.08,126.92
+     something. Upward rotation. Upward rotation, right? I forgot where I forgot where I was left off. So we got abduction, we got elevation,
+},
+{
+    126.92,128.6
+     we got upward rotation.
+},
+{
+    128.6,131.16
+     And then we have this posterior tilting.
+},
+{
+    131.16,133.28
+     It's actually tilting back.
+},
+{
+    133.28,136.1
+     The posterior tilting happens by a few things.
+},
+{
+    136.1,138.2
+     So as the rush gets really up overhead,
+},
+{
+    138.2,140.6
+     we're getting thoracic extension.
+},
+{
+    140.6,142.6
+     Spine is extending up here.
+},
+{
+    142.6,150.08
+     That's gonna help get like that last 10 degrees. And so let's face the other way, Rochelle. So what most people don't know is that the
+},
+{
+    150.08,155.8
+     scapula, your shoulder blade, it has this AC joint and also has this SC joint and
+},
+{
+    155.8,160.28
+     all these things are working together. So as the scapula is moving into
+},
+{
+    160.28,166.0
+     protraction, the coupled abduction, the upward rotation, the elevation.
+},
+{
+    166.0,171.04
+     Well, the elevation is happening by the clavicle, your collarbone actually
+},
+{
+    171.04,176.2
+     elevating, and then as you lift up in that posterior tilting, your collarbone is
+},
+{
+    176.2,181.6
+     actually posteriorly rotating as well. So we get movement of your sc joint, we
+},
+{
+    181.6,186.64
+     get movement of your ac joint, the glenohumeral joint, scapula thoracic joint,
+},
+{
+    186.64,188.24
+     as well as the thoracic spine.
+},
+{
+    188.24,191.64
+     So a lot happening with overhead shoulder mobility.
+},
+{
+    191.64,192.64
+     Pretty crazy.
+},
+{
+    192.64,193.48
+     A lot of stuff.
+},
+{
+    193.48,195.2
+     A lot of stuff happening.
+},
+{
+    195.2,198.08
+     So one more thing that we should discuss
+},
+{
+    198.08,199.64
+     that's pretty important is something called
+},
+{
+    199.64,201.96
+     scapula of humoral rhythm.
+},
+{
+    201.96,206.42
+     Basically what that means is, is the timing. It's how everything
+},
+{
+    206.42,210.46
+     is moving together. We just mentioned all of these different things. But Arash, if
+},
+{
+    210.46,216.62
+     you face this way, if you just slowly raise your arm, there's a lot more motion coming
+},
+{
+    216.62,227.0
+     from the glenal humeralism, the shoulder versus the scapula. So if we're talking about abduction, if someone has full abduction range of motion,
+},
+{
+    227.0,235.0
+     180 degrees for every three degrees of motion on average, two are going to come from the
+},
+{
+    235.0,240.0
+     glenohumeral joint, one degree is going to come from the thoracic, the scapula thoracic
+},
+{
+    240.0,248.24
+     joint. So big takeaway from scapula and humic rhythm, it just means that at certain ranges,
+},
+{
+    248.24,253.28
+     the shoulder is moving more, the glenohumor joint versus the scapula is moving less.
+},
+{
+    253.92,258.96
+     So that's just a little bit about scapular hemorrhagic rhythm, but really isn't going to take
+},
+{
+    258.96,263.84
+     us into our action rules, which is what's next. Let's talk about assessing overhead shoulder
+},
+{
+    263.84,265.36
+     mobility. What do we need to
+},
+{
+    265.36,271.12
+     assess? We need to first consider what contributes to overhead shoulder mobility versus what could
+},
+{
+    271.12,277.28
+     limit it. From a muscle standpoint, we have the deltoids, right? Deltoids help with flexing the
+},
+{
+    277.28,285.6
+     shoulder, adducting the shoulder. Our rotator cuff is helping with this stuff as well. Our pecs help with it as well as our
+},
+{
+    285.6,289.92
+     serratus anterior that helps with getting the shoulder blade moving. Our traps,
+},
+{
+    289.92,295.68
+     they help with that. So you're tilting and then even some more muscles up here,
+},
+{
+    295.68,300.08
+     even like our levator could be contributing and helping out. But also
+},
+{
+    300.08,306.6
+     our levator could be limiting it. So let's talk about what can be limiting it now.
+},
+{
+    306.6,312.36
+     So as much as the levator may help, as well as the peps can help, those two muscle groups
+},
+{
+    312.36,316.4
+     can actually also limit overhead shoulder mobility.
+},
+{
+    316.4,322.2
+     We need to think what actually does downward rotation or depression of the shoulder blade
+},
+{
+    322.2,324.84
+     or what's going to extend the shoulder.
+},
+{
+    324.84,325.84
+     One of the big culprits is going to extend the shoulder. One of the big culprits
+},
+{
+    325.84,333.44
+     is going to be your lats, right? So the lats, your rhomboids, anything basically down below behind
+},
+{
+    333.44,339.12
+     the shoulder blades is what could do it. Also even your posterior deltoid, there's more than just one
+},
+{
+    339.12,344.8
+     type of muscle fiber, right? You have your anterior deltoid, middle posterior deltoid. And then even
+},
+{
+    344.8,345.36
+     one more, we're talking about like your teres major, the posterior deltoid. And then even one more,
+},
+{
+    345.36,350.08
+     we're talking about like your teres major, the last little helper. So we got to take all these
+},
+{
+    350.08,354.88
+     things into consideration. Also the shoulder capsule itself, if you've had a traumatic injury
+},
+{
+    354.88,360.32
+     or surgery, the capsule can be stiff and that can limit it. Last but not least your abs and stuff
+},
+{
+    360.32,366.24
+     in the front, right? So Marash, if you face the camera, I want you to try to reach overhead.
+},
+{
+    368.2,369.04
+     It's tough, right?
+},
+{
+    369.04,370.72
+     There's some resistance to it.
+},
+{
+    370.72,371.68
+     So it's the shirt test.
+},
+{
+    371.68,374.4
+     I like to call it the shirt tug test.
+},
+{
+    374.4,376.04
+     This is gonna be harder to reach overhead
+},
+{
+    376.04,378.04
+     if something in the front is pulling on it.
+},
+{
+    378.04,379.48
+     So these are all things that we're gonna
+},
+{
+    379.48,381.4
+     take into consideration.
+},
+{
+    381.4,383.76
+     That's why maybe sometimes we see the rip flare.
+},
+{
+    383.76,388.78
+     Is it the abs or the obliques where they're just really stiff or is it a
+},
+{
+    389.04,392.8
+     control thing? So let's get into assessments.
+},
+{
+    393.38,397.7
+     Time to assess what could be limiting your overhead mobility.
+},
+{
+    397.86,398.64
+     And just in general,
+},
+{
+    398.64,400.6
+     let's just take a look at your overhead mobility.
+},
+{
+    400.88,407.74
+     So I have a rush set up here sitting him sitting on the ground actually takes out more variables
+},
+{
+    407.74,411.8
+     that could influence as he truly getting clean overhead mobility.
+},
+{
+    411.8,416.94
+     Something that we refer to as limiting degrees of freedom with his butt being on the ground
+},
+{
+    416.94,419.56
+     and him getting his back flat against the wall.
+},
+{
+    419.56,422.46
+     We're taking out the pelvis being able to move.
+},
+{
+    422.46,430.26
+     We're taking out the chance of his lumbar spine moving a lot. So I really like this for self-assessment. That doesn't mean that you can stand up, get
+},
+{
+    430.26,433.82
+     your back flat against the wall with your feet out a little bit further. So in this
+},
+{
+    433.82,439.14
+     position, Arash, I just want you to reach your arms up overhead. What we're going to
+},
+{
+    439.14,443.54
+     be looking for is, is he maintaining his back being flat against the wall? Is he keeping
+},
+{
+    443.54,446.4
+     his elbow straight from the side?
+},
+{
+    446.4,447.94
+     Is it even side to side?
+},
+{
+    447.94,450.46
+     Ideally, he's getting all the way up.
+},
+{
+    450.46,452.7
+     His arms are facing straight ahead.
+},
+{
+    452.7,454.72
+     I'm not looking just at his hands.
+},
+{
+    454.72,456.4
+     I like to look at the elbow
+},
+{
+    456.4,458.44
+     because this is the shoulder, right?
+},
+{
+    458.44,459.98
+     This is the humerus,
+},
+{
+    459.98,463.8
+     where the forearm, depending on how much extension
+},
+{
+    463.8,467.32
+     or if the elbow is bending, if he actually bends his elbows,
+},
+{
+    467.32,469.68
+     it could sort of tear actually true
+},
+{
+    469.68,472.28
+     and clean overhead mobility assessment.
+},
+{
+    472.28,474.76
+     If you don't like this, we have the bench test.
+},
+{
+    474.76,476.92
+     Arash, let's go to the bench.
+},
+{
+    476.92,478.88
+     So Arash, have your feet down there.
+},
+{
+    480.56,483.28
+     Have your head here, supported, perfect, exactly.
+},
+{
+    483.28,485.24
+     Arash has his feet bent.
+},
+{
+    485.24,488.2
+     With his feet being bent and supported on bench,
+},
+{
+    488.2,490.44
+     you can see how that helps with posterior tilting.
+},
+{
+    490.44,492.44
+     Again, he's a low back flat.
+},
+{
+    492.44,494.36
+     Exactly, he's reading my mind.
+},
+{
+    494.36,497.6
+     Drop it down, drop it, lift it back up.
+},
+{
+    497.6,499.56
+     See how that helps with the tilting?
+},
+{
+    499.56,501.2
+     So we wanna get it flat.
+},
+{
+    501.2,503.2
+     We wanna keep that low back flat.
+},
+{
+    503.2,505.48
+     Now Rosh, same thing. Just take
+},
+{
+    505.48,511.24
+     your arms up overhead. So this is a little bit different because now we're looking at
+},
+{
+    511.24,516.24
+     eccentric control of the lat. So everything under is going to be working. But we can just
+},
+{
+    516.24,522.16
+     see how far does it go down. And he's actually getting past parallel with his hands. But
+},
+{
+    522.16,525.48
+     again, it's take a look at the upper arms.
+},
+{
+    525.48,528.48
+     And you can see that his upper arm is basically parallel
+},
+{
+    528.48,531.16
+     with the bench, maybe still pointing a little bit down.
+},
+{
+    531.16,534.0
+     But I'm curious as to what's happening here,
+},
+{
+    534.0,535.4
+     is he being mindful of this stuff?
+},
+{
+    535.4,537.52
+     So, Raj, really keep your abs engaged,
+},
+{
+    537.52,539.6
+     really keep your low back flat,
+},
+{
+    539.6,541.32
+     and just help pull that down.
+},
+{
+    541.32,544.28
+     And let's see, with your arms up overhead,
+},
+{
+    544.28,545.68
+     I just wanna show the viewers,
+},
+{
+    545.68,550.0
+     let this relax now. See what happens with his arms there versus pull that down.
+},
+{
+    550.56,556.08
+     See what happens with his arms there? So you really have to be mindful of mispositioning
+},
+{
+    556.08,562.48
+     because you can teeter-totter in and out of the position and get some weird results. Perfect. So
+},
+{
+    562.48,566.16
+     that's how you assess it. Now let's get into do we need to
+},
+{
+    566.16,572.0
+     improve it? Do we actually have legit differences side to side? Let's get into that. To improve overhead
+},
+{
+    572.0,577.6
+     mobility. So Arash is here, we got a foam over set up, we're going to start with soft tissue work.
+},
+{
+    578.4,582.8
+     So everything that I mentioned earlier, right, could be the lats, it could be the teres major,
+},
+{
+    582.8,587.68
+     it could be the rhomboids, we're going to take a shocking approach on this stuff. You're going to hit everything
+},
+{
+    588.24,594.96
+     because it can only help. Definitely can't make it worse. So, Arash, take us through just some
+},
+{
+    594.96,601.2
+     general lat rolling. Not like that. That's actually soft tissue work. Oh, gotcha. Okay.
+},
+{
+    601.2,606.16
+     Arash is getting, he's getting ahead of himself. He's showing off some other good stuff that we can do.
+},
+{
+    607.68,610.96
+     So just some soft tissue work, right?
+},
+{
+    610.96,613.32
+     Spend a minute there, spend two minutes.
+},
+{
+    613.32,614.68
+     You can make it active, right?
+},
+{
+    614.68,615.84
+     Pin and stretch.
+},
+{
+    615.84,618.44
+     There's so many different ways to go about this.
+},
+{
+    618.44,620.32
+     That's our favorite part of soft tissue.
+},
+{
+    620.32,622.68
+     There's not one or wrong way to do it
+},
+{
+    622.68,623.96
+     as long as you're on the tissue
+},
+{
+    623.96,625.0
+     and you're getting things moving
+},
+{
+    625.24,629.3
+     So like I said in the last Terry's major rhomboids take it down
+},
+{
+    629.3,634.44
+     We have plenty of exercises for this stuff that you can refer to and we'll show some of this stuff
+},
+{
+    635.08,638.56
+     Perfect rush. Let's go into the active mobility now
+},
+{
+    638.68,643.92
+     So after you work it after you mash it down, let's kind of roll it out, right?
+},
+{
+    643.92,645.04
+     Let's actually use the roller
+},
+{
+    645.04,649.68
+     and roll it out. So let's start with what you thought I wanted you to do in the first place.
+},
+{
+    649.68,656.56
+     Yeah, let's go into it. Let's go into it all the way. All the way. So now we're using the foam roller
+},
+{
+    656.56,663.76
+     and we're doing this kneeling lat mobilization. So a couple cues that I would want to take a
+},
+{
+    663.76,669.36
+     rush through. Hey, I really want you to feel like you're getting this area moving, you're pinching
+},
+{
+    669.36,673.28
+     everything back, and this is where you're feeling the movement a lot. And then you
+},
+{
+    673.28,676.36
+     should also feel like you're getting a little bit of stretching under there. If
+},
+{
+    676.36,680.64
+     he wasn't feeling that, or if he's, if he was getting discomfort here, which
+},
+{
+    680.64,686.64
+     sometimes is not too uncommon, I'd be like, Roch, just keep a little bit more pressure into the foam roller.
+},
+{
+    687.28,691.6
+     But he's in heaven right now. He's going to tune back in.
+},
+{
+    691.6,693.04
+     It feels great.
+},
+{
+    694.08,695.36
+     I've got lost in this.
+},
+{
+    697.28,700.88
+     Perfect. Now, why don't you do this? Let's have you lay on your stomach.
+},
+{
+    701.68,702.88
+     You don't get any towel this time.
+},
+{
+    702.88,703.36
+     Oh man.
+},
+{
+    703.36,704.64
+     I know. I owe you a towel.
+},
+{
+    705.36,710.64
+     Roch, maybe get on my face earlier. I guess I got to give you a towel. All right, let's do it.
+},
+{
+    710.64,716.56
+     You're gonna lay on your stomach. You got a towel for his forehead. Perfect. I don't want to mess up
+},
+{
+    716.56,721.44
+     that hair. No, you can't do that. In this position. Now let's get our arms all the way up overhead.
+},
+{
+    721.44,726.4
+     Forehead down. Protect the hair in the forehead, perfect. Now thumbs up,
+},
+{
+    726.4,733.44
+     rotate out, keep the rest of your body still, and now lift up. It's time to work these muscles. So
+},
+{
+    734.0,740.16
+     we have just gained a new real state in terms of range of motion. We have to train the brain and
+},
+{
+    740.16,746.24
+     we've got to train these muscles in this new position in order to make it stick. If you don't use it, you lose it.
+},
+{
+    746.36,753.04
+     There's no point to do soft tissue work in active mobilizations. If we don't follow it up with stability exercises.
+},
+{
+    753.28,757.28
+     So right now we're working on that posterior tilt that we talked about.
+},
+{
+    757.4,765.3
+     We're working on this end range. Muscles are working and the Rajas get in a solid good workout and the best part is he's doing it perfectly
+},
+{
+    765.3,770.08
+     He's being mindful of this area and he's getting the movement from here
+},
+{
+    770.78,775.44
+     Awesome. Now, let's have you come up to a heavy-weight position and we gave you a weight
+},
+{
+    776.4,779.28
+     As important as it is to work the muscles in the back
+},
+{
+    779.4,784.56
+     We also want to work the muscles in the front and all around the shoulder in different ways
+},
+{
+    784.64,785.36
+     also want to work the muscles in the front and all around the shoulder in different ways.
+},
+{
+    790.32,797.04
+     First thing is to work on his balance. All right, you balance. Got it. Nice. Now let's press up overhead. We would only do this if you had overhead shoulder mobility, right? Roche got it,
+},
+{
+    797.04,804.0
+     he earned it, now it's time to keep it. So Roche, you can do shoulder press here or Roche, stay there.
+},
+{
+    804.0,805.92
+     Let's do some overhead shrugs.
+},
+{
+    805.92,811.36
+     So now with the overhead shrug, we're working that serratus, we're working the traps, we're
+},
+{
+    811.36,815.92
+     working the deltoid, and we're just working on loaded overhead stability.
+},
+{
+    815.92,817.92
+     Arash, how's it feel?
+},
+{
+    817.92,818.92
+     It feels good.
+},
+{
+    818.92,821.12
+     I feel my shoulder working pretty good.
+},
+{
+    821.12,822.12
+     Good.
+},
+{
+    822.12,823.52
+     All right.
+},
+{
+    823.52,825.36
+     That's a great way to just get
+},
+{
+    825.36,829.48
+     your overhead mobility locked in. Thanks for tuning in,
+},
+{
+    829.48,836.68
+     everyone. I hope your knowledge is all the way up overhead. If
+},
+{
+    836.68,839.68
+     you want to learn more about overhead mobility, and you just
+},
+{
+    839.68,842.44
+     want to get a full proof guide, take the guesswork out of it,
+},
+{
+    842.48,845.12
+     how to improve it, Check out our six week overhead
+},
+{
+    845.12,850.96
+     mobility overhaul program. Last but not least, give us some love, give us a thumbs up, keep watching
+},
+{
+    850.96,854.72
+     our videos right. We're gonna have a video for how to help with shoulder pain with bench press,
+},
+{
+    854.72,859.2
+     we got another video on how to help with shoulder pain with back squatting. We got a lot of content,
+},
+{
+    859.76,866.0
+     let us know what you like, comment, tell us more, and tell them what you do now.
+},
+{
+    866.0,866.84
+     See you.
+},

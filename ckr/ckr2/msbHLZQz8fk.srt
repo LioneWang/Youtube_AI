@@ -1,0 +1,72 @@
+{
+    0.0,4.0
+     Roughly half of adults over the age 40 have thyroid nodules.
+},
+{
+    4.0,7.0
+     The thyroid gland is a butterfly-shaped gland in the neck.
+},
+{
+    7.0,10.0
+     It sits between the collar bone and the Adam's apple.
+},
+{
+    10.0,15.0
+     There are simple steps to take on your own to do a thyroid self-examination.
+},
+{
+    15.0,19.0
+     To get started, what you'll need is a mirror and a glass of water.
+},
+{
+    19.0,23.0
+     First, look in the mirror and tip your head back.
+},
+{
+    23.0,25.96
+     Second, drink some water, swallow,
+},
+{
+    25.96,28.26
+     and watch your thyroid move up and down.
+},
+{
+    28.26,30.56
+     Men, you wanna look between the collarbone
+},
+{
+    30.56,31.94
+     and the Adam's apple.
+},
+{
+    31.94,35.22
+     You wanna look for any lumps or bumps when you swallow.
+},
+{
+    35.22,38.02
+     Women, the Adam's apple isn't as visible,
+},
+{
+    38.02,40.36
+     you wanna look from the collarbone up.
+},
+{
+    40.36,42.9
+     You will want to repeat this test several times.
+},
+{
+    42.9,47.8
+     If you see any lumps or bumps or protrusions on the thyroid neck self-examination,
+},
+{
+    47.8,50.3
+     that is something that needs to be checked out.
+},
+{
+    50.3,53.3
+     It is very important you see your doctor for evaluation
+},
+{
+    53.3,55.8
+     and the thyroid ultrasound may be necessary.
+},

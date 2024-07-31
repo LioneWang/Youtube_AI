@@ -1,0 +1,936 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.42,13.72
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.72,15.06
+     Brad Heineck, physical therapist.
+},
+{
+    15.06,17.16
+     We are the most famous physical therapists on the internet.
+},
+{
+    17.16,18.6
+     In our opinion, of course, Bob.
+},
+{
+    18.6,22.58
+     Today we're gonna show you how to fix biceps tendonitis
+},
+{
+    22.58,25.0
+     or strain in 90 seconds,
+},
+{
+    25.24,28.92
+     a minute and a half, at home, self-treatment.
+},
+{
+    28.92,31.08
+     You can follow the video right along
+},
+{
+    31.08,32.0
+     and you can do it yourself.
+},
+{
+    32.0,34.48
+     Exactly Bob, but before we...
+},
+{
+    34.48,35.52
+     If you're new to our channel,
+},
+{
+    35.52,37.14
+     please take a second to subscribe to us.
+},
+{
+    37.14,39.12
+     We provide videos on how to stay healthy, fit, pain-free
+},
+{
+    39.12,40.56
+     and we upload every day.
+},
+{
+    40.56,43.2
+     Also join us at facebook.com.
+},
+{
+    43.2,44.4
+     We're always giving something away.
+},
+{
+    44.4,45.24
+     What are we getting away?
+},
+{
+    45.24,46.24
+     It's a surprise.
+},
+{
+    46.24,47.58
+     Check it out, cause we don't know.
+},
+{
+    47.58,48.42
+     It's a future.
+},
+{
+    48.42,49.26
+     It's a future video.
+},
+{
+    49.26,51.76
+     Yeah, so go to the giveaway and you can sign up for it.
+},
+{
+    51.76,53.68
+     You can also find it on Facebook.
+},
+{
+    53.68,56.64
+     The contest will be pinned at the top of our page.
+},
+{
+    56.64,59.04
+     Go to Instagram or Twitter or TikTok
+},
+{
+    59.04,61.16
+     if you want a 60 second version of our program.
+},
+{
+    61.16,62.72
+     There you go.
+},
+{
+    62.72,63.56
+     Biceps.
+},
+{
+    63.56,66.28
+     We're gonna talk about that, you know, the muscle right there,
+},
+{
+    66.28,68.56
+     the ones that the guys are always trying to build up
+},
+{
+    68.56,69.88
+     for the girls, you know.
+},
+{
+    69.88,72.2
+     Yeah, but we never did, of course.
+},
+{
+    72.2,73.92
+     No, because we don't have them.
+},
+{
+    73.92,75.32
+     Yeah.
+},
+{
+    75.32,77.04
+     We already got good girls.
+},
+{
+    77.04,81.76
+     So anyways, that bicep muscle can be a source of a strain
+},
+{
+    81.76,83.12
+     and it can be the tendon.
+},
+{
+    83.12,85.84
+     And oftentimes it is the tendon that leads up
+},
+{
+    85.84,86.96
+     to the shoulder.
+},
+{
+    86.96,89.24
+     Now we're gonna talk about the anatomy of the bicep
+},
+{
+    89.24,90.84
+     because it's rather interesting.
+},
+{
+    90.84,92.32
+     Bytes to.
+},
+{
+    92.32,93.16
+     Sam muscles.
+},
+{
+    93.16,95.56
+     There's two muscles actually.
+},
+{
+    95.56,97.6
+     Now we don't actually, we're gonna use Sam.
+},
+{
+    97.6,99.9
+     Sam just has bones, no muscles.
+},
+{
+    99.9,103.88
+     But we can show you, this represents the tendon.
+},
+{
+    103.88,107.32
+     And right here, it connects to the radius,
+},
+{
+    107.32,109.4
+     just below the joint, the tendon does,
+},
+{
+    109.4,113.4
+     and then of course it goes to the bulgy mass of the bicep.
+},
+{
+    113.4,118.04
+     And then it splits, the muscle splits superior
+},
+{
+    118.04,122.56
+     or upwards of that major bulge of the muscle.
+},
+{
+    122.56,126.84
+     And there's a bicepital groove in the humerus right here.
+},
+{
+    126.84,129.84
+     And you can see how it fits right in there nicely.
+},
+{
+    129.84,131.68
+     Now that tendon, let's go this way,
+},
+{
+    131.68,135.36
+     that tendon actually connects to the top of the,
+},
+{
+    137.44,138.36
+     glenoid fossa.
+},
+{
+    138.36,140.72
+     The glenoid fossa or the cup of the,
+},
+{
+    140.72,141.96
+     where the humeral ball goes.
+},
+{
+    141.96,143.6
+     And it's right on the labrum there.
+},
+{
+    143.6,145.04
+     And you can see that there.
+},
+{
+    145.04,147.74
+     Now that's the long head of the bicep.
+},
+{
+    147.74,150.0
+     Now the short head comes,
+},
+{
+    150.0,153.36
+     and that tendon actually connects to the caracoid process,
+},
+{
+    153.36,155.52
+     this little bone that looks like a finger.
+},
+{
+    155.52,158.28
+     There's a few muscles attached to that.
+},
+{
+    158.28,161.88
+     So what happens is that can be a source
+},
+{
+    161.88,164.2
+     of the tendonitis up in this area.
+},
+{
+    164.2,167.1
+     You could have it on the tendon down below
+},
+{
+    167.1,171.12
+     or you could have a muscle strain in the muscle belly itself.
+},
+{
+    171.12,173.52
+     Either way, you can use this technique
+},
+{
+    173.52,175.4
+     to help heal it faster.
+},
+{
+    175.4,178.04
+     Yeah, one thing by showing that it attaches
+},
+{
+    178.04,179.96
+     way down in the forearm,
+},
+{
+    179.96,182.28
+     this muscle doesn't just do this.
+},
+{
+    182.28,183.28
+     Is it okay if I do this right?
+},
+{
+    183.28,184.68
+     Yeah, we're gonna talk about the mechanics.
+},
+{
+    184.68,187.6
+     Yeah, so it doesn't just do this. Is it okay if I do this right? Yeah, we're gonna talk about the mechanics. Yeah, so it doesn't just bend the elbow.
+},
+{
+    187.6,192.6
+     It also supernates, I'm sorry, pronates the forearm.
+},
+{
+    192.6,194.2
+     Supernates, supernates, yes.
+},
+{
+    194.2,195.72
+     Well, yeah, cause you can see when you supernate
+},
+{
+    195.72,197.28
+     the muscle go.
+},
+{
+    197.28,201.0
+     Right, so if you're doing curls,
+},
+{
+    201.0,203.04
+     you not only just wanna bend like this,
+},
+{
+    203.04,205.08
+     you also wanna super supinate the forearm.
+},
+{
+    205.08,206.68
+     Just turn it open.
+},
+{
+    206.68,208.52
+     Like Brad said, you used to remember,
+},
+{
+    208.52,210.32
+     the way to remember supination is
+},
+{
+    210.32,211.88
+     if you're going to get a couple of soups,
+},
+{
+    211.88,212.72
+     hold a couple of soups.
+},
+{
+    212.72,214.0
+     You can hold palms up.
+},
+{
+    214.0,215.48
+     Palms up like that.
+},
+{
+    215.48,217.8
+     So it's supinates and it flexes.
+},
+{
+    217.8,222.52
+     And it also flexes the shoulder a little bit.
+},
+{
+    222.52,225.08
+     Compensatory motion, but it's there.
+},
+{
+    225.08,228.44
+     So that's really critical to do this technique, right?
+},
+{
+    228.44,229.88
+     You have to know those motions.
+},
+{
+    229.88,230.72
+     All those motions.
+},
+{
+    230.72,231.56
+     Exactly.
+},
+{
+    231.56,236.56
+     So causes of biceps, tear, tendonitis, et cetera,
+},
+{
+    236.78,237.62
+     could be trauma.
+},
+{
+    237.62,240.7
+     You know, you're getting into accident, car accident.
+},
+{
+    240.7,242.04
+     It may be a sudden movement.
+},
+{
+    242.04,246.08
+     Like if you're playing volleyball and you hit really hard, could be an example.
+},
+{
+    246.08,247.56
+     Pulling a weed out of the ground.
+},
+{
+    247.56,248.8
+     Excessive force.
+},
+{
+    248.8,250.08
+     Yeah, excessive, right.
+},
+{
+    250.08,253.08
+     Grabbing too big of a dumbbell and just going into it
+},
+{
+    253.08,255.0
+     and really trying to build up too quick.
+},
+{
+    255.0,257.28
+     Quite often it is repetitive motions though,
+},
+{
+    257.28,258.12
+     isn't it Brad?
+},
+{
+    258.12,262.16
+     I mean, quite often life, things wear down over time.
+},
+{
+    262.16,263.96
+     And so if you're doing a repetitive motion
+},
+{
+    263.96,268.22
+     that involves the bicep, that's where often it occurs,
+},
+{
+    268.22,269.78
+     especially the tendonitis.
+},
+{
+    269.78,270.86
+     Can we get to the treatment?
+},
+{
+    270.86,272.86
+     Okay, you'll have to move.
+},
+{
+    272.86,276.42
+     Now it's best to do this laying down, lying down.
+},
+{
+    276.42,277.26
+     Laying down.
+},
+{
+    277.26,278.46
+     Oh, we're gonna lay down this time.
+},
+{
+    278.46,279.3
+     You're gonna lie down this time.
+},
+{
+    279.3,280.14
+     Okay.
+},
+{
+    280.14,281.5
+     I'm just gonna use one pillow,
+},
+{
+    281.5,283.02
+     we may need another pillow.
+},
+{
+    283.02,286.48
+     It's really important that you do this in a relaxed setting.
+},
+{
+    286.48,288.6
+     It's best by yourself.
+},
+{
+    288.6,290.68
+     You're gonna lay down and what we need to do
+},
+{
+    290.68,295.0
+     is get that bicep in a relaxed, shortened position.
+},
+{
+    295.0,298.0
+     So we're going to supinate,
+},
+{
+    298.0,300.36
+     we're gonna flex the elbow,
+},
+{
+    300.36,302.72
+     and we're gonna flex the shoulder
+},
+{
+    302.72,305.6
+     so we get way up into this position.
+},
+{
+    305.6,308.84
+     See now you see it's probably as short as it could be
+},
+{
+    308.84,309.68
+     in this position.
+},
+{
+    309.68,310.64
+     That's the goal.
+},
+{
+    310.64,312.44
+     You may need to, now,
+},
+{
+    312.44,315.4
+     because we have a small plinth here, there,
+},
+{
+    315.4,317.84
+     but on a bed or a floor,
+},
+{
+    317.84,319.96
+     you're gonna get a pillow here, here,
+},
+{
+    319.96,321.44
+     and at this point,
+},
+{
+    321.44,324.64
+     you may wanna move your elbow back and forth,
+},
+{
+    324.64,326.92
+     and what we're looking for is a position
+},
+{
+    326.92,330.12
+     of maximum comfort of where the injury is.
+},
+{
+    330.12,332.76
+     So once we shorten that muscle, again,
+},
+{
+    332.76,337.24
+     supinate, flex the elbow, flex the shoulder,
+},
+{
+    337.24,340.48
+     and then we find a position that's really comfortable
+},
+{
+    340.48,342.0
+     and then adjust the pillows
+},
+{
+    342.0,345.32
+     so you can completely relax that arm.
+},
+{
+    345.32,348.16
+     And let's say the pain when you're here
+},
+{
+    348.16,349.64
+     and you're moving it, you know,
+},
+{
+    349.64,352.64
+     you get to a six or seven pain on the painful area.
+},
+{
+    352.64,355.68
+     Wherever it is, when we shorten it up,
+},
+{
+    355.68,357.24
+     what we're looking for is a position,
+},
+{
+    357.24,360.4
+     a pain level of hopefully two or below.
+},
+{
+    360.4,362.2
+     One or zero is perfect.
+},
+{
+    362.2,365.44
+     And once you find it, then you get your timer out.
+},
+{
+    365.44,367.84
+     And it's critical that you're gonna hold this position
+},
+{
+    367.84,370.56
+     in a very relaxed, relaxed breathing.
+},
+{
+    370.56,373.16
+     Everything's relaxed for 90 seconds.
+},
+{
+    373.16,374.64
+     Not less than 90 seconds.
+},
+{
+    374.64,376.68
+     You can go longer, but not less.
+},
+{
+    376.68,378.92
+     So hit your timer and just hang out there
+},
+{
+    378.92,380.56
+     in a nice quiet breathe.
+},
+{
+    380.56,382.24
+     And you're gonna go for 90 seconds.
+},
+{
+    382.24,384.92
+     Now we're not gonna hold it for 90 seconds for the video.
+},
+{
+    384.92,386.72
+     Do that on your own, put it on hold.
+},
+{
+    386.72,391.02
+     And go ahead, you go up to 120 seconds.
+},
+{
+    391.02,394.4
+     And now it's critical when you're done with this
+},
+{
+    394.4,396.66
+     is that you just don't open up quickly.
+},
+{
+    396.66,401.66
+     You come up and let things extend and lengthen that bicep.
+},
+{
+    402.28,404.68
+     Slowly take your time, get up.
+},
+{
+    404.68,406.76
+     You're not gonna lift weights after this
+},
+{
+    406.76,410.66
+     or do any chores that extend or stress that bicep.
+},
+{
+    410.66,413.7
+     You can do a gentle massage on the muscle
+},
+{
+    413.7,416.9
+     to keep it loose or where the tendon is.
+},
+{
+    416.9,420.6
+     And then you're gonna do this three times per day.
+},
+{
+    420.6,423.16
+     And there's a good chance by the second day
+},
+{
+    423.16,424.6
+     it's feeling much better.
+},
+{
+    424.6,428.48
+     I did this exact same technique for a tennis ball.
+},
+{
+    428.48,431.08
+     I was amazed that I was doing some other techniques
+},
+{
+    431.08,433.36
+     that were helping, but this, by the next day
+},
+{
+    433.36,434.2
+     I forgot about it.
+},
+{
+    434.2,435.04
+     I was so impressed.
+},
+{
+    435.04,438.34
+     Isn't it amazing, you know, pain gets into these cycles
+},
+{
+    438.34,441.56
+     where it hurts so the muscle tightens up
+},
+{
+    441.56,444.56
+     and it's putting stress on it the entire day then.
+},
+{
+    444.56,447.36
+     And then that causes more pain,
+},
+{
+    447.36,448.76
+     which causes it to tighten up more.
+},
+{
+    448.76,450.44
+     It's the vicious cycle.
+},
+{
+    450.44,452.28
+     So this breaks up that cycle.
+},
+{
+    452.28,455.08
+     And that's why if you do it throughout the day,
+},
+{
+    455.08,456.56
+     three times or so,
+},
+{
+    456.56,458.08
+     you're breaking up the cycle during the day
+},
+{
+    458.08,460.28
+     and it lets that muscle relax and heal.
+},
+{
+    460.28,463.0
+     Get some blood flow to the area.
+},
+{
+    463.0,464.24
+     So, and this is nothing new.
+},
+{
+    464.24,466.84
+     This is a system called Contract Relax,
+},
+{
+    466.84,469.16
+     and it's been around for, I believe,
+},
+{
+    469.16,470.32
+     greater than 30 years.
+},
+{
+    470.32,471.16
+     Strain counter strain.
+},
+{
+    471.16,473.28
+     I'm sorry, strain counter strain.
+},
+{
+    473.28,475.24
+     Positional release is a new term.
+},
+{
+    475.24,476.76
+     Yeah, new term.
+},
+{
+    476.76,477.92
+     So anyways, it's a-
+},
+{
+    477.92,481.32
+     I look at it, Brad, it can be a tool in your toolbox.
+},
+{
+    481.32,484.2
+     Like, maybe this isn't gonna be the one that does it all.
+},
+{
+    484.2,485.88
+     I don't know, it might.
+},
+{
+    485.88,487.76
+     It seemed like it did with your-
+},
+{
+    487.76,488.76
+     Oh yeah.
+},
+{
+    488.76,490.96
+     And you've had good luck with your hip flexor?
+},
+{
+    490.96,492.8
+     Yeah, yeah, I did, I did.
+},
+{
+    492.8,494.24
+     I actually don't even think about it.
+},
+{
+    494.24,495.24
+     Now that you-
+},
+{
+    495.24,496.08
+     See?
+},
+{
+    496.08,497.56
+     When the pain's gone, you forget about it.
+},
+{
+    497.56,499.36
+     I know you do, you forget about it.
+},
+{
+    499.36,501.64
+     I was like, I haven't even been doing that exercise.
+},
+{
+    501.64,503.6
+     And you're like, well, it hasn't been there.
+},
+{
+    503.6,506.32
+     So Bob, I would have to say this is the point of the video
+},
+{
+    506.32,507.6
+     where people say we're babbling.
+},
+{
+    507.6,508.44
+     Yeah.
+},
+{
+    508.44,509.28
+     I hear you.
+},
+{
+    509.28,510.12
+     Anyway, it was good luck with the technique.
+},
+{
+    510.12,512.28
+     I have a feeling you're gonna have good luck with it.
+},
+{
+    512.28,513.36
+     And back to the-
+},
+{
+    513.36,514.72
+     And our red and I are not just pretty.
+},
+{
+    514.72,515.68
+     Yeah, we're pretty ugly.
+},
+{
+    515.68,517.06
+     No, we're pretty helpful.
+},
+{
+    517.06,517.9
+     Helpful.
+},
+{
+    517.9,518.74
+     Yeah, that's right.
+},
+{
+    518.74,519.72
+     And handy, so make sure you subscribe.
+},
+{
+    519.72,None
+     Handy, handy, Good.
+},

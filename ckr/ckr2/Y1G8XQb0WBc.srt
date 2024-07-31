@@ -1,0 +1,72 @@
+{
+    0.0,8.0
+     In this video, I will demonstrate how to effectively stop bleeding and bandage a bleeding victim.
+},
+{
+    8.0,13.0
+     Sometimes a bleeding wound looks worse than it really is.
+},
+{
+    13.0,21.0
+     A large vessel or arterial bleed can bleed profusely and needs first aid attention immediately.
+},
+{
+    21.0,28.0
+     Bleeding from most mild to moderate cuts or lacerations can be controlled with pressure.
+},
+{
+    28.0,31.0
+     First, check for scene safety.
+},
+{
+    31.0,39.0
+     If available, obtain the first aid kit, wash hands, and wear gloves before applying rolled bandage.
+},
+{
+    39.0,43.0
+     Bandages are used to protect or cover a wound during healing.
+},
+{
+    43.0,45.02
+     They can also be used to apply
+},
+{
+    45.02,50.56
+     pressure to stop bleeding. Apply gauze dressing over the wound and apply direct
+},
+{
+    50.56,55.32
+     pressure over the wound that is bleeding. Apply bandage over the dressing
+},
+{
+    55.32,59.64
+     and when wrapping an extremity with a rolled gauze bandage it's important to
+},
+{
+    59.64,65.32
+     start at the distal end and work towards the proximal end.
+},
+{
+    65.32,70.84
+     If the victim is alert and can help apply pressure to a bleeding wound, ask them to help hold
+},
+{
+    70.84,73.08
+     pressure where needed.
+},
+{
+    73.08,78.6
+     If bleeding doesn't stop, apply more gauze over the original dressing.
+},
+{
+    78.6,81.08
+     Do not remove the original dressing.
+},
+{
+    81.08,86.04
+     If clean gauze and first aid supplies are not available, use whatever clean cloth is
+},
+{
+    86.04,89.24
+     available to cover the wound and apply pressure.
+},

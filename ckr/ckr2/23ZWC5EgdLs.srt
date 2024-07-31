@@ -1,0 +1,1192 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.08,13.12
+     Howdy folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.12,14.2
+     Brad Heineck, physical therapist.
+},
+{
+    14.2,15.72
+     Together we are the most famous physical therapists
+},
+{
+    15.72,16.56
+     on the internet.
+},
+{
+    16.56,17.6
+     In our opinion, of course, Bob.
+},
+{
+    17.6,19.12
+     And we have a treat for you today.
+},
+{
+    19.12,22.4
+     Today we're gonna show you how to get rid of muscle knots
+},
+{
+    22.4,28.36
+     in the traps, trapezius, shoulders, and back in 90 seconds.
+},
+{
+    28.44,30.22
+     And this is not, we're not hyping it.
+},
+{
+    30.22,34.1
+     This is an actual technique and Brad's gonna talk about
+},
+{
+    34.1,36.48
+     how it worked on a different part of your body, right?
+},
+{
+    36.48,37.84
+     Oh yeah, I'm excited about this.
+},
+{
+    37.84,40.0
+     This is a, it's nothing new.
+},
+{
+    40.0,42.48
+     It's been scientifically proven by many studies,
+},
+{
+    42.48,43.76
+     clinically proven.
+},
+{
+    43.76,47.8
+     It started back in the 50s by Dr. Lawrence Jones.
+},
+{
+    47.8,50.2
+     And originally it's called strain colonists.
+},
+{
+    50.2,51.84
+     Strain colonists, that's what I remember
+},
+{
+    51.84,52.68
+     from my earlier days.
+},
+{
+    52.68,55.88
+     And now it's more often this positional release.
+},
+{
+    55.88,57.28
+     Typically a therapist does it,
+},
+{
+    57.28,61.64
+     but it's very, we can teach you the basic parts of this
+},
+{
+    61.64,63.24
+     so that you can do it at home.
+},
+{
+    63.24,64.48
+     Yeah, we're basically gonna show you
+},
+{
+    64.48,65.64
+     how to get this area right here, the knot on it. Right, you can do it at home. Yeah, we're basically gonna show you how to get this area
+},
+{
+    65.64,67.56
+     right here, the knot, out of there, right?
+},
+{
+    67.56,69.08
+     Right, shoulder, that upper back.
+},
+{
+    69.08,71.6
+     Very common place for knots.
+},
+{
+    71.6,75.36
+     It's a few steps, but just follow along with us
+},
+{
+    75.36,76.64
+     and you'll be able to catch that hold.
+},
+{
+    76.64,77.92
+     Exactly right.
+},
+{
+    77.92,79.28
+     So, Bob, are we gonna...
+},
+{
+    79.28,80.52
+     By the way, if you're new to this channel,
+},
+{
+    80.52,82.16
+     please take a second to subscribe to us.
+},
+{
+    82.16,84.32
+     We provide videos on how to stay healthy, fit, pain-free,
+},
+{
+    84.32,85.56
+     and we upload every day.
+},
+{
+    85.56,87.16
+     When's this fun going up, Mike?
+},
+{
+    89.76,91.88
+     Saturday, okay, so we're in between right now.
+},
+{
+    91.88,93.72
+     We're always doing a giveaway,
+},
+{
+    93.72,95.48
+     but today's the in-between day,
+},
+{
+    95.48,99.08
+     so go tomorrow and check the bobandbrad.com,
+},
+{
+    99.08,100.68
+     go to the giveaway section,
+},
+{
+    100.68,103.08
+     and you'll see we're giving away a knee glide, right?
+},
+{
+    103.08,103.92
+     Yeah, knee glide.
+},
+{
+    103.92,107.82
+     You can also, if you belong to us on Facebook,
+},
+{
+    107.82,109.66
+     it'll always be pinned at the top of the page
+},
+{
+    109.66,110.82
+     all week long, the contest.
+},
+{
+    110.82,111.66
+     That is.
+},
+{
+    111.66,113.98
+     Go to Instagram, Twitter, or TikTok
+},
+{
+    113.98,116.58
+     if you want a 60 second version of our program every day.
+},
+{
+    116.58,117.42
+     All right.
+},
+{
+    117.42,120.82
+     So Bob, we've already started with the introduction of this.
+},
+{
+    120.82,122.22
+     We might as well get ready to work.
+},
+{
+    122.22,125.04
+     So why don't you turn around Bob?
+},
+{
+    125.04,129.06
+     That typical spot, there's a trigger point in this muscle,
+},
+{
+    129.06,132.16
+     oftentimes in the levator scapula or the upper trap,
+},
+{
+    132.16,135.64
+     that tightness that gets from poor posture, tension,
+},
+{
+    135.64,138.64
+     all those things that adds up with life.
+},
+{
+    138.64,141.72
+     And it seems to end up commonly right here.
+},
+{
+    141.72,142.76
+     I feel a little bit there.
+},
+{
+    142.76,146.52
+     Yeah, and every patient I have that I work on her shoulder,
+},
+{
+    146.52,147.8
+     I usually find that spot.
+},
+{
+    147.8,148.92
+     And I see you see that?
+},
+{
+    148.92,151.44
+     And I say, don't worry, everyone has it on both sides.
+},
+{
+    151.44,155.24
+     But when you're tight, it's painful, it's worse, much worse.
+},
+{
+    155.24,158.04
+     So what you'll wanna do when you feel that tightness
+},
+{
+    158.04,162.92
+     is take your opposite hand and reach over and find that nod.
+},
+{
+    162.92,165.34
+     You'll find the muscles a little noddier there.
+},
+{
+    165.34,166.18
+     It's right there.
+},
+{
+    166.18,168.18
+     It's an area of hyperirritability.
+},
+{
+    168.18,169.02
+     There you go.
+},
+{
+    169.02,170.62
+     It's a nodule basically.
+},
+{
+    170.62,171.46
+     A marble.
+},
+{
+    171.46,173.5
+     I had a school had a teacher say it.
+},
+{
+    173.5,174.62
+     It's like a Tootsie roll.
+},
+{
+    174.62,175.46
+     It kind of is.
+},
+{
+    175.46,178.8
+     It's about that size and you'll feel it and it's tender.
+},
+{
+    178.8,181.58
+     And when it's really knotted up, it's really tender.
+},
+{
+    181.58,184.74
+     So just palpate that and get a benchmark
+},
+{
+    184.74,186.56
+     for how painful it is.
+},
+{
+    186.56,188.96
+     Now you can do this in a couple different positions,
+},
+{
+    188.96,191.8
+     but I'm gonna show you how to do it sideline.
+},
+{
+    191.8,195.28
+     So if it's the right shoulder that has the knot,
+},
+{
+    195.28,198.2
+     then we're gonna lie on your left side.
+},
+{
+    198.2,199.4
+     You said it right Brad.
+},
+{
+    199.4,201.7
+     Well Bob, I've been practicing at home.
+},
+{
+    201.7,203.36
+     Can I have two pillows probably?
+},
+{
+    203.36,205.72
+     Yeah, we're probably gonna need two pillows.
+},
+{
+    205.72,208.12
+     All right, I can still palpate that area too
+},
+{
+    208.12,209.16
+     in this position.
+},
+{
+    209.16,210.76
+     Can you see that mic in the camera?
+},
+{
+    210.76,212.68
+     Are we getting off?
+},
+{
+    212.68,214.12
+     Should we back a little bit further?
+},
+{
+    214.12,215.96
+     Yeah, that might help.
+},
+{
+    215.96,220.96
+     Now, the thing about this is it's a positional release
+},
+{
+    221.12,223.28
+     and the position of your head and your shoulder
+},
+{
+    223.28,224.74
+     is very critical.
+},
+{
+    224.74,228.84
+     The whole idea, the muscle basically starts here
+},
+{
+    228.84,231.88
+     and goes up to the head and we wanna shorten that muscle
+},
+{
+    231.88,233.6
+     as much as possible.
+},
+{
+    233.6,236.56
+     And the whole theory is, is neurologically,
+},
+{
+    236.56,238.8
+     that's gonna allow the muscle to relax,
+},
+{
+    238.8,240.72
+     which is gonna increase circulation,
+},
+{
+    240.72,242.24
+     blood full and oxygen,
+},
+{
+    242.24,245.04
+     which is gonna allow that knot to release.
+},
+{
+    245.04,246.4
+     And you'll feel that when that,
+},
+{
+    246.4,248.16
+     get that circulation going,
+},
+{
+    248.16,250.6
+     everything feels much better and it carries on.
+},
+{
+    250.6,252.64
+     So now that we got the theory,
+},
+{
+    252.64,254.56
+     we're gonna go back to the practice.
+},
+{
+    254.56,257.64
+     So Bob is going to take his head,
+},
+{
+    257.64,259.44
+     if this is a painful side,
+},
+{
+    259.44,263.24
+     he's gonna side bend right ear towards the right shoulder.
+},
+{
+    263.24,264.08
+     Okay.
+},
+{
+    264.08,267.92
+     And then he's gonna look away from that shoulder, rotate.
+},
+{
+    267.92,269.12
+     No, I'm gonna extend first, all right?
+},
+{
+    269.12,271.24
+     Well, we can extend, not really far.
+},
+{
+    271.24,272.08
+     A little bit, a little bit.
+},
+{
+    272.08,272.92
+     Yeah.
+},
+{
+    272.92,273.76
+     I'm bringing my head back a little bit.
+},
+{
+    273.76,275.68
+     Yeah, exactly, sorry, good job, Bob.
+},
+{
+    275.68,276.96
+     Thanks for correcting me.
+},
+{
+    276.96,279.24
+     And then look away.
+},
+{
+    279.24,280.96
+     So this is kind of awkward position.
+},
+{
+    280.96,283.52
+     And then we need enough pillows
+},
+{
+    283.52,287.88
+     so that you can relax and maintain that position.
+},
+{
+    287.88,290.0
+     Now, you can palpate again.
+},
+{
+    290.0,292.4
+     If you feel that painful spot
+},
+{
+    292.4,295.48
+     dramatically, G decreases when you touch it,
+},
+{
+    295.48,297.74
+     this is all the farther you have to go.
+},
+{
+    297.74,300.8
+     Then you have a timer and you hit the timer,
+},
+{
+    300.8,304.56
+     or you look at the watch on a clock on the wall,
+},
+{
+    304.56,306.56
+     you know, it has second hand or whatever,
+},
+{
+    306.56,309.8
+     and you go for 90 seconds in that position.
+},
+{
+    309.8,312.6
+     It's critical you go at least 90 seconds
+},
+{
+    312.6,314.56
+     in order for things to release.
+},
+{
+    314.56,317.52
+     Now, if you palpate and still feel sore,
+},
+{
+    317.52,321.44
+     then we're gonna add shoulder or scapular elevation
+},
+{
+    321.44,324.96
+     so the shoulder goes up towards the ear.
+},
+{
+    324.96,328.8
+     You may want another pillow for this arm to relax in.
+},
+{
+    328.8,330.34
+     Or you could even go up like this, you said?
+},
+{
+    330.34,331.18
+     Or not.
+},
+{
+    331.18,333.3
+     Or you can reach over the top like this.
+},
+{
+    334.22,336.62
+     And you're gonna, and you can adjust yourself
+},
+{
+    336.62,339.68
+     however it takes so that muscle relax
+},
+{
+    339.68,342.14
+     in the painful spot that feels better there.
+},
+{
+    342.14,342.98
+     Yeah.
+},
+{
+    342.98,343.82
+     Yeah, there.
+},
+{
+    343.82,345.94
+     I can see Bob, his eyes are relaxing.
+},
+{
+    345.94,348.7
+     I can feel the knot is disappearing now,
+},
+{
+    348.7,349.62
+     the one that was there.
+},
+{
+    349.62,352.14
+     So what pain level were you at when you pushed initially?
+},
+{
+    352.14,353.46
+     Well, it wasn't much.
+},
+{
+    353.46,354.3
+     Right, because you're not,
+},
+{
+    354.3,355.26
+     you're not having,
+},
+{
+    355.26,356.7
+     but it was maybe at a two or three.
+},
+{
+    356.7,357.7
+     One or two I'd say.
+},
+{
+    357.7,359.06
+     That's pretty typical for the average.
+},
+{
+    359.06,359.98
+     And now it's gone.
+},
+{
+    359.98,361.46
+     That's gone, so you're there.
+},
+{
+    361.46,363.02
+     So, okay, are you ready?
+},
+{
+    363.02,363.86
+     Yeah.
+},
+{
+    363.86,365.28
+     Click, the timer goes,
+},
+{
+    365.28,368.6
+     and the person completely relaxed in the quiet area.
+},
+{
+    368.6,370.24
+     Again, 90 seconds.
+},
+{
+    370.24,372.4
+     Can you do this at a seated position, Brad?
+},
+{
+    372.4,373.32
+     Yes, you can.
+},
+{
+    373.32,374.36
+     Okay.
+},
+{
+    374.36,376.28
+     You probably want to do it in a recliner
+},
+{
+    376.28,377.88
+     or something where you can get pillows.
+},
+{
+    377.88,380.28
+     Maybe we'll show it real quick, seated.
+},
+{
+    380.28,381.72
+     We could try, yeah.
+},
+{
+    381.72,382.68
+     Well, I wasn't going to,
+},
+{
+    382.68,383.96
+     but we're gonna give them a bonus.
+},
+{
+    383.96,384.8
+     We might as well.
+},
+{
+    384.8,388.56
+     Yeah, that's right. So I'm gonna pretend 90 seconds went by.
+},
+{
+    388.56,389.96
+     It's pretty close to 90 seconds.
+},
+{
+    389.96,391.08
+     Yeah, it probably is.
+},
+{
+    391.08,392.16
+     People are probably complaining.
+},
+{
+    392.16,393.56
+     We're talking too much again.
+},
+{
+    393.56,396.48
+     Now it's really critical when you come out of this position,
+},
+{
+    396.48,398.48
+     you come out of it slowly
+},
+{
+    398.48,400.56
+     and you just relax your breathing.
+},
+{
+    400.56,404.28
+     So Bob, can you get up in a nice relaxed, slow manner?
+},
+{
+    404.28,408.24
+     So we don't, very, yep, breathing, relax.
+},
+{
+    408.24,412.52
+     And when you're done, now you can do some gentle
+},
+{
+    412.52,415.48
+     and slow range of motion with your neck.
+},
+{
+    415.48,418.2
+     We're not gonna get after this and stretch hard on it
+},
+{
+    418.2,419.12
+     or anything like that.
+},
+{
+    419.12,420.92
+     We're just gonna do some gentle motion.
+},
+{
+    420.92,422.48
+     Remember that muscles relax.
+},
+{
+    422.48,425.4
+     Now we want circulation to continue to flow.
+},
+{
+    425.4,428.44
+     Just allow it to continue to relax.
+},
+{
+    428.44,433.16
+     Also, you can do a little massage on it as well.
+},
+{
+    433.16,434.36
+     If you want, not hard.
+},
+{
+    434.36,435.2
+     You know, you don't have to.
+},
+{
+    435.2,437.0
+     It's already, the knot is gone.
+},
+{
+    437.0,439.56
+     We just need to get the circulation improved.
+},
+{
+    439.56,440.92
+     And then you're done.
+},
+{
+    440.92,443.76
+     You can repeat that three or four times a day.
+},
+{
+    443.76,444.68
+     Cause it may come back,
+},
+{
+    444.68,445.8
+     particularly if you're tense,
+},
+{
+    445.8,446.88
+     if you have poor posture,
+},
+{
+    446.88,448.44
+     you're not aware of it,
+},
+{
+    448.44,450.92
+     which is oftentimes why that particular
+},
+{
+    450.92,454.08
+     that starts and is originated.
+},
+{
+    454.08,455.68
+     Yeah, a lot of times you're not moving
+},
+{
+    455.68,456.64
+     and you're concentrating,
+},
+{
+    456.64,458.24
+     you're focused on your work
+},
+{
+    458.24,459.48
+     and that's how it develops.
+},
+{
+    459.48,461.68
+     But let's try to see it as a secret.
+},
+{
+    461.68,465.64
+     So basically I'm gonna do lateral side bend.
+},
+{
+    465.64,467.5
+     This'll help you even when you're lying down
+},
+{
+    467.5,468.34
+     to know what you're doing.
+},
+{
+    468.34,469.18
+     Right, the mechanics.
+},
+{
+    469.18,471.64
+     So I'm going to the right,
+},
+{
+    471.64,473.8
+     then I'm bringing it back a little bit.
+},
+{
+    473.8,475.2
+     Now I'm turning it away.
+},
+{
+    475.2,476.04
+     There you go.
+},
+{
+    476.04,478.72
+     And now I'm lifting this up like this.
+},
+{
+    478.72,479.56
+     Right.
+},
+{
+    479.56,484.56
+     Now again, Bob does not have a chair to lean into and relax.
+},
+{
+    484.56,485.2
+     And that would be a lot better if I wasn't a recliner. And then you would have a chair to lean into and relax. So this-
+},
+{
+    485.2,487.28
+     And that would be a lot better if I wasn't a recliner.
+},
+{
+    487.28,488.48
+     And then you would have a pillow,
+},
+{
+    488.48,491.28
+     at least one pillow there to rest your arm on.
+},
+{
+    491.28,493.84
+     We'd have a pillow here, a recliner
+},
+{
+    493.84,495.4
+     so you can adjust the angle
+},
+{
+    495.4,498.16
+     would probably be ideal for someone on this.
+},
+{
+    498.16,499.72
+     I actually gotta be honest, Brad.
+},
+{
+    499.72,501.76
+     I think I almost would rather do it sitting.
+},
+{
+    501.76,504.0
+     Yeah, it may be a good option.
+},
+{
+    504.0,506.6
+     I think, again, amen, amen.
+},
+{
+    506.6,508.26
+     It's one of those things in the clinic
+},
+{
+    508.26,509.86
+     it's easier sideline,
+},
+{
+    509.86,511.24
+     because you got a patient laying there
+},
+{
+    511.24,512.08
+     and it's easier to work with.
+},
+{
+    512.08,515.12
+     That really, that really snaps it away.
+},
+{
+    515.12,516.24
+     Bob, this has been proven.
+},
+{
+    516.24,520.74
+     I guess I'm a little shocked that it's working that well.
+},
+{
+    520.74,521.58
+     Yeah.
+},
+{
+    521.58,524.32
+     You know, because it was, it was there, it's gone.
+},
+{
+    524.32,526.92
+     This is gonna be big, Bob.
+},
+{
+    526.92,529.32
+     All right, well, if you wanna do it on the other side,
+},
+{
+    529.32,530.76
+     I'm gonna show that real quick too, Brad.
+},
+{
+    530.76,532.64
+     Because if anybody wanna try it on the other side,
+},
+{
+    532.64,533.8
+     they won't remember the steps.
+},
+{
+    533.8,534.84
+     Well, say no more, Bob.
+},
+{
+    534.84,537.12
+     So left side, left side problem,
+},
+{
+    537.12,542.02
+     we're gonna angle, you're gonna laterally side bend.
+},
+{
+    542.02,544.16
+     You're gonna extend it a little bit.
+},
+{
+    544.16,546.04
+     You're gonna turn away and then you're gonna extend it a little bit, you're gonna turn away,
+},
+{
+    546.04,548.44
+     and then you're gonna elevate the shoulder.
+},
+{
+    548.44,551.4
+     Yeah, if you don't have something to rest the arm on,
+},
+{
+    551.4,553.6
+     if you do it seated, it's not gonna work,
+},
+{
+    553.6,555.84
+     because your muscle is gonna contract
+},
+{
+    555.84,557.44
+     to hold that shoulder up, so you have to.
+},
+{
+    557.44,559.04
+     Yeah, yeah, everything's gonna work.
+},
+{
+    559.04,560.48
+     So it's not, you can't do it like this,
+},
+{
+    560.48,561.8
+     you gotta be leaning in a chair.
+},
+{
+    561.8,565.6
+     Yeah, you gotta support the elbow and the arm.
+},
+{
+    566.48,569.76
+     And actually, before we finish up, I did this.
+},
+{
+    569.76,570.6
+     We're gonna do another video on this.
+},
+{
+    570.6,571.44
+     Oh yeah, that's right.
+},
+{
+    571.44,572.28
+     You're gonna give it a test.
+},
+{
+    572.28,576.2
+     Tennis elbow, which I've been working on this for a while now
+},
+{
+    576.2,579.08
+     with my cross-friction massage that's been helping.
+},
+{
+    579.08,581.8
+     I did the other mobilization that was helping
+},
+{
+    581.8,583.28
+     and then I did this technique.
+},
+{
+    583.28,584.12
+     And it really helped.
+},
+{
+    584.12,584.96
+     Yeah.
+},
+{
+    584.96,586.32
+     I mean, the next day I forgot all about it.
+},
+{
+    586.32,588.48
+     It's like, oh my tennis elbow's gone.
+},
+{
+    588.48,590.76
+     It's like, we gotta make videos.
+},
+{
+    590.76,591.6
+     Yeah, he's gonna do a video on this.
+},
+{
+    591.6,592.44
+     We gotta show people.
+},
+{
+    592.44,593.96
+     Because I know there's nothing like
+},
+{
+    593.96,595.72
+     when it works on you really well.
+},
+{
+    595.72,596.76
+     Yeah, then you get it.
+},
+{
+    596.76,599.64
+     It's doubly, I mean we get excited for our patients,
+},
+{
+    599.64,601.64
+     but when you feel it in your own body,
+},
+{
+    601.64,602.48
+     I gotta admit it.
+},
+{
+    602.48,603.32
+     It does.
+},
+{
+    603.32,605.04
+     It does motivate you a little bit more.
+},
+{
+    605.04,606.92
+     It can be a life changer to some extent.
+},
+{
+    606.92,608.52
+     You know, I mean, I just remember
+},
+{
+    608.52,609.76
+     one of my shoulders bothered me
+},
+{
+    609.76,612.4
+     and we did the booyah stick and it went away.
+},
+{
+    612.4,614.56
+     I'm like, my God, that was a,
+},
+{
+    614.56,615.4
+     it was something.
+},
+{
+    615.4,616.24
+     You must share.
+},
+{
+    616.24,617.08
+     Share it to the world.
+},
+{
+    617.08,617.92
+     All right.
+},
+{
+    617.92,618.92
+     People are getting bored of us now.
+},
+{
+    618.92,620.24
+     Thanks for watching everybody.
+},
+{
+    620.24,None
+     Appreciate it.
+},

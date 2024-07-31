@@ -1,0 +1,164 @@
+{
+    0.0,41.8
+     Music Hello, and welcome to the University Health Network.
+},
+{
+    41.8,47.5
+     Today, I'm going to be teaching you about two leg exercises to do while you're in bed.
+},
+{
+    47.5,49.7
+     Hello Mr. Santos, how are you today?
+},
+{
+    49.7,50.7
+     Well thank you.
+},
+{
+    50.7,51.7
+     Good.
+},
+{
+    51.7,55.4
+     My name's Amanda and I'm a physiotherapist on the unit and today I'm going to be teaching
+},
+{
+    55.4,58.3
+     you two leg exercises to do while you're in bed.
+},
+{
+    58.3,60.5
+     Nice to meet you Amanda.
+},
+{
+    60.5,67.0
+     The first exercise is called ankle pumping. To do this exercise you must move your ankles up and down.
+},
+{
+    67.0,72.38
+     Should I do them one at a time or together?
+},
+{
+    72.38,74.38
+     Whichever you prefer.
+},
+{
+    74.38,75.38
+     Good.
+},
+{
+    75.38,79.86
+     Now try the other side.
+},
+{
+    79.86,85.0
+     I'll try them together.
+},
+{
+    85.0,87.92
+     Good.
+},
+{
+    87.92,93.2
+     We suggest that you do this exercise 10 times every hour to maintain the circulation in
+},
+{
+    93.2,96.56
+     your legs and prevent blood clots from forming.
+},
+{
+    96.56,100.26
+     I can get clots.
+},
+{
+    100.26,108.0
+     When you're in bed, the circulation slows down, so by keeping the legs moving, it prevents these blood clots from forming.
+},
+{
+    108.0,114.0
+     Okay, so I'll do this exercise 10 times once an hour while I'm in bed.
+},
+{
+    114.0,118.0
+     That's right. The second exercise is called knee bends.
+},
+{
+    118.0,124.0
+     To do this exercise, what I'd like you to do is bring your knee up towards your chest and back down again.
+},
+{
+    124.0,127.0
+     Now for this one, you can alternate your legs.
+},
+{
+    127.0,129.0
+     Okay.
+},
+{
+    129.0,131.0
+     That far up?
+},
+{
+    131.0,133.0
+     Perfect.
+},
+{
+    136.0,138.0
+     Good.
+},
+{
+    138.0,140.0
+     Now for this exercise, the same thing applies.
+},
+{
+    140.0,144.0
+     I'd like you to do it ten times every hour while you're in bed.
+},
+{
+    144.0,147.16
+     Okay. Ten times an hour while I'm in bed.
+},
+{
+    147.16,149.08
+     In addition to the ankle pumps.
+},
+{
+    149.08,150.08
+     Okay.
+},
+{
+    150.08,152.84
+     Do you have any questions?
+},
+{
+    152.84,154.8
+     Should I do them together?
+},
+{
+    154.8,157.68
+     Like do the ankle pumps are then the knee bends?
+},
+{
+    157.68,158.68
+     That's a good idea.
+},
+{
+    158.68,160.84
+     I think it's easier to keep track of them that way.
+},
+{
+    160.84,165.28
+     So you can do your 10 ankle pumps and then your 10 knee bends every hour.
+},
+{
+    165.28,175.58
+     Okay, that sounds good. Thank you Amanda. You're welcome.
+},
+{
+    175.58,180.22
+     Leg exercises are important to do consistently while you're in bed after you've had your
+},
+{
+    180.22,None
+     surgery. Thank you very much for watching. We hope you have found this video helpful. you
+},

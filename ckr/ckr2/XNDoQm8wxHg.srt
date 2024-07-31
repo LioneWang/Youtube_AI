@@ -1,0 +1,60 @@
+{
+    0.0,10.48
+     My name is Jonathan Simon.
+},
+{
+    10.48,13.96
+     I'm an acupuncturist at the Integrative Medicine Service.
+},
+{
+    13.96,22.0
+     I'm going to demonstrate how to perform acupressure at P6 for the treatment of nausea and vomiting.
+},
+{
+    22.0,27.32
+     To locate this point, hold one hand, palm up. The point is located three
+},
+{
+    27.32,34.22
+     finger widths below the wrist crease. Next, use your thumb and place it below
+},
+{
+    34.22,40.66
+     the index finger between the two large tendons. Using firm pressure and a
+},
+{
+    40.66,45.64
+     circular motion, apply pressure to this point.
+},
+{
+    45.64,50.26
+     You might feel a deep achy sensation but it should not be painful.
+},
+{
+    50.26,55.5
+     This point can be used before meals as well as before going to bed each night.
+},
+{
+    55.5,60.74
+     We recommend you use this point multiple times a day.
+},
+{
+    60.74,65.0
+     Accupressure can be a beneficial self-care tool for multiple symptoms.
+},
+{
+    65.0,70.0
+     However, in order to perform it safely, it's important to keep a few things in mind.
+},
+{
+    70.0,74.0
+     Never do acupressure in areas with open cuts.
+},
+{
+    74.0,77.0
+     Always avoid pick lines and IV lines.
+},
+{
+    77.0,80.0
+     And also always avoid areas with redness and swelling.
+},

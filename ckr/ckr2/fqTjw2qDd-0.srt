@@ -1,0 +1,84 @@
+{
+    0.0,8.0
+     At some time when we least expect it, we may encounter a victim of an accident or illness that becomes unconscious.
+},
+{
+    9.0,19.0
+     Hi, I'm Captain Joe Bruni. What we're going to talk about is how to assess the airway, breathing, and circulation in the unconscious or conscious victim.
+},
+{
+    26.88,31.4
+     We approach the victim and make sure that the scene is safe, first and foremost, and kneel next to the patient if they're lying in this position.
+},
+{
+    31.4,37.48
+     The very next thing we'll do as long as we don't suspect a neck or cervical spine injury
+},
+{
+    37.48,47.48
+     is to tilt the head back and using the chin lift technique to open the airway. We will then go down and look, listen, and feel,
+},
+{
+    47.48,50.92
+     looking for chest rise, feeling against our cheek
+},
+{
+    50.92,53.12
+     for the exchange of air or breathing,
+},
+{
+    53.12,55.3
+     and listening for the exchange of air.
+},
+{
+    57.26,59.12
+     If there is no exchange of air,
+},
+{
+    59.12,62.1
+     rescue breaths may be in order.
+},
+{
+    62.1,67.0
+     After the airway is assessed, to assess circulation, we place two fingers
+},
+{
+    67.1,72.48
+     alongside the neck, feeling for the carotid artery, to determine if the person has circulation
+},
+{
+    72.48,79.48
+     or pulse. If we're determining circulation on an infant, we would check the area between
+},
+{
+    79.48,88.28
+     the elbow and the armpit, known as the brachial artery, again using two fingers. Do not use the thumb to assess circulation
+},
+{
+    88.28,92.76
+     as the thumb has its own pulse in it. Two fingers
+},
+{
+    92.76,95.52
+     is the way to check circulation. So again,
+},
+{
+    95.52,99.72
+     ABC's of airway breathing and circulation are
+},
+{
+    99.72,102.88
+     head tilt, chin lift, look, listen, and feel,
+},
+{
+    102.88,106.12
+     and then feel for the carotid pulse to determine
+},
+{
+    106.12,108.12
+     if they're circulation.
+},
+{
+    108.12,111.12
+     I'm Captain Joe Bruni, stay safe and we'll see you next time.
+},

@@ -1,0 +1,876 @@
+{
+    0.0,6.44
+     Hey guys, Jared Bechstrand here, Doctor of Physical Therapy and owner founder of Tonentine.com.
+},
+{
+    6.44,10.88
+     And today we're talking all about poor posture, specifically what it is, why you get it, and
+},
+{
+    10.88,13.84
+     some simple steps that you can take to hopefully fix this problem.
+},
+{
+    13.84,24.96
+     We're coming at you right now.
+},
+{
+    24.96,29.28
+     Alright so as a physical therapist, people come in to see me all the time with poor posture.
+},
+{
+    29.28,33.12
+     The thing is, they don't realize that it's the poor posture that's actually the source
+},
+{
+    33.12,34.12
+     of their pain.
+},
+{
+    34.12,37.98
+     They'll come in and they'll complain about neck pain, upper shoulder pain, knots in their
+},
+{
+    37.98,41.0
+     upper shoulder, pain in their upper back, even kind of headaches.
+},
+{
+    41.0,44.44
+     If you get those headaches that originate right at the base of your skull, those are
+},
+{
+    44.44,48.32
+     the types of complaints that people with poor posture come in and see me about.
+},
+{
+    48.32,52.72
+     Without realizing that it's actually their posture that's the source of all of that pain.
+},
+{
+    52.72,57.36
+     So we spend a lot of time educating, we spend a lot of time strengthening, positioning the head,
+},
+{
+    57.36,61.68
+     just in a better position to mitigate some of that stress. Let me show you what I mean.
+},
+{
+    61.68,65.0
+     In order to understand poor posture, I need to tell you about good posture.
+},
+{
+    65.0,70.0
+     Good posture looks just like this. My ear should be right over my shoulder.
+},
+{
+    70.0,76.0
+     My shoulders are back, my chest is high. This is what normal posture should look like.
+},
+{
+    76.0,81.0
+     However, how many of us walk around like this all day? I beg to say the majority of us probably don't.
+},
+{
+    81.0,88.28
+     What happens is we start to round forward a little bit. Gravity starts to pull our shoulders, we round our shoulders forward, the head
+},
+{
+    88.28,92.08
+     comes forward of the shoulder, so you'll see that the tip of my ear here is
+},
+{
+    92.08,96.8
+     way out over the tip of my shoulder and this is what poor posture looks like.
+},
+{
+    96.8,102.5
+     Now typically this is a result of a desk job. I call it desk job,
+},
+{
+    102.5,107.04
+     itis in my clinic and so your hands kind of round forward to that keyboard.
+},
+{
+    107.04,109.52
+     Our gaze is usually directed down at our screen.
+},
+{
+    109.52,111.0
+     That's a big source of it.
+},
+{
+    111.0,113.16
+     Another thing, smartphones, devices,
+},
+{
+    113.16,115.12
+     you know, we're always sitting right here.
+},
+{
+    115.12,116.68
+     You can see as soon as I stand up,
+},
+{
+    116.68,120.0
+     as soon as I do this, look at what's happened to my posture.
+},
+{
+    120.0,122.28
+     All of a sudden, it's just all thrown out of whack.
+},
+{
+    122.28,124.24
+     Ear is way out in front of the shoulder,
+},
+{
+    124.24,126.1
+     and this is what it looks like.
+},
+{
+    126.1,128.62
+     A simple test of this, what I want you guys to do
+},
+{
+    128.62,131.34
+     is actually stand up right now, just stand normal
+},
+{
+    131.34,134.02
+     where you're at, and put your thumbs forward, okay?
+},
+{
+    134.02,136.26
+     And so stand up, put your thumbs forward.
+},
+{
+    136.26,138.1
+     And you can see that if I stand here
+},
+{
+    138.1,140.34
+     with relatively good posture,
+},
+{
+    140.34,142.34
+     my thumbs are kind of angled towards you.
+},
+{
+    142.34,144.26
+     They're angled towards that camera.
+},
+{
+    144.26,145.42
+     That's where they should be
+},
+{
+    145.58,150.98
+     However, you'll see that if I do have poor posture if I just round my shoulders forward slightly now
+},
+{
+    150.98,154.42
+     I point my thumbs you can see that they're actually pointed at each other
+},
+{
+    154.8,161.52
+     Okay, and so it's just a really quick simple test that you can do to kind of diagnose where you're at on that posture spectrum
+},
+{
+    161.56,164.12
+     Now let's talk about some of the problems that arise here
+},
+{
+    164.4,168.68
+     Our body is very adaptable and our muscles are very adaptable. They're very
+},
+{
+    168.68,173.16
+     dynamic. Okay, where when they're in a shortened position they tend to tighten
+},
+{
+    173.16,176.72
+     up. When they're in a lengthened position they tend to get weak. What
+},
+{
+    176.72,180.84
+     happens with poor posture is you develop what we call in physical therapy an
+},
+{
+    180.84,189.24
+     upper cross syndrome. What that means is, again, I'm going to round forward into this poor posture. You'll see that if we create, you
+},
+{
+    189.24,192.3
+     know, kind of one side of the cross here and another side of the cross coming up
+},
+{
+    192.3,196.72
+     from my back, what happens is my shoulders round forward and that causes a
+},
+{
+    196.72,201.0
+     lot of tightness through my pecs. Okay, so we've got pec major and pec minor in
+},
+{
+    201.0,204.16
+     the front. You've also got one more muscle that kind of, it's one of your
+},
+{
+    204.16,208.4
+     rotator cuff muscles, your subscapularis that rounds from
+},
+{
+    208.4,212.16
+     the back to the front and all of those kind of get tight and all of those
+},
+{
+    212.16,216.24
+     kind of shrink down in the front as our shoulders round forward. Now
+},
+{
+    216.24,221.0
+     conversely all the muscles in the back so the rhomboids, the middle traps, the
+},
+{
+    221.0,225.48
+     upper traps, they tend to get loose as they're stretched out constantly.
+},
+{
+    225.48,228.6
+     They're in this constantly kind of forward position like this.
+},
+{
+    228.6,231.28
+     They tend to get loose, they tend to get weak.
+},
+{
+    231.28,233.34
+     And that's what develops this poor posture.
+},
+{
+    233.34,238.32
+     So we've got tightness in the front, we've got weakness and a lengthening in the back.
+},
+{
+    238.32,240.88
+     And those are the two issues that we need to correct.
+},
+{
+    240.88,247.2
+     Those are the two issues that we need to address in order to resolve this postural problem. So let's show you some simple exercises that you
+},
+{
+    247.2,251.7
+     can do to take care of that right now. Our first step in correcting this
+},
+{
+    251.7,255.4
+     postural issue is to stretch where it's tight. Basically what you don't want to
+},
+{
+    255.4,258.8
+     do is start strengthening too early. First you want to create the motion
+},
+{
+    258.8,262.84
+     available and then strengthen in that motion. When I say that what I mean is
+},
+{
+    262.84,267.8
+     that we want to get out of this position. We need to stretch up into this position and then this is
+},
+{
+    267.8,270.62
+     where we want to spend our time strengthening. So the first couple
+},
+{
+    270.62,274.0
+     of exercises that I want to show you are designed to kind of get out of this
+},
+{
+    274.0,278.92
+     up into this. What you're gonna do is grab your foam roller. This is probably
+},
+{
+    278.92,282.12
+     my favorite piece of equipment that I have in my physical therapy clinic. We
+},
+{
+    282.12,286.84
+     use this for quite a few problems. This is one of my favorite things to use
+},
+{
+    286.84,289.52
+     with a foam roller is actually these postural issues.
+},
+{
+    289.52,292.68
+     So this foam roller is 36 inches long
+},
+{
+    292.68,294.4
+     and it's a six inch diameter.
+},
+{
+    294.4,296.24
+     So it's a 36 by six.
+},
+{
+    296.24,299.0
+     I'll actually leave a link to that up in the description
+},
+{
+    299.0,300.0
+     to this video.
+},
+{
+    300.0,301.44
+     Click on that if you don't have one.
+},
+{
+    301.44,302.4
+     It's a great tool.
+},
+{
+    302.4,304.28
+     It's something that I use all the time.
+},
+{
+    304.28,306.8
+     And so what I want you to do with your foam roller
+},
+{
+    306.8,308.4
+     is lay it down on the ground
+},
+{
+    308.4,310.52
+     and then you're gonna sit down on the end of it
+},
+{
+    310.52,312.72
+     and lay it the length of your spine.
+},
+{
+    312.72,314.4
+     So it's going all the way basically
+},
+{
+    314.4,316.84
+     from your tailbone up to your head.
+},
+{
+    316.84,320.08
+     What you should feel here is just a stretch
+},
+{
+    320.08,322.44
+     throughout the front of the chest, front of the shoulders
+},
+{
+    322.44,325.4
+     as the shoulder blades kind of round down towards the ground.
+},
+{
+    325.4,328.12
+     It's just a great way to get out of that forward kind
+},
+{
+    328.12,330.0
+     of rounded shoulders posture.
+},
+{
+    330.0,332.42
+     Now what I want you to do is simply grab a towel
+},
+{
+    332.42,334.0
+     with both your hands, and then you're
+},
+{
+    334.0,337.0
+     going to take that towel up and over your head, just
+},
+{
+    337.0,339.52
+     as far as you can take it, knuckles all the way down
+},
+{
+    339.52,340.12
+     to the ground.
+},
+{
+    340.12,342.8
+     If you can get there, I don't want any shoulder pain going
+},
+{
+    342.8,344.08
+     on while you're doing this.
+},
+{
+    344.08,348.7
+     And then nice and slow, return back to that starting position. Now in my clinic what I'll do is
+},
+{
+    348.7,352.6
+     I'll set a two minute timer and this is the amount of time that I want you to do this
+},
+{
+    352.6,357.28
+     for. You're going to hold it over your head for about a 10 second count and then return
+},
+{
+    357.28,362.44
+     back down to your hips. Now a towel works well. I've got some golf clubs in my clinic
+},
+{
+    362.44,367.8
+     so I use a golf club with this. You can also use a broom or a mop or a dowel, whatever you might have lying
+},
+{
+    367.8,372.36
+     around your house works well. Everyone has a towel and so that's why I use that
+},
+{
+    372.36,376.92
+     in this video for this demonstration. Now again, the idea here is
+},
+{
+    376.92,381.6
+     that we want to lengthen out specifically that pec minor and that pec major as
+},
+{
+    381.6,389.64
+     we're coming up into this kind of externally rotated and elevated position. Again we're going to get out of kind of this forward rounded
+},
+{
+    389.64,393.8
+     posture and we're going to help to facilitate this type of emotion. Getting
+},
+{
+    393.8,398.6
+     back, opening up the chest, opening up the shoulders, getting back up into here. I
+},
+{
+    398.6,402.32
+     love that foam roller for that. The other thing that I like to do on the foam
+},
+{
+    402.32,406.52
+     roller, I call them angels. What you're going to do is you're going to leave your feet right where they're at,
+},
+{
+    406.52,410.92
+     so nice wide base of support. And now what you'll do is you'll start with your
+},
+{
+    410.92,415.08
+     hands at your sides, with your palms up, and then you're going to do basically a
+},
+{
+    415.08,419.2
+     big kind of snow angel motion, a big jumping jack motion with your arms. So
+},
+{
+    419.2,423.6
+     nice and slow from your hips all the way up and over your head. Try to keep your
+},
+{
+    423.6,425.12
+     knuckles down on the floor if you
+},
+{
+    425.12,431.36
+     can. You're trying to again just really facilitate that opening of the chest, opening of the shoulders
+},
+{
+    431.36,436.72
+     with this one. Set a two-minute timer on that one and those are I mean just four four minutes worth
+},
+{
+    436.72,442.32
+     of two simple exercises that you can do on that foam roller that really go a long way
+},
+{
+    442.32,446.08
+     and helping to open up that posture.
+},
+{
+    446.08,447.96
+     Now maybe you don't have a foam roller.
+},
+{
+    447.96,451.56
+     What you can do are either some doorway stretches or some corner stretches.
+},
+{
+    451.56,455.06
+     You can do them in a doorway, you can do them in a corner, both are pretty effective.
+},
+{
+    455.06,457.28
+     Let's show you what they look like in a doorway.
+},
+{
+    457.28,461.84
+     What you're going to do is place your hands up nice and tall on either side of a doorframe,
+},
+{
+    461.84,468.2
+     should take a step into the doorframe and then simply put your weight onto that front foot. What you'll notice here is again we're in this
+},
+{
+    468.2,472.84
+     extended externally rotated position, that maximum stretch position for that
+},
+{
+    472.84,476.48
+     pec minor muscle, and then you're going to put your weight onto that front foot.
+},
+{
+    476.48,480.52
+     Again just to open up the pec minor, pec major, all through the shoulders, all
+},
+{
+    480.52,484.16
+     through the top of the chest is where you should feel this. I actually like to do
+},
+{
+    484.16,486.52
+     this in a couple different locations so I showed you up
+},
+{
+    486.52,490.76
+     here nice and tall. Now what we'll do is we'll actually go to about mid-range so
+},
+{
+    490.76,494.4
+     put your hands at about shoulder height and then repeat that same stretch. Try to
+},
+{
+    494.4,498.92
+     step kind of through the door in that motion and then you can also do this down
+},
+{
+    498.92,503.4
+     with a low grip as well. So I'm gonna put my hands down low about waist height on
+},
+{
+    503.4,506.82
+     either sides of that door frame and then step through that door again
+},
+{
+    506.82,511.48
+     And again what you're going for here is that stretch through the front of the chest front of your shoulders
+},
+{
+    511.52,516.5
+     Try to keep it nice and comfortable hold up for about 20 seconds repeat that about three times
+},
+{
+    516.86,523.24
+     Again, we're getting out of this rounded shoulders posture back into this kind of chest out chest high position
+},
+{
+    523.28,525.04
+     That's where we want you to be.
+},
+{
+    525.04,527.4
+     Now let's show you how to strengthen and stabilize
+},
+{
+    527.4,528.36
+     once you get there.
+},
+{
+    529.28,531.44
+     All right, so we've addressed the stretching issue.
+},
+{
+    531.44,533.36
+     Again, we want to stretch where it's tight.
+},
+{
+    533.36,535.44
+     Now we need to address the strength issue.
+},
+{
+    535.44,537.72
+     The goal is to strengthen where it's weak.
+},
+{
+    537.72,539.24
+     To do that, I want to show you a couple
+},
+{
+    539.24,541.46
+     of my favorite strengthening exercises.
+},
+{
+    541.46,543.7
+     The goal here is to get the rhomboids activated.
+},
+{
+    543.7,548.36
+     Those are the muscles between the shoulder blades, as well as those middle traps, as well as those
+},
+{
+    548.36,552.92
+     external rotators. Basically, everything that's going to pull you into this position right
+},
+{
+    552.92,557.28
+     here to suck the shoulder blades back and to keep you upright. And so to do that, my
+},
+{
+    557.28,562.68
+     favorite home exercise, zero equipment required on this is going to be a wall angel. Okay?
+},
+{
+    562.68,565.04
+     What I'm going to do, my feet come out from the wall
+},
+{
+    565.04,568.32
+     just a little bit. You can't see that in the video here, but my feet are about six inches
+},
+{
+    568.32,572.6
+     away from the wall. I want your hips, your shoulder blades, and the back of your head
+},
+{
+    572.6,577.48
+     up against the wall. Again, the goal is to get into that perfect posture and then to
+},
+{
+    577.48,582.04
+     strengthen and to stabilize right there. Hips, shoulder blades, back of the head are against
+},
+{
+    582.04,586.62
+     the wall. What I'm going to do is I'm going to externally rotate through my shoulders to get my knuckles to the
+},
+{
+    586.62,592.06
+     wall as well. Now for a lot of you this might be really hard to do. If you keep
+},
+{
+    592.06,595.9
+     going on those stretches and if you keep trying to do this it does get easier
+},
+{
+    595.9,599.82
+     with time. For those of us who can get there I want to get my knuckles back to
+},
+{
+    599.82,603.38
+     the wall. My elbows don't necessarily have to be to the wall. If they can be
+},
+{
+    603.38,606.16
+     that's even better but not necessary. Kn to be to the wall. If they can be, that's even better, but not necessary.
+},
+{
+    606.16,607.48
+     Knuckles are against the wall,
+},
+{
+    607.48,608.32
+     and then what I'm gonna do
+},
+{
+    608.32,611.36
+     is I'm gonna perform another one of those angel exercises.
+},
+{
+    611.36,614.44
+     Keeping my knuckles in contact with the wall the whole time,
+},
+{
+    614.44,616.56
+     I'm gonna slide them up and over my head
+},
+{
+    616.56,618.6
+     until they touch up at the top,
+},
+{
+    618.6,621.04
+     and then nice and slow back down.
+},
+{
+    621.04,623.08
+     Now on this one, what I'll do is I'll set it
+},
+{
+    623.08,624.72
+     one minute to two minutes, so you know,
+},
+{
+    624.72,628.56
+     60 seconds to two minute timer on this and then just go up and
+},
+{
+    628.56,632.52
+     down nice and slow at this pace right here really focusing on the posture
+},
+{
+    632.52,635.76
+     really focusing on squeezing those shoulder blades together in the back
+},
+{
+    635.76,640.8
+     while you're going up and down. That's what my wall angel looks like that's
+},
+{
+    640.8,644.56
+     kind of the phase one exercise as soon as that starts to get a little easier
+},
+{
+    644.56,648.76
+     let's show you what phase two looks like. Now phase two is going to
+},
+{
+    648.76,652.76
+     be the exact same motion we'll just take it into an anti-gravity position. What
+},
+{
+    652.76,656.68
+     you'll do is you're going to lay down on your stomach with your arms stretched
+},
+{
+    656.68,661.24
+     out over your head. Now what I want you to do is raise your chest up as high as
+},
+{
+    661.24,665.16
+     you can so roll your shoulders back back, pull through your back,
+},
+{
+    665.16,669.12
+     pull your shoulders up towards the ceiling. That's again the posture that we want to strengthen
+},
+{
+    669.12,674.28
+     in. And now just bring your elbows down to your sides and then back up over your head.
+},
+{
+    674.28,679.44
+     We're going from a position of doing a dive up above your head with your arms together,
+},
+{
+    679.44,684.0
+     pull down through your back to a position of a big W through your arms. Again, what
+},
+{
+    684.0,689.6
+     we're doing here is we're taking that same strength and position, that nice good posture that we want to stabilize
+},
+{
+    689.6,694.8
+     in and we're making it an anti-gravity motion. So those muscles through your rhomboids, through
+},
+{
+    694.8,699.32
+     your middle traps, those external rotators, they have to work even harder as you're going
+},
+{
+    699.32,703.84
+     through this motion, anti-gravity. So again, that's kind of phase two. When the wall angels
+},
+{
+    703.84,708.0
+     become a little bit easier, try it down on the floor, try to do some of those angels
+},
+{
+    708.0,711.4
+     down on the ground and see how that works. You guys are going to love that. It's a
+},
+{
+    711.4,716.48
+     tough exercise but I know it's effective. Alright you guys, so there you have them.
+},
+{
+    716.48,720.6
+     Five great exercises that you can do to fix your poor posture. Now these are
+},
+{
+    720.6,723.52
+     things that I recommend to my patients in the physical therapy clinic all the
+},
+{
+    723.52,728.2
+     time. Great results are anticipated with this. I know that they can work for you too.
+},
+{
+    728.2,732.96
+     I hope that you try them out. Hey, if you liked this video, go ahead and give me a thumbs up down below.
+},
+{
+    732.96,738.12
+     Thanks so much for that in advance. If you have any questions, please leave them in a comment down below.
+},
+{
+    738.12,743.84
+     I'm happy to answer those just as soon as I can. Finally, if you know anyone who might benefit from this information,
+},
+{
+    743.84,747.64
+     I would love for you to share it with them. Super easy. Click the button down below to
+},
+{
+    747.64,752.16
+     share to your social media or to post to that friend's page as well. You know,
+},
+{
+    752.16,756.2
+     these are the same exercise principles that we use all the time. These are the
+},
+{
+    756.2,759.64
+     same exercise principles that I try to personally build into each of the
+},
+{
+    759.64,763.48
+     workout programs that I design here on Tone and Titan. I hope that you guys
+},
+{
+    763.48,766.96
+     check those out. I've got some great beginner plans. I've got some more advanced to
+},
+{
+    766.96,770.84
+     intermediate plans. Again, it's these same principles of let's look at it
+},
+{
+    770.84,773.72
+     functionally. Let's look at it mechanically. Let's stretch where it's
+},
+{
+    773.72,777.64
+     tight. Let's strengthen where it's weak. My goal is to help you guys to achieve
+},
+{
+    777.64,781.16
+     your fitness goals and I hope that we can do that together. So I'm going to leave
+},
+{
+    781.16,784.72
+     a link in the description to this video as well over to our store. It's
+},
+{
+    784.72,787.36
+     tonentitanstore.com. Those are some great
+},
+{
+    787.36,791.16
+     workout plans that you can check out that hopefully you guys can help you to
+},
+{
+    791.16,795.3
+     again achieve your fitness goals. That's what I'm all about. Hope you enjoyed this
+},
+{
+    795.3,801.24
+     video. Hope to see you next time on Tone and Titan. Until then, we'll see ya.
+},

@@ -1,0 +1,176 @@
+{
+    0.0,7.8
+     Now let's cover shock emergencies. In this scenario we had an individual who was
+},
+{
+    7.8,12.84
+     bleeding from an arterial wound and lost quite a bit of blood. Now they didn't
+},
+{
+    12.84,18.4
+     pass out but they were starting to feel dizzy and lightheaded. So we helped lay
+},
+{
+    18.4,22.64
+     them to the ground and now we're going to be suspect that they either are going
+},
+{
+    22.64,28.52
+     into kind of a psychogenic psychosomatic shock, which is more psychological because they've seen all the blood and they're
+},
+{
+    28.52,34.28
+     concerned, or they might have lost enough that they're having some hypovolemic shock,
+},
+{
+    34.28,36.96
+     which means low blood volume.
+},
+{
+    36.96,40.28
+     Either way, the symptoms are the same and we're not going to take a chance.
+},
+{
+    40.28,41.64
+     We're going to treat them.
+},
+{
+    41.64,46.92
+     Gloves are on, our shield is available with a one-way valve, and we've checked for scene safety.
+},
+{
+    46.92,48.36
+     The scene is safe.
+},
+{
+    48.36,50.16
+     They are responding to me.
+},
+{
+    50.16,53.08
+     They are breathing normally, and they do have a pulse.
+},
+{
+    53.08,56.24
+     So it's still something where we're trying to decide,
+},
+{
+    56.24,57.88
+     do we call 911 or not?
+},
+{
+    57.88,60.08
+     But as soon as I see that they're pale,
+},
+{
+    60.08,62.52
+     that they're starting to lose a level of consciousness
+},
+{
+    62.52,64.72
+     or going to pass out, in my opinion,
+},
+{
+    64.72,67.36
+     that's time to call 911. You in the plaid shirt,
+},
+{
+    67.36,71.52
+     go call 911 and come back, bring an AED with you if you can find one.
+},
+{
+    71.52,76.24
+     And so now we're ready to begin treatment. I want to reassess like I just did for
+},
+{
+    76.24,80.24
+     normal breathing and for a pulse, but now I see that they're a little
+},
+{
+    80.24,86.44
+     pale. I squeeze the nail bed and turn it white and then I let go. It takes
+},
+{
+    86.44,92.4
+     longer than it takes me to say capillary refill for it to refill. This is an
+},
+{
+    92.4,97.8
+     early sign of potential shock. To treat this I'm now going to explain to my
+},
+{
+    97.8,103.92
+     patient what's going on. I'm going to elevate their legs. It's important that
+},
+{
+    103.92,105.08
+     you just find something that's 6-12 inches high. It's important that you just find something
+},
+{
+    105.08,106.56
+     that's 6, 12 inches high.
+},
+{
+    106.56,108.08
+     It doesn't have to be super high,
+},
+{
+    108.08,110.76
+     but you could use a stool, a chair, a box,
+},
+{
+    110.76,113.0
+     whatever you have available.
+},
+{
+    113.0,114.44
+     I have a blanket here,
+},
+{
+    114.44,117.36
+     but you wouldn't have to necessarily use a blanket.
+},
+{
+    117.36,120.76
+     You could use coats, you could use newspaper,
+},
+{
+    120.76,123.82
+     anything that helps maintain the body temperature
+},
+{
+    123.82,125.32
+     of the person that is going
+},
+{
+    125.32,129.48
+     into shock because this is going to help maintain their core body temperature.
+},
+{
+    129.48,133.96
+     When they start going into shock their body shunts the blood from the
+},
+{
+    133.96,139.44
+     extremities and brings it back to their vital organs. This makes them very cold
+},
+{
+    139.44,147.2
+     to the peripheral. When this happens the body will only take so long before it thinks it needs to reheat the rest of the body.
+},
+{
+    147.4,154.72
+     When it does that it will re-vase or dilate and the blood pressure that they do have could drop again.
+},
+{
+    154.84,158.26
+     So we want to help combat that by keeping them warm,
+},
+{
+    158.68,169.6
+     comforted them and watching for regular breathing, making sure they're awake, and if they ever change, lose their breathing, lose their pulse, we're going to respond with CPR and
+},
+{
+    169.6,173.2
+     wait for EMS to arrive.
+},

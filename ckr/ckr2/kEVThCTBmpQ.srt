@@ -1,0 +1,796 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    8.0,12.0
+     Hello folks, I'm Bob Schrupp physical therapist, Brad Heineck physical therapist
+},
+{
+    12.0,14.0
+     Together we are the most famous physical therapists on the internet
+},
+{
+    14.0,15.0
+     In our opinion of course Bob
+},
+{
+    15.0,19.0
+     10 best rotator cuff home exercise program
+},
+{
+    19.0,23.0
+     Exactly Bob, because I get a lot of questions on how can I strengthen my rotator cuff
+},
+{
+    23.0,25.2
+     We've got some good videos but
+},
+{
+    25.2,29.08
+     we need some more options and we did it from the beginning to when it's really sore to
+},
+{
+    29.08,33.68
+     when it's stronger and for those people who even want to throw a ball more aggressively.
+},
+{
+    33.68,39.44
+     So we're going all the way from easy to, yeah, we're taking to the full level, the full gamut.
+},
+{
+    39.44,42.56
+     And by the way, I see a few new people out there. I see more than a few Bob.
+},
+{
+    42.56,45.86
+     Alright, if you're new to our channel, please take a second to subscribe to us.
+},
+{
+    45.86,47.72
+     We have a subscribe button over here,
+},
+{
+    47.72,49.12
+     or it may be down here.
+},
+{
+    49.12,51.28
+     On your cell phone, they tell me.
+},
+{
+    51.28,53.4
+     We provide videos on stay healthy, fit, pain-free,
+},
+{
+    53.4,54.48
+     and we upload every day.
+},
+{
+    54.48,55.68
+     Excellent.
+},
+{
+    55.68,58.72
+     Rotator cuff, you know you got a rotator cuff injury.
+},
+{
+    58.72,61.24
+     It's very sore, it's not strong,
+},
+{
+    61.24,63.32
+     it's not well enough to heal.
+},
+{
+    63.32,64.44
+     What are you gonna do with it?
+},
+{
+    64.44,68.52
+     One of four muscles. Right. Make up the rotator cuff and it's not strong. It's not well enough to heal. What are you going to do with it? One of four muscles, right make up the rotator cuff and it's not cuff.
+},
+{
+    69.08,76.08
+     It's cuff and these muscles, you know, in order to strengthen these again, we want to start off very, we don't want to irritate it.
+},
+{
+    76.08,78.26
+     We don't want to make it the pain worse. They need to be ready.
+},
+{
+    78.36,82.5
+     One thing that almost even when a patient goes to the doctor,
+},
+{
+    82.52,86.44
+     this is one of the exercises a doctor will give the person upon leaving
+},
+{
+    86.48,91.0
+     Do the pendulum exercise or the podmins if this is my sore shoulder
+},
+{
+    91.0,93.72
+     They'll say just lean forward like this or the surface
+},
+{
+    93.72,95.56
+     Yep, so this hand is my good one
+},
+{
+    95.56,101.08
+     This is a sore one and just leave it relax there and get it moving forward and backwards
+},
+{
+    101.08,108.04
+     I have people I say just think of it's like this tie and if you're gonna get your tie moving you have to move your body first. So the same
+},
+{
+    108.04,111.7
+     thing with your arm is completely relaxed and just get it moving. You can go
+},
+{
+    111.7,117.04
+     right to left, forward and backwards, trying to make some circles with it and
+},
+{
+    117.04,121.52
+     when you do that it should feel good. Right. It feel like oh that really makes it
+},
+{
+    121.52,125.72
+     feel better. If it hurts it's not the thing to do, but I rarely have that hurt.
+},
+{
+    125.72,127.54
+     Now for our therapist friends out there,
+},
+{
+    127.54,129.76
+     PTAs or physical therapists,
+},
+{
+    129.76,132.58
+     you may want to invest in a device
+},
+{
+    132.58,134.76
+     like this is the Upper Extremity Ranger.
+},
+{
+    134.76,137.48
+     It's available at OPTP.
+},
+{
+    137.48,139.28
+     Again, I'll put that down below.
+},
+{
+    139.28,141.44
+     But this is a pretty neat device for shoulders.
+},
+{
+    141.44,143.76
+     If you go through their program,
+},
+{
+    143.76,147.64
+     I think they have continued education or they have a very pretty thick book that comes along with this,
+},
+{
+    147.8,153.22
+     you can do a lot of things with it, but you can almost do, you know, simulate the pendulum here a little bit and that
+},
+{
+    153.44,159.06
+     just, you know, easily to go back and forth like this. You can put another hand on top of it and work it like this.
+},
+{
+    159.06,163.74
+     And you can often go off into one direction and off into another direction here.
+},
+{
+    163.74,166.24
+     Again, these are things that you would do
+},
+{
+    166.24,168.44
+     early when it's really sore yet.
+},
+{
+    168.44,171.12
+     You can use cold packs on it, rest,
+},
+{
+    171.12,172.52
+     use pillows on it when you sleep.
+},
+{
+    172.52,174.64
+     So when you lay down, you're gonna put a pillow
+},
+{
+    174.64,177.04
+     between here and your body to support it.
+},
+{
+    177.04,178.36
+     So keep it supported.
+},
+{
+    178.36,180.88
+     Do not sleep on an irritated rotator cuff.
+},
+{
+    180.88,183.44
+     If you sleep on that side, you may wake up
+},
+{
+    183.44,185.12
+     in a lot of pain or wake up in the morning
+},
+{
+    185.12,190.0
+     And it's all irritated is back to where it was one of those things. Let's go past that point
+},
+{
+    190.0,192.6
+     All right into the strengthening aspect of this and
+},
+{
+    193.36,197.9
+     There I would do these in groups to three Bob because either pretty much the core go to
+},
+{
+    198.44,204.0
+     Rotator cuff strengthening exercise. I think any therapist would agree and that's what we're going to do is I
+},
+{
+    204.84,210.74
+     Usually have people use theraband or a resistance band or tubing or tubing right?
+},
+{
+    211.62,213.62
+     the first one I'm going to do is
+},
+{
+    215.16,217.16
+     Start out with
+},
+{
+    218.16,227.2
+     Scapular retraction like this so he's squeezing his shoulder blades together Exactly Bob When he's actually pulling the theraband back
+},
+{
+    227.2,228.2
+     Right
+},
+{
+    228.2,231.56
+     So Bob's showing you from the back, I'll show it from the side
+},
+{
+    231.56,234.6
+     Shoulders are going back and down
+},
+{
+    234.6,237.8
+     So we're trying to stabilize the scapula here
+},
+{
+    237.8,240.6
+     And so that it's going to help support the muscles
+},
+{
+    240.6,245.12
+     And some of the muscles that are involved are actually working right now too.
+},
+{
+    245.12,248.64
+     And I'll even have people do this without the fair band early in the early phases.
+},
+{
+    248.64,249.44
+     Sure, shoulder squeezes.
+},
+{
+    249.44,250.64
+     And then they're like a strainer.
+},
+{
+    250.64,251.14
+     Exactly.
+},
+{
+    251.14,255.36
+     We start doing this and we talk about putting your shoulder blades into your back pockets,
+},
+{
+    255.36,261.2
+     back and down, back and down. It's not this, back and down, 10 to 15 of those.
+},
+{
+    261.2,265.56
+     So yeah, if I'm pointing to the direction, that's the direction that we're trying to make the
+},
+{
+    267.76,268.6
+     scapula's go or the shoulder blades, right?
+},
+{
+    269.76,272.6
+     Then It's going to be 90 degrees here
+},
+{
+    273.36,275.0
+     along the body
+},
+{
+    275.0,276.8
+     take a towel
+},
+{
+    276.8,278.8
+     Fold it up and put it right here
+},
+{
+    279.32,283.84
+     Now if I do this, this is the exercise and that towel falls out
+},
+{
+    284.2,287.76
+     My elbow has come too far away from my body.
+},
+{
+    287.76,289.28
+     So that's why you keep it there.
+},
+{
+    289.28,293.84
+     It forces you to have good proper body mechanics.
+},
+{
+    293.84,294.88
+     The elbow was winging out.
+},
+{
+    294.88,297.48
+     Yep, so it's like this.
+},
+{
+    297.48,300.92
+     This, sometimes you'll find when you get out to here,
+},
+{
+    300.92,302.0
+     oh, it starts to hurt.
+},
+{
+    302.0,303.48
+     You feel some sharp pain,
+},
+{
+    303.48,305.08
+     then you only shorten it up and
+},
+{
+    305.08,310.84
+     you do a pain-free range of motion. As it improves, then you can start going out farther, then
+},
+{
+    310.84,315.04
+     you go that. One thing I have people do is I say, well do the other side and I'll have
+},
+{
+    315.04,319.06
+     them do this with the other arm and I'll say you want to get this arm to feel like this
+},
+{
+    319.06,325.16
+     arm, the healthy one. Then the next one is, as a good comparison, sure is internal rotation.
+},
+{
+    325.16,328.0
+     This was Audi's we talked about and this one's the Innis.
+},
+{
+    328.0,330.8
+     The Audi's tend to be a lot more difficult, wouldn't you say Brad?
+},
+{
+    330.8,334.12
+     Because this is a bigger muscle that's bigger muscles that are helping you.
+},
+{
+    334.12,339.44
+     A lot of times I'll skip this one because the other one is to go to go to one.
+},
+{
+    339.44,343.6
+     So we're doing scapular retraction, we're doing the Audi's and it's always good to
+},
+{
+    343.6,345.94
+     do the Innis. Same thing if it's painful
+},
+{
+    345.94,351.7
+     You're not going to go through the full range and usually it's going to be painful going out this way as opposed to this way
+},
+{
+    351.9,353.9
+     Okay, three sets of ten on those
+},
+{
+    354.34,360.88
+     And continue on if you do not have theraband, total of 30, and the first time you do it
+},
+{
+    360.88,364.72
+     You might just do a set of ten and it's going to be fatigued and you had enough
+},
+{
+    364.88,368.28
+     So it might take a couple weeks before you build up to that three sets of ten
+},
+{
+    368.92,375.02
+     Now if you don't have TheraBand, but you do have some dumbbells and we've had people who don't have dumbbells
+},
+{
+    375.02,379.24
+     You simply take a soup can a soup can or later on if they want to add weight
+},
+{
+    379.24,385.16
+     They could actually take a gallon of milk and and just put it half full of right drink the milk first
+},
+{
+    385.16,389.6
+     drink the mouth first yeah pretty heavy yeah whatever some kind of container where
+},
+{
+    389.6,394.44
+     you can vary the weight and still hold on to it all right are you gonna lay down
+},
+{
+    394.44,401.52
+     show that yeah yep oh I got dirt on my pants Bob now this would be the sore arm
+},
+{
+    401.52,405.36
+     right here elbow again it the exact same mechanics.
+},
+{
+    405.36,407.08
+     You could use a towel there I suppose, huh?
+},
+{
+    407.08,408.12
+     Sure, yep.
+},
+{
+    409.24,410.4
+     It's not gonna fall out.
+},
+{
+    410.4,412.94
+     So right there, 90 degree bend here.
+},
+{
+    412.94,415.16
+     And you can do this without weight.
+},
+{
+    415.16,417.76
+     Early phases, this might be difficult.
+},
+{
+    417.76,418.92
+     When you get way up here, it might be painful.
+},
+{
+    418.92,420.64
+     Again, that's the outie.
+},
+{
+    420.64,422.56
+     And we can go to the inny there too.
+},
+{
+    422.56,424.0
+     So then when you get stronger,
+},
+{
+    424.0,426.66
+     and actually, now I've got a five pound weight, but
+},
+{
+    426.66,427.5
+     That's a lot.
+},
+{
+    427.5,429.92
+     You're never gonna use a five pound weight on an injury.
+},
+{
+    429.92,432.62
+     What you would remember is these are small muscles.
+},
+{
+    432.62,434.1
+     I always try to tell people this,
+},
+{
+    434.1,437.9
+     these are small muscles working a large lever arm.
+},
+{
+    437.9,438.82
+     Yeah.
+},
+{
+    438.82,442.42
+     So they can very easily get overworked or over-strained.
+},
+{
+    442.42,444.5
+     I got a healthy shoulder.
+},
+{
+    444.5,445.44
+     I'm getting pretty tight.
+},
+{
+    445.44,448.4
+     You're feeling that already, aren't you Brad? Yeah, even if you're a big weight lifter,
+},
+{
+    449.12,455.84
+     I don't want you using huge weights on these. Exactly. Now to do this to any is a little
+},
+{
+    455.84,460.08
+     more difficult because you don't want to lay on your shoulder and irritate it so you have to shift
+},
+{
+    460.08,465.04
+     a little bit. Lay more on the shoulder blade itself. So you're going to go shift this way
+},
+{
+    465.92,471.36
+     and then go in like this. Again this one is not so important if you have problems with it. I wouldn't
+},
+{
+    471.36,480.32
+     even worry about it. I would just go to the outies and now for the scapular motion. You can make
+},
+{
+    480.32,489.18
+     one just quick point. People think that they can do it like this You can't, no that's not working, it has to be done laid down, you have to be laid down, right, you get it against gravity
+},
+{
+    489.86,493.44
+     Now the all-important scapular retraction
+},
+{
+    494.76,499.7
+     We talked about earlier about going back like that, I use a therabin, you can do that nicely
+},
+{
+    499.7,501.7
+     And this works good
+},
+{
+    502.42,504.72
+     And we're just gonna do it laying down, yep
+},
+{
+    505.96,508.76
+     And if you're gonna make this more difficult you can put some weights oh
+},
+{
+    508.76,513.2
+     there we go we can put some weights in your arms and this is pretty aggressive
+},
+{
+    513.2,517.08
+     if I had one pound in each hand you're gonna give me some weights Bob yeah this
+},
+{
+    517.08,520.96
+     one alone is good this is well I got only five pound you don't want that on
+},
+{
+    520.96,525.4
+     there don't give it to me Bob I could could take it Oh, yeah, we'll see. I'm gonna be with those he-man
+},
+{
+    526.32,532.72
+     Yeah, this would be way too much. I could tell you if you have one pound in your arm even for a big he-man
+},
+{
+    532.88,538.72
+     It's probably gonna be adequate to strengthen those rotator cuff muscles in that manner
+},
+{
+    539.56,540.76
+     Okay
+},
+{
+    540.76,546.08
+     What about the empty can Bob? I thought a lot of times do they still want that or not?
+},
+{
+    546.08,549.86
+     I don't use it anymore there has been some discrepancy or some
+},
+{
+    550.68,557.84
+     Indication that you go like this and strengthening that super spinatus muscle like that most people worked you worked away from that right?
+},
+{
+    558.0,564.2
+     So if you hear about that one it's controversy. We don't like to do it now for the throwers
+},
+{
+    564.68,568.0
+     Now we're getting to the advanced stuff right if you're a thrower
+},
+{
+    568.4,571.06
+     Whatever whether you're a throwing a javelin or baseball
+},
+{
+    572.68,574.42
+     You're gonna need Theraband for this
+},
+{
+    574.42,580.3
+     There's no other way around it as far as I'm concerned and what we're gonna do if this is my throwing arm
+},
+{
+    580.56,583.1
+     The first thing we're gonna do is we were doing this
+},
+{
+    583.88,585.42
+     Face in this way the resistance is that we're gonna to do is we were doing this facing this way. The
+},
+{
+    585.42,590.8
+     resistance is that we're going to turn 90 degrees and at the same time 45 degrees
+},
+{
+    590.8,595.0
+     on this arm turn 90 degrees like this. The elbow, Bob can you put your finger
+},
+{
+    595.0,598.96
+     right there by the electron on? That point is not going to move. Everything
+},
+{
+    598.96,605.9
+     rotates like that. I'm going to do 10 of those And then I'm gonna do the codminus let it rest a little bit
+},
+{
+    606.52,608.52
+     Then I'm gonna do 10 more
+},
+{
+    609.18,615.2
+     This is hard. I'm kind of tired already at the healthy arm and and then rest it and do three sets of ten
+},
+{
+    615.72,620.66
+     Then when that goes good you're gonna advance it from 45 degrees
+},
+{
+    621.7,624.24
+     To 90 because that's the throwing
+},
+{
+    624.24,627.4
+     Originally again, so just so sort of clear her breath.
+},
+{
+    627.4,629.04
+     Here's a 90 right degree angle.
+},
+{
+    629.04,633.92
+     The first time he was halfway in between upright and right in here.
+},
+{
+    633.92,635.04
+     That was the first one he was doing.
+},
+{
+    635.04,636.04
+     Now he's up here.
+},
+{
+    636.04,637.6
+     Exactly, good point.
+},
+{
+    637.6,638.6
+     So now I'm up here.
+},
+{
+    638.6,640.0
+     I'm going to keep that still.
+},
+{
+    640.0,644.8
+     And we're going to do three sets of ten of that.
+},
+{
+    644.8,647.16
+     Again we're going to need rest time in between very aggressive
+},
+{
+    647.16,654.88
+     Yeah, now you're gonna think about this. We're not throwing this way. We're throwing this way so going this way is important
+},
+{
+    655.04,657.48
+     So we start out down here at 45
+},
+{
+    657.76,663.64
+     So 45 yeah, and then when that feels comfortable three sets of ten then the 90 degree
+},
+{
+    664.0,666.0
+     All these need to be pain free.
+},
+{
+    666.0,668.0
+     Right, exactly, good point.
+},
+{
+    668.0,671.88
+     Don't be progressing these if it's still painful,
+},
+{
+    671.88,673.68
+     you go back to the step before you.
+},
+{
+    673.68,674.88
+     Exactly.
+},
+{
+    674.88,677.6
+     And for your throwers, this has to be pain free
+},
+{
+    677.6,679.28
+     and you're probably gonna work on
+},
+{
+    679.28,681.32
+     a lot of external rotation going back
+},
+{
+    681.32,688.0
+     like this exact same as throwing motion. And those Those throwers I think they're pretty experienced.
+},
+{
+    688.0,692.0
+     If you're a young thrower, take your time with this. Don't worry about trying to throw that 100
+},
+{
+    692.0,696.0
+     mile ball by really working it because it could hurt your shoulder.
+},
+{
+    696.0,700.0
+     Wow Bob, what do you say about that? Alright, I say no more Brad.
+},
+{
+    700.0,None
+     Say no more. Alright, Thanks everybody for watching. Throw the towel in. Thanks everybody for watching.
+},

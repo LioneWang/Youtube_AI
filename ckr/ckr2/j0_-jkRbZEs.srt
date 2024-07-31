@@ -1,0 +1,660 @@
+{
+    0.0,7.64
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    8.94,12.26
+     Hi, I'm Bob Schrupp physical therapist, Brad Handic physical therapist
+},
+{
+    12.26,15.32
+     Together we are the most famous physical therapists on the internet, in our opinion of course
+},
+{
+    15.32,20.04
+     Brad this is what we've gotten a few requests for, right and it's ischial bursitis
+},
+{
+    20.58,26.28
+     They also sometimes talk about what they call a high hamstring injury or high hamstring
+},
+{
+    26.28,30.96
+     tendinopathy. We're gonna discuss this what these things are. We've got a lot of big words
+},
+{
+    30.96,35.0
+     going on here we better clarify for everyone. Yeah and basically what it's
+},
+{
+    35.0,38.36
+     when you're getting pain on what they call the sitz bones. You want to show the
+},
+{
+    38.36,42.08
+     sitz bones on this bread? They call them the sitz bones because you sit on them.
+},
+{
+    42.08,48.58
+     Right, it's as simple as that. When you sit down on a hard surface you can feel that bone underneath there.
+},
+{
+    48.58,53.9
+     Especially if it's a concrete surface or bleachers. Sure and if you look at the
+},
+{
+    53.9,59.44
+     pelvis it's your ischial tuberosis they call them right here.
+},
+{
+    59.44,64.36
+     Here, oh too close, how's that? Don't get too close, you've got the camera. Now there's like
+},
+{
+    64.36,69.4
+     protuberances they call them and actually there is your hamstrings connect up to the sits bones.
+},
+{
+    69.4,72.6
+     Yeah, we're gonna show that right on here. You'll see how this all connects together.
+},
+{
+    73.64,80.28
+     So the reason why these are often mistaken for each other, they both originate in the same spot on those sits bones.
+},
+{
+    80.72,85.96
+     So the bursa is a fluid filled sack that actually is underneath the hamstring tendon.
+},
+{
+    85.96,88.72
+     Right, so it lubricates the tendon so it doesn't wear out.
+},
+{
+    88.72,91.64
+     Exactly, so that is indicated by the blue here.
+},
+{
+    91.64,94.28
+     That's the fluid-filled sack of bursa.
+},
+{
+    94.28,101.12
+     Well the hamstring, you know, the hamstrings also attach to this area and some go to the one side and some go to the other side.
+},
+{
+    101.12,106.16
+     But you can see they run right along in here and they help bend the knee like this.
+},
+{
+    106.16,113.28
+     Right. It's one of those muscles that's kind of complicated because it crosses two joints across the knee and the hip.
+},
+{
+    113.28,117.66
+     And so it's hard to say exactly what it does because it's a complicated
+},
+{
+    118.22,123.88
+     Right, it extends the leg too. The biomechanics of it is something you can study for a long time.
+},
+{
+    123.94,128.68
+     So by the way Brad, before we go any further, if you haven't already, I know many of you
+},
+{
+    128.68,132.0
+     are new to our channel, please take just a second to subscribe to us.
+},
+{
+    132.0,134.76
+     We've got the little button down here on the screen.
+},
+{
+    134.76,139.28
+     We upload a video every day and they are all on things like this, how to help you stay
+},
+{
+    139.28,141.0
+     healthy and fit and pain-free.
+},
+{
+    141.0,142.0
+     Exactly.
+},
+{
+    142.0,143.0
+     Carry on.
+},
+{
+    143.0,144.0
+     All right.
+},
+{
+    144.0,149.68
+     The big thing, first you're going to want to do, Brad, I think in my mind is determine which one do you have. Is it a hamstring problem or is it a
+},
+{
+    149.68,156.0
+     bursitis problem? Sure. So let's first go by your history. If you're an athletic person and you
+},
+{
+    156.0,162.56
+     were doing some squats or you were doing some hill workout, some speed workout, I'm going to bet
+},
+{
+    162.56,168.64
+     my money more than it's on a hamstring entry. The guy that just contacted us, he thought it was Ischial Bursitis but he goes,
+},
+{
+    168.64,172.6
+     I was squatting and I did this. I think I'm gonna right away say I think it's a
+},
+{
+    172.6,179.28
+     hamstring, tendinopathy. If you sit a lot and you don't do anything athletic,
+},
+{
+    179.28,183.56
+     well then I'm gonna say it's more likely the Bursitis. Especially you know
+},
+{
+    183.56,189.8
+     you're an accountant or something like that. just sit down and you don't get up and move very much so the circulation is depleted
+},
+{
+    189.8,192.52
+     It's compromised. It's more at risk for this kind of injury
+},
+{
+    192.64,197.8
+     Couple things you can do Brad, a couple tests you can do if it's a if it tends to be a hamstring
+},
+{
+    198.4,204.3
+     If you do something like this put your foot up on a chair like this and lean forward and that makes it worse
+},
+{
+    205.12,210.0
+     I'm leaning more towards a hamstring tendonopathy then you can also
+},
+{
+    210.52,214.72
+     Lay down like this Brad and you can even have somebody lift it up for you
+},
+{
+    214.72,222.18
+     Yeah, and if that that makes it worse again that you're stretching the hamstring now while that person's in that position too
+},
+{
+    222.18,230.52
+     You can also push down resistance. Yep, and if it. And if it hurts when he's providing the resistance, again, more likely to be hamstring.
+},
+{
+    230.52,235.48
+     These can be tricky to rule out one way or another, so that's why we're just saying more
+},
+{
+    235.48,237.6
+     likely we're not going to say for sure.
+},
+{
+    237.6,239.36
+     It is very difficult.
+},
+{
+    239.36,242.4
+     It fools many people, many professionals.
+},
+{
+    242.4,245.08
+     So all right, let's say we decided that it you
+},
+{
+    245.08,249.32
+     know and we think it's the bursitis. Sure. The first thing you're gonna try with
+},
+{
+    249.32,252.52
+     that is you're gonna want to put some ice on it. Yeah. I mean you're gonna want to ice it down.
+},
+{
+    252.52,259.0
+     You just you can simply you know sit on a cold pack that's a soft. Or you can lay down on your back
+},
+{
+    259.0,264.72
+     and put a cold pack on there too that way. And it should feel good. Yeah. It should give you some
+},
+{
+    264.72,265.04
+     relief.
+},
+{
+    265.04,268.92
+     You're trying to get some of the stresses off that burst so to let it calm down.
+},
+{
+    268.92,274.64
+     So the other thing you can do is you take when you're sitting and a lot of you are having pain with sitting is to take a
+},
+{
+    274.64,280.96
+     pillow and fold it like this and you're going to put the pillow under more under the meaty part of your thighs like this.
+},
+{
+    280.96,284.0
+     Right. So now the sit bones are kind of hanging out there.
+},
+{
+    284.08,288.34
+     There's really not any stress on them and I can sit like this in a little bit of
+},
+{
+    288.34,292.66
+     a balancing act but it's taking the stress off of it. I've had one person
+},
+{
+    292.66,297.5
+     that contacted me, Brad, that he was all worried about being on a plane and he
+},
+{
+    297.5,301.42
+     goes and worked beautifully. He just took a couple of pillows from the plane and
+},
+{
+    301.42,308.24
+     put them forward and he was able to sit. It's just a matter of where you change the pressure point. The other thing you may try, I
+},
+{
+    308.24,312.78
+     mean you may need to get an injection. Sure. That's just one of those
+},
+{
+    312.78,316.56
+     things that if you tried all these things and it's so bad you can hardly
+},
+{
+    316.56,320.46
+     work. I mean you got to get back to functioning, you got to get to work. One
+},
+{
+    320.46,323.36
+     thing you want to make sure you're not doing on this brat is I won't do the
+},
+{
+    323.36,325.42
+     foam roller. I mean if you
+},
+{
+    326.28,332.2
+     Take a foam roller and you roll right over that bursa. You're just gonna irritate it
+},
+{
+    332.2,335.6
+     Yeah, it's gonna hurt right it's gonna give you some pretty nasty pain
+},
+{
+    335.6,341.28
+     So listen to your body on that that might be okay for if it's a hamstring problem, right?
+},
+{
+    341.28,345.28
+     But it's not gonna help with the bursa. Yeah, and that's where you have to be careful.
+},
+{
+    345.28,350.64
+     So, all right, let's say we believe now that it's a hamstring injury. It's a high, what they call
+},
+{
+    350.64,357.4
+     tendinopathy. Tendinopathy means it could be a tendinitis or a tendinosis. I know those are big
+},
+{
+    357.4,364.08
+     words. Tendinitis means it's inflamed. Right. It's fired up and in that case you could also ice on
+},
+{
+    364.08,365.0
+     that case.
+},
+{
+    365.0,369.0
+     I mean it certainly wouldn't hurt to ice in most cases.
+},
+{
+    369.0,371.0
+     Right, you're not going to do any damage with a cold pack.
+},
+{
+    371.0,374.0
+     Now if it's been there for a long time and it's more chronic Brad,
+},
+{
+    374.0,377.0
+     it's probably not a tendinitis, it's not that anymore.
+},
+{
+    377.0,382.0
+     Now it's a tendinosis which means it's a chronic thing that has become deteriorated.
+},
+{
+    382.0,390.24
+     There's some tears in there. It doesn't have the strength it had before, so we're going to want to do some strengthening and some cross fiber to it.
+},
+{
+    390.24,395.12
+     Right, cross fiber massage. Yeah, so with cross fiber massage what we're doing is,
+},
+{
+    396.16,400.32
+     is, this is very difficult to do on this particular area by the way, but you're going to take your
+},
+{
+    400.32,407.88
+     fingers and you're going to rub the bone right below the bone here and you're going to go across like this really deep and you're trying to break
+},
+{
+    407.88,412.48
+     up the scar tissue and you're trying to get a little more blood flow to the area.
+},
+{
+    412.48,416.76
+     Right, right. So again this is why it's so difficult to determine whether it can be
+},
+{
+    416.76,422.32
+     the bursitis or the tendonitis or tendinopathy because it's right neck,
+},
+{
+    422.32,425.2
+     the tendon part is right connecting to the bone, I mean
+},
+{
+    425.2,429.26
+     they're you know a millimeter apart. But that's a good point though Brad, is
+},
+{
+    429.26,432.92
+     that if you do the cross fiber and starts getting worse it might be bursitis.
+},
+{
+    432.92,437.86
+     Right, I mean because cross fiber will feel good on a hamstring after a few
+},
+{
+    437.86,442.8
+     maybe 30 to 40 seconds, should start to calm down, but on anything else on a
+},
+{
+    442.8,446.72
+     bursitis it's gonna hurt. The one way to do this cross
+},
+{
+    446.72,455.12
+     fiber really is really to use like we often recommend using the Pure Wave Massager. I'll put a video
+},
+{
+    455.12,461.84
+     on the link to this. The reason is nobody can do this for any length of time it's just so fatiguing.
+},
+{
+    463.44,465.0
+     If you're laying down and you're putting your foot up,
+},
+{
+    465.0,468.0
+     like this, and you're going like this,
+},
+{
+    468.0,469.0
+     I mean you can try it.
+},
+{
+    469.0,470.0
+     Sure.
+},
+{
+    470.0,473.0
+     But they're recommending like 15 minutes.
+},
+{
+    473.0,477.0
+     Right. Ciri-X says that usually 2 to 3, 4 minutes,
+},
+{
+    477.0,479.0
+     and your fingers are tired,
+},
+{
+    479.0,482.0
+     and it could benefit from more of that cross-fixion massage.
+},
+{
+    482.0,484.0
+     Yeah. And if you don't want to put out money for a pure wave,
+},
+{
+    484.0,486.0
+     start this, just do a couple minutes,
+},
+{
+    486.0,488.0
+     and then do some of the strengthening.
+},
+{
+    488.0,490.0
+     But the pure wave, you know,
+},
+{
+    490.0,492.0
+     you can just relax and watch TV,
+},
+{
+    492.0,494.0
+     and you can get in there deep,
+},
+{
+    494.0,496.0
+     and it really works out well.
+},
+{
+    496.0,498.0
+     It is a nice device.
+},
+{
+    498.0,500.0
+     It reciprocates versus vibrating, you know,
+},
+{
+    500.0,502.0
+     horizontally.
+},
+{
+    502.0,504.0
+     It has percussion, like this.
+},
+{
+    504.0,508.0
+     So it really, it's a well-built machine. We are big fans of it.
+},
+{
+    508.0,515.44
+     The thing that we have found, Brad, the studies have shown that it's really helped on this type of
+},
+{
+    515.44,521.68
+     condition is eccentric strengthening. In other words, the muscle is getting longer with resistance,
+},
+{
+    521.68,526.2
+     which sounds kind of complicated. Well, let's do, I'll show one,
+},
+{
+    526.2,529.8
+     a easy one to do Brad, is just to do bridging.
+},
+{
+    529.8,531.44
+     So when I bridge up like this,
+},
+{
+    531.44,533.64
+     now the hamstring is lengthening,
+},
+{
+    533.64,536.32
+     but it's also strengthening.
+},
+{
+    536.32,538.96
+     So you can just start off doing some sets like this.
+},
+{
+    538.96,541.24
+     I don't want you to increase the pain.
+},
+{
+    541.24,543.24
+     It's okay if you bump up against the pain,
+},
+{
+    543.24,545.6
+     you know, we just slightly feel it, but I don't
+},
+{
+    545.6,550.4
+     want you doing these and going, I'll allow it, it just flares it up. Right. And I know this again
+},
+{
+    550.4,556.4
+     from my, treating it with my wife, and she was able to do these. Sure. And you can also make
+},
+{
+    556.4,562.24
+     them harder by putting the feet out further. Oh yeah. And you can also go one foot. You know,
+},
+{
+    562.24,566.4
+     once you start, that's quite a bit more aggressive. Yeah, that's a lot more aggressive.
+},
+{
+    566.4,570.0
+     But these are the things you can start without using what the next thing is.
+},
+{
+    570.0,572.0
+     We're going to use a ball.
+},
+{
+    572.0,573.0
+     Sure.
+},
+{
+    573.0,574.0
+     Okay.
+},
+{
+    574.0,579.08
+     Get the red ball, not the blue ball.
+},
+{
+    579.08,583.36
+     These are, if you have this, I would invest in a ball, Brad.
+},
+{
+    583.36,585.68
+     Because these are what are helping my wife by far
+},
+{
+    585.68,592.74
+     Yeah, this is a superior way to hamstrings. So what she does is she rolls it in like this without putting any stress on the hamstring
+},
+{
+    592.74,598.44
+     And then she lifts up and rolls it out. So as she's rolling out that's the eccentric. That's the eccentric
+},
+{
+    598.44,599.84
+     So she goes up
+},
+{
+    599.84,608.76
+     Rolls it out and she does a set of ten that she puts her butt down and goes back in easily Yep, exactly. This is just a beautiful way to get eccentric strengthening
+},
+{
+    609.2,614.76
+     I've become a big fan of that because right I was having a tendonitis up in here and I did eccentric strength on there
+},
+{
+    614.84,616.12
+     It takes a while
+},
+{
+    616.12,621.4
+     I mean I told her you may take her a couple months right if you have a chronic condition if it's acute
+},
+{
+    621.4,626.0
+     I don't think it'd take that long but she's been dealing with this hamstring issue for years.
+},
+{
+    626.0,627.0
+     Years, yeah.
+},
+{
+    627.0,630.0
+     So then you can also do the one-legged ones, Brad, if that gets to be too easy.
+},
+{
+    630.0,632.0
+     So he's crossing his leg.
+},
+{
+    632.0,634.0
+     The foot on the bottom is the one that's doing the other.
+},
+{
+    634.0,635.0
+     Do all the work.
+},
+{
+    635.0,637.0
+     And then you also go like this, don't you, Brad?
+},
+{
+    637.0,639.0
+     If you're doing that, you probably don't have a problem.
+},
+{
+    639.0,642.0
+     Yeah, it's probably already starting to go away.
+},
+{
+    642.0,644.0
+     So pretty good.
+},
+{
+    644.0,647.4
+     So that is what I would recommend Brad, the eccentric
+},
+{
+    647.4,650.72
+     strengthening over anything if you have the hamstring problem and I hope that
+},
+{
+    650.72,655.96
+     helps. Oh it will help so continue to enjoy life and have fun and if you get
+},
+{
+    655.96,659.96
+     that broken heart continue to watch us because sooner or later we are going to
+},
+{
+    659.96,663.88
+     remember we can fix just about anything but that broken heart. But not long we'll
+},
+{
+    663.88,665.48
+     get her figured out, thanks.
+},

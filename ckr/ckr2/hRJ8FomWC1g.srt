@@ -1,0 +1,708 @@
+{
+    0.0,7.6
+     Bob and Brad, the two most famous physical therapists on the internet
+},
+{
+    11.6,16.88
+     Hi folks, I'm Bob Schrupp physical therapist Brad Heineck physical therapist. We are the most famous physical therapists on the internet
+},
+{
+    16.88,19.38
+     In our opinion, of course Bob. Buiah. Buiah
+},
+{
+    19.84,25.32
+     Today we're gonna talk about three amazing rotator cuff impingement stretches to stop pain and surgery
+},
+{
+    25.52,30.32
+     You know this is one of those things Brad where I don't really like getting problems
+},
+{
+    30.84,36.76
+     But there is a positive side to it, so I was getting shoulder pain and I actually did these and
+},
+{
+    37.52,42.84
+     It has lessened my shoulder pain 95% within two weeks. All right
+},
+{
+    42.84,45.64
+     I mean I had tried other things first.
+},
+{
+    45.64,46.48
+     Sure.
+},
+{
+    46.48,49.0
+     So I'm a big believer in this.
+},
+{
+    49.0,50.2
+     So you know more Bob.
+},
+{
+    50.2,51.16
+     Passionate believer.
+},
+{
+    51.16,52.0
+     Right, yeah.
+},
+{
+    52.0,53.84
+     And this is stuff that, you know,
+},
+{
+    53.84,56.68
+     unfortunately we didn't invent any of these.
+},
+{
+    56.68,57.52
+     We got these.
+},
+{
+    57.52,58.36
+     We did one.
+},
+{
+    58.36,59.68
+     Well, yeah, that's true.
+},
+{
+    59.68,62.4
+     The chicken wing and the Statue of Liberty.
+},
+{
+    62.4,66.96
+     Well, yeah, but it's really based off of our mentors here.
+},
+{
+    66.96,69.68
+     I know, we're working, we're on the shoulders of giants.
+},
+{
+    69.68,70.52
+     There you go.
+},
+{
+    70.52,71.36
+     That's a good point.
+},
+{
+    71.36,73.12
+     That's the good points in the work.
+},
+{
+    73.12,74.28
+     By the way, if you're new to our channel,
+},
+{
+    74.28,75.76
+     please take a second to subscribe to us.
+},
+{
+    75.76,77.28
+     We provide videos on how to stay healthy,
+},
+{
+    77.28,79.82
+     fit, pain-free, and we upload every day.
+},
+{
+    79.82,81.84
+     Also, go over to Facebook and like us
+},
+{
+    81.84,83.72
+     because we're giving stuff away like you,
+},
+{
+    83.72,85.2
+     like it's a fire sale. Oh
+},
+{
+    85.92,87.24
+     Bob and Brad
+},
+{
+    87.24,90.52
+     We're also you can if you go down the link below because we're giving away
+},
+{
+    91.04,93.68
+     three of these foam rollers and
+},
+{
+    94.24,97.72
+     Along with the foam roller you get an instructional book, right?
+},
+{
+    98.28,101.28
+     And it's gonna be the standard density, so it'll be a green
+},
+{
+    101.92,104.0
+     Marble look. Yeah, they look really nice
+},
+{
+    104.12,105.24
+     They feel nice
+},
+{
+    105.24,108.04
+     And we also have a number of videos on how to use these
+},
+{
+    108.08,114.2
+     So, you know, if you rather watch a video than look at the instructional thing that I want both options. All right Brad
+},
+{
+    114.2,120.04
+     Take it away. Okay, so we're talking about that rotator cuff or impingement pain that so many people have
+},
+{
+    120.4,123.8
+     We we know it's the majority of shoulder pain
+},
+{
+    124.56,127.32
+     We know it's the majority of shoulder pain. Oftentimes pain with reaching over your head,
+},
+{
+    127.32,131.52
+     behind your back, behind here, that those common.
+},
+{
+    131.52,133.56
+     Mine was a painful arc.
+},
+{
+    133.56,134.4
+     Sure.
+},
+{
+    134.4,136.4
+     I'd get it here, hurt right about here,
+},
+{
+    136.4,137.56
+     and then I would stop hurting.
+},
+{
+    137.56,138.72
+     Once you got up higher.
+},
+{
+    138.72,141.16
+     That was my supraspinatus, I could tell.
+},
+{
+    141.16,143.0
+     So, and they even have a name for that,
+},
+{
+    143.0,144.8
+     the painful arc syndrome.
+},
+{
+    144.8,145.7
+     Right. So how do you get rid of even have a name for that, the Painful Arc Syndrome.
+},
+{
+    145.7,147.6
+     So how do you get rid of this?
+},
+{
+    147.6,148.76
+     And we're gonna show you some things
+},
+{
+    148.76,150.28
+     you could try at home.
+},
+{
+    150.28,151.12
+     Show you different options.
+},
+{
+    151.12,151.96
+     Right.
+},
+{
+    151.96,153.08
+     So there's three of them.
+},
+{
+    153.08,154.88
+     Three main categories.
+},
+{
+    154.88,155.72
+     Right.
+},
+{
+    155.72,158.84
+     And again, we got these, the shoulders we talked about
+},
+{
+    158.84,161.56
+     is Robin McKenzie, who's got a book
+},
+{
+    161.56,163.2
+     on how to treat your own shoulders.
+},
+{
+    163.2,164.28
+     Some good ideas in there,
+},
+{
+    164.28,169.3
+     which is an extension of what we're doing here and then also from dr. John Kirsch
+},
+{
+    169.62,175.34
+     This book he was a orthopedic surgeon. Yeah, and he wrote a book on the Hain right
+},
+{
+    175.76,177.52
+     Break-yating
+},
+{
+    177.52,183.6
+     Really a nice book on home self-treatment with good success excellent success
+},
+{
+    183.6,189.52
+     So start with the hanging Brad. Yes, the hanging. If you have a pull up bar at home.
+},
+{
+    189.52,192.52
+     A place to hang. Yeah, you don't really need a pull up bar.
+},
+{
+    192.52,197.4
+     He gives some options how to make things at home without much cost.
+},
+{
+    197.4,201.56
+     But you simply, and you can face the wall or go away from the wall or whatever, doesn't
+},
+{
+    201.56,215.32
+     matter. But just grab the bar with both hands and you just simply hang for 10 to 30 seconds. Now initially this may hurt and that's okay.
+},
+{
+    215.32,220.9
+     But use good judgment. If you're getting sharp pain from it, your shoulder may be too painful
+},
+{
+    220.9,225.2
+     for it at that time. You may have to take some ibuprofen use Coltex to settle down
+},
+{
+    225.3,229.34
+     But for most shoulder problems you'll be able to hang like this
+},
+{
+    229.34,233.64
+     And you don't have to hang with your full weight first. I mean you could you could you know
+},
+{
+    233.64,238.04
+     Just take partial weight off. Right. So you know if your pull bar is too high
+},
+{
+    238.3,242.34
+     Put a little stool so you can stand up to it and then do what I'm doing here
+},
+{
+    242.34,244.34
+     Bob you're bringing up a really good point
+},
+{
+    243.88,244.36
+     So you can stand up to it and then do what I'm doing here Bob be bringing up a really good point
+},
+{
+    248.92,254.96
+     Partial hang first and you know up to 30 seconds is what he recommends And then you do that three times and you can do that daily or more than two or three times a day
+},
+{
+    255.28,262.34
+     Now he would recommend to a lot of times you could work loves because a lot of times your hands right it can be uncomfortable
+},
+{
+    262.34,270.04
+     You know if you're not used to that and then And then that can help start resolving the problems within days, but it may take a week
+},
+{
+    270.04,272.4
+     or two or longer.
+},
+{
+    272.4,273.92
+     And he explains it in his book.
+},
+{
+    273.92,274.92
+     What's going on?
+},
+{
+    274.92,280.24
+     Oh, Gubby almost lost his life there.
+},
+{
+    280.24,281.24
+     So that's one option.
+},
+{
+    281.24,284.8
+     Now we've got another option where we use the Boya stick.
+},
+{
+    284.8,288.26
+     Or if you use a broomstick or whatever you have at home, that's one option now we've got another option We'll use the bouillastick or you know if you use a broomstick or whatever you have at home that's an option
+},
+{
+    288.26,291.54
+     Yeah, so this is what I've been using I've been using the bouillastick now
+},
+{
+    291.86,295.72
+     You can do it in a chair you want to show in the chair Brad first and then I'll show it on the floor
+},
+{
+    295.72,298.76
+     Yeah, now this one I call it the
+},
+{
+    299.8,305.16
+     Statue of Liberty stretch and you will find out why so you take the stick and you need a firm chair.
+},
+{
+    305.16,310.4
+     It wouldn't work very well on a cushion chair, like a recline or something like that.
+},
+{
+    310.4,315.56
+     And you put that right by your hip and you go vertical with the stick and you reach up
+},
+{
+    315.56,320.72
+     as high as you can and then you get to go to hold of the stick and then you simply lean
+},
+{
+    320.72,324.24
+     forward and now what's happening is I lean forward.
+},
+{
+    324.24,327.68
+     It's pulling my hand upwards almost exactly
+},
+{
+    327.68,333.84
+     like hanging. It's giving traction to the shoulder basically. Yep so if you do not have a pull up bar
+},
+{
+    333.84,340.64
+     or you don't like that method this works really well and right there I'm getting a lot of stretch
+},
+{
+    340.64,346.56
+     and it's in the right direction and I can just hang out there for up to 10 to 30 seconds and then relax
+},
+{
+    346.96,350.84
+     You know and then do that two more times Bob you said you do yours
+},
+{
+    350.84,354.88
+     I've been doing on the carpeted floor and we don't have carpeted floor here
+},
+{
+    354.88,357.64
+     So but what I do is I actually I actually put my hand on top
+},
+{
+    357.64,358.24
+     Sure
+},
+{
+    358.24,365.9
+     And I go like this or I'll put one up like this so that it can grab onto it and not have to worry about gripping so hard
+},
+{
+    365.9,371.66
+     But yeah one one works to just this way and the same thing I lean forward I usually do reps
+},
+{
+    371.66,377.1
+     I know it hanging you know probably better, but I do the yeah pressure on
+},
+{
+    377.82,379.82
+     pressure off
+},
+{
+    380.58,382.58
+     Pressure off and you know
+},
+{
+    383.22,387.04
+     It's hard grunting away Pressure off. And you know, the nice thing about this Brad is,
+},
+{
+    387.04,389.72
+     I mean, I do three, this exercise
+},
+{
+    389.72,392.44
+     and the next two we're gonna show you, it's a minute.
+},
+{
+    392.44,393.76
+     I get it done in a minute.
+},
+{
+    393.76,395.28
+     I mean, maybe a little more in a minute,
+},
+{
+    395.28,397.26
+     but it's almost like a minute long.
+},
+{
+    397.26,400.8
+     So I do it twice a day, two minutes to take away your pain.
+},
+{
+    400.8,404.4
+     I mean, you know, I'm a busy guy,
+},
+{
+    404.4,407.12
+     but I feel like I could sacrifice that much time.
+},
+{
+    407.12,413.36
+     So again we got these three stretches try them all and see which one is beneficial.
+},
+{
+    413.36,417.84
+     Well you better show the last one. Oh yeah right I was getting to it. So the next one this is from
+},
+{
+    417.84,425.72
+     Robin McKenzie. Sure. And what we're doing is extension. If he's found out that extension of the shoulder
+},
+{
+    425.72,428.24
+     can oftentimes relieve shoulder pain.
+},
+{
+    428.24,431.36
+     And we've had people who are scheduled for surgery
+},
+{
+    431.36,434.72
+     using these stretches and then no more surgery scheduled
+},
+{
+    434.72,436.72
+     after they have successfully worked on.
+},
+{
+    436.72,437.88
+     There's a couple ways to do this Brad.
+},
+{
+    437.88,439.32
+     So you're gonna show the one here.
+},
+{
+    439.32,443.12
+     Yep, so this one, the stick is behind.
+},
+{
+    443.12,445.68
+     Thumb is pointed down there. you don't want to do it
+},
+{
+    445.68,451.04
+     this way, you could, but typically thumbs down and then you get your hand up as far
+},
+{
+    451.04,456.0
+     as you can and then you simply squat and that will stretch that shoulder out.
+},
+{
+    456.0,461.28
+     Now this is one where I've had people where it becomes real painful and they're not ready
+},
+{
+    461.28,464.0
+     for it yet, you may have to go to a different stretch.
+},
+{
+    464.0,471.04
+     They bump up against the pain. Right. Exactly. But then after things start to improve, you
+},
+{
+    471.04,476.12
+     squat and you stretch out and you may do this, you know, the pressure on, pressure off, up
+},
+{
+    476.12,482.68
+     to 10 repetitions. As you do more, it should feel better and better. If you do more repetitions,
+},
+{
+    482.68,485.96
+     if it starts to hurt more and more, then it's not the stretch to do.
+},
+{
+    485.96,491.16
+     So another variation is just to go like this and basically bring it back like this. Yes, yeah, it's not as
+},
+{
+    492.16,499.0
+     cumbersome. Right. I mean you can just work on working it this way again pressure on pressure off grab the end of it
+},
+{
+    499.0,501.0
+     and even like go like this. Little easier.
+},
+{
+    501.0,504.4
+     It's like you're rolling the boat isn't it, or rolling a canoe. Yeah kind of like that.
+},
+{
+    502.0,503.0
+     Like this little easier
+},
+{
+    505.0,511.08
+     Yeah, kind of like that Now notice Bob is he's going behind him. He's not going out to the side this way
+},
+{
+    512.08,519.08
+     I want to show the variation that I've been doing. To me this one's been golden and this one you did kind of invest
+},
+{
+    519.08,520.72
+     Yes, I did so this is the chicken wing
+},
+{
+    520.72,527.36
+     So normally Mackenzie would teach you is that you bring it up like this And I do I bring it up into the room
+},
+{
+    527.36,533.22
+     But then I pull it out like this and you said this is a kind of a wrestling move right can you see that against this blue shirt
+},
+{
+    533.22,534.76
+     How about like this?
+},
+{
+    534.76,541.22
+     Okay, actually turn your other way so your arm is like this maybe I'll show this way we want them there
+},
+{
+    541.64,546.48
+     Now we're both now they can see both sides. I go pressure on pressure off
+},
+{
+    547.12,549.68
+     pressure on pressure off and
+},
+{
+    550.52,553.52
+     Seriously Brad, I think this is the one that did the most for me
+},
+{
+    553.52,560.66
+     Okay, I mean after I do it if I'm having any pain the pain I test it right afterwards and the pain is gone
+},
+{
+    561.36,563.36
+     So when you do that
+},
+{
+    563.68,565.48
+     Does it hurt while you're doing it
+},
+{
+    565.48,567.44
+     or does it feel like a stretch?
+},
+{
+    567.44,569.4
+     It did hurt a little bit to start off,
+},
+{
+    569.4,571.6
+     and I wouldn't go too far then.
+},
+{
+    571.6,574.12
+     And now it feels like a stretch.
+},
+{
+    574.12,575.64
+     Now there's no pain anymore.
+},
+{
+    575.64,578.28
+     Just a stretch feeling, and that's what we're looking for.
+},
+{
+    578.28,580.88
+     Now if you have a loose shoulder,
+},
+{
+    580.88,584.16
+     the one that dislocates, I don't want you doing some of these.
+},
+{
+    584.16,587.0
+     Right, right. You want to do strengthening.
+},
+{
+    587.0,589.0
+     This isn't for a shoulder.
+},
+{
+    589.0,593.0
+     Hypermobile, what's the other term?
+},
+{
+    593.0,594.0
+     Double joint.
+},
+{
+    594.0,595.0
+     Double joint.
+},
+{
+    595.0,596.0
+     The layman's term.
+},
+{
+    596.0,602.0
+     Wow, Bob, I'm really thinking once again, this is all coming into, we can fix this about.
+},
+{
+    602.0,605.84
+     We can fix this about anything except for that broken heart
+},
+{
+    605.84,611.0
+     But we're working on it. I think this is gonna really start working on it the boyast trick.
+},
+{
+    611.0,615.48
+     I know but just feel that thing. It just feels good. Alright, thanks
+},

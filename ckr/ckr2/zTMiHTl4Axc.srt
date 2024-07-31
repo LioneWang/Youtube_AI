@@ -1,0 +1,140 @@
+{
+    0.0,8.72
+     Now let's cover rescue breathing for the healthcare professional on an adult patient.
+},
+{
+    8.72,13.68
+     Now in this case, we still need to make sure the scene is safe and that our gloves are on,
+},
+{
+    13.68,20.68
+     but when we assess the patient, our main point here is can we find a pulse or not?
+},
+{
+    20.68,24.36
+     And if we can't find one, we're going to be going on to CPR.
+},
+{
+    24.36,28.8
+     But if we do find a pulse and we're confident that it's a pulse, then we're going to be
+},
+{
+    28.8,30.04
+     doing rescue breathing.
+},
+{
+    30.04,31.66
+     And this is how it's going to look.
+},
+{
+    31.66,32.66
+     My scene is safe.
+},
+{
+    32.66,33.76
+     My gloves are on.
+},
+{
+    33.76,36.28
+     My rescue mask with a one-way valve is available.
+},
+{
+    36.28,38.16
+     Sir, are you all right?
+},
+{
+    38.16,39.16
+     Are you okay?
+},
+{
+    39.16,40.24
+     They don't respond.
+},
+{
+    40.24,41.24
+     I tap and shout.
+},
+{
+    41.24,42.92
+     Sir, can you hear me?
+},
+{
+    42.92,44.4
+     They still don't respond.
+},
+{
+    44.4,46.48
+     I activate EMS or I call a code.
+},
+{
+    46.48,51.28
+     You in the plaid shirt go call 911 and come back. I might need your help and if you can find an AED
+},
+{
+    51.28,57.68
+     please bring it with you. Now I'm going to head to Chin Lift, look for normal breathing,
+},
+{
+    57.68,67.04
+     and check for a pulse for no more than 10 seconds. Immediately I can feel a pulse, but the patient is not breathing normally. This includes
+},
+{
+    67.04,73.68
+     the potential for agonal respirations, which we've covered in other trainings, but it's not considered
+},
+{
+    73.68,79.44
+     real breathing. So this person is going to receive now one breath every five seconds
+},
+{
+    79.44,84.64
+     for a total of about two minutes before I reassess the pulse. And it looks like this.
+},
+{
+    83.8,85.16
+     total of about two minutes before I reassess the pulse. And it looks like this.
+},
+{
+    89.1,92.36
+     One, one thousand, two, one thousand, three, one thousand,
+},
+{
+    92.36,93.54
+     four, one thousand.
+},
+{
+    97.16,100.44
+     One, one thousand, two, one thousand, three, one thousand,
+},
+{
+    100.44,101.7
+     four, one thousand.
+},
+{
+    104.32,107.68
+     So I continue giving these rescue breaths one breath every
+},
+{
+    107.68,114.88
+     five seconds and in about two minutes I recheck for a carotid pulse. If the pulse is present
+},
+{
+    114.88,120.52
+     but the patient is not breathing I continue rescue breathing and I await EMS and I have
+},
+{
+    120.52,130.44
+     the AED here. Ready to go in case I lose the pulse as well. If at any time on my reassessment the breathing is not there and there is no carotid pulse,
+},
+{
+    130.44,133.04
+     I'm going to go immediately into CPR.
+},
+{
+    133.04,138.0
+     If my AED is present, I'm going to use the AED right away and I'll go into CPR mode.
+},
+{
+    138.0,142.12
+     And we'll continue this rescue breathing until help arrives or the patient revives.
+},

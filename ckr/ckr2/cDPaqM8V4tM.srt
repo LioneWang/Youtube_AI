@@ -1,0 +1,156 @@
+{
+    0.0,12.08
+     I'm Billy Joe with Medical Service Company. I'm a respiratory therapist. I'm here today
+},
+{
+    12.08,17.1
+     to show you how to use an oxygen concentrator machine. When you go on oxygen, this is the
+},
+{
+    17.1,27.0
+     machine that you'd be getting. You want to leave it on the floor and in the back the very first thing you want to do is plug it in.
+},
+{
+    29.26,34.82
+     Then on the sides there's these gray spongy filters. You just want to take them out, wash
+},
+{
+    34.82,41.82
+     them, run them through some water, squeeze them out, put them back in when they're dry.
+},
+{
+    47.0,53.0
+     There's one on each side of the machine. Then the next thing, on the front here you've got the dial.
+},
+{
+    53.0,58.0
+     This will set the amount of oxygen that you need based on what your doctor's prescribed for you.
+},
+{
+    58.0,62.0
+     Right above it is a little connector. That's where your tubing will go.
+},
+{
+    62.0,66.0
+     Over here you've got the on and off button.
+},
+{
+    66.0,68.44
+     When you turn the machine on it will alarm.
+},
+{
+    71.56,74.88
+     The alarm should last for a few seconds, then it will stop.
+},
+{
+    75.74,79.76
+     Over here you turn the dial to set your leader flow.
+},
+{
+    79.76,81.98
+     And you just wanna turn it to the number
+},
+{
+    81.98,84.36
+     that the doctor wants you to be on.
+},
+{
+    84.36,87.18
+     When you set it you wanna be kneeling down to look at it.
+},
+{
+    87.18,90.62
+     You don't want to be standing up.
+},
+{
+    90.62,96.0
+     If you turn the machine off and you turn it back on, it will stay at what you set it at.
+},
+{
+    96.0,98.5
+     So you don't have to worry about that.
+},
+{
+    98.5,104.08
+     Part of your setup, you'll get 50 feet of tubing so you can get around the house and
+},
+{
+    104.08,106.0
+     go wherever you need to go. You shouldn't have longer than 50 feet of tubing so you can get around the house and go wherever you need to go.
+},
+{
+    106.0,109.0
+     You shouldn't have longer than 50 feet.
+},
+{
+    109.0,113.0
+     On both ends of the tubing, you'll have connectors that look like this.
+},
+{
+    113.0,115.0
+     One end goes to the machine.
+},
+{
+    115.0,118.0
+     The other end is going to go to what you connected and put in your nose.
+},
+{
+    118.0,121.0
+     So this end is going to go right on here.
+},
+{
+    121.0,129.44
+     Just push it on there pretty good. And then you also get this. This is called a cannula.
+},
+{
+    129.44,136.32
+     Part of it on one end is green. The other end is going to go in your nose. So you take the green
+},
+{
+    136.32,142.96
+     end, you put it in the end of the 50-foot tubing. Just give it a little push, put it right in there.
+},
+{
+    142.96,146.34
+     And then this end is the cannula.
+},
+{
+    146.34,149.64
+     Two little prongs here, they go in your nose.
+},
+{
+    149.64,151.74
+     They should curve like this.
+},
+{
+    151.74,156.58
+     And they go right in, up and over your ears like this.
+},
+{
+    156.58,158.58
+     And then you can pull this little slider up
+},
+{
+    158.58,161.38
+     to make it more snug if you'd like.
+},
+{
+    161.38,165.84
+     And then you would be connected to your oxygen.
+},
+{
+    165.84,167.48
+     I hope this was helpful.
+},
+{
+    167.48,172.28
+     If you have any questions, please feel free to call Medical Service Company or your respiratory
+},
+{
+    172.28,177.68
+     therapist at 1-800-824-1400.
+},
+{
+    177.68,182.48
+     Again, that number is 1-800-824-1400.
+},

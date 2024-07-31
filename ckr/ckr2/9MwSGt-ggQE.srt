@@ -1,0 +1,52 @@
+{
+    0.0,8.6
+     Examining yourself regularly for skin cancer is an important step in prevention and early
+},
+{
+    8.6,9.6
+     detection.
+},
+{
+    9.6,15.4
+     Here's how you can perform a thorough examination in between screenings with your doctor.
+},
+{
+    15.4,22.56
+     Using a bright light, examine your face, thoroughly inspect your scalp using a comb and mirror
+},
+{
+    22.56,27.6
+     to expose each section to examine. Check your hands carefully.
+},
+{
+    27.6,33.86
+     Continue up the wrists to examine both the front and back of your forearms. Standing
+},
+{
+    33.86,39.68
+     in front of a full length mirror, begin at the elbows and scan all sides of your upper
+},
+{
+    39.68,47.14
+     arms including the underarms. Next, focus on the neck, chest and torso. With your back
+},
+{
+    47.14,51.56
+     to the full-length mirror use the handheld mirror to inspect the back of
+},
+{
+    51.56,58.0
+     your neck, shoulders, upper back. Still using both mirrors scan your lower back,
+},
+{
+    58.0,67.0
+     buttocks and backs of both legs. Sit down, check the front and sides of both legs, ankles, tops of feet, toes,
+},
+{
+    67.0,74.0
+     lastly, examine the soles of the feet and heels. If you notice a new or unusual growth,
+},
+{
+    74.0,77.0
+     please contact your dermatologist for an appointment as soon as possible.
+},

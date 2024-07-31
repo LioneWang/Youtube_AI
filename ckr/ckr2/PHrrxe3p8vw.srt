@@ -1,0 +1,76 @@
+{
+    0.0,11.96
+     Eye injuries vary from something very minor such as getting shampoo in your eye to something
+},
+{
+    11.96,17.7
+     quite serious such as a cut which could cause predetermined loss of vision.
+},
+{
+    17.7,23.74
+     Common types of eye injuries include foreign objects getting stuck in the eye, cuts or
+},
+{
+    23.74,28.0
+     grazes from a sharp object, severe blows to the eye from a hard object.
+},
+{
+    28.0,33.0
+     If you think someone's hurt the eye, there are five key things to look for.
+},
+{
+    33.0,42.0
+     Pay in the eye or eyelid, a visible wound or bloodshot appearance, partial or total loss of vision,
+},
+{
+    42.0,46.56
+     blood or clear fluid leaking from the wound, screwed up eyelids
+},
+{
+    46.56,49.92
+     and watering if there is something in there.
+},
+{
+    49.92,56.32
+     If someone has an eye injury, type a not to rub the eyes as this can make it worse.
+},
+{
+    56.32,71.54
+     Get them to sit right, left, down and back.
+},
+{
+    71.54,76.26
+     If you see something in the eye, get them to tilt to the angel side.
+},
+{
+    76.26,83.04
+     You can use a jug of water or a cell-aid solution to remove the object.
+},
+{
+    83.04,87.0
+     You can use a tea towel to get any drips that may come from the eye.
+},
+{
+    87.0,95.0
+     If you think the eye may be bruised or cut, get them to lie on their back, keep it ahead and the eye as still as possible.
+},
+{
+    95.0,109.0
+     You can give them a non-fluffy sterile dressing to hold in place over the eye. Mark will it get you to this place is over the
+},
+{
+    109.0,119.72
+     eye for me? Excellent. Or you can keep it in place with a bandage. Then take or send
+},
+{
+    119.72,128.04
+     him to hospital. So remember when you are treat eye injuries, tell them not to rub their eyes.
+},
+{
+    128.04,133.08
+     Look closely to see if there's anything in the eye. If there's something in it, wash
+},
+{
+    133.08,None
+     it up with clean water. Put a pad on the eye if it's bruised or cut. And that's how you treat eye injuries.
+},

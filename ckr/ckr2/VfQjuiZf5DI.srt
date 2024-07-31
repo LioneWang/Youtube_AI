@@ -1,0 +1,136 @@
+{
+    0.0,6.88
+     Epinephrine is the first line of defense to treat anaphylaxis and the sooner the reaction
+},
+{
+    6.88,10.44
+     is treated, the less severe it's likely to become.
+},
+{
+    10.44,15.52
+     People with severe allergies or a history of anaphylaxis should carry an auto-injectable
+},
+{
+    15.52,18.64
+     epinephrine with them at all times.
+},
+{
+    18.64,23.2
+     Epinephrine typically comes as a single-dose pre-filled automatic injection device, commonly
+},
+{
+    23.2,25.84
+     known as an epiPen, to be injected
+},
+{
+    25.84,26.84
+     into the thigh.
+},
+{
+    26.84,31.48
+     And anytime an EpiPen has been used, make sure 911 has been called.
+},
+{
+    31.48,35.24
+     The person must seek immediate medical treatment, even if they feel better.
+},
+{
+    35.24,40.52
+     Now to administer an EpiPen, check the label to confirm that the prescription of the auto
+},
+{
+    40.52,43.0
+     injector is for this person.
+},
+{
+    43.0,45.76
+     Check the expiration date of the autoinjector.
+},
+{
+    45.76,52.2
+     If it is expired, do not use it. If the medication is visible, confirm that the liquid is clear
+},
+{
+    52.2,56.76
+     and not cloudy. If it is cloudy, do not use it.
+},
+{
+    56.76,62.84
+     Remove the safety cap. Grip the EpiPen in your hand with the tip pointing downward.
+},
+{
+    62.84,66.0
+     Never put your thumb, fingers, or hand over the tip.
+},
+{
+    66.0,72.5
+     Firmly push the tip into the person's outer thigh until the pen clicks. The needle will go through the
+},
+{
+    72.5,77.5
+     clothing, so keep the auto-injector firmly pushed against the thigh at a 90 degree angle.
+},
+{
+    77.5,85.38
+     Hold it there for 10 seconds. Pull the EpiPen straight out of the leg and make sure not to pull out at an angle
+},
+{
+    85.38,90.24
+     as this could cause a lot of pain and bleeding. If blood comes out, the drug
+},
+{
+    90.24,95.24
+     also comes out. Rub the area for about 10 seconds just to help circulate the
+},
+{
+    95.24,100.16
+     drug within the muscle of the leg. A second epipen may be administered if the
+},
+{
+    100.16,108.64
+     symptoms continue or recur. The person will often feel relief from the tightness in the throat fairly quick.
+},
+{
+    108.64,113.08
+     It's often normal for the person to experience side effects from the epinephrine.
+},
+{
+    113.08,121.6
+     They may include fast or a pounding heart in the chest, shakiness, feelings of anxiety,
+},
+{
+    121.6,125.8
+     dizziness, or even a headache.
+},
+{
+    125.8,132.12
+     Once an EpiPen has been administered, make sure it's given to the medical professionals.
+},
+{
+    132.12,138.26
+     So in conclusion, allergic reactions are never fun to deal with, and they can usually turn
+},
+{
+    138.26,143.28
+     what's supposed to be a fun outing into an enormously scary event.
+},
+{
+    143.28,146.5
+     But when you understand how to recognize the signs and symptoms,
+},
+{
+    146.5,148.5
+     and then how to treat them,
+},
+{
+    148.5,152.5
+     you can feel confident that even if it does happen,
+},
+{
+    152.5,156.0
+     you can be there to take care of your friend, your loved one,
+},
+{
+    156.0,157.5
+     or even a perfect stranger.
+},

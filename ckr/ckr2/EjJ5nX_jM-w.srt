@@ -1,0 +1,212 @@
+{
+    0.0,21.4
+     Exercises are very important to helping your shoulder heal.
+},
+{
+    21.4,26.0
+     To begin, you will do exercises in which you do not actively use the muscles
+},
+{
+    26.0,32.28
+     in your healing shoulder. These are called passive motion exercises. They help you regain
+},
+{
+    32.28,37.88
+     movement in your shoulder. When it is safe to do so, you will graduate two exercises
+},
+{
+    37.88,42.72
+     that begin using the muscles in your healing shoulder with the help or assistance of your
+},
+{
+    42.72,45.52
+     other arm. These are called active
+},
+{
+    45.52,50.4
+     assisted exercises. The last phase of exercise involves stretching and
+},
+{
+    50.4,55.24
+     strengthening the muscles in your healing arm. Only do your exercises on the
+},
+{
+    55.24,60.2
+     schedule provided by your surgeon or physical therapist. It can delay your
+},
+{
+    60.2,66.36
+     recovery to do active assisted, stretching or strengthening exercises too soon.
+},
+{
+    66.36,72.04
+     To protect your shoulder, do not do any exercise until your surgeon or physical therapist has
+},
+{
+    72.04,78.22
+     shown you how to do it. Follow his or her instructions. Do not move your healing arm
+},
+{
+    78.22,87.06
+     any farther than he or she tells you to move it. Do your exercises slowly and gently. You may feel some discomfort in your
+},
+{
+    87.06,93.38
+     healing shoulder even before you begin your exercises. But if pain increases while doing
+},
+{
+    93.38,100.38
+     an exercise, stop right away and relax your shoulder. If the pain returns to your starting
+},
+{
+    100.38,106.08
+     level after you stop the exercise, try it again, slower and with less intensity.
+},
+{
+    106.88,112.24
+     If you continue to feel increased pain even though you've stopped the exercise,
+},
+{
+    112.24,116.4
+     talk with a member of your health care team before continuing to exercise.
+},
+{
+    117.28,125.0
+     You will need a helper for these exercises. Lie down with folded towels under your elbow to keep it forward.
+},
+{
+    125.0,128.64
+     Your arm needs to be released from the sling.
+},
+{
+    128.64,134.32
+     Before beginning the exercises, do some movements to warm up your elbow and hand.
+},
+{
+    134.32,139.14
+     Start with your elbow bent so your healing arm lies across your stomach.
+},
+{
+    139.14,144.0
+     To warm up your elbow, your helper gently straightens your arm so it is even with your
+},
+{
+    144.0,145.64
+     leg on that side of your body.
+},
+{
+    145.64,154.44
+     Your arm should stay close to the sling. To warm up your hand, make a tight fist,
+},
+{
+    154.44,167.4
+     then spread your fingers. For the first exercise, start with your arm lying across your stomach, palm down. Rest your elbow on the folded towels.
+},
+{
+    167.4,168.68
+     Relax.
+},
+{
+    168.68,171.88
+     Don't use the muscles of your shoulder or arm.
+},
+{
+    171.88,175.52
+     Instead, your helper gently moves your forearm away
+},
+{
+    175.52,176.96
+     from your body.
+},
+{
+    176.96,180.28
+     Your elbow should stay at your side.
+},
+{
+    180.28,183.32
+     Do not allow your arm to be moved any farther than you've
+},
+{
+    183.32,185.0
+     been told to move it. Do not allow your arm to be moved any farther than you've been told to move it.
+},
+{
+    185.0,190.0
+     Do not allow your arm to be moved to the point that you feel increased pain.
+},
+{
+    190.0,195.0
+     Breathe normally as you exercise. Don't hold your breath.
+},
+{
+    195.0,201.0
+     For the next exercise, your helper puts one hand under your elbow and grasps your wrist.
+},
+{
+    201.0,207.88
+     He or she moves your forearm away from your body to the point that you feel a stretch.
+},
+{
+    207.88,213.8
+     Then your helper gently pushes on your elbow to guide your hand toward your head.
+},
+{
+    213.8,217.04
+     Do not use the muscles of your shoulder or arm.
+},
+{
+    217.04,221.88
+     Do not allow your arm to be moved any farther than you've been told to move it.
+},
+{
+    221.88,225.4
+     Do not allow your arm to be moved to the point that you feel increased
+},
+{
+    225.4,231.12
+     pain. An exercise called dangling involves a motion
+},
+{
+    231.12,236.72
+     you'll use for dressing and other activities of daily living. Ask your helper to remove
+},
+{
+    236.72,242.52
+     your sling for this exercise. Support your healing arm with your other hand so it doesn't
+},
+{
+    242.52,249.14
+     drop. Stand next to a counter or a sturdy piece of furniture with your legs shoulder-width
+},
+{
+    249.14,252.88
+     apart and your heeling arm in front of your body.
+},
+{
+    252.88,257.2
+     Bend at the waist, supporting yourself with your other arm.
+},
+{
+    257.2,262.2
+     Lower your heeling arm until it dangles like a necktie or scarf.
+},
+{
+    262.2,266.48
+     Straighten up and grasp your heeling arm with your other hand, bending it at the
+},
+{
+    266.48,274.08
+     elbow. Keep your arm close to your body. Keep your elbow in front of your body. Don't use
+},
+{
+    274.08,280.48
+     the muscles in your healing shoulder. The other arm does all the work. If necessary, you can
+},
+{
+    280.48,286.2
+     do this exercise while seated. Faithfully doing your passive motion exercises
+},
+{
+    286.2,290.2
+     is an important first step to helping your shoulder heal.
+},

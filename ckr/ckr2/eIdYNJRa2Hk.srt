@@ -1,0 +1,992 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.22,13.2
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.2,14.56
+     Brad Heineck, physical therapist.
+},
+{
+    14.56,16.8
+     We are the most famous physical therapists on the internet.
+},
+{
+    16.8,17.92
+     In our opinion, of course, Bob.
+},
+{
+    17.92,20.16
+     Time to get to business, Brad, sirs.
+},
+{
+    20.16,22.68
+     Today we're talking about stop your elbow pain,
+},
+{
+    22.68,26.14
+     tennis elbow in 90 seconds 90 Second Self Treatment.
+},
+{
+    26.14,28.26
+     This is not hype, this actually works.
+},
+{
+    28.26,30.54
+     Well, I'm surprised, Brad.
+},
+{
+    30.54,31.86
+     I used it on a different body part,
+},
+{
+    31.86,32.9
+     and it worked pretty well.
+},
+{
+    32.9,34.1
+     By the way, if you're new to our channel,
+},
+{
+    34.1,35.62
+     please take a second to subscribe to us.
+},
+{
+    35.62,37.06
+     We provide videos on how to stay healthy,
+},
+{
+    37.06,39.02
+     fit, pain-free, and we upload every day.
+},
+{
+    39.02,41.58
+     Also, if you get the chance, go to bobandbrad.com,
+},
+{
+    41.58,43.06
+     go to the giveaway section.
+},
+{
+    43.06,44.42
+     We're always giving something away.
+},
+{
+    44.42,46.84
+     What it is, I don't know, because this is a future video.
+},
+{
+    46.84,47.68
+     But check it out.
+},
+{
+    47.68,48.52
+     That's something cool.
+},
+{
+    48.52,49.66
+     Yeah, like into the future.
+},
+{
+    49.66,52.04
+     Yeah, go to Bob and Brad on Facebook.
+},
+{
+    52.04,53.8
+     If you wanna find the contest,
+},
+{
+    53.8,55.8
+     it'll be pinned to the top of the page.
+},
+{
+    55.8,57.84
+     Go to Twitter or Instagram or TikTok
+},
+{
+    57.84,60.88
+     if you want a 90 second, a 60 second version of our program.
+},
+{
+    60.88,62.96
+     90 seconds, I got 90 seconds on my mind now.
+},
+{
+    62.96,64.28
+     Very good.
+},
+{
+    64.28,67.4
+     Back to the future, that's what reminded me of that movie.
+},
+{
+    67.4,71.8
+     Anyways, elbow pain, tennis elbow,
+},
+{
+    71.8,73.12
+     you know what else can it be called?
+},
+{
+    73.12,74.52
+     This is not golf.
+},
+{
+    74.52,75.76
+     Lateral epiconics.
+},
+{
+    75.76,77.32
+     Right, right.
+},
+{
+    77.32,78.64
+     Very common.
+},
+{
+    78.64,79.88
+     Typically it's one of those things
+},
+{
+    79.88,81.88
+     that I think everyone experiences.
+},
+{
+    81.88,82.96
+     Sometimes in their life.
+},
+{
+    82.96,86.04
+     I do believe it's more male than female.
+},
+{
+    86.04,88.32
+     I don't have the statistics on that.
+},
+{
+    88.32,92.62
+     One way or another, can you see that red dot?
+},
+{
+    92.62,95.72
+     Oftentimes that's where the heart of the pain is.
+},
+{
+    95.72,96.56
+     It's a small area.
+},
+{
+    96.56,98.04
+     He put a marker on his arms.
+},
+{
+    98.04,100.96
+     Yeah, that's not a bruise or anything.
+},
+{
+    100.96,104.72
+     Yes, it's water soluble, it'll wash off.
+},
+{
+    104.72,107.44
+     But if you find that, there's that bone there,
+},
+{
+    107.44,108.6
+     and if you push on it,
+},
+{
+    108.6,111.28
+     because I have a mild case of it right now,
+},
+{
+    111.28,112.16
+     it's tendered.
+},
+{
+    112.16,115.24
+     If you've got a severe case, boy, just touch that,
+},
+{
+    115.24,117.0
+     and it is very uncomfortable.
+},
+{
+    117.0,118.86
+     I've experienced that in the past.
+},
+{
+    118.86,122.16
+     Now, what's going on there is all these muscles
+},
+{
+    122.16,123.56
+     on the top of your forearm,
+},
+{
+    123.56,126.42
+     they're responsible for extending your wrist
+},
+{
+    126.42,129.5
+     and opening your fingers or extending your fingers up.
+},
+{
+    129.5,133.0
+     They all end up attaching to that point.
+},
+{
+    133.0,136.84
+     So with a lot of hand activity, pronation
+},
+{
+    136.84,138.36
+     and supination of the wrist.
+},
+{
+    138.36,139.92
+     A lot of gripping activity.
+},
+{
+    139.92,142.28
+     It's like if you're pruning or something like that.
+},
+{
+    142.28,148.84
+     Overuse and those tendons where they connected the bone become inflamed, tender, and it's just no fun.
+},
+{
+    148.84,151.52
+     So we've done other videos on this
+},
+{
+    151.52,153.28
+     and we've done some really good treatments,
+},
+{
+    153.28,155.76
+     but this is something new to us.
+},
+{
+    155.76,157.8
+     It's a different technique and we're kind of becoming
+},
+{
+    157.8,158.64
+     believers.
+},
+{
+    158.64,160.6
+     And it's easier than the other ones.
+},
+{
+    160.6,162.24
+     Sure, and it did help you.
+},
+{
+    162.24,163.68
+     It's not permanent, right?
+},
+{
+    163.68,164.88
+     It gave you relief.
+},
+{
+    164.88,165.72
+     Right. But then you went back and did a bunch of stuff. Well, and it did help you. It's not permanent, right? It gave you relief. Right.
+},
+{
+    165.72,167.12
+     But then you went back and did a bunch of stuff.
+},
+{
+    167.12,168.84
+     Well, I quit doing the exercise.
+},
+{
+    168.84,170.48
+     It only takes 90 seconds,
+},
+{
+    170.48,172.32
+     but I quit and my mic's falling off.
+},
+{
+    172.32,174.64
+     And so I need to get back to it.
+},
+{
+    174.64,175.48
+     You need to stick with it.
+},
+{
+    175.48,179.12
+     Right, I broke my, I'm my own worst patient.
+},
+{
+    179.12,180.48
+     I know, I know that.
+},
+{
+    180.48,181.52
+     All right, here we go.
+},
+{
+    181.52,182.8
+     Here's the technique.
+},
+{
+    182.8,185.76
+     First thing you wanna do is we wanna relax those muscles.
+},
+{
+    185.76,187.48
+     Everything else must be relaxed.
+},
+{
+    187.48,192.04
+     Don't do this unless you're in a calm situation.
+},
+{
+    192.04,193.84
+     Works much more effectively.
+},
+{
+    193.84,196.76
+     We're going to put these muscles.
+},
+{
+    196.76,199.24
+     This is called positional release, by the way.
+},
+{
+    199.24,202.68
+     It's a whole system that's been out for decades, actually.
+},
+{
+    202.68,204.24
+     Just to be called strain, counter strain?
+},
+{
+    204.24,206.12
+     Exactly, right, Bob. So to be called strain, counter strain? Exactly right, Bob.
+},
+{
+    206.12,208.64
+     So we want to do the counter strain
+},
+{
+    208.64,210.44
+     and actually relax these muscles.
+},
+{
+    210.44,212.6
+     So we're gonna do that by shortening them.
+},
+{
+    212.6,215.24
+     We're gonna take your other hand
+},
+{
+    215.24,217.96
+     and we're going to extend the wrist
+},
+{
+    219.02,221.4
+     and the fingers, okay?
+},
+{
+    221.4,223.24
+     Now we're not gonna push on them really hard
+},
+{
+    223.24,225.8
+     and get an aggressive stretch by any means.
+},
+{
+    225.8,228.64
+     This is where this is such a nice thing to do
+},
+{
+    228.64,230.44
+     to yourself, self-treatment,
+},
+{
+    230.44,235.44
+     is you wanna get the position of most comfort
+},
+{
+    235.44,237.4
+     and I need to take one step backwards.
+},
+{
+    237.4,241.0
+     Before we do that, we want to go to the muscle belly,
+},
+{
+    241.0,243.84
+     which again is up in this area.
+},
+{
+    243.84,245.98
+     So the muscle belly is below the wrist
+},
+{
+    245.98,247.3
+     and above the elbow.
+},
+{
+    247.3,251.26
+     And you just wanna feel around, or we call palpate,
+},
+{
+    251.26,252.58
+     and go back and forth.
+},
+{
+    252.58,255.46
+     You're gonna find more than likely a ropey muscle.
+},
+{
+    255.46,257.62
+     And it's gonna be tender.
+},
+{
+    257.62,259.66
+     Even if you don't have tennis elbow, you'll find these.
+},
+{
+    259.66,261.7
+     But they're more pronounced with tennis elbow.
+},
+{
+    261.7,263.06
+     Mine is right there.
+},
+{
+    263.06,264.7
+     And I'm gonna push on it.
+},
+{
+    265.42,266.26
+     Use the tips of your fingers. Yeah right there. And I'm gonna push on it. And it's-
+},
+{
+    266.26,267.26
+     Use the tips of your fingers.
+},
+{
+    267.26,268.46
+     Yep, exactly.
+},
+{
+    268.46,269.62
+     And give it a number.
+},
+{
+    269.62,273.42
+     So 10 is maximum pain, zero is there soft
+},
+{
+    273.42,275.38
+     and I don't feel it pain at all.
+},
+{
+    275.38,277.62
+     I would give mine about a six,
+},
+{
+    277.62,279.34
+     depending on how hard I push.
+},
+{
+    279.34,280.58
+     See, I'd give mine a three.
+},
+{
+    280.58,282.3
+     Okay, yeah, because you don't have a flare up.
+},
+{
+    282.3,283.14
+     I don't have a flare up.
+},
+{
+    283.14,284.66
+     So just keep that in mind.
+},
+{
+    284.66,285.64
+     And we're gonna go back
+},
+{
+    285.64,287.64
+     and we're gonna assess it to see if the technique
+},
+{
+    287.64,288.78
+     was effective.
+},
+{
+    288.78,290.64
+     So we're gonna go back to where it was,
+},
+{
+    290.64,292.28
+     sorry about that.
+},
+{
+    292.28,293.68
+     Extend the wrist.
+},
+{
+    293.68,294.52
+     Now.
+},
+{
+    294.52,295.36
+     You should have it on something.
+},
+{
+    295.36,297.22
+     Yeah, let's grab the pillows.
+},
+{
+    298.88,299.72
+     Hurry up, Bob.
+},
+{
+    299.72,300.56
+     People are waiting.
+},
+{
+    300.56,302.28
+     There you go, thank you.
+},
+{
+    302.28,304.6
+     Yeah, this helps relax the whole arm.
+},
+{
+    304.6,306.4
+     Right, you don't want to have it hanging up in the air.
+},
+{
+    306.4,307.4
+     There's no way to relax.
+},
+{
+    307.4,312.3
+     So again, we're going to extend the wrist and the fingers.
+},
+{
+    312.3,314.48
+     But again, if say the finger extension
+},
+{
+    314.48,316.76
+     doesn't seem to make it better
+},
+{
+    316.76,318.16
+     or part of it makes it worse,
+},
+{
+    318.16,319.4
+     you don't have to do all that.
+},
+{
+    319.4,323.0
+     You're the boss, you're going to go listen to your body.
+},
+{
+    323.0,324.52
+     And oftentimes you're going to find,
+},
+{
+    324.52,325.76
+     that might be enough right there.
+},
+{
+    325.76,328.04
+     That might feel comfortable there.
+},
+{
+    328.04,331.12
+     But you may wanna rotate away.
+},
+{
+    331.12,332.6
+     So the thumb is pointing towards you,
+},
+{
+    332.6,335.88
+     go away from, so the thumb goes away from your body.
+},
+{
+    335.88,338.72
+     Maintain the finger and wrist extension
+},
+{
+    338.72,339.56
+     while you're doing it.
+},
+{
+    339.56,340.4
+     Right.
+},
+{
+    340.4,342.08
+     Now with me, if I go too far,
+},
+{
+    342.08,343.2
+     it starts to hurt a little bit.
+},
+{
+    343.2,345.14
+     So I go back to here, right there.
+},
+{
+    345.14,347.9
+     I can feel it, it feels good.
+},
+{
+    347.9,350.54
+     And once you get this point, as you probably are thinking,
+},
+{
+    350.54,352.62
+     what's the 90 second part all about?
+},
+{
+    352.62,356.46
+     You have to do all this before the 90 second timer goes.
+},
+{
+    356.46,359.7
+     I'm there right now, and you really need to look at a clock
+},
+{
+    359.7,363.6
+     or a watch or whatever, and go for 90 seconds.
+},
+{
+    363.6,366.76
+     Relax, breathing, relax through the 90 seconds.
+},
+{
+    366.76,368.66
+     You'll be amazed how long 90 seconds
+},
+{
+    368.66,370.56
+     takes when you need to be like this.
+},
+{
+    370.56,371.8
+     So Brad, while you're doing that,
+},
+{
+    371.8,374.24
+     now I can do it also on a tabletop.
+},
+{
+    374.24,375.48
+     Yeah, there's other options.
+},
+{
+    375.48,377.32
+     Yep, you could try this, the CL goal.
+},
+{
+    377.32,379.72
+     I can go like this, right?
+},
+{
+    379.72,383.72
+     And I turn the thumb out that way, right?
+},
+{
+    383.72,385.56
+     And I can be pretty relaxed like this.
+},
+{
+    385.56,386.4
+     Right.
+},
+{
+    386.4,388.14
+     If that works better than this,
+},
+{
+    388.14,391.12
+     that's the position you do it for 90 seconds.
+},
+{
+    391.12,393.92
+     Let's say we're at 88, 89, 90 seconds.
+},
+{
+    393.92,395.88
+     If you want to go longer, that's fine.
+},
+{
+    395.88,396.72
+     Sure.
+},
+{
+    396.72,397.8
+     But not less.
+},
+{
+    397.8,401.36
+     And then it's really important when you relax
+},
+{
+    401.36,402.76
+     is take it slowly.
+},
+{
+    402.76,405.84
+     What has happened is that it's actually released
+},
+{
+    405.84,406.88
+     the muscle spindles.
+},
+{
+    406.88,409.84
+     This is a neurological phenomenon, I feel,
+},
+{
+    409.84,413.32
+     but it's been studied scientifically pretty extensively.
+},
+{
+    413.32,416.52
+     It relaxes the tight muscle
+},
+{
+    416.52,419.96
+     and allows blood flow and circulation to become maximized,
+},
+{
+    419.96,422.48
+     which offers that release,
+},
+{
+    422.48,425.44
+     release the pain and improve circulation.
+},
+{
+    425.44,427.12
+     So you don't want to jump in and move it right away.
+},
+{
+    427.12,427.96
+     No, no.
+},
+{
+    429.16,430.0
+     Play out.
+},
+{
+    430.0,434.08
+     Let it get the full effect of the shortening of the muscle.
+},
+{
+    434.08,434.92
+     Right.
+},
+{
+    434.92,438.28
+     And then slowly you can do some gentle range of motion
+},
+{
+    438.28,439.36
+     of the wrist.
+},
+{
+    439.36,442.4
+     You can do some circles, but don't do this
+},
+{
+    442.4,446.0
+     and then go into an aggressive project or something where you're gonna
+},
+{
+    446.0,447.04
+     work your wrist.
+},
+{
+    447.04,449.52
+     You need to let it relax after that, take advantage of that.
+},
+{
+    449.52,451.24
+     So then we wanna try it again, right?
+},
+{
+    451.24,453.56
+     Yeah, go back to that spot you were at,
+},
+{
+    453.56,456.56
+     and then push on it and go back and forth.
+},
+{
+    456.56,459.84
+     Now mine was at a six, I can still feel right there.
+},
+{
+    459.84,461.52
+     I'd say it's down to about a three.
+},
+{
+    461.52,462.96
+     It didn't go to a zero.
+},
+{
+    462.96,465.6
+     Now if I did this again in an hour. Oh by George, it is down. Yeah. down to about a three. It didn't go to a zero. Now if I did this again in an hour.
+},
+{
+    465.6,467.64
+     Oh, by George, it is down.
+},
+{
+    467.64,468.48
+     Yeah.
+},
+{
+    468.48,469.32
+     Mine was at a three.
+},
+{
+    469.32,470.76
+     I'd say it's at a one now.
+},
+{
+    470.76,472.16
+     Yeah, so yours went down.
+},
+{
+    473.16,474.36
+     This just shocks me.
+},
+{
+    474.36,475.56
+     Mine is smaller.
+},
+{
+    475.56,477.8
+     Mine was about from here to here longer
+},
+{
+    477.8,480.72
+     and now it's reduced, but I'm still at a three.
+},
+{
+    480.72,483.04
+     I'd like to get this down to a one or zero.
+},
+{
+    483.04,485.56
+     It just shows you when there's that inherent tension
+},
+{
+    485.56,488.62
+     in the muscle, you know, there's not as much blood flow
+},
+{
+    488.62,489.44
+     to the area.
+},
+{
+    489.44,493.16
+     And so it just builds on it and it's cyclical
+},
+{
+    493.16,494.36
+     and makes it worse and worse.
+},
+{
+    494.36,495.76
+     Exactly right Bob.
+},
+{
+    495.76,498.8
+     So, you know, it's kind of changing my thinking
+},
+{
+    498.8,499.64
+     about some of the stuff.
+},
+{
+    499.64,502.6
+     I think some of the stuff, it's great to do stretches
+},
+{
+    502.6,505.84
+     at one time and then maybe do this at another time.
+},
+{
+    505.84,508.76
+     And you kind of get the best of both worlds then.
+},
+{
+    508.76,510.56
+     And you can go in here and finish up
+},
+{
+    510.56,512.88
+     with a little gentle massage.
+},
+{
+    512.88,514.84
+     And we've got some more information
+},
+{
+    514.84,517.52
+     on actually combining this technique
+},
+{
+    517.52,519.96
+     with a more aggressive massage, but that's another video.
+},
+{
+    519.96,521.36
+     Sure, we'll have to start doing that.
+},
+{
+    521.36,522.68
+     We continue to learn, so.
+},
+{
+    522.68,523.84
+     Yeah, we get smarter.
+},
+{
+    523.84,525.56
+     Yeah, well, I don't know.
+},
+{
+    525.56,527.28
+     The other people may not think so, but we do.
+},
+{
+    527.28,529.88
+     So thanks for watching, folks.
+},
+{
+    529.88,None
+     Be careful. you
+},

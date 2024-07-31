@@ -1,0 +1,748 @@
+{
+    0.0,8.4
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    8.4,10.44
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    10.44,11.72
+     Brad Heineck, physical therapist.
+},
+{
+    11.72,13.84
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    13.84,15.04
+     In our opinion, of course, Bob.
+},
+{
+    15.04,16.24
+     Brad, we get a lot of questions.
+},
+{
+    16.24,22.52
+     People are wondering whether or not their ACL, MCL, or PCL knee ligament is going to heal.
+},
+{
+    22.52,23.28
+     Sure, yep.
+},
+{
+    23.28,25.88
+     And, you know, usually it's not all three, but it's one of those.
+},
+{
+    25.88,26.72
+     Right.
+},
+{
+    26.72,27.72
+     And so today I thought it'd be a good time
+},
+{
+    27.72,29.88
+     for us to talk about that, whether or not
+},
+{
+    29.88,30.88
+     it's going to heal on its own
+},
+{
+    30.88,33.04
+     or whether or not you're going to need surgery.
+},
+{
+    33.04,36.04
+     We're talking about the anterior cruciate ligament,
+},
+{
+    36.04,39.2
+     medial collateral ligament, and posterior collateral ligament.
+},
+{
+    39.2,41.28
+     Right, yeah, that's emotional.
+},
+{
+    41.28,42.6
+     So these are ligaments there.
+},
+{
+    42.6,45.28
+     There's four main ligaments that help hold your knee together.
+},
+{
+    45.28,46.12
+     Right.
+},
+{
+    46.12,50.78
+     So you got the femur bone, you got the tibia bone here,
+},
+{
+    50.78,53.46
+     and there's muscles that help hold them together too,
+},
+{
+    53.46,57.04
+     but basically to stop these bones from coming apart,
+},
+{
+    57.04,59.08
+     there's four main ligaments.
+},
+{
+    59.08,61.32
+     The ACL is the one you hear about all the time.
+},
+{
+    61.32,62.16
+     Right.
+},
+{
+    62.16,63.06
+     It's probably the most injured.
+},
+{
+    63.06,65.88
+     And that's one that's in the joint itself. I'm gonna go over here, Brad.
+},
+{
+    65.88,67.88
+     Yeah, let's get a close-up.
+},
+{
+    68.88,70.88
+     What do you think, Lonnie? I
+},
+{
+    71.04,74.72
+     put red tape on it. This is the kneecap.
+},
+{
+    74.72,80.12
+     We're just gonna take and lift the kneecap up so you can see inside the joint and there's the ACL right there.
+},
+{
+    82.0,84.8
+     How are we doing Lonnie? She doesn't seem happy.
+},
+{
+    90.52,96.44
+     there. How are we doing Lonnie? She doesn't seem happy. If Lonnie is not happy, nobody is happy. Alright, that's the ACL. The MCL is on the inside of the knee and that goes
+},
+{
+    96.44,103.28
+     from here, this bone to that bone, from the femoral to the tibia. And then the PCL is
+},
+{
+    103.28,107.8
+     also in the joint but it's more in the back and it comes from the front and goes to the tibia. And then the PCL is also in the joint but it's more in the back
+},
+{
+    107.8,111.4
+     and it comes from the front and goes to the back. The ACL and the PCL actually curse cross.
+},
+{
+    111.4,117.36
+     Make a cross. They're right next, they're like little buddies. So there's the lateral
+},
+{
+    117.36,121.36
+     collateral ligament but that one usually doesn't get injured as much. Not as much, it's just
+},
+{
+    121.36,127.52
+     on the other side of the knee, it's right under the skin. You can feel that as well as the M cell with your fingers under the skin kind of
+},
+{
+    127.52,130.54
+     So let's talk about first, you know, they're gonna grade your tear
+},
+{
+    130.54,133.46
+     They're gonna tell you it's either a one two or three
+},
+{
+    133.76,137.68
+     Now on a one it's just got the fibers got stretched a little bit, right?
+},
+{
+    137.68,141.02
+     The irritated little sore probably, generally you're not gonna do anything with that
+},
+{
+    141.02,144.68
+     But you might do some rehab after that, but you're not gonna do anything beyond that
+},
+{
+    150.14,154.24
+     With a number two, grade two, there are some fibers that were partially torn. And this is the key, does your knee feel stable?
+},
+{
+    154.24,157.76
+     Because sometimes your knee feels unstable even with some partial tear.
+},
+{
+    157.76,161.16
+     And again, you may want to do some rehab after that.
+},
+{
+    161.16,164.56
+     Right, so it's strengthening it, get some stabilization back.
+},
+{
+    164.56,165.84
+     The grade 3
+},
+{
+    165.84,172.12
+     it completely tears. Right, rupture. It gets like a mop head they say on both sides. Yeah.
+},
+{
+    172.12,176.92
+     So it's complete rupture. The other thing that could happen is it actually could pull away from
+},
+{
+    176.92,181.92
+     the bone and pull apart of the bone with it. And that's a ball, a ball's fresh. Right. So that's
+},
+{
+    181.92,185.78
+     the possibilities that are happening. The surgery is going to be considered when you have a grade fraction. So that's the possibilities that are happening. The surgery is gonna be considered
+},
+{
+    185.78,187.3
+     when you have a grade three.
+},
+{
+    187.3,188.3
+     It's a complete tear.
+},
+{
+    188.3,191.1
+     Right, tear pulls off the bone.
+},
+{
+    191.1,193.38
+     Get in there and they gotta sew it back in
+},
+{
+    193.38,195.02
+     or connect it, reattach it.
+},
+{
+    195.02,196.78
+     Before we go any further, Brad, by the way,
+},
+{
+    196.78,199.42
+     if you're new to our channel, please take a minute,
+},
+{
+    199.42,202.58
+     please, please take a minute to hit the subscribe button
+},
+{
+    202.58,204.98
+     here, it's right here on the screen,
+},
+{
+    204.98,205.04
+     because we're gonna provide you with videos on how to stay healthy, fit, pain-free, Take a minute to hit the subscribe button here. It's right here on the on the screen because
+},
+{
+    205.52,209.84
+     we're going to provide you with videos on how to stay healthy, fit, pain-free, and we upload every day.
+},
+{
+    209.84,213.76
+     You bet. All right, getting back to where we're talking about, Brad, let's talk about the MCL
+},
+{
+    213.76,218.56
+     first, medial collateral ligament. Let's say you hurt that one alone. You didn't hurt any of the
+},
+{
+    218.56,228.24
+     other ligaments because, yeah, because quite often you might, there you go Brad. There you go. He heard it, he actually tore it completely apart like that.
+},
+{
+    228.24,229.6
+     Should you have surgery?
+},
+{
+    229.6,234.16
+     Well they have found out now Brad, in most cases an isolated incident is like,
+},
+{
+    234.16,237.28
+     you should not have surgery. That will heal believe it or not.
+},
+{
+    237.28,240.72
+     Those ends will come back together again, they'll form a clot. Sure.
+},
+{
+    240.72,244.0
+     And they're going to actually heal. And how long is that going to take roughly?
+},
+{
+    244.0,249.6
+     I'm not sure how long it takes but it's weeks, many weeks. but it's many weeks and you're gonna have to do rehab along with it.
+},
+{
+    249.6,253.72
+     We're gonna talk about this later as you lose your proprioception.
+},
+{
+    253.72,257.04
+     You lose the ability to tell where the knee is at in space and
+},
+{
+    257.36,271.2
+     it makes you more vulnerable to re-injuring it again. And your balance is gonna be off. You might fall down, but you wouldn't expect it. So you know again, I wouldn't do surgery now. Let's say you tore your ACL or PCL along with the MCL.
+},
+{
+    271.72,278.72
+     Well in that case they're recommending that you do have the MCL. I mean the ACL repaired, but you still leave the MCL alone.
+},
+{
+    278.96,280.96
+     Because they make more money on the ACL.
+},
+{
+    281.88,285.54
+     The ACL does provide some of that stability that the
+},
+{
+    286.2,291.22
+     MCL does. So it needs to be repaired otherwise there's gonna be too much stress on the MCL.
+},
+{
+    291.22,294.8
+     You got two out of the four legaments gone. Yeah, it's too much. It's just too much.
+},
+{
+    294.8,297.1
+     So you're gonna want to go ahead and have that repaired.
+},
+{
+    297.66,303.12
+     Now what about an MCL or the ACL? That's the big one that happens quite often.
+},
+{
+    303.12,305.36
+     That is it. By the way, I got numbers on the way this spread
+},
+{
+    306.22,312.6
+     150,000 new ACL tears a year. Oh really? Yep, 100,000 MCL and this is in the United States?
+},
+{
+    312.88,314.88
+     Yep, United States and
+},
+{
+    315.52,317.52
+     25,000 of the PCLs. Okay, so
+},
+{
+    318.24,324.54
+     ACL wins. Yep 150,000 if you call that a win because it's you know, it's a devastating injury. Right
+},
+{
+    324.52,325.2
+     Yeah, 150,000 if you call that a win because it's you know, it's a devastating injury, right?
+},
+{
+    332.06,332.4
+     Why doesn't the ACL or the PCL they're both what they call intraarticular? They're in inside the joint
+},
+{
+    334.06,337.36
+     They're not on the outside They don't heal well and there's a number of reasons they don't one
+},
+{
+    337.48,343.4
+     There's a lot of synovial fluid in there and that fluid keeps those little ends from attaching to each other
+},
+{
+    343.4,345.6
+     Sure, so it's like the two mop and they're
+},
+{
+    345.6,350.96
+     Flipping all over in this fluid. They never get a chance to get a hookup not a great blood supply
+},
+{
+    351.28,352.16
+     Right to there
+},
+{
+    352.16,357.74
+     So even if they do hook up they don't form the clot that needs to be you know bind together right get the growth going
+},
+{
+    357.96,361.2
+     Three there's great mechanical stresses on these sure
+},
+{
+    361.2,368.0
+     I mean there's more stresses on these than there is on the MCL or that Lauer. That's why they break more. That's why they break more.
+},
+{
+    368.0,374.04
+     So in most cases people are going to have this repaired, especially if
+},
+{
+    374.04,377.44
+     you're going to go back to activity. I mean if you're going to go back to sports,
+},
+{
+    377.44,382.22
+     I don't know how you can not. Well actually I heard there was that one
+},
+{
+    382.22,385.0
+     isolated case of a football player who actually didn't have an ACL.
+},
+{
+    385.0,388.0
+     No, no, they actually talked about this.
+},
+{
+    388.0,394.0
+     You know, there's actually testing they can do and they put you in two categories.
+},
+{
+    394.0,396.0
+     Either you're a coper or a non-coper.
+},
+{
+    396.0,397.0
+     Oh.
+},
+{
+    397.0,400.0
+     And that means your knee is coping with the fact that the ACL is not there.
+},
+{
+    400.0,404.0
+     And if you haven't had it, the knee give out at all when you're walking on it.
+},
+{
+    404.0,407.0
+     Yeah. That's a good sign. Okay, and they actually look at you
+},
+{
+    407.0,411.48
+     They can tell like if you're your knees if you're walking really braced. That's a bad sign
+},
+{
+    411.48,415.8
+     Okay, you're you're you're you're able to walk with kind of a normal stride
+},
+{
+    416.2,418.36
+     they have a whole testing process and
+},
+{
+    419.12,423.28
+     Yeah, I would say you know and looking at the numbers it was like one out of
+},
+{
+    423.92,426.36
+     One out of four that could probably get by
+},
+{
+    426.36,427.36
+     without surgery.
+},
+{
+    427.36,428.36
+     Sure.
+},
+{
+    428.36,431.2
+     But this is, you're going to have to go to a place that knows what they're doing, they're
+},
+{
+    431.2,432.2
+     going to test you.
+},
+{
+    432.2,433.2
+     Don't listen to that.
+},
+{
+    433.2,435.4
+     We're not going to give you advice on that.
+},
+{
+    435.4,439.8
+     Because, I mean, if I was an athlete, I'd be a bit torn.
+},
+{
+    439.8,440.8
+     Right.
+},
+{
+    440.8,441.8
+     Yeah.
+},
+{
+    441.8,446.14
+     But in any case, Brad, no matter which one you have you need to have after you if you have the surgery
+},
+{
+    446.44,451.14
+     You're gonna have to make sure you get some rehab because you've got to get that proprioception again
+},
+{
+    451.26,453.96
+     That ability for the knee to tell where it is in space
+},
+{
+    453.98,459.52
+     You have to get that reestablished or you're really at a high injury rate a possibly a re-injuring
+},
+{
+    459.52,464.84
+     Right and and the other things that help determine whether or not it's gonna be injured is how well your bones are shaped
+},
+{
+    464.84,466.8
+     How do you hook up together
+},
+{
+    466.96,472.36
+     You know how how how good you are again at not losing your balance and stuff like that
+},
+{
+    472.36,476.7
+     So the rehab process is pretty complete and it's as therapists
+},
+{
+    476.7,480.82
+     You know we go through it step by step by step and it's typically 12 to 16 weeks
+},
+{
+    480.96,484.06
+     Well Brad, why don't you start off and show it with a wobble board? Okay?
+},
+{
+    484.06,487.82
+     to 16 weeks. Well Brad why don't you start off and show it with a wobble board. Okay. So Lonnie you're gonna probably have to pan down a little bit here. Bob was
+},
+{
+    487.82,491.46
+     talking about proprioception. This is one of the tools that therapists will use
+},
+{
+    491.46,495.1
+     to help that proprioception. Brad doesn't usually wear shoes like this with
+},
+{
+    495.1,499.86
+     this. Yeah with my blacks on but you know obviously I'm not gonna wear my dress
+},
+{
+    499.86,512.56
+     shoe to do this because I need a little more feel for what I'm on and grip. So usually you start to like it Brad. Right. So right when I start with someone or Bob does you'll start with two feet
+},
+{
+    512.56,517.84
+     and I have I call this the five minute drill. Different therapists have different exercise
+},
+{
+    517.84,523.28
+     on this. I like this way I go forward and backwards. He's using a walker for balance right now.
+},
+{
+    523.84,526.84
+     By the way what our cute little fish walker here by the way.
+},
+{
+    526.84,528.88
+     Oh yes, nice.
+},
+{
+    528.88,531.36
+     And in the clinic I have them standing parallel bars
+},
+{
+    531.36,532.68
+     and they hold onto that.
+},
+{
+    532.68,534.26
+     Cause you're not going to be able to do this
+},
+{
+    534.26,536.32
+     without something to stabilize likely.
+},
+{
+    536.32,539.14
+     You might get away with a cane or a cane in both hands.
+},
+{
+    539.14,543.6
+     So go forward and backwards for 60 seconds, right to left.
+},
+{
+    545.2,547.4
+     And this is good to have the knees slightly bent
+},
+{
+    547.4,548.24
+     while you're doing these Brad.
+},
+{
+    548.24,550.52
+     Ooh, I gotta get my walker back.
+},
+{
+    550.52,551.64
+     You're not hard to do.
+},
+{
+    551.64,552.88
+     Yeah, this is not easy.
+},
+{
+    552.88,554.72
+     Depends on the wobble board too.
+},
+{
+    554.72,555.8
+     And then-
+},
+{
+    555.8,557.76
+     This is a very small wobble board Brad.
+},
+{
+    557.76,559.76
+     Some of them have really large ones.
+},
+{
+    559.76,561.24
+     They're a lot easier to use.
+},
+{
+    561.24,562.68
+     And that's one you might wanna use
+},
+{
+    562.68,563.96
+     when you're starting off with.
+},
+{
+    563.96,569.0
+     So then I go clockwise, we roll around for a minute, then the other direction for a
+},
+{
+    569.0,576.64
+     minute, and the grand finale is to hold it and this is where I say let go of the
+},
+{
+    576.64,581.48
+     parallel bars and see if you can hold it. This wobble board actually has a
+},
+{
+    581.48,588.0
+     little cheater on it, there's a flat spot on the ball. Did you notice that? Yeah, if I get to it right there,
+},
+{
+    588.0,592.0
+     it's hard to get to actually, it's not that easy.
+},
+{
+    592.0,596.0
+     One thing you're going to want to learn Brad is how to jump correctly after you have
+},
+{
+    596.0,600.0
+     ACL. If this is my involved leg,
+},
+{
+    600.0,604.0
+     one of the biggest problems especially women have is when they land,
+},
+{
+    604.0,605.32
+     they land in like this
+},
+{
+    605.32,611.9
+     Exactly. You really want to work on one really good posture when you land you don't want to be like this and land like this
+},
+{
+    612.12,619.16
+     Because your weight is all over your knees. Sure. You want to have your back real straight. Want to show Brad on me?
+},
+{
+    620.64,627.0
+     So we line up when you have good posture here. You see how it hits my butt, my back, and my head.
+},
+{
+    627.0,630.0
+     Turn this one, rotate your body Bob. There you go.
+},
+{
+    630.0,635.0
+     So when I land, I want to be like in this position. My knees are not coming together like this.
+},
+{
+    635.0,638.0
+     They're landing like this. Keep it in line.
+},
+{
+    638.0,644.0
+     Yep, my posture is really good and my knees are bent. They found out people that tend to land like this,
+},
+{
+    644.0,645.82
+     tend to injure their legs more people that tend to land like this, tend to injure their legs more
+},
+{
+    645.82,650.98
+     You want to land like this, you want to hit your toe to your heel, toe heel
+},
+{
+    650.98,656.68
+     And you can even work on these, you can jump forward and hold the position, jump back, hold the position
+},
+{
+    656.68,659.4
+     Jump forward and jump back and hold the position
+},
+{
+    659.4,661.9
+     So those are all really good exercises to work on
+},
+{
+    661.9,668.16
+     This is a pretty comprehensive program and in 10 minutes we're just touching the surface on a lot of this.
+},
+{
+    668.16,672.08
+     I don't even think I'm gonna go over the rest of them Brad, because these are very
+},
+{
+    672.08,675.48
+     difficult to do. This is a good start. You got to know that you're gonna have to
+},
+{
+    675.48,679.16
+     do a whole proprioceptive program. Exactly.
+},
+{
+    679.16,None
+     Thanks for watching. Good luck with it.
+},

@@ -1,0 +1,92 @@
+{
+    67.92,72.32
+     Yn ymdweud yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r ffordd yw'r fdweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r ddweudio'r dwysig yn ymddi'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweithio'r gweeld yn 4cm gweithio, ond yw'r ddweud yn ddod yn gweithio'r ddod yn ddod yn ddod yn ddod yn ddod yn ddod. Dwi'n gwybod i'r ddod yn ddod. Y gweithio'n ddod yn ddod yn ddod yn ddod yn ddod yn ddod
+},
+{
+    72.32,75.6
+     yn ddod yn ddod yn ddod yn ddod yn ddod. Fy yw'r ddod yn ddod,
+},
+{
+    75.6,79.12
+     mae'n ddod yn ddod yn ddod, ond y ddod yn ddod yn ddod,
+},
+{
+    79.12,82.0
+     ddod yn ddod yn ddod, ac mae'n ddod yn ddod yn ddod,
+},
+{
+    82.0,84.8
+     ond y ddod yn ddod yn ddod yn ddod yn ddod.
+},
+{
+    84.8,91.36
+     Felly, ydyn ni'n ddod yn ddod, mae'n ddod yn ddod yn ddod bleed in and they come out of the wound because there's no venous return for them to come through. So if you're using a tourniquet it needs to be put on really tight and to put it on really tight
+},
+{
+    91.36,97.36
+     it will hurt the casualty a lot. Once you have made the decision that direct pressure will not
+},
+{
+    97.36,107.2
+     stop the bleeding and you've made the decision to go and use a tourniquet then you will never be undoing it or removing it, it can only be
+},
+{
+    107.2,114.0
+     removed by a doctor in a hospital setting. You need to explain to the casualty that it will hurt them
+},
+{
+    114.0,119.04
+     however this is stopping the blood loss and it will save their lives. Okay so you've got
+},
+{
+    119.84,126.4
+     a wide bit of very strong material to be used as your tourniquet and then you've got a pair of scissors
+},
+{
+    127.28,132.64
+     or a table knife to be used as your windlass to wind it up. Now we need a casualty.
+},
+{
+    132.64,137.28
+     So you've made the decision that direct pressure is insufficient to stop the bleeding.
+},
+{
+    137.28,142.88
+     There is a lot of pulsating blood. This is serious putting on an improvised tourniquet
+},
+{
+    142.88,169.96
+     and not something you would do lightly. If the wound is here, what you're trying to do is put yw'r unig sy'n ei wneud o'r unig yw'r unig, ac nid o'r unig yw'r unig yn ymgyrch. Yn ymgyrch yw'r unig, y dywed ychydig yn ymgyrch yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw'r unig yw' If it was on a knee joint you would never put a tourniquet over the knee but you'd put it just above and if the wound was above the elbow you put it five centimetres above the wound.
+},
+{
+    169.96,177.76
+     So you get your broad arm bandage that you folded and you put that round the arm like this and you
+},
+{
+    177.76,185.84
+     tie a knot tightly like that. You then get whatever you're going to use as your windlass to wind it up.
+},
+{
+    185.84,191.84
+     In this case we're using a pair of tough cut scissors and you are going to tie that over the top
+},
+{
+    191.84,199.28
+     again like this. And then what you would do is you would wind this up. So this is your windlass
+},
+{
+    199.28,227.4
+     and you're going to wind it as hard as you can in order to stop all the blood coming out of the yn ymddi'r ddweud o'r ddweud o'r ddweud o'r ddweud. Yn ymddi'r ddweud, mae'n cael ei ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud oel ei ddweud. Felly, dwi'n cael ei ddweud o'r pethau a ddweud i'r ddweud,
+},
+{
+    227.4,230.56
+     oedd ydych chi'n dweud o'r ddweud o'r tawrnyddau,
+},
+{
+    230.56,245.76
+     mae'n ddweud o'r ddweud o'r meddwl o'r profesiol o'r dros yma yn y ddweud o'r hosbyn. A ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r meddwl o'r ddweud o'r meddwl o'r ddweud o'r meddwl o'r ddweud o'r meddwl o'r ddweud o'r ddweud o'r meddwl o'r ddweud o'r ddweud o'r meddwl o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud o'r ddweud i'r cyfnod y gallu cyfnodd. Mae'n cael ei wneud i'r cyfnodd yn cyfnodd
+},
+{
+    245.76,248.76
+     i'r meddwl meddwl gael gwybod.
+},

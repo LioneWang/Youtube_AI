@@ -1,0 +1,396 @@
+{
+    0.0,23.0
+     Hi, I'm Dr. Matthew Bose and welcome to our video series.
+},
+{
+    23.0,25.0
+     Proper therapy exercises are important for
+},
+{
+    25.0,29.56
+     recovery from most orthopedic conditions. I've designed this series to provide
+},
+{
+    29.56,34.32
+     you with up-to-date therapy regimens that you can access at home, in the gym, or on
+},
+{
+    34.32,57.52
+     the road. I hope you find these videos helpful and best of luck in your recovery. Start with a light warm up.
+},
+{
+    57.52,70.28
+     Begin by doing fast feet. Progress to forward skips.
+},
+{
+    70.28,93.08
+     These are done over about a 20 yard distance up and back with the same exercise just to Just to get the body warm and ready for this phase.
+},
+{
+    93.08,96.44
+     Start slowly and progress in intensity.
+},
+{
+    96.44,99.52
+     Take three steps and plant.
+},
+{
+    99.52,112.48
+     Hold for one count on the outside knee. Light zigzag pattern up and down, planning on the third step.
+},
+{
+    118.68,129.94
+     Follow the warm-up with light stretching of the quads, hamstrings and calf muscles. Make
+},
+{
+    129.94,136.36
+     sure you bend the back knee leaning into a squat or a lunge.
+},
+{
+    154.56,156.92
+     Sit back into the lunge with your knees tracking out over your feet. Technique is important here.
+},
+{
+    156.92,175.7
+     Squat down with your knees tracking directly out over your feet to maintain good control. Step up on one side. Bring the opposite knee up into a hip flex
+},
+{
+    175.7,186.24
+     position and hold for a one count. Alternate size every fifth rep or so.
+},
+{
+    186.24,195.4
+     You can increase resistance by holding onto a dumbbell with progressive weight.
+},
+{
+    195.4,199.12
+     Key is to keep your body centered and balanced at all times.
+},
+{
+    199.12,204.92
+     If you're struggling with this, go back to no weight.
+},
+{
+    204.92,207.56
+     Start with your knee flexed out in front, thigh parallel to
+},
+{
+    207.56,216.88
+     the floor, bend over, touch the weight to the floor, and drive the non-stanced knee back.
+},
+{
+    216.88,228.2
+     Alternate both sides. Start with your knee out, straight in front of you. Drive that heel back towards the back wall and bring your knee up and out in front again.
+},
+{
+    230.3,232.24
+     You can increase the
+},
+{
+    232.24,235.68
+     weight of the dumbbell as your strength increases.
+},
+{
+    237.46,239.46
+     Alternate both sides.
+},
+{
+    243.0,247.96
+     Progressing the single leg jumping in this phase from double leg.
+},
+{
+    247.96,252.96
+     It's important to do both sides.
+},
+{
+    252.96,259.28
+     Use a line in the floor, some type of reference to jump over and hold.
+},
+{
+    259.28,263.42
+     Alternate front-back and then side-to-side.
+},
+{
+    263.42,270.0
+     Hold in the balance position. Make sure to do both legs as well.
+},
+{
+    270.0,286.0
+     Line is a visual reference. You can jump in a clockwise pattern, then a counterclockwise Landing on the single leg.
+},
+{
+    291.0,293.0
+     Alternate both sides. This can progress to being a figure of eight pattern.
+},
+{
+    295.0,296.0
+     One direction and another.
+},
+{
+    298.0,304.0
+     Alternate sides.
+},
+{
+    306.56,309.88
+     Jump with 90 degrees rotation. Importance is on landing technique.
+},
+{
+    309.88,313.92
+     Make a controlled landing with your knees centered over the foot.
+},
+{
+    313.92,322.12
+     As strength improves, you can increase to 180 degree jumps.
+},
+{
+    322.12,326.62
+     As strength improves, you can increase the height of your jumps and how deep you go into
+},
+{
+    326.62,333.16
+     a squat by bending the back leg further and further towards the floor.
+},
+{
+    333.16,341.56
+     Start with your knee flexed, hop into a jump position and then back into a lunge.
+},
+{
+    341.56,348.48
+     Emphasis is on take off, on one leg, with a controlled landing into a lunge.
+},
+{
+    348.48,350.4
+     Alternate both sides.
+},
+{
+    350.4,356.44
+     Knee flexed into a lunge after a jump in land.
+},
+{
+    356.44,362.68
+     Then into a squat, lunge, squat, lunge.
+},
+{
+    362.68,365.0
+     Alternate.
+},
+{
+    372.0,380.0
+     Double-egg long jumps for strength by increasing the distance.
+},
+{
+    381.0,384.0
+     Start in control band.
+},
+{
+    383.98,385.1
+     starting to control man
+},
+{
+    387.7,391.66
+     position
+},
+{
+    395.86,436.9
+     lock link, control man The strength and coordinate increases again. If this is difficult, you can land up onto an elevated surface.
+},
+{
+    436.9,437.9
+     This is difficult.
+},
+{
+    437.9,450.56
+     You can start with a six inch block. Importance of landing on both legs in a controlled manner.
+},
+{
+    450.56,458.76
+     Hopping up and then down you can increase the height of the block as your strength improves.
+},
+{
+    458.76,463.24
+     Jumping forward and landing on a single leg in a controlled manner.
+},
+{
+    463.24,467.48
+     This is a difficult exercise to do.
+},
+{
+    467.48,471.12
+     The car has a lot of strength and coordination.
+},
+{
+    471.12,474.28
+     You can limit the distance that you're jumping at first
+},
+{
+    474.28,480.12
+     and progress this as your strength improves.
+},
+{
+    480.12,484.92
+     Increasing height with each excessive hop for four hops
+},
+{
+    484.92,488.0
+     and then increasing your distance over four successive hops.
+},
+{
+    489.0,491.0
+     We'll add over a 20-yard distance.
+},
+{
+    493.0,495.0
+     Hopping for speed.
+},
+{
+    495.0,500.0
+     Seeing how fast you can cover that distance, hopping on the same leg. Alternate sides.
+},
+{
+    509.14,515.62
+     First going slowly, landing inside the mat and then outside the mat as your strength improves, increase the speed and intensity as well as the distance you're traveling when
+},
+{
+    515.62,518.26
+     you land outside.
+},
+{
+    518.26,526.2
+     Keep your knees up high, land on the outside leg and hold, alternate back and forth.
+},
+{
+    526.2,531.0
+     The goal is to keep your knees above waist level.
+},
+{
+    531.0,536.2
+     Explode off both legs, bring your knees up as high as they can go.
+},
+{
+    536.2,539.2
+     Land in a controlled manner.
+},
+{
+    539.2,542.2
+     Back pedal to the starting position.
+},
+{
+    547.44,552.24
+     to the starting position. Cone drill number one, running from one cone to the other, planning the outside leg and
+},
+{
+    552.24,554.08
+     changing direction.
+},
+{
+    554.08,559.84
+     Emphasis on doing this in a controlled manner.
+},
+{
+    559.84,567.8
+     Cone drill number two, done with back pedaling in a similar pattern to improve balance and
+},
+{
+    567.8,573.6
+     coordination.
+},
+{
+    573.6,586.08
+     Cone drill number three, starts with karaoke on the first limb, followed by a side shuffle followed by karaoke on the last limb and then a side
+},
+{
+    586.08,595.88
+     shuffle. With an M pattern you spread forward, back pedal to the M, sprint
+},
+{
+    595.88,602.68
+     forward and then back pedal in the final leg. This can then be reversed in the
+},
+{
+    602.68,607.0
+     opposite direction.
+},
+{
+    611.36,617.36
+     Proving coordination and stability with sudden starts and stops.
+},
+{
+    617.36,622.32
+     X-Drill is done in a crosswise pattern with a karaoke on the first limb, side shuffle
+},
+{
+    622.32,652.08
+     over the top, karaoke across. body and
+},
+{
+    659.48,670.6
+     position. Legs extended. Bend your hips in your knees and bring your knees to the chest. Add a twist bringing each elbow to the same side and extending your knees.
+},
+{
+    670.6,678.44
+     It's important to keep your abdominal muscles contracted throughout this.
+},
+{
+    678.44,687.58
+     Lean up against the wall, take a ball or other object. Press above your head, touch the wall.
+},
+{
+    687.58,690.7
+     Bend down with your core tightened.
+},
+{
+    690.7,697.1
+     Touch between your legs and alternate.
+},
+{
+    697.1,701.98
+     The whole time keeping your core engaged and contracted.
+},
+{
+    701.98,716.56
+     Touch above your head, engage your core, reach down, opposite side, touch by your hip.
+},
+{
+    716.56,720.32
+     Lifting and moving light object, keep your core engaged.
+},
+{
+    720.32,728.0
+     Switch to the opposite shoulder and the opposite hip.
+},
+{
+    728.0,730.64
+     Body bridges are done in four ways.
+},
+{
+    730.64,733.76
+     First prone.
+},
+{
+    733.76,737.48
+     Hold that for a few seconds.
+},
+{
+    737.48,740.32
+     Elbows on the floor.
+},
+{
+    740.32,741.32
+     Hip straight.
+},
+{
+    741.32,745.0
+     Progress to a right side lighting.
+},
+{
+    747.0,749.0
+     Keep your hips out straight.
+},
+{
+    753.0,755.0
+     Progress back to a left side line.
+},
+{
+    None,None
+     Finally progressing to a supine bridge. Bridge.
+},

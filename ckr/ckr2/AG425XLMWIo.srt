@@ -1,0 +1,60 @@
+{
+    0.0,6.42
+     Here we have a soldier that's been shot.
+},
+{
+    6.42,8.92
+     He has an entrance wound but no exit wound.
+},
+{
+    8.92,15.16
+     The first thing we want to do is occlude that wound using the back of our palm and grab
+},
+{
+    15.16,17.16
+     our occlusive dressing.
+},
+{
+    17.16,28.16
+     I'm going to go ahead and apply the occlusive dressing to the wound, ensuring that the patient
+},
+{
+    28.16,37.0
+     is exhaling when it's done, and also making sure that it's at least two inches on the
+},
+{
+    37.0,40.84
+     outside of the wound.
+},
+{
+    40.84,46.08
+     If your patient continues to have respiratory distress, it's having trouble breathing, you
+},
+{
+    46.08,54.24
+     want to identify the site of insertion for an NCD, which would be the mid-accelery line
+},
+{
+    54.24,58.08
+     or inline with the nipple between the second and third rib.
+},
+{
+    58.08,72.76
+     When finding your location site, you're going to go ahead and clean it off with an alcohol wipe.
+},
+{
+    72.76,94.36
+     Getting your 3 1⁄4 inch NCD, 14 gauge diameter needle catheter. I should hear somewhat of a pop in a hiss. Take the needle out, ensuring
+},
+{
+    94.36,106.76
+     to secure it. Secure the hub down with tape.
+},
+{
+    106.76,113.72
+     I would continue to monitor my patient for respiratory distress or difficulty breathing
+},
+{
+    113.72,115.04
+     to ensure that it was properly working.
+},

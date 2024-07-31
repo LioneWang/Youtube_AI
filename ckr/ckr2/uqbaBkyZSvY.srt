@@ -1,0 +1,88 @@
+{
+    0.0,6.0
+     Range of motion exercises improve mobility and strength for people with arthritis.
+},
+{
+    6.0,9.0
+     Try to work your affected joints every day.
+},
+{
+    12.0,16.0
+     Self massage provides quick relief to painful knees.
+},
+{
+    16.0,19.0
+     Sit in a chair and reach for your knee.
+},
+{
+    19.0,22.0
+     Massage your kneecap, sides of your knee and thigh,
+},
+{
+    22.0,26.8
+     using small circles or broad gradual strokes pulling straight
+},
+{
+    26.8,30.8
+     up your leg toward your heart.
+},
+{
+    30.8,34.6
+     The massage should be gentle and rhythmic.
+},
+{
+    34.6,43.64
+     Massage each knee for one minute.
+},
+{
+    43.64,46.78
+     Leg extensions improve mobility in your knees.
+},
+{
+    46.78,52.38
+     From a seated position, extend one leg so it's parallel to the floor and hold for five
+},
+{
+    52.38,54.42
+     seconds.
+},
+{
+    54.42,56.34
+     Return your foot to the floor.
+},
+{
+    56.34,59.02
+     Then repeat the movement.
+},
+{
+    59.02,66.0
+     Extend each leg ten times.
+},
+{
+    66.0,70.44
+     Contracting your muscles with a towel squeeze exercise builds strength.
+},
+{
+    70.44,76.8
+     While in a seated position, squeeze a rolled towel between your knees for five seconds.
+},
+{
+    76.8,84.8
+     Relax and repeat the movement 10 times.
+},
+{
+    84.8,89.16
+     Marching in place improves range of motion in your hips and knees.
+},
+{
+    89.16,93.14
+     Stand with your feet shoulder-width apart and lift one knee at a time so your thigh
+},
+{
+    93.14,96.02
+     is parallel to the floor.
+},
+{
+    96.02,None
+     Hold onto a countertop or the back of a sturdy chair if you need to, and march at your own pace for one minute.
+},

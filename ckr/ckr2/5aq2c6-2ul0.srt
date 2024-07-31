@@ -1,0 +1,112 @@
+{
+    0.0,15.0
+     Did you know that about half of all cancer patients receive radiation therapy as part
+},
+{
+    15.0,16.0
+     of their treatment plan?
+},
+{
+    16.0,20.52
+     It is a common therapy, but it can cause changes to your skin.
+},
+{
+    20.52,26.64
+     It is important for you to protect your skin to lessen the effects of radiation dermatitis.
+},
+{
+    26.64,32.0
+     This is a skin reaction which sometimes occurs when people receive radiation. This therapy
+},
+{
+    32.0,37.34
+     can cause irritation of the skin and can make it difficult to enjoy life and participate
+},
+{
+    37.34,43.24
+     in your everyday activities. Sometimes your skin may become too irritated, causing your
+},
+{
+    43.24,50.24
+     doctor to put you on a treatment break to allow your skin to heal for a few days. Unfortunately, this may mean it will
+},
+{
+    50.24,55.04
+     take longer for your treatment plan to complete. Do not rub the skin with anything that may
+},
+{
+    55.04,59.48
+     irritate the skin. Things that can irritate the skin over the treatment area include
+},
+{
+    59.48,66.12
+     washcloth, luffas, and mesh scrubbies. In addition, wear loose clothing to avoid rubbing and
+},
+{
+    66.12,71.04
+     friction on the treated area. Do not scratch your skin. If you experience any
+},
+{
+    71.04,77.28
+     itching, notify your nurse. Do not use hot or cold water when showering. Use only
+},
+{
+    77.28,83.04
+     lukewarm water on the treatment area. Do not use soap on the treatment area. Do
+},
+{
+    83.04,87.0
+     not sunbathe or use sunscreen on the skin around the treated area.
+},
+{
+    87.0,93.0
+     If you go out in the sun wear a wide brimmed hat and keep the treated area completely covered.
+},
+{
+    93.0,101.0
+     Do not use pre-shave or after-shave on the treated area. If you must shave, only use an electric razor.
+},
+{
+    101.0,106.5
+     Do not apply hot packs or cold packs. Do not use band-aids or tape on the
+},
+{
+    106.5,108.74
+     treated area.
+},
+{
+    108.74,113.4
+     Carmonos Radiation Oncology Nurses use a set of guidelines for you to follow to protect
+},
+{
+    113.4,118.48
+     your skin. Your nurse will provide you with special wipes to cleanse the skin in aqua
+},
+{
+    118.48,125.96
+     fork to moisturize your skin. Be sure to use only the products provided by your nurse. Clean your skin
+},
+{
+    125.96,133.6
+     twice a day using the cleansing wipes given by your nurse. Make sure you gently
+},
+{
+    133.6,152.18
+     wipe the skin over the treated area using two wipes each time. Then allow your skin to dry completely. Once the skin is dry, apply a thin layer of aqua
+},
+{
+    152.18,158.9
+     four to the treated area.
+},
+{
+    158.9,165.84
+     Use the wipes and the aqua four after your radiation treatment and before you go to bed at night. On non-treatment
+},
+{
+    165.84,172.0
+     days, follow the same routine in the morning and prior to bed. Following these guidelines
+},
+{
+    172.0,175.04
+     will help you decrease the risk of radiation dermatitis.
+},

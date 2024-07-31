@@ -1,0 +1,120 @@
+{
+    0.0,6.34
+     My name is Sarah. I'm a certified diabetes educator. I'm here today to demonstrate
+},
+{
+    6.34,12.04
+     how to use a glucagon emergency kit. Glucagon is a medication that's used for
+},
+{
+    12.04,18.4
+     severe hypoglycemia or low blood sugar. It's given when a person is unable to
+},
+{
+    18.4,27.12
+     take food or fluids by mouth. It's typically given by a bystander, a family member, friend, colleague, someone
+},
+{
+    27.12,34.96
+     who has witnessed the hypoglycemic event. The first thing to do in a hypoglycemic emergency
+},
+{
+    34.96,41.76
+     is to retrieve your glucagon kit and open the kit. You're going to find two things
+},
+{
+    41.76,45.88
+     inside. One is a vial which will contain a powder
+},
+{
+    45.88,51.52
+     medication. The other is a syringe which has liquid solution in it. You're going
+},
+{
+    51.52,56.34
+     to flip off the top of the vial and pull off the cap to the needle on the
+},
+{
+    56.34,63.96
+     syringe. Then you want to inject the solution into the vial and swirl it
+},
+{
+    63.96,67.62
+     around until you see that that medication has
+},
+{
+    67.62,72.08
+     dissolved and it becomes clear. And you're going to turn it upside down and
+},
+{
+    72.08,79.16
+     draw the solution back into the syringe until you've gotten all of it out of the
+},
+{
+    79.16,86.9
+     vial. Then you're ready to give it. Hold your syringe like a writing pen or a dart and you would
+},
+{
+    86.9,93.44
+     give the glucagon in any place that you can give insulin, which would be the abdomen,
+},
+{
+    93.44,109.0
+     the thighs, the arms and then take it out.
+},
+{
+    109.0,115.08
+     Meanwhile, you want to make sure that that person is placed on their side because
+},
+{
+    115.08,121.88
+     glucagon can sometimes cause nausea and vomiting. The patient should respond, become
+},
+{
+    121.88,127.32
+     alert and awake within less than 15 minutes.
+},
+{
+    127.32,132.8
+     If they do not respond, you want to call 911.
+},
+{
+    132.8,138.24
+     When the person wakes up enough to be able to swallow, you want to treat that hypoglycemia
+},
+{
+    138.24,141.84
+     with some form of carbohydrate.
+},
+{
+    141.84,146.12
+     15 grams of carbohydrate is specifically what we'd like to see you
+},
+{
+    146.12,153.08
+     treat with. That can come in the form of glucose tablets, that would be four of them, or four
+},
+{
+    153.08,161.14
+     ounces of fruit juice or sugar, sweetened soda, not diet. You can also treat with a
+},
+{
+    161.14,167.92
+     tablespoon sugar, honey, or syrup. And then wait 15 minutes, recheck the blood sugar.
+},
+{
+    167.92,174.84
+     If you're not yet in goal, you would treat it again and wait 15 minutes again.
+},
+{
+    174.84,179.92
+     After you've established that the patient is at goal blood sugar, you want to be frequently
+},
+{
+    179.92,187.12
+     monitoring for the next three to four hours every 30 to 60 minutes. If you're having trouble
+},
+{
+    187.12,192.96
+     maintaining that blood glucose, then call 911 or seek emergency medical assistance.
+},

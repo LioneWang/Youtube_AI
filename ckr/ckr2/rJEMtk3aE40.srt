@@ -1,0 +1,1448 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.18,13.04
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.04,14.36
+     Brad Heineck, physical therapist.
+},
+{
+    14.36,15.2
+     Good to work Brad.
+},
+{
+    15.2,16.04
+     Well.
+},
+{
+    16.04,16.96
+     Together we have the most famous physical therapists
+},
+{
+    16.96,17.8
+     on the internet.
+},
+{
+    17.8,19.04
+     In our opinion of course, Bob.
+},
+{
+    19.04,20.8
+     We're gonna talk about the top five ways
+},
+{
+    20.8,24.08
+     to relieve muscle soreness and recover faster.
+},
+{
+    24.08,26.56
+     Plus we're gonna talk about three you should probably
+},
+{
+    26.56,28.44
+     avoid, they're just not gonna work as well.
+},
+{
+    28.44,30.16
+     Well, that's good to know, pluses and minuses.
+},
+{
+    30.16,32.6
+     Yeah, plus if you're new to our channel,
+},
+{
+    32.6,34.44
+     please take a second to subscribe to us.
+},
+{
+    34.44,36.8
+     We provide videos on stay healthy, fit, pain-free,
+},
+{
+    36.8,38.2
+     and we upload every day.
+},
+{
+    38.2,41.52
+     Also, you're definitely gonna wanna go to bobandbrad.com
+},
+{
+    41.52,43.36
+     this week, go to the giveaway section,
+},
+{
+    43.36,46.32
+     because we're giving away a sleep-ovation mattress.
+},
+{
+    46.32,47.32
+     He said mattress.
+},
+{
+    47.32,49.52
+     We're giving a nice sleep-ovation mattress.
+},
+{
+    49.52,50.88
+     This is not a full mattress.
+},
+{
+    50.88,52.36
+     This is just a little sample of it,
+},
+{
+    52.36,54.96
+     but it's got 700 individual mattresses.
+},
+{
+    54.96,57.4
+     It's got air channels, so it's nice and cool.
+},
+{
+    57.4,59.16
+     Provides a comfort you just won't find
+},
+{
+    59.16,60.32
+     on a regular mattress.
+},
+{
+    60.32,61.32
+     I love mine, Bob.
+},
+{
+    61.32,62.68
+     Yeah, I do too.
+},
+{
+    62.68,65.14
+     Now you don't use that word lightly.
+},
+{
+    65.14,69.1
+     By the way, you can also go to TikTok and Twitter
+},
+{
+    69.1,72.1
+     and Instagram if you want a 60 second version of our program.
+},
+{
+    72.1,73.02
+     There you go.
+},
+{
+    73.02,76.34
+     So what we're talking about here, Brad, is Dom's.
+},
+{
+    76.34,78.66
+     Delayed onset muscle soreness.
+},
+{
+    78.66,80.06
+     This is the kind of soreness.
+},
+{
+    80.06,82.94
+     Brad, when I was in college, believe it or not,
+},
+{
+    82.94,86.28
+     I used to lift weights almost like an hour
+},
+{
+    86.28,88.48
+     to an hour and a half every day.
+},
+{
+    88.48,89.92
+     Well, five days a week.
+},
+{
+    89.92,90.76
+     Five days a week.
+},
+{
+    90.76,91.6
+     Yeah, weekdays.
+},
+{
+    91.6,94.12
+     And I was sore all the time.
+},
+{
+    94.12,95.48
+     You thought that was good.
+},
+{
+    95.48,96.88
+     I thought that was good.
+},
+{
+    96.88,99.48
+     And I was in pretty good shape,
+},
+{
+    99.48,100.84
+     but I was pretty strong,
+},
+{
+    100.84,102.6
+     but I think I could have been a lot stronger
+},
+{
+    102.6,104.64
+     and a lot better shape if I would have.
+},
+{
+    104.64,105.48
+     So.
+},
+{
+    105.48,106.32
+     Trained a little more wise.
+},
+{
+    106.32,111.32
+     By wise, I used to eat a whole box of hamburger helper
+},
+{
+    112.4,117.4
+     along with a whole pound of hamburger in one setting.
+},
+{
+    117.4,119.44
+     I mean, that's how much you could eat back then.
+},
+{
+    119.44,120.28
+     So, you know.
+},
+{
+    120.28,121.32
+     Oh, you just ate, because you're hungry,
+},
+{
+    121.32,122.68
+     because you thought that was gonna help.
+},
+{
+    122.68,123.92
+     Well, I was that hungry.
+},
+{
+    123.92,126.96
+     I mean, I could, you know, I was six foot six, weight 225.
+},
+{
+    126.96,129.32
+     You know, it was all muscle, so anyway,
+},
+{
+    129.32,131.48
+     I'm off on a tangent here.
+},
+{
+    131.48,133.08
+     So anyway, when you get doms,
+},
+{
+    133.08,135.88
+     what's happening is during the eccentric movement.
+},
+{
+    135.88,138.0
+     So let's say I'm doing bicep red.
+},
+{
+    138.0,138.84
+     I'm bringing it up.
+},
+{
+    138.84,140.48
+     That's concentric.
+},
+{
+    140.48,145.06
+     On the way down, that's eccentric, under tension.
+},
+{
+    145.06,147.54
+     That's where you can cause microscopic tears.
+},
+{
+    147.54,149.02
+     Right.
+},
+{
+    149.02,151.18
+     I remember doing plyometric once.
+},
+{
+    151.18,152.02
+     Sure.
+},
+{
+    152.02,153.58
+     Oh my God, did I get sore?
+},
+{
+    153.58,154.62
+     What were you like doing?
+},
+{
+    154.62,155.62
+     Push-up ones or jumping?
+},
+{
+    155.62,156.62
+     No hops.
+},
+{
+    156.62,157.46
+     Hopping, okay.
+},
+{
+    157.46,160.1
+     And you really get a lot of eccentric motion on there
+},
+{
+    160.1,164.34
+     and they really, the problem with the doms,
+},
+{
+    164.34,167.28
+     and you know, it's part of muscle growth,
+},
+{
+    167.28,168.88
+     but if you do it too much,
+},
+{
+    168.88,171.72
+     it can negatively impact your training.
+},
+{
+    171.72,175.4
+     They found one study where it reduced your force capacity
+},
+{
+    175.4,176.44
+     by 50%.
+},
+{
+    176.44,179.08
+     So like if you were really sore the next day,
+},
+{
+    179.08,180.56
+     you could only lift about half
+},
+{
+    180.56,182.84
+     of what you could normally lift.
+},
+{
+    182.84,186.12
+     So I remember we used to say this
+},
+{
+    186.12,187.88
+     and it's so true today, Brad.
+},
+{
+    187.88,189.08
+     You gotta listen to your body.
+},
+{
+    189.08,192.5
+     And it's just not good to work through
+},
+{
+    192.5,194.28
+     if you're just, your body's just saying,
+},
+{
+    194.28,196.08
+     no, no, no, I need time to rest.
+},
+{
+    196.08,199.52
+     Right, there's one thing to work through that fatigue,
+},
+{
+    199.52,201.76
+     but if you're fatigued all the time
+},
+{
+    201.76,204.4
+     and your body's saying, I need a rest.
+},
+{
+    204.4,205.76
+     You're not doing yourself anything.
+},
+{
+    205.76,206.6
+     Right.
+},
+{
+    206.6,207.44
+     Then it's time.
+},
+{
+    207.44,210.0
+     You could still do a really light active recovery workout.
+},
+{
+    210.0,210.84
+     We got that.
+},
+{
+    210.84,212.32
+     Oh, I'm sorry, jumping ahead.
+},
+{
+    212.32,213.16
+     Jumping ahead.
+},
+{
+    213.16,214.76
+     So we'll talk about the five right here now.
+},
+{
+    214.76,216.6
+     Number one is actually sleep.
+},
+{
+    217.66,218.98
+     This is very interesting, Brad.
+},
+{
+    218.98,222.32
+     I found LeBron James, you know, superstar athlete.
+},
+{
+    222.32,223.16
+     Basketball player.
+},
+{
+    223.16,224.26
+     Basketball player, yes.
+},
+{
+    224.26,227.32
+     After a game night, how much does he sleep?
+},
+{
+    227.32,228.16
+     Pick a guess.
+},
+{
+    228.16,229.28
+     He's probably a partian.
+},
+{
+    229.28,230.12
+     No, he's not.
+},
+{
+    230.12,231.32
+     And that's the thing.
+},
+{
+    231.32,232.44
+     12 hours.
+},
+{
+    232.44,233.28
+     Oh.
+},
+{
+    233.28,237.16
+     And he is a personal nutritionist and trainer and all that.
+},
+{
+    237.16,241.56
+     Active, very important for recovery is to get that sleep.
+},
+{
+    241.56,243.96
+     So a lot of times they said he does 12 hours
+},
+{
+    243.96,245.48
+     and maybe even a nap along with it.
+},
+{
+    245.48,248.16
+     So I used to harp on this with my son.
+},
+{
+    248.16,251.36
+     It's like, this is an important part of the training
+},
+{
+    251.36,253.08
+     as it is the training itself.
+},
+{
+    253.08,254.64
+     You gotta have that recovery time.
+},
+{
+    254.64,257.24
+     So I did use to sleep a lot in college.
+},
+{
+    257.24,260.24
+     I remember it was like an absolute sin
+},
+{
+    260.24,262.04
+     to have a class at like nine o'clock.
+},
+{
+    262.04,263.68
+     Like, are you serious?
+},
+{
+    263.68,265.68
+     Who gets up at that time?
+},
+{
+    265.68,269.52
+     So number two, you definitely want to ease into workouts.
+},
+{
+    269.52,272.48
+     And, you know, especially if you're just beginning,
+},
+{
+    272.48,275.24
+     but even, you know, if not,
+},
+{
+    275.24,277.92
+     when you start trying to ramp up a little bit,
+},
+{
+    277.92,279.92
+     you know, you don't want it to go crazy, right?
+},
+{
+    279.92,281.88
+     Because you're just gonna get so sore,
+},
+{
+    281.88,283.64
+     you're just gonna set yourself back.
+},
+{
+    283.64,286.16
+     So lower weights, lower reps to start off with.
+},
+{
+    286.16,287.48
+     You know?
+},
+{
+    287.48,289.36
+     Especially if you're older, if you're,
+},
+{
+    289.36,291.92
+     you know, 50 years and older.
+},
+{
+    291.92,294.98
+     Boy, are you really better considered taking your time
+},
+{
+    294.98,297.68
+     getting into things so you don't injure yourself.
+},
+{
+    297.68,300.16
+     You injure yourself and then you're really set back.
+},
+{
+    300.16,303.32
+     Yeah, when you were younger, it was a matter of soreness
+},
+{
+    303.32,304.6
+     and now it's a matter of injury.
+},
+{
+    304.6,306.2
+     So take it from us.
+},
+{
+    306.2,309.04
+     Number three, this really helps a lot,
+},
+{
+    309.04,311.36
+     especially if you can do it immediately after the workout,
+},
+{
+    311.36,314.6
+     or even say up to one to six hours later,
+},
+{
+    314.6,317.48
+     you do foam roller, massage,
+},
+{
+    317.48,320.56
+     you can use a softball or a tennis ball.
+},
+{
+    320.56,322.8
+     We're gonna show you one today, Brad, here.
+},
+{
+    322.8,324.52
+     This is a new unit by Renfo.
+},
+{
+    324.52,326.94
+     It's called the R3 Mini Massage Gun.
+},
+{
+    326.94,329.22
+     This is the cutest thing.
+},
+{
+    329.22,331.18
+     There's, these are very popular now.
+},
+{
+    331.18,332.02
+     And you see them all over.
+},
+{
+    332.02,332.86
+     Yeah, massage guns.
+},
+{
+    332.86,334.7
+     This one's a little less expensive.
+},
+{
+    334.7,336.14
+     Very well made, wouldn't you say, Brad?
+},
+{
+    336.14,336.98
+     You're the guy.
+},
+{
+    336.98,338.38
+     You're the guy that you can tell.
+},
+{
+    338.38,341.22
+     So it's even got an air thing that, what's that called?
+},
+{
+    341.22,342.9
+     Well, it cools it down.
+},
+{
+    342.9,344.9
+     It cools it down with air queen, you're right.
+},
+{
+    344.9,347.24
+     So it's got five attachments,
+},
+{
+    347.24,349.8
+     and this is the best attachment I've seen so far now.
+},
+{
+    349.8,352.12
+     Because this is a nice attachment.
+},
+{
+    352.12,355.08
+     It's rubber and it's air filled kind of.
+},
+{
+    355.08,355.92
+     Yup, right?
+},
+{
+    355.92,356.76
+     It's a little spongy.
+},
+{
+    356.76,357.96
+     A little spongy, so it really.
+},
+{
+    357.96,359.92
+     It's broad, it doesn't have that pointy,
+},
+{
+    359.92,361.52
+     you know, it's nice to get in sometimes,
+},
+{
+    361.52,362.36
+     but I would say-
+},
+{
+    362.36,364.14
+     I would say, if you want the point too, I can do that.
+},
+{
+    364.14,367.52
+     This is the one I would use 80% of the time.
+},
+{
+    367.52,368.36
+     I agree.
+},
+{
+    368.36,371.0
+     It's one like, they a lot of them have the round ball,
+},
+{
+    371.0,371.84
+     which is good.
+},
+{
+    371.84,372.68
+     Yeah.
+},
+{
+    372.68,374.08
+     But I think this is a step in the, oh,
+},
+{
+    374.08,375.32
+     this is like the pre-mall.
+},
+{
+    375.32,377.4
+     This one that goes on either side of the spine
+},
+{
+    377.4,378.24
+     can work out.
+},
+{
+    378.24,379.28
+     I've never used that one.
+},
+{
+    379.28,380.6
+     I'm not sure.
+},
+{
+    380.6,383.28
+     You know, I can imagine a couple of places I might want it,
+},
+{
+    383.28,384.12
+     but-
+},
+{
+    384.12,384.96
+     You get you right in the eyes.
+},
+{
+    384.96,385.88
+     Oh, why Bob?
+},
+{
+    385.88,386.8
+     Why?
+},
+{
+    386.8,388.16
+     Okay, go ahead and turn around Brad.
+},
+{
+    388.16,389.0
+     Oh yeah, that's a good idea.
+},
+{
+    389.0,389.84
+     Stick it on it.
+},
+{
+    389.84,391.6
+     And what you're gonna wanna do is,
+},
+{
+    391.6,393.84
+     you're gonna wanna massage, this sounds simple,
+},
+{
+    393.84,395.28
+     but you wanna massage the muscles
+},
+{
+    395.28,396.76
+     that you worked out that day.
+},
+{
+    396.76,398.92
+     You don't have to massage your whole body.
+},
+{
+    398.92,401.32
+     So let's say you did leg workout.
+},
+{
+    401.32,402.84
+     You wanna hit the quads.
+},
+{
+    402.84,405.24
+     You wanna hit the hamstrings. you wanna hit the hamstrings,
+},
+{
+    405.24,406.8
+     you wanna hit the buttocks.
+},
+{
+    406.8,409.48
+     So, you know, and what's nice about these guns,
+},
+{
+    409.48,411.12
+     they don't tire out.
+},
+{
+    411.12,413.6
+     Your hands are gonna tire out.
+},
+{
+    413.6,417.0
+     If you have to use a ball or a foam roller,
+},
+{
+    417.0,419.2
+     it gets a little awkward trying to get into all those
+},
+{
+    419.2,420.04
+     positions.
+},
+{
+    420.04,421.66
+     This thing.
+},
+{
+    421.66,424.88
+     Yeah, I really use it for my hip a lot,
+},
+{
+    424.88,426.52
+     because it's just so easy to do.
+},
+{
+    426.52,428.88
+     I got up and I rode 21 miles on my bike
+},
+{
+    428.88,431.64
+     and had four climbs, regressive climbs.
+},
+{
+    431.64,432.48
+     You gotta do this.
+},
+{
+    432.48,434.12
+     This is feeling really good.
+},
+{
+    434.12,435.88
+     My quads are, you know, if you bike a lot,
+},
+{
+    435.88,437.2
+     you know when you're climbing,
+},
+{
+    437.2,439.44
+     especially when you're staying in a saddle, man.
+},
+{
+    439.44,441.48
+     Oh, those quads really get a nice roll.
+},
+{
+    441.48,443.44
+     So when will you bike again?
+},
+{
+    443.44,444.82
+     Tuesday, two days from now.
+},
+{
+    444.82,446.86
+     So yeah, you should be doing this.
+},
+{
+    446.86,448.08
+     Yeah, you're right.
+},
+{
+    448.08,449.36
+     You know, the roller's good too.
+},
+{
+    449.36,450.2
+     I like the roller.
+},
+{
+    450.2,451.04
+     The roller's good.
+},
+{
+    451.04,452.16
+     This is more fun than the roller.
+},
+{
+    452.16,453.48
+     I can tell you that much.
+},
+{
+    453.48,456.2
+     So number four was the one that Brad was alluding to
+},
+{
+    456.2,457.42
+     is active recovery.
+},
+{
+    457.42,461.98
+     So what you wanna do is like the next day,
+},
+{
+    461.98,466.16
+     you could do low intensity or even after the workout, you could do a cool down.
+},
+{
+    466.16,468.16
+     Do you do a cool down?
+},
+{
+    468.16,471.04
+     Usually I try at the end, I'll just not go so hard.
+},
+{
+    471.04,472.12
+     You don't do a cool down.
+},
+{
+    472.12,472.96
+     Sometimes I do, Bob.
+},
+{
+    472.96,473.8
+     You don't.
+},
+{
+    473.8,475.12
+     You're just not the cool down person.
+},
+{
+    475.12,475.96
+     I always not.
+},
+{
+    475.96,476.92
+     Dude, we're like, when I run,
+},
+{
+    476.92,479.24
+     I walk 100 yards before I stop.
+},
+{
+    479.24,482.52
+     This is our camera when her husband said he saw you
+},
+{
+    482.52,484.4
+     and your wife, I think you were canoeing
+},
+{
+    484.4,485.72
+     or I don't know if you were on a bike.
+},
+{
+    485.72,489.48
+     And he said you were like going a hundred miles an hour.
+},
+{
+    489.48,490.56
+     I was chasing my wife,
+},
+{
+    490.56,493.2
+     and I was trying to get her to the front of the canoe.
+},
+{
+    493.2,494.04
+     I thought I fell.
+},
+{
+    494.04,495.6
+     You have one speed.
+},
+{
+    495.6,498.92
+     So active recovery, so you're gonna do low intensity use
+},
+{
+    498.92,500.08
+     of the same muscle group.
+},
+{
+    500.08,504.28
+     So if you're biking, you don't wanna like do some
+},
+{
+    504.28,508.76
+     really slow biking, low intensity biking at the end.
+},
+{
+    508.76,511.9
+     One thing about active recovery, I took a class on this
+},
+{
+    511.9,514.12
+     and you wanna work with your heart rate,
+},
+{
+    514.12,516.68
+     but it's like amazing, particularly if you're like me
+},
+{
+    516.68,519.08
+     and you have these two speed on and off,
+},
+{
+    519.08,522.08
+     it's hard to do it because you have to go so light
+},
+{
+    522.08,524.24
+     that it feels like you're not even working on it.
+},
+{
+    524.24,525.8
+     Why am I doing this?
+},
+{
+    525.8,529.3
+     But just enough to get blood flow, fresh blood
+},
+{
+    529.3,532.4
+     to these injured areas without working in re-injuring them.
+},
+{
+    532.4,534.92
+     Yeah, and it'll just, you won't get a sore.
+},
+{
+    534.92,537.52
+     Like I said, if you did a leg workout,
+},
+{
+    537.52,539.72
+     even going on a stationary bike,
+},
+{
+    539.72,542.52
+     very, almost no resistance at all,
+},
+{
+    542.52,543.8
+     and just getting some movement,
+},
+{
+    543.8,545.8
+     it's gonna make a big difference.
+},
+{
+    545.8,549.64
+     On number five, it does help diet wise
+},
+{
+    549.64,552.24
+     to take in some additional proteins.
+},
+{
+    552.24,556.52
+     And it's pretty universal that you take the omega-3s,
+},
+{
+    556.52,560.28
+     like fish oil, and water, hydration.
+},
+{
+    560.28,561.52
+     You gotta drink a lot of water.
+},
+{
+    561.52,564.96
+     You can hardly not drink enough water.
+},
+{
+    564.96,567.16
+     I was teaching a class once in a cycle, and I was telling the class, drink as of water before you recovery. You can hardly not drink enough water. I was teaching a class once in a cycling night,
+},
+{
+    567.16,569.08
+     telling the class, drink as much water as you want,
+},
+{
+    569.08,570.48
+     you can't drink enough water.
+},
+{
+    570.48,571.68
+     One of these guys in the back,
+},
+{
+    571.68,574.28
+     but that's not true, you can over drink water,
+},
+{
+    574.28,577.08
+     which is true if you force yourself to drink so much water,
+},
+{
+    577.08,578.52
+     you get reverse osmosis.
+},
+{
+    578.52,580.64
+     But if you're listening to your body, you probably get it.
+},
+{
+    580.64,582.72
+     Yeah, I mean, reasonably if you drink.
+},
+{
+    582.72,584.8
+     It's more than most people do, that's for sure.
+},
+{
+    584.8,586.6
+     Right, so these are the three
+},
+{
+    586.6,588.48
+     that we're not that thrilled with.
+},
+{
+    588.48,592.56
+     They're not terrible to do, but just static stretching.
+},
+{
+    592.56,594.36
+     Research just doesn't support it.
+},
+{
+    594.36,598.08
+     That the static stretching after a workout,
+},
+{
+    598.08,601.64
+     it doesn't help muscle recovery.
+},
+{
+    601.64,603.16
+     Oh, for the recovery part?
+},
+{
+    603.16,604.0
+     Yeah.
+},
+{
+    604.0,606.02
+     Yeah, that is, and I kind of think
+},
+{
+    606.02,608.0
+     that's gonna go back and forth over the years.
+},
+{
+    608.0,608.84
+     Yeah, am I?
+},
+{
+    608.84,610.98
+     As far as flexibility, maybe for different...
+},
+{
+    610.98,613.22
+     Flexibility's good, but I'm saying muscle recovery.
+},
+{
+    613.22,615.26
+     Okay, right, so there's always...
+},
+{
+    615.26,617.08
+     Number two, ice baths.
+},
+{
+    617.08,620.28
+     Now, they can help with the inflammation they said,
+},
+{
+    620.28,622.92
+     but it can hinder your muscle growth and strength
+},
+{
+    622.92,624.32
+     according to the studies.
+},
+{
+    624.32,626.92
+     So of course they're not fun to take either.
+},
+{
+    626.92,627.76
+     I mean.
+},
+{
+    627.76,630.12
+     But there's, what was it, what was a football player?
+},
+{
+    630.12,632.96
+     I guess Reggie White, after a football game,
+},
+{
+    632.96,633.96
+     he would,
+},
+{
+    633.96,635.4
+     So Reggie White is a baseball player?
+},
+{
+    635.4,636.4
+     You get it.
+},
+{
+    636.4,639.12
+     Yeah, the Packer guy.
+},
+{
+    639.12,639.96
+     Oh, he's a Packer guy?
+},
+{
+    639.96,640.88
+     I don't know.
+},
+{
+    640.88,641.72
+     No, he would.
+},
+{
+    641.72,642.72
+     And that's what I think.
+},
+{
+    642.72,644.32
+     Yeah, a lot of them do that.
+},
+{
+    644.32,646.26
+     Ice water, and it's like. Right. And I've seen them, where would. And that's what I think. I remember a lot of them do that. Ice water and it's like.
+},
+{
+    646.26,647.1
+     Right.
+},
+{
+    647.1,649.44
+     And I've seen them where they get on right up to their neck.
+},
+{
+    649.44,650.28
+     Yeah.
+},
+{
+    650.28,651.92
+     And so, you know, they're professionals.
+},
+{
+    651.92,653.72
+     They do what they need to do, I guess.
+},
+{
+    653.72,656.08
+     Number three, there's a lot of talk about caffeine
+},
+{
+    656.08,659.56
+     and they actually found that it does help with muscle recovery.
+},
+{
+    659.56,660.4
+     Really?
+},
+{
+    660.4,663.12
+     You do like three or four cups before you work out though.
+},
+{
+    663.12,663.96
+     What?
+},
+{
+    663.96,664.96
+     Three or four cups of coffee.
+},
+{
+    664.96,665.84
+     So it's a lot.
+},
+{
+    665.84,667.32
+     And that's what the negative part is.
+},
+{
+    667.32,668.16
+     That's what I would never.
+},
+{
+    668.16,669.0
+     Well you have to go pee all the time then.
+},
+{
+    669.0,669.92
+     Well you gotta pee all the time.
+},
+{
+    669.92,672.08
+     And also it wouldn't be good if you did a workout
+},
+{
+    672.08,673.8
+     in the afternoon or night.
+},
+{
+    673.8,676.2
+     I mean, I'm not that, to be honest with you Brad,
+},
+{
+    676.2,678.2
+     I'm just not that big a fan of caffeine.
+},
+{
+    678.2,680.28
+     I've taken caffeine out of my life.
+},
+{
+    680.28,681.12
+     Yeah.
+},
+{
+    681.12,681.96
+     I just, I wouldn't.
+},
+{
+    681.96,684.92
+     Well you never drank much, or type, type?
+},
+{
+    684.92,687.36
+     I drank, yeah I drank, I never't. Well, you never drank much, or type, type? I drank, yeah, I drank, I never drank coffee.
+},
+{
+    687.36,688.2
+     Right.
+},
+{
+    688.2,690.32
+     But I, you know, I did have it in other forms,
+},
+{
+    690.32,691.24
+     you know, through pop and stuff.
+},
+{
+    691.24,692.48
+     You don't have to tell us Bob.
+},
+{
+    692.48,693.64
+     Okay.
+},
+{
+    693.64,695.0
+     I mainlined it.
+},
+{
+    695.0,698.44
+     So, all right, remember Brad and I can fix just about anything.
+},
+{
+    698.44,699.52
+     Except for.
+},
+{
+    699.52,700.36
+     A broken heart.
+},
+{
+    700.36,702.0
+     But we're working on that too.
+},
+{
+    702.0,703.36
+     Yeah, I feel like we're not working on it.
+},
+{
+    703.36,704.6
+     Well, this is related to that,
+},
+{
+    704.6,706.12
+     because this is a muscle recovery. So the broken heart is like a muscle. we're not working on it. Well, this is related to that, because this is muscle recovery,
+},
+{
+    706.12,708.04
+     so the broken heart is like a muscle.
+},
+{
+    708.04,708.88
+     We're gonna get it.
+},
+{
+    708.88,709.72
+     You always think it's related.
+},
+{
+    709.72,711.32
+     Yeah, maybe we can do an active recovery.
+},
+{
+    711.32,None
+     All right, thanks for watching. you
+},

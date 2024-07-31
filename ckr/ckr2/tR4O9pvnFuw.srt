@@ -1,0 +1,656 @@
+{
+    0.0,19.84
+     Hello, my name is Rich Hawkins.
+},
+{
+    19.84,23.4
+     I'm an orthopedic surgeon with the Stedman Hawkins Clinic in the Carolinas, in Greenville,
+},
+{
+    23.4,26.24
+     South Carolina working with the Greenville Hospital System.
+},
+{
+    26.24,29.6
+     This is a teaching video to help those of you who are interested in the care of the
+},
+{
+    29.6,34.16
+     head and neck injured athlete on the field and transport off the field to the nearest
+},
+{
+    34.16,35.72
+     hospital facility.
+},
+{
+    35.72,39.76
+     It's extremely important that we manage these people carefully so that we do not worsen their
+},
+{
+    39.76,43.64
+     injuries in any way, particularly if they have a neurological deficit.
+},
+{
+    43.64,48.72
+     This video will demonstrate the technique of immobilization, how to handle a face mask
+},
+{
+    48.72,52.96
+     and remove it carefully, leaving the helmet and chin strapped in place, and then carefully
+},
+{
+    52.96,58.0
+     log rolling the patient onto a backboard, immobilizing them and they're carefully transporting
+},
+{
+    58.0,59.8
+     them to the nearest hospital.
+},
+{
+    59.8,65.24
+     These injuries occur with usually contact on the top of the head and axial neck injury
+},
+{
+    65.24,70.64
+     resulting sometimes in unconsciousness and or neck injury.
+},
+{
+    70.64,74.6
+     Breathing must be controlled and that's why we have to remove that face mask to be sure
+},
+{
+    74.6,76.6
+     we have access to the airway.
+},
+{
+    76.6,81.12
+     And then immobilization of the neck if it is a neck injury so that the injury is not
+},
+{
+    81.12,82.92
+     worsened any further.
+},
+{
+    82.92,85.96
+     Our concern of course with head injuries that we always have to assume
+},
+{
+    85.96,88.04
+     there is an associated neck injury.
+},
+{
+    88.04,90.16
+     So with that we'll pass this on to the trainers
+},
+{
+    90.16,91.36
+     in the Greenville system
+},
+{
+    91.36,93.84
+     to teach us how to manage these specifically
+},
+{
+    93.84,94.92
+     on the field of play.
+},
+{
+    96.36,98.04
+     The log roll technique is appropriate
+},
+{
+    98.04,101.04
+     if the athlete is found in a prone position
+},
+{
+    101.04,102.76
+     and not breathing.
+},
+{
+    102.76,104.84
+     Position the athlete's arm to the side
+},
+{
+    104.84,105.4
+     of the athlete before arm to the side of the athlete
+},
+{
+    105.4,109.0
+     before attempting to log roll.
+},
+{
+    116.88,122.84
+     The first medical personnel on the scene is the leader. This person should issue
+},
+{
+    122.84,131.0
+     all commands. Can you hear me? You okay? There's no response. I want you to go get me some help. Call 911.
+},
+{
+    131.0,137.0
+     The leader should take control of the injured person's head. The leader holds the head with both hands,
+},
+{
+    137.0,142.0
+     stabilizing it by holding firmly and allowing no emotion.
+},
+{
+    142.0,145.0
+     We're going to have to roll him supine.
+},
+{
+    145.0,147.0
+     I'm going to need one person at the shoulders,
+},
+{
+    147.0,149.0
+     one at the hips and one at the feet.
+},
+{
+    149.0,153.0
+     Direct all rescuers to reach across the injured person
+},
+{
+    153.0,157.0
+     and grab a hold of the upper arm and shoulder,
+},
+{
+    157.0,160.0
+     the pelvis and the legs.
+},
+{
+    160.0,162.0
+     Make sure to grab the body part
+},
+{
+    162.0,165.0
+     and not pull on the article of clothing.
+},
+{
+    165.0,168.0
+     Roll the interperson towards you upon the leader's call.
+},
+{
+    168.0,169.0
+     Roll on three.
+},
+{
+    169.0,171.0
+     One, two, three.
+},
+{
+    174.0,176.0
+     Roll the person down on the leader's call.
+},
+{
+    176.0,178.0
+     Down on three.
+},
+{
+    178.0,180.0
+     One, two, three.
+},
+{
+    196.2,198.96
+     If a spine board is available, logroll the athlete onto the spine board. The first medical personnel on the scene is the leader.
+},
+{
+    198.96,200.92
+     This person should issue all commands.
+},
+{
+    200.92,203.44
+     We need one person at the shoulder.
+},
+{
+    203.44,207.0
+     The leader should take control of the injured person's head.
+},
+{
+    207.0,211.8
+     The leader holds the head with both hands stabilizing it by holding firmly and
+},
+{
+    211.8,216.88
+     allowing no motion. Position the other rescuers on one side of the injured
+},
+{
+    216.88,225.16
+     person, one of the chest, one of the pelvis, and one at the legs.
+},
+{
+    225.16,230.88
+     Place the spine board along the other side of the injured person as close to him or her
+},
+{
+    230.88,234.2
+     as possible.
+},
+{
+    234.2,238.24
+     Direct all rescuers to reach across the injured person and grab a hold of the upper arm and
+},
+{
+    238.24,243.56
+     shoulder, the pelvis and the leg.
+},
+{
+    243.56,250.6
+     Roll the injured person upon the leader's call. Roll on three. Ready? One, two, three.
+},
+{
+    250.6,265.0
+     Direct the one remaining rescuer to place the spawn board to where the injured person was just Where are the person down? Only leaders call. Down on three.
+},
+{
+    265.0,267.0
+     One, two, three.
+},
+{
+    274.0,276.0
+     Slide down on three.
+},
+{
+    278.0,280.0
+     Justin, come over here.
+},
+{
+    280.0,282.0
+     Kelly, come over here.
+},
+{
+    282.0,284.0
+     Koya, slide down.
+},
+{
+    286.0,288.0
+     Slide down on three.
+},
+{
+    288.0,290.0
+     One, two, three.
+},
+{
+    292.0,293.0
+     Slide up on three.
+},
+{
+    293.0,295.0
+     One, two, three.
+},
+{
+    310.48,311.64
+     Removing the face mask allows rescue personnel to examine the airway and vital areas of the face.
+},
+{
+    311.64,316.92
+     It also allows them to administer pre-hospital care without removing the helmet.
+},
+{
+    316.92,322.16
+     The face mask should be removed in a timely manner without moving the head or neck.
+},
+{
+    322.16,327.84
+     Pruners, FM extractors, PVC pipe cutters, trainers, angels and screw drivers
+},
+{
+    327.84,334.66
+     can be used to remove the face mask, although screw drivers can be unreliable due to rusty
+},
+{
+    334.66,340.84
+     T-bolts and screws. If needed, a bag mask valve can be inserted under the face mask to provide
+},
+{
+    340.84,346.14
+     ventilation while the face mask is being removed.
+},
+{
+    346.14,351.76
+     If a physician or EMS personnel is available, a more definitive airway can be secured if
+},
+{
+    351.76,355.58
+     such intervention is necessary.
+},
+{
+    355.58,360.26
+     If the situation is not as urgent, a cervical collar can be placed on the athlete who then
+},
+{
+    360.26,365.92
+     is placed on a rigid spine board to ensure mobilization of all segmental levels.
+},
+{
+    365.92,369.08
+     This should only occur with athletes who are not wearing
+},
+{
+    369.08,370.82
+     helmets and shoulder pads.
+},
+{
+    374.16,376.2
+     Once the face mask has been removed,
+},
+{
+    376.2,378.64
+     the athlete must be prepared for transport.
+},
+{
+    380.26,383.56
+     Any injured athlete who may have a cervical spine injury
+},
+{
+    383.56,386.0
+     should be immobilized on a full body splint.
+},
+{
+    387.0,396.0
+     Techniques for spinal immobilization and the determination of whether inline stabilization is required for transport should be left to local protocols
+},
+{
+    396.0,401.0
+     or the clinical judgment and training of the individuals who are on site.
+},
+{
+    402.0,407.0
+     Positioning the head into a spine neutral position should be assessed on an individual
+},
+{
+    407.16,413.76
+     basis. The equipment used in splinting athletes with head and neck injuries will depend on
+},
+{
+    413.76,419.92
+     the appliances available as well as the training and knowledge of EMS personnel. Typical equipment
+},
+{
+    419.92,425.0
+     used includes the vacuum mattress and the rigid spine board.
+},
+{
+    433.0,439.0
+     The following are different techniques used for spine boarding and athlete with a cervical spine injury.
+},
+{
+    443.0,445.6
+     The lift technique.
+},
+{
+    445.6,450.44
+     A 6 plus person lift is recommended for all lifts.
+},
+{
+    450.44,458.0
+     There should be enough ATCs, MDs and EMS personnel to effectively administer a 6 plus person
+},
+{
+    458.0,461.4
+     lift.
+},
+{
+    461.4,467.72
+     You may need a 10 plus person lift for heavier individuals.
+},
+{
+    467.72,472.12
+     You can also use a 4 plus person lift for smaller athletes.
+},
+{
+    472.12,481.2
+     Lifting with fewer than 4 people is not recommended.
+},
+{
+    481.2,488.0
+     This step is omitted if you place the athlete on the spine board in the beginning.
+},
+{
+    488.0,490.8
+     The first medical personnel on the scene is the leader.
+},
+{
+    490.8,494.62
+     This person should issue all commands.
+},
+{
+    494.62,497.68
+     The leader should take control of the injured person's head.
+},
+{
+    497.68,502.84
+     The leader holds the head, with both hands stabilizing it, by holding firmly and allowing
+},
+{
+    502.84,504.48
+     no motion.
+},
+{
+    504.48,508.36
+     Position the other rescuers on one side of the injured person,
+},
+{
+    508.36,513.9
+     one of the chest, one of the pelvis, and one of the legs.
+},
+{
+    513.9,516.24
+     Place the spine board along the other side of the injured
+},
+{
+    516.24,520.56
+     person as close to him or her as possible.
+},
+{
+    520.56,523.64
+     Direct all rescuers to reach across the injured person
+},
+{
+    523.64,529.0
+     and grab a hold of the upper arm and shoulder, pelvis and leg.
+},
+{
+    529.0,532.0
+     One, two, three.
+},
+{
+    535.0,538.0
+     Down on one, two, three.
+},
+{
+    542.0,546.6
+     Once the athlete is on the spawn board, you can prepare the chest for early defibrillation
+},
+{
+    546.6,550.48
+     if needed.
+},
+{
+    550.48,555.12
+     With the helmet and shoulder pads in place, towels or other padding are sufficient to
+},
+{
+    555.12,556.48
+     fill the voids.
+},
+{
+    556.48,560.42
+     Once the athlete is secured to the long spawn board, the person at the head relinquishes
+},
+{
+    560.42,565.6
+     his or her control and the athlete is ready to be transported to an emergency medical
+},
+{
+    565.6,569.32
+     facility.
+},
+{
+    569.32,573.12
+     Neither the football pads nor the helmet should be removed before transportation unless the
+},
+{
+    573.12,575.92
+     football helmet does not fit snugly.
+},
+{
+    575.92,580.88
+     A properly fitted football helmet holds the head in a position of neutral spine alignment
+},
+{
+    580.88,585.94
+     when the athlete is wearing shoulder pads. Athletes who are vomiting
+},
+{
+    585.94,589.84
+     or bleeding from the oral cavity must be kept in prone or placed on their sides
+},
+{
+    589.84,594.94
+     to prevent aspirations of blood or vomit into the airway. This can be performed
+},
+{
+    594.94,598.6
+     after the athlete is mobilized.
+},
+{
+    600.64,609.0
+     Guidelines for helmet removal. Face mask cannot be removed to gain access to the airway.
+},
+{
+    609.0,614.0
+     Airway cannot be controlled or ventilation cannot be provided.
+},
+{
+    614.0,618.0
+     Mobilization of the helmet does not immobilize the head.
+},
+{
+    618.0,623.0
+     Helmet prevents mobilization for transport such as a bicycle helmet.
+},
+{
+    623.0,628.0
+     If the helmet is removed, spinal mobilization and alignment must be maintained
+},
+{
+    628.0,634.0
+     because any additional motion could cause further damage to the athlete with a cervical spine injury.
+},
+{
+    635.0,642.0
+     Helmet removal should never be attempted without thorough communication among all parties involved.
+},
+{
+    643.0,645.76
+     Any athlete suspected of having a spine injury
+},
+{
+    645.76,647.96
+     is to be transported by trained professionals
+},
+{
+    647.96,649.68
+     in an ambulance.
+},
+{
+    649.68,651.44
+     Transportation in a private vehicle
+},
+{
+    651.44,653.56
+     is never to be attempted.
+},
+{
+    653.56,654.82
+     In certain settings,
+},
+{
+    654.82,656.6
+     air transportation may be preferred
+},
+{
+    656.6,658.14
+     to ground transportation.
+},
+{
+    659.08,663.12
+     A trauma center should be the first choice destination
+},
+{
+    663.12,665.04
+     for spine injured athletes.
+},
+{
+    665.04,668.92
+     MDs, ATCs, and EMS personnel should be familiar
+},
+{
+    668.92,671.3
+     with local trauma networks and protocols.
+},
+{
+    672.48,674.24
+     In remote areas where it's quite a distance
+},
+{
+    674.24,676.36
+     to a trauma center, the physician may choose
+},
+{
+    676.36,679.08
+     to accompany the athlete to the hospital
+},
+{
+    679.08,680.76
+     and participate in the treatment.
+},
+{
+    681.68,686.2
+     When possible, the ATC should also accompany the athlete and assist in the
+},
+{
+    686.2,690.52
+     removal of protective athletic equipment.
+},
+{
+    690.52,693.6
+     Hopefully this video has been helpful for you in the management of the head, neck, and
+},
+{
+    693.6,698.96
+     your patient on the field of play. There are some new revolutionary treatments that we adopt
+},
+{
+    698.96,703.24
+     in these patients. You've heard of recent athletes receiving cold treatments into the
+},
+{
+    703.24,706.12
+     vascular system. You heard the use of
+},
+{
+    706.12,711.88
+     cortisone and sort of reducing the inflammation, hopefully lessening any head injury, swelling
+},
+{
+    711.88,716.08
+     and or neurological injury in the spine. And these are techniques that are applied in the
+},
+{
+    716.08,720.96
+     medical field. This video has gone over these various steps. I think probably it's very
+},
+{
+    720.96,724.48
+     important for any of you who are involved in the care of athletes to very carefully
+},
+{
+    724.48,727.5
+     understand the principles that we've here taught.
+},
+{
+    727.5,730.3
+     So good luck to you and take care of your athletes on the field of play.
+},

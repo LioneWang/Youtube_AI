@@ -1,0 +1,388 @@
+{
+    0.0,8.0
+     Bob and Brad, the two most famous physical therapists on the internet.
+},
+{
+    9.0,13.0
+     Hi, I'm Bob Schrupp physical therapist, Brad Heineck physical therapist.
+},
+{
+    13.0,15.0
+     Together we are the most famous physical therapists on the internet.
+},
+{
+    15.0,16.0
+     In our opinion of course, Bob.
+},
+{
+    16.0,21.0
+     Brad, this has happened to probably almost all of us. You're getting up at night, you stub your toe,
+},
+{
+    21.0,26.0
+     and what should you do after that? Do you need to see a doctor? Is it broken?
+},
+{
+    26.0,26.84
+     How do you treat it?
+},
+{
+    26.84,28.64
+     So we're gonna try to give you some guidelines.
+},
+{
+    28.64,29.68
+     And that hurts, Bob.
+},
+{
+    29.68,31.08
+     Oh, it hurts, because I've done it.
+},
+{
+    31.08,33.8
+     Yeah, it feels like it's broken, all of them.
+},
+{
+    33.8,35.56
+     But a lot of times it's not.
+},
+{
+    35.56,37.88
+     Yeah, and I'll go through my scenario too,
+},
+{
+    37.88,38.72
+     whether what happened.
+},
+{
+    38.72,40.48
+     But when you stub your toe,
+},
+{
+    40.48,43.36
+     if you first hear like a pop or a snap,
+},
+{
+    43.36,45.0
+     there's more likely that you broke it.
+},
+{
+    45.0,52.12
+     Okay. If you hear the sound. If you look at the toe and it's bent, I mean I may see obvious but
+},
+{
+    52.12,58.08
+     to some people they may not think of it. If it's kind of bent one side or another it's probably
+},
+{
+    58.08,68.0
+     broke and you need to go in then. If there's bruising and swelling the next day, doesn't mean it's broke, but it's getting more likely.
+},
+{
+    68.0,72.0
+     Even if there's bruising and swelling in the toenail,
+},
+{
+    72.0,76.0
+     it's getting more likely. Mine did bruise up. I don't know if mine was ever broke, to be honest.
+},
+{
+    76.0,80.0
+     I didn't go in. But if it keeps going on
+},
+{
+    80.0,84.0
+     for several days, you need to go in, if the pain
+},
+{
+    84.0,85.6
+     and the swelling.
+},
+{
+    85.6,87.28
+     Not that they're gonna put a cast on it,
+},
+{
+    87.28,89.88
+     but there may be some treatment to help it out.
+},
+{
+    89.88,92.2
+     Right, and there are kinds of times,
+},
+{
+    92.2,94.68
+     if it's broken to the joint,
+},
+{
+    94.68,98.36
+     you're more susceptible to early arthritis,
+},
+{
+    98.36,100.8
+     so you wanna have a treated right.
+},
+{
+    100.8,103.84
+     And sometimes if there's really pinpoint pain,
+},
+{
+    103.84,107.2
+     that means it's broke too, as opposed to really diffuse and spread out.
+},
+{
+    107.2,113.54
+     Sure. So the statement that if you can walk on it, it's not broken. That's not true.
+},
+{
+    113.54,118.0
+     You might be able to walk on it and it's still broken, so don't be relying on that.
+},
+{
+    118.0,120.66
+     Sure. So what are you going to do for treatment?
+},
+{
+    120.66,129.9
+     You know, the first thing you want to probably, you know, keep the weight off the toe for a while. Using crutches or a cane or something just trying to feel rice.
+},
+{
+    129.9,136.28
+     Rest it, ice it. Yeah, elevation. It's kind of hard to compress it. It's kind of hard to wrap.
+},
+{
+    136.28,140.16
+     Yeah, worry about the C which is compression. I went through that. But yeah,
+},
+{
+    140.16,145.04
+     I'd go ahead and ice it. The thing that I did, and a lot of people will do,
+},
+{
+    145.04,149.44
+     they'll take tape, and so let's say this is the broken toe,
+},
+{
+    149.44,152.56
+     they'll tape it to the toe right next to them.
+},
+{
+    152.56,155.16
+     They just go ahead and buddy split that they call it.
+},
+{
+    155.16,156.0
+     Sure.
+},
+{
+    156.0,158.12
+     So they tape them together in a comfortable way
+},
+{
+    158.12,160.52
+     so you don't get tingling or numbness,
+},
+{
+    160.52,161.36
+     and you hold them together,
+},
+{
+    161.36,162.96
+     and that kind of supports that one.
+},
+{
+    162.96,165.36
+     And don't tape it too tight just right
+},
+{
+    165.88,168.92
+     It's gotta be loose. Yeah, just so they're held together
+},
+{
+    168.92,173.88
+     Yeah, it should be comfortable and you don't want to see your toes turning right don't let your brother take the
+},
+{
+    173.98,178.68
+     Electricians tape and tighten it up good and tight. You sound like you have an experience with that
+},
+{
+    178.68,184.76
+     So all right the next thing you're gonna do is you're gonna go ahead and what this just happened to my daughter in fact
+},
+{
+    184.0,185.0
+     The next thing you're going to do is you're going to go ahead and this just happened to my daughter in fact.
+},
+{
+    185.0,190.76
+     What we had her do is she took an old tennis shoe and she cut out the toe here.
+},
+{
+    190.76,195.4
+     Can you see that Lonnie?
+},
+{
+    195.4,200.24
+     Down.
+},
+{
+    200.24,206.44
+     And that took pressure off the toe because a lot of times you put your foot in a shoe
+},
+{
+    206.44,208.68
+     and it's going to be that constant pressure on your toe.
+},
+{
+    208.68,212.24
+     Right, especially if it's swollen up, it's tender and then you're just going to irritate it.
+},
+{
+    212.24,218.44
+     Even better is what we call, I don't know, we call them a reshoe, R-E-E-S-E shoe.
+},
+{
+    218.44,222.08
+     But this has an open toe, it's after surgery.
+},
+{
+    222.08,228.64
+     And what's nice about this, the sole soul is real stiff down bring it down a tall guy
+},
+{
+    229.16,233.12
+     So it's real stiff so the toes not bending when you step on right
+},
+{
+    235.16,241.26
+     You can clearly see the toes exposed and a nice thing about this if you do bump it with any luck
+},
+{
+    241.28,246.16
+     You hit this and you protect the right? toe. We call them ortho shoes.
+},
+{
+    246.16,249.84
+     Okay. We call them re-shoes. Yeah it's just a brand name. Call whatever you want.
+},
+{
+    249.84,253.8
+     They're nice you can get them at a lot of pharmacies will have them. Yeah you
+},
+{
+    253.8,257.36
+     can probably order online very easily too. So the last thing I want to talk
+},
+{
+    257.36,262.68
+     about Brad is if let's say three four weeks have gone by and it wasn't broken
+},
+{
+    262.68,265.2
+     and you're still having some pain because this is what
+},
+{
+    265.2,266.2
+     happened to me.
+},
+{
+    266.2,269.24
+     And I was like, why am I still having pain?
+},
+{
+    269.24,273.68
+     And what turned out is I think quite often when you injure the toe, you also injure the
+},
+{
+    273.68,275.16
+     tendon.
+},
+{
+    275.16,281.64
+     And so the tendon that runs along the toe and it gets there's some scar tissue in it.
+},
+{
+    281.64,283.52
+     So Brad's going to show on his toe.
+},
+{
+    283.52,290.32
+     I'm not taking my sock off. Okay, right along there. So what we do, which we often do is for like, I think like
+},
+{
+    290.32,294.76
+     this, we do cross fiber massage. So I'm gonna come back up to you. Am I too high
+},
+{
+    294.76,299.96
+     again? Right about there. So you just really kind of aggressively you're gonna
+},
+{
+    299.96,304.96
+     go across the tendon, especially if you find a tender spot. Okay Bob, I'm taking
+},
+{
+    304.96,305.92
+     my sock off.
+},
+{
+    305.92,307.48
+     You can't do it to your finger.
+},
+{
+    307.48,308.32
+     Yes you can.
+},
+{
+    308.32,309.36
+     Well, I know, but look at this.
+},
+{
+    309.36,311.08
+     All you do this for like five minutes.
+},
+{
+    311.08,313.4
+     I did two treatments of it and the pain was gone.
+},
+{
+    313.4,314.68
+     So you just went like this?
+},
+{
+    314.68,315.52
+     Yep.
+},
+{
+    315.52,317.64
+     Right over the toe, just so you can do it with your thumb.
+},
+{
+    317.64,318.48
+     Yep.
+},
+{
+    318.48,319.36
+     Really aggressive.
+},
+{
+    319.36,320.8
+     You're breaking up the scar tissue
+},
+{
+    320.8,322.88
+     and then that scar tissue doesn't give you any pain.
+},
+{
+    322.88,328.3
+     Yeah, so by this time that your toe was not so painful the swelling was down yeah there
+},
+{
+    328.3,332.68
+     was just some tight scars. There were some ugly toes. Yeah that is. That happened when you
+},
+{
+    332.68,337.98
+     get over 50. It's terrible. Thanks for watching folks.
+},

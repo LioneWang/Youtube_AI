@@ -1,0 +1,648 @@
+{
+    0.0,4.56
+     What's up guys? Hey, Jared Bechstra here, doctor of physical therapy, tonentine.com.
+},
+{
+    4.56,8.84
+     In this video, I want to share with you two of my favorite neck exercises that can alleviate
+},
+{
+    8.84,11.84
+     your neck pain about as fast as this intro.
+},
+{
+    21.84,27.2
+     Pretty quick, am I right? Honestly though, the exercises that I'm about to show you, I have given to patients in the
+},
+{
+    27.2,30.64
+     past and they do offer some pretty immediate results.
+},
+{
+    30.64,33.64
+     However, it has to be for the right kind of neck pain.
+},
+{
+    33.64,37.12
+     I tell people all the time, not all neck pain is created equally.
+},
+{
+    37.12,41.68
+     And depending on what's causing your pain, we need to treat that just a little bit differently.
+},
+{
+    41.68,52.08
+     So for the purposes of this video, if you're having joint related neck pain, arthritis, limited range of motion, if your joint is stuck, if you can only get so far,
+},
+{
+    52.08,56.64
+     maybe in your rotation or your extension, and you feel a significant amount of pain or a mechanical
+},
+{
+    56.64,63.52
+     block at that point, these exercises can be highly effective for you. As always, if you do have any
+},
+{
+    63.52,65.14
+     ridiculous pain or symptoms, meaning if do have any ridiculous pain or symptoms,
+},
+{
+    65.14,66.34
+     meaning if you have any numbness
+},
+{
+    66.34,68.9
+     or tingling going on in your arm or shoulder,
+},
+{
+    68.9,70.34
+     please go get that checked out.
+},
+{
+    70.34,73.54
+     That's not something that we wanna mess around with at all.
+},
+{
+    73.54,77.1
+     That's not something that we can maybe treat here on YouTube.
+},
+{
+    77.1,79.1
+     That's something that you best be served
+},
+{
+    79.1,81.46
+     by consulting with a local professional
+},
+{
+    81.46,82.98
+     to get exercises that are right
+},
+{
+    82.98,85.1
+     for your specific condition.
+},
+{
+    85.1,86.9
+     Now that being said, you guys know me,
+},
+{
+    86.9,89.06
+     let's jump into the anatomy lesson
+},
+{
+    89.06,92.2
+     to give you a little rundown of why these exercises
+},
+{
+    92.2,94.32
+     are going to be effective for you.
+},
+{
+    94.32,97.82
+     So here's my spine model and let's get a zoom in here
+},
+{
+    97.82,98.68
+     on the neck.
+},
+{
+    98.68,101.68
+     Right now I turned it around and so they're actually facing
+},
+{
+    101.68,104.04
+     this the skeletons actually facing away from you,
+},
+{
+    104.04,106.8
+     zoom in here tight. Now you'll can see you can see
+},
+{
+    106.96,113.6
+     If I rotate that skeletons head to the right that motion occurs at the top vertebrae first
+},
+{
+    113.6,118.56
+     And then the rotation occurs on this top down kind of segmented motion
+},
+{
+    118.56,122.6
+     The majority of your rotation range of motion is going to come from this upper vertebrae
+},
+{
+    122.6,129.68
+     And so keep that in mind the other thing that I want to show you with this is as I rotate his neck to the right or as I
+},
+{
+    129.68,135.2
+     rotate his head to the right, which way do those vertebrae move? Now the spinous process, that's
+},
+{
+    135.2,140.72
+     this big bony part right here, actually moves to the left. So right rotation, those vertebrae,
+},
+{
+    140.72,149.92
+     you can see them moving this direction to the left. And so those are the two things that I want you to keep in mind that motion usually occurs from the top and comes down.
+},
+{
+    149.92,155.52
+     And that whenever we rotate, it's those spinous processes going in the other direction. That
+},
+{
+    155.52,160.88
+     becomes important because depending on how far you can move your head, if it's only very little,
+},
+{
+    160.88,164.88
+     we know that that problem is a little higher up. However, if you can move a little further until
+},
+{
+    164.88,166.88
+     you get to that pain point, we know that that pain is a little higher up. However, if you can move a little further until you get to that pain point, we know
+},
+{
+    166.88,169.16
+     that that pain is a little bit further down.
+},
+{
+    169.16,174.24
+     So now what I want to do is show you a couple of simple stretches, but we're going to preface
+},
+{
+    174.24,177.2
+     those with a couple of simple joint mobilizations.
+},
+{
+    177.2,178.64
+     I want to mobilize the joint.
+},
+{
+    178.64,183.44
+     I want to get it moving the way that it normally should before we stretch.
+},
+{
+    183.44,186.52
+     If we can mobilize that joint out of the pain
+},
+{
+    186.52,188.48
+     to make the stretching more effective,
+},
+{
+    188.48,189.92
+     it's gonna be a lot better for you.
+},
+{
+    189.92,192.46
+     So let's show you these two exercises right now.
+},
+{
+    193.62,195.0
+     For both of these exercises,
+},
+{
+    195.0,197.34
+     all that you're going to need is a pillowcase
+},
+{
+    197.34,200.44
+     or even a hand towel that's approximately this size.
+},
+{
+    200.44,203.22
+     What I want you to do is grab opposite corners.
+},
+{
+    203.22,209.68
+     That's gonna make that pillowcase as long as possible and then just put that over your neck or over your head and behind your neck
+},
+{
+    209.76,212.12
+     Now I mentioned in the introduction here that
+},
+{
+    212.52,219.02
+     Depending on where that sticky point is or where that pain point happens. It's either going to be higher or lower in your neck
+},
+{
+    219.02,221.02
+     It's important that with this pillowcase
+},
+{
+    221.44,228.78
+     We isolate that point and so I either want the pillowcase up nice and high on my head or depending on where that pain point is
+},
+{
+    228.78,233.1
+     I can move it down on my neck. The first thing I want to show you is a
+},
+{
+    233.1,239.5
+     mobilization in a rotation motion to your neck. And so for example pillowcases
+},
+{
+    239.5,243.0
+     around my neck if I can only rotate my head let's say I'm gonna rotate my head
+},
+{
+    243.0,247.72
+     to the left and let's say I can only go that far before that pain starts to happen.
+},
+{
+    247.72,251.88
+     What I want to do is I want to get this towel right on that spinous process.
+},
+{
+    251.88,257.84
+     So right on that, that bony point on the back of my neck and then help it to rotate further.
+},
+{
+    257.84,259.68
+     I'm rotating to the left.
+},
+{
+    259.68,262.0
+     That vertebrae needs to rotate to the right.
+},
+{
+    262.0,269.36
+     To do that, I'm going to keep this left hand down with my right hand. I'm on that spinous process on the back, on the back of my neck. As I rotate
+},
+{
+    269.36,274.64
+     here, I'm just going to push a little further with my hand. And what that's doing is moving
+},
+{
+    274.64,278.88
+     that spinous process just a little further. It doesn't need to be a big motion. Just needs
+},
+{
+    278.88,284.64
+     to be a slight motion. And I'm going to do about five or so of those pulses. What you should find
+},
+{
+    284.64,286.12
+     is you'll be able to rotate your neck
+},
+{
+    286.12,289.24
+     a little further before that pain point hits,
+},
+{
+    289.24,290.84
+     and then you're going to repeat that again,
+},
+{
+    290.84,293.3
+     about five of those little pulses,
+},
+{
+    293.3,296.28
+     just trying to get that vertebrae mobilized,
+},
+{
+    296.28,298.84
+     just trying to get that joint used to moving
+},
+{
+    298.84,300.48
+     without pain again.
+},
+{
+    300.48,302.72
+     As soon as we do about three sets of that,
+},
+{
+    302.72,305.88
+     so I would even do that one more time into that end range.
+},
+{
+    305.88,308.4
+     And as soon as we can get a little bit further
+},
+{
+    308.4,310.88
+     without that pain response happening,
+},
+{
+    310.88,313.84
+     now let's take it into a stretch for your neck.
+},
+{
+    313.84,316.5
+     To do that, you're going to let go of the pillowcase,
+},
+{
+    316.5,317.92
+     you're going to cross your arms,
+},
+{
+    317.92,320.28
+     and then you're going to grab the pillowcase again.
+},
+{
+    320.28,321.36
+     With my right hand,
+},
+{
+    321.36,323.36
+     I'm gonna keep that right against my chest.
+},
+{
+    323.36,331.2
+     Now I'm gonna use my left hand to pull kind of across my cheekbone in this rotation motion. As I pull my left hand kind of
+},
+{
+    331.2,337.52
+     away and behind my body, you're going to feel a great stretch right in the back, right in the neck,
+},
+{
+    337.52,342.96
+     in that area where you just mobilized. What I tell people is to hold that for about a 20 second count
+},
+{
+    342.96,346.86
+     and then release it and then you you're gonna repeat that three times.
+},
+{
+    346.86,349.98
+     And so that is your rotation mobilization
+},
+{
+    349.98,353.14
+     and stretch series that I'd like you to go through.
+},
+{
+    353.14,355.44
+     You can repeat this series three, four,
+},
+{
+    355.44,357.6
+     and even up to five times a day.
+},
+{
+    358.98,360.48
+     So we talked about rotation.
+},
+{
+    360.48,362.48
+     That's probably the primary limitation
+},
+{
+    362.48,364.22
+     that I typically see with neck pain.
+},
+{
+    364.22,368.68
+     The second one that most people complain about is extension, meaning the ability to look
+},
+{
+    368.68,369.68
+     up.
+},
+{
+    369.68,372.08
+     I look up and it's pain, it's sharp, it's stabbing.
+},
+{
+    372.08,374.72
+     I can't look up without pain in my neck.
+},
+{
+    374.72,377.6
+     Those are the types of reports that I get from patients.
+},
+{
+    377.6,381.24
+     Those are the types of things that I want to show you how to work your way out of right
+},
+{
+    381.24,382.24
+     now.
+},
+{
+    382.24,383.84
+     We're going to grab our pillow case again.
+},
+{
+    383.84,388.24
+     The other thing that I've changed up is I've got a chair here and you'll notice that it's a sturdy chair.
+},
+{
+    388.24,393.76
+     I don't want it to pivot or swivel or anything. And then it's also got a relatively low back on it.
+},
+{
+    393.76,398.64
+     I don't want it to be super high up on my shoulder blades because I'm going to want to be able to
+},
+{
+    398.64,405.4
+     extend back over it. Still got my pillowcase. It's still folded at the corners and I'm going to go
+},
+{
+    405.4,412.56
+     up right over my neck again. So same test applies here as I extend back. If I'm stuck
+},
+{
+    412.56,418.04
+     about right there, what I want to do is get that pillowcase up right on that level where
+},
+{
+    418.04,423.84
+     it tends to be sticky. Now the first thing that we want to do is just perform some gentle
+},
+{
+    423.84,425.06
+     kind of active range of
+},
+{
+    425.06,427.06
+     motion type exercises.
+},
+{
+    427.06,430.56
+     You're going to get that right up on that vertebrae and you're going to just hold it
+},
+{
+    430.56,431.56
+     right there.
+},
+{
+    431.56,434.14
+     So we're right here and then all you need to do is push.
+},
+{
+    434.14,439.62
+     I'm pushing this way with the towel, just a gentle pressure as I try to look up.
+},
+{
+    439.62,440.86
+     So it looks just like that.
+},
+{
+    440.86,444.74
+     All you're going to do is look up, hold two, three and down.
+},
+{
+    444.74,449.84
+     Up and hold two, three, and down. And what you should find is that as you continue to
+},
+{
+    449.84,454.48
+     perform this motion about five or so times, you should be able to look up a
+},
+{
+    454.48,460.28
+     little higher each time that you go up. Now as you get higher and higher, we want
+},
+{
+    460.28,464.32
+     to continue to mobilize that neck and promote that extension. We're going to do
+},
+{
+    464.32,467.0
+     that through the neck as well as through the upper back with the
+},
+{
+    467.0,470.6
+     chair. So I'm right here. I'm right on my spot.
+},
+{
+    470.68,474.32
+     I'm going to come up to where I kind of meet that pain point.
+},
+{
+    474.44,478.36
+     But now what I can do is with my hands, lift my hands up.
+},
+{
+    478.4,480.12
+     So about the level of my eyes,
+},
+{
+    480.12,482.72
+     my eyes are about looking at my hands right here.
+},
+{
+    482.72,485.04
+     I'm going to come up and then I'm going to lift
+},
+{
+    485.04,491.2
+     just like this to extend further into that extension motion because you can apply that traction
+},
+{
+    491.2,496.8
+     force and that lifting force. Oftentimes that's enough to eliminate that pain response and help
+},
+{
+    496.8,501.76
+     you into that further range of motion. You can then take this even one step further and extend
+},
+{
+    501.76,506.26
+     back over the chair. Really helps your thoracic spine and your posture
+},
+{
+    506.26,508.0
+     to get to where they need to be.
+},
+{
+    508.0,510.12
+     And so that whole thing will look just like this.
+},
+{
+    510.12,513.04
+     We're right here, I'm gonna extend back with my neck,
+},
+{
+    513.04,515.12
+     I'm gonna extend up with my hands,
+},
+{
+    515.12,517.88
+     and then I'm going to extend back and over the chair
+},
+{
+    517.88,520.4
+     just until a comfortable stretch is felt,
+},
+{
+    520.4,522.32
+     and then hold that for about five seconds
+},
+{
+    522.32,524.0
+     and then come back down out of it.
+},
+{
+    524.0,529.68
+     So we're gonna come up, hold here, extend back, lift over the chair, hold one,
+},
+{
+    529.68,535.08
+     two, three, four, five, and it looks just like that. I typically recommend that you
+},
+{
+    535.08,539.56
+     perform that one about ten times and then like the other exercise that I
+},
+{
+    539.56,543.52
+     showed you, you can perform that three to five times throughout your day. As
+},
+{
+    543.52,548.0
+     always, if any of these increase your your pain that's an indication they're going the wrong
+},
+{
+    548.0,551.7
+     direction. I want you to cut them out immediately and again it's a good idea to
+},
+{
+    551.7,555.72
+     go get it checked out by a local physical therapist or a local professional. So I
+},
+{
+    555.72,559.12
+     hope those help you guys out. I hope that helps you out of some of the neck pain
+},
+{
+    559.12,562.52
+     or discomfort that you might be experiencing. If it does do me a favor
+},
+{
+    562.52,565.2
+     hit that thumbs up button. Also I'd love to see you back here
+},
+{
+    565.2,566.96
+     for future videos from Tone and Titan.
+},
+{
+    566.96,568.86
+     If you haven't subscribed to my channel yet,
+},
+{
+    568.86,571.36
+     you can do that at this circle button right here.
+},
+{
+    571.36,574.0
+     If you're having trouble sleeping with your neck pain,
+},
+{
+    574.0,575.8
+     check that video out, that'll help you out.
+},
+{
+    575.8,578.44
+     If here's one more for neck pain that you might enjoy,
+},
+{
+    578.44,581.4
+     and we'll see you next time right back here on Tone and Titan.
+},

@@ -1,0 +1,48 @@
+{
+    0.0,7.4
+     Hi folks, Zach here. We're going to be going over pressure dressings. The pressure dressing
+},
+{
+    7.4,11.2
+     that we're going to be using today is the emergency trauma dressing commonly found in
+},
+{
+    11.2,16.0
+     the iFax within the Army. Once you have the wound packed, again we're going to use the
+},
+{
+    16.0,20.92
+     one for one replacement here. So I'm going to maintain pressure using my thumb, any other
+},
+{
+    20.92,27.4
+     digit that I can, and then I'm going to expose the sterile portion, which
+},
+{
+    27.4,29.84
+     looks like this.
+},
+{
+    29.84,36.28
+     Place it over the combat gauze, and as I wrap, maintain pressure, being sure that I don't
+},
+{
+    36.28,45.6
+     pull the combat gauze off of the wound, out of the wound, and being sure to lock in the sterile field that's over that combat gauze.
+},
+{
+    51.84,54.08
+     Short tugs to ensure that we're tight.
+},
+{
+    72.0,75.8
+     Until we get to the velcro portion of the emergency trauma dressing. There's a locking mechanism on this dressing.
+},
+{
+    75.8,87.0
+     Once we've velcroed, we want to pull up a portion of the wrap and secure it in place with these teeth.
+},
+{
+    91.42,92.92
+     That completes pressure dressing.
+},

@@ -1,0 +1,72 @@
+{
+    26.0,28.0
+     Yn ymgyrch yn ymgyrch, mae'n gweithio'r cyffredinol yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrch yn ymgyrchhaid o'r cyfnod. As y cyfnod yw'r cyfnod, mae'n ddweud o'r ddweud o'r ddweud, ddweud o'r ddweud,
+},
+{
+    28.0,30.0
+     rhamwtig, mae'r ddweud yn ddweud o'r ddweud,
+},
+{
+    30.0,32.0
+     a'r ddweud o'r ddweud,
+},
+{
+    32.0,34.0
+     mae'n ddweud o'r ddweud o'r ddweud,
+},
+{
+    34.0,36.0
+     o'r ddweud o'r ddweud,
+},
+{
+    36.0,38.0
+     o'r ddweud o'r ddweud o'r ddweud o'r ddweud.
+},
+{
+    38.0,40.0
+     Yn ymgyrch yn ymgyrch,
+},
+{
+    40.0,42.0
+     mae'n cyfnod o'r ddweud o'r ddweud,
+},
+{
+    42.0,44.0
+     mae'n ddweud o'r ddweud o'r ddweud,
+},
+{
+    44.0,46.6
+     mae'n ddweud o'r ddweud o'r ddweud, mae'n ddweud o'r ddweud o'r Menogitis, fel ychydig i'r llwyth ar y llwyth, ddim yn cael eu gwahodd o'r ambulent yn ymweld i'r ffeir.
+},
+{
+    46.6,49.6
+     Rwy'n cael ei wneud i'r rach, ym mwy o'r rachau yn cael eu gwahodd
+},
+{
+    49.6,51.8
+     o'r spod ar y llwyth,
+},
+{
+    51.8,55.6
+     dwi'n cael eu spod yn cael eu gwahodd o'r ambulent yn ymweld i'r wahodd.
+},
+{
+    55.6,58.6
+     Felly, yn ymweld i'r ambulent, rai'n cael eu gwahodd i'r llwyth,
+},
+{
+    58.6,61.8
+     bydd ymweld i'r llwyth i'r llwyth, ymweld i'r llwyth i'r llwyth.
+},
+{
+    62.8,65.0
+     Rwy'n cael eu gwahodd o'r ambulent, ddim yn cael eu gwahodd i'r. Rydych, rydyn ni'n gwybod i'r amgylchedd,
+},
+{
+    65.0,67.0
+     yw'r cyffredig, rydyn ni'n gwybod i'n gwybod.
+},
+{
+    67.0,69.0
+     Yn ymddiwch yn ymddiwch yn ymddiwch yn ymddiwch.
+},

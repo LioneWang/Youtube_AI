@@ -1,0 +1,132 @@
+{
+    0.0,10.84
+     Hi, my name is Sherri Garvin. I'm one of the pharmacists here at the Compounding Center
+},
+{
+    10.84,15.84
+     and today I'm going to talk to you about applying your hormone cream. First, I want to congratulate
+},
+{
+    15.84,21.08
+     you on taking a big step towards relieving your symptoms. My job is easy. I'm just going
+},
+{
+    21.08,28.36
+     to show you how to apply it so that you can start to feel better, feel more like yourself again. So at the compounding center we dispense
+},
+{
+    28.36,35.08
+     our hormone, hormone creams in an airless pump and each pump delivers point
+},
+{
+    35.08,41.76
+     two five grams. It's a very small amount. Now we make your cream based on your
+},
+{
+    41.76,45.16
+     physician's order and then we will put on the label your
+},
+{
+    45.16,46.52
+     directions for use.
+},
+{
+    46.52,51.4
+     So your physician may want you to use one pump twice a day or four pumps once a day.
+},
+{
+    51.4,54.56
+     It'll vary, so just follow the directions on your labeling.
+},
+{
+    54.56,58.0
+     Now, ladies, where we can put this.
+},
+{
+    58.0,62.24
+     Usually the inner forearm is a great place to put it, and you can just rub your two forearms
+},
+{
+    62.24,67.0
+     together, and it just takes a very few seconds
+},
+{
+    67.0,69.44
+     for it to rub into the skin.
+},
+{
+    69.44,71.84
+     You can also use your inner thigh.
+},
+{
+    71.84,75.4
+     Some physicians recommend the neck or the inner bicep.
+},
+{
+    75.4,80.12
+     I would suggest talking to your physician if they have specific instructions for you.
+},
+{
+    80.12,86.24
+     And gentlemen, your cream will look very much like this, and you can apply yours on the upper torso
+},
+{
+    86.24,88.06
+     anywhere in this area,
+},
+{
+    88.06,91.38
+     just trying to avoid the more hairy areas.
+},
+{
+    91.38,93.64
+     Now a few tips and pointers.
+},
+{
+    93.64,97.4
+     If you are using your hands to apply the cream,
+},
+{
+    97.4,100.3
+     say on your neck, then you wanna make sure right afterwards
+},
+{
+    100.3,103.44
+     to wash your hands so that you don't transfer the cream
+},
+{
+    103.44,110.0
+     to a loved one or someone else that you may come in contact with. Also, sometimes you might hit an
+},
+{
+    110.0,115.12
+     air bubble. So if you dispense a pump and it spurts or it doesn't look like the
+},
+{
+    115.12,119.88
+     correct amount, then you just want to go ahead and discard that and start all
+},
+{
+    119.88,124.32
+     over again. We do overfill our pumps a little bit so that you have plenty in
+},
+{
+    124.32,129.64
+     case you hit an air bubble. And one last thing, we do usually recommend that you
+},
+{
+    129.64,134.12
+     rotate application sites. It helps so that the cream doesn't cause any
+},
+{
+    134.12,138.92
+     irritation and also encourages absorption of the active ingredient. We hope this has
+},
+{
+    138.92,142.24
+     helped today but if you do have any further questions, feel free to call our
+},
+{
+    142.24,146.4
+     pharmacist here at the Compounding Center. Thank you!
+},

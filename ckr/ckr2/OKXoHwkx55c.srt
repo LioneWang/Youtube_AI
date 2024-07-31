@@ -1,0 +1,88 @@
+{
+    0.0,8.36
+     I am Dr. Shrikanth Chhiti, Senior Consulant and Head of the Department of Interventional
+},
+{
+    8.36,17.6
+     Cardiology at Sakara World Hospital, Bangalore, India.
+},
+{
+    17.6,22.4
+     Heart attacks sometimes happen when you do not have ready-heel paraventure.
+},
+{
+    22.4,25.0
+     First thing is to identify when a heart attack is happening.
+},
+{
+    25.0,30.0
+     So you have to be able to recommend the classical symptoms of central chest pain,
+},
+{
+    30.0,35.0
+     radiating to the jaw or to the inside of the left arm associated with sweating,
+},
+{
+    35.0,37.0
+     maybe dizziness and vomiting.
+},
+{
+    37.0,39.0
+     When you have any of these suspicious complaints,
+},
+{
+    39.0,44.0
+     immediately inform a close relative or a friend who could be of help.
+},
+{
+    44.0,48.64
+     If you have the emergency of your near way hospital, call the hospital, ask for an
+},
+{
+    48.64,53.08
+     ambulance, do not attempt to travel in your own personal vehicle.
+},
+{
+    53.08,57.44
+     If you have aspirin at home, chew on the aspirin because it helps to keep the blood vessel
+},
+{
+    57.44,59.44
+     open and saves life.
+},
+{
+    59.44,63.8
+     If you are feeling dizzy which indicates that the blood pressure is going down, then lying
+},
+{
+    63.8,66.48
+     down will improve the circulation to the brain.
+},
+{
+    66.48,70.68
+     If you are feeling breathless, then sit upright, then it will help to improve, maintain the
+},
+{
+    70.68,71.68
+     oxygenation.
+},
+{
+    71.68,77.32
+     Do not try to walk particularly if you are breathless or if you are having a severe chest
+},
+{
+    77.32,78.32
+     pain.
+},
+{
+    78.32,83.16
+     If you are feeling faint and losing consciousness, then vigorous coughing can help maintain consciousness
+},
+{
+    83.16,85.52
+     and this is called cough CPR.
+},
+{
+    85.52,89.48
+     So these simple measures can help save lives in the heart attack.
+},

@@ -1,0 +1,804 @@
+{
+    0.0,10.28
+     Hello, I'm Ben Welch and welcome to 442's YouTube channel and the latest episode of
+},
+{
+    10.28,14.52
+     the injury clinic. In today's episode we are going to be visiting the centre for health
+},
+{
+    14.52,18.56
+     and human performance and one of their top physios, Tom Jackson. Tom is going to show
+},
+{
+    18.56,22.64
+     us how to diagnose any injury and then rehab it back to match when you're strength so
+},
+{
+    22.64,29.12
+     we can get you back out on the pitch and play.
+},
+{
+    33.44,37.76
+     Okay so we're here with Tom Thomas, a beneficio for Charlton, Southampton and full of massively experienced, used to working with elite footballers, now it gets the work of a rubbish amateur
+},
+{
+    37.76,44.16
+     footballer like me. So Tom, thank you for taking this time to see us. So imagine average footballer
+},
+{
+    44.16,47.96
+     comes in place Sundays, plays Saturdays, maybe a five-side game.
+},
+{
+    47.96,50.4
+     He comes in and he says, Tom, I've hurt my knee.
+},
+{
+    50.4,52.12
+     What are the first things we do to establish
+},
+{
+    52.12,53.16
+     what's wrong with his knee?
+},
+{
+    53.16,54.32
+     Yeah, no problems.
+},
+{
+    54.32,55.56
+     So the first thing that we're gonna do
+},
+{
+    55.56,56.96
+     is have a good sit down and a chat
+},
+{
+    56.96,59.52
+     and find out what you've done and how you've done it.
+},
+{
+    59.52,62.32
+     So what I want to know is the mechanism of your injury.
+},
+{
+    62.32,63.6
+     Once we've gone through that assessment,
+},
+{
+    63.6,66.46
+     which we already have done, I want to go and have a look and
+},
+{
+    66.46,70.44
+     and see what you're looking like with regards to your knee.
+},
+{
+    70.44,73.26
+     So if you want to have a seat on the bed.
+},
+{
+    73.26,79.18
+     So just for everyone watching at home I did my knee I was playing in a game
+},
+{
+    79.18,83.72
+     someone shot I slid across them and their foot connected with the back of my
+},
+{
+    83.72,86.38
+     knee wasn't instantly painful but when I got up,
+},
+{
+    86.38,87.5
+     there was some instability in my knee
+},
+{
+    87.5,90.02
+     and it got in my knee and it felt a bit weird.
+},
+{
+    90.02,91.66
+     So key thing really is to look at,
+},
+{
+    91.66,92.9
+     A, I've seen you when you've walked in.
+},
+{
+    92.9,95.1
+     You've not walked in with any massive limp,
+},
+{
+    95.1,96.84
+     which is quite important.
+},
+{
+    96.84,98.92
+     You're obviously reasonably functional,
+},
+{
+    98.92,100.66
+     watched you in terms of when you get changed.
+},
+{
+    100.66,103.62
+     You're happy to stand on this leg,
+},
+{
+    103.62,106.04
+     happy to take shoes on and off and balance on it.
+},
+{
+    106.04,108.44
+     So there's nothing that is
+},
+{
+    108.44,110.96
+     screamingly obvious for me at this moment in time.
+},
+{
+    110.96,113.16
+     If I look comparatively at your knee,
+},
+{
+    113.16,116.6
+     there's no major swelling compared to the other side.
+},
+{
+    116.6,119.6
+     It doesn't feel hot to the touch compared to the other side
+},
+{
+    119.6,121.4
+     and it's not got a big bed area.
+},
+{
+    121.4,123.8
+     So it's not in a massive kind of inflammatory state
+},
+{
+    123.8,127.84
+     at this moment in time. So first thing we want to do is just see if there's any swelling. So I'm just going
+},
+{
+    127.84,132.12
+     to do a little kind of, it's called a sweep test. So from there I'm just going to brush
+},
+{
+    132.12,136.32
+     that fluid away. If there is any thing and if there was there'd be a little bled that
+},
+{
+    136.32,141.24
+     would come out into this area effectively of fluid. So that's looking at is there anything
+},
+{
+    141.24,147.4
+     within the knee joint itself that's causing inflammation and swelling at the moment, not for you.
+},
+{
+    147.4,150.0
+     So then I'm going to move on and look at your range of movement.
+},
+{
+    150.0,154.2
+     So bit of hyper extension, that's pretty normal for you.
+},
+{
+    154.2,157.6
+     So we've got a little ligament in the inside of your knee here.
+},
+{
+    157.6,159.4
+     That, that, that, that isn't that.
+},
+{
+    159.4,160.4
+     That's quite unpleasant.
+},
+{
+    160.4,163.2
+     Yeah, that really does, yeah.
+},
+{
+    163.2,166.9
+     The meniscus and the medial ligament kind of communicate
+},
+{
+    166.9,170.74
+     with each other. So there's fibres that go on and attach from that medial ligament onto
+},
+{
+    170.74,174.96
+     the meniscus. So the two can be damaged and I think there's probably some damage around
+},
+{
+    174.96,179.76
+     that area for you. I think you've done deep fibres of your medial ligament. So that's
+},
+{
+    179.76,187.0
+     where I rotate your leg outwards and then apply that lateral or medial force from the outside here.
+},
+{
+    187.0,190.36
+     So I'm gapping this medial ligament and stressing you.
+},
+{
+    190.36,191.76
+     That's causing you some discomfort.
+},
+{
+    203.04,204.64
+     Hey Tom, so we've assessed my knee.
+},
+{
+    204.64,207.08
+     We've seen that it probably needs a little bit further investigation,
+},
+{
+    207.08,211.04
+     we need to get a scan, but imagine a frustrated footballer, they're injured, they need to
+},
+{
+    211.04,214.6
+     wait for the scan, what can they do in the meantime to maybe improve their situation?
+},
+{
+    214.6,220.42
+     So key thing for you at the moment is to make sure that we've got some stability. So irrespective
+},
+{
+    220.42,224.68
+     of whether there's an injury that needs to go and have surgery or not, you need to get
+},
+{
+    224.68,228.16
+     that hip stability particularly better. So we saw when you were doing that
+},
+{
+    228.16,231.36
+     single leg squat particularly on the right side, you were a bit all over the place. So
+},
+{
+    231.36,234.36
+     we need to make that a little bit better for you. We're going to give you some glute exercise
+},
+{
+    234.36,237.68
+     to do. So if I can ask you to lie down on the mat. From this position, I'm going to ask
+},
+{
+    237.68,242.24
+     you to bridge up. So you're going to push up through your heels and lift your bottom
+},
+{
+    242.24,245.08
+     off the floor. That's it, good and then slowly
+},
+{
+    245.08,252.08
+     lower right down again. Okay, so same thing, rolling up, squeezing that glute back down.
+},
+{
+    252.08,256.74
+     Good. We'll come back now, we're going to do the same things. Another squiffle bridge.
+},
+{
+    256.74,263.16
+     What this is doing is adding an element of balance into it as well. So the idea is to
+},
+{
+    263.16,265.0
+     keep your feet flat on the ball,
+},
+{
+    265.0,267.48
+     bring your knees again about hip width apart,
+},
+{
+    267.48,269.2
+     and from that position, it's exactly the same
+},
+{
+    269.2,270.16
+     as you had before.
+},
+{
+    270.16,271.72
+     To start with, we're just gonna work
+},
+{
+    271.72,273.96
+     a small amplitude of movement.
+},
+{
+    273.96,275.64
+     I don't want you coming all the way up.
+},
+{
+    275.64,276.72
+     So that's a bit big to start with.
+},
+{
+    276.72,278.68
+     So just there to start with, back down,
+},
+{
+    278.68,280.6
+     just until you get that control.
+},
+{
+    281.8,283.48
+     I'll do three or four of those.
+},
+{
+    287.0,290.6
+     So to start with, I just going to get you just down to one foot, slight bend in your
+},
+{
+    290.6,296.44
+     knee and we're just going to stay in that position. You want a little bit of an unstable
+},
+{
+    296.44,301.0
+     surface on this mat, albeit it's very thin. We can make it harder by adding more unstable
+},
+{
+    301.0,305.68
+     surfaces so if you're at home, stand on a pillow, stand on a cushion, something like that,
+},
+{
+    305.68,307.44
+     providing you've got good stability.
+},
+{
+    307.44,310.32
+     And you can see as you're working here,
+},
+{
+    310.32,313.08
+     muscles in the lower leg are working hard,
+},
+{
+    313.08,314.96
+     glutes are working to stabilize,
+},
+{
+    314.96,316.84
+     and there's just a little bit of rock in there.
+},
+{
+    316.84,319.24
+     I'll ask you to close your eyes from that position.
+},
+{
+    321.0,324.56
+     See straight away, that becomes much harder.
+},
+{
+    324.56,329.0
+     So you take away the visual cues, and that becomes a harder exercise straight way.
+},
+{
+    329.0,333.0
+     So the other thing you can do is just standing on your right leg,
+},
+{
+    333.0,338.0
+     just do some rotational stuff.
+},
+{
+    338.0,341.0
+     Just controlling around.
+},
+{
+    341.0,344.0
+     We can obviously make that more fun towards the latter stages
+},
+{
+    344.0,347.76
+     where we're getting you kicking a football there's somebody throwing a football back we've
+},
+{
+    347.76,350.32
+     even got one here at the moment somebody throwing a football back you're doing
+},
+{
+    350.32,354.04
+     some volleys just to start with we're just doing a little bit of pop it back
+},
+{
+    354.04,361.72
+     chest past me so don't be worried I can catch. So just gonna pop it get you moving
+},
+{
+    361.72,366.0
+     and then in a second we're gonna to just take you off and change that
+},
+{
+    366.0,367.0
+     range.
+},
+{
+    367.0,368.0
+     Alright?
+},
+{
+    368.0,370.16
+     We've heard all this stuff from Tom, we've worked on some exercises now and he's going
+},
+{
+    370.16,375.0
+     to have my scan to get to the root of the problem and then we can move on.
+},
+{
+    375.0,384.16
+     Okay Tom, so a few months have passed since I first come to CU, injured in October, come
+},
+{
+    384.16,387.6
+     to see in November, we did a few sessions and then we decided that
+},
+{
+    387.6,388.84
+     with the way Nene was reacting,
+},
+{
+    388.84,390.56
+     it's better to ease off.
+},
+{
+    390.56,393.44
+     Why is that important and kind of what are the benefits
+},
+{
+    393.44,397.08
+     of doing that as a patient and what kind of things
+},
+{
+    397.08,399.32
+     would you be looking out for in that period of rest?
+},
+{
+    399.32,402.24
+     So during any kind of reactive process with a knee,
+},
+{
+    402.24,404.74
+     we're into an inflammatory state.
+},
+{
+    404.74,405.2
+     Information takes quite a while to calm down. With your own knee, we're into an inflammatory state. Information
+},
+{
+    405.2,409.28
+     takes quite a while to calm down. With your own knee, we were getting to a point where
+},
+{
+    409.28,412.64
+     we were almost exacerbating that information with the loading that we were doing. So, in
+},
+{
+    412.64,416.84
+     able to give it a tone of rest, it allows that information to settle down, allows you
+},
+{
+    416.84,420.96
+     to start to improve again in terms of the feeling that you were feeling in the knee.
+},
+{
+    420.96,428.8
+     You had a level of instability that you were noticing. That subsequently settled down. Alongside the exercise program that you were doing,
+},
+{
+    428.8,433.46
+     it allows the muscles to activate and you get more proprioception, which is the control
+},
+{
+    433.46,438.76
+     within your knee, where your knee is in space, allows those muscles to work a lot more and
+},
+{
+    438.76,442.96
+     just you generally become very stronger. So in the previous sessions that we've had,
+},
+{
+    442.96,448.54
+     we've been working on strength and control of your knee. Those exercises that we've just done there are
+},
+{
+    448.54,451.78
+     a lot of kind of the end stage rehabilitation exercises. They're based
+},
+{
+    451.78,455.94
+     on whole body control movements and they're going to put your knee under
+},
+{
+    455.94,460.7
+     significant stress in terms of control and patterning and if you're unable to
+},
+{
+    460.7,464.9
+     keep those patterns up then you're basically not going to be fit to return
+},
+{
+    464.9,465.52
+     to sport.
+},
+{
+    465.52,469.92
+     So I'm looking at, by completing those, are you now at a stage where we can progress you
+},
+{
+    469.92,472.48
+     back into a football type scenario?
+},
+{
+    472.48,474.24
+     Lateral bounds off the bosu.
+},
+{
+    474.24,478.6
+     Really great exercise to test your balance and your control as you land on the floor
+},
+{
+    478.6,480.26
+     on that static leg.
+},
+{
+    480.26,484.64
+     Things like the ice skaters, again, look, they're a great whole body workout.
+},
+{
+    484.64,489.2
+     They're going to work your glutes, which is the key muscles for stabilization of your lower limb.
+},
+{
+    489.2,492.64
+     The viper step backs, which is what everyone's coming through here.
+},
+{
+    492.64,497.44
+     Again, a really strong exercise for both the hip mobility.
+},
+{
+    497.44,506.0
+     The drop downs off the box are actually a really good exercise for putting high level of load of eccentric
+},
+{
+    506.0,510.4
+     strength through your quads, getting your glutes again to absorb and stabilize your
+},
+{
+    510.4,514.32
+     your proximal body weight and also loading into the tendon. And then the final one that
+},
+{
+    514.32,520.08
+     we did was the plyometric box jumps and that's a pure explosive exercise. Can you generate
+},
+{
+    520.08,525.4
+     sufficient force through your both your legs in order to drive up onto that 24-inch
+},
+{
+    525.4,529.8
+     box. There's a pretty decent size box as you felt and then can you control that
+},
+{
+    529.8,534.24
+     movement on the way back down again. So lowering down on the affected side. So at
+},
+{
+    534.24,539.2
+     this stage in the rehabilitation I want your knee to feel normal effectively. If
+},
+{
+    539.2,544.04
+     you're still feeling like it's unstable or you're getting some pain or
+},
+{
+    544.04,546.28
+     particularly if your knee reacts subsequently,
+},
+{
+    546.28,547.88
+     then you're probably too far,
+},
+{
+    547.88,549.48
+     or you're trying to do too much too early
+},
+{
+    549.48,552.56
+     and you need to go back a stage into the strengthening phase
+},
+{
+    552.56,554.84
+     before you can start loading up onto that side.
+},
+{
+    554.84,556.84
+     We are four months along now,
+},
+{
+    566.84,568.16
+     from when I first come to see you. What stage are we at?
+},
+{
+    568.16,569.16
+     Where's my knee at?
+},
+{
+    569.16,571.88
+     And now what are we looking to push on with next?
+},
+{
+    571.88,574.52
+     So your knee now is really nice and stable.
+},
+{
+    574.52,575.72
+     Ligaments are looking really strong.
+},
+{
+    575.72,577.2
+     There's no laxity within the knee.
+},
+{
+    577.2,579.16
+     There's no pain in the knee when I'm testing it.
+},
+{
+    579.16,580.96
+     So really fantastic.
+},
+{
+    580.96,584.36
+     You've done loads of work in the gym in terms of your balance work, which is fundamentally
+},
+{
+    584.36,586.64
+     most important. And you've done a lot of strength work.
+},
+{
+    586.64,589.52
+     So that strength work is going to give you really good stability in your knee.
+},
+{
+    589.52,594.08
+     Now it's a matter of testing out to see that you're able to cope with the
+},
+{
+    594.08,597.6
+     stresses of football, prior to putting you back onto a football pitch and making
+},
+{
+    597.6,600.76
+     sure that you're fine with all that before releasing you to go and play again.
+},
+{
+    600.76,607.2
+     Now today we're ramping up the pressure on the knee, the movement, the mobility.
+},
+{
+    607.2,611.6
+     Can you just briefly explain what we're doing in the gym and what those exercises, what are we
+},
+{
+    611.6,616.16
+     testing and looking for? So today we're going to start to kind of transition you through to
+},
+{
+    616.16,621.44
+     striking a football and multi-directional movement. We're going to look at a bit of ballistic stuff
+},
+{
+    621.44,628.24
+     in terms of your jumping and your reactive strength from that. Then we're also going to look at some of the kind of kicking mechanisms
+},
+{
+    628.24,632.88
+     for you. And then finally just do some multi-directional drills where we're trying to get you to change
+},
+{
+    632.88,637.92
+     direction and work off both legs so that you can then take that out onto a football pitch
+},
+{
+    637.92,645.48
+     in your rehabilitation and have a confidence you've already exposed yourself to those movements. Right, so let's go in the gym and see how my knee holds up. That's the one.
+},
+{
+    647.48,648.32
+     And here.
+},
+{
+    651.82,653.14
+     One.
+},
+{
+    653.14,653.98
+     One.
+},
+{
+    654.94,656.28
+     One.
+},
+{
+    656.28,658.12
+     One.
+},
+{
+    658.12,658.96
+     Two.
+},
+{
+    660.22,664.32
+     I'm never gonna have to go high and whip, whip, whip, whip, whip.
+},
+{
+    664.32,665.0
+     Better.
+},
+{
+    665.0,666.0
+     So what's next for me now?
+},
+{
+    666.0,672.0
+     So for you now it's about going out and doing some functional football training.
+},
+{
+    672.0,676.0
+     So doing some side foot passes, continuing to build on your motor directional stuff.
+},
+{
+    676.0,680.0
+     Doing some cutting movements when you're doing your sprints.
+},
+{
+    680.0,685.0
+     When you've done all of that, which will probably be another week, ten days of loading,
+},
+{
+    685.0,714.6
+     then you can be looking to go back into on the pitch and plan and I couldn't have
+},
+{
+    714.6,717.72
+     done it without the help of the centre for health and human performance in Tom Jackson
+},
+{
+    717.72,721.72
+     who have been absolutely fantastic throughout. If you get injured I highly recommend you
+},
+{
+    721.72,727.24
+     go see them. Now if you want to hear more about CHHP and Tom, check out the links in the video description
+},
+{
+    727.24,728.24
+     below.
+},
+{
+    728.24,733.32
+     And if you're keen to explore more rehab content, please head over to our website, www.442.com,
+},
+{
+    733.32,735.28
+     forward slash performance and search injuries.
+},
+{
+    735.28,739.52
+     Now before you go, don't forget to hit like, subscribe and if you have any questions, please
+},
+{
+    739.52,None
+     put them in the comment section below. yn y comment seision bely.
+},

@@ -1,0 +1,128 @@
+{
+    0.0,9.8
+     This video will show you how to use your incentive spirometer.
+},
+{
+    9.8,14.84
+     The first time you use your incentive spirometer, you'll need to expand the tubing and connect
+},
+{
+    14.84,31.84
+     it to the outlet on the right side of the base. Sit upright in a chair or in bed.
+},
+{
+    31.84,35.36
+     Hold the incentive spirometer at eye level.
+},
+{
+    35.36,38.04
+     Exhale slowly.
+},
+{
+    38.04,42.92
+     Put the mouthpiece in your mouth and seal your lips tightly around it.
+},
+{
+    42.92,47.0
+     Take a slow, deep breath in through your mouth. Remember, you
+},
+{
+    47.0,55.24
+     must breathe in through your mouth, not your nose.
+},
+{
+    55.24,62.04
+     As you inhale deeply, you will see the piston rise on the left side. While the piston rises,
+},
+{
+    62.04,65.0
+     the indicator on the right should move upwards.
+},
+{
+    65.0,68.0
+     It should stay in between the two arrows.
+},
+{
+    68.0,71.0
+     If the indicator doesn't stay between the two arrows,
+},
+{
+    71.0,75.0
+     it means you are breathing either too fast or too slow.
+},
+{
+    77.0,82.0
+     Try to get the piston as high as you can while keeping the indicator between the two arrows.
+},
+{
+    82.0,85.72
+     When you get the piston to reach as high as you can,
+},
+{
+    85.72,89.98
+     hold it for three to five seconds, then exhale normally.
+},
+{
+    93.04,96.6
+     Let the piston fall all the way back to the bottom.
+},
+{
+    96.6,97.7
+     Now rest.
+},
+{
+    99.44,102.68
+     You should do this 10 times an hour while you're awake.
+},
+{
+    102.68,104.6
+     Try to get the piston to the same level
+},
+{
+    104.6,106.7
+     each time you do the exercise.
+},
+{
+    110.5,115.5
+     After each time you use the incentive spirometer, give three deep coughs.
+},
+{
+    118.0,122.5
+     This will help clear the secretions from your lungs, even if you're not coughing anything up.
+},
+{
+    122.0,127.0
+     even if you're not coughing anything up.
+},
+{
+    130.0,131.0
+     If you're not able to finish your breaths, take a break.
+},
+{
+    133.0,135.0
+     Put the marker at the level you reached. This will be your goal next time.
+},
+{
+    137.0,141.0
+     Take 10 breaths per hour using your incentives parameter.
+},
+{
+    141.0,145.0
+     This will help prevent pneumonia and other complications after surgery.
+},
+{
+    145.0,150.0
+     For more information on using an incentives parameter,
+},
+{
+    150.0,153.0
+     refer to the print materials your nurse gave you.
+},
+{
+    153.0,159.0
+     You can also find this information online by visiting mskcc.org.
+},
+{
+    159.0,165.0
+     If you have any questions, contact your nurse or respiratory therapist.
+},

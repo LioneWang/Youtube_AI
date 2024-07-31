@@ -1,0 +1,68 @@
+{
+    0.0,4.74
+     You know during first aid procedures at times we may encounter someone who has
+},
+{
+    4.74,10.2
+     experienced a cut or laceration requiring stitches or sutures. However,
+},
+{
+    10.2,13.96
+     we're going to talk about how to close the wound during first aid procedures.
+},
+{
+    13.96,18.28
+     Hi, I'm Captain Joe Bruni. There are several ways to close a wound
+},
+{
+    18.28,27.78
+     temporarily until medical help or medical facility can be reached to suture or stitch a wound closed.
+},
+{
+    27.78,34.98
+     One of the things that you may find in the Common First Aid Kit is regular medical tape
+},
+{
+    34.98,44.76
+     and some type of ampule of benzoid iodine looking material that can be used sort of
+},
+{
+    44.76,47.92
+     like a glue to close the material or close
+},
+{
+    47.92,55.44
+     the wound. We could also use medical tape or in this case some type of a butterfly type of
+},
+{
+    55.44,67.0
+     bandage that will be placed over top of the wound area. We would take the benzoid, break the ampule, and soak it into the cotton applicator
+},
+{
+    68.28,75.28
+     and swab. It will be sort of like using a glue stick where we would apply the benzoid
+},
+{
+    76.52,81.6
+     to one side of the wound, keeping careful or being careful not to get it inside the
+},
+{
+    81.6,85.36
+     wound as it will irritate it.
+},
+{
+    85.36,113.56
+     And then we would take the medical tape or the butterfly bandage, peel back the adhesive one side, pull it across and stretch it to the other side as we close the wound and seal
+},
+{
+    113.56,121.2
+     it off. With basic first aid techniques, a little bit of benzoid and tape for first
+},
+{
+    121.2,127.36
+     aid procedures, we can temporarily close a wound until it can be stitched or sutured at a medical facility.
+},
+{
+    127.36,131.16
+     I'm Captain Joe Bruni, stay safe and we'll see you next time.
+},

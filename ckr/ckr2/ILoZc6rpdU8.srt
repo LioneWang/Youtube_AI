@@ -1,0 +1,1824 @@
+{
+    0.0,5.28
+     So here's the thing, so Laura, so you wrote down upper back shoulder
+},
+{
+    5.84,11.12
+     neck area causing headaches last couple days and you wrote a unhappy face
+},
+{
+    12.4,17.68
+     Emoji. Yeah, we're doing emojis now. I know starting to feel a lot of discomfort
+},
+{
+    19.04,28.76
+     on this area. Just the right side? It seems like it's I feel the pressure more onto the right right side and to my left so it's both sides but the right is worse than left
+},
+{
+    28.76,34.34
+     yeah okay gotcha so go ahead so I feel like I don't know if I probably might
+},
+{
+    34.34,39.48
+     have slept wrong or something but it's been the last like I said the last few
+},
+{
+    39.48,49.0
+     days and when you're getting a headache does it come up the head over to the eyes or what do you feel? Yes, yes. It definitely goes up the head and to this crown of head.
+},
+{
+    49.0,51.0
+     Does it affect your eyesight?
+},
+{
+    51.0,52.0
+     No.
+},
+{
+    52.0,56.0
+     Does it have any blurry vision or things floating in your eyes?
+},
+{
+    56.0,57.0
+     No.
+},
+{
+    57.0,59.0
+     No, any problems ringing in the ears?
+},
+{
+    59.0,60.0
+     No.
+},
+{
+    60.0,62.0
+     Have you felt nauseous from the headache?
+},
+{
+    62.0,63.0
+     No, no, no.
+},
+{
+    63.0,65.8
+     Okay, do you feel sick at all? Like you just kind
+},
+{
+    65.8,72.56
+     of feel run down? No, I just feel like I have so much tension like here and then from here
+},
+{
+    72.56,76.8
+     it just runs up my head. The reason I'm asking is I'm just looking for other things that
+},
+{
+    76.8,81.92
+     could cause it. Okay, and then any numbness or tingling into the hands? No. Okay, and
+},
+{
+    81.92,85.48
+     then your medical history? There's nothing. No, surgeries, no
+},
+{
+    85.48,92.92
+     medications. No, just previous back problems. Previous back, low back. Low back, yeah. Okay, any
+},
+{
+    92.92,102.0
+     any herniated discs, any old x-rays, anything that nothing. Okay, and the medical doctors you've seen,
+},
+{
+    102.0,105.68
+     is there any abnormal findings in your blood, thyroid,
+},
+{
+    105.68,106.52
+     anything like that?
+},
+{
+    106.52,107.52
+     No, nothing.
+},
+{
+    107.52,108.36
+     Okay.
+},
+{
+    108.36,109.8
+     And have you ever been to a chiropractor before?
+},
+{
+    109.8,110.64
+     Yes, I have.
+},
+{
+    110.64,112.4
+     Okay, so you're kind of familiar with what we're gonna do?
+},
+{
+    112.4,113.24
+     Yes.
+},
+{
+    113.24,115.2
+     Okay, so I'm gonna look at everything real closely
+},
+{
+    115.2,117.52
+     and carefully, and then we'll see if we can determine
+},
+{
+    117.52,119.4
+     if it's a muscle problem you're having,
+},
+{
+    119.4,122.88
+     or a tendon, ligament, joint, bone, that type of thing.
+},
+{
+    122.88,124.72
+     Okay, so let's do this.
+},
+{
+    124.72,127.68
+     Let's first look at your posture.
+},
+{
+    127.68,133.68
+     So stand over here for me. And what you're going to do is you're going to face that way.
+},
+{
+    134.24,140.4
+     And everyone, especially military, gives me that military posture. Don't stand in a military
+},
+{
+    140.4,145.72
+     posture. Look at, just stand natural. Okay, so just kind of chill out. Let me just
+},
+{
+    145.72,149.16
+     see what your normal, what you think your normal posture looks like.
+},
+{
+    149.16,153.48
+     To be honest, my normal posture would be more like, okay, that's okay.
+},
+{
+    153.48,156.32
+     You know. Yeah, but now that now someone's staring at your
+},
+{
+    156.32,158.72
+     posture, it's hard to have that normal posture, right?
+},
+{
+    158.72,162.52
+     Correct. But what's funny is regarding the, that military
+},
+{
+    162.52,166.0
+     posture I was saying is most people when they try to fake their posture,
+},
+{
+    166.0,172.0
+     they just accentuate the bad posture that they have, which is kind of funny.
+},
+{
+    172.0,178.0
+     So what I'm noticing is your head looks straight in terms of the upper occiput here.
+},
+{
+    178.0,186.94
+     The shoulders, this one here, is a little bit higher than this one. And then when I look at the scapula,
+},
+{
+    186.94,190.2
+     this scapula is a little bit higher.
+},
+{
+    190.2,193.26
+     And then when I'm looking at your spine overall,
+},
+{
+    193.26,195.1
+     we really can't see anything abnormal.
+},
+{
+    195.1,196.46
+     I'm just gonna look at your back.
+},
+{
+    196.46,198.14
+     I'm looking for any abnormal curves
+},
+{
+    198.14,200.86
+     or anything that makes me go, holy cow.
+},
+{
+    200.86,201.7
+     Right.
+},
+{
+    201.7,208.56
+     So let's have you stand over here so you can just see, I'm not talking about, let's
+},
+{
+    208.56,210.8
+     have you just so you can see what I'm kind of seeing.
+},
+{
+    210.8,218.24
+     If you stand back over there, what I'm noticing when I take my fingers and put it there, it's
+},
+{
+    218.24,223.24
+     subtle, it's not huge in you, but I notice a difference, a discrepancy in the shoulder
+},
+{
+    223.24,224.24
+     height.
+},
+{
+    224.24,228.0
+     Okay. but I notice a difference of discrepancy in the shoulder height. So that means that either you chronically use one side,
+},
+{
+    228.0,232.0
+     which is extremely common with most people because we're either right or left-handed,
+},
+{
+    232.0,236.0
+     and that develops muscular imbalances that can lead to problems.
+},
+{
+    236.0,240.0
+     So let's have you come over here, sit down
+},
+{
+    240.0,244.0
+     right there for me and face that way.
+},
+{
+    244.0,245.92
+     And I'm going to use this machine right there for me and face that way.
+},
+{
+    247.88,250.44
+     And I'm gonna use this machine, okay, and how this works, it does not hurt.
+},
+{
+    250.44,254.2
+     If there's a reading to one side, it'll show me.
+},
+{
+    254.2,255.76
+     And if there's a reading to the other side,
+},
+{
+    255.76,258.34
+     and it basically tells me, or it gives me clues
+},
+{
+    258.34,260.56
+     as to where the most amount of irritation is,
+},
+{
+    260.56,263.68
+     because we want to really hit it in the bull's eye.
+},
+{
+    263.68,264.52
+     Okay.
+},
+{
+    264.52,265.02
+     So I'm just gonna pull the hair up. is because we want to really hit it in the bull's eye. Okay. Okay.
+},
+{
+    265.02,266.52
+     So I'm just going to pull the hair up.
+},
+{
+    269.32,271.22
+     And let's give this a go here.
+},
+{
+    284.28,288.8
+     It's kind of all over the place, but innurently enough, way at the top.
+},
+{
+    288.8,290.16
+     Yeah, that's where I feel it.
+},
+{
+    290.16,291.32
+     That's where you feel it.
+},
+{
+    291.32,292.32
+     So it could be...
+},
+{
+    292.32,293.88
+     On the right one.
+},
+{
+    293.88,294.88
+     On the right one.
+},
+{
+    294.88,295.88
+     On the right side?
+},
+{
+    295.88,296.88
+     On the right side over here.
+},
+{
+    296.88,299.08
+     I feel like I have a huge knot.
+},
+{
+    299.08,300.08
+     Yes.
+},
+{
+    300.08,303.24
+     Like tension, or I don't know, something bumpled up there.
+},
+{
+    303.24,304.24
+     Yeah.
+},
+{
+    304.24,306.72
+     Now this is actually the perfect shirt for chiropractic
+},
+{
+    306.72,309.36
+     believe it or not.
+},
+{
+    309.36,312.72
+     I think everybody should have these.
+},
+{
+    313.6,317.04
+     It kind of stays natural there.
+},
+{
+    317.36,319.04
+     I'm going to check your entire spine real
+},
+{
+    319.04,335.84
+     carefully okay? Everything looks good there.
+},
+{
+    335.84,339.86
+     So now what I'm going to do is I'm going to start kind of at the bottom here and work
+},
+{
+    339.86,340.86
+     my way up.
+},
+{
+    340.86,349.12
+     And I'm going to feel each individual vertebrae. I'm just looking
+},
+{
+    349.12,353.32
+     to see where the most amount of tension is.
+},
+{
+    355.2,372.16
+     I'm just letting go to the side of the spine.
+},
+{
+    372.16,374.16
+     Is there any tenderness there?
+},
+{
+    374.16,375.16
+     No.
+},
+{
+    375.16,376.16
+     Okay.
+},
+{
+    376.16,377.16
+     And then what about here?
+},
+{
+    377.16,378.16
+     Anything?
+},
+{
+    378.16,379.16
+     Not really.
+},
+{
+    379.16,380.16
+     And then on this side?
+},
+{
+    380.16,381.16
+     Nothing?
+},
+{
+    381.16,382.16
+     No, it's just pressure.
+},
+{
+    382.16,383.16
+     It's just pressure.
+},
+{
+    383.16,384.16
+     Okay.
+},
+{
+    384.16,385.82
+     Now I'm going to do what's called motion palpation. Really? And then on this side. Nothing?
+},
+{
+    385.82,386.66
+     No, it's just pressure.
+},
+{
+    386.66,387.5
+     It's just pressure.
+},
+{
+    387.5,389.86
+     Okay, now I'm gonna do what's called motion palpation.
+},
+{
+    389.86,391.78
+     So I'm gonna have you move your spine
+},
+{
+    391.78,394.14
+     as I'm actually feeling the joints.
+},
+{
+    394.14,395.42
+     So I'm gonna go to the top
+},
+{
+    395.42,397.26
+     and I'm gonna start with the oxaput,
+},
+{
+    397.26,399.02
+     which is the top skull bone.
+},
+{
+    400.46,402.34
+     We're gonna go back and forth.
+},
+{
+    402.34,405.0
+     We're gonna have you go backwards and nod.
+},
+{
+    405.0,408.0
+     Now when I go backwards like that, do you feel tension?
+},
+{
+    408.0,410.0
+     Not really.
+},
+{
+    410.0,412.0
+     It's either a yes or a no, basically.
+},
+{
+    412.0,414.0
+     Look at there.
+},
+{
+    414.0,416.0
+     You feel it there, yeah.
+},
+{
+    416.0,418.0
+     At the right.
+},
+{
+    418.0,421.0
+     And then that one, now that's the second cervical verte,
+},
+{
+    421.0,424.0
+     second bone in your neck, and that does not want to rotate left.
+},
+{
+    424.0,425.16
+     And you feel it on the right. Yeah, second bone in your neck, and that does not want to rotate left.
+},
+{
+    425.16,426.44
+     And you feel it on the right.
+},
+{
+    426.44,428.52
+     Yeah, this is like very tight there.
+},
+{
+    428.52,429.76
+     Very, very tight, yeah.
+},
+{
+    434.08,437.56
+     Yeah, and you notice how it moves better as we go down.
+},
+{
+    437.56,439.76
+     Okay, so let me check the other side now.
+},
+{
+    439.76,442.52
+     Now I'm going to check right rotation.
+},
+{
+    453.88,461.96
+     That's not as bad, but it's still... So C3 is limited there. So it's like a counter rotation. Okay, so let me see what you notice. Okay, what I want
+},
+{
+    461.96,464.96
+     you to do, I'm going to hold your shoulder so you don't cheat, because everybody cheats
+},
+{
+    464.96,466.9
+     they all want to rotate like this just
+},
+{
+    466.9,470.56
+     rotate your head as far to the right as you can go ahead and try that does that
+},
+{
+    470.56,476.72
+     cause any tension in your neck do you feel it as far as you can go yeah do you
+},
+{
+    476.72,480.8
+     feel tension not really okay go this way
+},
+{
+    480.8,488.0
+     tension yep you do so you feel it rotating left, even though more of your pain is on the right.
+},
+{
+    488.0,489.0
+     Okay.
+},
+{
+    489.0,490.0
+     Tilt your head forward for me.
+},
+{
+    490.0,491.0
+     Any discomfort?
+},
+{
+    491.0,492.0
+     No.
+},
+{
+    492.0,493.0
+     Okay.
+},
+{
+    493.0,495.0
+     And then look straight up to the ceiling as high as you can.
+},
+{
+    495.0,496.0
+     Anything there?
+},
+{
+    496.0,497.0
+     No.
+},
+{
+    497.0,498.0
+     No, okay.
+},
+{
+    498.0,500.0
+     So let me make some notes real quick.
+},
+{
+    500.0,502.0
+     So here's the thing.
+},
+{
+    502.0,503.0
+     We see this a lot.
+},
+{
+    503.0,506.64
+     I've been doing chiropractic for a long time. We see this
+},
+{
+    507.36,512.48
+     all the time. Someone just apparently is totally healthy, young, healthy, you're doing everything,
+},
+{
+    512.48,517.12
+     and then all of a sudden you just wake up one morning, right, and you're just trashed. It's
+},
+{
+    517.12,524.32
+     very likely that it wasn't a couple days ago that it started. It's very likely you have some slight
+},
+{
+    524.32,529.18
+     muscle imbalances that are putting some strain on your spine that have been building up
+},
+{
+    529.18,533.5
+     over time and you just don't notice it until one day you wake up and your body
+},
+{
+    533.5,541.66
+     says, right, that's it. We're gonna stop this. Unfortunately we don't know
+},
+{
+    541.66,547.0
+     these things are happening until we actually have a pain somewhere.
+},
+{
+    547.0,550.72
+     So it's very similar to, let's say, smoking cigarettes.
+},
+{
+    550.72,554.56
+     You know, if you smoke cigarettes for 20 years, for 20 years you don't know you're causing
+},
+{
+    554.56,557.4
+     heart disease until one day you're 40.
+},
+{
+    557.4,560.32
+     You have your heart attack and you go, oh, you know.
+},
+{
+    560.32,563.0
+     And most people think it's that last cigarette that did it.
+},
+{
+    563.0,571.52
+     It was cumulative. So for you, it's likely because the way your posture is, you have been developing
+},
+{
+    571.52,575.48
+     some stress in your spine, but you just didn't notice it. Because who notices it?
+},
+{
+    575.48,578.76
+     If it doesn't hurt, you don't notice it happens. Then all of a sudden it just
+},
+{
+    578.76,584.6
+     probably hit a peak and now you're having a problem. And so those
+},
+{
+    584.6,588.16
+     areas that I was touching when I was trying to have you rotate to the left
+},
+{
+    588.16,595.56
+     on the right side, that's an area where in your spine, if you look at these areas, you
+},
+{
+    595.56,597.2
+     see the pink and the black?
+},
+{
+    597.2,598.2
+     Yes.
+},
+{
+    598.2,602.08
+     If I take that vertebrae, I should be able to move it backwards and forwards like that.
+},
+{
+    602.08,604.04
+     It should have movement.
+},
+{
+    604.04,610.2
+     If the joint gets irritated and it starts to get some swelling, you'll feel it when I touch it.
+},
+{
+    610.2,615.72
+     That's what I was doing. And there's actually three areas where I felt that
+},
+{
+    615.72,620.4
+     there was some swelling. The major one was on the right and it limits you
+},
+{
+    620.4,626.84
+     going to the left. So here's the thing. Most of the time we can help
+},
+{
+    626.84,631.08
+     people with this. Most of the time. And it's not a disclaimer, it's just the
+},
+{
+    631.08,636.32
+     reality is if you take a hundred people, if we help eighty, eighty-five percent of
+},
+{
+    636.32,639.8
+     them, that's great, but that means we didn't help fifteen. So we don't know if
+},
+{
+    639.8,644.64
+     we're gonna be able to help you until we try. Alright? The thing is, is that all
+},
+{
+    644.64,646.68
+     the things are in your favor though.
+},
+{
+    646.68,648.76
+     You're young, you're healthy, you're not overweight,
+},
+{
+    648.76,652.18
+     you don't have diabetes, you don't have any other problems
+},
+{
+    652.18,653.16
+     going on.
+},
+{
+    653.16,657.36
+     So usually younger people tend to hail a lot better
+},
+{
+    657.36,660.48
+     and faster than if you were 88 years old
+},
+{
+    660.48,663.24
+     with 20 different drugs and 40 different problems.
+},
+{
+    663.24,664.6
+     Exactly.
+},
+{
+    664.6,666.32
+     So the older you are, the harder
+},
+{
+    666.32,671.32
+     it is to get people better, the less healthy you are, the harder it is to get better. Because
+},
+{
+    671.32,676.84
+     the whole basis of chiropractic is, we're just going to set the motion of your body
+},
+{
+    676.84,680.8
+     healing itself. There's just some things that are just kind of, it's like some important
+},
+{
+    680.8,687.84
+     elmer's glue in your spine. You can't move it. Right, okay. So what we're gonna do is I'm gonna do some muscle treatment first.
+},
+{
+    687.84,690.52
+     I'm gonna try to soften the muscles around the spine.
+},
+{
+    690.52,692.28
+     Then we're gonna do the adjustment.
+},
+{
+    692.28,695.56
+     And then I'm gonna show you a stretch I want you to do at home.
+},
+{
+    695.56,697.44
+     And then we'll do that for today.
+},
+{
+    697.44,700.4
+     Give it a couple days, have your return maybe Friday.
+},
+{
+    700.4,710.88
+     On Friday when you come in, what'll happen is we'll reevaluate the movement of the spine. Okay. and see how it's doing and we'll see how your symptoms are going. Okay? Okay. So here's what we're
+},
+{
+    710.88,719.76
+     going to do. You are going to lie down on your back so you're looking up and here's the thing
+},
+{
+    719.76,728.8
+     when I go through the muscles, you can lie down, I go through the muscles, you don't get any awards for being tough.
+},
+{
+    728.96,731.64
+     Okay, so if I push on your muscles
+},
+{
+    731.64,734.92
+     and you're like, oh, that hurts so good,
+},
+{
+    734.92,736.32
+     that's a good thing.
+},
+{
+    736.32,738.56
+     If I'm pushing on the muscle and you say,
+},
+{
+    738.56,740.64
+     ugh, I don't like this,
+},
+{
+    740.64,743.48
+     then you just speak up and tell me and I'll back off.
+},
+{
+    743.48,745.16
+     But if I'm doing the work on your muscles
+},
+{
+    745.16,747.56
+     and you're like, that's all you got?
+},
+{
+    749.4,751.16
+     I'll know and we push harder.
+},
+{
+    751.16,753.12
+     Okay, so here's what's gonna happen.
+},
+{
+    753.12,754.84
+     I'm just putting some lotion on your,
+},
+{
+    754.84,756.76
+     on the back of your neck.
+},
+{
+    756.76,759.64
+     And we're just gonna go to that sore spot there.
+},
+{
+    759.64,764.64
+     And how's the pressure when I start there?
+},
+{
+    764.88,765.96
+     It's pretty bad, right?
+},
+{
+    765.96,768.36
+     Okay, so I'm gonna back off just a little bit.
+},
+{
+    769.32,771.08
+     I'll get some more motion here.
+},
+{
+    782.88,784.52
+     It's not fun, Herton.
+},
+{
+    784.52,787.1
+     No. That's for sure.
+},
+{
+    787.1,789.0
+     What do you like to do for fun?
+},
+{
+    789.0,791.04
+     Do you like to work out?
+},
+{
+    791.04,792.84
+     Do you have any hobbies?
+},
+{
+    792.84,793.84
+     I do.
+},
+{
+    793.84,797.24
+     I stopped doing yoga, but I was doing yoga.
+},
+{
+    797.24,799.72
+     So you like yoga?
+},
+{
+    799.72,801.24
+     Three times a week.
+},
+{
+    801.24,803.24
+     But with my school work.
+},
+{
+    803.24,806.08
+     Oh, it's getting in the way. That kind of, yeah.
+},
+{
+    806.08,807.08
+     Okay.
+},
+{
+    807.08,809.04
+     So, unfortunately, yoga is one of the best things
+},
+{
+    809.04,812.08
+     you could do for your body.
+},
+{
+    812.08,815.12
+     The problem is, you need time to do it.
+},
+{
+    815.12,815.96
+     Right.
+},
+{
+    815.96,818.06
+     So, I'll tell you what, have you taken yoga a lot?
+},
+{
+    818.06,819.36
+     Have you done yoga a lot?
+},
+{
+    821.36,824.42
+     Two years ago, I was doing it like more often.
+},
+{
+    824.42,827.0
+     Okay. Do you know most of the moves?
+},
+{
+    827.0,828.0
+     Most of them, yeah.
+},
+{
+    828.0,830.0
+     Can you do them correctly?
+},
+{
+    830.0,831.0
+     Say yes.
+},
+{
+    831.0,832.0
+     I guarantee you.
+},
+{
+    832.0,833.0
+     Okay.
+},
+{
+    833.0,841.0
+     What I was going to say is sometimes if you don't have time to do a full class, it's not like an all or nothing.
+},
+{
+    841.0,847.4
+     You could feasibly just do a couple moves a day that can help relax
+},
+{
+    847.4,856.04
+     the tension in your muscles. It's so tight I know. And it may be an option for
+},
+{
+    856.04,860.32
+     you if you just don't have time to do a full class. Yeah I mean I try working out
+},
+{
+    860.32,865.0
+     just a few you know a few weeks a few days out of the week.
+},
+{
+    865.0,866.0
+     At least 30 minutes.
+},
+{
+    866.0,867.0
+     That's good enough.
+},
+{
+    867.0,868.0
+     That's good enough.
+},
+{
+    868.0,869.0
+     Yeah.
+},
+{
+    869.0,870.0
+     Okay.
+},
+{
+    870.0,874.48
+     But if you can knock out like 10 minutes of yoga, that's better than no yoga.
+},
+{
+    874.48,875.48
+     Okay.
+},
+{
+    875.48,877.36
+     So you can just cheer.
+},
+{
+    877.36,883.44
+     Like what I do is I did yoga a lot when I was younger, but I got tired of going to the
+},
+{
+    883.44,884.44
+     classes.
+},
+{
+    884.44,887.64
+     Right. younger but I got tired of going to the classes. So I just cherry pick the
+},
+{
+    887.64,892.52
+     moves that seem to help me the most and if I do a 15-20 minute routine at night
+},
+{
+    892.52,896.96
+     that way I don't have to drive to the class or you know wait for the teacher
+},
+{
+    896.96,900.32
+     to say namaste or at the end of the class namaste and nobody even knows what
+},
+{
+    900.32,905.12
+     that means you know and then some of moves, just I don't find beneficial
+},
+{
+    905.12,907.32
+     and some of them I find really beneficial.
+},
+{
+    907.32,910.02
+     So I just do the ones that help me the most.
+},
+{
+    910.02,912.72
+     So if you find that a certain posture,
+},
+{
+    912.72,916.4
+     or yoga posture helps you and you can't get to a class,
+},
+{
+    916.4,918.12
+     it doesn't mean you have to throw the baby out
+},
+{
+    918.12,921.04
+     of the bathwater, you could just do that move.
+},
+{
+    921.04,922.36
+     Right.
+},
+{
+    922.36,924.96
+     And sometimes it could take 10 minutes to do,
+},
+{
+    924.96,927.2
+     you know, three or four good moves, quality
+},
+{
+    927.2,930.72
+     moves, and you feel fantastic.
+},
+{
+    930.72,931.72
+     Mm-hmm.
+},
+{
+    931.72,932.72
+     You know?
+},
+{
+    932.72,935.2
+     Is that okay with the pressure?
+},
+{
+    935.2,936.2
+     Yeah, it's still...
+},
+{
+    936.2,938.8
+     Is it starting to feel like I'm pressing less hard?
+},
+{
+    938.8,939.8
+     Yeah.
+},
+{
+    939.8,940.8
+     Okay.
+},
+{
+    940.8,943.8
+     I'm not pressing less hard, but it's starting to feel that way.
+},
+{
+    943.8,945.12
+     It's softening up.
+},
+{
+    949.12,950.62
+     Okay, so here's what we're going to do.
+},
+{
+    950.62,952.62
+     Go ahead and sit up for me.
+},
+{
+    954.62,958.62
+     And what we're going to do, we're going to use the chair.
+},
+{
+    960.62,963.62
+     So I'm going to take all your stuff and put it right here.
+},
+{
+    963.62,966.0
+     And you're going to sit here.
+},
+{
+    969.0,971.0
+     Okay, so I'm going to do two adjustments, okay?
+},
+{
+    971.0,972.0
+     Okay.
+},
+{
+    972.0,974.0
+     And I'm going to do them very gently.
+},
+{
+    974.0,980.0
+     If you hear a little noise like that, it's not called cracking the spine.
+},
+{
+    980.0,981.0
+     Just so you're aware.
+},
+{
+    981.0,982.0
+     Okay.
+},
+{
+    982.0,983.0
+     We're not selling you crack.
+},
+{
+    983.0,984.0
+     Don't tell people, you gave me money.
+},
+{
+    984.0,985.36
+     I gave you crack. That type of joke. It's called an adjustment because we're not selling you crack. Don't tell people you gave me money. I gave you crack that type of joke
+},
+{
+    986.32,990.42
+     It's called an adjustment because we're just taking something that's not moving and we're gonna move it well
+},
+{
+    990.42,992.42
+     We're not just randomly
+},
+{
+    992.6,996.56
+     Making noise come out of your spine. Okay, so I'm gonna do this very gentle
+},
+{
+    996.56,1002.34
+     But because I have to touch the area that hurts it may be a little sensitive. Okay, but I'll do it as gentle as I can
+},
+{
+    1004.08,1011.0
+     So the first one we're going to do is the third cervical vertebrae.
+},
+{
+    1011.0,1018.52
+     And what happens is, I'm just going to have you bend just like so.
+},
+{
+    1018.52,1020.32
+     Perfect.
+},
+{
+    1020.32,1021.56
+     Okay.
+},
+{
+    1021.56,1025.0
+     Catch your bearings there. Is that pretty good? Yes.
+},
+{
+    1025.0,1026.0
+     Okay.
+},
+{
+    1026.0,1027.0
+     One more.
+},
+{
+    1027.0,1028.0
+     That feels so good.
+},
+{
+    1028.0,1029.0
+     Isn't that awesome?
+},
+{
+    1029.0,1030.0
+     Yes.
+},
+{
+    1030.0,1031.0
+     Good.
+},
+{
+    1031.0,1032.0
+     All right.
+},
+{
+    1032.0,1033.0
+     One more.
+},
+{
+    1033.0,1034.0
+     Come on over here.
+},
+{
+    1034.0,1036.0
+     There's a table up against the wall.
+},
+{
+    1036.0,1037.0
+     That black thing.
+},
+{
+    1037.0,1041.0
+     And what we're doing is we're going to do a little bit of a little bit of a little bit
+},
+{
+    1041.0,1045.68
+     of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little That feels so good. That was awesome. Yes. Pretty good, though. All right, one more. Come on over here.
+},
+{
+    1045.68,1049.48
+     There's a table up against the wall, that black thing,
+},
+{
+    1049.48,1050.72
+     and what we're going to do.
+},
+{
+    1050.72,1053.12
+     I feel like I was so anxious to do that myself,
+},
+{
+    1053.12,1054.88
+     but obviously I can't.
+},
+{
+    1054.88,1055.36
+     Here's the thing.
+},
+{
+    1055.36,1056.92
+     It's like, I don't know.
+},
+{
+    1056.92,1058.96
+     I didn't even know what's the best way to describe it.
+},
+{
+    1058.96,1062.16
+     It's like, when you have anxiety to pop your knuckles,
+},
+{
+    1062.16,1063.76
+     I hat that with you.
+},
+{
+    1063.76,1064.76
+     That's the feeling that you have.
+},
+{
+    1064.76,1065.52
+     That's the feeling. Yeah. And it's like, oh, I just want to like have my neck.. I had that with you. That's the feeling that you have. That's the feeling.
+},
+{
+    1065.52,1067.72
+     Yeah, and it's like, oh, I just want to like
+},
+{
+    1067.72,1068.56
+     pop my neck.
+},
+{
+    1068.56,1070.9
+     The challenge is, unfortunately, you can't,
+},
+{
+    1070.9,1072.6
+     anyone can pop their own neck.
+},
+{
+    1072.6,1075.0
+     That's the other thing is, anyone can just take
+},
+{
+    1075.0,1077.7
+     their hand right here, grab their hair,
+},
+{
+    1077.7,1078.84
+     and just rip away.
+},
+{
+    1078.84,1080.28
+     You could take towels and wrap around.
+},
+{
+    1080.28,1081.28
+     You could hurt yourself.
+},
+{
+    1081.28,1082.12
+     Oh yeah.
+},
+{
+    1082.12,1083.96
+     See, I think that's my biggest fear.
+},
+{
+    1083.96,1086.92
+     Well, here's the thing, think of it this way. A scalpel. Could you hurt yourself. Oh yeah. See, I think that's my biggest fear. Well, here's the thing, think of it this way.
+},
+{
+    1086.92,1088.36
+     A scalpel.
+},
+{
+    1088.36,1089.84
+     Could you hurt yourself with it?
+},
+{
+    1089.84,1091.64
+     Of course, you could actually cut yourself
+},
+{
+    1091.64,1093.24
+     or burn yourself or do.
+},
+{
+    1093.24,1097.48
+     You could do a lot of damage with a scalpel yourself.
+},
+{
+    1097.48,1101.12
+     But in the hands of a surgeon, it can actually
+},
+{
+    1101.12,1103.88
+     remove disease, cancer and all that stuff.
+},
+{
+    1103.88,1106.64
+     So an adjustment when you know what
+},
+{
+    1106.64,1113.52
+     you're doing is very beneficial. When you try to do it, it doesn't work. Yeah, and actually
+},
+{
+    1113.52,1118.28
+     we do have sometimes occasionally, we had a patient today came in with a little tool
+},
+{
+    1118.28,1126.12
+     they found on eBay. Like can you show me how to use this? And it's just like, you know, one of those, what does it slap my head? S-M-H.
+},
+{
+    1126.12,1126.96
+     Really?
+},
+{
+    1126.96,1130.3
+     Yeah, it's just like, don't do that.
+},
+{
+    1130.3,1132.32
+     People think they can do this themselves.
+},
+{
+    1132.32,1134.12
+     Or we believe everything we see on the internet.
+},
+{
+    1134.12,1136.6
+     On YouTube, yeah, on the internet.
+},
+{
+    1136.6,1138.76
+     But the thing is, you've got that feeling like,
+},
+{
+    1138.76,1141.6
+     God, I wish someone could just pop my neck.
+},
+{
+    1141.6,1143.6
+     But if it's done in the wrong area,
+},
+{
+    1143.6,1145.28
+     or if it's done in the wrong direction, or if it's done in the wrong direction,
+},
+{
+    1145.28,1148.24
+     or if it's done indiscriminately,
+},
+{
+    1148.24,1149.68
+     you could really hurt yourself.
+},
+{
+    1149.68,1151.64
+     So yeah.
+},
+{
+    1151.64,1153.56
+     Put your back right here.
+},
+{
+    1153.56,1154.76
+     And what's going to happen here is I'm
+},
+{
+    1154.76,1157.64
+     going to do something to alter your posture.
+},
+{
+    1157.64,1159.2
+     So your left side was a little higher,
+},
+{
+    1159.2,1161.0
+     so we're going to drop that left side,
+},
+{
+    1161.0,1164.08
+     bring the right side up, and then adjust you.
+},
+{
+    1164.08,1169.52
+     It's going to feel like a bear hug. Okay. Okay. And you're going to put your hand here, and you're going to cover
+},
+{
+    1169.52,1174.8
+     the front, just like this. You're going to tilt your head forward, more forward, just
+},
+{
+    1174.8,1180.32
+     like so. Good. And what I'm going to do is I'm going to just rotate your torso this way,
+},
+{
+    1180.32,1185.44
+     just like so. And then you're going to inhale and then exhale and I'm just going to give you a big hug.
+},
+{
+    1185.44,1186.44
+     Okay?
+},
+{
+    1186.44,1187.44
+     So take a deep breath in.
+},
+{
+    1187.44,1188.44
+     Let the air out.
+},
+{
+    1188.44,1189.44
+     Good.
+},
+{
+    1189.44,1190.44
+     There we go.
+},
+{
+    1190.44,1191.44
+     That was so good.
+},
+{
+    1191.44,1192.44
+     I love it.
+},
+{
+    1192.44,1193.44
+     I know.
+},
+{
+    1193.44,1194.44
+     Love that feeling.
+},
+{
+    1194.44,1195.44
+     I love it.
+},
+{
+    1195.44,1196.44
+     Okay.
+},
+{
+    1196.44,1197.44
+     Sit right here for me.
+},
+{
+    1197.44,1198.44
+     Face that way.
+},
+{
+    1198.44,1199.44
+     And it's not painful.
+},
+{
+    1199.44,1200.44
+     And it's not painful.
+},
+{
+    1200.44,1205.64
+     People think it's painful because sometimes, well for me. Face that way. And it's not painful.
+},
+{
+    1205.64,1207.6
+     And it's not painful.
+},
+{
+    1207.6,1209.72
+     People think it's painful because sometimes, well,
+},
+{
+    1209.72,1210.2
+     here's the thing.
+},
+{
+    1210.2,1212.48
+     It would have been better if you screamed, to be honest.
+},
+{
+    1212.48,1214.4
+     It would have been better if you screamed when,
+},
+{
+    1214.4,1216.76
+     ugh, because we'd get more hits on YouTube.
+},
+{
+    1216.76,1217.56
+     You know what I mean?
+},
+{
+    1217.56,1219.2
+     Or sometimes I feel like people get
+},
+{
+    1219.2,1222.92
+     a missed understanding of the noises of the bit at the table.
+},
+{
+    1222.92,1225.0
+     Oh, the table scares the daylights out of people too.
+},
+{
+    1225.0,1227.0
+     Yeah, because it sounds so loud.
+},
+{
+    1227.0,1232.0
+     And if you're a new patient in that room over there and you hear that thing go off, usually they run.
+},
+{
+    1235.0,1247.0
+     Alright, so let's check now and just see what we find here. Okay.
+},
+{
+    1253.8,1257.52
+     Much better.
+},
+{
+    1257.52,1263.52
+     Yeah, it really changed. Let me see how it moves now, okay?
+},
+{
+    1263.52,1267.66
+     So I'm going to go to that same area, that second cervical vertebrae.
+},
+{
+    1267.66,1270.44
+     I'm going to find it and I'm going to rotate you to the left.
+},
+{
+    1270.44,1273.08
+     I'm going to press fairly firmly on this right side.
+},
+{
+    1273.08,1278.64
+     So I'm going to press in.
+},
+{
+    1278.64,1279.64
+     How's that feel?
+},
+{
+    1279.64,1280.64
+     Okay.
+},
+{
+    1280.64,1282.24
+     Now rotate, I'm going to hold you.
+},
+{
+    1282.24,1285.04
+     Rotate to the left and you might still feel a little tension pull there
+},
+{
+    1285.04,1289.24
+     But see how it feels if you rotate to the left. Yeah, because that was the one that hurt, correct
+},
+{
+    1291.36,1293.36
+     Done the hurt pretty cool
+},
+{
+    1294.6,1298.74
+     Okay, so like I said the the thing to do is to try to reduce the strain on there
+},
+{
+    1298.74,1301.6
+     So if you have a yoga position that you find really helps you
+},
+{
+    1301.6,1306.64
+     I would think that like a warrior pose or something would really kind of just bring you up.
+},
+{
+    1306.64,1307.86
+     Yeah, that type of thing.
+},
+{
+    1307.86,1309.8
+     If your neck is giving you some tension,
+},
+{
+    1309.8,1311.78
+     what you can do is just bend it to the side,
+},
+{
+    1311.78,1313.78
+     hold it for about 30 seconds,
+},
+{
+    1313.78,1315.78
+     go to the other side, bend it 30 seconds,
+},
+{
+    1315.78,1318.66
+     and that'll help the upper trapezius area.
+},
+{
+    1318.66,1321.42
+     And then there's no need to ice it or anything,
+},
+{
+    1321.42,1324.02
+     but if you feel like it's tight,
+},
+{
+    1324.02,1325.9
+     sometimes heat works a little bit better
+},
+{
+    1325.9,1328.66
+     for these types of chronic cases.
+},
+{
+    1328.66,1332.58
+     Cold is usually reserved for like an injury.
+},
+{
+    1332.58,1335.62
+     So if you sprain an ankle, fall off a bike,
+},
+{
+    1335.62,1336.98
+     fall down a flight of stairs,
+},
+{
+    1336.98,1338.9
+     and something's like red and swollen,
+},
+{
+    1338.9,1340.58
+     that's where ice works better.
+},
+{
+    1340.58,1342.98
+     But yours is actually not an injury.
+},
+{
+    1342.98,1347.24
+     Technically speaking, yours is kind of a chronic thing
+},
+{
+    1347.24,1349.68
+     that built up over time and you just kind of slept bunny
+},
+{
+    1349.68,1351.52
+     or did some, and restrained it.
+},
+{
+    1351.52,1353.96
+     I mean, I do feel like you mentioned,
+},
+{
+    1353.96,1358.16
+     I probably use one sign more than the other.
+},
+{
+    1358.16,1361.88
+     So it is probably that I use my right side
+},
+{
+    1361.88,1365.0
+     to say more than the other. Instead of my God.
+},
+{
+    1365.0,1366.0
+     And are you right handed?
+},
+{
+    1366.0,1367.0
+     Yes.
+},
+{
+    1367.0,1368.0
+     Okay.
+},
+{
+    1368.0,1371.0
+     So we'll talk in the future about how to correct and balance it.
+},
+{
+    1371.0,1372.0
+     Some of it is just inherent.
+},
+{
+    1372.0,1374.0
+     You know, that's a thing.
+},
+{
+    1374.0,1375.0
+     All right?
+},
+{
+    1375.0,1376.0
+     Sounds good.
+},
+{
+    1376.0,1376.5
+     Okay, we're all done for today.
+},

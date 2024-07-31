@@ -1,0 +1,148 @@
+{
+    0.0,7.56
+     Sailing irrigation is a high volume low pressure rinse using salt water to rinse
+},
+{
+    7.56,14.32
+     out the nostrils. Dust, bacteria, pollutants, allergens that stick around and
+},
+{
+    14.32,19.2
+     are consistently there and they don't get clear the way can lead to disease
+},
+{
+    19.2,25.94
+     within the sinuses, within the nose. At its very core it's very basic. You mix salt, water, you
+},
+{
+    25.94,30.86
+     make sure you have the appropriate water and device for delivery. There are
+},
+{
+    30.86,34.16
+     different types of devices available for doing saline irrigations and you'll
+},
+{
+    34.16,38.54
+     find many of these over the counter in pharmacies. Some of them are more
+},
+{
+    38.54,41.86
+     sophisticated than others. There are squeeze bottles like this one where you
+},
+{
+    41.86,47.72
+     put the saline solution in there and you squeeze it out of a small hole in the front.
+},
+{
+    47.72,53.8
+     There's also passive irrigation devices such as neti pots where you mix it into a neti pot,
+},
+{
+    53.8,58.72
+     a teapot looking type of a device and you place it sideways into the nose and you allow
+},
+{
+    58.72,63.0
+     gravity to direct the saline and get it into your nasal passages.
+},
+{
+    63.0,67.44
+     Finally, you want to use some salts and these salts can come prepackaged with your saline and get it into your nasal passages. Finally, you want to use some salt and these salts can come pre-packaged with
+},
+{
+    67.44,72.24
+     your saline delivery device or you can use basic table salt, about a
+},
+{
+    72.24,76.08
+     quarter teaspoon of it per cup of water, for eight ounces.
+},
+{
+    76.08,80.24
+     There's a couple of things that are really important in terms of
+},
+{
+    80.24,84.0
+     controlling infection. Number one, you want to use either
+},
+{
+    84.0,85.16
+     previously boiled water.
+},
+{
+    85.16,88.44
+     You want to boil the water for five minutes, let it cool down to room
+},
+{
+    88.44,93.6
+     temperature or body temperature prior to use. Or you can use distilled water
+},
+{
+    93.6,98.52
+     from the store and that also would not contain any microorganisms. You want to
+},
+{
+    98.52,102.84
+     wash your hands before doing the preparation work. In addition to that,
+},
+{
+    102.84,106.0
+     you need to make sure that the delivery device,
+},
+{
+    106.0,111.2
+     whether it's a squeeze bottle, neti pot, what have you, is clean and preferably close to
+},
+{
+    111.2,115.84
+     sterile, if not sterile. When you're ready to use it, you place the device up against
+},
+{
+    115.84,123.12
+     your nose like this and you give it a nice soft squeeze. You want to make sure that the
+},
+{
+    123.12,130.14
+     saline gets up all the way into your nose, hits the back wall and comes out the other side. Start with a small
+},
+{
+    130.14,133.68
+     amount of pressure. Don't overdo it because it can cause discomfort or it
+},
+{
+    133.68,138.4
+     can go into your ears or be forced into the sinuses and cause problems. Do not
+},
+{
+    138.4,143.24
+     be alarmed if despite increasing of the pressure you do not get sailing coming
+},
+{
+    143.24,145.04
+     out the other side of the nose.
+},
+{
+    145.04,149.52
+     As long as you feel the sailing go up all the way to the back of the nose, that means you've
+},
+{
+    149.52,154.64
+     done the job and you'll derive the benefits from it. So it doesn't necessarily have to come out the
+},
+{
+    154.64,160.08
+     other side, although in many cases it does. Once you do one side, then you can switch over the other
+},
+{
+    160.08,165.28
+     side and do the same thing. You can repeat this once, twice daily, or as many times as
+},
+{
+    165.28,169.12
+     recommended by your physician. If it's done properly, it can be very safe and it can be
+},
+{
+    169.12,170.0
+     very beneficial.
+},

@@ -1,0 +1,464 @@
+{
+    0.0,2.6
+     Hi, I'm Dr. Mike Evans.
+},
+{
+    2.6,3.6
+     I'm fair skinned.
+},
+{
+    3.6,5.52
+     I don't really tan.
+},
+{
+    5.52,7.16
+     My freckles just connect.
+},
+{
+    7.16,12.32
+     I sunburned as a kid, but I don't really have a family history of melanoma or lots of moles,
+},
+{
+    12.32,13.92
+     and I've never used a tanning bed.
+},
+{
+    13.92,18.6
+     I'm sharing these personal details because today our topic is melanoma.
+},
+{
+    18.6,24.2
+     Melanoma makes up only 3-5% of skin cancer, yet it accounts for about 75% of the death,
+},
+{
+    24.2,27.54
+     killing one out of eight patients who get the disease.
+},
+{
+    27.54,28.54
+     Melanoma is also on the rise.
+},
+{
+    28.54,32.1
+     It's the fastest growing preventable cancer in North America with the mortality rate
+},
+{
+    32.1,36.4
+     among white people over 65 more than doubling in the past 30 years.
+},
+{
+    36.4,38.06
+     It also kills young people.
+},
+{
+    38.06,42.5
+     Melanoma is the second most common form of cancer for young adults aged 15 to 29, and
+},
+{
+    42.5,46.24
+     the most common cancer for people 25 to 29.
+},
+{
+    46.24,47.72
+     So let's begin with the causes.
+},
+{
+    47.72,51.68
+     Numero uno is UV light, aka sunlight, and its effect on our skin.
+},
+{
+    51.68,55.92
+     And I think the medical profession tends to send mixed messages about sun and health.
+},
+{
+    55.92,57.16
+     So here's my position.
+},
+{
+    57.16,58.68
+     I think it's good to get outside.
+},
+{
+    58.68,60.2
+     In my view, mostly for activity.
+},
+{
+    60.2,64.32
+     We tend to do things outside that are good for our mental health and our quality of life.
+},
+{
+    64.32,68.0
+     What does seem problematic is the cultural construct of intentionally sitting in the sun
+},
+{
+    68.0,72.64
+     in order to get darker, as if that shows you are healthier. You know, it makes me think about my
+},
+{
+    72.64,77.28
+     parents. They used to fly somewhere sunny on holidays and sunbathe for a week, as if how
+},
+{
+    77.28,82.08
+     tan they got reflected the success of the trip. Well, that's changed. Now they go cycling or
+},
+{
+    82.08,86.0
+     exploring somewhere. If they're outside in the sun, they put on some sunscreen and a hat.
+},
+{
+    86.0,91.0
+     They rate the success of their trip based on things they experience or friendships, not how dark they got.
+},
+{
+    91.0,97.0
+     To put this in a less romantic way, when a dermatologist, that's a doctor trained in skin diseases, sees your tan,
+},
+{
+    97.0,100.0
+     he or she actually doesn't see a tan, they see sun damage.
+},
+{
+    100.0,105.8
+     Now, when it comes to the chances of developing melanoma, a lot of the risk factors depend on you.
+},
+{
+    105.8,107.36
+     So, let's start with your skin.
+},
+{
+    107.36,111.44
+     A simple way to think about your skin is to classify it as very fair, fair, all of light
+},
+{
+    111.44,113.44
+     brown, dark brown, or very dark.
+},
+{
+    113.44,118.32
+     You know, likely there's some cultural interpretation here, but if your skin is very fair or fair,
+},
+{
+    118.32,123.36
+     typically with lighter hair and blue eyes, the sun is, in many ways, your adversary.
+},
+{
+    123.36,125.76
+     If your skin is darker, even those burns that turn into
+},
+{
+    125.76,132.0
+     tans raise your risk, but your overall risk is lower. Next is your family history. About 10%
+},
+{
+    132.0,136.48
+     of melanoma is hereditary. If you have a family history, especially when your relative was diagnosed
+},
+{
+    136.48,141.84
+     under 40 years of age, mention this to your care team and take extra precautions. Another consideration
+},
+{
+    141.84,145.76
+     is the amount of moles you have. Once you get over 25 moles,
+},
+{
+    145.76,149.8
+     your risk goes up, especially if the moles are sometimes unusual, such as being bigger
+},
+{
+    149.8,155.18
+     or having a funny shape. An evolving risk factor is the practice of so-called indoor
+},
+{
+    155.18,161.24
+     tanning, so tanning beds, booths, or sun lamps. A recent meta-analysis in the British Medical
+},
+{
+    161.24,169.22
+     Journal calculated that just one indoor tanning session increases your chance of developing melanoma by 20% and each additional session during that same
+},
+{
+    169.22,171.4
+     year boosts the risk almost another 2%.
+},
+{
+    171.4,176.28
+     I must say reviewing the data on this I hadn't realized how common indoor tanning is.
+},
+{
+    176.28,180.44
+     According to the US surveillance data from the CDC up to one third of high school girls
+},
+{
+    180.44,182.44
+     are doing this.
+},
+{
+    182.44,185.74
+     I'm not sure where celebrities stand on this, but the World
+},
+{
+    185.74,189.68
+     Health Organization is pretty clear as they classify tanning beds as a group
+},
+{
+    189.68,194.22
+     one carcinogen alongside tobacco and asbestos. The next step is to understand
+},
+{
+    194.22,198.3
+     what a melanoma looks like. Research tells us that most melanoma is actually
+},
+{
+    198.3,203.16
+     diagnosed by patients and their partners, not their doctors. Yeah baby. In
+},
+{
+    203.16,207.04
+     medicine we use a mnemonic called ABCDE to score mole.
+},
+{
+    208.14,209.3
+     It's definitely not perfect.
+},
+{
+    209.3,211.2
+     And as with other screening strategies,
+},
+{
+    211.2,213.1
+     we see the trade off of false alarms
+},
+{
+    213.1,214.86
+     and unnecessary biopsies
+},
+{
+    214.86,217.08
+     versus the possibility of finding disease earlier
+},
+{
+    217.08,218.48
+     when we have more options.
+},
+{
+    219.56,220.88
+     A stands for asymmetry.
+},
+{
+    220.88,222.08
+     As you can see in this visual,
+},
+{
+    222.08,224.46
+     this is normal, this is asymmetrical.
+},
+{
+    227.28,235.02
+     B stands for border, what we call a variegated border. So think the coast of Great Britain. C stands
+},
+{
+    235.02,240.94
+     for more than one color. D stands for diameter, basically bigger than the eraser on the head
+},
+{
+    240.94,250.64
+     of your pencil or six millimeters equals a higher risk. E stands for evolving. If your mole is changing over time, so enlarging or elevating, an evolving
+},
+{
+    250.64,254.56
+     mole would be the one characteristic that I would see a clinician about by itself.
+},
+{
+    254.56,258.8
+     The research shows this sign is the most concerning. In fact, three times stronger
+},
+{
+    258.8,264.0
+     is a predictor compared to the other signs. If any mole or new spot doubles in size or turns
+},
+{
+    264.0,265.52
+     black in any one or two months period, it's time to get it checked. If any mole or new spot doubles in size or turns black in any one or two months
+},
+{
+    265.52,272.12
+     period, it's time to get it checked. If you're not sure, take a picture.
+},
+{
+    272.12,275.32
+     As you have more of these signs, your risk goes up. So if you have the first three, your
+},
+{
+    275.32,281.68
+     risk of having a positive biopsy result goes from say 5% to 15%. Having said that, most
+},
+{
+    281.68,288.3
+     of the biopsies, where we put in a little freezing, pull off a little skin and send it to the lab, come back showing no problem.
+},
+{
+    288.3,292.1
+     When we look at the science of doing skin checks in partnership with your doctor, there
+},
+{
+    292.1,295.5
+     really hasn't been much quality evidence showing effectiveness of screening.
+},
+{
+    295.5,301.02
+     However, a cohort trial that started in July 2003, but just recently reported, is interesting.
+},
+{
+    301.02,310.06
+     Basically all of the residents of a German state were offered free skin checks for one year. Almost 20% of the population took up the offer. Melanoma detection increased
+},
+{
+    310.06,314.6
+     by 34% during the year of the study. Many of these smaller and thinner than previously
+},
+{
+    314.6,319.28
+     identified. When they followed up with the participants five years after screening, melanoma
+},
+{
+    319.28,326.66
+     mortality was reduced by about 50%. So I'm going to finish off with a little prevention advice.
+},
+{
+    326.66,330.0
+     What we call slip, slop, slap, seek, and slide.
+},
+{
+    330.0,331.4
+     So here it goes.
+},
+{
+    331.4,333.8
+     Slip on some clothing to protect from the sun.
+},
+{
+    333.8,338.56
+     Slop on some SPF 30 sunscreen, but remember, suntan lotion is a double-edged sword.
+},
+{
+    338.56,342.44
+     You know, obviously it's protective, but in some ways it's also a false reassurance.
+},
+{
+    342.44,346.68
+     People who wear sunscreen to stay out in the sun all the time can actually have higher rates of melanoma.
+},
+{
+    346.68,348.12
+     When you do go in the sun,
+},
+{
+    348.12,350.08
+     slop on more than you think and aim to reapply
+},
+{
+    350.08,351.52
+     every two to four hours and sooner
+},
+{
+    351.52,353.56
+     of sweating, swimming, and so on.
+},
+{
+    353.56,356.16
+     Slop on a hat, so much of the skin cancer we see
+},
+{
+    356.16,358.2
+     is on the head, face, and ears.
+},
+{
+    358.2,361.56
+     Seek shade, especially between 10 a.m. and 4 p.m.
+},
+{
+    361.56,364.52
+     and finally protect your eyes, slide on some sunglasses.
+},
+{
+    365.8,371.16
+     In the end, let me give you a not one size fits all message, but one that focuses on high risk. If you're
+},
+{
+    371.16,376.52
+     in your teens or twenties, let's make a deal. You want to look beautiful, I get that. But
+},
+{
+    376.52,380.44
+     let me ask you a question, what's wrong with the skin you were born with? Are you really
+},
+{
+    380.44,388.36
+     going to change it because of an ad campaign or a picture in a magazine? Your skin was actually the healthiest the way it looked when you were a child.
+},
+{
+    388.36,392.16
+     Don't lie down and bake in the sun or a tanning bed, even if you have sunscreen on.
+},
+{
+    392.16,396.24
+     A base tan is not healthy, it's just skin that has been cooked lately.
+},
+{
+    396.24,400.92
+     If you have fair skin and burn like me, take a deep breath and face reality.
+},
+{
+    400.92,403.2
+     You will not tan like your friend with all of skin.
+},
+{
+    403.2,405.58
+     I know it's a drag, but that's life.
+},
+{
+    405.58,410.02
+     We all have our challenges and if having to be a bit more prepared for sunny days is it,
+},
+{
+    410.02,414.9
+     then I think you're doing okay. Maybe being fair is also a special quality as you have a built-in
+},
+{
+    414.9,420.1
+     motivation to protect your skin from aging. Health is often about making small changes to our
+},
+{
+    420.1,425.84
+     habits. Having a spare hat and sun cream in all your places, especially if you're a parent, car,
+},
+{
+    425.84,431.76
+     boat, bag, travel kit, golf bag and so on. Be aware of high risk situations you can't control.
+},
+{
+    431.76,437.36
+     Sitting at or participating in sports events, going on adventures, tell people, hey, I sunburn
+},
+{
+    437.36,444.16
+     easily and I'd prefer not to get skin cancer. Go for walks, play sports, ski, sail, whatever you do,
+},
+{
+    444.16,446.0
+     but be smart about it.
+},
+{
+    446.0,450.72
+     Finally, if you have a mole that is scoring high on the ABCDE scale, especially if a mole
+},
+{
+    450.72,455.48
+     is changing in the last few months, get it checked. It's time to change your thinking,
+},
+{
+    455.48,None
+     not your skin. Hope this helps and take care out there. ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ you
+},

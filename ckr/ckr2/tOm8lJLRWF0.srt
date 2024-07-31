@@ -1,0 +1,96 @@
+{
+    0.0,28.96
+     Hello, I'm Dr. David King, a trauma surgeon at the Massachusetts General Hospital, assistant
+},
+{
+    28.96,32.76
+     professor of surgery at the Harvard Medical School, and a combat surgeon for the United
+},
+{
+    32.76,34.2
+     States Army.
+},
+{
+    34.2,38.34
+     This video is intended to provide instruction on the appropriate way to apply a tourniquet
+},
+{
+    38.34,41.52
+     for massive lower extremity bleeding.
+},
+{
+    41.52,47.0
+     The first step is to identify the wound and loop the tourniquet around the limb one to three inches above the wound.
+},
+{
+    47.0,50.0
+     Importantly, the tourniquet may be placed over clothing.
+},
+{
+    50.0,56.0
+     The second step is to ensure that the tourniquet is looped through the buckle twice.
+},
+{
+    56.0,63.0
+     The third step is to pretension the tourniquet. This is done by vigorously pulling on the free end of the tourniquet
+},
+{
+    63.0,65.0
+     and tightening it such that a finger cannot be interposed between the tourniquet and tightening it such that
+},
+{
+    65.0,70.0
+     a finger cannot be interposed between the tourniquet and the patient's skin.
+},
+{
+    70.0,74.0
+     The fourth step is to twist the windlass up to three times or until there is cessation
+},
+{
+    74.0,76.08
+     of bleeding.
+},
+{
+    76.08,80.18
+     The fifth step is to inspect the wound to ensure there's no ongoing bleeding and to
+},
+{
+    80.18,84.24
+     palpate for a distal pulse which should be absent.
+},
+{
+    84.24,87.2
+     The sixth step is to achieve hemostasis.
+},
+{
+    87.2,90.96
+     Inspect the wound if there is ongoing bleeding, ensure there are three twists in the first
+},
+{
+    90.96,96.16
+     tourniquet and apply a second immediately adjacent to and above the first.
+},
+{
+    96.16,100.28
+     Once the tourniquet is in place, it should be left up and tight until evaluated by a
+},
+{
+    100.28,105.0
+     surgeon at a hospital.
+},
+{
+    108.0,112.0
+     Tourniquets can save lives on the battlefield and in the homeland. This instructional video provides the basic necessary information
+},
+{
+    112.0,115.0
+     to properly apply a tourniquet for a massively bleeding wound.
+},
+{
+    115.0,119.0
+     In my experience, a properly applied tourniquet can save lives.
+},
+{
+    119.0,None
+     This is a skill set that anybody can master, just like the Heimlich Mover or CBR.
+},

@@ -1,0 +1,76 @@
+{
+    0.0,16.64
+     Although scan cancer is one of the most preventable cancers, it's also the most common.
+},
+{
+    16.64,22.4
+     There are more cases of scan cancer each year than all other forms of cancer combined.
+},
+{
+    22.4,24.94
+     Always try to wear SPF 30 or higher.
+},
+{
+    24.94,27.64
+     After prevention, the next best thing is early detection.
+},
+{
+    27.64,29.16
+     Here's how to check yourself each month.
+},
+{
+    29.16,31.12
+     You'll probably need a mirror.
+},
+{
+    31.12,36.12
+     Your face, nose, lips, mouth, ears, and scalp.
+},
+{
+    36.92,41.08
+     Hands and arms between fingers and under finger nails,
+},
+{
+    41.08,44.36
+     up to the wrist and front and back of forearms.
+},
+{
+    44.36,47.36
+     Remember to check in between your fingers and the web space.
+},
+{
+    48.24,55.76
+     Neck, chest and torso. Women should lift breasts to check underneath. Neck, shoulders and upper back.
+},
+{
+    56.8,66.0
+     Lower back, buttocks and backs of legs. And legs, ankles, between toes, under toenails, soles of feet, and heels.
+},
+{
+    67.0,71.0
+     When checking yourself each mom, here's what to look for.
+},
+{
+    71.0,76.0
+     A symmetry, if it's different on each side.
+},
+{
+    78.0,82.0
+     Borders, irregular or ragged edges.
+},
+{
+    84.0,94.94
+     Color, if there's more than one color, diameter if it's larger
+},
+{
+    94.94,108.36
+     than a pencil eraser, elevation if it's grown over an existing mold, but note that some cancers can also be flat
+},
+{
+    108.36,114.04
+     with other ABC characteristics. And don't forget annual dermatology checkups.
+},
+{
+    114.04,119.92
+     Remember, you have the power to prevent aggressively.
+},

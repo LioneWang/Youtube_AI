@@ -1,0 +1,140 @@
+{
+    0.0,12.8
+     In an asthma attack, the muscles of the passages in the lungs go into spasm.
+},
+{
+    12.8,15.96
+     This makes the avian narrow, making it difficult to breathe.
+},
+{
+    15.96,19.56
+     This can be triggered by an allergy, a cold, or smoke.
+},
+{
+    19.56,26.04
+     At other times, someone may have a sudden attack with no obvious trigger. If you think someone is
+},
+{
+    26.04,30.84
+     having an asthma attack, there are five things you may see. They may have difficulty
+},
+{
+    30.84,35.96
+     breathing or speaking, they may be wheezing, they may be coughing a lot, they
+},
+{
+    35.96,41.52
+     may be distressed, anxious, they may have a gray-blue tinge to their lips, the
+},
+{
+    41.52,47.0
+     alobs or the near beds. People with asthma usually know how to deal with their own attacks
+},
+{
+    47.0,49.0
+     by using their believer inhaler,
+},
+{
+    49.0,53.0
+     usually with a blue cap at the first sign of the attack.
+},
+{
+    53.0,58.0
+     But if they don't, or if the attack is severe, you may need to help.
+},
+{
+    60.0,63.0
+     When treating someone having an asthma attack, keep calm.
+},
+{
+    63.0,67.92
+     We assure them and advise them to use their reliever inhaler straight away.
+},
+{
+    67.92,71.44
+     Advise them to use a spacer if they have one.
+},
+{
+    71.44,74.72
+     Amy, use the spacer.
+},
+{
+    82.72,84.72
+     Well done.
+},
+{
+    85.0,91.0
+     Yeah, well done, well done. I attempt to breathe slowly and deeply to help control their breathing.
+},
+{
+    91.0,93.5
+     Sit them down in a comfortable position.
+},
+{
+    93.5,99.34
+     If it doesn't get any better within a few minutes, it may be a severe attack.
+},
+{
+    99.34,104.48
+     Get them to take one or two breaths of the inhale every two minutes until they've had
+},
+{
+    104.48,106.48
+     10 paths.
+},
+{
+    106.48,112.28
+     If this is their first attack, the attack is severe, they're not getting better, they're
+},
+{
+    112.28,119.64
+     getting worse, or they become exhausted, call 999 or 112 for emergency help.
+},
+{
+    119.64,122.6
+     Help them to continue to use the inhale as needed.
+},
+{
+    122.6,127.2
+     Keep checking their breathing, pulse, and level of response.
+},
+{
+    127.2,130.48
+     If they do become unresponsive at any time,
+},
+{
+    130.48,133.16
+     treat a casualty who is unresponsive.
+},
+{
+    135.04,137.8
+     So remember, reassure them.
+},
+{
+    137.8,139.84
+     Help them to use the reliever inhaler.
+},
+{
+    141.04,144.28
+     If the attack is severe, call 999 or 112
+},
+{
+    144.28,147.36
+     for emergency help and monitor their level of
+},
+{
+    147.36,149.2
+     response.
+},
+{
+    149.2,153.72
+     If they become unresponsive, treat as an unresponsive casualty.
+},
+{
+    153.72,158.44
+     And that's how we help someone with an asthma attack.
+},
+{
+    158.44,170.76
+     If this video has been helpful to you, help support St John Ambulance by going to to sj.org.uk forward slash donate.
+},

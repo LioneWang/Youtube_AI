@@ -1,0 +1,124 @@
+{
+    0.0,6.0
+     Good morning, my name is Mr. Noel and today I will be showing you how to change a colostomy bag.
+},
+{
+    6.0,8.0
+     Apply clean gloves.
+},
+{
+    8.0,12.0
+     Remove current ostomy appliance after emptying pouch.
+},
+{
+    12.0,16.0
+     Make sure to save the closure clip if applicable.
+},
+{
+    16.0,21.0
+     Pouches come in one-piece system or a two-piece system that has a wafer.
+},
+{
+    21.0,27.26
+     One-piece systems are changed once bag is 1 third full. Two piece system
+},
+{
+    27.26,33.98
+     should be changed every two to four days or as ordered and emptied when 1 third full.
+},
+{
+    33.98,39.54
+     We will be demonstrating the changing of a two piece system. Dispose of appliance appropriately
+},
+{
+    39.54,45.56
+     in a plastic bag to control odor and contamination. Note character and amount of stool.
+},
+{
+    45.56,47.92
+     Depending on location of ostomy,
+},
+{
+    47.92,50.32
+     stool may be liquid or solid.
+},
+{
+    50.32,52.32
+     Remove gloves and wash hands.
+},
+{
+    55.32,57.12
+     Apply clean gloves.
+},
+{
+    57.12,60.72
+     Clean stoma and skin with warm tap water.
+},
+{
+    60.72,63.28
+     Do not use soap as it can leave a residue
+},
+{
+    63.28,66.0
+     that interferes with pouch adhesion.
+},
+{
+    66.0,69.0
+     Pat dry.
+},
+{
+    70.0,75.0
+     Apply ointment, skin prep, or barrier cream if ordered.
+},
+{
+    75.0,116.42
+     Inspect the stoma the skin surrounding the stoma using measuring guide for appropriate length and width of stoma at base.
+},
+{
+    116.42,119.32
+     Do not touch the card to the skin.
+},
+{
+    119.32,127.64
+     The pouch opening should be no larger than 1 1 1 1 1 inch larger than the stoma size to reduce skin irritation
+},
+{
+    127.74,133.94
+     from chronic exposure to stool. Some flanges have pre-printed guides to help you with this task.
+},
+{
+    135.52,213.76
+     Place gauze pad over stoma while preparing backing of wafer as traced. Remove the paper backing from the pouch adhesive. Apply clean pouch.
+},
+{
+    213.76,218.76
+     Hold your hand onto the appliance for about 2 minutes so the warmth of your hand helps
+},
+{
+    218.76,227.0
+     warm the skin barrier to increase the seal to the client's abdomen.
+},
+{
+    228.2,231.5
+     Fold the bottom of the bag up once and apply clamp.
+},
+{
+    231.5,233.72
+     Remove gloves and wash hands.
+},
+{
+    233.72,237.48
+     Observe the stoma every six to twelve hours or more frequently
+},
+{
+    237.48,239.0
+     if a new stoma.
+},
+{
+    239.0,241.46
+     Thank you for watching Angeles Institute Sims Lab.
+},
+{
+    241.46,242.08
+     Have a great day!
+},

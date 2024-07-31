@@ -1,0 +1,68 @@
+{
+    0.0,2.0
+     Ychydig.
+},
+{
+    2.0,6.0
+     Ychydig yn ddod o'r drwyf yn llwyllwyr.
+},
+{
+    6.0,9.0
+     Mae'n ddod o'r llwyllwyr yn ddod o'r llwyllwyr.
+},
+{
+    9.0,12.0
+     Mae'n ddod o'r llwyllwyr yn ddod o'r llwyllwyr,
+},
+{
+    12.0,17.0
+     oherwydd mae'n ddod o'r llwyllwyr yn ddod o'r llwyllwyr.
+},
+{
+    17.0,19.0
+     Mae'n ddod o'r llwyllwyr,
+},
+{
+    19.0,21.0
+     mae'n ddod o'r llwyllwyr,
+},
+{
+    21.0,23.0
+     mae'n ddod o'r llwyllwyr,
+},
+{
+    23.0,28.0
+     mae'n ddod o'r llwyllwyr, mae'n ddod o'r llallu cyfnodol, ychydig yn ddweud o'r lleidio yma o'r allan o'r rhan o'r rhan o'r rhan o'r llwyffydd,
+},
+{
+    28.0,32.0
+     o'r llwyffydd o'r llwyffydd o'r llwyffydd.
+},
+{
+    32.0,37.0
+     Yn ymddiwch yn ymddiwch, mae'n ddweud o'r llwyffydd, felly mae'n gweithio i'r llwyffydd,
+},
+{
+    37.0,69.76
+     ac mae'n rhan o'r llwyffydd o'r llwyffydd o'r llwyffydd. Mae'r cyfnodol yn ymddiwch, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, oed, o ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymddi, yn ymdweud o'r blodd yn ymddiol. Rydyn ni'n ddweud o'r ddweud o'r blodd yn ymddiol,
+},
+{
+    69.76,73.76
+     ond yn ymddiol, ac yn ymddiol, yn ymddiol, yn ymddiol.
+},
+{
+    74.88,127.22
+     Felly, yma'r ysgrifennu yma yw'r ysgrifennu yma, y gallwn y gallwn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn ymddiol yn y-dweud needed. Okay and then we would also shop something over to keep him warm because
+},
+{
+    127.22,132.18
+     shocks made worse when someone's cold, when someone's in pain and when they're
+},
+{
+    132.18,137.74
+     frightened. So lots of nice reassurance, I need lots more pressure here and I
+},
+{
+    137.74,147.0
+     would get an ambulance on the way. Thank you.
+},

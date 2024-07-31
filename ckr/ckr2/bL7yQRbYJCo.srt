@@ -1,0 +1,284 @@
+{
+    0.0,4.24
+     How do you know if someone is having a stroke?
+},
+{
+    4.24,8.32
+     What are some of the common symptoms and signs that you might want to look out for?
+},
+{
+    8.32,12.48
+     Well, there's something called the fast test that might help you to remember the most
+},
+{
+    12.48,15.8
+     common symptoms and signs of a stroke.
+},
+{
+    15.8,17.4
+     So fast, what does this mean?
+},
+{
+    17.4,19.28
+     Well, for starters, it's a mnemonic.
+},
+{
+    19.28,24.0
+     So we'll sort of delve into each of these letters in a minute, but it's also a bit of
+},
+{
+    24.0,31.12
+     a reference to the need to diagnose strokes really quickly so that they can in turn be treated quickly.
+},
+{
+    31.12,35.92
+     Because remember the longer that treatment is delayed, the longer the person is losing
+},
+{
+    35.92,38.56
+     neurons if they're actually having a stroke.
+},
+{
+    38.56,40.04
+     And let me put it to you this way.
+},
+{
+    40.04,45.42
+     For every minute that blood flow isn't restored to the brain, the person will lose about 2
+},
+{
+    45.42,46.74
+     million neurons.
+},
+{
+    46.74,49.26
+     Wow, that is a lot of neurons.
+},
+{
+    49.26,52.22
+     So fast, not just a mnemonic.
+},
+{
+    52.22,53.94
+     And let's actually just jump right in here.
+},
+{
+    53.94,57.5
+     So again, you want a quick, easy way to tell if someone's having a stroke.
+},
+{
+    57.5,62.38
+     So you can start by having a look for these common signs and symptoms.
+},
+{
+    62.38,65.16
+     So we'll start with the F. The F means face.
+},
+{
+    65.16,69.6
+     Often a person having a stroke won't be able to control their facial muscles as normal,
+},
+{
+    69.6,73.08
+     and they might actually develop drooping of their mouth on one side.
+},
+{
+    73.08,76.96
+     So you can look at their face and check for any asymmetry.
+},
+{
+    76.96,80.46
+     And actually a good way to bring this out is to ask the person to smile.
+},
+{
+    80.46,86.56
+     So they'll try to smile, hopefully, and it might make it easier to look for any drooping on one side.
+},
+{
+    86.56,88.64
+     The A stands for arms.
+},
+{
+    88.64,95.2
+     So for example, since strokes can cause weakness in your limbs, either on one side or on both sides of your body,
+},
+{
+    95.24,100.36
+     it's a nice easy little test to check if the person can raise both their arms.
+},
+{
+    100.36,107.58
+     So if there's some difficulty or inability in raising one or both of their arms then that might suggest a stroke has occurred
+},
+{
+    108.36,111.2
+     now the s the s stands for speech and
+},
+{
+    111.52,117.2
+     Strokes can actually affect areas in the brain responsible for producing speech and understanding speech as well
+},
+{
+    117.2,122.58
+     So the person may have slurred speech or they may not really be able to understand what you're saying to them
+},
+{
+    122.58,126.72
+     So try to get the person talking to see if there are any speech problems.
+},
+{
+    126.72,128.0
+     S for speech.
+},
+{
+    129.0,130.44
+     And T is for time.
+},
+{
+    130.44,135.36
+     So we kind of alluded to this earlier because in situations of suspected strokes,
+},
+{
+    135.36,139.4
+     which are actually medical emergencies, time is really critical.
+},
+{
+    139.4,143.08
+     So if you see any of these signs above, the ones that we sort of just talked about,
+},
+{
+    143.08,147.52
+     the person would need to be taken to a hospital right away.
+},
+{
+    147.52,151.68
+     So just to clarify, what I just mentioned, actually the first three bits of the mnemonic
+},
+{
+    151.68,155.56
+     in particular, these aren't the only symptoms of stroke.
+},
+{
+    155.56,159.3
+     They're just some of the more common ones that let you do a pretty quick check to see
+},
+{
+    159.3,161.88
+     if someone might be having a stroke.
+},
+{
+    161.88,164.32
+     And two last things before we finish up here.
+},
+{
+    164.32,165.28
+     So the first
+},
+{
+    165.28,169.3
+     thing, you can get more than one of these symptoms happening at one time, and you
+},
+{
+    169.3,173.26
+     often actually develop these in combinations. So for example, you might
+},
+{
+    173.26,177.34
+     get the facial weakness and difficulty speaking and trouble moving your limbs
+},
+{
+    177.34,181.66
+     all at once, or you might get two of them, or you might get all of them plus
+},
+{
+    181.66,188.5
+     other symptoms. These are just some of the more common symptoms and they can happen in combination or not.
+},
+{
+    188.5,190.2
+     And the second thing is, well,
+},
+{
+    190.2,192.7
+     we want to know how long these symptoms last, right?
+},
+{
+    192.7,194.7
+     And it kind of depends on what's happening
+},
+{
+    194.7,196.7
+     with the cerebral blood supply, right?
+},
+{
+    196.7,198.7
+     Because remember, stroke is an interruption
+},
+{
+    198.7,200.1
+     in your cerebral blood supply,
+},
+{
+    200.1,202.0
+     the blood supply to your brain
+},
+{
+    202.0,204.4
+     that is severe enough that it actually causes damage
+},
+{
+    204.4,208.08
+     to your brain, right? And the other thing is remember that TIAs and
+},
+{
+    208.08,212.84
+     strokes can have the same initial symptoms. So by knowing how long the
+},
+{
+    212.84,216.76
+     symptoms have lasted that'll sort of help to tease out whether it's a TIA or a
+},
+{
+    216.76,221.68
+     stroke that's going on. And so to further clarify if without treatment these
+},
+{
+    221.68,225.0
+     symptoms go away within about 24 hours,
+},
+{
+    225.0,229.0
+     then that generally means that the blood flow to that blocked off area of brain
+},
+{
+    229.0,231.0
+     has been restored within 24 hours,
+},
+{
+    231.0,236.0
+     which by definition means that a TIA, a transient ischemic attack, has happened,
+},
+{
+    236.0,240.0
+     and ergo, that's what caused the transient symptoms.
+},
+{
+    240.0,245.6
+     So the symptoms will eventually go away when the blood flow is restored within 24 hours, if it's a TIA.
+},
+{
+    246.32,252.96
+     On the other hand, if the blood flow isn't restored within 24 hours, then by definition a stroke has occurred.
+},
+{
+    253.36,259.92
+     And then the symptoms would last longer than 24 hours and they may start to resolve after treatment.
+},
+{
+    260.72,269.12
+     So there's a quick way to assess if someone might be having a stroke, the the fast assessment. And just as a reminder, if you do notice these symptoms,
+},
+{
+    269.12,274.12
+     then the person needs to be taken to a hospital right away.
+},

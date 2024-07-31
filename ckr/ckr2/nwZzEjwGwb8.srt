@@ -1,0 +1,432 @@
+{
+    0.0,3.98
+     Hi everybody, Dr. Cobb back with you this week. Today we're going to talk about
+},
+{
+    3.98,8.26
+     tension and relaxation. Now one of the things we discuss a lot in Z Health is
+},
+{
+    8.26,12.46
+     this idea of mapping. That we have our eyes, our inner ear, and our body and
+},
+{
+    12.46,15.9
+     they're all sending signals to the brain and the brain has tons of different
+},
+{
+    15.9,20.7
+     maps of itself that live within it. And one of the things that we try to discuss
+},
+{
+    20.7,28.88
+     with regularity is that the clearer your maps, the better your movement. Now in traditional RFA, which is the beginning steps of the system, we spend a lot of time
+},
+{
+    28.88,29.88
+     on movement.
+},
+{
+    29.88,31.6
+     You know, can you control your shoulder blade?
+},
+{
+    31.6,32.72
+     Can you control your elbows?
+},
+{
+    32.72,33.72
+     Can you control your wrist?
+},
+{
+    33.72,35.64
+     So we talk about movement mapping.
+},
+{
+    35.64,41.2
+     But movement, if we subdivide it down, is a complex interplay between tension and relaxation,
+},
+{
+    41.2,43.32
+     which means that I need to be able to get tense.
+},
+{
+    43.32,45.44
+     I also need to be able to relax.
+},
+{
+    48.72,49.36
+     And this also plays a big role in strength and sports performance.
+},
+{
+    54.64,60.88
+     Paul Sotsilin probably of Russian kettlebell fame, and now a company called Strong First, Brilliant Teacher, is really popular right now in teaching this idea that tension is strength.
+},
+{
+    61.92,69.12
+     And so we always tell people, hey, you want to be strong, you need to learn how to contract stuff hard. But the converse side of that is if you want to be
+},
+{
+    69.12,73.52
+     comfortable, you also need to learn to relax it well. So we talk a lot about this idea
+},
+{
+    73.52,79.12
+     of having great tension maps and great relaxation maps because those play a big role in the
+},
+{
+    79.12,83.84
+     movement mapping. So what we're going to do today is an exploration of one muscle in the
+},
+{
+    83.84,87.2
+     body. We're going to tense it hard and we're going to relax it hard.
+},
+{
+    87.2,89.2
+     Now, please go carefully.
+},
+{
+    89.2,93.48
+     Because one that we're going to choose is one that usually has big complaints associated
+},
+{
+    93.48,94.48
+     with it.
+},
+{
+    94.48,96.36
+     It's the upper trapezius muscles.
+},
+{
+    96.36,99.72
+     The upper trapezius is this big muscle that lays on top of your shoulder.
+},
+{
+    99.72,103.04
+     It's involved in a lot of different things, particularly controlling your shoulder blade
+},
+{
+    103.04,104.56
+     and your head and neck.
+},
+{
+    104.56,108.0
+     And when you grab someone's shoulder after they've been at work for eight hours and you're rubbing and it's like,
+},
+{
+    108.0,116.0
+     ah, it feels like a brick wall that's usually tension in the upper trapezius, which means that they probably are unable to relax it.
+},
+{
+    116.0,122.0
+     And so the way that we look at this is even if I have an area that's really tight, I probably can't contract it well,
+},
+{
+    122.0,125.32
+     because if I could contract it well well I could also relax it well.
+},
+{
+    125.54,132.68
+     So what we do is we take each muscle that we find like that and we explore all the movements that that muscle contributes to.
+},
+{
+    133.08,138.28
+     And so the upper trap, the upper trapezius does a number of different things. So what we're going to work on first is
+},
+{
+    138.48,140.4
+     contracting it gently.
+},
+{
+    140.4,145.52
+     Please listen gently because otherwise it may cramp and you may send me hate mail and I don't like getting that.
+},
+{
+    145.52,149.68
+     So we're going to do it gently and then we're going to do the reverse of the contraction
+},
+{
+    149.68,152.64
+     to put it under a light stretch.
+},
+{
+    152.64,155.08
+     Notice again the word there, a light stretch.
+},
+{
+    155.08,156.64
+     I want you to go gently with these.
+},
+{
+    156.64,160.0
+     So upper trap does these things and you're going to follow along with me.
+},
+{
+    160.0,164.56
+     Get in a comfortable position and you're going to start by elevating your shoulder blade.
+},
+{
+    164.56,166.6
+     So lift your shoulder blade up.
+},
+{
+    166.6,168.8
+     Now pull your shoulder blade backwards.
+},
+{
+    168.8,172.52
+     Alright, so so far shoulder blade up, shoulder blade back.
+},
+{
+    172.52,174.28
+     Now you're probably feeling some tension in here.
+},
+{
+    174.28,176.2
+     Now we're going to add the head and neck into it.
+},
+{
+    176.2,179.32
+     For the head and neck we're going to tilt the head backwards.
+},
+{
+    179.32,187.92
+     We're going to pull our ear toward that shoulder and then then we're gonna turn our head away. If we didn't kind of bring all of that together,
+},
+{
+    187.92,192.12
+     for two seconds, that is a full contraction
+},
+{
+    192.12,193.56
+     of the upper trapezius.
+},
+{
+    193.56,195.16
+     Now, like I said, you may have actually started
+},
+{
+    195.16,196.0
+     to get some cramping.
+},
+{
+    196.0,197.68
+     If you did, you're going too hard,
+},
+{
+    197.68,199.88
+     so you need to just relax, all right?
+},
+{
+    199.88,201.04
+     So we're gonna do that one more time.
+},
+{
+    201.04,202.64
+     We're gonna switch sides.
+},
+{
+    202.64,204.84
+     And usually the way that I train people in this
+},
+{
+    204.84,207.64
+     is you do two seconds of contraction and then
+},
+{
+    207.64,209.76
+     you reverse each of the movements.
+},
+{
+    209.76,213.28
+     That's what we're going to do on this side to get these stretch.
+},
+{
+    213.28,216.44
+     Once again, for the contraction, we're going to raise the shoulder blade.
+},
+{
+    216.44,219.92
+     We're going to pull the shoulder blade back and we're going to hold that position.
+},
+{
+    219.92,222.12
+     We're then going to tilt our head and neck back.
+},
+{
+    222.12,225.56
+     We're going to tilt our ear toward that shoulder and rotate our head away.
+},
+{
+    225.56,230.16
+     We're going to bring it all together for 1001, 1002, relax.
+},
+{
+    230.16,232.32
+     So from here, we're going to reverse it.
+},
+{
+    232.32,237.64
+     So I'm going to turn my head toward that shoulder, tilt my head away from that shoulder, pull
+},
+{
+    237.64,252.68
+     my shoulder blade down, pull my shoulder blade forward, and then my head forward. And once I'm in this position, I'm going to give five little pulses and relax.
+},
+{
+    252.68,253.68
+     Alright?
+},
+{
+    253.68,258.82
+     Now if you compare the two sides, you did tension on one side and you did tension and
+},
+{
+    258.82,262.48
+     relaxation on the other side, they should be noticeably different.
+},
+{
+    262.48,263.48
+     Okay?
+},
+{
+    263.48,268.96
+     So what we're going to do is we're going to go over here and take care of the poor neglected one, but we're going to do the same process again.
+},
+{
+    268.96,272.48
+     So just because I want you to know this one, all right, so we're going to start with the tension,
+},
+{
+    272.48,276.16
+     we're going to lift the shoulder blade up, we're going to pull it back, we're going to tilt our
+},
+{
+    276.16,281.92
+     head back, tilt our ear toward that side, turn our head away, bring it together for two seconds,
+},
+{
+    281.92,290.04
+     one thousand one, one thousand two, release the tension. So now we reverse it. We turn our head toward that side, tilt our head
+},
+{
+    290.04,295.76
+     away, pull the shoulder blade down, bring the shoulder blade forward, and bend our
+},
+{
+    295.76,306.16
+     head forward and pulse. One, two, three, four, five. Come back up And if you've done this correctly,
+},
+{
+    306.16,307.88
+     what probably you notice immediately
+},
+{
+    307.88,310.48
+     is that your shoulders went whoosh.
+},
+{
+    310.48,312.48
+     They dropped down and started to relax.
+},
+{
+    312.48,315.2
+     This is again an example of how specific
+},
+{
+    315.2,316.52
+     your nervous system is.
+},
+{
+    316.52,317.8
+     When we talk about movement mapping,
+},
+{
+    317.8,320.34
+     movement again is composed of tension and relaxation
+},
+{
+    320.34,322.08
+     and there is a tremendous amount to be learned
+},
+{
+    322.08,326.0
+     by developing this body awareness of what each muscle does.
+},
+{
+    326.0,331.0
+     So, if you like this and you respond really well to it, please let me know.
+},
+{
+    331.0,336.0
+     I will tell you I have seen many, many shoulder problems corrected simply from this one exercise.
+},
+{
+    336.0,340.0
+     I have seen a lot of neck problems correct just from this one exercise.
+},
+{
+    340.0,345.92
+     I have seen lots of office workers go, this one thing made all the difference in my headaches at the end of the day.
+},
+{
+    345.92,347.36
+     So what I encourage you to do, like I said,
+},
+{
+    347.36,349.64
+     is start off with two seconds of contraction
+},
+{
+    349.64,353.4
+     and then five little pulses of relaxation.
+},
+{
+    353.4,356.08
+     Try and do that three to four times each day.
+},
+{
+    356.08,358.88
+     Over time, you'll be able to contract harder
+},
+{
+    358.88,361.36
+     when you're in a tension position
+},
+{
+    361.36,363.56
+     and you'll also be able to relax a little bit more deeply
+},
+{
+    363.56,367.56
+     into that mobilized position or relaxation position over time.
+},
+{
+    367.56,369.84
+     So go carefully, don't hurt yourself.
+},
+{
+    369.84,373.48
+     If you find this useful, please again send me an email, let me know.
+},
+{
+    373.48,376.3
+     That's one muscle out of about 700 in the body.
+},
+{
+    376.3,378.72
+     So if you like this, we can do it more.
+},
+{
+    378.72,380.12
+     But you have to tell me that you enjoyed it.
+},
+{
+    380.12,381.12
+     Alright guys, thanks.
+},
+{
+    381.12,381.36
+     Have a great week.
+},

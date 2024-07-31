@@ -1,0 +1,368 @@
+{
+    0.0,4.8
+     Basal cell carcinomas are usually developed and places with a lot of sun exposure.
+},
+{
+    8.56,12.16
+     Hey there, welcome back to How To Medicaid and welcome to this video on everything you need to
+},
+{
+    12.16,17.28
+     know to check yourself for skin cancer. Most importantly, what are the major types of skin
+},
+{
+    17.28,22.08
+     cancer and how do you recognize them? And as always, I will bore you with a quick introduction.
+},
+{
+    22.08,26.8
+     My name is Rourou, I'm a medical doctor from the Netherlands and I'm making weekly medical videos to educate
+},
+{
+    26.8,31.42
+     myself as well as you, my viewer, because I believe that medically educated people make
+},
+{
+    31.42,34.8
+     a healthier decisions and that's what this channel is all about.
+},
+{
+    34.8,36.4
+     This video also comes with a quick disclaimer.
+},
+{
+    36.4,38.12
+     It's meant purely informational.
+},
+{
+    38.12,39.68
+     This is not medical advice.
+},
+{
+    39.68,44.4
+     And always contact your doctor, especially if you think you might have skin cancer.
+},
+{
+    44.4,45.38
+     Go to your doctor, especially if you think you might have skin cancer. Go to your doctor.
+},
+{
+    45.38,50.52
+     Now I want to start this video off by educating you on the three main types of skin cancer.
+},
+{
+    50.52,54.62
+     Basal cell carcinoma, squamous cell carcinoma and melanomas.
+},
+{
+    54.62,57.66
+     Because if you don't know them, you cannot recognize them.
+},
+{
+    57.66,62.34
+     These different cancers are named after the cells in which they are developing and carcinoma,
+},
+{
+    62.34,65.12
+     as you might have guessed guessed is Latin for cancer.
+},
+{
+    65.12,69.88
+     In this picture you see where the basal cells, squamous cells and melanocytes are located
+},
+{
+    69.88,70.88
+     in your skin.
+},
+{
+    70.88,73.32
+     Now let's take a closer look at each of these cancers.
+},
+{
+    73.32,78.16
+     Now we start off with the most common form of skin cancer, a basal cell carcinoma but
+},
+{
+    78.16,81.04
+     luckily this is the least dangerous one.
+},
+{
+    81.04,89.6
+     Grows very slowly and it spreads very rarely which makes it very easily treatable and not that deadly. Basal cell carcinomas are usually developed in
+},
+{
+    89.6,94.6
+     places with a lot of sun exposure so your arms, your head, your torso, these
+},
+{
+    94.6,98.72
+     kinds of places as exposure of ultraviolet rays can increase your
+},
+{
+    98.72,102.8
+     chances on developing a basal cell carcinoma. And now then the most burning
+},
+{
+    102.8,105.28
+     question how can you recognize them?
+},
+{
+    105.28,110.28
+     Here I am showing you some examples of a basal cell carcinoma that may appear as a painless
+},
+{
+    110.28,113.8
+     raised area of skin, looking dry and scaly.
+},
+{
+    113.8,119.24
+     Can be called red or pale and as it drives it may appear ulcerated or look like a sore.
+},
+{
+    119.24,124.16
+     And lastly if you look very closely you can see small blood vessels running over it.
+},
+{
+    124.16,125.82
+     Next up squamous cell carcinomas.
+},
+{
+    125.82,128.96
+     And luckily, they are more rare than a basal cell carcinoma
+},
+{
+    128.96,131.26
+     because they develop a little more quickly
+},
+{
+    131.26,133.02
+     and they can spread more easily.
+},
+{
+    133.02,135.86
+     This makes them harder to treat and more dangerous.
+},
+{
+    135.86,137.98
+     It usually develops over several months,
+},
+{
+    137.98,139.58
+     but if you recognize it early,
+},
+{
+    139.58,141.1
+     your chances improve vastly
+},
+{
+    141.1,143.22
+     and the prognosis is usually good.
+},
+{
+    143.22,145.04
+     And helping you to do so is the whole point of
+},
+{
+    145.04,151.76
+     this video so please leave a like for me trying to save your life. Now let's get back to the
+},
+{
+    151.76,156.88
+     question how do you recognize a squamous cell carcinoma? It usually looks like a slow growing
+},
+{
+    156.88,162.48
+     hot lump with raised edges and a scaly top. It can also lie below the level of your normal skin
+},
+{
+    162.48,166.4
+     and as it grows can evolve in an ulcer or a reddish skin plaque
+},
+{
+    166.4,173.1
+     that bleeds very easily and frequently and again if you take a very close look it is covered with tiny blood vessels.
+},
+{
+    173.1,181.4
+     As with basal cell carcinomas exposure to UV radiation of the sun can greatly increase your chances on developing a squamous cell carcinoma.
+},
+{
+    181.4,187.96
+     Therefore they are found most often in sun exposed areas, the back of your hand, scalp, lip and torso.
+},
+{
+    187.96,189.96
+     Lastly, we will cover melanomas,
+},
+{
+    189.96,192.32
+     the most dangerous form of skin cancer.
+},
+{
+    192.32,194.96
+     It grows very fast, it spreads very early
+},
+{
+    194.96,196.92
+     and therefore it's very dangerous.
+},
+{
+    196.92,200.92
+     Melanomas develop pigment producing cells called melanocytes
+},
+{
+    200.92,202.8
+     and if undetected and untreated,
+},
+{
+    202.8,205.44
+     they can be deadly within just a few months.
+},
+{
+    205.44,210.04
+     And a melanoma might be developed at parts of your body not normally exposed to sunlight
+},
+{
+    210.04,215.4
+     but as with the previous skin cancers exposure to ultraviolet rays might increase your likelihood
+},
+{
+    215.4,217.08
+     to actually developing it.
+},
+{
+    217.08,221.84
+     Now then the most important question how can you recognize a melanoma and to do this properly
+},
+{
+    221.84,225.06
+     you first need to learn how to recognize a normal healthy mole.
+},
+{
+    225.06,231.54
+     Moles, also called nevus or nevus cells, are a type of benign which means non-cancerous tumor.
+},
+{
+    231.54,237.06
+     These are a type of skin cell containing a lot of pigment. This explains why moles are often brown or black.
+},
+{
+    237.06,241.12
+     Now usually you're born with several moles. This is determined genetically.
+},
+{
+    241.12,248.28
+     However, they may also appear randomly during your lifetime And for this there seems to be no specific trigger. Here it is important to
+},
+{
+    248.28,252.28
+     know that normal moles can have various sizes and characteristics. They can be
+},
+{
+    252.28,256.88
+     brown or black, hairless or with a lot of hairs, flat or as a bump on your skin,
+},
+{
+    256.88,260.92
+     but usually they're around. And from here it's quite simple to recognize a
+},
+{
+    260.92,265.24
+     melanoma. If your mole changes in appearance, if it becomes larger,
+},
+{
+    265.24,269.76
+     if it changes in color, if it starts bleeding, or if it becomes painful, then you should
+},
+{
+    269.76,274.4
+     contact your doctor. You could also use the following acronym to detect melanomas early
+},
+{
+    274.4,278.92
+     A, B, C, D, E, F, which I would trust you remember.
+},
+{
+    278.92,283.72
+     A stands for asymmetry and as I told you, normal moles should be round. B stands for
+},
+{
+    283.72,286.6
+     borders, are there any irregularities, edges, colonos, moles should be round. B stands for borders. Are there any irregularities?
+},
+{
+    286.6,287.6
+     Edges?
+},
+{
+    287.6,288.6
+     Colonies?
+},
+{
+    288.6,289.6
+     There should be none.
+},
+{
+    289.6,290.6
+     C stands for colors.
+},
+{
+    290.6,293.84
+     Does your mole have multiple colors which it did not have before?
+},
+{
+    293.84,295.64
+     Like red, white or black?
+},
+{
+    295.64,296.64
+     D stands for diameter.
+},
+{
+    296.64,299.76
+     If your mole becomes larger than 6 millimeters.
+},
+{
+    299.76,301.88
+     E stands for revolving over time.
+},
+{
+    301.88,303.2
+     Does your mole change?
+},
+{
+    303.2,305.84
+     An F stands for funny looking, which basically means
+},
+{
+    305.84,310.48
+     that if your mole starts to look funny, then get it checked out. Now I hope this video was clear
+},
+{
+    310.48,315.52
+     and I hope you know now how to check yourself for skin cancer. Please share this video with someone
+},
+{
+    315.52,320.64
+     you know that might benefit from it as well. Because together we can become more medically
+},
+{
+    320.64,327.92
+     educated and live healthier, which is the whole point of my channel. And for those of you wanting to learn more on skin related problems or drugs,
+},
+{
+    327.92,331.84
+     check out the playlist I made in the description. For the more, don't forget to
+},
+{
+    331.84,335.0
+     leave a like to this video. This will help out the channel tremendously and
+},
+{
+    335.0,338.84
+     consider subscribing so you never miss such an awesome medical video again. And
+},
+{
+    338.84,342.48
+     as always, I will see you next week. Bye bye!
+},

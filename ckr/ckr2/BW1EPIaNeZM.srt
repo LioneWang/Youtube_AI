@@ -1,0 +1,88 @@
+{
+    0.0,16.34
+     Okay, so what we're going to work on is memory right now.
+},
+{
+    16.34,20.58
+     So what we're going to do is we're going to match just the colors and the correct number
+},
+{
+    20.58,21.74
+     with the color.
+},
+{
+    21.74,23.82
+     Okay, color and number.
+},
+{
+    23.82,26.0
+     Don't worry about the suit. Okay?
+},
+{
+    26.0,29.0
+     Alright. You ready?
+},
+{
+    35.0,39.0
+     So I got a guess. You got a guess? And then just remember where everything is.
+},
+{
+    39.0,42.0
+     Oh. That's pure luck.
+},
+{
+    42.0,45.28
+     Alright. Keep on going.
+},
+{
+    55.68,56.0
+     Nice.
+},
+{
+    61.6,65.72
+     This brings up the difficulty. Okay? Everything is not in line.
+},
+{
+    65.72,69.72
+     There's more cards and you have to try and remember exactly where everything is.
+},
+{
+    69.72,70.72
+     Okay?
+},
+{
+    70.72,72.12
+     All right?
+},
+{
+    72.12,75.48
+     Let me know if you can reach that one you need to get up here over here.
+},
+{
+    75.48,77.48
+     Okay?
+},
+{
+    77.48,79.48
+     Good?
+},
+{
+    79.48,83.24
+     Oh, no kidding.
+},
+{
+    83.24,90.0
+     Yep. You can stack them and put them on the side.
+},
+{
+    90.0,134.88
+     Beautiful. You're memory is definitely improved. Yeah, do you remember what the rule was?
+},
+{
+    134.88,139.36
+     Oh, yes.
+},
+{
+    139.36,172.0
+     Okay, so only flip them, you can't move them. Good.
+},

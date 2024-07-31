@@ -1,0 +1,1448 @@
+{
+    0.0,5.0
+     Bob and Brad, the two most famous physical therapists
+},
+{
+    6.72,8.04
+     on the internet.
+},
+{
+    11.08,13.04
+     Hi folks, I'm Bob Schrupp, physical therapist.
+},
+{
+    13.04,14.12
+     Brad Heineck, physical therapist.
+},
+{
+    14.12,15.72
+     Together we are the most famous physical therapists
+},
+{
+    15.72,16.56
+     on the internet.
+},
+{
+    16.56,17.4
+     Let's get the energy going.
+},
+{
+    17.4,18.24
+     Let's get the energy going.
+},
+{
+    18.24,20.32
+     Oh, and our pain in a course, Bob!
+},
+{
+    20.32,21.4
+     There we go.
+},
+{
+    21.4,26.32
+     10 ways to reduce knee, calf and ankle swelling and pain.
+},
+{
+    26.32,30.0
+     This is unfortunately a part of sometimes aging,
+},
+{
+    30.0,32.48
+     sometimes different processes can be going on
+},
+{
+    32.48,33.8
+     that cause swelling.
+},
+{
+    33.8,35.8
+     And obviously you need to check with your doctor
+},
+{
+    35.8,39.48
+     if this is new and you don't know what's causing it.
+},
+{
+    39.48,40.32
+     Right.
+},
+{
+    40.32,41.24
+     I mean, if you sprained your ankle,
+},
+{
+    41.24,42.84
+     these could work as well,
+},
+{
+    42.84,44.72
+     depending on what phase of injury is.
+},
+{
+    44.72,47.12
+     But by the way, if you're new to our channel,
+},
+{
+    47.12,48.7
+     please take a second to subscribe to us.
+},
+{
+    48.7,50.24
+     We provide videos on how to stay healthy,
+},
+{
+    50.24,52.36
+     fit, pain-free, and we upload every day.
+},
+{
+    52.36,53.8
+     Dun, dun, dun, dun.
+},
+{
+    53.8,56.48
+     By the way, if you go to bobandbrad.com,
+},
+{
+    56.48,57.72
+     go to the giveaway section.
+},
+{
+    57.72,60.48
+     You'll find out we're always doing a giveaway contest.
+},
+{
+    60.48,62.84
+     This week, we're giving away a booyah stiiiit!
+},
+{
+    62.84,63.68
+     Booyah!
+},
+{
+    63.68,65.96
+     And you're gonna find out, you can use this thing
+},
+{
+    65.96,67.32
+     for a lot of different problems,
+},
+{
+    67.32,68.88
+     especially like shoulder issues.
+},
+{
+    68.88,70.44
+     It really works well for that.
+},
+{
+    70.44,74.2
+     Go to our Facebook page, Bob and Brad,
+},
+{
+    74.2,76.76
+     and you'll find the contest pinned to the top of the page.
+},
+{
+    76.76,79.0
+     Go to Twitter, Instagram or TikTok,
+},
+{
+    79.0,82.48
+     and you'll find a 60 second version of our program.
+},
+{
+    82.48,83.36
+     There you go, Bob.
+},
+{
+    83.36,86.5
+     Okay, 10 ways to reduce the swelling and pain
+},
+{
+    86.5,87.44
+     that you're having.
+},
+{
+    87.44,90.78
+     Oftentimes, if you have swelling, there's pain.
+},
+{
+    90.78,92.36
+     If there's pain, they're swelling.
+},
+{
+    92.36,94.84
+     They go together very, you know, more than that.
+},
+{
+    94.84,96.76
+     You can also get skin breakdown.
+},
+{
+    96.76,98.68
+     I mean, you can get weeping.
+},
+{
+    98.68,100.64
+     You can actually get fluid buildup.
+},
+{
+    100.64,102.68
+     When you got that edema that's really swelling up,
+},
+{
+    102.68,104.12
+     literally like a balloon.
+},
+{
+    104.12,105.6
+     It can get that bad.
+},
+{
+    105.6,107.68
+     So we're gonna show you some techniques,
+},
+{
+    107.68,110.34
+     five of them in the seated position,
+},
+{
+    110.34,112.32
+     and five in the standing position,
+},
+{
+    112.32,114.6
+     depending on what you're doing with your work
+},
+{
+    114.6,116.32
+     or at home duties.
+},
+{
+    116.32,120.16
+     So first one, sitting down, this is really critical.
+},
+{
+    120.16,122.04
+     You really have to address this
+},
+{
+    122.04,125.44
+     as the height of your chair or your feet,
+},
+{
+    125.44,129.94
+     we wanna set it up so that the edge of the chair right here
+},
+{
+    129.94,132.68
+     does not push in to your hamstrings
+},
+{
+    132.68,134.62
+     or the back of your thigh.
+},
+{
+    134.62,138.68
+     Because if I sit like this and I'm going forward,
+},
+{
+    138.68,142.48
+     that edge is pushing in and that's literally
+},
+{
+    142.48,145.0
+     restricting flow of that swelling.
+},
+{
+    145.42,149.06
+     The swelling has to come back up to your lymph nodes
+},
+{
+    149.06,151.74
+     as well as your venous return.
+},
+{
+    151.74,154.22
+     And if that is limiting that.
+},
+{
+    154.22,155.18
+     It's cutting it off.
+},
+{
+    155.18,156.02
+     It is.
+},
+{
+    156.02,156.86
+     It's like a tourniquet.
+},
+{
+    156.86,157.94
+     It's cut off, pressure.
+},
+{
+    157.94,159.34
+     It's like a half a tourniquet.
+},
+{
+    159.34,162.9
+     So we need to change your posture.
+},
+{
+    162.9,166.04
+     You can either raise the seat or lower it.
+},
+{
+    166.04,167.52
+     You know, if you just get a cushion,
+},
+{
+    167.52,171.0
+     this is a cushion that we use about two inches,
+},
+{
+    171.0,173.18
+     and it makes the seat more comfortable.
+},
+{
+    173.18,174.48
+     And that might be a-
+},
+{
+    174.48,177.2
+     You can see that cut, that eliminated the cutoff pressure.
+},
+{
+    177.2,179.04
+     Right, exactly.
+},
+{
+    179.04,182.36
+     It might be, if you're, you can't change that,
+},
+{
+    182.36,186.6
+     you might wanna put something under your feet to raise it up so you can get,
+},
+{
+    186.6,189.28
+     you should be able to get your fingers underneath here.
+},
+{
+    189.28,191.0
+     And then you know you have adequate.
+},
+{
+    191.0,193.28
+     The other thing, this is kind of on the fly here, Brad,
+},
+{
+    193.28,196.24
+     because it wasn't part of your board.
+},
+{
+    196.24,197.64
+     I'll let it go, Bob.
+},
+{
+    197.64,200.36
+     You really wanna have your knees not bent back like this.
+},
+{
+    200.36,203.28
+     This even cuts off pressure, you know, a little bit too.
+},
+{
+    203.28,204.32
+     That's an excellent point.
+},
+{
+    204.32,206.8
+     You're better off having your legs,
+},
+{
+    206.8,208.4
+     this is better for your knees too by the way.
+},
+{
+    208.4,209.24
+     Sure.
+},
+{
+    209.24,212.0
+     As you get older, these are things you gotta think about.
+},
+{
+    212.0,213.32
+     It's actually better to have your legs
+},
+{
+    213.32,214.6
+     a little bit straighter than bent.
+},
+{
+    214.6,215.92
+     I always tell my patients,
+},
+{
+    215.92,218.04
+     imagine a garden hose when you kick it,
+},
+{
+    218.04,221.12
+     it reduces the circulation, same thing with your knees.
+},
+{
+    221.12,222.84
+     That's the good analogy.
+},
+{
+    222.84,224.72
+     Okay, the next thing you can do,
+},
+{
+    224.72,227.72
+     once you know you have good circulation under the calves
+},
+{
+    227.72,230.3
+     is simply ankle pumps.
+},
+{
+    230.3,232.8
+     Up and down, 10 to 20 of them.
+},
+{
+    232.8,234.56
+     And make sure you pull them up good and far.
+},
+{
+    234.56,235.96
+     Stretch those calves out.
+},
+{
+    235.96,238.3
+     So what we're doing is we're working the muscles here.
+},
+{
+    238.3,242.28
+     That's the natural way to act as a pump
+},
+{
+    242.28,244.0
+     to pump that fluid out.
+},
+{
+    244.0,245.64
+     Sure, own body's natural pump.
+},
+{
+    245.64,248.24
+     That's trying to get that fluid back up into the abdomen
+},
+{
+    248.24,251.28
+     where it can be processed and you can pee it out.
+},
+{
+    251.28,252.64
+     Yeah, exactly.
+},
+{
+    252.64,256.96
+     And the other thing is we're gonna do long arc quads or kicks.
+},
+{
+    256.96,259.8
+     And this not only helps with the muscle contraction
+},
+{
+    259.8,262.6
+     of the fluid, but if you do have pain in your joints,
+},
+{
+    262.6,265.46
+     there's a very good chance that the pain is
+},
+{
+    265.46,268.24
+     from lack of motion in the joints.
+},
+{
+    268.24,270.2
+     So we not only wanna increase circulation,
+},
+{
+    270.2,271.96
+     but get the joints moving.
+},
+{
+    271.96,274.24
+     And about 10 on each leg would be perfect.
+},
+{
+    274.24,276.28
+     So I guess it's pretty difficult, Brad,
+},
+{
+    276.28,278.08
+     to go up further and do butt squeezes,
+},
+{
+    278.08,280.56
+     because that's what we have you do in bed.
+},
+{
+    280.56,281.4
+     Right.
+},
+{
+    281.4,282.76
+     If you're lying down in bed.
+},
+{
+    282.76,285.28
+     Well, Bob, the title says knee, calf and ankle. We're not talking about the butt. No, but we're trying to push the floor. I know, I down in bed. Well Bob, the title says knee, calf and ankle.
+},
+{
+    285.28,286.76
+     We're not talking about the butt.
+},
+{
+    286.76,288.52
+     No, but we're trying to push the floor.
+},
+{
+    288.52,289.76
+     I know, I'm just kidding.
+},
+{
+    289.76,291.16
+     We're trying to push the floor all the way up.
+},
+{
+    291.16,292.48
+     You can get up this high.
+},
+{
+    292.48,294.84
+     Now you want to use the butt to push it up harder.
+},
+{
+    294.84,296.64
+     Right, the kebab is exactly right.
+},
+{
+    296.64,299.12
+     That the lymph goes up and it actually goes back
+},
+{
+    299.12,301.6
+     into the system, above the belt line.
+},
+{
+    301.6,303.84
+     So that is helpful as well.
+},
+{
+    303.84,305.92
+     Now, the other thing that you can do
+},
+{
+    305.92,310.64
+     is get a device or something so you can get your feet moving,
+},
+{
+    310.64,314.0
+     whether if you're at a desk or just sitting at a table.
+},
+{
+    314.0,317.76
+     I'm gonna show a device that we started out with years ago
+},
+{
+    317.76,319.96
+     with a lot of our patients.
+},
+{
+    319.96,321.8
+     It's one of these literally ellipticals.
+},
+{
+    321.8,323.68
+     This is called the end motion.
+},
+{
+    323.68,326.32
+     And you can put your feet on there
+},
+{
+    326.32,327.88
+     and you just start the pedal.
+},
+{
+    327.88,330.72
+     You get some ankle, you get some knee range emotion
+},
+{
+    330.72,334.48
+     and you get some exercise, muscle contraction,
+},
+{
+    334.48,337.4
+     doing everything we want as well.
+},
+{
+    337.4,339.28
+     I had a patient Brad's that
+},
+{
+    339.28,341.4
+     and we use this a lot in the clinic too.
+},
+{
+    341.4,346.28
+     I mean, a lot of our elderly patients use these.
+},
+{
+    346.6,349.98
+     But this alone control the swelling
+},
+{
+    349.98,351.56
+     because he would do it every day.
+},
+{
+    351.56,353.12
+     And if he didn't do it,
+},
+{
+    353.12,355.6
+     he'd get some puffiness in his leg.
+},
+{
+    355.6,358.8
+     There's a couple of disadvantages to this particular model.
+},
+{
+    358.8,362.28
+     The number one thing is that it weighs about 40 pounds.
+},
+{
+    362.28,363.12
+     Oh, it's a beast.
+},
+{
+    363.12,364.8
+     It is really heavy.
+},
+{
+    364.8,367.64
+     It's just a beast like Bob says to move.
+},
+{
+    367.64,368.98
+     Ah.
+},
+{
+    368.98,369.82
+     So.
+},
+{
+    369.82,371.14
+     Ah.
+},
+{
+    371.14,371.98
+     Bob.
+},
+{
+    371.98,373.76
+     Yeah, well I'm not exaggerating.
+},
+{
+    373.76,376.4
+     I don't like lifting them.
+},
+{
+    376.4,378.8
+     So there is another device that's called a knee glide,
+},
+{
+    378.8,379.64
+     which only weighs.
+},
+{
+    379.64,380.48
+     A fit glide.
+},
+{
+    380.48,381.32
+     Fit glide, I'm sorry.
+},
+{
+    381.32,383.28
+     It's so close to the knee glide.
+},
+{
+    383.28,386.68
+     But it weighs about less than five pounds.
+},
+{
+    386.68,388.36
+     Look at this, Brad, I gotta do this.
+},
+{
+    388.36,389.2
+     Oh, Bob, good little finger.
+},
+{
+    389.2,390.88
+     I love doing this, yep.
+},
+{
+    390.88,393.44
+     So, you can do fit with curls with it.
+},
+{
+    393.44,395.72
+     Now you can grab it by this handle,
+},
+{
+    395.72,396.6
+     it's a little more awkward,
+},
+{
+    396.6,399.24
+     but you can also grab it by this one.
+},
+{
+    399.24,400.4
+     It does slam down like that,
+},
+{
+    400.4,402.96
+     but it works well for carrying around.
+},
+{
+    402.96,405.16
+     It works best just to carry her like this.
+},
+{
+    405.16,406.52
+     Sure.
+},
+{
+    406.52,409.64
+     So anyways, we're gonna put this down
+},
+{
+    409.64,411.88
+     and this is a really nice thing to do.
+},
+{
+    411.88,414.64
+     And you can use this under the desk, at home,
+},
+{
+    414.64,416.32
+     in a wheelchair, both of these,
+},
+{
+    416.32,419.32
+     if you are in a wheelchair, it works very well.
+},
+{
+    419.32,420.84
+     If it's a little bit too loud for you,
+},
+{
+    420.84,422.68
+     cause it makes a swish-wish sound,
+},
+{
+    422.68,424.3
+     what you can do is you can actually
+},
+{
+    424.3,425.36
+     put a little silicone
+},
+{
+    425.36,427.96
+     on it, and it, she really slides in.
+},
+{
+    427.96,431.9
+     So, but this is a great exercise device
+},
+{
+    431.9,434.12
+     for mom, dad, grandma, grandpa.
+},
+{
+    434.12,434.96
+     You know what I mean?
+},
+{
+    434.96,435.8
+     All right.
+},
+{
+    435.8,437.92
+     I've, you know, this is one of those things that,
+},
+{
+    437.92,440.96
+     I had a person, you said his desk.
+},
+{
+    440.96,441.8
+     Sure.
+},
+{
+    441.8,443.14
+     Underneath, he had the knee glide, same thing,
+},
+{
+    443.14,446.64
+     but with one knee, And he loved it.
+},
+{
+    446.64,447.88
+     So very good.
+},
+{
+    447.88,450.0
+     Again, five to 10 minutes, you'll know,
+},
+{
+    450.0,451.16
+     because you'll get tired.
+},
+{
+    451.16,453.68
+     And then you do that three times a day or so
+},
+{
+    453.68,455.64
+     with either one of those devices.
+},
+{
+    455.64,457.96
+     All right, next thing you can do.
+},
+{
+    457.96,462.32
+     Now this is something I'm gonna throw at you, but with...
+},
+{
+    462.32,464.52
+     You probably wanna talk to your doctor about this
+},
+{
+    464.52,467.72
+     and you might even be measured for compression socks.
+},
+{
+    467.72,468.56
+     Is that what you're gonna-
+},
+{
+    468.56,469.52
+     It's a compression sock.
+},
+{
+    469.52,471.2
+     There's a lot of different varieties,
+},
+{
+    471.2,475.4
+     but Bob says talk to your doctor first, get fitted.
+},
+{
+    476.2,480.2
+     It's helpful to have a little more compression
+},
+{
+    480.2,483.08
+     around the foot and ankle than up around by the knee.
+},
+{
+    483.08,485.52
+     That way it pushes the fluid upwards.
+},
+{
+    485.52,488.0
+     Yeah, a good compression sock will actually
+},
+{
+    488.0,490.8
+     kind of have a gradient, right?
+},
+{
+    490.8,492.16
+     Yeah, that's a good word for them.
+},
+{
+    492.16,494.48
+     Well, actually put a little more stress
+},
+{
+    494.48,497.04
+     and pressure down here and less as you go up.
+},
+{
+    497.04,498.68
+     Yeah, exactly.
+},
+{
+    498.68,500.6
+     That's why I don't like really Ted stockings
+},
+{
+    500.6,502.64
+     because they don't seem to be made that way.
+},
+{
+    502.64,504.92
+     They actually can cut off pressure here sometimes.
+},
+{
+    504.92,505.92
+     Yeah, yeah.
+},
+{
+    505.92,510.0
+     So again, compression stocks are an option,
+},
+{
+    510.0,511.04
+     but look into it first.
+},
+{
+    511.04,513.2
+     Sometimes a physical therapist is nice to work with.
+},
+{
+    513.2,514.24
+     Yeah, I didn't think about that.
+},
+{
+    514.24,515.92
+     They're very difficult to put on.
+},
+{
+    515.92,516.76
+     They can be.
+},
+{
+    516.76,519.64
+     Yeah, you gotta learn the right way to do it.
+},
+{
+    519.64,521.12
+     Now we're gonna go to standing, Bob.
+},
+{
+    521.12,521.96
+     Sure.
+},
+{
+    521.96,524.42
+     You got a job that you work at or at home.
+},
+{
+    525.4,527.92
+     The first thing you can do, I'm gonna go to standing, Bob. If you got a job that you work at or at home, the first thing you can do, I'm gonna,
+},
+{
+    529.72,531.12
+     get this out of the way.
+},
+{
+    532.58,534.4
+     Now have something to hold on to.
+},
+{
+    534.4,537.2
+     A chair, I'm gonna use a Boyastick for balance.
+},
+{
+    537.2,540.48
+     But I want you to do similar to ankle pumps,
+},
+{
+    540.48,543.08
+     but you're gonna go up on your toes
+},
+{
+    543.08,544.6
+     and then lift your toes up.
+},
+{
+    544.6,546.8
+     So rocking back and forth.
+},
+{
+    546.8,547.96
+     Make sure you have good balance.
+},
+{
+    547.96,551.5
+     Again, grab something solid, a countertop if you need to.
+},
+{
+    551.5,554.48
+     This, again, works circulation, works strength.
+},
+{
+    554.48,556.1
+     It's even good for your balance.
+},
+{
+    556.1,560.44
+     The next thing is you wanna stretch out your calf muscles.
+},
+{
+    560.44,562.04
+     You can lean up against the wall
+},
+{
+    562.04,563.96
+     and see how I'm stretching here.
+},
+{
+    563.96,566.76
+     Don't let your toe point out straight ahead and
+},
+{
+    567.4,571.76
+     Stretch you're gonna hold it five to 15 seconds. You can hold longer if you like
+},
+{
+    572.24,574.24
+     Make sure you do both feet
+},
+{
+    574.44,576.32
+     Feels good typically
+},
+{
+    576.32,580.56
+     Don't get too aggressive if you have not done these in the past hold for five seconds
+},
+{
+    580.56,586.68
+     And I don't want you to get sore the next morning. By, the way I want to mention too, on those toe-ups and heel-ups,
+},
+{
+    586.68,589.44
+     that's what's nice about those you can do all day long.
+},
+{
+    589.44,590.28
+     Sure.
+},
+{
+    590.28,591.56
+     I had a teacher, I think I practiced it before.
+},
+{
+    591.56,593.52
+     Well, not consistently.
+},
+{
+    593.52,594.4
+     You gotta take a break.
+},
+{
+    594.4,595.24
+     Wow, dope.
+},
+{
+    595.24,597.08
+     But she used to do it while she was teaching.
+},
+{
+    597.08,598.32
+     I still remember this so clearly.
+},
+{
+    598.32,600.12
+     She was my fifth grade teacher.
+},
+{
+    600.12,602.24
+     But she'd be doing these while she's,
+},
+{
+    602.24,603.56
+     you know, just standing there and teaching.
+},
+{
+    603.56,605.36
+     And she goes, my doctor told me
+},
+{
+    605.36,606.92
+     that I was supposed to do this.
+},
+{
+    606.92,609.0
+     That was like 700 years ago.
+},
+{
+    609.0,609.84
+     So.
+},
+{
+    609.84,610.68
+     So.
+},
+{
+    610.68,611.6
+     So.
+},
+{
+    611.6,613.28
+     Absolutely.
+},
+{
+    613.28,615.18
+     The other thing, if you are standing
+},
+{
+    615.18,617.84
+     and you have the opportunity to have a chair,
+},
+{
+    617.84,620.84
+     you can just simply do some sit to stand.
+},
+{
+    620.84,622.64
+     You know, do about five of these,
+},
+{
+    622.64,624.52
+     you know, 10 if you feel comfortable.
+},
+{
+    624.52,626.08
+     Again, acting like a pump.
+},
+{
+    626.08,627.76
+     It's moving the fluid up.
+},
+{
+    627.76,632.0
+     It's moving the fluid into the air where it can be processed.
+},
+{
+    632.0,633.64
+     Exactly, Bob.
+},
+{
+    633.64,637.8
+     Now, if you happen to be working at a countertop
+},
+{
+    637.8,640.76
+     or at your workplace where you're standing
+},
+{
+    640.76,644.04
+     while you're working, if you can manage it,
+},
+{
+    644.04,646.24
+     a stool like about this height,
+},
+{
+    646.24,648.32
+     you're working for about 20 minutes,
+},
+{
+    648.32,649.92
+     your leg pain is starting to, you know,
+},
+{
+    649.92,653.2
+     you can feel the swelling just to sit like this.
+},
+{
+    653.2,655.08
+     And you can work some ankle pumps,
+},
+{
+    655.08,657.84
+     sit for five minutes and stand.
+},
+{
+    657.84,661.08
+     And just working that as you can,
+},
+{
+    661.08,663.2
+     can be really helpful, particularly on the joints.
+},
+{
+    663.2,664.44
+     If your joints are painful,
+},
+{
+    664.44,665.84
+     can we grieve? Would you agree, Brad, though,
+},
+{
+    665.84,668.4
+     that you probably wouldn't recommend prolonged standing
+},
+{
+    668.4,670.16
+     if you have ankle swelling?
+},
+{
+    670.16,672.0
+     Well, I'm saying if the person is working.
+},
+{
+    672.0,674.96
+     Yeah, they're doing a job where they're forced to stand.
+},
+{
+    674.96,678.6
+     Because unfortunately, standing is probably gonna put
+},
+{
+    678.6,681.08
+     increased stress on your venous system.
+},
+{
+    681.08,683.12
+     And I mean, a lot of people,
+},
+{
+    683.12,684.32
+     that's where they get swelling is
+},
+{
+    684.32,685.92
+     because they prolonged stand. And so you of people, that's where they get swelling is because they prolong stand.
+},
+{
+    685.92,688.28
+     And so you're right, that's a great option.
+},
+{
+    688.28,691.08
+     You know, if your job entails standing,
+},
+{
+    691.08,692.24
+     try to see if something, you know,
+},
+{
+    692.24,694.4
+     your boss will let you use a stool
+},
+{
+    694.4,696.68
+     to at least sit down once while and get your feet up.
+},
+{
+    696.68,697.96
+     A little bit.
+},
+{
+    697.96,701.2
+     The other thing you can do at the same situation
+},
+{
+    701.2,704.08
+     is you can just shift your weight right to left.
+},
+{
+    704.08,705.4
+     Or if you have a short stool,
+},
+{
+    705.4,707.32
+     this is probably a little high.
+},
+{
+    708.52,712.28
+     If you can put your foot up and continue working
+},
+{
+    712.28,714.0
+     and just shift like this.
+},
+{
+    714.0,715.28
+     This is about eight inches high.
+},
+{
+    715.28,718.56
+     I'd recommend maybe four, maybe six inches,
+},
+{
+    718.56,720.56
+     a little bit lower.
+},
+{
+    720.56,721.56
+     What we always see people,
+},
+{
+    721.56,723.6
+     if they're washing dishes at the sink,
+},
+{
+    723.6,725.48
+     open up the cupboard below
+},
+{
+    725.48,728.56
+     and you can use that four inch step in there
+},
+{
+    728.56,730.4
+     for that same concept.
+},
+{
+    730.4,733.64
+     Out of these 10 ideas, you hopefully will find some
+},
+{
+    733.64,734.48
+     that work for you.
+},
+{
+    734.48,737.12
+     And you wanna see the proof, is it the pudding,
+},
+{
+    737.12,737.96
+     as they say?
+},
+{
+    737.96,740.24
+     You look down and you see it's just helping decrease
+},
+{
+    740.24,741.48
+     my swelling.
+},
+{
+    741.48,743.24
+     That's the ones you wanna keep doing.
+},
+{
+    743.24,745.56
+     And all of them probably are not going to eliminate
+},
+{
+    745.56,747.24
+     or decrease the swelling in one day.
+},
+{
+    747.24,749.68
+     You've got to work at this for a number of days
+},
+{
+    749.68,751.08
+     to see the progress.
+},
+{
+    751.08,755.28
+     Oh, Bob, we did say 10, we only did nine,
+},
+{
+    755.28,759.0
+     but for standing, this is a 10th one,
+},
+{
+    759.0,760.6
+     it's kind of a double, double dipper,
+},
+{
+    760.6,764.16
+     but you can also do compression garments as well.
+},
+{
+    764.16,765.04
+     I was standing, I thought you did, oh, I see you didn't do that number as well. I was standing.
+},
+{
+    765.04,765.88
+     I thought you did.
+},
+{
+    765.88,766.84
+     Oh, I see you did.
+},
+{
+    766.84,767.88
+     You didn't do that number 10.
+},
+{
+    767.88,769.2
+     Well, it goes on the sitting.
+},
+{
+    769.2,770.04
+     I understand.
+},
+{
+    770.04,770.88
+     I gotcha.
+},
+{
+    770.88,773.28
+     I know viewers are pretty sharp out there.
+},
+{
+    773.28,774.12
+     They count.
+},
+{
+    774.12,774.96
+     They're gonna count.
+},
+{
+    774.96,775.8
+     They would say,
+},
+{
+    775.8,776.64
+     you did nine, what happened to the 10th one?
+},
+{
+    776.64,777.64
+     Here's number 10.
+},
+{
+    777.64,780.68
+     Remember, Brad and I can fix this about anything.
+},
+{
+    780.68,781.52
+     Except for.
+},
+{
+    781.52,782.36
+     A broken heart.
+},
+{
+    782.36,784.28
+     But we're working on that as well.
+},
+{
+    784.28,785.88
+     All right, thanks for watching.
+},

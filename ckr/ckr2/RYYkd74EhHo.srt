@@ -1,0 +1,204 @@
+{
+    0.0,2.48
+     Hi everyone, my name is Whitney and I am a dental hygienist.
+},
+{
+    2.48,3.48
+     If you're new here, welcome.
+},
+{
+    3.48,5.28
+     If you've been here before, welcome back.
+},
+{
+    5.28,10.32
+     Let's talk about seven quick and easy TMJ exercises.
+},
+{
+    10.32,13.84
+     And before we jump in, I'd like to quickly remind you about my website teathtalkgirl.com.
+},
+{
+    13.84,17.2
+     If you're ever looking for a specific dental topic, I have a search bar where you can easily
+},
+{
+    17.2,18.48
+     find what you're looking for.
+},
+{
+    18.48,20.96
+     And also my Instagram at teathtalkgirl.
+},
+{
+    20.96,24.8
+     These exercises I'm about to show you are from the AAFT and they are thought to help
+},
+{
+    24.8,28.44
+     with pain and strengthen your jaw muscles and increase jaw mobility. Also
+},
+{
+    28.44,31.98
+     I always always always encourage you to speak with your doctor or dentist to find the best
+},
+{
+    31.98,36.14
+     frequencies and cadences for these TMJ exercises before you proceed. Okay, let's start.
+},
+{
+    36.14,41.02
+     1. The resisted open. Place your tongue on the roof of your mouth behind your front teeth.
+},
+{
+    41.02,48.88
+     Place your thumb under your chin. Open your mouth with light resistance from your thumb and hold for five seconds. Repeat five times. Two, the
+},
+{
+    48.88,52.8
+     resisted close. Place your tongue on the roof of your mouth behind your front
+},
+{
+    52.8,56.8
+     teeth. Grip your forefingers on the top of your chin and thumbs under the chin.
+},
+{
+    56.8,61.36
+     Gently resist while opening your mouth and hold for five seconds. Repeat five
+},
+{
+    61.36,68.4
+     times. Three, the relaxed jaw. Place your tongue on the roof of your mouth behind your front teeth and relax your jaw.
+},
+{
+    68.4,70.4
+     Open and close your relaxed jaw.
+},
+{
+    70.4,71.9
+     Repeat 8 times.
+},
+{
+    71.9,73.4
+     4. The goldfish.
+},
+{
+    73.4,76.2
+     Place your tongue on the roof of your mouth behind your front teeth.
+},
+{
+    76.2,79.2
+     Place one finger on your TMJ and one on your chin.
+},
+{
+    79.2,82.4
+     Open your mouth allowing your jaw to drop down and close.
+},
+{
+    82.4,83.7
+     Repeat 8 times.
+},
+{
+    83.7,87.72
+     5. The chin tuck. With good posture, pull your chin back
+},
+{
+    87.72,89.44
+     and hold for five seconds.
+},
+{
+    89.44,90.64
+     Repeat five times.
+},
+{
+    90.64,92.12
+     I personally like to do this when I work,
+},
+{
+    92.12,93.28
+     when I'm taking x-rays.
+},
+{
+    93.28,94.84
+     Six, the side to side.
+},
+{
+    94.84,98.2
+     Place a popsicle stick or tongue press between your teeth.
+},
+{
+    98.2,100.24
+     Gently move your jaw side to side.
+},
+{
+    100.24,101.76
+     And you could stack the popsicle sticks
+},
+{
+    101.76,103.58
+     on top of each other to increase range.
+},
+{
+    103.58,105.76
+     Perform for 15 seconds and repeat. Seven, the back and forth. Place a popsicle sticks on top of each other to increase range. Perform for 15 seconds and repeat.
+},
+{
+    105.76,107.44
+     7. The back and forth.
+},
+{
+    107.44,110.24
+     Place a popsicle stick or tongue press between your teeth.
+},
+{
+    110.24,112.4
+     Gently move forward and back.
+},
+{
+    112.4,115.84
+     Again, stack the popsicle sticks on top of each other to increase range.
+},
+{
+    115.84,117.84
+     Perform for 15 seconds and repeat.
+},
+{
+    117.84,121.28
+     Lastly, if you're having jaw pain due to clenching or grinding your teeth,
+},
+{
+    121.28,125.6
+     always consider wearing a night guard when you sleep and avoid chewing gum and hard foods
+},
+{
+    125.6,127.56
+     to cut down on the painful movements of the jaw.
+},
+{
+    127.56,130.44
+     Also, a hot compress or ice pack applied to the jaw
+},
+{
+    130.44,132.6
+     may provide temporary relief as well.
+},
+{
+    132.6,134.62
+     Please like and subscribe if you enjoyed this video
+},
+{
+    134.62,136.92
+     and if you want to learn more about TMJ causes,
+},
+{
+    136.92,138.84
+     pain and treatment, including night guards,
+},
+{
+    138.84,140.8
+     I'll link my other videos in the bottom bar below.
+},
+{
+    140.8,None
+     Until next time, peace, love, and teep!
+},

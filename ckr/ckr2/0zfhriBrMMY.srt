@@ -1,0 +1,652 @@
+{
+    0.0,6.0
+     Hi, I'm Dr. Adam Fields. Welcome to your day two morning session of 360 breathing.
+},
+{
+    6.0,10.12
+     How would you like to increase your lung capacity? I mean they say that the lung
+},
+{
+    10.12,14.64
+     capacity gets smaller and smaller every year as you age, but let's bring it
+},
+{
+    14.64,18.32
+     back open. Let's expand this. So we're going to start with some stretching. I
+},
+{
+    18.32,23.68
+     want you to take your left foot and put it in front of your right and take your
+},
+{
+    23.68,25.44
+     right hand, bring it over your head just like this. Take your left hand and put it in front of your right and take your right hand bring it over your head
+},
+{
+    26.24,33.2
+     just like this take your left hand grab your right hand and just pull just like this feel that
+},
+{
+    33.2,39.28
+     side body that we're about to breathe in open up it's just going to open right here so now take a
+},
+{
+    39.28,47.74
+     big breath in into that feel it stretch it like a giant rubber band and breathe out. As you
+},
+{
+    47.74,53.4
+     breathe out pull even further arc up and over pushing this out. Open it up big
+},
+{
+    53.4,65.6
+     breath in. Good. Really stretching that big breath. Loving it.
+},
+{
+    69.04,69.36
+     Even you might feel the hip stretch even also, but really
+},
+{
+    72.84,73.2
+     try and get right here where this 360 breath is going to go lateral.
+},
+{
+    74.2,76.52
+     Big breath in.
+},
+{
+    76.96,77.96
+     Good. Breathe it out.
+},
+{
+    78.72,79.96
+     Now we're going to breathe in and hold.
+},
+{
+    80.0,81.0
+     Big breath in.
+},
+{
+    82.16,83.16
+     Hold and stretch.
+},
+{
+    83.04,89.04
+     Big breath in, hold and stretch.
+},
+{
+    90.08,91.2
+     And breathe out.
+},
+{
+    92.56,93.2
+     Ooh, let's go to the other side.
+},
+{
+    94.0,95.68
+     Good. Take your right foot, bring it over your left,
+},
+{
+    95.68,98.08
+     bring your left arm over your head.
+},
+{
+    98.08,100.88
+     Take your right hand, grab that left hand,
+},
+{
+    100.88,102.24
+     and come on over.
+},
+{
+    102.24,105.8
+     Big breath in, loving it. And breathing out and pull, pull. Big breath in. Loving it.
+},
+{
+    105.8,108.0
+     And breathing out and pull, pull, pull, pull, pull, pull,
+},
+{
+    108.0,109.96
+     pull, God.
+},
+{
+    109.96,110.88
+     Big breath in.
+},
+{
+    111.92,114.24
+     Stretch out those lungs and breathe out.
+},
+{
+    124.92,127.08
+     You know, I test spirometry in the office.
+},
+{
+    127.08,131.6
+     We test lung capacity and we see how can we get it to increase.
+},
+{
+    131.6,133.76
+     We actually see an increase in numbers.
+},
+{
+    133.76,138.32
+     I've seen 40, 50% increase, even 100% increase in lung capacity.
+},
+{
+    138.32,150.0
+     So big breath in and hold and stretch.
+},
+{
+    152.0,155.0
+     And breathing out. Oh wonderful. If you get dizzy or anything, just take a little break.
+},
+{
+    155.0,160.0
+     We're going to interlace your fingers behind your back, just like this.
+},
+{
+    160.0,166.0
+     All ten fingers, stretch it out, big breath in, pinch your shoulder blades together.
+},
+{
+    167.0,170.0
+     Now you're going to feel that upper chest stretch.
+},
+{
+    172.0,174.0
+     Breathe it right into the upper chest.
+},
+{
+    178.0,181.0
+     It's like your superman just busting out of your cape.
+},
+{
+    188.28,190.24
+     Pinch the shoulder blades, breathing out, tighten the abs, big breath in.
+},
+{
+    196.72,197.52
+     This is so good.
+},
+{
+    197.52,198.36
+     Last big one.
+},
+{
+    198.36,199.2
+     Go for it.
+},
+{
+    199.2,200.12
+     Gynormous breath.
+},
+{
+    203.36,208.52
+     Pinch them, pinch them, pinch them in the the back and breathing out and let the arms go.
+},
+{
+    208.52,211.64
+     And just do a little twisting, a little knocking on the door of life here.
+},
+{
+    211.64,212.64
+     Just twist.
+},
+{
+    212.64,213.64
+     Good.
+},
+{
+    213.64,218.12
+     Beat your ribs a little bit.
+},
+{
+    218.12,220.72
+     Thank them for the good job they're doing.
+},
+{
+    220.72,222.32
+     Wonderful lungs.
+},
+{
+    222.32,224.72
+     Detoxified lungs.
+},
+{
+    224.72,226.0
+     Good. Wonderful lungs, detoxified lungs.
+},
+{
+    227.0,228.0
+     Good.
+},
+{
+    230.0,234.0
+     Now we're going to add a little muscular strength in with this. We're going to open the arms, palms up, big breath in.
+},
+{
+    234.0,237.0
+     Let's push back as we breathe, big breath in.
+},
+{
+    239.0,240.0
+     Good.
+},
+{
+    240.0,242.0
+     Breathing out and letting it relax a little bit.
+},
+{
+    242.0,243.0
+     Big breath in.
+},
+{
+    244.0,248.0
+     Now keep the arms back as you breathe out.
+},
+{
+    248.0,252.0
+     Big breath in, push them a little bit further.
+},
+{
+    252.0,256.0
+     And breathe out.
+},
+{
+    256.0,258.0
+     You're doing great.
+},
+{
+    258.0,260.0
+     Go beyond your limit. Go beyond it.
+},
+{
+    260.0,269.0
+     Come on out. Big breath in.
+},
+{
+    270.5,271.54
+     Pinch him, pinch him, pinch him. Straighten those arms.
+},
+{
+    274.64,276.56
+     Bring the arms level, big breath in.
+},
+{
+    277.44,279.86
+     Push those thumbs back behind you
+},
+{
+    279.86,281.42
+     and breathe out and relax.
+},
+{
+    282.32,283.6
+     Shake it out a little bit.
+},
+{
+    285.04,287.12
+     Oh, feels good.
+},
+{
+    287.12,288.04
+     You're opening up.
+},
+{
+    290.4,291.22
+     See a couple of breaths.
+},
+{
+    291.22,294.24
+     Palms up on the way up, palms down on the way down.
+},
+{
+    296.68,297.74
+     Big breath in.
+},
+{
+    297.74,298.72
+     Palms down.
+},
+{
+    301.0,302.2
+     And down.
+},
+{
+    302.2,303.12
+     Good.
+},
+{
+    303.12,303.96
+     Big breath in.
+},
+{
+    309.72,314.24
+     All the way up and down. Good. Big breath in. All the way up and down. Today we're going to do a little more lateral breathing. We're going to, now that we've stretched it, we're
+},
+{
+    314.24,327.0
+     going to breathe into it and strengthen into that breath. Good morning.
+},
+{
+    327.0,330.0
+     Good.
+},
+{
+    330.0,339.04
+     All right.
+},
+{
+    339.04,341.12
+     So let's go.
+},
+{
+    341.12,342.44
+     We're going to breathe out here.
+},
+{
+    342.44,344.28
+     We're going to learn how to breathe through the back.
+},
+{
+    344.28,345.92
+     So put your hands just like this.
+},
+{
+    345.92,349.04
+     If you can, do the best approximation of what you can.
+},
+{
+    349.04,350.04
+     Okay?
+},
+{
+    350.04,352.08
+     And we're going to tighten the abs.
+},
+{
+    352.08,355.52
+     And last time, we really worked on that abdominal breath.
+},
+{
+    355.52,356.8
+     Now we're going to work on the lateral breath.
+},
+{
+    356.8,360.52
+     So breathe in and feel the ribs expand.
+},
+{
+    360.52,361.68
+     Feel your hands expand.
+},
+{
+    361.68,365.78
+     And when you breathe out, feel the hands come together big breath in
+},
+{
+    368.08,370.08
+     Breathe out
+},
+{
+    371.12,373.12
+     Good big breath in
+},
+{
+    375.08,380.16
+     If you don't have it don't get frustrated keep it up you will get it you will get this to open up
+},
+{
+    393.98,399.36
+     So keep going. Big, big breath. This is a great breath. This is a great breath for Pilates. I use this breath when you're engaging your abs like crazy, bringing your arms up
+},
+{
+    399.36,405.88
+     and down, your legs up and down, you're doing leg lifts. You still wanna breathe, you breathe here.
+},
+{
+    407.88,415.52
+     Keep going, let's get a couple more.
+},
+{
+    416.36,420.64
+     One more.
+},
+{
+    421.8,422.72
+     Relax for a second.
+},
+{
+    428.52,435.72
+     Move that head around, feel good. Don't take yourself too seriously. Just have fun. You do it the best of your ability and let it go. There's always next
+},
+{
+    435.72,440.24
+     week. You can do the seven day breathing series over and over and over again. Okay, now we're
+},
+{
+    440.24,445.38
+     going to actually strengthen against resistance. So your hands are gonna be pushing in,
+},
+{
+    445.38,446.66
+     you're gonna be breathing out against,
+},
+{
+    446.66,449.0
+     you can do some reps, you're gonna get them strong.
+},
+{
+    450.08,451.84
+     Okay, so big breath in,
+},
+{
+    452.76,454.48
+     pushing, pushing against your ribs,
+},
+{
+    454.48,455.6
+     and then breathing out,
+},
+{
+    456.64,459.38
+     bring them together as far as you can, big breath in,
+},
+{
+    462.0,463.36
+     and breathing out.
+},
+{
+    463.36,465.2
+     If you have osteoporosis, don't push too hard.
+},
+{
+    465.2,466.72
+     I don't want you to break a rib.
+},
+{
+    466.72,467.72
+     Big breath in.
+},
+{
+    467.72,476.72
+     So you're actually strengthening the muscle.
+},
+{
+    476.72,481.28
+     The diaphragm isn't the only muscle of inhalation.
+},
+{
+    481.28,483.48
+     You have accessory muscles in the inhalation.
+},
+{
+    483.48,491.56
+     They are coming into play on this one. Let's do four more. Really push it.
+},
+{
+    492.56,496.44
+     Give yourself some resistance.
+},
+{
+    499.92,506.0
+     Smile baby. Smile. Big breath in.
+},
+{
+    506.0,508.0
+     Good.
+},
+{
+    508.0,510.0
+     Letting it go.
+},
+{
+    510.0,512.0
+     Drop those arms.
+},
+{
+    512.0,514.0
+     Feel that now.
+},
+{
+    514.0,516.0
+     Hello.
+},
+{
+    516.0,518.0
+     You just got a remodel.
+},
+{
+    518.0,520.0
+     You didn't even have to get a permit for it.
+},
+{
+    520.0,522.0
+     You got more space in your room for your lungs.
+},
+{
+    522.0,524.0
+     Okay, now we're going to go for the back here.
+},
+{
+    524.0,525.04
+     So go ahead. Just put your hands for your lungs. Okay, now we're gonna go for the back here.
+},
+{
+    525.04,528.44
+     So go ahead, just put your hands just like this,
+},
+{
+    528.44,532.16
+     and let's feel what it feels like to breathe into your back.
+},
+{
+    532.16,533.38
+     So big breath in.
+},
+{
+    535.68,537.48
+     Feel the back pushing out like that.
+},
+{
+    537.48,539.88
+     Without going like this, just feel it push out.
+},
+{
+    543.92,547.92
+     Take it to its limit and come back.
+},
+{
+    547.92,550.8
+     Big breath in.
+},
+{
+    550.8,551.92
+     Take it to its limit.
+},
+{
+    551.92,556.4
+     We're going to do a little lung packing here.
+},
+{
+    556.4,561.12
+     So you're going to take it to its limit and then we're going to sip, sip, sip, and we're
+},
+{
+    561.12,562.64
+     going to breathe out.
+},
+{
+    562.64,567.52
+     Big breath in, sip it, sip it, sip it, and let it out.
+},
+{
+    571.08,572.76
+     It's gotta go somewhere, right?
+},
+{
+    572.76,577.76
+     Two more, big breath in, sip it, sip it, sip it,
+},
+{
+    578.8,579.76
+     and let it out.
+},
+{
+    581.88,585.4
+     Last one, Big breath in.
+},
+{
+    585.4,586.4
+     Sip it.
+},
+{
+    586.4,587.4
+     Sip it.
+},
+{
+    587.4,589.16
+     Sip it.
+},
+{
+    589.16,590.28
+     And let it out.
+},
+{
+    590.28,593.28
+     You might feel a little lightheaded.
+},
+{
+    593.28,595.2
+     Go back to your natural breathing rhythm.
+},
+{
+    595.2,600.76
+     Feel like you're just seaweed being taken by the tide.
+},
+{
+    600.76,608.16
+     This relaxation, this balanced feel, this breath, let it take you throughout your day
+},
+{
+    608.16,609.16
+     today.
+},
+{
+    609.16,614.88
+     Let it participate in your daily existence, getting in your car, talking to people, the
+},
+{
+    614.88,616.92
+     attitude that you have.
+},
+{
+    616.92,619.0
+     Enjoy it, bask in it.
+},
+{
+    619.0,623.56
+     I look forward to seeing you this evening for day two of your 360 breathing.
+},

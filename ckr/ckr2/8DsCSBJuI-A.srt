@@ -1,0 +1,92 @@
+{
+    0.0,5.92
+     How to Know If Your Finger is Broken.
+},
+{
+    5.92,9.08
+     The fingers are the most frequently injured part of the hand.
+},
+{
+    9.08,13.08
+     Injuries range from simple bruises to broken bones and dislocations of joints.
+},
+{
+    13.08,15.52
+     Here's how to know if your finger is broken.
+},
+{
+    15.52,20.52
+     You will need Awareness of pain Awareness of swelling and lack of mobility Awareness
+},
+{
+    20.52,27.08
+     of bruising Urgent care facility or emergency room. Optional and awareness of numbness.
+},
+{
+    27.08,28.08
+     Step 1.
+},
+{
+    28.08,30.92
+     Try bending the injured finger immediately after the injury.
+},
+{
+    30.92,35.0
+     A fractured finger is usually painful, although the pain may be dull.
+},
+{
+    35.0,36.0
+     Step 2.
+},
+{
+    36.0,40.0
+     Note whether the hurt finger becomes swollen and red and is difficult to move shortly after
+},
+{
+    40.0,41.0
+     the injury.
+},
+{
+    41.0,43.0
+     This is a sign that the finger is broken.
+},
+{
+    43.0,47.12
+     If the swelling becomes pronounced, numbness may occur due to nerve compression.
+},
+{
+    47.12,48.12
+     Step 3.
+},
+{
+    48.12,52.44
+     Watch for bruising, which could signify severe fractures or jammed fingers.
+},
+{
+    52.44,53.44
+     Step 4.
+},
+{
+    53.44,57.4
+     Go to an urgent care facility or emergency room if you experience these symptoms and
+},
+{
+    57.4,58.8
+     are in a lot of pain.
+},
+{
+    58.8,62.88
+     The doctor will take an x-ray to evaluate the positions of any sprained or broken finger
+},
+{
+    62.88,63.88
+     bones.
+},
+{
+    63.88,68.64
+     Did you know Fingers are made up of ligaments, tendons, and three bones, called phalanges.
+},
+{
+    68.64,70.2
+     There are no muscles in them.
+},

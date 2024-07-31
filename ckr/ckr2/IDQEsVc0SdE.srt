@@ -1,0 +1,1012 @@
+{
+    0.0,12.48
+     So Anne, tell me what's going on with your job?
+},
+{
+    12.48,15.08
+     I just have, like, it's really locked.
+},
+{
+    15.08,17.0
+     I can't really open it.
+},
+{
+    17.0,20.6
+     And just really painful.
+},
+{
+    20.6,22.2
+     I can't chew anything.
+},
+{
+    22.2,24.32
+     And it's making me have, like, really bad migraine.
+},
+{
+    24.32,26.0
+     How long has it been going on?
+},
+{
+    26.0,29.0
+     For a week since last Wednesday.
+},
+{
+    29.0,34.0
+     Since last Wednesday? And can you tell me how much pain do you feel there from 0 to 10?
+},
+{
+    34.0,35.0
+     10 is the emergency room?
+},
+{
+    35.0,37.0
+     Like 10, definitely.
+},
+{
+    37.0,43.0
+     10? So the symptoms you have, it's log jaw, headaches, and where do you feel the headaches?
+},
+{
+    43.0,48.68
+     In my right temple and on the back of my right side side and then when it gets really bad and flares up
+},
+{
+    48.68,54.12
+     It goes like all the way like down here to your neck. Yeah, what other symptoms you have?
+},
+{
+    55.64,58.4
+     Feel nauseous for any other symptoms
+},
+{
+    59.12,70.44
+     What about eating talking chewing? I just can't eat. I haven't been able to like, I've just been eating. Nothing that I have to chew. Yeah, so that's since last Wednesday, so
+},
+{
+    70.44,77.36
+     it's been a week. Yeah, I haven't been sleeping. It's been the hardest thing. I haven't really slept since last Wednesday.
+},
+{
+    77.36,85.32
+     Okay, how much pain do you feel right now? Like nine. Nine? And how much headache do you feel like?
+},
+{
+    91.24,94.0
+     Nine okay, so everything you do should be pain-free I gotta take your range of motion and let me know if you feel any pain with that Okay, make sure you get this numbers in the camera, so
+},
+{
+    100.04,102.04
+     Open your jaw
+},
+{
+    104.36,109.68
+     So it's a little bit it's like 20 to a closer to 28
+},
+{
+    110.56,112.2
+     Okay, good
+},
+{
+    112.2,116.36
+     And let me see your range of motion for your neck. Let turn your neck left and right
+},
+{
+    117.6,120.0
+     And tell me if you feeling it here with that. Okay?
+},
+{
+    120.64,124.32
+     It just feels really like stuff really stuff and backward
+},
+{
+    123.0,126.0
+     It just feels really like stuff. Really stuff and backward.
+},
+{
+    126.0,131.0
+     So when you get that make sure you get the face too.
+},
+{
+    131.0,134.0
+     Alright, so I want you to lie on your back.
+},
+{
+    134.0,137.0
+     Head here, head here.
+},
+{
+    151.12,152.12
+     Is it okay to work inside your mouth? Yeah.
+},
+{
+    152.12,153.96
+     Thumb up if you feel any pain, okay?
+},
+{
+    153.96,154.96
+     Okay.
+},
+{
+    154.96,155.96
+     Relax.
+},
+{
+    155.96,160.96
+     And do not bite me, okay?
+},
+{
+    160.96,161.96
+     Okay.
+},
+{
+    161.96,167.84
+     Is that painful or it's okay? It's just tender. Make sure it's some
+},
+{
+    167.84,180.64
+     other feel pain okay? Okay. How's that? It's okay. Is that too much? No. Okay.
+},
+{
+    186.0,187.0
+     Sorry, is that too much? No, it feels good.
+},
+{
+    187.0,188.0
+     It feels good?
+},
+{
+    188.0,210.52
+     Okay. You feel that band there?
+},
+{
+    210.52,211.52
+     Mm-hmm.
+},
+{
+    211.52,212.52
+     Okay, yeah.
+},
+{
+    212.52,215.52
+     A lot of tightness here.
+},
+{
+    215.52,216.52
+     Okay.
+},
+{
+    216.52,217.52
+     Oh, it hurts.
+},
+{
+    217.52,218.52
+     Sorry, sorry.
+},
+{
+    218.52,231.0
+     Okay. Sorry, okay.
+},
+{
+    234.0,235.0
+     And you said it's in here too, in this area. Yeah.
+},
+{
+    235.0,236.0
+     And behind your eyes too?
+},
+{
+    236.0,239.0
+     Yeah, it's like my whole right side.
+},
+{
+    239.0,240.0
+     This on the right side.
+},
+{
+    240.0,241.0
+     Oh, sorry.
+},
+{
+    241.0,242.0
+     Is that painful?
+},
+{
+    242.0,243.0
+     Yeah.
+},
+{
+    243.0,244.0
+     Are you wearing contact?
+},
+{
+    244.0,246.5
+     No. Okay. Are you wearing contact? No.
+},
+{
+    248.5,250.5
+     How does it feel? I don't know, it hurts.
+},
+{
+    250.5,253.5
+     Yeah, what I'm doing is hurting or is it okay?
+},
+{
+    253.5,255.5
+     This just feels like a lot of pressure.
+},
+{
+    255.5,257.5
+     Okay, what about now?
+},
+{
+    257.5,258.0
+     That?
+},
+{
+    258.0,259.5
+     No, it's fine.
+},
+{
+    259.5,260.5
+     Okay.
+},
+{
+    262.5,264.5
+     Right there, it's really tender.
+},
+{
+    264.5,265.0
+     Sorry. Okay. Relax, relax. Is that painful or unbearable?
+},
+{
+    265.0,266.0
+     It's okay.
+},
+{
+    266.0,267.0
+     Okay.
+},
+{
+    267.0,268.0
+     Is it too much?
+},
+{
+    268.0,269.0
+     No.
+},
+{
+    269.0,270.0
+     Okay.
+},
+{
+    270.0,271.0
+     Okay.
+},
+{
+    271.0,272.0
+     Okay.
+},
+{
+    272.0,273.0
+     Okay.
+},
+{
+    273.0,274.0
+     Okay.
+},
+{
+    274.0,275.0
+     Okay.
+},
+{
+    275.0,276.0
+     Okay.
+},
+{
+    276.0,277.0
+     Okay.
+},
+{
+    277.0,278.0
+     Okay.
+},
+{
+    278.0,279.0
+     Okay.
+},
+{
+    279.0,280.0
+     Okay.
+},
+{
+    280.0,281.0
+     Okay.
+},
+{
+    281.0,282.0
+     Okay.
+},
+{
+    282.0,283.0
+     Okay.
+},
+{
+    283.0,284.0
+     Okay.
+},
+{
+    284.0,313.16
+     Okay. Okay. Okay. Okay. Okay. Is it too much? I'm sorry.
+},
+{
+    313.16,316.16
+     And you said it's going down to your right shoulder, yeah?
+},
+{
+    316.16,318.16
+     In your right side, okay.
+},
+{
+    318.16,321.16
+     Yeah, you're really tight here.
+},
+{
+    321.16,325.64
+     Relax your shoulders toward you
+},
+{
+    334.84,337.84
+     Don't let me move you don't let me move you
+},
+{
+    345.0,347.88
+     Is that too much or it's okay? Move your hand over here, and relax and go. Relax, relax.
+},
+{
+    349.22,350.54
+     Is that too much or is it okay? Not too much.
+},
+{
+    351.9,355.22
+     And most of your pain here and here in this area.
+},
+{
+    355.22,356.06
+     Yeah.
+},
+{
+    362.7,363.52
+     Tender here?
+},
+{
+    363.52,364.36
+     Yeah.
+},
+{
+    364.36,365.0
+     Do you want that? It's okay.
+},
+{
+    365.0,366.0
+     It's okay.
+},
+{
+    366.0,378.0
+     And like my teeth on my right side are really sore.
+},
+{
+    378.0,381.52
+     Lower teeth or upper teeth?
+},
+{
+    381.52,382.52
+     Both.
+},
+{
+    382.52,383.52
+     Very sore.
+},
+{
+    383.52,386.0
+     You've been quenching with the...
+},
+{
+    386.0,388.0
+     Probably, but I can't use...
+},
+{
+    388.0,391.0
+     I don't have a mouth guard because I'm just using the trays for right now.
+},
+{
+    391.0,392.0
+     Okay.
+},
+{
+    392.0,394.0
+     But I haven't been using them.
+},
+{
+    394.0,395.0
+     Yeah.
+},
+{
+    395.0,397.0
+     Let me know if that's too much for you.
+},
+{
+    397.0,399.0
+     Okay, sit up for me.
+},
+{
+    399.0,401.0
+     Okay.
+},
+{
+    403.0,407.0
+     Okay, so... How are we feeling now?
+},
+{
+    407.0,411.8
+     So are you feeling good?
+},
+{
+    411.8,412.8
+     Can you tell the difference?
+},
+{
+    412.8,416.8
+     Not really, it still really hurts.
+},
+{
+    416.8,420.2
+     What is the worst pain?
+},
+{
+    420.2,423.84
+     Just in here and in here.
+},
+{
+    423.84,425.1
+     So let's lie line your back.
+},
+{
+    429.88,431.6
+     Okay, now we're gonna work on your scar tissue
+},
+{
+    431.6,432.72
+     to make sure it's painful.
+},
+{
+    432.72,433.84
+     You're okay?
+},
+{
+    433.84,435.68
+     It's not like I'm in your symptoms.
+},
+{
+    435.68,437.2
+     Is it painful?
+},
+{
+    437.2,438.2
+     No.
+},
+{
+    438.2,439.04
+     How does it feel?
+},
+{
+    442.16,443.48
+     It feels so hard.
+},
+{
+    443.48,446.0
+     It's not hard, but it doesn't feel good.
+},
+{
+    446.0,448.0
+     What about now?
+},
+{
+    448.0,450.0
+     It feels good.
+},
+{
+    450.0,452.0
+     This one?
+},
+{
+    452.0,453.0
+     Okay.
+},
+{
+    453.0,455.0
+     You feel all those bumps here?
+},
+{
+    455.0,478.04
+     It's a lot of scar tissue here. Is that too much or is it okay?
+},
+{
+    478.04,480.2
+     It's really tender.
+},
+{
+    480.2,481.2
+     Sorry.
+},
+{
+    481.2,482.2
+     Okay.
+},
+{
+    482.2,487.0
+     I'm gonna get some more shit.
+},
+{
+    487.0,490.0
+     Okay, get some cold.
+},
+{
+    490.0,495.0
+     Is it beautiful?
+},
+{
+    495.0,496.0
+     It's okay.
+},
+{
+    496.0,498.0
+     You feel this one here?
+},
+{
+    498.0,499.0
+     Mm-hmm.
+},
+{
+    499.0,510.0
+     Get some scar tissue.
+},
+{
+    512.0,514.0
+     What happened? Is this sensitive?
+},
+{
+    514.0,515.0
+     Yeah.
+},
+{
+    515.0,517.0
+     You get a lot of inflammation.
+},
+{
+    517.0,519.0
+     I know. I know what to do.
+},
+{
+    519.0,541.0
+     Okay, I will give you. We will talk about this after I finish, okay?
+},
+{
+    544.0,546.0
+     Is it okay to work inside your mouth again? Uh huh.
+},
+{
+    550.0,552.0
+     Okay, close.
+},
+{
+    556.0,558.0
+     Sorry.
+},
+{
+    558.0,560.0
+     Is it tender here?
+},
+{
+    560.0,562.0
+     Uh huh.
+},
+{
+    562.0,564.0
+     What about now?
+},
+{
+    565.0,566.0
+     Yeah.
+},
+{
+    566.0,568.0
+     Tender or no?
+},
+{
+    568.0,570.0
+     Yeah, it's tender.
+},
+{
+    570.0,572.0
+     And here?
+},
+{
+    572.0,574.0
+     Yeah.
+},
+{
+    578.0,610.0
+     Okay. Okay, sit up for me just a lot of pain.
+},
+{
+    610.0,612.0
+     Can you get some more?
+},
+{
+    612.0,613.5
+     Where do you feel it now?
+},
+{
+    613.5,615.5
+     Just in here and this is gone now?
+},
+{
+    615.5,620.76
+     Yeah, it's definitely not as bad.
+},
+{
+    620.76,624.0
+     How much pain from 0 to 10 here?
+},
+{
+    624.0,625.0
+     I like a 7. How much paint from 0 to 10 here?
+},
+{
+    626.0,627.0
+     I like a 7.
+},
+{
+    628.0,633.0
+     Okay, let's line your back.
+},
+{
+    635.0,642.0
+     You can have a little bit of light paint, okay?
+},
+{
+    643.0,644.0
+     Is that too much or it's okay?
+},
+{
+    687.0,696.0
+     No, it's okay? Okay. Okay, sit up for me. I'll give you some more.
+},
+{
+    696.0,702.0
+     Yeah, it feels a lot better.
+},
+{
+    702.0,707.58
+     The headache is gone or do you still feel it?
+},
+{
+    707.58,709.08
+     Right now I don't feel it.
+},
+{
+    709.08,710.58
+     You don't feel the headache?
+},
+{
+    710.58,711.58
+     I don't really.
+},
+{
+    711.58,716.32
+     If you check your range of motion I think it was 28.
+},
+{
+    716.32,721.0
+     It's open.
+},
+{
+    721.0,722.0
+     Now it's 30.
+},
+{
+    722.0,726.24
+     You're getting the health face?
+},
+{
+    730.24,732.8
+     Okay, where do you feel the tightness now?
+},
+{
+    736.8,739.6
+     Right here, like the hinge, like when you open your jaw. When you open your jaw. Let me work on the other side, okay?
+},
+{
+    739.6,741.6
+     Okay.
+},
+{
+    744.16,747.0
+     But the muscle spasm is better now.
+},
+{
+    747.0,754.0
+     Is it too much?
+},
+{
+    754.0,770.0
+     That's fine. Now you feel that?
+},
+{
+    770.0,773.44
+     Yeah, like on the left side it doesn't even hurt.
+},
+{
+    773.44,777.72
+     Yeah, well it starts to loosen up now, can you tell?
+},
+{
+    777.72,783.24
+     Yeah, it was very tight.
+},
+{
+    783.24,785.44
+     You sure you're a problem on the right side?
+},
+{
+    785.44,787.0
+     Yeah, it's only on the right.
+},
+{
+    787.0,789.0
+     I know, I'm just joking.
+},
+{
+    789.0,794.0
+     It's because I feel a lot of tightness here.
+},
+{
+    794.0,827.0
+     I need to work on this. Okay, sit up here for me and let's see. It's strange in the world.
+},
+{
+    827.0,841.0
+     Yeah, I mean, I still feel it like just right here, but it feels a little better now, like
+},
+{
+    841.0,844.08
+     opening it.
+},
+{
+    844.08,848.64
+     How much discomfort do you feel? Like right now with everything.
+},
+{
+    850.48,859.44
+     It's definitely like a seven. And the headache? Yeah, I don't really have a headache.
+},
+{
+    866.12,867.12
+     Where do you feel it in that spot? Yeah.
+},
+{
+    867.12,868.12
+     Which spot?
+},
+{
+    868.12,869.12
+     By the hinge of the joint.
+},
+{
+    869.12,870.12
+     I don't know, I just went like that.
+},
+{
+    870.12,871.12
+     I can like feel it.
+},
+{
+    871.12,876.12
+     That's in the back here is where when I do get my migraines, that's where it happens
+},
+{
+    876.12,877.12
+     right there.
+},
+{
+    877.12,878.12
+     We'll start.
+},
+{
+    878.12,879.12
+     Let me do it.
+},
+{
+    879.12,880.12
+     Sit on the edge here.
+},
+{
+    880.12,881.12
+     Oh, lay down or sit down?
+},
+{
+    881.12,885.0
+     No, sit. Let me do it. Sit on the edge again. Lay down?
+},
+{
+    885.0,887.0
+     No, sit down.
+},
+{
+    893.0,894.0
+     Is it painful? It's okay.
+},
+{
+    894.0,895.0
+     Okay.
+},
+{
+    900.0,901.0
+     I'll...
+},
+{
+    901.0,912.88
+     Sorry, sorry, sorry
+},
+{
+    916.24,924.0
+     Tight to you feel that I feel tight like that
+},
+{
+    927.0,928.0
+     Okay, let's do it again, open. How's that?
+},
+{
+    928.0,930.0
+     That's so much better.
+},
+{
+    930.0,931.0
+     Wow.
+},
+{
+    931.0,934.0
+     Are you sure it's coming from your jaw?
+},
+{
+    934.0,939.0
+     Because I'm working on the back end.
+},
+{
+    939.0,947.0
+     That's getting more range of motion working on your head.
+},
+{
+    957.0,960.0
+     Let's open again. How's that?
+},
+{
+    960.0,962.0
+     It's like so much better.
+},
+{
+    962.0,971.28
+     Is that your normal or you're usually opening wider than I think you're seeing? No, because I've always kind of have problems with my CMJ, but it's like been on like the
+},
+{
+    971.28,979.24
+     back burner kind of. Open. You see now it's get the whole face.
+},
+{
+    979.24,986.48
+     Did? Yeah, perfect. Okay, so it's like almost four-y. It's good. We start with 28. Wow.
+},
+{
+    987.36,996.16
+     Well, do you want to get more? Yeah. Okay. So even though it's job hand, I'm actually working
+},
+{
+    996.16,1005.92
+     in a different area. And you will learn that with astral treatment how to figure out where is the restriction that actually causes
+},
+{
+    1005.92,1013.92
+     tightness in the referred area so and that's what we gain like more range of
+},
+{
+    1013.92,1028.0
+     motion so any pain that's come forward that sounds. So it was 28 degrees.
+},
+{
+    1028.0,1032.0
+     Let's sit up nice and tall and try it again.
+},
+{
+    1032.0,1036.0
+     Yeah, it's about four.
+},
+{
+    1036.0,1038.0
+     That's normal. Good.
+},
+{
+    1038.0,1040.0
+     So turn around.
+},
+{
+    1040.0,1044.0
+     So tell me now how much, how you feel, like headache and the tightness
+},
+{
+    1044.0,1051.0
+     and the muscle spasm that you came with how you feel now and definitely feel like much
+},
+{
+    1051.0,1058.84
+     more relieved I mean this is like just completely gone right here just still
+},
+{
+    1058.84,1067.0
+     feel like a little bit in my jaw but the sense. But what about open and open and close like five times now and see how that feel?
+},
+{
+    1067.0,1075.0
+     It still hurts like but the range of motion is I can't even like...
+},
+{
+    1075.0,1080.0
+     Yeah you were like 28 degrees now you like 40 degrees. Yeah that's good.
+},
+{
+    1080.0,1083.0
+     So what do you think about Aster treatment?
+},
+{
+    1083.0,1084.0
+     That's good.
+},
+{
+    1084.0,1085.6
+     Yeah yeah yeah. Should I do you think about Aster treatment? It's good. Yeah, yeah, yeah.
+},
+{
+    1085.6,1087.4
+     Should I do that kind of stuff?
+},
+{
+    1087.4,1089.8
+     We'll talk about what we're going to do at home.
+},
+{
+    1089.8,1090.8
+     Okay.
+},
+{
+    1090.8,1092.3
+     Yeah, yeah, awesome. Thank you so much.
+},
+{
+    1092.3,1093.3
+     Thank you.
+},
+{
+    1093.3,1094.3
+     Thank you.
+},
+{
+    1094.3,1095.3
+     Thank you.
+},
+{
+    1095.3,1096.3
+     Thank you.
+},
+{
+    1096.3,1097.3
+     Thank you.
+},

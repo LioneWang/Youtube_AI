@@ -1,0 +1,288 @@
+{
+    0.0,7.0
+     Hi I'm Bob Schrupp physical therapist Brad Heineck physical therapist and together we have the most famous physical therapists on the internet
+},
+{
+    7.0,9.0
+     In our opinion of course Bob
+},
+{
+    9.0,13.0
+     Okay Brad today we're going to talk about that thing you just threw on the ground which is a night's splint
+},
+{
+    13.0,19.0
+     And actually this could be a very helpful device for a couple of problems that you may be having
+},
+{
+    19.0,23.0
+     One is plantar fasciitis
+},
+{
+    23.0,26.04
+     Oh you want me to say plantar fasciitis? Another one would be
+},
+{
+    26.04,30.88
+     maybe if you have any trouble with your heel cord. Yep heel cord or the calf muscle.
+},
+{
+    30.88,37.6
+     Achilles tendon or the calf muscle, tendocalcaneus. Sure. I'm gonna say some
+},
+{
+    37.6,45.52
+     professional verbiage. Okay what do we got going here Brad? Okay, you're gonna want to use this if
+},
+{
+    45.52,51.92
+     here are the symptoms you have pain in your foot, around your ankle, in your
+},
+{
+    51.92,56.32
+     calf, when you get out of bed and the first thing you do when you put weight on
+},
+{
+    56.32,61.12
+     there is you go, ow, and it hurts and after you walk around for a while it
+},
+{
+    61.12,69.36
+     becomes less and less painful and you can start to walk normal but it's very it's very specific when you first put weight on that foot
+},
+{
+    69.36,75.96
+     it is very uncomfortable shockingly right okay if that's your symptoms then
+},
+{
+    75.96,80.44
+     you're gonna be helped with one of these devices okay now I'll let you lay down
+},
+{
+    80.44,89.52
+     about here put your foot on just a foot So what happens is when you sleep, I don't normally wear a white sock. I just want to, I wore a white sock
+},
+{
+    89.52,95.2
+     just for you today Brad. No Bob, he's a geek really. He wears them all the time. Okay, when you sleep
+},
+{
+    95.2,100.72
+     the foot planter flexes or points down like this typically, okay. The tissues from here,
+},
+{
+    101.44,105.76
+     let's rotate this way Bob, just imagine the tissues from here are all
+},
+{
+    105.76,109.4
+     connected to the heel and all the way up to the bottom of the knee and they really
+},
+{
+    109.4,115.76
+     are just that you know there's okay so we've got the calf muscle to the Achilles tendon
+},
+{
+    115.76,119.8
+     to the heel, the heel to the plantar fasciitis to the toes and all of that so
+},
+{
+    119.8,123.64
+     what happens is over the nighttime if these are injured in such a way they
+},
+{
+    123.64,128.88
+     will tighten up and heal during the nighttime. So in the morning they've tightened up and
+},
+{
+    128.88,133.68
+     your foot wants to stay plantar flexor pointed down and when you stand on it all
+},
+{
+    133.68,138.48
+     this goes up quickly and all those sore muscles and tender tissues get
+},
+{
+    138.48,143.76
+     stretching a big hurry which causes a lot of pain. Well I think it can maybe even
+},
+{
+    143.76,147.68
+     re-tear and if you're getting some I think it can maybe even re-tear. And if you're getting some healing going on,
+},
+{
+    147.68,148.96
+     it may even re-tear.
+},
+{
+    148.96,150.88
+     And also you have to start the healing process
+},
+{
+    150.88,151.72
+     all over again.
+},
+{
+    151.72,155.4
+     So it creates a chronic problem which goes on forever.
+},
+{
+    155.4,157.48
+     So what you wanna do is when you sleep,
+},
+{
+    157.48,160.32
+     is hold your foot up in a neutral position.
+},
+{
+    160.32,161.8
+     And that's gonna be pretty hard to do.
+},
+{
+    161.8,163.32
+     If you think about that when you're sleeping,
+},
+{
+    163.32,164.44
+     you're really good.
+},
+{
+    164.44,168.84
+     So what you need is a neck splint and neutral position is basically a right angle
+},
+{
+    169.08,171.76
+     This and this forms a right angle
+},
+{
+    171.76,176.94
+     Okay, the normal position like that this will hold it up like that, right?
+},
+{
+    177.36,178.44
+     Okay
+},
+{
+    178.44,184.32
+     Now this is no kidding if you don't have a night splint and you don't want to spend the money have the money
+},
+{
+    184.32,190.46
+     I had a doctor that I work with and he did this he took a pair of high-top tennis shoes
+},
+{
+    190.46,195.02
+     And he wore them to bed at night because it's kept his feet in that 90 degree position and it works
+},
+{
+    195.72,200.64
+     This these work a little bit better. They're a little more comfortable. I used to do that
+},
+{
+    200.64,203.64
+     We actually with some of our stroke patients even. Oh really?
+},
+{
+    203.64,206.0
+     I didn't wear the the high top tennis shoes.
+},
+{
+    206.0,207.0
+     Sure.
+},
+{
+    207.0,210.0
+     I'm not going to tighten this up on Bob just because I don't want to take the time for the video,
+},
+{
+    210.0,216.0
+     but the straps go across, get in the heel down in, okay, and then you can adjust a lot of these,
+},
+{
+    216.0,221.0
+     on the better ones, you can adjust the amount of dorsiflexion or where you put the foot,
+},
+{
+    221.0,225.0
+     okay, and that's what these Velcro straps are here for.
+},
+{
+    225.0,230.84
+     Obviously I would probably put it as tight as it's still comfortable. I can sleep with it,
+},
+{
+    230.84,234.64
+     but I want to put as much stretch on it as I can tolerate. What did you say Brad?
+},
+{
+    234.64,238.52
+     But yeah again it's got to be comfortable. It's got to be comfortable because you can't sleep
+},
+{
+    238.52,242.96
+     otherwise. Exactly you should be able to sleep. Because I actually feel a little bit of stretch
+},
+{
+    242.96,246.64
+     on my calf right here just with this being on I
+},
+{
+    246.64,249.66
+     Think I can sleep with this but it I mean I feel it
+},
+{
+    250.16,256.32
+     Yeah, it's and if it is you can loosen it up a little right because I mean you might find out like I just can't sleep
+},
+{
+    256.32,260.7
+     It's stretching too much and go ahead you can do this over the period of several nights
+},
+{
+    260.7,268.76
+     Right where you try to incrementally bring it up sure and further and you will find a difference, a difference when you get out of bed
+},
+{
+    268.76,273.52
+     without this and then the next night with it is going to be much less pain
+},
+{
+    273.52,277.92
+     when you stand behind. And optimally hopefully what's going to happen eventually
+},
+{
+    277.92,282.96
+     is that it'll help it heal quicker. You're not going in that cycle of
+},
+{
+    282.96,288.06
+     breaking over open the scar tissue and having to restart the healing process
+},
+{
+    288.06,290.48
+     Now there's one thing as a therapist
+},
+{
+    290.48,297.08
+     I know I cause problems between spalous allanes, you know if you put one of these on they kick the person next to you and that
+},
+{
+    297.08,303.56
+     It can cause arguments, we do not want to have none of that going on as a result of our suggestions
+},
+{
+    303.56,315.0
+     But even though you really should subscribe to us because we're going to continue to give you wonderful advice like this to help your body pain-free, keep your mobile active, happy, run more, have more fun.
+},
+{
+    315.0,321.0
+     Did I miss you? We're like mechanics for the body, to help you get your body back in top running order.
+},
+{
+    321.0,324.0
+     So we're going to right down here or is it up there Bob? Somewhere. Somewhere behind it.
+},
+{
+    324.0,329.0
+     Subscribe, click on it. Stop it baby. Okay thanks.
+},

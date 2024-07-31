@@ -1,0 +1,236 @@
+{
+    0.0,6.28
+     Hi, I'm Dr. Adam Fields. Welcome to your day two evening session of 360 breathing.
+},
+{
+    6.28,12.36
+     It's time to go from multitasking to monotasking. Letting it all go. The only
+},
+{
+    12.36,17.32
+     task you're gonna have to do here is breathe. So go ahead, get yourself a nice
+},
+{
+    17.32,23.04
+     comfortable spot, either sitting or even lying down is great. And let's start
+},
+{
+    23.04,26.48
+     breathing. Yesterday we did abdominal breathing,
+},
+{
+    26.48,28.08
+     today we did lateral breathing,
+},
+{
+    28.08,29.96
+     we're gonna integrate the two right now,
+},
+{
+    29.96,33.4
+     and we're actually gonna go for a four second in,
+},
+{
+    33.4,36.2
+     eight second out cadence.
+},
+{
+    36.2,37.68
+     Don't be too concerned about it,
+},
+{
+    37.68,40.24
+     I just want a little quicker on the inhale
+},
+{
+    40.24,42.32
+     than we have on the exhale.
+},
+{
+    42.32,44.72
+     So let's go ahead, exhale all your air out,
+},
+{
+    44.72,46.56
+     put one hand on the top, one hand on the bottom,
+},
+{
+    46.56,47.52
+     and breathe in.
+},
+{
+    47.52,50.8
+     And exhale.
+},
+{
+    50.8,57.76
+     And inhale.
+},
+{
+    61.76,62.56
+     And exhale.
+},
+{
+    68.4,70.44
+     And exhale. Nice and relaxed.
+},
+{
+    70.44,72.08
+     Inhaling.
+},
+{
+    72.08,75.12
+     Exhaling.
+},
+{
+    75.12,81.48
+     Keep going on your own.
+},
+{
+    81.48,83.48
+     Inhaling.
+},
+{
+    83.48,85.0
+     Exhaling.
+},
+{
+    88.0,95.0
+     Exhaling. Good. Almost like an ocean. Just seeing that tide coming in over the sand, breathing in.
+},
+{
+    96.0,100.0
+     And out back to the ocean, breathing out.
+},
+{
+    102.0,109.84
+     Ocean coming in, breathing in.
+},
+{
+    109.84,117.04
+     Ocean going out, breathing out.
+},
+{
+    117.04,121.96
+     Breathing in.
+},
+{
+    121.96,126.9
+     Breathing out, letting it go.
+},
+{
+    126.9,133.88
+     Really superimpose that ocean into your body, into your lungs, seeing it filtering into
+},
+{
+    133.88,172.6
+     you. Get rid of that stagnant air out of your lungs.
+},
+{
+    172.6,207.0
+     Keep it going. Present moment. Goodbye stale air.
+},
+{
+    211.0,219.0
+     In through the nostrils.
+},
+{
+    223.0,225.36
+     Bring it in. Smooth transition.
+},
+{
+    231.2,236.64
+     All the way in for three, two, one, exhale.
+},
+{
+    244.28,250.4
+     Bring it in. Detox those lungs.
+},
+{
+    250.4,257.52
+     Nurturing breath.
+},
+{
+    257.52,262.04
+     Bring it out.
+},
+{
+    262.04,267.04
+     Relax the body.
+},
+{
+    270.8,271.52
+     On your own, inhale.
+},
+{
+    275.48,279.56
+     Beautiful, letting it go.
+},
+{
+    283.52,285.2
+     Goodbye, cortisol. Inhale. Hello melaton.
+},
+{
+    291.2,297.04
+     Bring it in for four. Three, two, one. Let it go.
+},
+{
+    304.7,315.5
+     You're doing great. Bring it in for four, three, two, one.
+},
+{
+    315.5,317.06
+     Time for recovery.
+},
+{
+    317.06,321.7
+     Big breath in.
+},
+{
+    321.7,328.18
+     All body systems.
+},
+{
+    328.18,332.48
+     Big breath in.
+},
+{
+    332.48,345.68
+     Blood pressure going down. Bring it on in.
+},
+{
+    345.68,351.84
+     Letting it go.
+},
+{
+    351.84,356.4
+     You're doing great.
+},
+{
+    356.4,358.4
+     Letting it go.
+},
+{
+    358.4,364.32
+     Letting that body go.
+},
+{
+    364.32,370.08
+     Return now to the natural measure of your breath and just bask in what that gave you.
+},
+{
+    370.08,377.68
+     That breath just nurtured your body, massaged your cells, detoxified, down-regulated your
+},
+{
+    377.68,379.2
+     nervous system.
+},
+{
+    379.2,382.28
+     How wonderful it is to be with you here.
+},
+{
+    382.28,388.0
+     I look forward to seeing you tomorrow morning for day three of your 360 breathing.
+},
